@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 9/12</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #ddd6c8;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: 816px;
+    margin: 24px auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .meta span::before { content: ""; }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+  }
+  .pos {
+    margin-left: auto;
+    font-size: 11px;
+    padding: 3px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .ex {
+    margin-top: 2px;
+  }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×10 · 词义 / 词根 / 词源 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.09.12</span>
+      <span>火</span>
+      <span>避开 9/11 词表</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">submit</span>
+        <span class="ipa">/səbˈmɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">提交；呈递</div>
+        <div class="label">词根</div><div>sub-（在下）+ mit（送）→ 往上送交</div>
+        <div class="label">词源</div><div>拉丁 submittere，原「放下、屈服」，后引申为呈交文件</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">submit an application</span>
+          <span class="chip">submit a report</span>
+          <span class="chip">submit by Friday</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please submit your timesheet before noon.</en>
+          <zh>请在中午前提交工时表。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">approve</span>
+        <span class="ipa">/əˈpruːv/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">批准；同意</div>
+        <div class="label">词根</div><div>ap-（向）+ prove（证明）→ 认可为合格</div>
+        <div class="label">词源</div><div>拉丁 approbare，「认为好、赞成」</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">approve a proposal</span>
+          <span class="chip">get approved</span>
+          <span class="chip">approve the budget</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The manager approved the travel request yesterday.</en>
+          <zh>经理昨天批准了出差申请。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">budget</span>
+        <span class="ipa">/ˈbʌdʒɪt/</span>
+        <span class="pos">n. / v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">预算；做预算</div>
+        <div class="label">词根</div><div>无常用可拆词根（法语 bougette「小皮包」）</div>
+        <div class="label">词源</div><div>原指装钱小袋，后引申为计划内的开支总额</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">annual budget</span>
+          <span class="chip">under budget</span>
+          <span class="chip">budget constraints</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We need to stay within the marketing budget this quarter.</en>
+          <zh>本季度市场营销开支需控制在预算内。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">shipment</span>
+        <span class="ipa">/ˈʃɪpmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">货运；一批货物</div>
+        <div class="label">词根</div><div>ship（运送）+ -ment → 运送之物/行为</div>
+        <div class="label">词源</div><div>由 ship 加名词后缀；托业常指出货批次</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">delay a shipment</span>
+          <span class="chip">track a shipment</span>
+          <span class="chip">shipment arrives</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The shipment of office supplies will arrive on Monday.</en>
+          <zh>这批办公用品将于周一到货。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">inquiry</span>
+        <span class="ipa">/ɪnˈkwaɪəri/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">询问；查询（英 enquiry）</div>
+        <div class="label">词根</div><div>in- + quir（寻求）+ -y → 深入打听</div>
+        <div class="label">词源</div><div>与 inquire 同源，拉丁 inquirere「探问」</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">make an inquiry</span>
+          <span class="chip">customer inquiry</span>
+          <span class="chip">product inquiry</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We received several inquiries about the new software.</en>
+          <zh>我们收到多起关于新软件的咨询。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">refund</span>
+        <span class="ipa">/ˈriːfʌnd/ · /rɪˈfʌnd/</span>
+        <span class="pos">n. / v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">退款；退还（钱）</div>
+        <div class="label">词根</div><div>re-（回）+ fund（钱款）→ 把钱退回</div>
+        <div class="label">词源</div><div>拉丁 refundere「倒回」，后专指退钱</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">request a refund</span>
+          <span class="chip">full refund</span>
+          <span class="chip">process a refund</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Customers may request a refund within 30 days.</en>
+          <zh>顾客可在 30 天内申请退款。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">overtime</span>
+        <span class="ipa">/ˈəʊvərtaɪm/</span>
+        <span class="pos">n. / adv.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">加班（时间）；加班地</div>
+        <div class="label">词根</div><div>over-（超过）+ time → 超出正常工时</div>
+        <div class="label">词源</div><div>合成词「超时」；HR / 排班题高频</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">work overtime</span>
+          <span class="chip">paid overtime</span>
+          <span class="chip">overtime pay</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Staff will be paid overtime for weekend shifts.</en>
+          <zh>周末班次员工可拿加班费。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">brochure</span>
+        <span class="ipa">/brəʊˈʃʊr/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">宣传册；小册子</div>
+        <div class="label">词根</div><div>无常用英语词根（借自法语）</div>
+        <div class="label">词源</div><div>法语 brochure，原「缝订小本」，现多指产品/旅游宣传册</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">product brochure</span>
+          <span class="chip">color brochure</span>
+          <span class="chip">pick up a brochure</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Take a brochure from the reception desk for hotel details.</en>
+          <zh>可在前台取一份宣传册了解酒店信息。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">inventory</span>
+        <span class="ipa">/ˈɪnvənˌtɔːri/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">库存；存货清单</div>
+        <div class="label">词根</div><div>in- + vent（来）+ -ory → 盘点到场物品</div>
+        <div class="label">词源</div><div>拉丁 inventarium「发现物清单」</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">take inventory</span>
+          <span class="chip">inventory shortage</span>
+          <span class="chip">update inventory</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The warehouse will take inventory next Friday.</en>
+          <zh>仓库下周五将盘点库存。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">reservation</span>
+        <span class="ipa">/ˌrezərˈveɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">预订；预约</div>
+        <div class="label">词根</div><div>re- + serv（保留）+ -ation → 预先留住</div>
+        <div class="label">词源</div><div>与 reserve 同源：提前占住位子/房间</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">make a reservation</span>
+          <span class="chip">cancel a reservation</span>
+          <span class="chip">hotel reservation</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>I'd like to make a reservation for three under the name Lee.</en>
+          <zh>我想以 Lee 的名字预订三人桌/房间。</zh>
+        </div>
+      </div>
+    </article>
+
+    <p class="footer">今天是托业日，先过考；这 10 个词考后扫一眼也行。</p>
+  </div>
+</div>
+</body>
+</html>
