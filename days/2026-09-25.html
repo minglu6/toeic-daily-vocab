@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 9/20 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.09.25</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">occupy</span>
+        <span class="ipa">/ˈɑːkjupaɪ/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">占用；占据（职位/空间）；使忙碌</div>
+        <div class="label">词根</div><div>oc-（向）+ cupy（抓取）→ 抓住并占有</div>
+        <div class="label">词源</div><div>拉丁 occupare「占据、占有」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公/地产：occupy a position；the office occupies two floors</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">occupy a position</span><span class="chip">occupy space</span><span class="chip">fully occupied</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>She will occupy the regional manager position starting next month.</en>
+          <zh>她将从下个月起担任区域经理一职。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">omit</span>
+        <span class="ipa">/əˈmɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">省略；遗漏；删除</div>
+        <div class="label">词根</div><div>o-（离）+ mit（送）→ 送走/略去不提</div>
+        <div class="label">词源</div><div>拉丁 omittere「放过、省略」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">文件/报告：omit details；omit from the list</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">omit details</span><span class="chip">omit from</span><span class="chip">accidentally omit</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please do not omit any contact details from the registration form.</en>
+          <zh>请勿在登记表中遗漏任何联系方式。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">operate</span>
+        <span class="ipa">/ˈɑːpəreɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">运营；操作；运转</div>
+        <div class="label">词根</div><div>oper（工作）+ -ate → 使运转/运作</div>
+        <div class="label">词源</div><div>拉丁 operari「工作、操作」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公司运营：operate a business；operate in multiple markets</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">operate a business</span><span class="chip">operate machinery</span><span class="chip">operate in</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The firm plans to operate distribution centers in three cities.</en>
+          <zh>该公司计划在三个城市运营配送中心。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">opportunity</span>
+        <span class="ipa">/ˌɑːpərˈtuːnəti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">机会；时机</div>
+        <div class="label">词根</div><div>opportun（适宜）+ -ity → 适宜的时机</div>
+        <div class="label">词源</div><div>拉丁 opportunitas「便利、时机」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">职场高频：career opportunity；seize the opportunity</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">career opportunity</span><span class="chip">seize the opportunity</span><span class="chip">equal opportunity</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>This internship is an excellent opportunity to gain industry experience.</en>
+          <zh>这份实习是获得行业经验的绝佳机会。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">option</span>
+        <span class="ipa">/ˈɑːpʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">选项；选择权；期权</div>
+        <div class="label">词根</div><div>opt（选择）+ -ion → 可供选择的项目</div>
+        <div class="label">词源</div><div>拉丁 optio「选择、选择权」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务：flexible options；have the option to renew</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">flexible options</span><span class="chip">have the option</span><span class="chip">stock option</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Employees have the option to work from home two days a week.</en>
+          <zh>员工可以选择每周在家办公两天。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">organize</span>
+        <span class="ipa">/ˈɔːrɡənaɪz/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">组织；安排；筹办</div>
+        <div class="label">词根</div><div>organ（器官/机构）+ -ize → 使形成有序结构</div>
+        <div class="label">词源</div><div>希腊 organon「工具」经拉丁/法语进入英语</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/活动：organize a conference；organize the files</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">organize a meeting</span><span class="chip">organize files</span><span class="chip">well organized</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>HR will organize a welcome session for new hires on Monday.</en>
+          <zh>人力资源部将在周一为新员工组织迎新会。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">outline</span>
+        <span class="ipa">/ˈaʊtlaɪn/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">大纲；概要；概述</div>
+        <div class="label">词根</div><div>out（外）+ line（线）→ 勾勒外部轮廓</div>
+        <div class="label">词源</div><div>英语复合词；表「轮廓、提纲」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">报告/提案：outline the plan；provide a brief outline</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">outline the plan</span><span class="chip">brief outline</span><span class="chip">project outline</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please outline the main risks before we approve the budget.</en>
+          <zh>在我们批准预算之前，请概述主要风险。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">overcome</span>
+        <span class="ipa">/ˌoʊvərˈkʌm/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">克服；战胜（困难）</div>
+        <div class="label">词根</div><div>over（越过）+ come（来）→ 越过障碍而来</div>
+        <div class="label">词源</div><div>古英语 ofercuman「战胜、征服」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">职场挑战：overcome difficulties；overcome objections</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">overcome difficulties</span><span class="chip">overcome challenges</span><span class="chip">overcome obstacles</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The team worked hard to overcome supply shortages last quarter.</en>
+          <zh>团队上个季度努力克服了供应短缺问题。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">overlook</span>
+        <span class="ipa">/ˌoʊvərˈlʊk/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">忽略；overlook（俯瞰）；宽恕小错</div>
+        <div class="label">词根</div><div>over（在上）+ look（看）→ 从上往下看/看漏</div>
+        <div class="label">词源</div><div>中古英语；「俯视」引申为「未注意到」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">易错：overlook an error；do not overlook the deadline</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">overlook an error</span><span class="chip">overlook details</span><span class="chip">easily overlook</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please review the contract carefully so we do not overlook any clauses.</en>
+          <zh>请仔细审阅合同，以免遗漏任何条款。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">overseas</span>
+        <span class="ipa">/ˌoʊvərˈsiːz/</span>
+        <span class="pos">adj./adv.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">海外的；在国外</div>
+        <div class="label">词根</div><div>over（越过）+ seas（海）→ 越过海洋的</div>
+        <div class="label">词源</div><div>英语复合词；商业中指国外市场/差旅</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅/市场：overseas market；travel overseas</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">overseas market</span><span class="chip">overseas trip</span><span class="chip">work overseas</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Our overseas sales grew by 12 percent this year.</en>
+          <zh>我们的海外销售额今年增长了百分之十二。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">package</span>
+        <span class="ipa">/ˈpækɪdʒ/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">包裹；套餐；包装</div>
+        <div class="label">词根</div><div>pack（打包）+ -age → 打成包的东西/一套</div>
+        <div class="label">词源</div><div>中古英语；现代可指产品套餐或邮包</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">物流/营销：shipping package；benefit package；package deal</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">benefit package</span><span class="chip">package deal</span><span class="chip">shipping package</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The new hire received a competitive compensation package.</en>
+          <zh>这位新员工获得了有竞争力的薪酬福利套餐。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">patent</span>
+        <span class="ipa">/ˈpætnt/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">专利；取得专利</div>
+        <div class="label">词根</div><div>pat（打开）+ -ent → 公开的文件/特权</div>
+        <div class="label">词源</div><div>拉丁 patere「公开」；经法语 patent「公开文件」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">法务/研发：apply for a patent；patent protection</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">apply for a patent</span><span class="chip">patent protection</span><span class="chip">patent application</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company filed a patent for its new battery technology.</en>
+          <zh>该公司为其新电池技术申请了专利。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">penalty</span>
+        <span class="ipa">/ˈpenəlti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">罚款；处罚；违约金</div>
+        <div class="label">词根</div><div>penal（刑罚）+ -ty → 惩罚的结果</div>
+        <div class="label">词源</div><div>拉丁 poena「惩罚」衍生</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/财务：late-payment penalty；impose a penalty</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">late-payment penalty</span><span class="chip">impose a penalty</span><span class="chip">penalty fee</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>A late-payment penalty will be charged after the due date.</en>
+          <zh>逾期后将收取滞纳金。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">perform</span>
+        <span class="ipa">/pərˈfɔːrm/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">执行；履行；表现</div>
+        <div class="label">词根</div><div>per-（完全）+ form（形式）→ 把形式完全做完</div>
+        <div class="label">词源</div><div>古法语 parfournir「完成、履行」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">工作表现：perform well；perform duties；performance review</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">perform well</span><span class="chip">perform duties</span><span class="chip">perform a task</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>All staff must perform their duties according to company policy.</en>
+          <zh>所有员工必须按照公司政策履行职责。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">permanent</span>
+        <span class="ipa">/ˈpɜːrmənənt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">永久的；长期的；固定的</div>
+        <div class="label">词根</div><div>per-（贯穿）+ man（停留）+ -ent → 一直停留的</div>
+        <div class="label">词源</div><div>拉丁 permanens「持续存在的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR：permanent position；permanent employee（相对 temporary）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">permanent position</span><span class="chip">permanent employee</span><span class="chip">permanent address</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>After six months, the temporary role may become a permanent position.</en>
+          <zh>六个月后，这个临时岗位可能转为正式职位。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">permit</span>
+        <span class="ipa">/pərˈmɪt/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">允许；许可证</div>
+        <div class="label">词根</div><div>per-（通过）+ mit（送）→ 放行通过</div>
+        <div class="label">词源</div><div>拉丁 permittere「允许、准许」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">行政/合规：work permit；permit employees to；building permit</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">work permit</span><span class="chip">building permit</span><span class="chip">permit access</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Foreign specialists need a work permit before starting the project.</en>
+          <zh>外籍专家在开始项目前需要工作许可证。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">persistent</span>
+        <span class="ipa">/pərˈsɪstənt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">持续的；坚持不懈的；顽固的</div>
+        <div class="label">词根</div><div>per-（始终）+ sist（站立）+ -ent → 一直站着不退</div>
+        <div class="label">词源</div><div>拉丁 persistere「坚持、持续」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">问题/态度：persistent problem；persistent effort</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">persistent problem</span><span class="chip">persistent effort</span><span class="chip">persistent complaints</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Despite persistent delays, the supplier kept customers informed.</en>
+          <zh>尽管延误持续不断，供应商仍保持向客户通报情况。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">phase</span>
+        <span class="ipa">/feɪz/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">阶段；时期；分阶段进行</div>
+        <div class="label">词根</div><div>无（源自希腊 phasis「出现」）</div>
+        <div class="label">词源</div><div>希腊 phasis「显现、阶段」；经拉丁/法语入英</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">项目进度：initial phase；phase out；in the final phase</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">initial phase</span><span class="chip">phase out</span><span class="chip">next phase</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The renovation will enter its final phase next week.</en>
+          <zh>翻新工程将于下周进入最后阶段。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">policy</span>
+        <span class="ipa">/ˈpɑːləsi/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">政策；方针；保险单</div>
+        <div class="label">词根</div><div>polit（城邦/治理）相关 → 治理准则</div>
+        <div class="label">词源</div><div>希腊 politeia「公民管理」经法语 policie</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公司规章：company policy；privacy policy；insurance policy</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">company policy</span><span class="chip">privacy policy</span><span class="chip">change in policy</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>According to company policy, all visitors must register at the front desk.</en>
+          <zh>根据公司政策，所有访客必须在前台登记。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">portfolio</span>
+        <span class="ipa">/pɔːrtˈfoʊlioʊ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">投资组合；作品集；公文包</div>
+        <div class="label">词根</div><div>port（携带）+ folio（页）→ 可携带的文件册</div>
+        <div class="label">词源</div><div>意大利语 portafoglio「钱包、文件夹」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">金融/设计：investment portfolio；product portfolio</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">investment portfolio</span><span class="chip">product portfolio</span><span class="chip">client portfolio</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The manager reviewed the client's investment portfolio carefully.</en>
+          <zh>经理仔细审阅了客户的投资组合。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">potential</span>
+        <span class="ipa">/pəˈtenʃl/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">潜力；潜在的；可能的</div>
+        <div class="label">词根</div><div>poten（有力）+ -tial → 有力量但尚未发挥的</div>
+        <div class="label">词源</div><div>拉丁 potentialis「有能力的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">招聘/销售：potential customer；show great potential</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">potential customer</span><span class="chip">growth potential</span><span class="chip">potential risk</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We identified several potential customers at the trade fair.</en>
+          <zh>我们在交易会上发现了几位潜在客户。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">preliminary</span>
+        <span class="ipa">/prɪˈlɪmɪneri/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">初步的；预备的</div>
+        <div class="label">词根</div><div>pre-（前）+ limin（门槛）+ -ary → 跨门槛前的</div>
+        <div class="label">词源</div><div>拉丁 praeliminaris「门槛之前的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/报告：preliminary results；preliminary meeting</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">preliminary results</span><span class="chip">preliminary meeting</span><span class="chip">preliminary report</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The team shared preliminary results before the final audit.</en>
+          <zh>团队在最终审计前分享了初步结果。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">premium</span>
+        <span class="ipa">/ˈpriːmiəm/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">保险费；溢价；优质的</div>
+        <div class="label">词根</div><div>pre-（前）+ em（拿）→ 预先支付/额外所得</div>
+        <div class="label">词源</div><div>拉丁 praemium「奖励、报酬」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">保险/定价：insurance premium；premium service；at a premium</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">insurance premium</span><span class="chip">premium service</span><span class="chip">pay a premium</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The annual insurance premium must be paid by March 31.</en>
+          <zh>年度保险费须在3月31日前缴清。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">previous</span>
+        <span class="ipa">/ˈpriːviəs/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">以前的；先前的</div>
+        <div class="label">词根</div><div>pre-（前）+ vi（路）+ -ous → 走在前面的</div>
+        <div class="label">词源</div><div>拉丁 praevius「走在前面的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">简历/对比：previous experience；previous quarter</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">previous experience</span><span class="chip">previous quarter</span><span class="chip">previous employer</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Her previous experience in logistics made her a strong candidate.</en>
+          <zh>她以往的物流经验使她成为有力的候选人。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">priority</span>
+        <span class="ipa">/praɪˈɔːrəti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">优先事项；优先权</div>
+        <div class="label">词根</div><div>prior（在先）+ -ity → 排在前面的事</div>
+        <div class="label">词源</div><div>拉丁 prior「更早的、在先的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">管理高频：top priority；give priority to；set priorities</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">top priority</span><span class="chip">give priority to</span><span class="chip">set priorities</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Customer satisfaction remains our top priority this year.</en>
+          <zh>客户满意度仍是我们今年的首要任务。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">procedure</span>
+        <span class="ipa">/prəˈsiːdʒər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">程序；手续；步骤</div>
+        <div class="label">词根</div><div>pro-（向前）+ ced（走）+ -ure → 向前推进的步骤</div>
+        <div class="label">词源</div><div>拉丁 procedere「前进」衍生 procedure</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公合规：follow the procedure；safety procedure；application procedure</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">follow the procedure</span><span class="chip">safety procedure</span><span class="chip">standard procedure</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please follow the standard procedure when submitting expense claims.</en>
+          <zh>提交报销时请遵循标准程序。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">proficient</span>
+        <span class="ipa">/prəˈfɪʃnt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">熟练的；精通的</div>
+        <div class="label">词根</div><div>pro-（向前）+ fic（做）+ -ent → 做得向前/精通</div>
+        <div class="label">词源</div><div>拉丁 proficiens「进步中的、熟练的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">招聘：proficient in English；computer-proficient</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">proficient in</span><span class="chip">highly proficient</span><span class="chip">become proficient</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Candidates must be proficient in spreadsheet software.</en>
+          <zh>应聘者必须熟练使用电子表格软件。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">profit</span>
+        <span class="ipa">/ˈprɑːfɪt/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">利润；盈利；获益</div>
+        <div class="label">词根</div><div>pro-（向前）+ fit（做）→ 做出来的收益</div>
+        <div class="label">词源</div><div>拉丁 profectus「进步、收益」经法语 profit</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务核心：make a profit；net profit；profit margin</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">make a profit</span><span class="chip">net profit</span><span class="chip">profit from</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The store expects to make a profit in the fourth quarter.</en>
+          <zh>该门店预计在第四季度实现盈利。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">prompt</span>
+        <span class="ipa">/prɑːmpt/</span>
+        <span class="pos">adj./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">迅速的；及时的；促使</div>
+        <div class="label">词根</div><div>无（源自拉丁 promptus「准备好的」）</div>
+        <div class="label">词源</div><div>拉丁 promptus「准备就绪的、敏捷的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">客户服务：prompt reply；prompt action；prompt payment</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">prompt reply</span><span class="chip">prompt action</span><span class="chip">prompt payment</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We appreciate your prompt reply to our customer survey.</en>
+          <zh>感谢您对我们客户调查的及时回复。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">prospect</span>
+        <span class="ipa">/ˈprɑːspekt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">前景；可能性；潜在客户</div>
+        <div class="label">词根</div><div>pro-（向前）+ spect（看）→ 向前看的光景</div>
+        <div class="label">词源</div><div>拉丁 prospectus「眺望、前景」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">销售/职涯：sales prospect；job prospects；bright prospect</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">sales prospect</span><span class="chip">job prospects</span><span class="chip">bright prospects</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The sales team contacted several new prospects this morning.</en>
+          <zh>销售团队今天上午联系了几位新的潜在客户。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
