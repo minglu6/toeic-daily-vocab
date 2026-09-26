@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 9/20 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.09.26</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">provide</span>
+        <span class="ipa">/prəˈvaɪd/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">提供；供给；规定</div>
+        <div class="label">词根</div><div>pro-（向前）+ vide（看）→ 预先备好并提供</div>
+        <div class="label">词源</div><div>拉丁 providere「预先看到、预备」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务高频：provide someone with something；provide a service</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">provide with</span><span class="chip">provide a service</span><span class="chip">provide information</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company will provide all new staff with laptops and training.</en>
+          <zh>公司将为所有新员工提供笔记本电脑和培训。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">provision</span>
+        <span class="ipa">/prəˈvɪʒn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">供应；条款；预备</div>
+        <div class="label">词根</div><div>pro-（向前）+ vis（看）+ -ion → 预先安排的供应/条款</div>
+        <div class="label">词源</div><div>拉丁 provisio「预见、预备」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同：a provision in the contract；make provision for</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">contract provision</span><span class="chip">make provision for</span><span class="chip">legal provision</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The lease includes a provision that allows early termination.</en>
+          <zh>租约包含允许提前终止的条款。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">purchase</span>
+        <span class="ipa">/ˈpɜːrtʃəs/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">购买；采购；购得物</div>
+        <div class="label">词根</div><div>pur-（为）+ chase（追逐）→ 追求并买下</div>
+        <div class="label">词源</div><div>古法语 pourchacier「追求、获得」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">采购：purchase order；make a purchase；purchase from</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">purchase order</span><span class="chip">make a purchase</span><span class="chip">online purchase</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please submit a purchase order before ordering office supplies.</en>
+          <zh>订购办公用品前请提交采购单。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">pursue</span>
+        <span class="ipa">/pərˈsuː/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">追求；从事；继续追查</div>
+        <div class="label">词根</div><div>pur-（向前）+ sue（跟随）→ 紧追不放</div>
+        <div class="label">词源</div><div>古法语 pursuer「追赶」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">职业发展：pursue a career；pursue opportunities</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">pursue a career</span><span class="chip">pursue a goal</span><span class="chip">pursue opportunities</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>She decided to pursue a career in international marketing.</en>
+          <zh>她决定从事国际营销方面的职业。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">qualify</span>
+        <span class="ipa">/ˈkwɑːlɪfaɪ/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">使具备资格；限定；取得资格</div>
+        <div class="label">词根</div><div>qual（性质）+ -ify → 使达到某种标准</div>
+        <div class="label">词源</div><div>拉丁 qualis「什么样的」经法语 qualifier</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/考试：qualify for a position；qualify as an accountant</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">qualify for</span><span class="chip">qualify as</span><span class="chip">highly qualified</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Candidates must qualify for the role by passing the certification exam.</en>
+          <zh>应聘者须通过认证考试才有资格担任该职位。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">quality</span>
+        <span class="ipa">/ˈkwɑːləti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">质量；品质；特性</div>
+        <div class="label">词根</div><div>qual（性质）+ -ity → 事物的性质/优劣程度</div>
+        <div class="label">词源</div><div>拉丁 qualitas「性质、品质」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">质检/客服：quality control；high-quality products</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">quality control</span><span class="chip">high quality</span><span class="chip">improve quality</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Our factory has improved product quality through stricter inspections.</en>
+          <zh>我们的工厂通过更严格的检验提升了产品质量。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">quantity</span>
+        <span class="ipa">/ˈkwɑːntəti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">数量；量</div>
+        <div class="label">词根</div><div>quant（多少）+ -ity → 多少的程度</div>
+        <div class="label">词源</div><div>拉丁 quantitas「数量」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">订单/库存：large quantity；quantity discount；in large quantities</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">large quantity</span><span class="chip">quantity discount</span><span class="chip">limited quantity</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We ordered a large quantity of envelopes for the mailing campaign.</en>
+          <zh>我们为邮寄活动订购了大量信封。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">quarterly</span>
+        <span class="ipa">/ˈkwɔːrtərli/</span>
+        <span class="pos">adj./adv.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">季度的；每季度地</div>
+        <div class="label">词根</div><div>quarter（四分之一/季度）+ -ly → 按季度发生的</div>
+        <div class="label">词源</div><div>拉丁 quartarius「四分之一」；商业指三个月一期</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财报/会议：quarterly report；meet quarterly</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">quarterly report</span><span class="chip">quarterly meeting</span><span class="chip">quarterly sales</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The CFO will present the quarterly report on Friday morning.</en>
+          <zh>财务总监将在周五上午汇报季度报告。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">questionnaire</span>
+        <span class="ipa">/ˌkwestʃəˈner/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">调查问卷；调查表</div>
+        <div class="label">词根</div><div>question（问题）+ -naire → 一组问题的表格</div>
+        <div class="label">词源</div><div>法语 questionnaire「问题清单」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">市场调研：fill out a questionnaire；customer questionnaire</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">fill out a questionnaire</span><span class="chip">customer questionnaire</span><span class="chip">online questionnaire</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please fill out this short questionnaire after the training session.</en>
+          <zh>培训结束后请填写这份简短问卷。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">quote</span>
+        <span class="ipa">/kwoʊt/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">报价；引用；引述</div>
+        <div class="label">词根</div><div>来自拉丁 quotare「标记章节」→ 标出价格/原文</div>
+        <div class="label">词源</div><div>中古英语；商务中常指价格报价</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">采购：request a quote；get a quote for；price quote</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">request a quote</span><span class="chip">price quote</span><span class="chip">quote a price</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Could you please send us a quote for 500 units by tomorrow?</en>
+          <zh>请您明天前给我们发送五百件产品的报价好吗？</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">raise</span>
+        <span class="ipa">/reɪz/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">提高；筹措；加薪</div>
+        <div class="label">词根</div><div>古诺斯语 reisa「使升起」</div>
+        <div class="label">词源</div><div>与 rise 同源；及物动词表「使升高」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/财务：raise salaries；get a raise；raise funds</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">raise salaries</span><span class="chip">get a raise</span><span class="chip">raise funds</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Management decided to raise salaries for customer service staff.</en>
+          <zh>管理层决定提高客服人员的工资。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">range</span>
+        <span class="ipa">/reɪndʒ/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">范围；系列；变化幅度</div>
+        <div class="label">词根</div><div>古法语 range「行、列」→ 排列成的范围</div>
+        <div class="label">词源</div><div>法语 ranger「排列」相关</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">产品/价格：product range；price range；range from A to B</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">product range</span><span class="chip">price range</span><span class="chip">range from</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Our product range now includes eco-friendly packaging options.</en>
+          <zh>我们的产品系列现在包含环保包装选项。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">rank</span>
+        <span class="ipa">/ræŋk/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">等级；排名；列为</div>
+        <div class="label">词根</div><div>古法语 ranc「行列」→ 所处位置/等级</div>
+        <div class="label">词源</div><div>与 range 同源；表「列、等级」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">评价/职级：rank among；high rank；rank first</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">rank among</span><span class="chip">high rank</span><span class="chip">rank first</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The brand ranks among the top three in customer satisfaction.</en>
+          <zh>该品牌在客户满意度方面位列前三。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">rate</span>
+        <span class="ipa">/reɪt/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">比率；费率；评价</div>
+        <div class="label">词根</div><div>拉丁 rata「按比例计算的」</div>
+        <div class="label">词源</div><div>拉丁 pro rata「按比例」相关</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">金融/评价：interest rate；exchange rate；at a high rate</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">interest rate</span><span class="chip">exchange rate</span><span class="chip">hourly rate</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The bank lowered the interest rate on small business loans.</en>
+          <zh>银行下调了小企业贷款的利率。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">ratio</span>
+        <span class="ipa">/ˈreɪʃioʊ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">比率；比例</div>
+        <div class="label">词根</div><div>拉丁 ratio「计算、理性」→ 两数之比</div>
+        <div class="label">词源</div><div>拉丁 ratio「计算、比例」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务：debt-to-equity ratio；price-to-earnings ratio</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">debt ratio</span><span class="chip">staff ratio</span><span class="chip">ratio of</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The debt-to-equity ratio remains within the board's target range.</en>
+          <zh>资产负债比率仍保持在董事会的目标范围内。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">reach</span>
+        <span class="ipa">/riːtʃ/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">到达；达到；影响范围</div>
+        <div class="label">词根</div><div>古英语 ræcan「伸出、触及」</div>
+        <div class="label">词源</div><div>日耳曼语源；商务可指「触及市场」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">目标/市场：reach an agreement；reach customers；within reach</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reach an agreement</span><span class="chip">reach a goal</span><span class="chip">market reach</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>After long talks, both sides finally reached an agreement.</en>
+          <zh>经过长时间谈判，双方终于达成协议。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">recall</span>
+        <span class="ipa">/rɪˈkɔːl/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">召回（产品）；回想；撤销</div>
+        <div class="label">词根</div><div>re-（回）+ call（叫）→ 叫回来</div>
+        <div class="label">词源</div><div>拉丁 re- + 法语 caller；商业指产品召回</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">质量事故：product recall；recall defective goods</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">product recall</span><span class="chip">recall defective items</span><span class="chip">voluntary recall</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The manufacturer issued a recall of the defective chargers.</en>
+          <zh>制造商对有缺陷的充电器发出了召回通知。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">receipt</span>
+        <span class="ipa">/rɪˈsiːt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">收据；收到；接收</div>
+        <div class="label">词根</div><div>re-（回）+ ceipt（拿）→ 收下的凭证</div>
+        <div class="label">词源</div><div>拉丁 recipere「接收」的名词形式</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">报销/物流：keep the receipt；on receipt of；sales receipt</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">keep the receipt</span><span class="chip">on receipt of</span><span class="chip">sales receipt</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please keep the receipt for your travel expense claim.</en>
+          <zh>请保留收据以便报销差旅费。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">receive</span>
+        <span class="ipa">/rɪˈsiːv/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">收到；接待；接受</div>
+        <div class="label">词根</div><div>re-（回）+ ceive（拿）→ 收进来</div>
+        <div class="label">词源</div><div>拉丁 recipere「接收」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">邮件/付款：receive an email；receive payment；receive feedback</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">receive payment</span><span class="chip">receive an email</span><span class="chip">receive feedback</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We expect to receive the shipment by the end of this week.</en>
+          <zh>我们预计本周末前收到这批货物。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">recipient</span>
+        <span class="ipa">/rɪˈsɪpiənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">接收者；收件人；获奖者</div>
+        <div class="label">词根</div><div>re-（回）+ cip（拿）+ -ent → 接收的人</div>
+        <div class="label">词源</div><div>拉丁 recipere「接收」的现在分词</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">邮件/奖项：email recipient；award recipient；list of recipients</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">email recipient</span><span class="chip">award recipient</span><span class="chip">intended recipient</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please confirm that the email recipient list is up to date.</en>
+          <zh>请确认邮件收件人列表是最新的。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">recommend</span>
+        <span class="ipa">/ˌrekəˈmend/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">推荐；建议</div>
+        <div class="label">词根</div><div>re-（再）+ commend（称赞）→ 再次称赞/推荐</div>
+        <div class="label">词源</div><div>拉丁 recommendare「托付、推荐」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">建议句型：recommend that + 虚拟；highly recommend</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">highly recommend</span><span class="chip">recommend that</span><span class="chip">recommend a candidate</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>I highly recommend that we postpone the launch until next month.</en>
+          <zh>我强烈建议把发布推迟到下个月。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">reconcile</span>
+        <span class="ipa">/ˈrekənsaɪl/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">对账；和解；使一致</div>
+        <div class="label">词根</div><div>re-（再）+ concile（召集）→ 使重新一致</div>
+        <div class="label">词源</div><div>拉丁 reconciliare「使和好」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务：reconcile accounts；reconcile the figures</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reconcile accounts</span><span class="chip">reconcile differences</span><span class="chip">reconcile the books</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Accounting needs to reconcile the bank statement with our records.</en>
+          <zh>会计需要将银行对账单与我们的记录核对一致。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">recover</span>
+        <span class="ipa">/rɪˈkʌvər/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">恢复；收回；康复</div>
+        <div class="label">词根</div><div>re-（回）+ cover（覆盖）→ 重新获得</div>
+        <div class="label">词源</div><div>拉丁 recuperare「重新获得」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">经济/业务：recover from losses；economic recovery</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">recover from</span><span class="chip">recover costs</span><span class="chip">fully recover</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Sales began to recover after the new marketing campaign launched.</en>
+          <zh>新营销活动启动后，销售额开始回升。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">reduce</span>
+        <span class="ipa">/rɪˈduːs/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">减少；降低；缩小</div>
+        <div class="label">词根</div><div>re-（回）+ duce（引导）→ 引回/使变小</div>
+        <div class="label">词源</div><div>拉丁 reducere「带回、缩减」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">成本/风险：reduce costs；reduce risk；reduce by 10%</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reduce costs</span><span class="chip">reduce risk</span><span class="chip">significantly reduce</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The new process will reduce shipping costs by about fifteen percent.</en>
+          <zh>新流程将使运费大约降低百分之十五。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">redundant</span>
+        <span class="ipa">/rɪˈdʌndənt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">多余的；被裁员的；冗余的</div>
+        <div class="label">词根</div><div>re-（再）+ und（波动）+ -ant → 溢出的、多余的</div>
+        <div class="label">词源</div><div>拉丁 redundare「溢出」；英式英语可指裁员</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR（英式）：make staff redundant；redundant information</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">make redundant</span><span class="chip">redundant staff</span><span class="chip">redundant information</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Several warehouse positions were made redundant after automation.</en>
+          <zh>自动化之后，若干仓库岗位被裁撤。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">refer</span>
+        <span class="ipa">/rɪˈfɜːr/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">提及；参考；转介</div>
+        <div class="label">词根</div><div>re-（回）+ fer（拿）→ 带回/指向</div>
+        <div class="label">词源</div><div>拉丁 referre「带回、提及」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">文件/客服：refer to the manual；refer a customer to</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">refer to</span><span class="chip">refer a client</span><span class="chip">please refer to</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please refer to the employee handbook for the leave policy.</en>
+          <zh>请假政策请参阅员工手册。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">reference</span>
+        <span class="ipa">/ˈrefrəns/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">参考；推荐信；提及</div>
+        <div class="label">词根</div><div>refer（指向）+ -ence → 所指之物/证明</div>
+        <div class="label">词源</div><div>拉丁 referre 的名词形式</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">求职：job reference；for your reference；reference number</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">job reference</span><span class="chip">for your reference</span><span class="chip">reference number</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please attach two professional references to your application.</en>
+          <zh>请在申请材料中附上两份职业推荐信。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">refine</span>
+        <span class="ipa">/rɪˈfaɪn/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">改进；精炼；使更完善</div>
+        <div class="label">词根</div><div>re-（再）+ fine（精纯）→ 再次提纯</div>
+        <div class="label">词源</div><div>法语 raffiner「精炼」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">产品/流程：refine the process；refine a proposal</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">refine the process</span><span class="chip">refine a strategy</span><span class="chip">further refine</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The design team will refine the prototype based on user feedback.</en>
+          <zh>设计团队将根据用户反馈完善原型。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">regard</span>
+        <span class="ipa">/rɪˈɡɑːrd/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">看待；尊重；方面</div>
+        <div class="label">词根</div><div>re-（再）+ gard（看护）→ 关注、看待</div>
+        <div class="label">词源</div><div>古法语 regarder「看、留意」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公文：with regard to；in this regard；highly regarded</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">with regard to</span><span class="chip">in this regard</span><span class="chip">highly regarded</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>With regard to the delay, we will issue a full refund.</en>
+          <zh>关于这次延误，我们将全额退款。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">register</span>
+        <span class="ipa">/ˈredʒɪstər/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">登记；注册；登记簿</div>
+        <div class="label">词根</div><div>re-（再）+ gist（带来）+ -er → 记入册中</div>
+        <div class="label">词源</div><div>拉丁 registrum「清单、登记簿」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">活动/系统：register for a course；register online</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">register for</span><span class="chip">register online</span><span class="chip">cash register</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Employees must register for the safety workshop by Friday.</en>
+          <zh>员工须在周五前报名参加安全培训。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
