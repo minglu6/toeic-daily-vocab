@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 9/20 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.09.27</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">regulate</span>
+        <span class="ipa">/ˈreɡjuleɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">监管；调控；规范</div>
+        <div class="label">词根</div><div>regula（规则）+ -ate → 使符合规则</div>
+        <div class="label">词源</div><div>拉丁 regulare「按规则调整」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合规高频：regulate the industry；government regulates emissions</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">regulate the market</span><span class="chip">strictly regulate</span><span class="chip">regulate emissions</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The agency will regulate online advertising to protect consumers.</en>
+          <zh>该机构将监管网络广告以保护消费者。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">reinforce</span>
+        <span class="ipa">/ˌriːɪnˈfɔːrs/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">加强；强化；加固</div>
+        <div class="label">词根</div><div>re-（再）+ inforce（加强）→ 再次加强</div>
+        <div class="label">词源</div><div>法语 renforcer「使更强」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">培训/安全：reinforce the message；reinforce safety rules</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reinforce the message</span><span class="chip">reinforce safety rules</span><span class="chip">reinforce a habit</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Managers should reinforce safety rules during every shift briefing.</en>
+          <zh>经理应在每次班前会上再次强调安全规定。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">reject</span>
+        <span class="ipa">/rɪˈdʒekt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">拒绝；驳回；拒收</div>
+        <div class="label">词根</div><div>re-（回）+ ject（投）→ 扔回去</div>
+        <div class="label">词源</div><div>拉丁 reicere「扔回、拒绝」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">申请/质检：reject an application；reject defective goods</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reject an application</span><span class="chip">reject a proposal</span><span class="chip">reject defective goods</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The board voted to reject the merger proposal unanimously.</en>
+          <zh>董事会一致投票否决了该合并提案。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">release</span>
+        <span class="ipa">/rɪˈliːs/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">发布；释放；发行</div>
+        <div class="label">词根</div><div>re-（回）+ lease（松开）→ 放开、发布</div>
+        <div class="label">词源</div><div>古法语 relaisser「放开」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">产品/新闻：release a statement；product release；press release</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">press release</span><span class="chip">product release</span><span class="chip">release a statement</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company will release a new software update next Monday.</en>
+          <zh>公司将在下周一发布新的软件更新。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">relevant</span>
+        <span class="ipa">/ˈreləvənt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">相关的；切题的</div>
+        <div class="label">词根</div><div>re-（再）+ lev（提起）+ -ant → 与议题有关的</div>
+        <div class="label">词源</div><div>拉丁 relevare「提起、有关」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公文/面试：relevant experience；relevant to the topic</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">relevant experience</span><span class="chip">relevant information</span><span class="chip">relevant to</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please attach only documents that are relevant to the application.</en>
+          <zh>请只附上与申请相关的文件。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">rely</span>
+        <span class="ipa">/rɪˈlaɪ/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">依靠；信赖</div>
+        <div class="label">词根</div><div>re-（再）+ ly（捆）→ 依靠捆缚 → 信赖</div>
+        <div class="label">词源</div><div>古法语 relier「捆绑、依靠」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">固定搭配：rely on；rely heavily on suppliers</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">rely on</span><span class="chip">rely heavily on</span><span class="chip">can rely on</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Small shops often rely on weekend traffic for most of their sales.</en>
+          <zh>小店常常依赖周末客流来完成大部分销售。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">remain</span>
+        <span class="ipa">/rɪˈmeɪn/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">保持；仍然是；留下</div>
+        <div class="label">词根</div><div>re-（再）+ main（留下）→ 继续留下</div>
+        <div class="label">词源</div><div>拉丁 remanere「留下、继续」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">状态描写：remain open；remain competitive；problems remain</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">remain open</span><span class="chip">remain competitive</span><span class="chip">remain unchanged</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Customer satisfaction scores remain high despite the price increase.</en>
+          <zh>尽管涨价，客户满意度得分仍然很高。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">remedy</span>
+        <span class="ipa">/ˈremədi/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">补救办法；纠正；治疗</div>
+        <div class="label">词根</div><div>re-（再）+ med（医治）→ 重新医治/补救</div>
+        <div class="label">词源</div><div>拉丁 remedium「治疗、补救」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">客服/法律：find a remedy；remedy the situation</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">find a remedy</span><span class="chip">remedy the problem</span><span class="chip">legal remedy</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We are working with the vendor to remedy the billing error quickly.</en>
+          <zh>我们正与供应商合作，尽快纠正账单错误。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">remittance</span>
+        <span class="ipa">/rɪˈmɪtns/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">汇款；汇付金额</div>
+        <div class="label">词根</div><div>re-（回）+ mit（送）+ -ance → 送回的款项</div>
+        <div class="label">词源</div><div>拉丁 remittere「送回、汇出」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务：wire remittance；send a remittance；remittance advice</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">wire remittance</span><span class="chip">send a remittance</span><span class="chip">remittance advice</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please confirm that the remittance has reached our bank account.</en>
+          <zh>请确认汇款已到我们的银行账户。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">remove</span>
+        <span class="ipa">/rɪˈmuːv/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">移除；开除；去掉</div>
+        <div class="label">词根</div><div>re-（离开）+ move（移动）→ 移开</div>
+        <div class="label">词源</div><div>拉丁 removere「移开」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">操作/人事：remove from the list；remove obstacles；remove an employee</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">remove from</span><span class="chip">remove obstacles</span><span class="chip">remove a barrier</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please remove outdated prices from the online catalog tonight.</en>
+          <zh>请今晚把过时价格从在线目录中删除。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">rent</span>
+        <span class="ipa">/rent/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">租金；租用；出租</div>
+        <div class="label">词根</div><div>拉丁 rendere「交给、支付」相关</div>
+        <div class="label">词源</div><div>古法语 rente「定期付款」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">房产/办公：pay the rent；rent an office；monthly rent</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">pay the rent</span><span class="chip">rent an office</span><span class="chip">monthly rent</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The startup decided to rent a smaller office to cut costs.</en>
+          <zh>这家初创公司决定租用更小的办公室以削减成本。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">replace</span>
+        <span class="ipa">/rɪˈpleɪs/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">替换；取代；更换</div>
+        <div class="label">词根</div><div>re-（再）+ place（放置）→ 重新放置</div>
+        <div class="label">词源</div><div>中古法语 replacer「放回原处」；后引申为替换</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">设备/人事：replace a machine；replace with；be replaced by</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">replace with</span><span class="chip">replace a machine</span><span class="chip">be replaced by</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>IT will replace all outdated laptops before the end of the quarter.</en>
+          <zh>IT 部门将在本季度结束前更换所有过时的笔记本电脑。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">represent</span>
+        <span class="ipa">/ˌreprɪˈzent/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">代表；表现；象征</div>
+        <div class="label">词根</div><div>re-（再）+ present（呈现）→ 再次呈现/代表</div>
+        <div class="label">词源</div><div>拉丁 repraesentare「呈现、代表」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">销售/法律：represent the company；represent a client</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">represent the company</span><span class="chip">represent a client</span><span class="chip">be represented by</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Our sales team will represent the company at the trade fair.</en>
+          <zh>我们的销售团队将在交易会上代表公司。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">request</span>
+        <span class="ipa">/rɪˈkwest/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">请求；要求；申请</div>
+        <div class="label">词根</div><div>re-（再）+ quest（寻求）→ 再次寻求</div>
+        <div class="label">词源</div><div>拉丁 requirere「寻求、要求」相关</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公文：make a request；request approval；at your request</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">make a request</span><span class="chip">request approval</span><span class="chip">at your request</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please submit your leave request at least three days in advance.</en>
+          <zh>请至少提前三天提交请假申请。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">require</span>
+        <span class="ipa">/rɪˈkwaɪər/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">要求；需要；规定必须</div>
+        <div class="label">词根</div><div>re-（再）+ quire（寻求）→ 要求得到</div>
+        <div class="label">词源</div><div>拉丁 requirere「寻求、要求」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">规定：require that；be required to；requirements</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">require that</span><span class="chip">be required to</span><span class="chip">require approval</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>All visitors are required to wear a badge inside the building.</en>
+          <zh>所有访客进入大楼时都必须佩戴证件。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">research</span>
+        <span class="ipa">/rɪˈsɜːrtʃ/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">研究；调研；调查</div>
+        <div class="label">词根</div><div>re-（再）+ search（搜寻）→ 反复搜寻</div>
+        <div class="label">词源</div><div>古法语 recercher「仔细寻找」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">市场/学术：market research；conduct research；research shows</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">market research</span><span class="chip">conduct research</span><span class="chip">research findings</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Market research shows strong demand for flexible work schedules.</en>
+          <zh>市场调研显示人们对弹性工作时间需求强劲。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">reserve</span>
+        <span class="ipa">/rɪˈzɜːrv/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">预订；保留；储备</div>
+        <div class="label">词根</div><div>re-（回）+ serve（保存）→ 留存备用</div>
+        <div class="label">词源</div><div>拉丁 reservare「保留」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅/会议：reserve a room；reserve a table；in reserve</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reserve a room</span><span class="chip">reserve a seat</span><span class="chip">cash reserve</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Could you reserve a conference room for Thursday afternoon?</en>
+          <zh>您能预订周四下午的会议室吗？</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">resolve</span>
+        <span class="ipa">/rɪˈzɑːlv/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">解决；决心；决议</div>
+        <div class="label">词根</div><div>re-（再）+ solve（解开）→ 彻底解开</div>
+        <div class="label">词源</div><div>拉丁 resolvere「解开、解决」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">客服/谈判：resolve a complaint；resolve a dispute</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">resolve a complaint</span><span class="chip">resolve a dispute</span><span class="chip">resolve quickly</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Customer service aims to resolve every complaint within 48 hours.</en>
+          <zh>客服力求在四十八小时内解决每一宗投诉。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">resource</span>
+        <span class="ipa">/ˈriːsɔːrs/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">资源；财力；资料</div>
+        <div class="label">词根</div><div>re-（再）+ source（来源）→ 可再取用的来源</div>
+        <div class="label">词源</div><div>古法语 ressource「手段、资源」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">管理：human resources；allocate resources；limited resources</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">human resources</span><span class="chip">allocate resources</span><span class="chip">limited resources</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The project was delayed because of limited staff resources.</en>
+          <zh>由于人手资源有限，项目被推迟了。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">respond</span>
+        <span class="ipa">/rɪˈspɑːnd/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">回应；答复；作出反应</div>
+        <div class="label">词根</div><div>re-（回）+ spond（承诺/应答）→ 回答</div>
+        <div class="label">词源</div><div>拉丁 respondere「回答」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">客服/邮件：respond to an email；respond promptly</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">respond to</span><span class="chip">respond promptly</span><span class="chip">respond to feedback</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please respond to the client's inquiry by the end of the day.</en>
+          <zh>请在今天结束前回复客户的问询。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">restore</span>
+        <span class="ipa">/rɪˈstɔːr/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">恢复；修复；归还</div>
+        <div class="label">词根</div><div>re-（再）+ store（存放）→ 放回原状</div>
+        <div class="label">词源</div><div>拉丁 restaurare「重建、恢复」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">系统/业务：restore service；restore confidence；restore access</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">restore service</span><span class="chip">restore access</span><span class="chip">restore confidence</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Engineers worked overnight to restore the payment system.</en>
+          <zh>工程师通宵工作以恢复支付系统。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">restrict</span>
+        <span class="ipa">/rɪˈstrɪkt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">限制；约束；限定</div>
+        <div class="label">词根</div><div>re-（回）+ strict（拉紧）→ 收紧限制</div>
+        <div class="label">词源</div><div>拉丁 restringere「拉紧、限制」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">政策：restrict access；restrict spending；restricted area</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">restrict access</span><span class="chip">restrict spending</span><span class="chip">restrict the use of</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company will restrict access to confidential client files.</en>
+          <zh>公司将限制对机密客户文件的访问。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">resume</span>
+        <span class="ipa">/rɪˈzuːm/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">恢复；继续；重新开始</div>
+        <div class="label">词根</div><div>re-（再）+ sume（拿起）→ 重新拿起</div>
+        <div class="label">词源</div><div>拉丁 resumere「重新拿起」；注意与 résumé（简历）拼写不同</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/业务：resume a meeting after the break；resume operations</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">resume a meeting</span><span class="chip">resume operations</span><span class="chip">resume work</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We will resume the meeting after a ten-minute break.</en>
+          <zh>休息十分钟后我们将继续开会。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">retain</span>
+        <span class="ipa">/rɪˈteɪn/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">留住；保留；保持</div>
+        <div class="label">词根</div><div>re-（回）+ tain（握住）→ 握住不放</div>
+        <div class="label">词源</div><div>拉丁 retinere「留住」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/客户：retain employees；retain customers；retain control</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">retain employees</span><span class="chip">retain customers</span><span class="chip">retain control</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Better benefits help the firm retain experienced engineers.</en>
+          <zh>更好的福利有助于公司留住经验丰富的工程师。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">retire</span>
+        <span class="ipa">/rɪˈtaɪər/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">退休；退役；撤回</div>
+        <div class="label">词根</div><div>re-（回）+ tire（拉）→ 撤回、退场</div>
+        <div class="label">词源</div><div>法语 retirer「撤回」；英语引申为退休</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR：retire from；retirement plan；early retirement</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">retire from</span><span class="chip">early retirement</span><span class="chip">retire next year</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The director will retire from the company at the end of this year.</en>
+          <zh>该总监将于今年年底从公司退休。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">retrieve</span>
+        <span class="ipa">/rɪˈtriːv/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">取回；检索；挽回</div>
+        <div class="label">词根</div><div>re-（再）+ trieve（找到）→ 重新找到</div>
+        <div class="label">词源</div><div>古法语 retrouver「找回」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">数据/物流：retrieve data；retrieve a package；retrieve information</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">retrieve data</span><span class="chip">retrieve information</span><span class="chip">retrieve a package</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Staff can retrieve archived invoices from the cloud database.</en>
+          <zh>员工可以从云端数据库检索已归档的发票。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">review</span>
+        <span class="ipa">/rɪˈvjuː/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">审查；回顾；评论</div>
+        <div class="label">词根</div><div>re-（再）+ view（看）→ 再看一遍</div>
+        <div class="label">词源</div><div>中古法语 revue「再看」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">绩效/合同：performance review；review a contract；under review</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">performance review</span><span class="chip">review a contract</span><span class="chip">under review</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please review the contract carefully before signing it.</en>
+          <zh>签字前请仔细审阅合同。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">revise</span>
+        <span class="ipa">/rɪˈvaɪz/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">修订；修改；复习</div>
+        <div class="label">词根</div><div>re-（再）+ vise（看）→ 再看并修改</div>
+        <div class="label">词源</div><div>拉丁 revisere「再看」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">文件：revise a draft；revise the schedule；revised edition</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">revise a draft</span><span class="chip">revise the schedule</span><span class="chip">revised version</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The team needs to revise the budget before Friday's meeting.</en>
+          <zh>团队需要在周五会议前修订预算。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">revoke</span>
+        <span class="ipa">/rɪˈvoʊk/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">撤销；取消；废止</div>
+        <div class="label">词根</div><div>re-（回）+ voke（叫）→ 叫回、取消</div>
+        <div class="label">词源</div><div>拉丁 revocare「召回、撤销」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">许可/合同：revoke a license；revoke access；revoke an offer</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">revoke a license</span><span class="chip">revoke access</span><span class="chip">revoke an offer</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The board may revoke the vendor's contract for repeated delays.</en>
+          <zh>因多次延误，董事会可能撤销该供应商的合同。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">reward</span>
+        <span class="ipa">/rɪˈwɔːrd/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">奖励；报酬；奖赏</div>
+        <div class="label">词根</div><div>re-（回）+ ward（看顾）→ 回报</div>
+        <div class="label">词源</div><div>古诺斯语/古法语相关；表「回报」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR：reward employees；reward for；financial reward</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reward employees</span><span class="chip">financial reward</span><span class="chip">reward for</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company will reward employees who exceed their sales targets.</en>
+          <zh>公司将奖励超额完成销售目标的员工。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
