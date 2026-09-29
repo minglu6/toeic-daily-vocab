@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 9/29 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.09.29</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">substitute</span>
+        <span class="ipa">/ˈsʌbstɪtuːt/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">代替；替代品；替补</div>
+        <div class="label">词根</div><div>sub-（在下/代替）+ stitute（放置）→ 放在原位置之下 → 替代</div>
+        <div class="label">词源</div><div>拉丁 substituere「放在下面；替换」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">采购/人事：substitute A for B（用 A 替代 B）；temporary substitute（临时替补）；no substitute for（无可替代）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">substitute A for B（用A替代B）</span><span class="chip">temporary substitute（临时替补）</span><span class="chip">find a substitute（寻找替代方案）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please substitute the recycled packaging for the plastic wraps.</en>
+          <zh>请用可回收包装替代塑料包装。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">succeed</span>
+        <span class="ipa">/səkˈsiːd/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">成功；继任；接替</div>
+        <div class="label">词根</div><div>suc-（随后）+ ceed（走）→ 跟着走上去 → 成功/继任</div>
+        <div class="label">词源</div><div>拉丁 succedere「跟随其后；成功」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">双义高频：succeed in doing（成功做成）；succeed sb as（接替某人担任）；succeed to the throne（继位，较少）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">succeed in（成功做成）</span><span class="chip">succeed as CEO（继任首席执行官）</span><span class="chip">likely to succeed（有望成功）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>She hopes to succeed in expanding our presence overseas.</en>
+          <zh>她希望成功拓展我们在海外的业务布局。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">successive</span>
+        <span class="ipa">/səkˈsesɪv/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">连续的；接连的</div>
+        <div class="label">词根</div><div>success（接续）+ -ive → 接连发生的</div>
+        <div class="label">词源</div><div>拉丁 successivus「接续的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">业绩/合同：for three successive years（连续三年）；successive quarters（连续几个季度）；on successive days（连续数日）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">successive years（连续数年）</span><span class="chip">successive quarters（连续季度）</span><span class="chip">two successive delays（两次连续延误）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Sales rose for the fifth successive quarter.</en>
+          <zh>销售额连续第五个季度上升。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">sufficient</span>
+        <span class="ipa">/səˈfɪʃnt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">足够的；充足的</div>
+        <div class="label">词根</div><div>suf-（下）+ fic（做）+ -ient → 做得够 → 充足</div>
+        <div class="label">词源</div><div>拉丁 sufficiens「足够的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">通知/合规：sufficient evidence（充分证据）；sufficient funds（充足资金）；be sufficient for（对…足够）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">sufficient funds（充足资金）</span><span class="chip">sufficient evidence（充分证据）</span><span class="chip">more than sufficient（绰绰有余）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please ensure there are sufficient copies for all attendees.</en>
+          <zh>请确保为所有与会者准备足够的复印件。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">suggest</span>
+        <span class="ipa">/səˈdʒest/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">建议；表明；暗示</div>
+        <div class="label">词根</div><div>sug-（下）+ gest（带）→ 带到面前 → 提出建议</div>
+        <div class="label">词源</div><div>拉丁 suggestus「提出；建议」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">邮件/会议：suggest that + 虚拟/原形；strongly suggest（强烈建议）；suggest a solution（提出解决方案）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">suggest a solution（提出解决方案）</span><span class="chip">strongly suggest（强烈建议）</span><span class="chip">suggest that（建议……）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>I suggest that we postpone the product launch until next month.</en>
+          <zh>我建议把产品发布推迟到下个月。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">suitable</span>
+        <span class="ipa">/ˈsuːtəbl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">合适的；适宜的</div>
+        <div class="label">词根</div><div>suit（适合）+ -able → 可适合的</div>
+        <div class="label">词源</div><div>源自 suit「符合」+ -able</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">招聘/场地：suitable for（适合……）；suitable candidate（合适人选）；find a suitable time（找合适时间）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">suitable for（适合……）</span><span class="chip">suitable candidate（合适人选）</span><span class="chip">most suitable option（最合适的选项）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The conference room is suitable for up to forty participants.</en>
+          <zh>该会议室适合最多四十位与会者。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">summarize</span>
+        <span class="ipa">/ˈsʌməraɪz/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">总结；概括</div>
+        <div class="label">词根</div><div>summar（总结）+ -ize（使）→ 做成摘要</div>
+        <div class="label">词源</div><div>拉丁 summa「总数；要点」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">报告收尾：summarize the findings（总结发现）；briefly summarize（简要概括）；summarize in writing（书面总结）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">summarize the findings（总结发现）</span><span class="chip">briefly summarize（简要概括）</span><span class="chip">summarize the report（总结报告）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Could you summarize the key points before we adjourn?</en>
+          <zh>休会前你能否把要点总结一下？</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">supervise</span>
+        <span class="ipa">/ˈsuːpərvaɪz/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">监督；管理；指导</div>
+        <div class="label">词根</div><div>super-（在上）+ vise（看）→ 从上往下看 → 监督</div>
+        <div class="label">词源</div><div>拉丁 supervidere「监视；监管」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">职场职责：supervise staff（管理员工）；under supervision（在监督下）；closely supervise（密切监督）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">supervise staff（管理员工）</span><span class="chip">supervise a project（督导项目）</span><span class="chip">closely supervise（密切监督）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>She will supervise the installation of the new equipment.</en>
+          <zh>她将监督新设备的安装。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">supplement</span>
+        <span class="ipa">/ˈsʌplɪmənt/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">补充；增补；补充物</div>
+        <div class="label">词根</div><div>sup-（下）+ ple（填满）+ -ment → 把不足填满</div>
+        <div class="label">词源</div><div>拉丁 supplementum「补充；填补」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/材料：dietary 少见；商务：supplement income（贴补收入）；as a supplement to（作为对…的补充）；supplemental materials（补充材料）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">supplement income（贴补收入）</span><span class="chip">as a supplement to（作为……的补充）</span><span class="chip">provide a supplement（提供补充材料）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The appendix will supplement the main findings in the report.</en>
+          <zh>附录将补充报告中的主要发现。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">support</span>
+        <span class="ipa">/səˈpɔːrt/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">支持；支撑；客服支持</div>
+        <div class="label">词根</div><div>sup-（下）+ port（拿）→ 从下面托住 → 支持</div>
+        <div class="label">词源</div><div>拉丁 supportare「承受；支持」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">客服/财务：technical support（技术支持）；support a proposal（支持提案）；financial support（资金支持）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">technical support（技术支持）</span><span class="chip">support a proposal（支持提案）</span><span class="chip">customer support（客户支持）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Our team provides 24-hour technical support for enterprise clients.</en>
+          <zh>我们的团队为企业客户提供全天候技术支持。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">suppose</span>
+        <span class="ipa">/səˈpoʊz/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">假定；认为；猜想</div>
+        <div class="label">词根</div><div>sup-（下）+ pose（放置）→ 放在下面作前提 → 假定</div>
+        <div class="label">词源</div><div>拉丁 supponere「放在下面；假定」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议用语：suppose that（假定）；be supposed to（应该；被期望）；I suppose（我想/大概）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">suppose that（假定……）</span><span class="chip">be supposed to（应该；被期望）</span><span class="chip">I suppose（我想；大概）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Suppose we increase the budget by ten percent—what happens next?</en>
+          <zh>假定我们把预算提高百分之十——接下来会怎样？</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">surcharge</span>
+        <span class="ipa">/ˈsɜːrtʃɑːrdʒ/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">附加费；加收费用</div>
+        <div class="label">词根</div><div>sur-（在上）+ charge（收费）→ 额外加收</div>
+        <div class="label">词源</div><div>法语 surcharger「加码；额外收费」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">账单/航运：fuel surcharge（燃油附加费）；impose a surcharge（征收附加费）；surcharge for（因…加收）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">fuel surcharge（燃油附加费）</span><span class="chip">impose a surcharge（征收附加费）</span><span class="chip">delivery surcharge（配送附加费）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>A fuel surcharge will be added to all overseas shipments.</en>
+          <zh>所有海外货运都将加收燃油附加费。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">sustain</span>
+        <span class="ipa">/səˈsteɪn/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">维持；承受；支撑</div>
+        <div class="label">词根</div><div>sus-（在下）+ tain（握住）→ 托住使其持续</div>
+        <div class="label">词源</div><div>拉丁 sustinere「支撑；维持」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">经营/环境：sustain growth（保持增长）；sustain damage（遭受损坏）；sustainable development（可持续发展，相关形）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">sustain growth（保持增长）</span><span class="chip">sustain damage（遭受损坏）</span><span class="chip">sustain operations（维持运营）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company cannot sustain this level of spending indefinitely.</en>
+          <zh>公司无法无限期地维持这种开支水平。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">temporary</span>
+        <span class="ipa">/ˈtempəreri/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">临时的；暂时的</div>
+        <div class="label">词根</div><div>tempor（时间）+ -ary → 有时间限制的 → 临时</div>
+        <div class="label">词源</div><div>拉丁 temporarius「暂时的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：temporary staff（临时员工）；temporary position（临时职位）；on a temporary basis（临时性地）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">temporary staff（临时员工）</span><span class="chip">temporary position（临时职位）</span><span class="chip">temporary measure（临时措施）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We hired temporary staff to cover the holiday peak season.</en>
+          <zh>我们招聘了临时员工以应对节日旺季。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">tenant</span>
+        <span class="ipa">/ˈtenənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">承租人；租户</div>
+        <div class="label">词根</div><div>ten（持有）+ -ant → 持有使用权的人 → 租户</div>
+        <div class="label">词源</div><div>拉丁 tenens「持有者」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">地产/办公：office tenant（办公租户）；long-term tenant（长期租户）；tenant agreement（租约）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">office tenant（办公租户）</span><span class="chip">long-term tenant（长期租户）</span><span class="chip">attract new tenants（吸引新租户）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Each tenant must sign a twelve-month lease for the office space.</en>
+          <zh>每位租户必须为办公空间签署为期十二个月的租约。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">tender</span>
+        <span class="ipa">/ˈtendər/</span>
+        <span class="pos">n./v./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">投标；提出（报价）；温柔的</div>
+        <div class="label">词根</div><div>tend（伸向）+ -er → 伸出报价 → 投标</div>
+        <div class="label">词源</div><div>拉丁 tendere「伸展；提出」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">采购招投标：submit a tender（递交标书）；invite tenders（招标）；tender for a contract（竞标合同）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">submit a tender（递交标书）</span><span class="chip">invite tenders（招标）</span><span class="chip">winning tender（中标方案）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Three vendors submitted a tender for the catering contract.</en>
+          <zh>三家供应商就餐饮合同递交了标书。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">tentative</span>
+        <span class="ipa">/ˈtentətɪv/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">暂定的；试探性的</div>
+        <div class="label">词根</div><div>tent（尝试）+ -ative → 试探性的</div>
+        <div class="label">词源</div><div>拉丁 tentativus「尝试性的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">日程安排：tentative schedule（暂定日程）；tentative agreement（初步协议）；on a tentative basis（暂定地）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">tentative schedule（暂定日程）</span><span class="chip">tentative agreement（初步协议）</span><span class="chip">tentative date（暂定日期）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please hold Monday afternoon as a tentative meeting time.</en>
+          <zh>请暂定周一下午作为会议时间。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">territory</span>
+        <span class="ipa">/ˈterɪtɔːri/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">地区；销售区域；领地</div>
+        <div class="label">词根</div><div>terr（土地）+ -itory → 一片土地 → 区域</div>
+        <div class="label">词源</div><div>拉丁 territorium「领地；地界」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">销售：sales territory（销售区域）；expand into new territory（开拓新市场区域）；cover a territory（负责某区域）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">sales territory（销售区域）</span><span class="chip">expand territory（拓展区域）</span><span class="chip">assign a territory（分配区域）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>He was assigned a new sales territory in the Midwest.</en>
+          <zh>他被分配到中西部一个新的销售区域。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">thorough</span>
+        <span class="ipa">/ˈθɜːroʊ/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">彻底的；详尽的</div>
+        <div class="label">词根</div><div>词源上与 through 相关 → 贯穿到底 → 彻底</div>
+        <div class="label">词源</div><div>古英语 þuruh「贯穿的；完全的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">检查/培训：thorough inspection（全面检查）；thorough review（详尽审核）；be thorough（做事周密）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">thorough inspection（全面检查）</span><span class="chip">thorough review（详尽审核）</span><span class="chip">thorough training（全面培训）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please conduct a thorough review of the safety procedures.</en>
+          <zh>请对安全流程进行一次全面审核。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">threaten</span>
+        <span class="ipa">/ˈθretn/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">威胁；危及；有…危险</div>
+        <div class="label">词根</div><div>threat（威胁）+ -en（使）→ 使受威胁</div>
+        <div class="label">词源</div><div>古英语 threat「强迫；威胁」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">风险表述：threaten to do（扬言要）；threaten profits（危及利润）；be threatened by（受到…威胁）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">threaten profits（危及利润）</span><span class="chip">threaten to resign（扬言辞职）</span><span class="chip">pose a threat（构成威胁；相关名词）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Rising costs threaten our ability to meet the delivery deadline.</en>
+          <zh>成本上升危及我们按期交货的能力。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">thrive</span>
+        <span class="ipa">/θraɪv/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">繁荣；茁壮成长；兴旺</div>
+        <div class="label">词根</div><div>古诺斯语 þrífa「抓住；兴旺」</div>
+        <div class="label">词源</div><div>中古英语 thriven「繁荣」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公司发展：thrive in（在…中兴旺）；business thrives（生意兴隆）；thrive on competition（在竞争中壮大）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">thrive in（在……中兴旺）</span><span class="chip">business thrives（生意兴隆）</span><span class="chip">thrive under pressure（在压力下成长）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Small retailers can thrive in niche markets with loyal customers.</en>
+          <zh>小型零售商可以在拥有忠实客户的细分市场中兴旺发展。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">tolerate</span>
+        <span class="ipa">/ˈtɑːləreɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">容忍；容许；耐受</div>
+        <div class="label">词根</div><div>toler（承受）+ -ate → 能承受 → 容忍</div>
+        <div class="label">词源</div><div>拉丁 tolerare「忍受；容忍」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">政策/质量：zero tolerance（零容忍，名词相关）；tolerate delays（容忍延误）；cannot tolerate（无法容忍）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">tolerate delays（容忍延误）</span><span class="chip">cannot tolerate（无法容忍）</span><span class="chip">tolerate mistakes（容忍错误）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company will not tolerate any violation of safety rules.</en>
+          <zh>公司不会容忍任何违反安全规定的行为。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">trademark</span>
+        <span class="ipa">/ˈtreɪdmɑːrk/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">商标；标志性特征</div>
+        <div class="label">词根</div><div>trade（贸易）+ mark（标记）→ 贸易标记 → 商标</div>
+        <div class="label">词源</div><div>复合词：trade + mark</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">法务：register a trademark（注册商标）；trademark infringement（商标侵权）；protect a trademark（保护商标）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">register a trademark（注册商标）</span><span class="chip">trademark infringement（商标侵权）</span><span class="chip">protect a trademark（保护商标）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Legal counsel advised us to register the trademark overseas.</en>
+          <zh>法律顾问建议我们在海外注册该商标。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">transaction</span>
+        <span class="ipa">/trænˈzækʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">交易；业务往来</div>
+        <div class="label">词根</div><div>trans-（穿过）+ act（做）+ -ion → 做成一笔往来 → 交易</div>
+        <div class="label">词源</div><div>拉丁 transactio「办理；交易」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">金融：financial transaction（金融交易）；complete a transaction（完成交易）；transaction fee（交易手续费）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">financial transaction（金融交易）</span><span class="chip">complete a transaction（完成交易）</span><span class="chip">transaction fee（交易手续费）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>All online transactions are protected by encryption.</en>
+          <zh>所有在线交易都受到加密保护。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">transform</span>
+        <span class="ipa">/trænsˈfɔːrm/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">转变；改造；使改观</div>
+        <div class="label">词根</div><div>trans-（跨越）+ form（形状）→ 改变形态</div>
+        <div class="label">词源</div><div>拉丁 transformare「改变形状」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">数字化/改革：transform the industry（改造行业）；digital transformation（数字化转型，名词相关）；transform into（转变为）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">transform into（转变为）</span><span class="chip">transform the business（改造业务）</span><span class="chip">radically transform（彻底变革）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Automation will transform how we process customer orders.</en>
+          <zh>自动化将改变我们处理客户订单的方式。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">transit</span>
+        <span class="ipa">/ˈtrænzɪt/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">运输；过境；中转</div>
+        <div class="label">词根</div><div>trans-（穿过）+ it（走）→ 穿过而行 → 过境/运输</div>
+        <div class="label">词源</div><div>拉丁 transitus「通过；通行」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">物流：in transit（在运输途中）；transit time（运输时间）；public transit（公共交通）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">in transit（在运输途中）</span><span class="chip">transit time（运输时间）</span><span class="chip">public transit（公共交通）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The shipment is currently in transit and should arrive Friday.</en>
+          <zh>货物目前正在运输途中，预计周五到达。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">transmit</span>
+        <span class="ipa">/trænsˈmɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">传送；传输；传达</div>
+        <div class="label">词根</div><div>trans-（穿过）+ mit（送）→ 送过去 → 传输</div>
+        <div class="label">词源</div><div>拉丁 transmittere「送过；传送」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">通信/文件：transmit data（传输数据）；transmit a message（传达信息）；electronically transmit（电子传送）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">transmit data（传输数据）</span><span class="chip">transmit a message（传达信息）</span><span class="chip">transmit documents（传送文件）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please transmit the signed contract to our legal department.</en>
+          <zh>请将已签署的合同传送给我们的法务部门。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">transport</span>
+        <span class="ipa">/ˈtrænspɔːrt/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">运输；运送；交通工具</div>
+        <div class="label">词根</div><div>trans-（跨越）+ port（运）→ 运过 → 运输</div>
+        <div class="label">词源</div><div>拉丁 transportare「运过；搬运」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">物流：transport goods（运送货物）；public transport（公共交通）；means of transport（运输方式）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">transport goods（运送货物）</span><span class="chip">public transport（公共交通）</span><span class="chip">transport costs（运输成本）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We need a reliable firm to transport goods across the region.</en>
+          <zh>我们需要一家可靠的公司在该地区运送货物。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">trend</span>
+        <span class="ipa">/trend/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">趋势；潮流；倾向</div>
+        <div class="label">词根</div><div>古英语 trendan「转动；转向」→ 走向 → 趋势</div>
+        <div class="label">词源</div><div>中古英语「弯曲；走向」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">市场分析：market trend（市场趋势）；upward trend（上升趋势）；follow the trend（跟随潮流）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">market trend（市场趋势）</span><span class="chip">upward trend（上升趋势）</span><span class="chip">current trend（当前趋势）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The latest report shows an upward trend in online bookings.</en>
+          <zh>最新报告显示在线预订呈上升趋势。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">trial</span>
+        <span class="ipa">/ˈtraɪəl/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">试用；试验；审判</div>
+        <div class="label">词根</div><div>try（尝试）+ -al → 尝试过程 → 试用/试验</div>
+        <div class="label">词源</div><div>盎格鲁-诺曼法语 trial「试验；审理」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">产品/招聘：free trial（免费试用）；trial period（试用期）；on a trial basis（试用性地）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">free trial（免费试用）</span><span class="chip">trial period（试用期）</span><span class="chip">on a trial basis（试用性地）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>New hires complete a three-month trial period before confirmation.</en>
+          <zh>新员工在转正前需完成三个月的试用期。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
