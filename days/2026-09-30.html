@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 9/30 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.09.30</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">ultimate</span>
+        <span class="ipa">/ˈʌltɪmət/</span>
+        <span class="pos">adj./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">最终的；终极的；最终结果</div>
+        <div class="label">词根</div><div>ultim（最后）+ -ate → 处于末端的 → 最终的</div>
+        <div class="label">词源</div><div>拉丁 ultimus「最远的；最后的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">决策/目标：ultimate goal（最终目标）；the ultimate responsibility（最终责任）；as the ultimate solution（作为终极方案）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">ultimate goal（最终目标）</span><span class="chip">ultimate responsibility（最终责任）</span><span class="chip">the ultimate decision（最终决定）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Our ultimate goal is to expand into three new markets this year.</en>
+          <zh>我们的最终目标是今年拓展到三个新市场。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">unanimous</span>
+        <span class="ipa">/juˈnænɪməs/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">一致同意的；无异议的</div>
+        <div class="label">词根</div><div>uni-（一）+ anim（心/意）+ -ous → 同一心意 → 全体一致</div>
+        <div class="label">词源</div><div>拉丁 unanimus「同心的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">董事会/投票：unanimous agreement（一致同意）；by a unanimous vote（以全票）；reach a unanimous decision（达成一致决定）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">unanimous agreement（一致同意）</span><span class="chip">unanimous vote（全票通过）</span><span class="chip">reach a unanimous decision（达成一致决定）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The board reached a unanimous decision to approve the merger.</en>
+          <zh>董事会一致决定批准这项并购。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">undergo</span>
+        <span class="ipa">/ˌʌndərˈɡoʊ/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">经历；接受（检查/手术/改造等）</div>
+        <div class="label">词根</div><div>under-（在下）+ go（走）→ 从下面走过 → 经历</div>
+        <div class="label">词源</div><div>古英语 undergān「经历；经受」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">维修/培训/体检：undergo training（接受培训）；undergo renovations（进行翻修）；undergo an inspection（接受检查）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">undergo training（接受培训）</span><span class="chip">undergo renovations（进行翻修）</span><span class="chip">undergo an inspection（接受检查）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The warehouse will undergo renovations throughout October.</en>
+          <zh>仓库将在整个十月进行翻修。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">underestimate</span>
+        <span class="ipa">/ˌʌndərˈestɪmeɪt/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">低估；估计不足</div>
+        <div class="label">词根</div><div>under-（不足）+ estimate（估计）→ 估计偏低</div>
+        <div class="label">词源</div><div>under + estimate「估价」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">成本/风险：underestimate the cost（低估成本）；do not underestimate（切勿低估）；underestimate the demand（低估需求）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">underestimate the cost（低估成本）</span><span class="chip">underestimate the demand（低估需求）</span><span class="chip">do not underestimate（切勿低估）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We should not underestimate the demand for remote support.</en>
+          <zh>我们不应低估对远程支持的需求。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">undertake</span>
+        <span class="ipa">/ˌʌndərˈteɪk/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">承担；着手做；承诺</div>
+        <div class="label">词根</div><div>under-（在下）+ take（拿）→ 把责任拿在肩下 → 承担</div>
+        <div class="label">词源</div><div>中古英语 undertaken「承担；接手」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">项目/合同：undertake a project（承担项目）；undertake to do（承诺去做）；undertake responsibility（承担责任）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">undertake a project（承担项目）</span><span class="chip">undertake to deliver（承诺交付）</span><span class="chip">undertake responsibility（承担责任）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Our team will undertake a full review of the supplier contracts.</en>
+          <zh>我们团队将全面审查供应商合同。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">unemployment</span>
+        <span class="ipa">/ˌʌnɪmˈplɔɪmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">失业；失业率</div>
+        <div class="label">词根</div><div>un-（不）+ employ（雇用）+ -ment → 未被雇用的状态</div>
+        <div class="label">词源</div><div>un- + employment「就业」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">经济/HR：unemployment rate（失业率）；rising unemployment（失业上升）；unemployment benefits（失业救济金）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">unemployment rate（失业率）</span><span class="chip">rising unemployment（失业上升）</span><span class="chip">unemployment benefits（失业救济金）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The report shows a slight decline in the regional unemployment rate.</en>
+          <zh>报告显示该地区失业率略有下降。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">unexpected</span>
+        <span class="ipa">/ˌʌnɪkˈspektɪd/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">意外的；出乎意料的</div>
+        <div class="label">词根</div><div>un-（不）+ expect（预期）+ -ed → 未被预期的</div>
+        <div class="label">词源</div><div>un- + expected「预期的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">延误/财务：unexpected delay（意外延误）；unexpected expense（意外开支）；an unexpected outcome（意外结果）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">unexpected delay（意外延误）</span><span class="chip">unexpected expense（意外开支）</span><span class="chip">unexpected outcome（意外结果）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>An unexpected delay in customs held up the shipment.</en>
+          <zh>海关的意外延误耽误了这批货物。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">uniform</span>
+        <span class="ipa">/ˈjuːnɪfɔːrm/</span>
+        <span class="pos">adj./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">统一的；一致的；制服</div>
+        <div class="label">词根</div><div>uni-（一）+ form（形式）→ 同一形式 → 统一/制服</div>
+        <div class="label">词源</div><div>拉丁 uniformis「同一形状的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">双义：wear a uniform（穿制服）；uniform standards（统一标准）；uniform quality（质量一致）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">uniform standards（统一标准）</span><span class="chip">wear a uniform（穿制服）</span><span class="chip">uniform quality（质量一致）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>All branches must follow uniform safety standards.</en>
+          <zh>所有分支机构必须遵循统一的安全标准。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">unique</span>
+        <span class="ipa">/juˈniːk/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">独特的；独一无二的</div>
+        <div class="label">词根</div><div>uni-（一）+ -que → 唯一的</div>
+        <div class="label">词源</div><div>拉丁 unicus「唯一的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销/产品：unique feature（独特功能）；unique opportunity（难得机会）；a unique approach（独特方法）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">unique feature（独特功能）</span><span class="chip">unique opportunity（难得机会）</span><span class="chip">unique selling point（独特卖点）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The app's unique feature is real-time expense tracking.</en>
+          <zh>这款应用的独特功能是实时费用追踪。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">update</span>
+        <span class="ipa">/ʌpˈdeɪt/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">更新；最新信息</div>
+        <div class="label">词根</div><div>up（向上）+ date（日期）→ 把日期往上推 → 更新</div>
+        <div class="label">词源</div><div>up + date「日期」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">IT/沟通：software update（软件更新）；update the records（更新记录）；provide an update（提供最新进展）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">software update（软件更新）</span><span class="chip">provide an update（提供最新进展）</span><span class="chip">update the records（更新记录）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please update the client database before Friday's meeting.</en>
+          <zh>请在周五会议前更新客户数据库。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">upgrade</span>
+        <span class="ipa">/ˈʌpɡreɪd/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">升级；提升；改进</div>
+        <div class="label">词根</div><div>up（向上）+ grade（等级）→ 提高等级</div>
+        <div class="label">词源</div><div>up + grade「等级」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">酒店/IT/设备：upgrade to（升级到）；system upgrade（系统升级）；free upgrade（免费升级）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">system upgrade（系统升级）</span><span class="chip">upgrade to（升级到）</span><span class="chip">free upgrade（免费升级）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We plan to upgrade the reservation system next quarter.</en>
+          <zh>我们计划下个季度升级预订系统。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">urgent</span>
+        <span class="ipa">/ˈɜːrdʒənt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">紧急的；急迫的</div>
+        <div class="label">词根</div><div>urg（催促）+ -ent → 催促的 → 紧急的</div>
+        <div class="label">词源</div><div>拉丁 urgens「催促的；急迫的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">邮件/客服：urgent matter（紧急事项）；urgent attention（紧急关注）；on an urgent basis（紧急地）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">urgent matter（紧急事项）</span><span class="chip">urgent attention（紧急关注）</span><span class="chip">urgent request（紧急请求）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>This is an urgent matter that requires your immediate attention.</en>
+          <zh>这是需要您立即关注的紧急事项。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">utilize</span>
+        <span class="ipa">/ˈjuːtəlaɪz/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">利用；使用</div>
+        <div class="label">词根</div><div>util（有用）+ -ize（使）→ 使被使用</div>
+        <div class="label">词源</div><div>拉丁 utilis「有用的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务书面：utilize resources（利用资源）；fully utilize（充分利用）；utilize available space（利用可用空间）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">utilize resources（利用资源）</span><span class="chip">fully utilize（充分利用）</span><span class="chip">utilize available space（利用可用空间）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The warehouse will utilize available space for seasonal inventory.</en>
+          <zh>仓库将利用可用空间存放季节性库存。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">vacant</span>
+        <span class="ipa">/ˈveɪkənt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">空的；空缺的；无人占用的</div>
+        <div class="label">词根</div><div>vac（空）+ -ant → 空着的</div>
+        <div class="label">词源</div><div>拉丁 vacans「空着的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/房产：vacant position（空缺职位）；vacant office（空置办公室）；remain vacant（仍空缺）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">vacant position（空缺职位）</span><span class="chip">vacant office（空置办公室）</span><span class="chip">fill a vacant post（填补空缺职位）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>HR is advertising a vacant position in the accounting department.</en>
+          <zh>人事部正在招聘会计部门的一个空缺职位。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">valid</span>
+        <span class="ipa">/ˈvælɪd/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">有效的；合理的；正当的</div>
+        <div class="label">词根</div><div>val（有力/价值）+ -id → 有力的 → 有效的</div>
+        <div class="label">词源</div><div>拉丁 validus「强壮的；有效的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">证件/合同：valid passport（有效护照）；valid until（有效期至）；a valid reason（正当理由）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">valid passport（有效护照）</span><span class="chip">valid until（有效期至）</span><span class="chip">valid reason（正当理由）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please ensure your passport is valid for at least six months.</en>
+          <zh>请确保您的护照有效期至少还有六个月。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">validate</span>
+        <span class="ipa">/ˈvælɪdeɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">验证；确认有效；证实</div>
+        <div class="label">词根</div><div>valid（有效）+ -ate（使）→ 使有效/验证</div>
+        <div class="label">词源</div><div>拉丁 validare「使有效」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">IT/合规：validate data（验证数据）；validate a ticket（验票）；validate the findings（证实调查结果）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">validate data（验证数据）</span><span class="chip">validate a ticket（验票）</span><span class="chip">validate the findings（证实调查结果）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please validate the customer data before generating invoices.</en>
+          <zh>生成发票前请先验证客户数据。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">valuable</span>
+        <span class="ipa">/ˈvæljuəbl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">有价值的；宝贵的；贵重的</div>
+        <div class="label">词根</div><div>value（价值）+ -able → 有价值的</div>
+        <div class="label">词源</div><div>源自 value「价值」+ -able</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">反馈/资产：valuable feedback（宝贵反馈）；valuable asset（宝贵资产）；highly valuable（非常宝贵）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">valuable feedback（宝贵反馈）</span><span class="chip">valuable asset（宝贵资产）</span><span class="chip">valuable experience（宝贵经验）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Customer surveys provide valuable feedback for product design.</en>
+          <zh>客户调查为产品设计提供宝贵反馈。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">valuation</span>
+        <span class="ipa">/ˌvæljuˈeɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">估价；估值；评估</div>
+        <div class="label">词根</div><div>value（价值）+ -ation → 对价值的评估</div>
+        <div class="label">词源</div><div>源自 value「估价」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">金融/并购：company valuation（公司估值）；property valuation（房产估价）；market valuation（市场估值）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">company valuation（公司估值）</span><span class="chip">property valuation（房产估价）</span><span class="chip">market valuation（市场估值）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The investor requested an independent valuation of the startup.</en>
+          <zh>投资者要求对这家初创公司进行独立估值。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">variation</span>
+        <span class="ipa">/ˌveriˈeɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">变化；变异；差异</div>
+        <div class="label">词根</div><div>vari（变化）+ -ation → 变化的过程/结果</div>
+        <div class="label">词源</div><div>拉丁 variatio「变化」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">价格/数据：price variation（价格波动）；slight variation（微小差异）；seasonal variation（季节性变化）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">price variation（价格波动）</span><span class="chip">slight variation（微小差异）</span><span class="chip">seasonal variation（季节性变化）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>There is little variation in shipping rates this quarter.</en>
+          <zh>本季度运费几乎没有什么变化。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">variety</span>
+        <span class="ipa">/vəˈraɪəti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">多样性；种类；品种</div>
+        <div class="label">词根</div><div>vari（变化）+ -ety → 变化的状态 → 多样</div>
+        <div class="label">词源</div><div>拉丁 varietas「多样性」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">产品/菜单：a variety of（各种各样的）；wide variety（种类繁多）；product variety（产品多样性）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a variety of（各种各样的）</span><span class="chip">wide variety（种类繁多）</span><span class="chip">product variety（产品多样性）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The catalog offers a wide variety of office supplies.</en>
+          <zh>产品目录提供种类繁多的办公用品。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">vary</span>
+        <span class="ipa">/ˈveri/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">变化；不同；使多样化</div>
+        <div class="label">词根</div><div>vari（变化）→ 改变/有差异</div>
+        <div class="label">词源</div><div>拉丁 variare「改变；使不同」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">价格/条件：vary depending on（视……而定）；prices vary（价格各异）；vary from…to…（从…到…不等）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">vary depending on（视……而定）</span><span class="chip">prices vary（价格各异）</span><span class="chip">vary from…to…（从…到…不等）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Delivery times vary depending on the destination.</en>
+          <zh>交货时间视目的地而定。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">vehicle</span>
+        <span class="ipa">/ˈviːɪkl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">车辆；交通工具；媒介</div>
+        <div class="label">词根</div><div>veh（运载）+ -icle → 运载工具</div>
+        <div class="label">词源</div><div>拉丁 vehiculum「载具」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">物流/差旅：company vehicle（公司车辆）；commercial vehicle（商用车）；vehicle maintenance（车辆保养）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">company vehicle（公司车辆）</span><span class="chip">commercial vehicle（商用车）</span><span class="chip">vehicle maintenance（车辆保养）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>All company vehicles must undergo annual safety inspections.</en>
+          <zh>所有公司车辆必须接受年度安全检查。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">vendor</span>
+        <span class="ipa">/ˈvendər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">供应商；卖主；摊贩</div>
+        <div class="label">词根</div><div>vend（卖）+ -or → 出售者</div>
+        <div class="label">词源</div><div>拉丁 vendere「出售」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">采购高频：preferred vendor（首选供应商）；vendor contract（供应商合同）；select a vendor（选择供应商）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">preferred vendor（首选供应商）</span><span class="chip">vendor contract（供应商合同）</span><span class="chip">select a vendor（选择供应商）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We are evaluating three vendors for the catering service.</en>
+          <zh>我们正在评估三家餐饮服务供应商。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">verify</span>
+        <span class="ipa">/ˈverɪfaɪ/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">核实；查证；确认</div>
+        <div class="label">词根</div><div>ver（真实）+ -ify（使）→ 使成真/核实</div>
+        <div class="label">词源</div><div>拉丁 verificare「证实」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/安检：verify identity（核实身份）；verify the information（核实信息）；please verify（请核实）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">verify identity（核实身份）</span><span class="chip">verify the information（核实信息）</span><span class="chip">verify the account（核实账户）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please verify the account details before processing the payment.</en>
+          <zh>处理付款前请核实账户信息。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">versatile</span>
+        <span class="ipa">/ˈvɜːrsətl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">多才多艺的；用途广泛的；灵活的</div>
+        <div class="label">词根</div><div>vers（转）+ -atile → 可转向的 → 多用途</div>
+        <div class="label">词源</div><div>拉丁 versatilis「可转动的；灵活的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">产品/招聘：versatile skills（多方面技能）；versatile tool（多功能工具）；highly versatile（用途很广）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">versatile skills（多方面技能）</span><span class="chip">versatile tool（多功能工具）</span><span class="chip">highly versatile（用途很广）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We need a versatile designer who can handle print and digital work.</en>
+          <zh>我们需要一位能兼顾印刷与数字设计的多面手设计师。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">version</span>
+        <span class="ipa">/ˈvɜːrʒn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">版本；说法；改编本</div>
+        <div class="label">词根</div><div>vers（转）+ -ion → 转化后的形态 → 版本</div>
+        <div class="label">词源</div><div>拉丁 versio「转变；译本」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">软件/文件：latest version（最新版本）；updated version（更新版）；a revised version（修订版）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">latest version（最新版本）</span><span class="chip">updated version（更新版）</span><span class="chip">revised version（修订版）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please download the latest version of the presentation slides.</en>
+          <zh>请下载演示文稿的最新版本。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">versus</span>
+        <span class="ipa">/ˈvɜːrsəs/</span>
+        <span class="pos">prep.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">对；与……相对；对比</div>
+        <div class="label">词根</div><div>vers（转）→ 转向对面 → 相对/对抗</div>
+        <div class="label">词源</div><div>拉丁 versus「朝向；对着」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">对比/诉讼：A versus B（A对B）；cost versus benefit（成本与收益对比）；常缩写 vs.</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">cost versus benefit（成本与收益对比）</span><span class="chip">A versus B（A对B）</span><span class="chip">pros versus cons（利与弊对比）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The memo compares remote work versus office-based schedules.</en>
+          <zh>这份备忘录比较了远程办公与坐班制的安排。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">viable</span>
+        <span class="ipa">/ˈvaɪəbl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">可行的；能独立发展的</div>
+        <div class="label">词根</div><div>via（路/生命）+ -able → 走得通的 → 可行的</div>
+        <div class="label">词源</div><div>拉丁 vita「生命」→ viable「能存活的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商业计划：viable option（可行选项）；commercially viable（商业上可行）；remain viable（保持可行）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">viable option（可行选项）</span><span class="chip">commercially viable（商业上可行）</span><span class="chip">viable alternative（可行替代方案）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Outsourcing logistics may be a more viable option this year.</en>
+          <zh>今年把物流外包可能是更可行的选择。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">violate</span>
+        <span class="ipa">/ˈvaɪəleɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">违反；侵犯；违背</div>
+        <div class="label">词根</div><div>viol（暴力/侵犯）+ -ate → 以力冲破 → 违反</div>
+        <div class="label">词源</div><div>拉丁 violare「侵犯；违背」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合规/合同：violate a rule（违反规定）；violate the terms（违反条款）；violate privacy（侵犯隐私）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">violate a rule（违反规定）</span><span class="chip">violate the terms（违反条款）</span><span class="chip">violate privacy（侵犯隐私）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Employees who violate the code of conduct face disciplinary action.</en>
+          <zh>违反行为准则的员工将面临纪律处分。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">volunteer</span>
+        <span class="ipa">/ˌvɑːlənˈtɪr/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">志愿者；自愿做；主动提出</div>
+        <div class="label">词根</div><div>volunt（意愿）+ -eer → 出于意愿的人</div>
+        <div class="label">词源</div><div>拉丁 voluntarius「自愿的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">CSR/活动：volunteer for（自愿参加）；community volunteer（社区志愿者）；volunteer to help（自愿帮忙）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">volunteer for（自愿参加）</span><span class="chip">community volunteer（社区志愿者）</span><span class="chip">volunteer to help（自愿帮忙）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Several staff members volunteered to help at the charity fair.</en>
+          <zh>几位员工自愿在慈善集市上帮忙。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
