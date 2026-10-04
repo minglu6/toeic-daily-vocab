@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 10/4 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.10.04</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">browse</span>
+        <span class="ipa">/braʊz/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">浏览；随意翻看；逛</div>
+        <div class="label">词根</div><div>古英语 brēosan「发芽」→ 引申为四处翻看</div>
+        <div class="label">词源</div><div>中古英语 browsen「啃食嫩枝」→ 后指随意浏览</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">网站/目录：browse the catalog（浏览目录）；browse online（在线浏览）；browse for（搜寻）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">browse the catalog（浏览目录）</span><span class="chip">browse online（在线浏览）</span><span class="chip">browse for options（搜寻选项）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Customers can browse the catalog before placing an order.</en>
+          <zh>客户下单前可先浏览产品目录。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">bulk</span>
+        <span class="ipa">/bʌlk/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">大量；散装；主体</div>
+        <div class="label">词根</div><div>无明确常见词缀；表体积/大批</div>
+        <div class="label">词源</div><div>古诺尔斯语 bulki「货物；船货」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">采购/物流：in bulk（大批量）；bulk order（大宗订单）；the bulk of（大部分）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">in bulk（大批量）</span><span class="chip">bulk order（大宗订单）</span><span class="chip">the bulk of（大部分）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Ordering in bulk can significantly reduce unit costs.</en>
+          <zh>大批量订购可显著降低单位成本。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">campaign</span>
+        <span class="ipa">/kæmˈpeɪn/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">活动；战役；开展运动</div>
+        <div class="label">词根</div><div>camp（营地）+ -aign → 战场行动 → 营销活动</div>
+        <div class="label">词源</div><div>法语 campagne「旷野；战役」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销：advertising campaign（广告活动）；launch a campaign（发起活动）；campaign for（为……宣传）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">advertising campaign（广告活动）</span><span class="chip">launch a campaign（发起活动）</span><span class="chip">marketing campaign（营销活动）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company launched a new marketing campaign last Monday.</en>
+          <zh>该公司上周一发起了新的营销活动。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">cater</span>
+        <span class="ipa">/ˈkeɪtər/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">承办宴席；迎合；提供餐饮</div>
+        <div class="label">词根</div><div>无；与 caterer「餐饮承办商」同源</div>
+        <div class="label">词源</div><div>中古英语 catour「采购员」← 古法语 acater「购买」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">服务/活动：cater to（迎合）；cater for（为……提供餐饮）；catering service（餐饮服务）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">cater to clients（迎合客户）</span><span class="chip">cater for events（为活动提供餐饮）</span><span class="chip">catering service（餐饮服务）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The hotel can cater for conferences of up to 200 people.</en>
+          <zh>该酒店可为多达 200 人的会议提供餐饮。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">caution</span>
+        <span class="ipa">/ˈkɔːʃn/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">谨慎；警告；提醒注意</div>
+        <div class="label">词根</div><div>caut-（小心）+ -ion → 谨慎/警告</div>
+        <div class="label">词源</div><div>拉丁语 cautiō「小心；防备」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">安全/合规：exercise caution（保持谨慎）；with caution（谨慎地）；caution against（告诫勿）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">exercise caution（保持谨慎）</span><span class="chip">with caution（谨慎地）</span><span class="chip">caution against（告诫勿……）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please exercise caution when handling confidential files.</en>
+          <zh>处理机密文件时请务必谨慎。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">cease</span>
+        <span class="ipa">/siːs/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">停止；终止；结束</div>
+        <div class="label">词根</div><div>无常见拆分；表停止</div>
+        <div class="label">词源</div><div>古法语 cesser ← 拉丁语 cessāre「停止；歇息」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">通知/命令：cease operations（停止运营）；without cease（不停地）；cease to exist（不复存在）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">cease operations（停止运营）</span><span class="chip">cease fire（停火）</span><span class="chip">cease to exist（不复存在）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The factory will cease operations at the end of this month.</en>
+          <zh>该工厂将于本月底停止运营。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">chairman</span>
+        <span class="ipa">/ˈtʃermən/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">主席；董事长；会议主持人</div>
+        <div class="label">词根</div><div>chair（席位）+ man → 主持席位之人</div>
+        <div class="label">词源</div><div>英语合成词；chair 原指「带扶手的座位」引申为职位</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/治理：chairman of the board（董事长）；acting chairman（代理主席）；elect a chairman（选举主席）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">chairman of the board（董事长）</span><span class="chip">acting chairman（代理主席）</span><span class="chip">elect a chairman（选举主席）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The chairman of the board opened the annual meeting.</en>
+          <zh>董事长宣布年度会议开始。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">challenge</span>
+        <span class="ipa">/ˈtʃælɪndʒ/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">挑战；质疑；难题</div>
+        <div class="label">词根</div><div>无常见拆分；表挑战/质疑</div>
+        <div class="label">词源</div><div>古法语 chalenge「控告；质疑」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">职场/项目：face a challenge（面对挑战）；challenge the decision（质疑决定）；challenging task（艰巨任务）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">face a challenge（面对挑战）</span><span class="chip">challenge the decision（质疑决定）</span><span class="chip">challenging task（艰巨任务）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Meeting the new deadline will be a major challenge.</en>
+          <zh>赶上下一个截止日期将是一项重大挑战。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">charter</span>
+        <span class="ipa">/ˈtʃɑːrtər/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">特许状；章程；包租</div>
+        <div class="label">词根</div><div>无；与 chart「图表」同源，表书面授权</div>
+        <div class="label">词源</div><div>古法语 chartre ← 拉丁语 chartula「小文件」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅/公司：charter a flight（包机）；corporate charter（公司章程）；charter bus（包车）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">charter a flight（包机）</span><span class="chip">corporate charter（公司章程）</span><span class="chip">charter bus（包车）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The sales team will charter a flight to the trade show.</en>
+          <zh>销售团队将包机前往展会。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">clause</span>
+        <span class="ipa">/klɔːz/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">条款；从句；条文</div>
+        <div class="label">词根</div><div>claus-（关闭）→ 封闭的条文单元</div>
+        <div class="label">词源</div><div>拉丁语 clausa「结束的部分」← claudere「关闭」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同：contract clause（合同条款）；penalty clause（罚则条款）；confidentiality clause（保密条款）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">contract clause（合同条款）</span><span class="chip">penalty clause（罚则条款）</span><span class="chip">confidentiality clause（保密条款）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please review the confidentiality clause before signing.</en>
+          <zh>签署前请审阅保密条款。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">commerce</span>
+        <span class="ipa">/ˈkɑːmɜːrs/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">商业；贸易；商务</div>
+        <div class="label">词根</div><div>com-（共同）+ merc（交易）→ 共同贸易</div>
+        <div class="label">词源</div><div>拉丁语 commercium「贸易；往来」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务：e-commerce（电子商务）；chamber of commerce（商会）；interstate commerce（州际贸易）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">e-commerce（电子商务）</span><span class="chip">chamber of commerce（商会）</span><span class="chip">international commerce（国际贸易）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>E-commerce has transformed the way small firms sell products.</en>
+          <zh>电子商务改变了小企业销售产品的方式。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">compete</span>
+        <span class="ipa">/kəmˈpiːt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">竞争；参赛；争夺</div>
+        <div class="label">词根</div><div>com-（共同）+ pet（追求）→ 共同追求 → 竞争</div>
+        <div class="label">词源</div><div>拉丁语 competere「共同争取」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">市场：compete with（与……竞争）；compete for（争夺）；competitive price（有竞争力的价格）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">compete with rivals（与对手竞争）</span><span class="chip">compete for market share（争夺市场份额）</span><span class="chip">compete successfully（成功竞争）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Local stores must compete with large online retailers.</en>
+          <zh>本地商店必须与大型线上零售商竞争。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">complaint</span>
+        <span class="ipa">/kəmˈpleɪnt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">投诉；抱怨；控告</div>
+        <div class="label">词根</div><div>com- + plain（哀叹）+ -t → 诉苦/投诉</div>
+        <div class="label">词源</div><div>古法语 complainte「哀诉」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">客服：file a complaint（提出投诉）；handle complaints（处理投诉）；customer complaint（客户投诉）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">file a complaint（提出投诉）</span><span class="chip">handle complaints（处理投诉）</span><span class="chip">customer complaint（客户投诉）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The service desk received several complaints about delayed deliveries.</en>
+          <zh>客服台收到若干关于延误交货的投诉。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">compose</span>
+        <span class="ipa">/kəmˈpoʊz/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">组成；撰写；作曲</div>
+        <div class="label">词根</div><div>com-（一起）+ pose（放置）→ 放在一起 → 组成/撰写</div>
+        <div class="label">词源</div><div>拉丁语 compōnere「放置在一起」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">写作/构成：compose a letter（撰写信函）；be composed of（由……组成）；compose oneself（使自己镇定）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">compose a letter（撰写信函）</span><span class="chip">be composed of（由……组成）</span><span class="chip">compose a report（撰写报告）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please compose a brief reply to the client’s inquiry.</en>
+          <zh>请就客户的询问撰写一封简短回复。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">comprise</span>
+        <span class="ipa">/kəmˈpraɪz/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">包含；由……组成；构成</div>
+        <div class="label">词根</div><div>com- + prise（抓取）→ 囊括在内</div>
+        <div class="label">词源</div><div>古法语 compris ← 拉丁语 comprehendere「理解；包含」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">结构说明：comprise several units（包含若干单位）；be comprised of（由……组成，口语常见）；the committee comprises（委员会由……组成）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">comprise several departments（包含若干部门）</span><span class="chip">the team comprises（团队由……组成）</span><span class="chip">comprise a majority（构成多数）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The new division will comprise five regional offices.</en>
+          <zh>新事业部将包含五个区域办事处。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">compromise</span>
+        <span class="ipa">/ˈkɑːmprəmaɪz/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">妥协；和解；损害</div>
+        <div class="label">词根</div><div>com- + promise（承诺）→ 共同承诺 → 妥协</div>
+        <div class="label">词源</div><div>拉丁语 comprōmissum「共同约定」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">谈判：reach a compromise（达成妥协）；compromise on（在……上让步）；without compromise（毫不妥协）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reach a compromise（达成妥协）</span><span class="chip">compromise on terms（在条款上妥协）</span><span class="chip">a fair compromise（公平的妥协）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Both parties finally reached a compromise on the delivery schedule.</en>
+          <zh>双方最终就交货时间表达成妥协。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">compulsory</span>
+        <span class="ipa">/kəmˈpʌlsəri/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">强制的；义务的；必修的</div>
+        <div class="label">词根</div><div>compuls-（强迫）+ -ory → 强制性的</div>
+        <div class="label">词源</div><div>拉丁语 compulsōrius「强迫性的」← compellere「强迫」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/培训：compulsory training（强制培训）；compulsory attendance（强制出席）；make something compulsory（规定……为强制）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">compulsory training（强制培训）</span><span class="chip">compulsory attendance（强制出席）</span><span class="chip">compulsory insurance（强制保险）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Safety training is compulsory for all new employees.</en>
+          <zh>所有新员工都必须参加安全培训。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">concentrate</span>
+        <span class="ipa">/ˈkɑːnsntreɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">集中；专注；浓缩</div>
+        <div class="label">词根</div><div>con-（一起）+ centr（中心）+ -ate → 集中到中心</div>
+        <div class="label">词源</div><div>拉丁语 concentrāre「集中到中心」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">工作/策略：concentrate on（专注于）；concentrate efforts（集中精力）；highly concentrated（高度集中的）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">concentrate on（专注于）</span><span class="chip">concentrate efforts（集中精力）</span><span class="chip">concentrate resources（集中资源）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please concentrate on completing the quarterly report first.</en>
+          <zh>请先专注于完成季度报告。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">concept</span>
+        <span class="ipa">/ˈkɑːnsept/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">概念；观念；构思</div>
+        <div class="label">词根</div><div>con- + cept（拿取）→ 抓住的想法 → 概念</div>
+        <div class="label">词源</div><div>拉丁语 conceptus「构想；概念」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">产品/提案：product concept（产品概念）；grasp the concept（理解概念）；concept design（概念设计）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">product concept（产品概念）</span><span class="chip">grasp the concept（理解概念）</span><span class="chip">marketing concept（营销理念）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The design team presented a new product concept yesterday.</en>
+          <zh>设计团队昨天展示了一个新的产品概念。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">concern</span>
+        <span class="ipa">/kənˈsɜːrn/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">关心；担忧；涉及；公司</div>
+        <div class="label">词根</div><div>con- + cern（分辨）→ 与己有关 → 关切</div>
+        <div class="label">词源</div><div>拉丁语 concernere「混在一起；涉及」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务沟通：express concern（表达关切）；of concern（令人担忧的）；as far as … is concerned（就……而言）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">express concern（表达关切）</span><span class="chip">raise a concern（提出担忧）</span><span class="chip">primary concern（首要关切）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Our primary concern is meeting the client’s quality standards.</en>
+          <zh>我们的首要关切是达到客户的质量标准。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">concession</span>
+        <span class="ipa">/kənˈseʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">让步；特许；concession stand 摊位</div>
+        <div class="label">词根</div><div>con- + cess（走）+ -ion → 让步走开 → 让步/特许</div>
+        <div class="label">词源</div><div>拉丁语 concessiō「允许；让步」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">谈判/特许：make a concession（作出让步）；price concession（价格让步）；tax concession（税收优惠）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">make a concession（作出让步）</span><span class="chip">price concession（价格让步）</span><span class="chip">tax concession（税收优惠）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The supplier offered a small price concession on the bulk order.</en>
+          <zh>供应商对大宗订单给出了小幅价格让步。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">concise</span>
+        <span class="ipa">/kənˈsaɪs/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">简洁的；简明的；精练的</div>
+        <div class="label">词根</div><div>con- + cise（切割）→ 切短 → 简洁</div>
+        <div class="label">词源</div><div>拉丁语 concīsus「切短的」← caedere「切」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务写作：concise summary（简明摘要）；be concise（表达简洁）；clear and concise（清晰简洁）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">concise summary（简明摘要）</span><span class="chip">clear and concise（清晰简洁）</span><span class="chip">concise report（简洁报告）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please keep your presentation clear and concise.</en>
+          <zh>请保持演示清晰简洁。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">confident</span>
+        <span class="ipa">/ˈkɑːnfɪdənt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">自信的；有把握的；确信的</div>
+        <div class="label">词根</div><div>con- + fid（信任）+ -ent → 充满信任的</div>
+        <div class="label">词源</div><div>拉丁语 cōnfīdēns「信任的；自信的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">面试/沟通：feel confident（感到自信）；confident that（确信……）；build confidence（建立信心，相关名词）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">feel confident（感到自信）</span><span class="chip">confident that（确信……）</span><span class="chip">confident prediction（有把握的预测）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We are confident that sales will improve next quarter.</en>
+          <zh>我们确信下季度销售额会有所提升。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">confidential</span>
+        <span class="ipa">/ˌkɑːnfɪˈdenʃl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">机密的；保密的；亲信的</div>
+        <div class="label">词根</div><div>confident + -ial → 须予信任保护的 → 机密</div>
+        <div class="label">词源</div><div>拉丁语 confīdentiālis「值得信任的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">文件/HR：confidential information（机密信息）；keep confidential（保密）；strictly confidential（严格保密）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">confidential information（机密信息）</span><span class="chip">keep confidential（保密）</span><span class="chip">strictly confidential（严格保密）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please treat this document as strictly confidential.</en>
+          <zh>请将此文件视为严格保密。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">contact</span>
+        <span class="ipa">/ˈkɑːntækt/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">联系；接触；联络人</div>
+        <div class="label">词根</div><div>con- + tact（触）→ 接触/联系</div>
+        <div class="label">词源</div><div>拉丁语 contactus「接触」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务联络：contact person（联系人）；get in contact（取得联系）；contact information（联系方式）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">contact person（联系人）</span><span class="chip">get in contact（取得联系）</span><span class="chip">contact information（联系方式）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please contact our sales team for a customized quote.</en>
+          <zh>如需定制报价，请联系我们的销售团队。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">corporate</span>
+        <span class="ipa">/ˈkɔːrpərət/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">公司的；法人的；团体的</div>
+        <div class="label">词根</div><div>corpor-（身体/团体）+ -ate → 法人团体的</div>
+        <div class="label">词源</div><div>拉丁语 corporātus「结成团体的」← corpus「身体」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公司语境：corporate culture（企业文化）；corporate headquarters（公司总部）；corporate client（企业客户）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">corporate culture（企业文化）</span><span class="chip">corporate headquarters（公司总部）</span><span class="chip">corporate client（企业客户）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The firm is revising its corporate culture guidelines.</en>
+          <zh>该公司正在修订企业文化准则。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">correspondence</span>
+        <span class="ipa">/ˌkɔːrəˈspɑːndəns/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">通信；往来信件；对应关系</div>
+        <div class="label">词根</div><div>correspond（通信/对应）+ -ence → 通信往来</div>
+        <div class="label">词源</div><div>中古法语 correspondence「一致；通信」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公文书：business correspondence（商务信函）；in correspondence with（与……通信）；written correspondence（书面往来）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">business correspondence（商务信函）</span><span class="chip">in correspondence with（与……通信）</span><span class="chip">email correspondence（邮件往来）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>All business correspondence should be filed by date.</en>
+          <zh>所有商务信函应按日期归档。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">criterion</span>
+        <span class="ipa">/kraɪˈtɪriən/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">标准；准则；尺度（复 criteria）</div>
+        <div class="label">词根</div><div>crit-（判断）+ -erion → 判断标准</div>
+        <div class="label">词源</div><div>希腊语 kritērion「判断的手段」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">评审/招聘：selection criteria（选拔标准）；meet the criteria（符合标准）；main criterion（主要标准）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">selection criteria（选拔标准）</span><span class="chip">meet the criteria（符合标准）</span><span class="chip">main criterion（主要标准）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Price is not the only criterion for choosing a supplier.</en>
+          <zh>价格并非选择供应商的唯一标准。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">crucial</span>
+        <span class="ipa">/ˈkruːʃl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">至关重要的；关键的；决定性的</div>
+        <div class="label">词根</div><div>cruc-（十字）+ -ial → 十字路口般关键的</div>
+        <div class="label">词源</div><div>拉丁语 cruciālis「十字形的；关键的」← crux「十字」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">决策：crucial decision（关键决定）；play a crucial role（起关键作用）；crucial to success（对成功至关重要）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">crucial decision（关键决定）</span><span class="chip">play a crucial role（起关键作用）</span><span class="chip">crucial factor（关键因素）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Timely communication is crucial to project success.</en>
+          <zh>及时沟通对项目成功至关重要。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">customer</span>
+        <span class="ipa">/ˈkʌstəmər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">顾客；客户；主顾</div>
+        <div class="label">词根</div><div>custom（习惯/光顾）+ -er → 常光顾之人</div>
+        <div class="label">词源</div><div>中古英语 custumer「常客」← custom「习惯」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">销售/客服：customer service（客户服务）；loyal customer（忠实客户）；customer satisfaction（客户满意度）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">customer service（客户服务）</span><span class="chip">loyal customer（忠实客户）</span><span class="chip">customer satisfaction（客户满意度）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Customer satisfaction remains our top performance metric.</en>
+          <zh>客户满意度仍是我们的首要业绩指标。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
