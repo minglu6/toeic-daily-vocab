@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 10/5 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.10.05</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">damage</span>
+        <span class="ipa">/ˈdæmɪdʒ/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">损坏；损害；损失</div>
+        <div class="label">词根</div><div>dam-（损失）+ -age（名词后缀）</div>
+        <div class="label">词源</div><div>古法语 damage「损害」← 拉丁语 damnum「损失」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">物流/索赔：damaged goods（受损货物）；damage during shipping（运输途中损坏）；damages 复数常指「赔偿金」</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">cause damage（造成损坏）</span><span class="chip">damaged in transit（运输中受损）</span><span class="chip">claim damages（索赔）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please report any items that were damaged in transit within 48 hours.</en>
+          <zh>运输途中受损的物品请在 48 小时内报告。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">debt</span>
+        <span class="ipa">/det/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">债务；欠款</div>
+        <div class="label">词根</div><div>deb-（欠）+ -t；b 不发音</div>
+        <div class="label">词源</div><div>拉丁语 debitum「所欠之物」← debere「欠」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务：in debt（负债）；pay off a debt（还清债务）；debt-to-equity ratio（负债权益比）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">pay off a debt（还清债务）</span><span class="chip">outstanding debt（未偿债务）</span><span class="chip">reduce debt（减少负债）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company used the proceeds from the sale to pay off its debt.</en>
+          <zh>公司用出售所得款项还清了债务。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">defect</span>
+        <span class="ipa">/ˈdiːfekt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">缺陷；瑕疵</div>
+        <div class="label">词根</div><div>de-（离开、缺失）+ fect（做）→ 没做好</div>
+        <div class="label">词源</div><div>拉丁语 defectus「缺失」← deficere「缺少」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">质检/保修：manufacturing defect（制造缺陷）；defective 形容词「有缺陷的」常考词性辨析</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">manufacturing defect（制造缺陷）</span><span class="chip">detect a defect（发现瑕疵）</span><span class="chip">free from defects（无瑕疵）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The warranty covers any manufacturing defect for two years.</en>
+          <zh>保修涵盖两年内的任何制造缺陷。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">delegate</span>
+        <span class="ipa">/ˈdelɪɡeɪt/ (v.) · /ˈdelɪɡət/ (n.)</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">委派；授权；代表</div>
+        <div class="label">词根</div><div>de-（离开）+ leg（派遣）+ -ate</div>
+        <div class="label">词源</div><div>拉丁语 delegare「派遣、委托」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">管理：delegate tasks to（把任务委派给）；会议：conference delegates（与会代表）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">delegate tasks（委派任务）</span><span class="chip">delegate authority（授权）</span><span class="chip">conference delegate（会议代表）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Good managers know how to delegate tasks to their team members.</en>
+          <zh>好的经理懂得把任务委派给团队成员。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">dependable</span>
+        <span class="ipa">/dɪˈpendəbl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">可靠的；可信赖的</div>
+        <div class="label">词根</div><div>de-（向下）+ pend（悬挂）+ -able（能…的）</div>
+        <div class="label">词源</div><div>depend ← 古法语 dependre ← 拉丁语 dependere「悬挂于」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">推荐信/招聘：同义 reliable（可靠的）；dependable supplier（可靠的供应商）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">dependable supplier（可靠的供应商）</span><span class="chip">dependable service（可靠的服务）</span><span class="chip">highly dependable（非常可靠）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We chose the vendor because of its dependable delivery record.</en>
+          <zh>我们选择这家供应商是因为其交货记录可靠。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">depreciation</span>
+        <span class="ipa">/dɪˌpriːʃiˈeɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">折旧；贬值</div>
+        <div class="label">词根</div><div>de-（向下）+ preci（价格）+ -ation</div>
+        <div class="label">词源</div><div>拉丁语 depretiare「降低价值」← pretium「价格」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会计：depreciation of equipment（设备折旧）；反义 appreciation（升值）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">annual depreciation（年度折旧）</span><span class="chip">currency depreciation（货币贬值）</span><span class="chip">depreciation expense（折旧费用）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The accountant calculated the depreciation of the company's vehicles.</en>
+          <zh>会计计算了公司车辆的折旧。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">deputy</span>
+        <span class="ipa">/ˈdepjuti/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">副手；代理人；副的</div>
+        <div class="label">词根</div><div>源自 depute（委派）</div>
+        <div class="label">词源</div><div>古法语 deputé「被委派者」← 拉丁语 deputare「指派」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">职位：deputy director（副主任）；deputy manager（副经理）；acting 表「代理的」</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">deputy director（副主任）</span><span class="chip">deputy manager（副经理）</span><span class="chip">act as deputy（担任代理）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The deputy manager will chair the meeting in Ms. Chen's absence.</en>
+          <zh>陈女士不在时，由副经理主持会议。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">description</span>
+        <span class="ipa">/dɪˈskrɪpʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">描述；说明</div>
+        <div class="label">词根</div><div>de-（向下）+ script（写）+ -ion</div>
+        <div class="label">词源</div><div>拉丁语 descriptio ← describere「写下、描绘」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">招聘：job description（职位描述）；商品：product description（产品说明）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">job description（职位描述）</span><span class="chip">product description（产品说明）</span><span class="chip">detailed description（详细说明）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please read the job description carefully before applying.</en>
+          <zh>申请前请仔细阅读职位描述。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">destination</span>
+        <span class="ipa">/ˌdestɪˈneɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">目的地；终点</div>
+        <div class="label">词根</div><div>destin（注定、确定）+ -ation</div>
+        <div class="label">词源</div><div>拉丁语 destinatio ← destinare「确定、指定」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅：final destination（最终目的地）；travel destination（旅游目的地）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">final destination（最终目的地）</span><span class="chip">popular destination（热门目的地）</span><span class="chip">arrive at the destination（抵达目的地）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Your luggage will be checked through to your final destination.</en>
+          <zh>您的行李将直接托运至最终目的地。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">detach</span>
+        <span class="ipa">/dɪˈtætʃ/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">拆下；分离；撕下</div>
+        <div class="label">词根</div><div>de-（分开）+ tach（钉住）；反义 attach</div>
+        <div class="label">词源</div><div>法语 détacher「解开」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">表格题：detach and return the form（撕下并寄回表格）；detachable（可拆卸的）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">detach the coupon（撕下优惠券）</span><span class="chip">detach and return（撕下寄回）</span><span class="chip">detach from（从…分离）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please detach the bottom portion and return it with your payment.</en>
+          <zh>请撕下底部回执，连同付款一并寄回。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">detail</span>
+        <span class="ipa">/ˈdiːteɪl/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">细节；详述</div>
+        <div class="label">词根</div><div>de-（完全）+ tail（切）→ 切成小块</div>
+        <div class="label">词源</div><div>法语 détail「切成小份」← tailler「切」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">高频：in detail（详细地）；for further details（欲知详情）；detailed report（详细报告）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">in detail（详细地）</span><span class="chip">attention to detail（注重细节）</span><span class="chip">further details（更多详情）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>For further details, please contact our customer service team.</en>
+          <zh>欲知详情，请联系我们的客服团队。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">detect</span>
+        <span class="ipa">/dɪˈtekt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">发现；察觉；检测</div>
+        <div class="label">词根</div><div>de-（去掉）+ tect（遮盖）→ 揭开</div>
+        <div class="label">词源</div><div>拉丁语 detegere「揭开」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">质检/IT：detect errors（发现错误）；detection（检测，名词）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">detect errors（发现错误）</span><span class="chip">detect a problem（察觉问题）</span><span class="chip">easily detected（容易检测到）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The new software can detect errors in invoices automatically.</en>
+          <zh>新软件能自动检测发票中的错误。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">devise</span>
+        <span class="ipa">/dɪˈvaɪz/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">设计；想出（方案）</div>
+        <div class="label">词根</div><div>同源 divide；de-/di-（分开）+ vise（看、分）</div>
+        <div class="label">词源</div><div>古法语 deviser「划分、安排」← 拉丁语 dividere</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">策略题：devise a plan / strategy（制定计划/策略）；别与 device（设备，名词）混淆</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">devise a strategy（制定策略）</span><span class="chip">devise a plan（想出计划）</span><span class="chip">devise a solution（设计解决方案）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The team devised a new strategy to reduce shipping costs.</en>
+          <zh>团队制定了一项降低运费的新策略。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">diminish</span>
+        <span class="ipa">/dɪˈmɪnɪʃ/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">减少；降低；削弱</div>
+        <div class="label">词根</div><div>di-（加强）+ min（小）+ -ish</div>
+        <div class="label">词源</div><div>拉丁语 deminuere「使变小」+ 中古英语 minish</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">趋势：同义 decrease（减少）、decline（下降）；diminishing returns（收益递减）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">diminish demand（需求减少）</span><span class="chip">diminishing returns（收益递减）</span><span class="chip">greatly diminished（大幅减少）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Demand for the older model has diminished since the launch.</en>
+          <zh>新品上市后，旧款的需求已经减少。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">direct</span>
+        <span class="ipa">/dəˈrekt/</span>
+        <span class="pos">v./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">指引；指导；直接的</div>
+        <div class="label">词根</div><div>di-（分开）+ rect（直、引导）</div>
+        <div class="label">词源</div><div>拉丁语 directus ← dirigere「引导、使直」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">高频：direct questions to（问题请咨询…）；direct flight（直飞航班）；directly（直接地）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">direct inquiries to（咨询请联系）</span><span class="chip">direct flight（直飞航班）</span><span class="chip">direct deposit（直接存入工资）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please direct all questions about payroll to the HR department.</en>
+          <zh>所有工资相关问题请咨询人力资源部。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">directory</span>
+        <span class="ipa">/dəˈrektəri/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">名录；通讯录；目录</div>
+        <div class="label">词根</div><div>direct（指引）+ -ory（地方、物）</div>
+        <div class="label">词源</div><div>中世纪拉丁语 directorium「指南」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公：staff directory（员工通讯录）；building directory（楼层指示牌）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">staff directory（员工通讯录）</span><span class="chip">business directory（企业名录）</span><span class="chip">online directory（在线名录）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>You can find her extension number in the staff directory.</en>
+          <zh>你可以在员工通讯录里找到她的分机号。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">discontinue</span>
+        <span class="ipa">/ˌdɪskənˈtɪnjuː/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">停止；停产；中止</div>
+        <div class="label">词根</div><div>dis-（否定）+ continue（继续）</div>
+        <div class="label">词源</div><div>古法语 discontinuer ← 中世纪拉丁语 discontinuare</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">产品/服务：discontinued model（停产型号）；discontinue a service（停止服务）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">discontinue production（停产）</span><span class="chip">discontinued item（停售商品）</span><span class="chip">discontinue a service（停止服务）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>This printer model has been discontinued, but parts are still available.</en>
+          <zh>这款打印机已停产，但零件仍有供应。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">discretion</span>
+        <span class="ipa">/dɪˈskreʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">自行决定权；谨慎</div>
+        <div class="label">词根</div><div>dis-（分开）+ cret（区分）+ -ion</div>
+        <div class="label">词源</div><div>拉丁语 discretio「辨别」← discernere</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">政策条款：at the discretion of（由…酌情决定）；at your discretion（由你决定）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">at the manager's discretion（由经理酌情决定）</span><span class="chip">use discretion（谨慎行事）</span><span class="chip">sole discretion（全权决定）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Bonuses are awarded at the discretion of the department head.</en>
+          <zh>奖金由部门主管酌情发放。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">dispatch</span>
+        <span class="ipa">/dɪˈspætʃ/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">发送；派遣；发货</div>
+        <div class="label">词根</div><div>dis-（离开）+ patch（阻碍）→ 去除阻碍、快速送出</div>
+        <div class="label">词源</div><div>意大利语 dispacciare / 西班牙语 despachar「加快、送出」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">物流：dispatch an order（发货）；同义 ship（运送）、send out（寄出）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">dispatch an order（发出订单货物）</span><span class="chip">dispatch a technician（派遣技术员）</span><span class="chip">ready for dispatch（待发货）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>All orders placed before noon are dispatched the same day.</en>
+          <zh>中午前下的订单均于当天发货。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">display</span>
+        <span class="ipa">/dɪˈspleɪ/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">展示；陈列；显示</div>
+        <div class="label">词根</div><div>dis-（展开）+ play（折叠，源自 plicare）</div>
+        <div class="label">词源</div><div>古法语 despleier「展开」← 拉丁语 displicare</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">零售/展会：on display（展出中）；window display（橱窗陈列）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">on display（展出中）</span><span class="chip">display case（陈列柜）</span><span class="chip">display samples（展示样品）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The new product line will be on display at the trade fair.</en>
+          <zh>新产品系列将在贸易展上展出。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">dispose</span>
+        <span class="ipa">/dɪˈspəʊz/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">处理；丢弃</div>
+        <div class="label">词根</div><div>dis-（分开）+ pose（放置）</div>
+        <div class="label">词源</div><div>古法语 disposer「安排」← 拉丁语 disponere</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">固定搭配：dispose of（处理掉；必带 of）；disposal（处置，名词）；disposable（一次性的）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">dispose of waste（处理废物）</span><span class="chip">properly dispose of（妥善处理）</span><span class="chip">waste disposal（废物处理）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please dispose of used batteries in the designated container.</en>
+          <zh>请将废旧电池丢进指定的回收箱。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">distinguish</span>
+        <span class="ipa">/dɪˈstɪŋɡwɪʃ/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">区分；使与众不同</div>
+        <div class="label">词根</div><div>di-（分开）+ sting（刺、标记）+ -uish</div>
+        <div class="label">词源</div><div>拉丁语 distinguere「分开、区别」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">搭配：distinguish A from B（区分A与B）；distinguished（杰出的）常用于嘉宾介绍</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">distinguish A from B（区分A与B）</span><span class="chip">distinguish itself（脱颖而出）</span><span class="chip">distinguished guest（贵宾）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Excellent service distinguishes our hotel from its competitors.</en>
+          <zh>优质服务让我们的酒店在竞争对手中脱颖而出。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">diversify</span>
+        <span class="ipa">/daɪˈvɜːsɪfaɪ/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">使多样化；扩大经营范围</div>
+        <div class="label">词根</div><div>di-（分开）+ vers（转）+ -ify（使…）</div>
+        <div class="label">词源</div><div>古法语 diversifier ← 拉丁语 diversus「不同的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">经营/投资：diversify into（向…多元化发展）；diversify a portfolio（分散投资组合）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">diversify into new markets（拓展新市场）</span><span class="chip">diversify products（产品多样化）</span><span class="chip">diversify a portfolio（分散投资组合）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The firm plans to diversify into renewable energy.</en>
+          <zh>公司计划向可再生能源领域拓展业务。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">dividend</span>
+        <span class="ipa">/ˈdɪvɪdend/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">股息；红利</div>
+        <div class="label">词根</div><div>divid（分开）+ -end（被…的）→ 要分配的</div>
+        <div class="label">词源</div><div>拉丁语 dividendum「待分配之物」← dividere</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财报：pay a dividend（派发股息）；shareholders（股东）常同现</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">pay a dividend（派发股息）</span><span class="chip">annual dividend（年度股息）</span><span class="chip">dividend payment（股息支付）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The board announced a higher dividend for shareholders this year.</en>
+          <zh>董事会宣布今年向股东派发更高的股息。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">donation</span>
+        <span class="ipa">/dəʊˈneɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">捐赠；捐款</div>
+        <div class="label">词根</div><div>don（给予）+ -ation</div>
+        <div class="label">词源</div><div>拉丁语 donatio ← donare「赠予」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公益/企业社会责任：make a donation to（向…捐款）；donor（捐赠者）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">make a donation（捐款）</span><span class="chip">charitable donation（慈善捐赠）</span><span class="chip">accept donations（接受捐赠）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company made a donation to the local children's hospital.</en>
+          <zh>公司向当地儿童医院捐了款。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">durable</span>
+        <span class="ipa">/ˈdjʊərəbl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">耐用的；持久的</div>
+        <div class="label">词根</div><div>dur（持续）+ -able</div>
+        <div class="label">词源</div><div>拉丁语 durabilis ← durare「持续」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">产品广告：durable materials（耐用材料）；durable goods（耐用品）；durability（耐用性）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">durable materials（耐用材料）</span><span class="chip">durable goods（耐用消费品）</span><span class="chip">highly durable（非常耐用）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>These office chairs are made of durable, easy-to-clean materials.</en>
+          <zh>这些办公椅由耐用且易清洁的材料制成。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">duplicate</span>
+        <span class="ipa">/ˈdjuːplɪkət/ (n./adj.) · /ˈdjuːplɪkeɪt/ (v.)</span>
+        <span class="pos">n./v./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">副本；复制；重复的</div>
+        <div class="label">词根</div><div>du-（二）+ plic（折叠）+ -ate</div>
+        <div class="label">词源</div><div>拉丁语 duplicare「加倍」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">文件：in duplicate（一式两份）；duplicate payment（重复付款）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">in duplicate（一式两份）</span><span class="chip">duplicate copy（副本）</span><span class="chip">duplicate payment（重复付款）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please submit the signed contract in duplicate.</en>
+          <zh>请提交一式两份已签署的合同。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">duty</span>
+        <span class="ipa">/ˈdjuːti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">职责；值班；关税</div>
+        <div class="label">词根</div><div>du(e)（应付的）+ -ty</div>
+        <div class="label">词源</div><div>英法语 dueté「应尽之事」← due</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">多义：on duty（值班）；duties（职责）；customs duty / duty-free（关税/免税）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">on duty（值班中）</span><span class="chip">job duties（工作职责）</span><span class="chip">duty-free（免税的）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Her main duties include scheduling meetings and handling client calls.</en>
+          <zh>她的主要职责包括安排会议和处理客户来电。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">economical</span>
+        <span class="ipa">/ˌiːkəˈnɒmɪkl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">经济实惠的；节约的</div>
+        <div class="label">词根</div><div>eco（家）+ nom（管理）+ -ical</div>
+        <div class="label">词源</div><div>希腊语 oikonomia「家政管理」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">词形辨析：economical（省钱的）vs economic（经济上的，如 economic growth 经济增长）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">economical option（经济实惠的选择）</span><span class="chip">fuel-economical（省油的）</span><span class="chip">economical to run（运行成本低）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Taking the train is the most economical way to get to the conference.</en>
+          <zh>坐火车是去会议最经济实惠的方式。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">effective</span>
+        <span class="ipa">/ɪˈfektɪv/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">有效的；（政策）生效的</div>
+        <div class="label">词根</div><div>ef-（出）+ fect（做）+ -ive</div>
+        <div class="label">词源</div><div>拉丁语 effectivus ← efficere「完成」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">政策通知：effective immediately（立即生效）；effective + 日期（自…起生效）；cost-effective（划算的）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">effective immediately（立即生效）</span><span class="chip">effective as of（自…起生效）</span><span class="chip">cost-effective（划算的）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The new dress code is effective as of November 1.</en>
+          <zh>新着装规定自 11 月 1 日起生效。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
