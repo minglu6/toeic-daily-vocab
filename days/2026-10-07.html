@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 10/7 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.10.07</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">gather</span>
+        <span class="ipa">/ˈɡæðər/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">收集；聚集；推断</div>
+        <div class="label">词根</div><div>无明显词根（古英语本族词）</div>
+        <div class="label">词源</div><div>古英语 gaderian「聚到一起」，与 together 同源</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议高频：gather feedback（收集反馈）；gather in the lobby（在大厅集合）；from what I gather（据我了解）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">gather information（收集信息）</span><span class="chip">gather customer feedback（收集客户反馈）</span><span class="chip">gather in the conference room（在会议室集合）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please gather in the main lobby at 8:30 A.M. for the factory tour.</en>
+          <zh>请于上午 8:30 在主大厅集合参加工厂参观。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">gauge</span>
+        <span class="ipa">/ɡeɪdʒ/</span>
+        <span class="pos">v. / n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">估计；衡量；量具</div>
+        <div class="label">词根</div><div>无明显词根</div>
+        <div class="label">词源</div><div>古北法语 gauger「测量（容量）」，来源或为法兰克语</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">gauge interest（衡量兴趣/需求）；gauge customer reaction（评估客户反应）；注意拼写 au 不读 /ɔː/</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">gauge public interest（评估公众兴趣）</span><span class="chip">gauge customer satisfaction（衡量客户满意度）</span><span class="chip">a fuel gauge（油量表）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The survey was designed to gauge employee interest in a flexible schedule.</en>
+          <zh>这项调查旨在了解员工对弹性工作时间的兴趣。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">gratuity</span>
+        <span class="ipa">/ɡrəˈtuːəti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">小费；（离职）赏金</div>
+        <div class="label">词根</div><div>grat（感谢；令人愉悦）+ -uity（名词）</div>
+        <div class="label">词源</div><div>中古法语 gratuité ← 拉丁语 gratuitus「免费的，出于好意的」← gratia「感激」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">旅行/餐饮高频：gratuity is included（已含小费）；= tip（小费）；同根 gratitude（感激）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">gratuity included（含小费）</span><span class="chip">a 15 percent gratuity（15% 的小费）</span><span class="chip">leave a gratuity（留下小费）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>A 15 percent gratuity will be added to bills for groups of eight or more.</en>
+          <zh>八人及以上的团体账单将加收 15% 的小费。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">gross</span>
+        <span class="ipa">/ɡroʊs/</span>
+        <span class="pos">adj. / v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">总的；毛的（未扣除的）；获得…毛收入</div>
+        <div class="label">词根</div><div>无明显词根</div>
+        <div class="label">词源</div><div>古法语 gros「大的，粗的」← 晚期拉丁语 grossus「厚的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：gross vs. net（毛额 vs. 净额）；gross profit（毛利）；动词 gross $2 million（毛收入达 200 万美元）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">gross income（总收入）</span><span class="chip">gross profit margin（毛利率）</span><span class="chip">gross domestic product（国内生产总值）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The firm's gross revenue rose by 12 percent in the third quarter.</en>
+          <zh>公司第三季度的总营收增长了 12%。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">guideline</span>
+        <span class="ipa">/ˈɡaɪdlaɪn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">指导方针；准则</div>
+        <div class="label">词根</div><div>guide（指引）+ line（线）</div>
+        <div class="label">词源</div><div>guide ← 古法语 guider「引导」；合成词 20 世纪初</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">常用复数：follow the guidelines（遵守准则）；safety guidelines（安全须知）；in accordance with the guidelines（依照规定）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">follow the guidelines（遵守准则）</span><span class="chip">safety guidelines（安全指南）</span><span class="chip">issue new guidelines（发布新规定）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>All staff must follow the updated guidelines for submitting expense reports.</en>
+          <zh>全体员工必须遵守提交报销单的新规定。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">handout</span>
+        <span class="ipa">/ˈhændaʊt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">讲义；发放的资料；救济品</div>
+        <div class="label">词根</div><div>hand（手）+ out（出）</div>
+        <div class="label">词源</div><div>由动词短语 hand out「分发」名词化而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/培训高频：distribute handouts（分发讲义）；动词短语 hand out（分发）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">distribute handouts（分发讲义）</span><span class="chip">a handout on the agenda（议程讲义）</span><span class="chip">printed handouts（打印资料）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Copies of the handout will be distributed at the start of the seminar.</en>
+          <zh>讲义将在研讨会开始时分发。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">hazard</span>
+        <span class="ipa">/ˈhæzərd/</span>
+        <span class="pos">n. / v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">危险；危害；冒险提出</div>
+        <div class="label">词根</div><div>无明显词根</div>
+        <div class="label">词源</div><div>古法语 hasard「一种骰子游戏」← 阿拉伯语 az-zahr「骰子」（一说）</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">安全高频：safety hazard（安全隐患）；fire hazard（火灾隐患）；形容词 hazardous materials（危险物品）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a safety hazard（安全隐患）</span><span class="chip">hazardous waste（危险废物）</span><span class="chip">pose a hazard（构成危险）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Boxes left in the hallway pose a fire hazard and must be removed.</en>
+          <zh>堆在走廊的箱子构成火灾隐患，必须移走。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">hesitate</span>
+        <span class="ipa">/ˈhezɪteɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">犹豫；迟疑</div>
+        <div class="label">词根</div><div>haes（粘住）+ -itate（反复）</div>
+        <div class="label">词源</div><div>拉丁语 haesitare「卡住，犹豫」← haerere「粘附」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">邮件结尾套语：Please do not hesitate to contact me（如有问题请随时联系我）；hesitate to + do（犹豫做…）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">do not hesitate to contact us（请随时与我们联系）</span><span class="chip">hesitate to ask（不好意思问）</span><span class="chip">without hesitation（毫不犹豫）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>If you have any questions, please do not hesitate to contact our help desk.</en>
+          <zh>如有任何问题，请随时联系我们的服务台。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">hinder</span>
+        <span class="ipa">/ˈhɪndər/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">阻碍；妨碍</div>
+        <div class="label">词根</div><div>hind（后面）+ -er（动词）</div>
+        <div class="label">词源</div><div>古英语 hindrian「阻止，使落后」，与 behind 同源</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">hinder progress（阻碍进展）；名词 hindrance（障碍）；近义 impede / hamper（阻碍）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">hinder progress（阻碍进展）</span><span class="chip">hinder productivity（影响效率）</span><span class="chip">hinder growth（阻碍增长）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Frequent system outages have hindered the team's progress on the project.</en>
+          <zh>频繁的系统故障阻碍了团队的项目进展。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">host</span>
+        <span class="ipa">/hoʊst/</span>
+        <span class="pos">v. / n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">主办；主持；主人</div>
+        <div class="label">词根</div><div>无明显词根</div>
+        <div class="label">词源</div><div>古法语 hoste ← 拉丁语 hospes「主人；客人」，与 hospital / hospitality 同源</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">活动高频：host a conference（主办会议）；play host to（作为…的主办方）；host city（主办城市）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">host a reception（举办招待会）</span><span class="chip">host a webinar（主持网络研讨会）</span><span class="chip">the host company（主办公司）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Our branch will host the regional sales conference next spring.</en>
+          <zh>我们分公司将于明年春季主办区域销售会议。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">illustrate</span>
+        <span class="ipa">/ˈɪləstreɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">说明；阐明；配插图</div>
+        <div class="label">词根</div><div>il-（加强）+ lustr（光亮）+ -ate（动词）</div>
+        <div class="label">词源</div><div>拉丁语 illustrare「照亮，阐明」← lustrare「使明亮」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">报告高频：as illustrated in the chart（如图表所示）；名词 illustration（插图；例证）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">illustrate a point（说明一个观点）</span><span class="chip">as illustrated in Figure 2（如图 2 所示）</span><span class="chip">illustrated brochure（带插图的宣传册）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The chart illustrates how sales have changed over the past five years.</en>
+          <zh>这张图表说明了过去五年的销售变化。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">immediate</span>
+        <span class="ipa">/ɪˈmiːdiət/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">立即的；直接的；最接近的</div>
+        <div class="label">词根</div><div>im-（不）+ medi（中间）+ -ate（形容词）</div>
+        <div class="label">词源</div><div>晚期拉丁语 immediatus「没有中间者的，直接的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">effective immediately（即日生效）；immediate supervisor（直属上司）；immediate vicinity（附近）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">immediate supervisor（直属上司）</span><span class="chip">take immediate action（立即采取行动）</span><span class="chip">effective immediately（立即生效）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Report any equipment malfunction to your immediate supervisor.</en>
+          <zh>任何设备故障请报告给你的直属上司。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">imply</span>
+        <span class="ipa">/ɪmˈplaɪ/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">暗示；意味着</div>
+        <div class="label">词根</div><div>im-（向内）+ ply（折叠）</div>
+        <div class="label">词源</div><div>古法语 emplier ← 拉丁语 implicare「卷入，牵连」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">Part 7 推断题：What is implied about…?（关于…暗示了什么？）；名词 implication（含义；影响）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">imply that…（暗示…）</span><span class="chip">the implied meaning（言外之意）</span><span class="chip">financial implications（财务影响）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>What is implied about the new branch office?</en>
+          <zh>关于新分公司，文中暗示了什么？</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">import</span>
+        <span class="ipa">/ɪmˈpɔːrt/</span>
+        <span class="pos">v. / n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">进口；输入；进口商品</div>
+        <div class="label">词根</div><div>im-（向内）+ port（运送）</div>
+        <div class="label">词源</div><div>拉丁语 importare「运进」← portare「搬运」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">名词重音在前 /ˈɪmpɔːrt/，动词在后；import duties（进口关税）；反义 export（出口）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">import goods from overseas（从海外进口商品）</span><span class="chip">import duties（进口关税）</span><span class="chip">import restrictions（进口限制）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company imports most of its raw materials from Southeast Asia.</en>
+          <zh>公司大部分原材料从东南亚进口。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">inaugurate</span>
+        <span class="ipa">/ɪˈnɔːɡjəreɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">为…举行开幕/就职典礼；开创</div>
+        <div class="label">词根</div><div>in-（向内）+ augur（占卜）+ -ate（动词）</div>
+        <div class="label">词源</div><div>拉丁语 inaugurare「占卜后就职」← augur「占卜官」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">inaugural ceremony（开幕/就职典礼）；inaugurate a new route（开通新航线）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">inaugurate a new facility（新设施启用）</span><span class="chip">the inaugural meeting（首次会议）</span><span class="chip">inaugurate a service（开通一项服务）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The mayor will inaugurate the new convention center on Friday.</en>
+          <zh>市长将于周五为新会展中心揭幕。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">income</span>
+        <span class="ipa">/ˈɪnkʌm/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">收入；所得</div>
+        <div class="label">词根</div><div>in（进入）+ come（来）</div>
+        <div class="label">词源</div><div>中古英语 incomen「进来」；16 世纪起指「收入」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">income tax（所得税）；net income（净收入）；辨析 income（收入，个人/企业）vs. revenue（营业收入）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">annual income（年收入）</span><span class="chip">income tax return（所得税申报表）</span><span class="chip">a steady source of income（稳定收入来源）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Rental properties provide the firm with a steady source of income.</en>
+          <zh>出租物业为公司提供了稳定的收入来源。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">incorporate</span>
+        <span class="ipa">/ɪnˈkɔːrpəreɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">包含；纳入；注册成立公司</div>
+        <div class="label">词根</div><div>in-（进入）+ corpor（身体）+ -ate（动词）</div>
+        <div class="label">词源</div><div>晚期拉丁语 incorporare「使成为一体」← corpus「身体」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">incorporate A into B（把 A 纳入 B）；incorporated = Inc.（股份有限公司）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">incorporate feedback（吸纳反馈）</span><span class="chip">incorporate changes into the design（把修改纳入设计）</span><span class="chip">an incorporated company（注册公司）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We have incorporated customer suggestions into the new product design.</en>
+          <zh>我们已将客户建议融入新产品设计中。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">increment</span>
+        <span class="ipa">/ˈɪŋkrəmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">增量；（薪水的）定期增加</div>
+        <div class="label">词根</div><div>in-（加强）+ cre（生长）+ -ment（名词）</div>
+        <div class="label">词源</div><div>拉丁语 incrementum「增长」← increscere「增大」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：salary increment（加薪）；in increments of（以…为增量）；形容词 incremental（逐步的）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an annual salary increment（年度加薪）</span><span class="chip">in small increments（一点一点地）</span><span class="chip">incremental growth（逐步增长）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Employees receive an annual salary increment based on performance.</en>
+          <zh>员工每年根据绩效获得加薪。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">indispensable</span>
+        <span class="ipa">/ˌɪndɪˈspensəbl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">不可或缺的；必不可少的</div>
+        <div class="label">词根</div><div>in-（不）+ dispens（分发；免除）+ -able（能…的）</div>
+        <div class="label">词源</div><div>中世纪拉丁语 indispensabilis「不可免除的」← dispensare「分配」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">be indispensable to / for（对…必不可少）；近义 essential / vital（关键的）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an indispensable tool（不可或缺的工具）</span><span class="chip">indispensable to the team（对团队不可或缺）</span><span class="chip">indispensable skills（必备技能）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Her experience with overseas clients has made her indispensable to the team.</en>
+          <zh>她与海外客户打交道的经验使她成为团队中不可或缺的一员。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">inflation</span>
+        <span class="ipa">/ɪnˈfleɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">通货膨胀；膨胀</div>
+        <div class="label">词根</div><div>in-（向内）+ fla（吹）+ -tion（名词）</div>
+        <div class="label">词源</div><div>拉丁语 inflatio「吹胀」← inflare；19 世纪起指物价上涨</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财经高频：inflation rate（通胀率）；adjusted for inflation（经通胀调整）；动词 inflate（抬高）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">the rate of inflation（通胀率）</span><span class="chip">adjusted for inflation（扣除通胀因素）</span><span class="chip">rising inflation（通胀上升）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Wages have not kept pace with inflation over the past two years.</en>
+          <zh>过去两年工资增长没有跟上通货膨胀。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">infrastructure</span>
+        <span class="ipa">/ˈɪnfrəstrʌktʃər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">基础设施；基础架构</div>
+        <div class="label">词根</div><div>infra-（在下）+ struct（建造）+ -ure（名词）</div>
+        <div class="label">词源</div><div>法语 infrastructure（20 世纪初），infra-「在下方」+ structure「结构」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">IT infrastructure（IT 基础架构）；invest in infrastructure（投资基础设施）；不可数名词</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">transportation infrastructure（交通基础设施）</span><span class="chip">upgrade IT infrastructure（升级 IT 架构）</span><span class="chip">infrastructure projects（基建项目）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The city plans to invest heavily in public transportation infrastructure.</en>
+          <zh>该市计划大力投资公共交通基础设施。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">ingredient</span>
+        <span class="ipa">/ɪnˈɡriːdiənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">成分；原料；（成功的）要素</div>
+        <div class="label">词根</div><div>in-（进入）+ gredi（走）+ -ent（名词）</div>
+        <div class="label">词源</div><div>拉丁语 ingredi「进入」→「进入混合物的东西」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">餐饮/产品高频：fresh ingredients（新鲜食材）；key ingredient to success（成功的关键因素）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">locally sourced ingredients（本地采购的食材）</span><span class="chip">a key ingredient（关键要素）</span><span class="chip">list of ingredients（成分表）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The restaurant uses only locally sourced ingredients.</en>
+          <zh>这家餐厅只使用本地采购的食材。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">inquire</span>
+        <span class="ipa">/ɪnˈkwaɪər/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">询问；打听</div>
+        <div class="label">词根</div><div>in-（向内）+ quir（寻求）</div>
+        <div class="label">词源</div><div>古法语 enquerre ← 拉丁语 inquirere「探寻」← quaerere「寻找」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">inquire about（询问…）；inquire into（调查…）；名词 inquiry（询问）；Part 7 常问 Why did the man write? — To inquire about…（为了询问…）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">inquire about availability（询问是否有空位/库存）</span><span class="chip">inquire about a position（询问职位）</span><span class="chip">inquire into the matter（调查此事）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>I am writing to inquire about the marketing position advertised on your website.</en>
+          <zh>我写信是想询问贵公司网站上发布的市场职位。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">installment</span>
+        <span class="ipa">/ɪnˈstɔːlmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">分期付款（的一期）；（连载的）一集</div>
+        <div class="label">词根</div><div>in-（在…上）+ stall（位置；安放）+ -ment（名词）</div>
+        <div class="label">词源</div><div>源于古法语 estaler「确定（付款）」；与 install 形近</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">pay in installments（分期付款）；monthly installments（按月分期）；英式拼写 instalment</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">pay in monthly installments（按月分期付款）</span><span class="chip">the first installment（首期款）</span><span class="chip">an installment plan（分期付款计划）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Customers can pay for the furniture in twelve monthly installments.</en>
+          <zh>顾客可以分十二个月分期支付家具款。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">instruct</span>
+        <span class="ipa">/ɪnˈstrʌkt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">指示；命令；教授</div>
+        <div class="label">词根</div><div>in-（在…上）+ struct（建造）</div>
+        <div class="label">词源</div><div>拉丁语 instruere「建造；装备；教导」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">instruct sb. to do（指示某人做…）；名词 instructions（说明；指示）；instructor（讲师）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">instruct staff to…（指示员工…）</span><span class="chip">follow the instructions（按照说明）</span><span class="chip">as instructed（按照指示）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The manager instructed all employees to back up their files before Friday.</en>
+          <zh>经理指示所有员工在周五前备份文件。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">insurance</span>
+        <span class="ipa">/ɪnˈʃʊrəns/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">保险；保险费</div>
+        <div class="label">词根</div><div>in-（使）+ sure（确定的）+ -ance（名词）</div>
+        <div class="label">词源</div><div>古法语 enseurance「保证」← ensurer「确保」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">health insurance（健康保险）；insurance policy（保险单）；insurance claim（保险索赔）；动词 insure</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">health insurance coverage（医疗保险范围）</span><span class="chip">an insurance policy（保险单）</span><span class="chip">file an insurance claim（提出保险索赔）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Full-time employees are eligible for health insurance after three months.</en>
+          <zh>全职员工三个月后可享有医疗保险。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">integrate</span>
+        <span class="ipa">/ˈɪntɪɡreɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">整合；使融入</div>
+        <div class="label">词根</div><div>integr（完整）+ -ate（动词）</div>
+        <div class="label">词源</div><div>拉丁语 integrare「使完整」← integer「完整的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">integrate A into / with B（把 A 整合进 B）；integrated system（集成系统）；名词 integration（整合）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">integrate new software（整合新软件）</span><span class="chip">integrate into the team（融入团队）</span><span class="chip">a fully integrated system（完全集成的系统）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The new app integrates seamlessly with our existing accounting software.</en>
+          <zh>这款新应用能与我们现有的会计软件无缝整合。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">interim</span>
+        <span class="ipa">/ˈɪntərɪm/</span>
+        <span class="pos">adj. / n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">临时的；过渡期的；过渡期间</div>
+        <div class="label">词根</div><div>inter（在…之间）+ -im（副词后缀）</div>
+        <div class="label">词源</div><div>拉丁语 interim「在此期间」← inter「之间」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：interim director（代理主管）；in the interim（在此期间）；近义 temporary / acting（临时的；代理的）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an interim manager（临时经理）</span><span class="chip">interim report（中期报告）</span><span class="chip">in the interim（在此期间）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Ms. Patel will serve as interim director until a replacement is hired.</en>
+          <zh>在聘到接任者之前，Patel 女士将担任代理主管。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">intermission</span>
+        <span class="ipa">/ˌɪntərˈmɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">中场休息；间歇</div>
+        <div class="label">词根</div><div>inter（在…之间）+ miss（送；放）+ -ion（名词）</div>
+        <div class="label">词源</div><div>拉丁语 intermissio「中断」← intermittere「中止」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">演出/活动高频：during the intermission（中场休息期间）；refreshments will be served（将提供茶点）；近义 break（休息）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a 15-minute intermission（15 分钟中场休息）</span><span class="chip">during the intermission（中场休息时）</span><span class="chip">without intermission（不间断地）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Refreshments will be available in the lobby during the intermission.</en>
+          <zh>中场休息时大厅将提供茶点。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">investigate</span>
+        <span class="ipa">/ɪnˈvestɪɡeɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">调查；研究</div>
+        <div class="label">词根</div><div>in-（向内）+ vestig（足迹）+ -ate（动词）</div>
+        <div class="label">词源</div><div>拉丁语 investigare「追踪」← vestigium「足迹」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">investigate the cause（调查原因）；名词 investigation（调查）；be under investigation（正在接受调查）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">investigate a complaint（调查投诉）</span><span class="chip">investigate the cause of the delay（调查延误原因）</span><span class="chip">a thorough investigation（彻底调查）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Technicians are investigating the cause of the power outage.</en>
+          <zh>技术人员正在调查停电的原因。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
