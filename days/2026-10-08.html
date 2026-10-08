@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 10/8 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.10.08</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">investment</span>
+        <span class="ipa">/ɪnˈvestmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">投资；投入</div>
+        <div class="label">词根</div><div>in-（进入）+ vest（穿衣）+ -ment（名词后缀）</div>
+        <div class="label">词源</div><div>源自拉丁语 investire「给…穿上」，中世纪意大利语引申为「把资金投入（某项生意）」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：a return on investment（投资回报）；make an investment in（对…投资）；注意介词用 in</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a sound investment（稳健的投资）</span><span class="chip">return on investment（投资回报率）</span><span class="chip">attract foreign investment（吸引外资）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The new software was a worthwhile investment because it cut processing time in half.</en>
+          <zh>这套新软件是一项值得的投资，因为它把处理时间缩短了一半。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">issue</span>
+        <span class="ipa">/ˈɪʃuː/</span>
+        <span class="pos">n. / v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">问题；（期刊）期号；发布，发放</div>
+        <div class="label">词根</div><div>无明显词根（源自 ex-「出」+ ire「走」）</div>
+        <div class="label">词源</div><div>古法语 issue「出口，结果」，源自拉丁语 exire「走出去」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">一词多义：address an issue（处理问题）；the March issue（三月号）；issue a refund（发放退款）；issue badges to visitors（给访客发放胸卡）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">address the issue（处理该问题）</span><span class="chip">the latest issue of the magazine（最新一期杂志）</span><span class="chip">issue an invoice（开具发票）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Visitor badges will be issued at the front desk upon arrival.</en>
+          <zh>访客抵达后将在前台领取访客证。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">joint</span>
+        <span class="ipa">/dʒɔɪnt/</span>
+        <span class="pos">adj. / n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">联合的，共同的；关节；接合处</div>
+        <div class="label">词根</div><div>join（连接）+ -t</div>
+        <div class="label">词源</div><div>古法语 joint「连接的」，源自拉丁语 jungere「连接」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同高频：a joint venture（合资企业）；joint account（联名账户）；a joint effort（共同努力）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">form a joint venture（成立合资企业）</span><span class="chip">a joint statement（联合声明）</span><span class="chip">a joint bank account（联名银行账户）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The two firms announced a joint venture to develop electric delivery vans.</en>
+          <zh>两家公司宣布成立合资企业，共同研发电动送货车。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">jeopardize</span>
+        <span class="ipa">/ˈdʒepərdaɪz/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">危及，使陷入险境</div>
+        <div class="label">词根</div><div>jeopard(y)（危险）+ -ize（动词后缀）</div>
+        <div class="label">词源</div><div>中古英语 jeopardy 源自古法语 jeu parti「胜负未定的棋局」，即风险对半</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">jeopardize the project（危及项目）；常与 deadline / safety / reputation 搭配；同义替换 endanger, put at risk（使处于危险中）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">jeopardize the deadline（危及截止日期）</span><span class="chip">jeopardize safety（危及安全）</span><span class="chip">jeopardize the company's reputation（损害公司声誉）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Further delays in shipping could jeopardize our contract with the retailer.</en>
+          <zh>运输若再延误，可能会危及我们和零售商的合同。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">keen</span>
+        <span class="ipa">/kiːn/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">热衷的，渴望的；敏锐的；激烈的</div>
+        <div class="label">词根</div><div>无明显词根（古英语本族词）</div>
+        <div class="label">词源</div><div>古英语 cene「勇敢的，锋利的」，后引申为「热切的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">be keen to do / be keen on（热衷于…）；a keen eye for detail（对细节敏锐）；keen competition（激烈竞争）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">be keen to expand（渴望扩张）</span><span class="chip">a keen eye for detail（敏锐的细节观察力）</span><span class="chip">keen competition（激烈的竞争）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Ms. Patel is keen to hire candidates with a keen eye for detail.</en>
+          <zh>帕特尔女士很想招聘对细节观察敏锐的候选人。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">keynote</span>
+        <span class="ipa">/ˈkiːnoʊt/</span>
+        <span class="pos">n. / adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">主旨；主题演讲的</div>
+        <div class="label">词根</div><div>key（关键）+ note（音调）</div>
+        <div class="label">词源</div><div>原为音乐术语「主音」，19 世纪引申为「演讲或会议的核心主旨」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议高频：keynote speaker（主讲嘉宾）；deliver the keynote address（发表主题演讲）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a keynote speaker（主讲嘉宾）</span><span class="chip">deliver the keynote address（发表主题演讲）</span><span class="chip">the opening keynote（开幕主题演讲）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The CEO of Arlo Tech will deliver the keynote address on the first day of the conference.</en>
+          <zh>Arlo 科技的首席执行官将在会议第一天发表主题演讲。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">label</span>
+        <span class="ipa">/ˈleɪbəl/</span>
+        <span class="pos">n. / v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">标签；（唱片）品牌；贴标签</div>
+        <div class="label">词根</div><div>无明显词根</div>
+        <div class="label">词源</div><div>古法语 label「布条，饰带」，后指「贴在物品上的说明条」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">Part 1 图片题：boxes are being labeled（箱子正在贴标签）；shipping label（运输标签）；private label（自有品牌）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a shipping label（运单标签）</span><span class="chip">clearly labeled boxes（标注清楚的箱子）</span><span class="chip">read the label carefully（仔细阅读标签）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please make sure every box is clearly labeled before it leaves the warehouse.</en>
+          <zh>请确保每个箱子出仓前都贴有清楚的标签。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">labor</span>
+        <span class="ipa">/ˈleɪbər/</span>
+        <span class="pos">n. / v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">劳动，劳工；人工（费）</div>
+        <div class="label">词根</div><div>无明显词根（拉丁语 labor「劳作」）</div>
+        <div class="label">词源</div><div>拉丁语 labor「辛劳，劳作」，经古法语进入英语</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：labor costs（人工成本）；parts and labor（零件与人工费）；labor shortage（劳动力短缺）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">labor costs（人工成本）</span><span class="chip">a labor shortage（劳动力短缺）</span><span class="chip">parts and labor（零件费和人工费）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The repair estimate covers both parts and labor.</en>
+          <zh>这份维修报价包含零件费和人工费。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">landlord</span>
+        <span class="ipa">/ˈlændlɔːrd/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">房东，业主</div>
+        <div class="label">词根</div><div>land（土地）+ lord（主人）</div>
+        <div class="label">词源</div><div>古英语 landhlaford「土地的主人」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">租房与办公场所：landlord ↔ tenant（房东 ↔ 租户）；notify the landlord（通知房东）；renew a lease with the landlord（与房东续租）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">contact the landlord（联系房东）</span><span class="chip">the landlord and tenant（房东和租户）</span><span class="chip">a landlord's approval（房东的批准）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We need the landlord's approval before we can renovate the office.</en>
+          <zh>我们得先获得房东批准，才能装修办公室。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">lapse</span>
+        <span class="ipa">/læps/</span>
+        <span class="pos">n. / v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">（合同、会员等）失效，过期；疏忽；（时间）流逝</div>
+        <div class="label">词根</div><div>laps-（滑落）</div>
+        <div class="label">词源</div><div>拉丁语 lapsus「滑倒，失足」，源自 labi「滑落」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">let a subscription lapse（让订阅过期）；a lapse in judgment（判断失误）；insurance policy lapses（保单失效）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">allow the membership to lapse（让会员资格失效）</span><span class="chip">a lapse in security（安全疏漏）</span><span class="chip">a brief lapse in concentration（短暂走神）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Renew your parking permit online so that it does not lapse at the end of the month.</en>
+          <zh>请在线续办停车证，以免月底失效。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">layoff</span>
+        <span class="ipa">/ˈleɪɔːf/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">裁员，解雇</div>
+        <div class="label">词根</div><div>lay（放）+ off（离开）</div>
+        <div class="label">词源</div><div>由短语动词 lay off「暂时停工，解雇」名词化而来，20 世纪初用于劳资语境</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：announce layoffs（宣布裁员）；动词短语 lay off employees（裁掉员工）；名词写作 layoff 一词</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">announce layoffs（宣布裁员）</span><span class="chip">avoid layoffs（避免裁员）</span><span class="chip">a wave of layoffs（一波裁员潮）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Management assured staff that the merger would not result in layoffs.</en>
+          <zh>管理层向员工保证，这次合并不会导致裁员。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">ledger</span>
+        <span class="ipa">/ˈledʒər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">分类账，总账</div>
+        <div class="label">词根</div><div>无明显词根</div>
+        <div class="label">词源</div><div>中古英语 legger「放着的（大）书」，源自 lay / lie「放置」，指固定放在一处的账本</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会计场景：the general ledger（总分类账）；record entries in the ledger（在账簿中记账）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">the general ledger（总分类账）</span><span class="chip">update the ledger（更新账簿）</span><span class="chip">a ledger entry（一笔分类账记录）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>All expenses must be recorded in the ledger by the end of each quarter.</en>
+          <zh>所有开支必须在每季度末之前记入分类账。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">legislation</span>
+        <span class="ipa">/ˌledʒɪsˈleɪʃən/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">立法；法规</div>
+        <div class="label">词根</div><div>legis-（法律）+ lat（提出）+ -ion（名词后缀）</div>
+        <div class="label">词源</div><div>拉丁语 legis latio「法律的提出」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">不可数名词：new legislation（新法规），不说 a legislation；comply with legislation（遵守法规）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">comply with the legislation（遵守法规）</span><span class="chip">pass new legislation（通过新法规）</span><span class="chip">environmental legislation（环保法规）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The factory upgraded its filters to comply with new environmental legislation.</en>
+          <zh>工厂升级了过滤设备，以符合新的环保法规。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">liability</span>
+        <span class="ipa">/ˌlaɪəˈbɪləti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">（法律）责任；负债</div>
+        <div class="label">词根</div><div>liable（有责任的）+ -ity（名词后缀）</div>
+        <div class="label">词源</div><div>源自 liable，最终来自古法语 lier / 拉丁语 ligare「捆绑」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同与财务：assets and liabilities（资产与负债）；accept no liability for（对…不承担责任）；liability insurance（责任险）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">assets and liabilities（资产与负债）</span><span class="chip">limit liability（限制责任）</span><span class="chip">liability insurance（责任保险）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The hotel accepts no liability for items left in guest rooms.</en>
+          <zh>酒店对客人遗留在客房内的物品不承担责任。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">license</span>
+        <span class="ipa">/ˈlaɪsəns/</span>
+        <span class="pos">n. / v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">执照，许可证；授权</div>
+        <div class="label">词根</div><div>lic-（被允许）+ -ense</div>
+        <div class="label">词源</div><div>拉丁语 licentia「自由，许可」，源自 licere「被允许」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">a driver's license（驾照）；renew a license（续期执照）；licensed contractor（持证承包商）；英式名词拼 licence</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">renew a business license（续办营业执照）</span><span class="chip">a licensed electrician（持证电工）</span><span class="chip">a software license（软件许可证）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Only licensed electricians may perform repairs in the building.</en>
+          <zh>只有持证电工才能在大楼内进行维修。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">liquidate</span>
+        <span class="ipa">/ˈlɪkwɪdeɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">清算；变卖（资产）；清偿</div>
+        <div class="label">词根</div><div>liquid（流动的）+ -ate（动词后缀）</div>
+        <div class="label">词源</div><div>中世纪拉丁语 liquidare「使清楚，结清」，源自 liquidus「液体的，清澈的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">liquidate assets（变卖资产）；liquidate inventory（清仓甩卖库存）；名词 liquidation sale（清仓大甩卖）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">liquidate assets（变卖资产）</span><span class="chip">liquidate excess inventory（清理过剩库存）</span><span class="chip">a liquidation sale（清仓大甩卖）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The store plans to liquidate its remaining stock before relocating.</en>
+          <zh>这家店计划在搬迁前清空剩余库存。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">loan</span>
+        <span class="ipa">/loʊn/</span>
+        <span class="pos">n. / v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">贷款；借出</div>
+        <div class="label">词根</div><div>无明显词根（古诺尔斯语借词）</div>
+        <div class="label">词源</div><div>古诺尔斯语 lán「借出之物」，与 lend 同源</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：apply for a loan（申请贷款）；repay a loan（偿还贷款）；on loan（借出中，如展品）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">apply for a loan（申请贷款）</span><span class="chip">repay the loan in installments（分期还贷）</span><span class="chip">a low-interest loan（低息贷款）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The bakery applied for a small-business loan to buy new ovens.</en>
+          <zh>这家面包店申请了一笔小企业贷款来购买新烤箱。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">locate</span>
+        <span class="ipa">/ˈloʊkeɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">找到…的位置；使坐落于</div>
+        <div class="label">词根</div><div>loc-（地方）+ -ate（动词后缀）</div>
+        <div class="label">词源</div><div>拉丁语 locare「放置」，源自 locus「地方」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">be located in / on / near（位于…）；locate a file（找到文件）；conveniently located（交通便利）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">be conveniently located（位置便利）</span><span class="chip">locate the missing file（找到丢失的文件）</span><span class="chip">be located near the station（位于车站附近）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Our new branch is conveniently located near the central train station.</en>
+          <zh>我们的新分店位置便利，就在中央火车站附近。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">lodging</span>
+        <span class="ipa">/ˈlɑːdʒɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">住宿；寄宿处</div>
+        <div class="label">词根</div><div>lodge（住宿）+ -ing（名词后缀）</div>
+        <div class="label">词源</div><div>古法语 loge「小屋，棚」，源自法兰克语</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">出差报销：lodging and meals（住宿与餐费）；provide lodging（提供住宿）；不可数为主</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">lodging expenses（住宿费用）</span><span class="chip">arrange lodging（安排住宿）</span><span class="chip">food and lodging（食宿）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company will reimburse lodging and meals for all conference attendees.</en>
+          <zh>公司将为所有与会者报销住宿和餐费。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">logistics</span>
+        <span class="ipa">/ləˈdʒɪstɪks/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">物流；（活动的）后勤安排</div>
+        <div class="label">词根</div><div>logist-（计算）+ -ics（学科后缀）</div>
+        <div class="label">词源</div><div>法语 logistique「军需后勤」，源自希腊语 logistikos「善于计算的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">handle the logistics（负责后勤安排）；logistics company（物流公司）；作「安排细节」时常用复数动词</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a logistics company（物流公司）</span><span class="chip">handle the event logistics（负责活动的后勤安排）</span><span class="chip">supply chain logistics（供应链物流）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Ms. Kim will handle the logistics for next month's sales retreat.</en>
+          <zh>金女士将负责下个月销售团建的后勤安排。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">loyalty</span>
+        <span class="ipa">/ˈlɔɪəlti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">忠诚；（顾客的）忠诚度</div>
+        <div class="label">词根</div><div>loyal（忠诚的）+ -ty（名词后缀）</div>
+        <div class="label">词源</div><div>古法语 loialté，源自拉丁语 legalis「合法的」，与 legal 同源</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销高频：a customer loyalty program（客户忠诚度计划/会员积分）；loyalty card（会员卡）；brand loyalty（品牌忠诚度）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a loyalty program（会员积分计划）</span><span class="chip">build customer loyalty（培养客户忠诚度）</span><span class="chip">brand loyalty（品牌忠诚度）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Members of our loyalty program earn points on every purchase.</en>
+          <zh>会员积分计划的成员每次购物都能获得积分。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">lucrative</span>
+        <span class="ipa">/ˈluːkrətɪv/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">赚钱的，有利可图的</div>
+        <div class="label">词根</div><div>lucr-（利润）+ -ative（形容词后缀）</div>
+        <div class="label">词源</div><div>拉丁语 lucrativus，源自 lucrum「利润，收益」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">a lucrative contract（利润丰厚的合同）；同义替换 profitable（盈利的）；常见于 Part 7 同义词题</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a lucrative contract（利润丰厚的合同）</span><span class="chip">a lucrative market（赚钱的市场）</span><span class="chip">highly lucrative（非常有利可图）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The firm won a lucrative contract to supply uniforms to the airline.</en>
+          <zh>该公司赢得了一份为航空公司供应制服的丰厚合同。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">luggage</span>
+        <span class="ipa">/ˈlʌɡɪdʒ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">行李</div>
+        <div class="label">词根</div><div>lug（拖拉）+ -age（名词后缀）</div>
+        <div class="label">词源</div><div>源自动词 lug「费力拖拉」，16 世纪指「拖着走的东西」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">不可数名词：a piece of luggage（一件行李），不说 a luggage；carry-on luggage（随身行李）；Part 1 常考</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">carry-on luggage（随身行李）</span><span class="chip">check your luggage（托运行李）</span><span class="chip">a luggage allowance（行李限额）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Each passenger may bring one piece of carry-on luggage.</en>
+          <zh>每位乘客可携带一件随身行李。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">maintain</span>
+        <span class="ipa">/meɪnˈteɪn/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">维持，保持；维护；坚称</div>
+        <div class="label">词根</div><div>main（手）+ tain（握住）</div>
+        <div class="label">词源</div><div>古法语 maintenir，源自拉丁语 manu tenere「用手握住」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">maintain records（保存记录）；maintain equipment（维护设备）；maintain that...（坚称…）；名词 maintenance（维护）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">maintain accurate records（保存准确的记录）</span><span class="chip">maintain high standards（保持高标准）</span><span class="chip">maintain the equipment（维护设备）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Technicians maintain the printers every Friday afternoon.</en>
+          <zh>技术人员每周五下午维护打印机。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">malfunction</span>
+        <span class="ipa">/mælˈfʌŋkʃən/</span>
+        <span class="pos">n. / v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">故障；出故障</div>
+        <div class="label">词根</div><div>mal-（坏）+ function（运作）</div>
+        <div class="label">词源</div><div>由前缀 mal-「坏的」+ function 构成，20 世纪初出现</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">设备故障：a malfunction in the system（系统故障）；the machine malfunctioned（机器出故障）；同义替换 break down, not work properly</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an equipment malfunction（设备故障）</span><span class="chip">report a malfunction（报告故障）</span><span class="chip">a technical malfunction（技术故障）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Due to a projector malfunction, the presentation was moved to Room 204.</en>
+          <zh>由于投影仪故障，演示改到 204 室进行。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">mandatory</span>
+        <span class="ipa">/ˈmændətɔːri/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">强制的，必须的</div>
+        <div class="label">词根</div><div>mand-（命令）+ -atory（形容词后缀）</div>
+        <div class="label">词源</div><div>拉丁语 mandatorius，源自 mandare「命令，委托」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：attendance is mandatory（必须出席）；mandatory training（必修培训）；同义替换 compulsory, required（必须的）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a mandatory safety training（必修安全培训）</span><span class="chip">attendance is mandatory（必须出席）</span><span class="chip">mandatory retirement age（法定退休年龄）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Attendance at Thursday's safety workshop is mandatory for all warehouse staff.</en>
+          <zh>所有仓库员工都必须参加周四的安全研讨会。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">manual</span>
+        <span class="ipa">/ˈmænjuəl/</span>
+        <span class="pos">n. / adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">手册，说明书；手工的，体力的</div>
+        <div class="label">词根</div><div>manu-（手）+ -al</div>
+        <div class="label">词源</div><div>拉丁语 manualis「手的」，源自 manus「手」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">an instruction manual（使用说明书）；a training manual（培训手册）；manual labor（体力劳动）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an instruction manual（使用说明书）</span><span class="chip">the employee manual（员工手册）</span><span class="chip">manual labor（体力劳动）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please refer to the user manual before contacting technical support.</en>
+          <zh>联系技术支持前，请先查阅用户手册。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">markup</span>
+        <span class="ipa">/ˈmɑːrkʌp/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">加价，加成（售价高于成本的部分）</div>
+        <div class="label">词根</div><div>mark（标价）+ up（向上）</div>
+        <div class="label">词源</div><div>由短语动词 mark up「提高标价」名词化而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">价格题：a 20 percent markup（20% 的加价）；反义 markdown（降价）；动词短语 mark up prices（抬高价格）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a standard markup（标准加价）</span><span class="chip">a 30 percent markup（30% 的加价）</span><span class="chip">reduce the markup（降低加价）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Most retailers apply a markup of about 50 percent on clothing.</en>
+          <zh>大多数零售商对服装的加价约为 50%。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">merger</span>
+        <span class="ipa">/ˈmɜːrdʒər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">（公司的）合并</div>
+        <div class="label">词根</div><div>merge（合并）+ -er（名词后缀）</div>
+        <div class="label">词源</div><div>源自拉丁语 mergere「浸入，沉没」，法律英语中指「一方被并入另一方」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">mergers and acquisitions（并购，M&A）；the merger with / between（与…的合并）；announce a merger（宣布合并）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a proposed merger（拟议的合并）</span><span class="chip">complete the merger（完成合并）</span><span class="chip">mergers and acquisitions（企业并购）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The merger between the two banks is expected to be completed in March.</en>
+          <zh>两家银行的合并预计将于三月完成。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">milestone</span>
+        <span class="ipa">/ˈmaɪlstoʊn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">里程碑；重大事件</div>
+        <div class="label">词根</div><div>mile（英里）+ stone（石头）</div>
+        <div class="label">词源</div><div>原指路边标示英里数的石碑，后引申为「重要阶段或事件」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">项目管理：reach a milestone（达到里程碑）；project milestones（项目节点）；mark a milestone（标志着重要时刻）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reach a major milestone（达成重要里程碑）</span><span class="chip">mark a milestone（标志一个重要节点）</span><span class="chip">project milestones（项目关键节点）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Reaching one million customers was an important milestone for the company.</en>
+          <zh>客户数达到一百万是公司的一个重要里程碑。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
