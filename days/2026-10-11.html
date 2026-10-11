@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 10/11 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.10.11</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">patron</span>
+        <span class="ipa">/ˈpeɪtrən/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">顾客；常客；赞助人</div>
+        <div class="label">词根</div><div>patr（父亲）+ -on（名词后缀）</div>
+        <div class="label">词源</div><div>源自拉丁语 patronus「保护人」，由 pater「父亲」引申为「庇护者、赞助者」，后指「光顾的顾客」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">告示高频：patrons are reminded to...（敬请顾客注意……）；= customer / client；patronage（光顾；惠顾）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">regular patrons（常客）</span><span class="chip">library patrons（图书馆读者）</span><span class="chip">patron of the arts（艺术赞助人）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Patrons are reminded that the restaurant will close early on Friday for a private event.</en>
+          <zh>敬请顾客注意，本餐厅周五因私人活动将提前打烊。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">pension</span>
+        <span class="ipa">/ˈpenʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">养老金；退休金</div>
+        <div class="label">词根</div><div>pens（支付；称重）+ -ion（名词后缀）</div>
+        <div class="label">词源</div><div>源自拉丁语 pensio「付款」，来自 pendere「称量、支付」，后专指定期发放的退休金</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 福利：pension plan（养老金计划）；contribute to a pension（缴纳养老金）；常与 benefits package（福利待遇）同现</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">pension plan（养老金计划）</span><span class="chip">receive a pension（领取养老金）</span><span class="chip">pension contributions（养老金缴款）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>All full-time employees are automatically enrolled in the company pension plan.</en>
+          <zh>所有全职员工都会自动加入公司的养老金计划。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">perishable</span>
+        <span class="ipa">/ˈperɪʃəbl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">易腐烂的；易变质的</div>
+        <div class="label">词根</div><div>perish（毁灭；腐烂）+ -able（可……的）</div>
+        <div class="label">词源</div><div>源自古法语 perir，来自拉丁语 perire「消亡」（per-「完全」+ ire「走」），加 -able 表「易腐坏的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">物流高频：perishable goods / items（易腐商品）；需 refrigerate（冷藏）、ship promptly（及时发货）；名词复数 perishables（易腐食品）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">perishable goods（易腐商品）</span><span class="chip">perishable food items（易变质食品）</span><span class="chip">store perishables properly（妥善储存易腐品）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Perishable items must be stored in the refrigerator immediately upon delivery.</en>
+          <zh>易腐物品送达后必须立即放入冰箱保存。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">perk</span>
+        <span class="ipa">/pɜːrk/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">额外福利；津贴</div>
+        <div class="label">词根</div><div>无（perquisite 的缩略）</div>
+        <div class="label">词源</div><div>19 世纪由 perquisite「职务外的额外收入」缩略而来，perquisite 源自拉丁语 perquirere「努力获取」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">招聘广告高频：perks include...（福利包括……）；= fringe benefit（附加福利）；job perks（工作福利）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">employee perks（员工福利）</span><span class="chip">a perk of the job（这份工作的好处）</span><span class="chip">offer generous perks（提供丰厚福利）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>One of the perks of working here is a free gym membership.</en>
+          <zh>在这里工作的福利之一是免费的健身房会员资格。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">petition</span>
+        <span class="ipa">/pəˈtɪʃn/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">请愿（书）；请求</div>
+        <div class="label">词根</div><div>pet（寻求）+ -ition（名词后缀）</div>
+        <div class="label">词源</div><div>源自拉丁语 petitio「请求」，来自 petere「寻求、追求」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">社区/办公告示：sign a petition（在请愿书上签名）；petition for / against sth（请求支持/反对某事）；petition the council（向议会请愿）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">sign a petition（签署请愿书）</span><span class="chip">file a petition（提交请愿）</span><span class="chip">petition for change（请求改变）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Residents signed a petition asking the city to add more parking near the station.</en>
+          <zh>居民们签署了一份请愿书，请求市政府在车站附近增设停车位。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">possess</span>
+        <span class="ipa">/pəˈzes/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">拥有；具备</div>
+        <div class="label">词根</div><div>pos（能够）+ sess（坐）</div>
+        <div class="label">词源</div><div>源自拉丁语 possidere「占有」，由 potis「有能力的」+ sedere「坐」组成，字面「坐在上面＝占有」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">招聘高频：candidates must possess...（应聘者须具备……）；possess strong communication skills（具备出色的沟通能力）；名词 possession（拥有；财物）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">possess the necessary skills（具备必要技能）</span><span class="chip">possess a valid license（持有有效执照）</span><span class="chip">personal possessions（个人物品）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Applicants must possess at least three years of experience in project management.</en>
+          <zh>申请人须具备至少三年的项目管理经验。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">precaution</span>
+        <span class="ipa">/prɪˈkɔːʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">预防措施；防范</div>
+        <div class="label">词根</div><div>pre-（预先）+ caution（小心）</div>
+        <div class="label">词源</div><div>源自拉丁语 praecautio，由 prae-「预先」+ cavere「提防」组成</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">安全告示：as a precaution（作为预防措施）；take precautions against（采取措施防范……）；safety precautions（安全防范措施）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">take precautions（采取预防措施）</span><span class="chip">as a precaution（以防万一）</span><span class="chip">safety precautions（安全措施）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>As a precaution, all files should be backed up before the system upgrade.</en>
+          <zh>为以防万一，系统升级前应备份所有文件。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">premises</span>
+        <span class="ipa">/ˈpremɪsɪz/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">（企业的）房屋及场地；经营场所</div>
+        <div class="label">词根</div><div>pre-（在前）+ mis（放置）+ -es</div>
+        <div class="label">词源</div><div>源自拉丁语 praemissa「前面提到的事物」，原指契约中前述的财产，后引申为「房产、场所」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">告示高频：on the premises（在场地内）；smoking is not permitted on the premises（场所内禁止吸烟）；恒用复数形式</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">on the premises（在场所内）</span><span class="chip">business premises（营业场所）</span><span class="chip">leave the premises（离开场地）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Smoking is strictly prohibited anywhere on the premises.</en>
+          <zh>场所内任何地方均严禁吸烟。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">preside</span>
+        <span class="ipa">/prɪˈzaɪd/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">主持；担任主席</div>
+        <div class="label">词根</div><div>pre-（在前）+ sid（坐）</div>
+        <div class="label">词源</div><div>源自拉丁语 praesidere「坐在前面、主管」，由 prae-「前」+ sedere「坐」组成</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议高频：preside over a meeting（主持会议），介词固定用 over；名词 president（总裁）同源</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">preside over a meeting（主持会议）</span><span class="chip">preside at the ceremony（主持仪式）</span><span class="chip">preside over the board（主持董事会）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Ms. Tanaka will preside over this year's annual shareholders' meeting.</en>
+          <zh>田中女士将主持今年的年度股东大会。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">prestigious</span>
+        <span class="ipa">/preˈstɪdʒəs/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">有声望的；享有盛誉的</div>
+        <div class="label">词根</div><div>prestige（声望）+ -ious（形容词后缀）</div>
+        <div class="label">词源</div><div>源自拉丁语 praestigiae「戏法、幻术」，经法语转义为「威望、魅力」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">颁奖/公司介绍：a prestigious award（一项享有盛誉的奖项）；prestigious university（名校）；名词 prestige（声望）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a prestigious award（享有盛誉的奖项）</span><span class="chip">prestigious firm（知名公司）</span><span class="chip">prestigious position（显要职位）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The architecture firm received a prestigious award for its design of the new library.</en>
+          <zh>这家建筑事务所因新图书馆的设计荣获一项享有盛誉的奖项。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">prevail</span>
+        <span class="ipa">/prɪˈveɪl/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">盛行；占上风</div>
+        <div class="label">词根</div><div>pre-（在前）+ vail（强大）</div>
+        <div class="label">词源</div><div>源自拉丁语 praevalere「更强大」，由 prae-「超过」+ valere「强壮」组成</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">词形辨析：形容词 prevailing（现行的；盛行的）高频，如 prevailing market rates（现行市场价格）；prevalent（普遍的）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">prevailing conditions（现行状况）</span><span class="chip">prevailing wage（现行工资标准）</span><span class="chip">common sense prevailed（理智占了上风）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Salaries will be adjusted to reflect prevailing market rates.</en>
+          <zh>薪资将根据现行市场水平进行调整。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">proceeds</span>
+        <span class="ipa">/ˈprəʊsiːdz/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">收益；（活动）所得款项</div>
+        <div class="label">词根</div><div>pro-（向前）+ ceed（走）+ -s</div>
+        <div class="label">词源</div><div>由动词 proceed「进行、产生」名词化，指「由某事产生的钱」，恒用复数</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">慈善活动高频：all proceeds will go to / be donated to...（所有收益将捐给……）；注意重音在前 /ˈprəʊsiːdz/，与动词 proceed（继续进行）区分</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">all proceeds go to charity（所有收益捐给慈善）</span><span class="chip">proceeds from the sale（销售所得）</span><span class="chip">net proceeds（净收益）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>All proceeds from the charity run will be donated to the local children's hospital.</en>
+          <zh>慈善跑的所有收益将捐给当地儿童医院。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">profitable</span>
+        <span class="ipa">/ˈprɒfɪtəbl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">有利可图的；盈利的</div>
+        <div class="label">词根</div><div>profit（利润）+ -able（可……的）</div>
+        <div class="label">词源</div><div>源自拉丁语 profectus「进展、收益」，来自 proficere「前进、获益」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财报高频：highly profitable（非常赚钱的）；remain profitable（保持盈利）；名词 profitability（盈利能力）；反义 unprofitable（不盈利的）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a profitable business（盈利的生意）</span><span class="chip">highly profitable（利润丰厚的）</span><span class="chip">become profitable（开始盈利）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The new product line became profitable within its first year on the market.</en>
+          <zh>新产品线上市第一年就实现了盈利。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">prohibit</span>
+        <span class="ipa">/prəˈhɪbɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">禁止</div>
+        <div class="label">词根</div><div>pro-（向前）+ hibit（持有）</div>
+        <div class="label">词源</div><div>源自拉丁语 prohibere「挡开、阻止」，由 pro-「在前」+ habere「持有」组成</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">句型：prohibit sb from doing sth（禁止某人做某事）；be strictly prohibited（被严格禁止）；名词 prohibition（禁令）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">strictly prohibited（严格禁止）</span><span class="chip">prohibit employees from doing（禁止员工做……）</span><span class="chip">prohibit the use of（禁止使用）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Company policy prohibits employees from sharing client data outside the firm.</en>
+          <zh>公司规定禁止员工将客户数据泄露到公司以外。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">projection</span>
+        <span class="ipa">/prəˈdʒekʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">预测；预估；投影</div>
+        <div class="label">词根</div><div>pro-（向前）+ ject（投掷）+ -ion</div>
+        <div class="label">词源</div><div>源自拉丁语 projectio「向前投掷」，引申为「对未来的推算」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务会议：sales projections（销售预测）；exceed projections（超出预期）；动词 project（预计），be projected to do（预计会……）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">sales projections（销售预测）</span><span class="chip">financial projections（财务预测）</span><span class="chip">exceed projections（超出预期）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Third-quarter revenue exceeded our projections by nearly ten percent.</en>
+          <zh>第三季度营收比我们的预测高出近百分之十。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">prominent</span>
+        <span class="ipa">/ˈprɒmɪnənt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">著名的；显眼的</div>
+        <div class="label">词根</div><div>pro-（向前）+ min（突出）+ -ent</div>
+        <div class="label">词源</div><div>源自拉丁语 prominere「突出、凸出」，引申为「出众的、显著的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">人物介绍：a prominent figure in the industry（业界知名人物）；display prominently（醒目地展示）；名词 prominence（显著）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a prominent figure（知名人物）</span><span class="chip">prominent position（显著位置）</span><span class="chip">display prominently（醒目展示）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The keynote speech will be given by a prominent economist from Harvard.</en>
+          <zh>主题演讲将由一位来自哈佛的知名经济学家发表。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">promotion</span>
+        <span class="ipa">/prəˈməʊʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">晋升；促销</div>
+        <div class="label">词根</div><div>pro-（向前）+ mot（移动）+ -ion</div>
+        <div class="label">词源</div><div>源自拉丁语 promotio，来自 promovere「向前推动」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">一词两义：HR 场景 get / receive a promotion（获得晋升）；营销场景 sales promotion（促销活动）；动词 be promoted to（被提升为）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">receive a promotion（获得晋升）</span><span class="chip">promotion to manager（升任经理）</span><span class="chip">special promotion（特别促销）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>After five years in sales, Mr. Ortiz received a promotion to regional manager.</en>
+          <zh>在销售岗位工作五年后，奥尔蒂斯先生晋升为区域经理。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">proofread</span>
+        <span class="ipa">/ˈpruːfriːd/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">校对</div>
+        <div class="label">词根</div><div>proof（校样）+ read（阅读）</div>
+        <div class="label">词源</div><div>由 proof「校样」+ read「阅读」合成，19 世纪印刷业术语</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公高频：proofread a document before sending（发送前校对文件）；proofreader（校对员）；过去式同形 proofread</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">proofread a report（校对报告）</span><span class="chip">carefully proofread（仔细校对）</span><span class="chip">proofread for errors（校对查错）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please proofread the brochure carefully before it goes to the printer.</en>
+          <zh>宣传册付印前请仔细校对。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">prospective</span>
+        <span class="ipa">/prəˈspektɪv/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">潜在的；未来的</div>
+        <div class="label">词根</div><div>pro-（向前）+ spect（看）+ -ive</div>
+        <div class="label">词源</div><div>源自拉丁语 prospectivus「向前看的」，来自 prospicere「眺望」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">高频搭配：prospective clients / buyers / employees（潜在客户/买家/员工）；= potential；注意与 perspective（观点）拼写区分</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">prospective clients（潜在客户）</span><span class="chip">prospective employees（准员工）</span><span class="chip">prospective buyers（潜在买家）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The sales team will give a product demonstration to several prospective clients next week.</en>
+          <zh>销售团队下周将向几位潜在客户进行产品演示。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">punctual</span>
+        <span class="ipa">/ˈpʌŋktʃuəl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">准时的；守时的</div>
+        <div class="label">词根</div><div>punct（点）+ -ual（形容词后缀）</div>
+        <div class="label">词源</div><div>源自中世纪拉丁语 punctualis「关于一点的」，来自 punctum「点」，引申为「按时间点的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">人事评价：be punctual for meetings（开会准时）；名词 punctuality（守时）；副词 punctually（准时地）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">be punctual（守时）</span><span class="chip">punctual payment（按时付款）</span><span class="chip">punctual arrival（准时到达）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Employees are expected to be punctual for all client meetings.</en>
+          <zh>员工参加所有客户会议都应准时。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">reception</span>
+        <span class="ipa">/rɪˈsepʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">接待处；招待会；接收</div>
+        <div class="label">词根</div><div>re-（回）+ cept（拿）+ -ion</div>
+        <div class="label">词源</div><div>源自拉丁语 receptio「接收」，来自 recipere「收回、接待」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">多义：reception desk（前台），welcome reception（欢迎招待会）；receptionist（接待员）；P1 看图常见 at the reception desk（在前台）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reception desk（前台）</span><span class="chip">welcome reception（欢迎酒会）</span><span class="chip">hold a reception（举办招待会）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>A welcome reception for new staff will be held in the lobby at 5 P.M.</en>
+          <zh>新员工欢迎招待会将于下午 5 点在大堂举行。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">reimburse</span>
+        <span class="ipa">/ˌriːɪmˈbɜːrs/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">报销；偿还</div>
+        <div class="label">词根</div><div>re-（回）+ im-（进入）+ burse（钱袋）</div>
+        <div class="label">词源</div><div>源自中世纪拉丁语 imbursare「放入钱袋」，加 re- 表「把钱还回去」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅报销高频：reimburse sb for travel expenses（为某人报销差旅费）；be reimbursed（获得报销）；名词 reimbursement（报销款）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reimburse expenses（报销费用）</span><span class="chip">be fully reimbursed（全额报销）</span><span class="chip">reimbursement form（报销单）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company will reimburse you for all reasonable travel expenses.</en>
+          <zh>公司将为您报销所有合理的差旅费用。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">relocate</span>
+        <span class="ipa">/ˌriːləʊˈkeɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">搬迁；调动（工作地点）</div>
+        <div class="label">词根</div><div>re-（重新）+ locate（安置）</div>
+        <div class="label">词源</div><div>由 re-「再次」+ locate（源自拉丁语 locare「放置」）组成</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公司动态：relocate the headquarters to...（把总部迁至……）；relocation package（搬迁补贴）；be relocated（被调往）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">relocate the office（搬迁办公室）</span><span class="chip">relocate to Chicago（迁往芝加哥）</span><span class="chip">relocation allowance（搬迁津贴）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The firm plans to relocate its headquarters to a larger building downtown.</en>
+          <zh>该公司计划将总部迁往市中心一栋更大的大楼。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">remit</span>
+        <span class="ipa">/rɪˈmɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">汇款；汇付</div>
+        <div class="label">词根</div><div>re-（回）+ mit（送）</div>
+        <div class="label">词源</div><div>源自拉丁语 remittere「送回」，由 re-「回」+ mittere「送」组成</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">账单用语：remit payment by...（请于……前付款）；名词 remittance（汇款）；remittance advice（汇款通知）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">remit payment（汇付款项）</span><span class="chip">remit funds（汇出资金）</span><span class="chip">remittance slip（汇款单）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please remit payment within thirty days of the invoice date.</en>
+          <zh>请于发票开具之日起三十天内付款。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">remuneration</span>
+        <span class="ipa">/rɪˌmjuːnəˈreɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">报酬；薪酬</div>
+        <div class="label">词根</div><div>re-（回）+ muner（礼物）+ -ation</div>
+        <div class="label">词源</div><div>源自拉丁语 remunerari「回报」，来自 munus「礼物、职务」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">正式书面语，= salary / compensation（薪酬）；remuneration package（薪酬方案）；competitive remuneration（有竞争力的薪酬）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">competitive remuneration（有竞争力的薪酬）</span><span class="chip">remuneration package（薪酬方案）</span><span class="chip">annual remuneration（年度报酬）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We offer competitive remuneration and opportunities for career growth.</en>
+          <zh>我们提供有竞争力的薪酬和职业发展机会。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">rental</span>
+        <span class="ipa">/ˈrentl/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">租赁；租金；出租的</div>
+        <div class="label">词根</div><div>rent（租）+ -al</div>
+        <div class="label">词源</div><div>源自古法语 rente「收益、租金」，来自通俗拉丁语 rendita「交付之物」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅/租房：car rental（租车）；rental agreement（租赁协议）；rental fee（租金）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">car rental（汽车租赁）</span><span class="chip">rental agreement（租赁合同）</span><span class="chip">monthly rental（月租金）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The rental fee includes insurance and unlimited mileage.</en>
+          <zh>租金包含保险和不限里程。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">representative</span>
+        <span class="ipa">/ˌreprɪˈzentətɪv/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">代表；销售代表</div>
+        <div class="label">词根</div><div>re-（再）+ present（呈现）+ -ative</div>
+        <div class="label">词源</div><div>源自拉丁语 repraesentare「再次呈现」，引申为「代表他人」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">听力高频：customer service representative（客服代表）；sales representative / sales rep（销售代表）；动词 represent（代表）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">sales representative（销售代表）</span><span class="chip">customer service representative（客服代表）</span><span class="chip">company representative（公司代表）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>A customer service representative will contact you within 24 hours.</en>
+          <zh>客服代表将在 24 小时内与您联系。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">requisition</span>
+        <span class="ipa">/ˌrekwɪˈzɪʃn/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">（正式）申请单；请购</div>
+        <div class="label">词根</div><div>re-（再）+ quisit（寻求）+ -ion</div>
+        <div class="label">词源</div><div>源自拉丁语 requisitio「寻找、要求」，来自 requirere「需要、要求」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">采购流程：submit a purchase requisition（提交请购单）；requisition form（申领表）；常与 procurement（采购）同现</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">purchase requisition（请购单）</span><span class="chip">submit a requisition（提交申请单）</span><span class="chip">requisition form（申领表）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Office supplies can be ordered by submitting a requisition form to the purchasing department.</en>
+          <zh>办公用品可通过向采购部提交申领表来订购。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">rotate</span>
+        <span class="ipa">/rəʊˈteɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">轮换；轮流；旋转</div>
+        <div class="label">词根</div><div>rot（轮子）+ -ate（动词后缀）</div>
+        <div class="label">词源</div><div>源自拉丁语 rotare「旋转」，来自 rota「轮子」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">排班高频：rotate shifts（轮班）；on a rotating basis（轮流地）；名词 rotation（轮换），job rotation（岗位轮换）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">rotate shifts（轮班）</span><span class="chip">on a rotating basis（轮流）</span><span class="chip">job rotation（岗位轮换）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Team members rotate the responsibility of taking meeting minutes each week.</en>
+          <zh>团队成员每周轮流负责做会议记录。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">routine</span>
+        <span class="ipa">/ruːˈtiːn/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">例行程序；常规的</div>
+        <div class="label">词根</div><div>route（路线）+ -ine</div>
+        <div class="label">词源</div><div>源自法语 routine「惯常路线」，由 route「道路」演变而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">维护通知：routine maintenance（例行维护）；routine inspection（例行检查）；daily routine（日常事务）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">routine maintenance（例行维护）</span><span class="chip">routine inspection（例行检查）</span><span class="chip">daily routine（日常工作）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The elevators will be out of service on Saturday for routine maintenance.</en>
+          <zh>电梯将于周六因例行维护停止使用。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
