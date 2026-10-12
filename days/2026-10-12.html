@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 10/12 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.10.12</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">recession</span>
+        <span class="ipa">/rɪˈseʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">经济衰退；萧条</div>
+        <div class="label">词根</div><div>re-（向后）+ cess（走）+ -ion（名词后缀）</div>
+        <div class="label">词源</div><div>源自拉丁语 recessio「后退」，由 recedere「退回」而来，20 世纪起专指经济活动的收缩</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财经新闻高频：during the recession（经济衰退期间）；economic downturn（经济下滑）为常见同义替换</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">economic recession（经济衰退）</span><span class="chip">enter a recession（陷入衰退）</span><span class="chip">recover from the recession（从衰退中复苏）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Many retailers cut back on hiring during the recession.</en>
+          <zh>经济衰退期间，许多零售商缩减了招聘。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">refreshments</span>
+        <span class="ipa">/rɪˈfreʃmənts/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">茶点；点心饮料</div>
+        <div class="label">词根</div><div>re-（再）+ fresh（新鲜）+ -ment（名词后缀）</div>
+        <div class="label">词源</div><div>源自古法语 refreschier「使恢复精神」，引申为「提神的饮食」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议通知常考：Light refreshments will be served.（将提供简单茶点）；常用复数形式</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">light refreshments（简单茶点）</span><span class="chip">serve refreshments（提供茶点）</span><span class="chip">refreshments will be provided（将提供茶点）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Light refreshments will be served in the lobby after the keynote speech.</en>
+          <zh>主题演讲结束后，大厅将提供简单茶点。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">refurbish</span>
+        <span class="ipa">/ˌriːˈfɜːrbɪʃ/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">翻新；整修</div>
+        <div class="label">词根</div><div>re-（再）+ furbish（擦亮）</div>
+        <div class="label">词源</div><div>furbish 源自古法语 forbir「擦亮、打磨」，加 re- 表示「重新整修使焕然一新」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">设施类高频：be closed for refurbishment（因翻修暂停开放）；= renovate / remodel</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">refurbish the lobby（翻新大厅）</span><span class="chip">fully refurbished（全面翻新的）</span><span class="chip">refurbished equipment（翻新设备）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The hotel will refurbish all guest rooms before the peak travel season.</en>
+          <zh>酒店将在旅游旺季前翻新所有客房。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">registration</span>
+        <span class="ipa">/ˌredʒɪˈstreɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">注册；登记；报名</div>
+        <div class="label">词根</div><div>register（登记）+ -ation（名词后缀）</div>
+        <div class="label">词源</div><div>源自中世纪拉丁语 registrum「记录册」，由 regerere「记录下来」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">活动类高频：registration deadline（报名截止日期）；registration fee（报名费）；online registration（在线报名）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">registration form（登记表）</span><span class="chip">complete the registration（完成注册）</span><span class="chip">early registration（提前报名）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Early registration for the conference ends on Friday.</en>
+          <zh>会议的提前报名将于周五截止。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">reliable</span>
+        <span class="ipa">/rɪˈlaɪəbl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">可靠的；可信赖的</div>
+        <div class="label">词根</div><div>rely（依赖）+ -able（能……的）</div>
+        <div class="label">词源</div><div>源自古法语 relier「绑定、联结」，由拉丁语 religare 而来，引申为「可依靠的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">形容词辨析：reliable supplier（可靠的供应商）；= dependable；名词 reliability（可靠性）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reliable source（可靠来源）</span><span class="chip">reliable service（可靠的服务）</span><span class="chip">highly reliable（非常可靠的）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We chose this courier because its delivery service is fast and reliable.</en>
+          <zh>我们选择这家快递公司，是因为它的送货服务快速又可靠。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">remainder</span>
+        <span class="ipa">/rɪˈmeɪndər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">剩余部分；余款</div>
+        <div class="label">词根</div><div>remain（剩下）+ -er（名词后缀）</div>
+        <div class="label">词源</div><div>源自古法语 remaindre「留下」，由拉丁语 remanere「留下来」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">付款题常考：the remainder of the balance（余款）；for the remainder of the year（今年余下时间）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">the remainder of the payment（剩余款项）</span><span class="chip">for the remainder of the day（当天余下时间）</span><span class="chip">pay the remainder（付清余款）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>A deposit is required now, and the remainder is due upon delivery.</en>
+          <zh>现在需支付订金，余款于交货时付清。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">reminder</span>
+        <span class="ipa">/rɪˈmaɪndər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">提醒；提示函；催款单</div>
+        <div class="label">词根</div><div>re-（再）+ mind（注意）+ -er（名词后缀）</div>
+        <div class="label">词源</div><div>由 remind「使想起」加 -er 构成，17 世纪起指「提醒的事物」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">邮件题高频：This is a reminder that...（特此提醒……）；send a reminder（发送提醒）；payment reminder（催款通知）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">friendly reminder（温馨提醒）</span><span class="chip">send a reminder（发送提醒）</span><span class="chip">payment reminder（付款提醒）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>This is a friendly reminder that your membership expires next week.</en>
+          <zh>温馨提醒：您的会员资格将于下周到期。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">renewal</span>
+        <span class="ipa">/rɪˈnuːəl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">续约；续订；更新</div>
+        <div class="label">词根</div><div>re-（再）+ new（新）+ -al（名词后缀）</div>
+        <div class="label">词源</div><div>由 renew「使更新」加 -al 构成，指「延长期限、重新生效」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同会员类高频：contract renewal（合同续签）；renewal notice（续订通知）；动词 renew a subscription（续订）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">contract renewal（合同续签）</span><span class="chip">renewal fee（续费）</span><span class="chip">due for renewal（到期需续订）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Your lease is due for renewal at the end of March.</en>
+          <zh>您的租约将于三月底到期需续签。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">reputation</span>
+        <span class="ipa">/ˌrepjuˈteɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">名声；声誉</div>
+        <div class="label">词根</div><div>re-（反复）+ put（思考）+ -ation（名词后缀）</div>
+        <div class="label">词源</div><div>源自拉丁语 reputatio「考虑、评估」，由 reputare「反复思量」而来，引申为「他人的评价」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">介词搭配：have a reputation for（以……著称）；earn a reputation as（赢得……的声誉）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">build a reputation（建立声誉）</span><span class="chip">a reputation for quality（以品质著称）</span><span class="chip">damage the company's reputation（损害公司声誉）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The firm has a strong reputation for excellent customer service.</en>
+          <zh>这家公司以卓越的客户服务享有盛誉。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">reschedule</span>
+        <span class="ipa">/ˌriːˈskedʒuːl/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">重新安排时间；改期</div>
+        <div class="label">词根</div><div>re-（再）+ schedule（安排日程）</div>
+        <div class="label">词源</div><div>schedule 源自拉丁语 schedula「小纸条」，加 re- 表示「重新排定」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议改期高频：reschedule the meeting for Thursday（把会议改到周四）；= postpone（延期）/ move up（提前）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reschedule an appointment（改约）</span><span class="chip">reschedule the meeting（会议改期）</span><span class="chip">be rescheduled for next week（改到下周）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Could we reschedule our call for Thursday afternoon?</en>
+          <zh>我们能把电话会议改到周四下午吗？</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">safeguard</span>
+        <span class="ipa">/ˈseɪfɡɑːrd/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">保护；保障；保护措施</div>
+        <div class="label">词根</div><div>safe（安全）+ guard（守卫）</div>
+        <div class="label">词源</div><div>源自古法语 sauve garde「安全护卫」，原指护送通行证，后泛指「保护措施」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">正式用语：safeguard customer data（保护客户数据）；= protect；名词 safeguards against fraud（防欺诈措施）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">safeguard personal information（保护个人信息）</span><span class="chip">safeguard against risks（防范风险）</span><span class="chip">security safeguards（安全保障措施）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The new policy is designed to safeguard customers' personal information.</en>
+          <zh>新政策旨在保护客户的个人信息。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">scrutinize</span>
+        <span class="ipa">/ˈskruːtənaɪz/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">仔细审查；详查</div>
+        <div class="label">词根</div><div>scrutin（详查）+ -ize（动词后缀）</div>
+        <div class="label">词源</div><div>源自拉丁语 scrutinium「搜查」，由 scrutari「翻找细看」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">近义替换：scrutinize = examine closely（仔细检查）；名词 scrutiny：under close scrutiny（受到严格审查）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">scrutinize the contract（仔细审查合同）</span><span class="chip">scrutinize expenses（详查开支）</span><span class="chip">closely scrutinize（严格审查）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The auditors will scrutinize every expense report submitted this quarter.</en>
+          <zh>审计人员将仔细审查本季度提交的每份报销单。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">signature</span>
+        <span class="ipa">/ˈsɪɡnətʃər/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">签名；招牌的；标志性的</div>
+        <div class="label">词根</div><div>sign（标记）+ -ature（名词后缀）</div>
+        <div class="label">词源</div><div>源自中世纪拉丁语 signatura「标记」，由 signare「做记号」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">一词多义：require a signature（需要签名）；signature dish（招牌菜）为餐饮题常见用法</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">obtain a signature（取得签名）</span><span class="chip">signature dish（招牌菜）</span><span class="chip">digital signature（电子签名）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please return the form with your signature by Friday.</en>
+          <zh>请在周五前将签好名的表格交回。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">spreadsheet</span>
+        <span class="ipa">/ˈspredʃiːt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">电子表格</div>
+        <div class="label">词根</div><div>spread（展开）+ sheet（纸张）</div>
+        <div class="label">词源</div><div>原指会计用的大幅展开账页，20 世纪 80 年代起指电子表格软件</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公场景高频：update the spreadsheet（更新表格）；attached spreadsheet（附件中的表格）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">update the spreadsheet（更新电子表格）</span><span class="chip">budget spreadsheet（预算表）</span><span class="chip">attach a spreadsheet（附上电子表格）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>I've attached a spreadsheet with this month's sales figures.</en>
+          <zh>我附上了一份包含本月销售数据的电子表格。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">stake</span>
+        <span class="ipa">/steɪk/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">股份；利害关系；赌注</div>
+        <div class="label">词根</div><div>无词缀（单一词根 stake「木桩」）</div>
+        <div class="label">词源</div><div>源自古英语 staca「木桩」，后指押在桩上的赌注，再引申为「投资份额」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财经题常考：acquire a stake in（收购……的股份）；controlling stake（控股权）；stakeholder（利益相关者）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a 20 percent stake（20% 的股份）</span><span class="chip">controlling stake（控股权）</span><span class="chip">at stake（处于危险中；攸关）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The investment group acquired a minority stake in the startup.</en>
+          <zh>该投资集团收购了这家初创公司的少数股权。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">stationery</span>
+        <span class="ipa">/ˈsteɪʃəneri/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">文具；信纸</div>
+        <div class="label">词根</div><div>station（店铺）+ -er + -y</div>
+        <div class="label">词源</div><div>源自中世纪 stationer「固定摊位的书商」，其所卖的纸笔称 stationery</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">拼写辨析：stationery（文具）≠ stationary（静止的）；office stationery（办公文具）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">office stationery（办公文具）</span><span class="chip">stationery supplies（文具用品）</span><span class="chip">company stationery（公司专用信纸）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please order more stationery before the supply cabinet runs out.</en>
+          <zh>请在储物柜用完之前再订一些文具。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">stipulate</span>
+        <span class="ipa">/ˈstɪpjuleɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">规定；明确要求</div>
+        <div class="label">词根</div><div>stipul（约定）+ -ate（动词后缀）</div>
+        <div class="label">词源</div><div>源自拉丁语 stipulari「要求正式承诺」，用于罗马法中的口头契约</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同题高频：The contract stipulates that...（合同规定……）；名词 stipulation（条款；规定）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">stipulate the terms（规定条款）</span><span class="chip">as stipulated in the agreement（按协议规定）</span><span class="chip">clearly stipulate（明确规定）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The contract stipulates that payment must be made within 30 days.</en>
+          <zh>合同规定必须在 30 天内付款。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">storage</span>
+        <span class="ipa">/ˈstɔːrɪdʒ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">储存；仓储；存储空间</div>
+        <div class="label">词根</div><div>store（储存）+ -age（名词后缀）</div>
+        <div class="label">词源</div><div>由 store「储存」加 -age 构成，17 世纪起指「储存空间或费用」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">物流办公高频：storage room（储藏室）；in storage（存放中）；cloud storage（云存储）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">storage space（储存空间）</span><span class="chip">storage facility（仓储设施）</span><span class="chip">put into storage（存放起来）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Old files have been moved to the storage room on the basement level.</en>
+          <zh>旧文件已移到地下层的储藏室。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">streamline</span>
+        <span class="ipa">/ˈstriːmlaɪn/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">精简；使高效化</div>
+        <div class="label">词根</div><div>stream（流）+ line（线）</div>
+        <div class="label">词源</div><div>原指流线型外形以减少阻力，20 世纪引申为「简化流程、提升效率」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">管理题高频：streamline the process（精简流程）；= simplify / make more efficient（提高效率）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">streamline operations（精简运营）</span><span class="chip">streamline the approval process（简化审批流程）</span><span class="chip">streamlined workflow（精简的工作流程）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The new software will streamline the invoice approval process.</en>
+          <zh>新软件将简化发票审批流程。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">subscription</span>
+        <span class="ipa">/səbˈskrɪpʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">订阅；订购；会员费</div>
+        <div class="label">词根</div><div>sub-（在下）+ script（写）+ -ion（名词后缀）</div>
+        <div class="label">词源</div><div>源自拉丁语 subscriptio「签名于下方」，因订购时需签名登记而引申为「订阅」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">续订类高频：renew a subscription（续订）；cancel a subscription（取消订阅）；annual subscription（年度订阅）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">annual subscription（年度订阅）</span><span class="chip">renew a subscription（续订）</span><span class="chip">subscription fee（订阅费）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Your annual subscription will be renewed automatically unless you cancel it.</en>
+          <zh>除非您取消，否则您的年度订阅将自动续订。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">subsidiary</span>
+        <span class="ipa">/səbˈsɪdieri/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">子公司；附属的</div>
+        <div class="label">词根</div><div>sub-（在下）+ sid（坐）+ -iary</div>
+        <div class="label">词源</div><div>源自拉丁语 subsidiarius「后备的、支援的」，由 subsidium「后援部队」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公司结构题：a wholly owned subsidiary（全资子公司）；parent company（母公司）为对应词</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">overseas subsidiary（海外子公司）</span><span class="chip">wholly owned subsidiary（全资子公司）</span><span class="chip">subsidiary company（附属公司）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company plans to open a subsidiary in Singapore next year.</en>
+          <zh>公司计划明年在新加坡成立一家子公司。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">surpass</span>
+        <span class="ipa">/sərˈpæs/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">超过；胜过</div>
+        <div class="label">词根</div><div>sur-（超过）+ pass（通过）</div>
+        <div class="label">词源</div><div>源自法语 surpasser「越过」，sur- 表示「在上方」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">业绩题高频：surpass expectations（超出预期）；surpass the sales target（超额完成销售目标）；= exceed</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">surpass expectations（超出预期）</span><span class="chip">surpass last year's record（超越去年纪录）</span><span class="chip">surpass the target（超过目标）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Third-quarter profits surpassed analysts' expectations.</en>
+          <zh>第三季度利润超出了分析师的预期。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">tariff</span>
+        <span class="ipa">/ˈtærɪf/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">关税；价目表</div>
+        <div class="label">词根</div><div>无词缀（外来词，源自阿拉伯语）</div>
+        <div class="label">词源</div><div>源自阿拉伯语 ta'rīf「告知、公布」，经意大利语进入英语，原指公布的税率表</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">贸易新闻常考：impose tariffs on imports（对进口商品征收关税）；= import duty（进口税）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">import tariffs（进口关税）</span><span class="chip">impose a tariff（征收关税）</span><span class="chip">raise tariffs（提高关税）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The new tariffs have increased the cost of imported steel.</en>
+          <zh>新的关税提高了进口钢材的成本。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">tenure</span>
+        <span class="ipa">/ˈtenjər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">任期；在职期间</div>
+        <div class="label">词根</div><div>ten（握住）+ -ure（名词后缀）</div>
+        <div class="label">词源</div><div>源自古法语 tenure「持有」，由拉丁语 tenere「握住」而来，引申为「担任职位的期间」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">人事题常考：during her tenure as CEO（她担任 CEO 期间）；= term of office（任期）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">during his tenure（在他任期内）</span><span class="chip">tenure as director（担任总监的任期）</span><span class="chip">long tenure（长期任职）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Sales doubled during her tenure as regional manager.</en>
+          <zh>她担任区域经理期间，销售额翻了一番。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">testimonial</span>
+        <span class="ipa">/ˌtestɪˈmoʊniəl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">客户评价；推荐信</div>
+        <div class="label">词根</div><div>testi（证明）+ -monial（名词后缀）</div>
+        <div class="label">词源</div><div>源自拉丁语 testimonium「证据、证词」，由 testis「证人」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销题高频：customer testimonials（客户好评）常出现在网站和广告文本中；= endorsement（推荐）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">customer testimonials（客户评价）</span><span class="chip">written testimonial（书面推荐）</span><span class="chip">video testimonial（视频推荐）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Our website features testimonials from satisfied clients.</en>
+          <zh>我们的网站展示了满意客户的评价。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">timely</span>
+        <span class="ipa">/ˈtaɪmli/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">及时的；适时的</div>
+        <div class="label">词根</div><div>time（时间）+ -ly（形容词后缀）</div>
+        <div class="label">词源</div><div>由 time 加 -ly 构成，古英语中即有「适时的」含义</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">词性陷阱：timely 是形容词而非副词；in a timely manner（及时地）；timely delivery（准时交付）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">in a timely manner（及时地）</span><span class="chip">timely response（及时回复）</span><span class="chip">timely payment（按时付款）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We appreciate your timely response to our inquiry.</en>
+          <zh>感谢您及时回复我们的询问。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">tuition</span>
+        <span class="ipa">/tuˈɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">学费；教学</div>
+        <div class="label">词根</div><div>tuit（照看）+ -ion（名词后缀）</div>
+        <div class="label">词源</div><div>源自拉丁语 tuitio「保护、监护」，由 tueri「照看」而来，后指「教导及其费用」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">人事福利题：tuition reimbursement（学费报销）是员工福利常考搭配</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">tuition fees（学费）</span><span class="chip">tuition reimbursement（学费报销）</span><span class="chip">tuition assistance（学费资助）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company offers tuition reimbursement for job-related courses.</en>
+          <zh>公司为与工作相关的课程提供学费报销。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">unveil</span>
+        <span class="ipa">/ˌʌnˈveɪl/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">推出；公布；揭幕</div>
+        <div class="label">词根</div><div>un-（解除）+ veil（面纱）</div>
+        <div class="label">词源</div><div>字面义为「揭开面纱」，引申为「首次公开展示新产品或计划」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">新品发布高频：unveil a new product line（推出新产品线）；= introduce / launch / reveal</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">unveil a new product（推出新产品）</span><span class="chip">unveil plans（公布计划）</span><span class="chip">officially unveiled（正式揭幕）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company will unveil its new smartphone at next week's trade show.</en>
+          <zh>公司将在下周的展会上推出新款智能手机。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">voucher</span>
+        <span class="ipa">/ˈvaʊtʃər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">代金券；凭证；优惠券</div>
+        <div class="label">词根</div><div>vouch（担保）+ -er（名词后缀）</div>
+        <div class="label">词源</div><div>源自古法语 voucher「传唤作证」，后指「证明付款或权利的凭证」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">客服补偿题常考：offer a voucher as compensation（提供代金券作为补偿）；gift voucher（礼券）；= coupon</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">gift voucher（礼券）</span><span class="chip">meal voucher（餐券）</span><span class="chip">redeem a voucher（兑换代金券）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>As an apology for the delay, we have enclosed a $20 voucher.</en>
+          <zh>为表示对延误的歉意，我们随信附上一张 20 美元的代金券。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">waive</span>
+        <span class="ipa">/weɪv/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">免除；放弃（权利）</div>
+        <div class="label">词根</div><div>无词缀（单一词根 waive「放弃」）</div>
+        <div class="label">词源</div><div>源自古法语 weyver「放弃、遗弃」，可能源于古诺尔斯语</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">费用题高频：waive the fee（免收费用）；名词 waiver（弃权书；豁免）；注意与 wave（挥手）区分</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">waive the fee（免收费用）</span><span class="chip">waive the late charge（免收滞纳金）</span><span class="chip">waive the right to（放弃……的权利）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The bank agreed to waive the annual fee for the first year.</en>
+          <zh>银行同意免收第一年的年费。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
