@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 10/13 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.10.13</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">abandon</span>
+        <span class="ipa">/əˈbændən/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">放弃；遗弃；中止</div>
+        <div class="label">词根</div><div>a-（加强）+ bandon（控制/权力）</div>
+        <div class="label">词源</div><div>源自古法语 abandoner「交由他人处置」，由 à bandon「在（他人）权力之下」而来，引申为「放弃控制或计划」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">计划/项目类高频：abandon a project（放弃项目）；abandon the idea（打消想法）；勿与 leave 混用场景</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">abandon a project（放弃项目）</span><span class="chip">abandon the plan（放弃计划）</span><span class="chip">abandon hope（放弃希望）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The board decided to abandon the expansion project due to rising costs.</en>
+          <zh>由于成本上升，董事会决定放弃扩建项目。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">abolish</span>
+        <span class="ipa">/əˈbɑːlɪʃ/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">废除；取消（制度、规定）</div>
+        <div class="label">词根</div><div>ab-（离开）+ olish（生长/成长）</div>
+        <div class="label">词源</div><div>源自拉丁语 abolere「销毁、废止」，指彻底取消法律、习俗或制度</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">政策法规类：abolish a rule / policy（废除规定/政策）；名词 abolition（废除）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">abolish a rule（废除规定）</span><span class="chip">abolish the fee（取消费用）</span><span class="chip">be abolished（被废除）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Management plans to abolish the outdated overtime policy next quarter.</en>
+          <zh>管理层计划在下季度废除过时的加班政策。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">absence</span>
+        <span class="ipa">/ˈæbsəns/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">缺席；不在；缺乏</div>
+        <div class="label">词根</div><div>ab-（离开）+ sence（存在）</div>
+        <div class="label">词源</div><div>源自拉丁语 absentia「不在场」，由 abesse「不在」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：in one's absence（在某人不在时）；leave of absence（请假）；absence from work（缺勤）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">in one's absence（在某人不在时）</span><span class="chip">leave of absence（请假）</span><span class="chip">absence from the meeting（缺席会议）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please contact the deputy manager in my absence.</en>
+          <zh>我不在时请联系副经理。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">absorb</span>
+        <span class="ipa">/əbˈzɔːrb/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">吸收；理解；使全神贯注；兼并</div>
+        <div class="label">词根</div><div>ab-（离开）+ sorb（吸）</div>
+        <div class="label">词源</div><div>源自拉丁语 absorbere「吞下去、吸尽」，商务中常引申为「消化成本/信息」或「兼并」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">成本/并购：absorb the cost（承担成本）；absorb a company（兼并公司）；be absorbed in（全神贯注于）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">absorb the cost（承担成本）</span><span class="chip">absorb information（吸收信息）</span><span class="chip">absorb a competitor（兼并竞争对手）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The supplier agreed to absorb the extra shipping cost.</en>
+          <zh>供应商同意承担额外的运费。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">accelerate</span>
+        <span class="ipa">/əkˈseləreɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">加速；加快；促进</div>
+        <div class="label">词根</div><div>ac-（加强）+ celer（快）+ -ate（动词后缀）</div>
+        <div class="label">词源</div><div>源自拉丁语 accelerare「使加快」，celer 意为「迅速的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">进度/增长：accelerate growth（加速增长）；accelerate the process（加快进程）；名词 acceleration</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">accelerate growth（加速增长）</span><span class="chip">accelerate the process（加快进程）</span><span class="chip">accelerate delivery（加快交付）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>New software tools helped accelerate the product development cycle.</en>
+          <zh>新的软件工具帮助加快了产品开发周期。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">accessible</span>
+        <span class="ipa">/əkˈsesəbl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">可到达的；易获得的；易懂的</div>
+        <div class="label">词根</div><div>access（接近）+ -ible（可……的）</div>
+        <div class="label">词源</div><div>源自拉丁语 accessibilis，由 accedere「走近」而来，指容易接近或使用</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">场所/信息：easily accessible（容易到达/获取）；accessible by subway（地铁可达）；对应名词 accessibility</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">easily accessible（容易到达的）</span><span class="chip">accessible information（易获取的信息）</span><span class="chip">wheelchair-accessible（无障碍通行的）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The new branch is easily accessible by public transportation.</en>
+          <zh>新分店乘坐公共交通很容易到达。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">accompany</span>
+        <span class="ipa">/əˈkʌmpəni/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">陪伴；伴随；附有</div>
+        <div class="label">词根</div><div>ac-（朝向）+ company（同伴）</div>
+        <div class="label">词源</div><div>源自古法语 acompagnier「与……结伴」，商务信函中常指「随附」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">信函/说明：accompanied by（附有/由……陪同）；Please find enclosed... 可与 accompany 同现</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">accompany a guest（陪同客人）</span><span class="chip">be accompanied by（附有；由……陪同）</span><span class="chip">accompanying documents（随附文件）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>A detailed brochure will accompany each sample shipment.</en>
+          <zh>每批样品出货都会附上一份详细手册。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">accomplish</span>
+        <span class="ipa">/əˈkɑːmplɪʃ/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">完成；实现；达成</div>
+        <div class="label">词根</div><div>ac-（加强）+ complish（完成）</div>
+        <div class="label">词源</div><div>源自古法语 acomplir「使圆满」，由拉丁语 complere「填满、完成」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">目标达成：accomplish a goal / task（完成目标/任务）；名词 accomplishment（成就）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">accomplish a goal（达成目标）</span><span class="chip">accomplish a task（完成任务）</span><span class="chip">hard to accomplish（难以完成）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The team accomplished all of its quarterly sales targets.</en>
+          <zh>该团队完成了所有季度销售目标。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">accountable</span>
+        <span class="ipa">/əˈkaʊntəbl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">负有责任的；应作说明的</div>
+        <div class="label">词根</div><div>account（说明/账目）+ -able（可……的）</div>
+        <div class="label">词源</div><div>由 account「交代、说明」加 -able，指必须对自己的行为负责并可被追责</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">管理/治理：be accountable for（对……负责）；accountable to the board（向董事会负责）；名词 accountability</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">be accountable for（对……负责）</span><span class="chip">hold someone accountable（追究某人责任）</span><span class="chip">accountable to shareholders（对股东负责）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Managers are accountable for meeting the safety standards.</en>
+          <zh>经理们对达到安全标准负有责任。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">accumulate</span>
+        <span class="ipa">/əˈkjuːmjəleɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">积累；积聚；堆积</div>
+        <div class="label">词根</div><div>ac-（加强）+ cumul（堆积）+ -ate</div>
+        <div class="label">词源</div><div>源自拉丁语 accumulare「堆积起来」，cumulus 意为「堆」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/经验：accumulate wealth / experience（积累财富/经验）；名词 accumulation；勿与 gather 场景混淆</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">accumulate experience（积累经验）</span><span class="chip">accumulate debt（积欠债务）</span><span class="chip">accumulate points（累积积分）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Interest will accumulate on the unpaid balance each month.</en>
+          <zh>未付余额每月都会累积利息。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">accuracy</span>
+        <span class="ipa">/ˈækjərəsi/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">准确性；精确度</div>
+        <div class="label">词根</div><div>accur（精确）+ -acy（名词后缀）</div>
+        <div class="label">词源</div><div>源自拉丁语 accuratus「仔细完成的」，由 ad- + cura「照料」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">数据/报告：with accuracy（准确地）；ensure accuracy（确保准确性）；形容词 accurate（已考过相关）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">data accuracy（数据准确性）</span><span class="chip">ensure accuracy（确保准确性）</span><span class="chip">high degree of accuracy（高度准确）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please double-check the figures for accuracy before submission.</en>
+          <zh>提交前请再次核对数字的准确性。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">activate</span>
+        <span class="ipa">/ˈæktɪveɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">激活；启用；使运作</div>
+        <div class="label">词根</div><div>activ（活跃）+ -ate（使……）</div>
+        <div class="label">词源</div><div>源自拉丁语 activus「积极的、活动的」，加 -ate 表示「使开始运作」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">账户/系统：activate an account（激活账户）；activate a card（开通卡片）；名词 activation</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">activate an account（激活账户）</span><span class="chip">activate the system（启用系统）</span><span class="chip">activate a feature（开通功能）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>You must activate your membership card within seven days.</en>
+          <zh>你必须在七天内激活会员卡。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">additional</span>
+        <span class="ipa">/əˈdɪʃənl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">额外的；附加的；追加的</div>
+        <div class="label">词根</div><div>add（加）+ -ition + -al</div>
+        <div class="label">词源</div><div>源自拉丁语 additionem「增加」，商务中指在原有基础上的追加部分</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">费用/人员：additional charge / fee（额外费用）；additional staff（额外人员）；= extra / further</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">additional charge（额外费用）</span><span class="chip">additional information（补充信息）</span><span class="chip">at no additional cost（不另收费）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Guests may request an additional night at a discounted rate.</en>
+          <zh>客人可以优惠房价加订一晚。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">adjacent</span>
+        <span class="ipa">/əˈdʒeɪsnt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">邻近的；毗连的</div>
+        <div class="label">词根</div><div>ad-（朝向）+ jacent（躺/位于）</div>
+        <div class="label">词源</div><div>源自拉丁语 adjacens「躺在旁边」，指空间上紧挨着的</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">场所描述：adjacent to（紧邻）；the adjacent building（相邻大楼）；会议通知常见</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">adjacent to（紧邻）</span><span class="chip">adjacent offices（相邻办公室）</span><span class="chip">adjacent parking lot（邻近停车场）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The conference room is adjacent to the main lobby.</en>
+          <zh>会议室紧邻主大厅。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">adjust</span>
+        <span class="ipa">/əˈdʒʌst/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">调整；调节；适应</div>
+        <div class="label">词根</div><div>ad-（朝向）+ just（正确/公正）</div>
+        <div class="label">词源</div><div>源自拉丁语 adjustare「使合适」，由 ad- + juxta「靠近」相关词演变，指调到合适状态</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">价格/计划：adjust the schedule（调整日程）；adjust prices（调整价格）；名词 adjustment</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">adjust the schedule（调整日程）</span><span class="chip">adjust to a new role（适应新岗位）</span><span class="chip">make adjustments（作出调整）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We may need to adjust the delivery date if the shipment is delayed.</en>
+          <zh>如果货运延误，我们可能需要调整交货日期。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">administer</span>
+        <span class="ipa">/ədˈmɪnɪstər/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">管理；执行；施行</div>
+        <div class="label">词根</div><div>ad-（朝向）+ minister（服务/执行）</div>
+        <div class="label">词源</div><div>源自拉丁语 administrare「管理、照料」，minister 意为「仆人、执行者」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">行政/考试：administer a survey / test（实施调查/考试）；administer a program（管理项目）；名词 administration</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">administer a program（管理项目）</span><span class="chip">administer a survey（实施调查）</span><span class="chip">administer the fund（管理基金）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The HR department will administer the annual employee survey.</en>
+          <zh>人力资源部将负责实施年度员工调查。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">admission</span>
+        <span class="ipa">/ədˈmɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">准许进入；入场费；承认</div>
+        <div class="label">词根</div><div>ad-（朝向）+ miss（送/放）+ -ion</div>
+        <div class="label">词源</div><div>源自拉丁语 admissio「准许进入」，由 admittere「让进来」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">活动/展览：admission fee（门票/入场费）；free admission（免费入场）；gain admission（获准进入）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">admission fee（入场费）</span><span class="chip">free admission（免费入场）</span><span class="chip">admission to the event（获准参加活动）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Admission to the trade show is free for registered buyers.</en>
+          <zh>注册采购商可免费进入该贸易展。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">adopt</span>
+        <span class="ipa">/əˈdɑːpt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">采用；采纳；收养</div>
+        <div class="label">词根</div><div>ad-（朝向）+ opt（选择）</div>
+        <div class="label">词源</div><div>源自拉丁语 adoptare「选择作为己有」，optare 意为「选择」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">政策/技术：adopt a policy / strategy（采纳政策/策略）；adopt new technology（采用新技术）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">adopt a policy（采纳政策）</span><span class="chip">adopt new measures（采取新措施）</span><span class="chip">widely adopted（被广泛采用）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company will adopt a flexible work schedule starting in May.</en>
+          <zh>公司将从五月起采用弹性工作制。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">advance</span>
+        <span class="ipa">/ədˈvæns/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">推进；提前；预付款；进步</div>
+        <div class="label">词根</div><div>ad-（朝向）+ vance（前）</div>
+        <div class="label">词源</div><div>源自古法语 avancer「向前移动」，由拉丁语 abante「在前面」演变而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">时间/金钱双义：in advance（提前）；advance payment（预付款）；advance notice（预先通知）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">in advance（提前）</span><span class="chip">advance payment（预付款）</span><span class="chip">advance notice（预先通知）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please pay a 30 percent deposit in advance to reserve the venue.</en>
+          <zh>请提前支付百分之三十的定金以预订场地。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">advantage</span>
+        <span class="ipa">/ədˈvæntɪdʒ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">优势；有利条件；好处</div>
+        <div class="label">词根</div><div>ad-（朝向）+ vantage（有利位置）</div>
+        <div class="label">词源</div><div>源自古法语 avantage「优势」，指处于更有利的地位</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">比较类：take advantage of（利用）；competitive advantage（竞争优势）；have an advantage over（比……有优势）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">competitive advantage（竞争优势）</span><span class="chip">take advantage of（利用）</span><span class="chip">have an advantage（具有优势）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Our local warehouses give us a clear advantage over online-only rivals.</en>
+          <zh>本地仓库使我们相对纯线上对手具有明显优势。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">adverse</span>
+        <span class="ipa">/ədˈvɜːrs/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">不利的；负面的；有害的</div>
+        <div class="label">词根</div><div>ad-（朝向）+ verse（转）</div>
+        <div class="label">词源</div><div>源自拉丁语 adversus「对着、相反的」，指转向对立面因而「不利」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">风险/天气：adverse effect / impact（不利影响）；adverse weather（恶劣天气）；勿与 averse（厌恶的）混淆</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">adverse effect（不利影响）</span><span class="chip">adverse conditions（不利条件）</span><span class="chip">adverse weather（恶劣天气）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The delay was caused by adverse weather at the destination airport.</en>
+          <zh>延误是由目的地机场的恶劣天气造成的。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">advertise</span>
+        <span class="ipa">/ˈædvərtaɪz/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">做广告；宣传；征聘启事</div>
+        <div class="label">词根</div><div>ad-（朝向）+ vert（转）+ -ise</div>
+        <div class="label">词源</div><div>源自拉丁语 advertere「使注意」，经法语 advertir 演变为「公开宣传」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">招聘/营销：advertise a vacancy（刊登招聘启事）；advertise a product（为产品做广告）；名词 advertisement / advertising</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">advertise a product（为产品做广告）</span><span class="chip">advertise a vacancy（刊登空缺）</span><span class="chip">advertise online（在线投放广告）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We plan to advertise the new service on social media this month.</en>
+          <zh>我们计划本月在社交媒体上宣传这项新服务。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">advise</span>
+        <span class="ipa">/ədˈvaɪz/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">建议；劝告；通知</div>
+        <div class="label">词根</div><div>ad-（朝向）+ vise（看）</div>
+        <div class="label">词源</div><div>源自古法语 aviser「考虑、告知」，由拉丁语 videre「看见」相关词演变</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务礼貌：advise someone to do（建议某人做）；Please advise（请告知）；名词 advice（不可数）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">advise someone to（建议某人）</span><span class="chip">strongly advise（强烈建议）</span><span class="chip">please advise（请告知）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We advise all travelers to arrive two hours before departure.</en>
+          <zh>我们建议所有旅客在出发前两小时到达。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">advocate</span>
+        <span class="ipa">/ˈædvəkeɪt/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">拥护；提倡；倡导者</div>
+        <div class="label">词根</div><div>ad-（朝向）+ voc（喊/声）+ -ate</div>
+        <div class="label">词源</div><div>源自拉丁语 advocare「召唤来帮助」，后指「为某方发声、支持」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">政策立场：advocate for（倡导）；an advocate of（……的倡导者）；发音名/动不同重音常见</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">advocate for change（倡导变革）</span><span class="chip">advocate a policy（拥护一项政策）</span><span class="chip">strong advocate（坚定倡导者）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The CEO advocates for greater investment in employee training.</en>
+          <zh>首席执行官主张加大对员工培训的投入。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">affirm</span>
+        <span class="ipa">/əˈfɜːrm/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">申明；确认；肯定</div>
+        <div class="label">词根</div><div>af-（加强）+ firm（坚固）</div>
+        <div class="label">词源</div><div>源自拉丁语 affirmare「使坚定、断言」，firmus 意为「稳固的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">正式声明：affirm a decision（确认决定）；affirm that（申明……）；名词 affirmation</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">affirm a decision（确认决定）</span><span class="chip">affirm that（申明……）</span><span class="chip">publicly affirm（公开申明）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The spokesperson affirmed that the merger talks were still ongoing.</en>
+          <zh>发言人确认并购谈判仍在进行中。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">afford</span>
+        <span class="ipa">/əˈfɔːrd/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">负担得起；提供；给予</div>
+        <div class="label">词根</div><div>af-（朝向）+ ford（进展/供给）</div>
+        <div class="label">词源</div><div>源自古英语 geforthian「推进、完成」，后演变为「有足够资源去做」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">能力/机会：can afford to（负担得起去做）；afford an opportunity（提供机会）；cannot afford to miss（错过不起）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">can afford to（负担得起）</span><span class="chip">afford an opportunity（提供机会）</span><span class="chip">cannot afford delays（耽误不起）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Small firms cannot afford to ignore online customer reviews.</en>
+          <zh>小企业忽视网上客户评价的代价太大。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">agency</span>
+        <span class="ipa">/ˈeɪdʒənsi/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">代理机构；中介；政府部门</div>
+        <div class="label">词根</div><div>ag（做）+ -ency（名词后缀）</div>
+        <div class="label">词源</div><div>源自拉丁语 agentia「行动、代理」，指代他人行事的机构</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务场所：travel agency（旅行社）；advertising agency（广告公司）；government agency（政府机构）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">travel agency（旅行社）</span><span class="chip">advertising agency（广告公司）</span><span class="chip">employment agency（职业介绍所）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>She booked the corporate retreat through a local travel agency.</en>
+          <zh>她通过当地旅行社预订了公司团建行程。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">agent</span>
+        <span class="ipa">/ˈeɪdʒənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">代理人；经纪人；特工</div>
+        <div class="label">词根</div><div>ag（做）+ -ent（者）</div>
+        <div class="label">词源</div><div>源自拉丁语 agens「行动者」，指代表他人办理事务的人</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">销售/保险：sales agent（销售代理）；real estate agent（房产中介）；insurance agent（保险代理人）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">sales agent（销售代理）</span><span class="chip">real estate agent（房产中介）</span><span class="chip">insurance agent（保险代理人）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please contact our booking agent to change your reservation.</en>
+          <zh>如需更改预订，请联系我们的订票代理。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">aggressive</span>
+        <span class="ipa">/əˈɡresɪv/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">积极进取的；侵略性的；激烈的</div>
+        <div class="label">词根</div><div>ag-（朝向）+ gress（走）+ -ive</div>
+        <div class="label">词源</div><div>源自拉丁语 aggressivus，由 aggredi「走向、攻击」而来；商务中常指「进取的」营销或定价</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销/目标：aggressive marketing（积极营销）；aggressive growth target（激进增长目标）；语境可褒可贬</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">aggressive marketing（积极营销）</span><span class="chip">aggressive pricing（激进定价）</span><span class="chip">aggressive timeline（紧迫的时间表）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The firm launched an aggressive campaign to win market share.</en>
+          <zh>该公司发起了积极的宣传活动以争夺市场份额。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">agreement</span>
+        <span class="ipa">/əˈɡriːmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">协议；同意；一致</div>
+        <div class="label">词根</div><div>agree（同意）+ -ment（名词后缀）</div>
+        <div class="label">词源</div><div>源自古法语 agreement「同意、契约」，指双方达成一致的安排</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同类核心：reach / sign an agreement（达成/签署协议）；in agreement with（与……一致）；breach of agreement（违约）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">sign an agreement（签署协议）</span><span class="chip">reach an agreement（达成协议）</span><span class="chip">under the agreement（根据协议）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Both parties signed a three-year supply agreement yesterday.</en>
+          <zh>双方昨天签署了一份为期三年的供应协议。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
