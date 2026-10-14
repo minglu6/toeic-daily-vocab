@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 10/14 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.10.14</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">aisle</span>
+        <span class="ipa">/aɪl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">过道；通道；（超市）货架通道</div>
+        <div class="label">词根</div><div>无（词形特殊）</div>
+        <div class="label">词源</div><div>源自古法语 ele「翼、侧廊」，原指教堂两侧通道；英语后加 -s- 受 isle 影响，专指座椅或货架之间的过道</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅/零售高频：window/aisle seat（靠窗/过道座位）；supermarket aisle（超市过道）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">aisle seat（过道座位）</span><span class="chip">walk down the aisle（走过道；亦指结婚）</span><span class="chip">clear the aisle（清空过道）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please keep your luggage out of the aisle during the flight.</en>
+          <zh>飞行途中请勿将行李放在过道上。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">alert</span>
+        <span class="ipa">/əˈlɜːrt/</span>
+        <span class="pos">adj./v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">警觉的；提醒；警报</div>
+        <div class="label">词根</div><div>a-（向）+ lert（警觉）</div>
+        <div class="label">词源</div><div>源自意大利语 all'erta「在岗哨上、保持警惕」，后进入英语作形容词与动词，并引申为「警报通知」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公/IT 高频：alert sb to（提醒某人注意）；security alert（安全警报）；stay alert（保持警觉）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">alert someone to a problem（提醒某人注意问题）</span><span class="chip">security alert（安全警报）</span><span class="chip">stay alert（保持警觉）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The system will alert managers to any unusual spending.</en>
+          <zh>系统会提醒经理注意任何异常支出。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">alliance</span>
+        <span class="ipa">/əˈlaɪəns/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">联盟；结盟；合作关系</div>
+        <div class="label">词根</div><div>alli-（结合）+ -ance（名词）</div>
+        <div class="label">词源</div><div>源自古法语 aliance，由 allier「联合」而来，指国家或组织之间的正式联合</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务合作：form/enter into an alliance（结成联盟）；strategic alliance（战略联盟）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">strategic alliance（战略联盟）</span><span class="chip">form an alliance（结成联盟）</span><span class="chip">business alliance（商业联盟）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The two firms formed a strategic alliance to expand overseas.</en>
+          <zh>两家公司结成战略联盟以拓展海外市场。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">allot</span>
+        <span class="ipa">/əˈlɑːt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">分配；拨给（时间、资金、任务）</div>
+        <div class="label">词根</div><div>a-（向）+ lot（份额）</div>
+        <div class="label">词源</div><div>源自古法语 aloter「按份额分配」，lot 本义为「签、份额」，指按份划拨资源</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">时间/预算类：allot time/funds to（把时间/资金拨给）；名词 allotment（配额）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">allot time to a task（为任务分配时间）</span><span class="chip">allot funds（拨付资金）</span><span class="chip">allotted budget（已分配预算）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Each department was allotted two weeks to complete the audit.</en>
+          <zh>每个部门被分配两周时间完成审计。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">alter</span>
+        <span class="ipa">/ˈɔːltər/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">改变；修改；变更</div>
+        <div class="label">词根</div><div>alter-（其他）</div>
+        <div class="label">词源</div><div>源自拉丁语 alterare「使成为另一样」，由 alter「另一个」而来，指做出改动</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/计划类：alter a schedule（更改日程）；alter the terms（修改条款）；名词 alteration</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">alter a schedule（更改日程）</span><span class="chip">alter the design（修改设计）</span><span class="chip">significantly alter（大幅改变）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We may need to alter the delivery date if the shipment is delayed.</en>
+          <zh>若货运延误，我们可能需要更改交货日期。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">ambition</span>
+        <span class="ipa">/æmˈbɪʃən/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">抱负；雄心；志向</div>
+        <div class="label">词根</div><div>ambi-（四周）+ -tion（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 ambitio「四处奔走求官」，原指竞选活动，后引申为「雄心、抱负」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">职场评价：career ambition（职业抱负）；have the ambition to（有志于）；adj. ambitious</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">career ambition（职业抱负）</span><span class="chip">fulfill one's ambition（实现抱负）</span><span class="chip">lack of ambition（缺乏进取心）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Her ambition is to become the regional sales director within five years.</en>
+          <zh>她的抱负是在五年内成为区域销售总监。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">ambitious</span>
+        <span class="ipa">/æmˈbɪʃəs/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">有雄心的；宏大的；费力的</div>
+        <div class="label">词根</div><div>ambition + -ous（形容词）</div>
+        <div class="label">词源</div><div>由 ambition 加 -ous 构成，既可指人「有抱负的」，也可指计划「雄心勃勃、难度大的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">计划描述高频：an ambitious target/plan（宏大目标/计划）；亦可指人有进取心</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">ambitious plan（宏大计划）</span><span class="chip">ambitious goal（雄心勃勃的目标）</span><span class="chip">ambitious employee（有进取心的员工）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company set an ambitious sales target for the next quarter.</en>
+          <zh>公司为下季度设定了宏大的销售目标。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">amenity</span>
+        <span class="ipa">/əˈmenəti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">便利设施；舒适；生活福利</div>
+        <div class="label">词根</div><div>amen-（愉快）+ -ity（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 amoenitas「宜人、舒适」，指使人愉快的环境或设施，商务英语中常指酒店/办公配套</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">酒店/房产高频：hotel amenities（酒店设施）；modern amenities（现代化配套）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">hotel amenities（酒店设施）</span><span class="chip">basic amenities（基本生活设施）</span><span class="chip">office amenities（办公配套）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The conference hotel offers free Wi-Fi and other useful amenities.</en>
+          <zh>这家会议酒店提供免费无线网络及其他实用设施。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">ample</span>
+        <span class="ipa">/ˈæmpəl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">充足的；宽敞的；绰绰有余的</div>
+        <div class="label">词根</div><div>ampl-（大、宽）</div>
+        <div class="label">词源</div><div>源自拉丁语 amplus「宽广、充足」，指空间或数量足够甚至有余</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">时间/空间类：ample time/space/opportunity（充足时间/空间/机会）；近义 sufficient</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">ample time（充足时间）</span><span class="chip">ample parking（充足停车位）</span><span class="chip">ample evidence（充分证据）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please arrive early so that you have ample time for registration.</en>
+          <zh>请提前到达，以便有充足时间办理登记。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">anniversary</span>
+        <span class="ipa">/ˌænɪˈvɜːrsəri/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">周年纪念日；周年庆</div>
+        <div class="label">词根</div><div>anni-（年）+ vers-（转）+ -ary</div>
+        <div class="label">词源</div><div>源自拉丁语 anniversarius「每年回归的」，由 annus「年」+ vertere「转动」构成</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公司活动：company anniversary（公司周年庆）；celebrate an anniversary（庆祝周年）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">company anniversary（公司周年庆）</span><span class="chip">celebrate an anniversary（庆祝周年）</span><span class="chip">tenth anniversary（十周年）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The firm will host a dinner to mark its twentieth anniversary.</en>
+          <zh>公司将举办晚宴庆祝成立二十周年。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">apology</span>
+        <span class="ipa">/əˈpɑːlədʒi/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">道歉；致歉；辩解</div>
+        <div class="label">词根</div><div>apo-（离开）+ log-（说）+ -y</div>
+        <div class="label">词源</div><div>源自希腊语 apologia「为自己辩护的演说」，原义偏「辩解」，后在英语中主要指「道歉」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">客户服务高频：make/offer an apology（道歉）；letter of apology（致歉信）；v. apologize</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">make an apology（道歉）</span><span class="chip">letter of apology（致歉信）</span><span class="chip">owe someone an apology（该向某人道歉）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We sent a formal apology to the client for the delayed shipment.</en>
+          <zh>我们因货运延误向客户发出正式致歉。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">apparent</span>
+        <span class="ipa">/əˈpærənt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">明显的；表面上的；显而易见的</div>
+        <div class="label">词根</div><div>ap-（向）+ parent（出现）</div>
+        <div class="label">词源</div><div>源自拉丁语 apparere「显现、出现」，指可以清楚看出的，有时也指「表面上的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">书面语高频：it is apparent that（显然）；for no apparent reason（无明显原因）；adv. apparently</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">it is apparent that（显然）</span><span class="chip">apparent reason（表面原因）</span><span class="chip">become apparent（变得明显）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>It soon became apparent that the proposal needed major revisions.</en>
+          <zh>很快就很明显，该提案需要大幅修改。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">appeal</span>
+        <span class="ipa">/əˈpiːl/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">上诉；吸引力；呼吁；申诉</div>
+        <div class="label">词根</div><div>ap-（向）+ peal（推/呼吁）</div>
+        <div class="label">词源</div><div>源自拉丁语 appellare「呼吁、向…提出」，法律义为「上诉」，商务中亦指「吸引力」或「呼吁」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">多义考点：appeal to customers（吸引客户）；file an appeal（提出上诉/申诉）；broad appeal（广泛吸引力）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">appeal to customers（吸引客户）</span><span class="chip">file an appeal（提出申诉）</span><span class="chip">broad appeal（广泛吸引力）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The redesigned packaging has greater appeal to younger buyers.</en>
+          <zh>重新设计的包装对年轻买家更有吸引力。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">applicable</span>
+        <span class="ipa">/əˈplɪkəbl/ /ˈæplɪkəbl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">适用的；可应用的</div>
+        <div class="label">词根</div><div>apply + -able（可…的）</div>
+        <div class="label">词源</div><div>由 apply「应用」加 -able 构成，指规则、折扣或条款「适用于」某情形</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/表单高频：where applicable（如适用）；applicable to（适用于）；applicable fee（适用费用）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">where applicable（如适用）</span><span class="chip">applicable to all staff（适用于全体员工）</span><span class="chip">applicable regulations（适用法规）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please complete all sections of the form where applicable.</en>
+          <zh>请填写表格中所有适用的部分。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">apply</span>
+        <span class="ipa">/əˈplaɪ/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">申请；应用；适用；涂敷</div>
+        <div class="label">词根</div><div>ap-（向）+ ply（折叠/放）</div>
+        <div class="label">词源</div><div>源自拉丁语 applicare「贴上、使接触」，引申为「申请」与「把规则/方法用于」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/规则双高频：apply for a job（申请工作）；apply to（适用于）；apply a discount（应用折扣）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">apply for a position（申请职位）</span><span class="chip">apply to all cases（适用于所有情况）</span><span class="chip">apply a policy（执行政策）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Candidates must apply for the internship online by Friday.</en>
+          <zh>申请者须在周五前在线申请该实习职位。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">appointment</span>
+        <span class="ipa">/əˈpɔɪntmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">预约；约会；任命；职位</div>
+        <div class="label">词根</div><div>appoint + -ment（名词）</div>
+        <div class="label">词源</div><div>由 appoint「约定、任命」加 -ment 构成，既指时间预约，也指正式任命或职位</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">日程高频：make/schedule an appointment（预约）；by appointment only（仅限预约）；appointment as（任命为）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">make an appointment（预约）</span><span class="chip">cancel an appointment（取消预约）</span><span class="chip">by appointment only（仅限预约）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please call the receptionist to schedule an appointment with the consultant.</en>
+          <zh>请致电前台预约与顾问会面。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">approximate</span>
+        <span class="ipa">/əˈprɑːksɪmət/</span>
+        <span class="pos">adj./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">大约的；近似的；接近</div>
+        <div class="label">词根</div><div>ap-（向）+ proxim-（近）+ -ate</div>
+        <div class="label">词源</div><div>源自拉丁语 approximare「靠近」，由 proximus「最近的」而来，指大致接近的数值或情况</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">数字估算：approximate cost/figure（大约费用/数字）；adv. approximately（大约）已考过勿混</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">approximate cost（大约费用）</span><span class="chip">approximate figure（大约数字）</span><span class="chip">approximate the total（估算总额）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The approximate cost of renovating the lobby is $50,000.</en>
+          <zh>翻新大堂的大约费用为五万美元。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">arbitrary</span>
+        <span class="ipa">/ˈɑːrbɪtreri/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">任意的；武断的；专断的</div>
+        <div class="label">词根</div><div>arbitr-（仲裁/判定）+ -ary</div>
+        <div class="label">词源</div><div>源自拉丁语 arbitrarius「取决于意志的」，由 arbiter「仲裁者」而来，现多指缺乏合理依据的武断决定</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">负面评价：arbitrary decision（武断决定）；arbitrary deadline（随意定的截止日）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">arbitrary decision（武断决定）</span><span class="chip">arbitrary rule（武断规定）</span><span class="chip">seem arbitrary（显得武断）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Staff complained that the new dress code seemed arbitrary and unclear.</en>
+          <zh>员工抱怨新的着装规定显得武断且不清晰。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">archive</span>
+        <span class="ipa">/ˈɑːrkaɪv/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">档案；归档；存档</div>
+        <div class="label">词根</div><div>archiv-（档案）</div>
+        <div class="label">词源</div><div>源自拉丁语 archivum「公共记录存放处」，希腊语 arkheion 指官府档案库，现亦作动词「归档」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公/IT：archive documents（归档文件）；company archives（公司档案）；email archive（邮件存档）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">archive documents（归档文件）</span><span class="chip">company archives（公司档案）</span><span class="chip">digital archive（数字档案）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please archive last year's invoices after the audit is complete.</en>
+          <zh>审计完成后请将去年的发票归档。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">argue</span>
+        <span class="ipa">/ˈɑːrgjuː/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">争论；主张；论证</div>
+        <div class="label">词根</div><div>argu-（澄清/证明）</div>
+        <div class="label">词源</div><div>源自拉丁语 arguere「阐明、证明、指责」，英语中既可指「争论」，也可指「提出论据主张」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议辩论：argue for/against（主张支持/反对）；argue that（主张…）；名词 argument</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">argue for a proposal（为提案辩护）</span><span class="chip">argue against the plan（反对该计划）</span><span class="chip">argue that（主张说）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Several board members argued against cutting the training budget.</en>
+          <zh>几位董事主张反对削减培训预算。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">arise</span>
+        <span class="ipa">/əˈraɪz/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">出现；产生；起身</div>
+        <div class="label">词根</div><div>a-（向上）+ rise（升起）</div>
+        <div class="label">词源</div><div>古英语 arisan「起来、出现」，由 rise 加前缀构成，商务中多指问题、机会或情况「出现」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">问题出现：if problems arise（若出现问题）；arise from（由…引起）；过去式 arose / 过去分词 arisen</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">problems arise（出现问题）</span><span class="chip">arise from（由…引起）</span><span class="chip">opportunity arises（机会出现）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please contact HR if any concerns arise during the probation period.</en>
+          <zh>试用期内如有任何疑虑，请联系人力资源部。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">article</span>
+        <span class="ipa">/ˈɑːrtɪkəl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">文章；条款；物品；冠词</div>
+        <div class="label">词根</div><div>artic-（关节/条目）+ -le</div>
+        <div class="label">词源</div><div>源自拉丁语 articulus「小关节、分节」，引申为「条款、条目、短文」及「物品」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">多义：newspaper article（报刊文章）；articles of the contract（合同条款）；article of clothing（衣物）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">newspaper article（报刊文章）</span><span class="chip">contract article（合同条款）</span><span class="chip">article of clothing（一件衣物）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please review Article 5 of the contract before signing.</en>
+          <zh>签署前请审阅合同第五条。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">aspect</span>
+        <span class="ipa">/ˈæspekt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">方面；层面；外观</div>
+        <div class="label">词根</div><div>a-（向）+ spect（看）</div>
+        <div class="label">词源</div><div>源自拉丁语 aspectus「外观、注视」，由 aspicere「看向」而来，现多指事物的某个「方面」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">分析讨论：every aspect of（…的各个方面）；financial aspect（财务方面）；key aspect（关键方面）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">key aspect（关键方面）</span><span class="chip">every aspect of the project（项目的各个方面）</span><span class="chip">financial aspect（财务方面）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We need to consider every aspect of the merger before proceeding.</en>
+          <zh>在推进之前，我们需要考虑并购的各个方面。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">assert</span>
+        <span class="ipa">/əˈsɜːrt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">断言；主张；维护（权利）</div>
+        <div class="label">词根</div><div>as-（向）+ sert（加入/陈述）</div>
+        <div class="label">词源</div><div>源自拉丁语 asserere「声称、主张」，指坚定地表明立场或维护权利</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">声明/维权：assert that（断言）；assert one's rights（维护权利）；名词 assertion</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">assert that（断言）</span><span class="chip">assert one's rights（维护权利）</span><span class="chip">assert control（确立控制）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The supplier asserted that the goods met all quality standards.</en>
+          <zh>供应商断言货物符合所有质量标准。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">asset</span>
+        <span class="ipa">/ˈæset/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">资产；有价值的人/物；优点</div>
+        <div class="label">词根</div><div>无（来自法律用语）</div>
+        <div class="label">词源</div><div>源自古法语 assez「足够」，经法律用语 assets「足以偿债的财产」进入英语，现指资产或宝贵人才</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/HR：company assets（公司资产）；valuable asset（宝贵资产/人才）；fixed assets（固定资产）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">company assets（公司资产）</span><span class="chip">valuable asset（宝贵资产）</span><span class="chip">fixed assets（固定资产）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Experienced staff are the company's most valuable asset.</en>
+          <zh>有经验的员工是公司最宝贵的资产。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">assortment</span>
+        <span class="ipa">/əˈsɔːrtmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">各式各样；分类；组合套装</div>
+        <div class="label">词根</div><div>assort（分类搭配）+ -ment</div>
+        <div class="label">词源</div><div>由 assort「分类搭配」加 -ment 构成，指各类物品的集合或精选组合</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">零售/产品：an assortment of（各式…）；product assortment（产品组合）；wide assortment（品种齐全）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an assortment of（各式…）</span><span class="chip">product assortment（产品组合）</span><span class="chip">wide assortment（品种齐全）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The gift shop sells an assortment of souvenirs and office supplies.</en>
+          <zh>礼品店出售各种纪念品和办公用品。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">attempt</span>
+        <span class="ipa">/əˈtempt/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">尝试；企图；努力</div>
+        <div class="label">词根</div><div>at-（向）+ tempt（试探）</div>
+        <div class="label">词源</div><div>源自拉丁语 attemptare「尝试、试探」，指努力去做某事，不论成败</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">努力/失败：make an attempt to（试图）；attempt to + V；in an attempt to（为了试图）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">make an attempt（做出尝试）</span><span class="chip">attempt to resolve（试图解决）</span><span class="chip">failed attempt（失败的尝试）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The team will attempt to finish the prototype before the deadline.</en>
+          <zh>团队将尝试在截止日期前完成原型。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">attitude</span>
+        <span class="ipa">/ˈætɪtuːd/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">态度；看法；姿势</div>
+        <div class="label">词根</div><div>aptitud-（适合/倾向）变体</div>
+        <div class="label">词源</div><div>源自拉丁语 aptitudo「适合、倾向」，经意大利语 attitudine 进入法语再入英语，指对人事物的看法与姿态</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">职场评价：positive/negative attitude（积极/消极态度）；attitude toward（对…的态度）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">positive attitude（积极态度）</span><span class="chip">attitude toward work（对工作的态度）</span><span class="chip">change one's attitude（改变态度）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>A positive attitude toward feedback helps employees grow faster.</en>
+          <zh>对反馈持积极态度有助于员工更快成长。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">attract</span>
+        <span class="ipa">/əˈtrækt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">吸引；引起（注意、兴趣）</div>
+        <div class="label">词根</div><div>at-（向）+ tract（拉）</div>
+        <div class="label">词源</div><div>源自拉丁语 attrahere「拉向自己」，由 ad + trahere「拉」构成，引申为吸引顾客或注意力</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销高频：attract customers/investors（吸引客户/投资者）；attract attention（引起注意）；n. attraction</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">attract customers（吸引客户）</span><span class="chip">attract attention（引起注意）</span><span class="chip">attract investment（吸引投资）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The new campaign is designed to attract younger customers.</en>
+          <zh>新营销活动旨在吸引更年轻的客户。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">audience</span>
+        <span class="ipa">/ˈɔːdiəns/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">观众；听众；受众；会见</div>
+        <div class="label">词根</div><div>audi-（听）+ -ence（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 audientia「倾听、接见」，由 audire「听」而来，现多指观众、听众或目标受众</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销/演讲：target audience（目标受众）；capture the audience（抓住听众）；large audience（大量观众）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">target audience（目标受众）</span><span class="chip">captive audience（别无选择的听众）</span><span class="chip">address an audience（向听众演讲）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The presentation was tailored to a business audience.</en>
+          <zh>该演示是针对商务受众定制的。</zh>
+        </div>
+      </div>
+    </article>
+  </div>
+
+  <footer class="footer">
+    Quiet Paper · 托业每日单词 · 配套墨墨「托业每日」章节 #2026-10-14
+  </footer>
+</div>
+</body>
+</html>
