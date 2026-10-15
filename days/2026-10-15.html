@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 10/15 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.10.15</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">authentic</span>
+        <span class="ipa">/ɔːˈθentɪk/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">真实的；正宗的；可靠的</div>
+        <div class="label">词根</div><div>auth-（自己/权威）+ -entic（形容词）</div>
+        <div class="label">词源</div><div>源自希腊语 authentikos「原创的、权威的」，经拉丁语进入法语与英语，强调来源真实、非伪造</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务/品质：authentic document（真实文件）；authentic product（正品）；verify as authentic（核实为真）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">authentic document（真实文件）</span><span class="chip">authentic product（正品）</span><span class="chip">prove authentic（证明真实）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Customers prefer authentic leather goods over synthetic alternatives.</en>
+          <zh>顾客更偏好正宗皮革制品，而非合成替代品。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">automation</span>
+        <span class="ipa">/ˌɔːtəˈmeɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">自动化；自动操作</div>
+        <div class="label">词根</div><div>auto-（自己）+ mat-（动）+ -ion（名词）</div>
+        <div class="label">词源</div><div>由 automate「使自动化」派生，auto- 来自希腊语「自己」，指无需人工持续操作的系统</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">职场/IT 高频：office automation（办公自动化）；process automation（流程自动化）；reduce labor through automation（通过自动化减员）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">office automation（办公自动化）</span><span class="chip">process automation（流程自动化）</span><span class="chip">introduce automation（引入自动化）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The warehouse introduced automation to speed up order fulfillment.</en>
+          <zh>仓库引入自动化以加快订单履约速度。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">autonomous</span>
+        <span class="ipa">/ɔːˈtɑːnəməs/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">自主的；自治的；独立运作的</div>
+        <div class="label">词根</div><div>auto-（自己）+ nom-（法则）+ -ous（形容词）</div>
+        <div class="label">词源</div><div>源自希腊语 autonomos「自行立法的」，指个人、团队或地区可独立决策而不受外部控制</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">组织/科技：autonomous team（自主团队）；autonomous vehicle（自动驾驶车辆）；operate autonomously（自主运作）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">autonomous team（自主团队）</span><span class="chip">autonomous vehicle（自动驾驶车辆）</span><span class="chip">operate autonomously（自主运作）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Each regional office remains largely autonomous in hiring decisions.</en>
+          <zh>各区域办事处在招聘决策上大体保持自主。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">availability</span>
+        <span class="ipa">/əˌveɪləˈbɪləti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">可用性；有空；供应情况</div>
+        <div class="label">词根</div><div>avail-（有用/可用）+ -ability（名词）</div>
+        <div class="label">词源</div><div>由 available「可得到的」派生，指人员、资源或商品处于可使用或可预约的状态</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">日程/库存高频：check availability（查询空档/库存）；subject to availability（视供应情况而定）；limited availability（供应有限）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">check availability（查询空档/库存）</span><span class="chip">subject to availability（视供应情况而定）</span><span class="chip">limited availability（供应有限）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please confirm room availability before booking the conference venue.</en>
+          <zh>预订会议场地前请先确认房间是否有空。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">avert</span>
+        <span class="ipa">/əˈvɜːrt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">避免；防止；转移（目光等）</div>
+        <div class="label">词根</div><div>a-（离开）+ vert（转）</div>
+        <div class="label">词源</div><div>源自拉丁语 avertere「转开」，a- 表「离开」，vert 表「转」，引申为「避开危机或损失」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">风险/危机：avert a crisis（避免危机）；avert disaster（避免灾难）；avert a strike（避免罢工）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">avert a crisis（避免危机）</span><span class="chip">avert disaster（避免灾难）</span><span class="chip">avert a loss（避免损失）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Quick negotiations helped avert a costly supply disruption.</en>
+          <zh>迅速谈判帮助避免了代价高昂的供应中断。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">await</span>
+        <span class="ipa">/əˈweɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">等候；期待；即将发生</div>
+        <div class="label">词根</div><div>a-（向）+ wait（等待）</div>
+        <div class="label">词源</div><div>源自古法语 awaitier「守候」，由 wait 加强语气构成，书面语中常表示「等待某结果或正式回复」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公文/邮件：await your reply（等候您的回复）；await further instructions（等候进一步指示）；await approval（等候批准）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">await a reply（等候回复）</span><span class="chip">await further instructions（等候进一步指示）</span><span class="chip">await approval（等候批准）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We await your confirmation before shipping the order.</en>
+          <zh>在发货前，我们等候您的确认。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">backing</span>
+        <span class="ipa">/ˈbækɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">支持；资助；后盾</div>
+        <div class="label">词根</div><div>back（支持）+ -ing（名词）</div>
+        <div class="label">词源</div><div>由动词 back「支持」的动名词用法固化而来，商业语境中常指资金或政治上的后盾</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">融资/项目：financial backing（资金支持）；win backing（赢得支持）；with the backing of（在……支持下）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">financial backing（资金支持）</span><span class="chip">win backing（赢得支持）</span><span class="chip">strong backing（有力后盾）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The startup secured backing from two venture capital firms.</en>
+          <zh>这家初创公司获得了两家风投公司的资金支持。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">baggage</span>
+        <span class="ipa">/ˈbæɡɪdʒ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">行李；（比喻）包袱</div>
+        <div class="label">词根</div><div>bag（袋）+ -age（集合名词）</div>
+        <div class="label">词源</div><div>源自古法语 bagage「行装」，由 bague「包」派生，美式英语常用 baggage，英式亦用 luggage</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅高频：baggage claim（行李提取处）；carry-on baggage（随身行李）；excess baggage（超重行李）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">baggage claim（行李提取处）</span><span class="chip">carry-on baggage（随身行李）</span><span class="chip">excess baggage（超重行李）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please collect your baggage at carousel number three.</en>
+          <zh>请到三号行李转盘提取行李。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">banquet</span>
+        <span class="ipa">/ˈbæŋkwɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">宴会；盛宴</div>
+        <div class="label">词根</div><div>banc-（长桌/条凳）相关</div>
+        <div class="label">词源</div><div>源自古法语 banquet「小长凳上的轻食」，后演变为正式宴会，商务场合常指颁奖或招待晚宴</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">活动/酒店：award banquet（颁奖宴会）；banquet hall（宴会厅）；host a banquet（举行宴会）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">award banquet（颁奖宴会）</span><span class="chip">banquet hall（宴会厅）</span><span class="chip">host a banquet（举行宴会）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The annual awards banquet will be held at the Grand Hotel.</en>
+          <zh>年度颁奖宴会将在大酒店举行。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">barcode</span>
+        <span class="ipa">/ˈbɑːrkoʊd/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">条形码</div>
+        <div class="label">词根</div><div>bar（条）+ code（码）</div>
+        <div class="label">词源</div><div>现代复合词：bar「条状」+ code「编码」，指由条纹组成、可机读的商品或库存标识</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">零售/仓储：scan a barcode（扫描条形码）；barcode scanner（条码扫描器）；print barcodes（打印条形码）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">scan a barcode（扫描条形码）</span><span class="chip">barcode scanner（条码扫描器）</span><span class="chip">product barcode（商品条形码）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Each package is labeled with a unique barcode for tracking.</en>
+          <zh>每个包裹都贴有唯一条形码以便追踪。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">baseline</span>
+        <span class="ipa">/ˈbeɪslaɪn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">基线；基准；起点水平</div>
+        <div class="label">词根</div><div>base（基础）+ line（线）</div>
+        <div class="label">词源</div><div>原指网球场底线，后引申为测量或比较的基准水平，项目管理与绩效评估中常用</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">项目/绩效：set a baseline（设定基线）；baseline data（基准数据）；above the baseline（高于基准）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">set a baseline（设定基线）</span><span class="chip">baseline data（基准数据）</span><span class="chip">baseline performance（基准绩效）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We will use last year's sales as a baseline for the forecast.</en>
+          <zh>我们将以去年销售额作为预测的基线。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">batch</span>
+        <span class="ipa">/bætʃ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">一批；一批次（生产/处理）</div>
+        <div class="label">词根</div><div>无明确常见词根（本义「一次烘烤量」）</div>
+        <div class="label">词源</div><div>源自古英语相关「一次烘烤的面包量」，后泛指同一工序中一起处理的一批产品或数据</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">生产/IT：batch processing（批处理）；produce in batches（分批生产）；a batch of orders（一批订单）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">batch processing（批处理）</span><span class="chip">produce in batches（分批生产）</span><span class="chip">a batch of orders（一批订单）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The factory will ship the next batch of parts on Friday.</en>
+          <zh>工厂将于周五发出下一批零件。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">beforehand</span>
+        <span class="ipa">/bɪˈfɔːrhænd/</span>
+        <span class="pos">adv.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">事先；提前</div>
+        <div class="label">词根</div><div>before（在……之前）+ hand（手头）</div>
+        <div class="label">词源</div><div>中古英语复合副词，字面「在手之前」，表示事先准备妥当，公文与日程安排中极常见</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">日程/准备：prepare beforehand（事先准备）；know beforehand（事先知道）；arrange beforehand（事先安排）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">prepare beforehand（事先准备）</span><span class="chip">know beforehand（事先知道）</span><span class="chip">book beforehand（提前预订）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please submit the expense forms beforehand so payroll can process them.</en>
+          <zh>请事先提交报销单，以便薪资部门处理。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">beverage</span>
+        <span class="ipa">/ˈbevərɪdʒ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">饮料（尤指非水类）</div>
+        <div class="label">词根</div><div>bever-（喝）+ -age（名词）</div>
+        <div class="label">词源</div><div>源自古法语 bevrage「饮品」，由 beivre「喝」派生；菜单与航司服务中常用，较 drink 更正式</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">餐饮/差旅：soft beverage（软饮料）；beverage service（饮料服务）；food and beverage（餐饮，F&B）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">soft beverage（软饮料）</span><span class="chip">beverage service（饮料服务）</span><span class="chip">food and beverage（餐饮）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Complimentary beverages will be served during the networking break.</en>
+          <zh>交流茶歇期间将提供免费饮料。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">bias</span>
+        <span class="ipa">/ˈbaɪəs/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">偏见；偏向；使有偏见</div>
+        <div class="label">词根</div><div>无常见拆分（源自古法语 biais「斜」）</div>
+        <div class="label">词源</div><div>源自古法语 biais「斜向、偏斜」，引申为判断上的偏向；HR 与调研语境中常考 unconscious bias</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/调研：unconscious bias（无意识偏见）；without bias（不带偏见）；bias toward（偏向于）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">unconscious bias（无意识偏见）</span><span class="chip">without bias（不带偏见）</span><span class="chip">reduce bias（减少偏见）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The hiring panel received training to reduce unconscious bias.</en>
+          <zh>招聘委员会接受了减少无意识偏见的培训。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">bilateral</span>
+        <span class="ipa">/ˌbaɪˈlætərəl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">双边的；双方的</div>
+        <div class="label">词根</div><div>bi-（二）+ later-（边）+ -al（形容词）</div>
+        <div class="label">词源</div><div>源自拉丁语 bi-「二」+ latus「边」，指涉及两方的协议、贸易或会谈，与 multilateral 相对</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">贸易/外交：bilateral agreement（双边协议）；bilateral trade（双边贸易）；bilateral talks（双边会谈）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">bilateral agreement（双边协议）</span><span class="chip">bilateral trade（双边贸易）</span><span class="chip">bilateral talks（双边会谈）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The two countries signed a bilateral trade agreement last month.</en>
+          <zh>两国上个月签署了双边贸易协定。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">blueprint</span>
+        <span class="ipa">/ˈbluːprɪnt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">蓝图；详细计划；设计图</div>
+        <div class="label">词根</div><div>blue（蓝）+ print（印件）</div>
+        <div class="label">词源</div><div>原指用蓝底白线晒印的工程图纸，后比喻周密的行动计划或战略方案</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">规划/战略：blueprint for success（成功蓝图）；draw up a blueprint（起草蓝图）；strategic blueprint（战略蓝图）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">blueprint for growth（增长蓝图）</span><span class="chip">draw up a blueprint（起草蓝图）</span><span class="chip">strategic blueprint（战略蓝图）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Management presented a blueprint for expanding into Asian markets.</en>
+          <zh>管理层提出了进军亚洲市场的蓝图。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">bookkeeping</span>
+        <span class="ipa">/ˈbʊkkiːpɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">簿记；记账</div>
+        <div class="label">词根</div><div>book（账簿）+ keeping（保管）</div>
+        <div class="label">词源</div><div>复合词：保管账簿的工作，指系统记录收支；会计入门与中小企业财务中常见</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务：double-entry bookkeeping（复式簿记）；bookkeeping records（记账记录）；handle bookkeeping（负责记账）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">double-entry bookkeeping（复式簿记）</span><span class="chip">bookkeeping records（记账记录）</span><span class="chip">handle bookkeeping（负责记账）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Accurate bookkeeping is essential for the annual tax audit.</en>
+          <zh>准确的簿记对年度税务审计至关重要。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">booth</span>
+        <span class="ipa">/buːθ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">展位；摊位；隔间</div>
+        <div class="label">词根</div><div>无常见拉丁词根（日耳曼语源「临时居所」）</div>
+        <div class="label">词源</div><div>源自古诺斯语相关「临时棚屋」，现多指展会展位、电话亭或投票隔间</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">展会高频：exhibition booth（展位）；reserve a booth（预订展位）；booth staff（展位工作人员）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">exhibition booth（展位）</span><span class="chip">reserve a booth（预订展位）</span><span class="chip">booth number（展位号）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Our company reserved a booth at the international trade fair.</en>
+          <zh>本公司在国际贸展上预订了一个展位。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">bottleneck</span>
+        <span class="ipa">/ˈbɑːtlnek/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">瓶颈；卡点；制约因素</div>
+        <div class="label">词根</div><div>bottle（瓶）+ neck（颈）</div>
+        <div class="label">词源</div><div>比喻瓶颈窄口处流量受限，引申为流程、交通或生产中最慢、最卡的环节</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">运营/项目：production bottleneck（生产瓶颈）；remove a bottleneck（消除瓶颈）；bottleneck in the process（流程瓶颈）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">production bottleneck（生产瓶颈）</span><span class="chip">remove a bottleneck（消除瓶颈）</span><span class="chip">create a bottleneck（造成瓶颈）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Customs clearance has become a bottleneck for overseas shipments.</en>
+          <zh>清关已成为海外发货的瓶颈。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">bounce</span>
+        <span class="ipa">/baʊns/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">弹回；（支票）遭拒付；反弹</div>
+        <div class="label">词根</div><div>无常见拆分</div>
+        <div class="label">词源</div><div>拟声/日耳曼语源，本义「猛跳」；商务中常见 bounced check「空头支票被退回」、email bounce「邮件退信」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">金融/邮件：bounced check（退票/空头支票）；bounce back（反弹；恢复）；email bounce（邮件退回）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">bounced check（退票）</span><span class="chip">bounce back（反弹；恢复）</span><span class="chip">bounce an email（邮件退回）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The payment failed because the customer's check bounced.</en>
+          <zh>由于客户支票遭拒付，这笔付款失败了。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">branch</span>
+        <span class="ipa">/bræntʃ/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">分支；分行；分公司；分岔</div>
+        <div class="label">词根</div><div>无常见拉丁词根（本义「树枝」）</div>
+        <div class="label">词源</div><div>源自古法语 branche「树枝」，比喻从主干分出的机构、部门或议题分支</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">银行/公司：branch office（分公司/分行）；open a branch（开设分行）；branch manager（分行经理）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">branch office（分公司/分行）</span><span class="chip">open a branch（开设分行）</span><span class="chip">branch manager（分行经理）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The bank plans to open a new branch near the business district.</en>
+          <zh>该银行计划在商业区附近开设一家新分行。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">breach</span>
+        <span class="ipa">/briːtʃ/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">违反；破坏；缺口</div>
+        <div class="label">词根</div><div>无常见拆分（与 break 同源相关）</div>
+        <div class="label">词源</div><div>源自古法语 breche「缺口」，与 break 相关；合同与数据安全语境中极高频</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/安全：breach of contract（违约）；data breach（数据泄露）；in breach of（违反……）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">breach of contract（违约）</span><span class="chip">data breach（数据泄露）</span><span class="chip">in breach of（违反……）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Late delivery may constitute a breach of contract.</en>
+          <zh>延迟交货可能构成违约。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">breakdown</span>
+        <span class="ipa">/ˈbreɪkdaʊn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">故障；明细；崩溃；分类</div>
+        <div class="label">词根</div><div>break（破）+ down（下）</div>
+        <div class="label">词源</div><div>复合词，可指机器故障、谈判破裂，或费用/数据的分项明细（cost breakdown）</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/运维双义：cost breakdown（费用明细）；equipment breakdown（设备故障）；breakdown of talks（谈判破裂）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">cost breakdown（费用明细）</span><span class="chip">equipment breakdown（设备故障）</span><span class="chip">provide a breakdown（提供明细）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please send a cost breakdown for each phase of the project.</en>
+          <zh>请发送项目各阶段的费用明细。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">broker</span>
+        <span class="ipa">/ˈbroʊkər/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">经纪人；中间人；促成（交易）</div>
+        <div class="label">词根</div><div>无常见拉丁词根（中古英语「酒类经销」相关）</div>
+        <div class="label">词源</div><div>源自古法语相关「小贩、中间商」，现指证券、保险、房产等中介，亦可作动词「促成协议」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">金融/地产：insurance broker（保险经纪人）；stock broker（股票经纪人）；broker a deal（促成交易）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">insurance broker（保险经纪人）</span><span class="chip">stock broker（股票经纪人）</span><span class="chip">broker a deal（促成交易）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>An insurance broker helped us compare coverage options.</en>
+          <zh>一位保险经纪人帮我们比较了保障方案。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">budgetary</span>
+        <span class="ipa">/ˈbʌdʒɪteri/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">预算的；财政预算方面的</div>
+        <div class="label">词根</div><div>budget（预算）+ -ary（形容词）</div>
+        <div class="label">词源</div><div>由 budget「预算」派生的形容词，公文中常修饰 constraints、approval、allocation 等</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务公文：budgetary constraints（预算限制）；budgetary approval（预算批准）；budgetary allocation（预算拨款）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">budgetary constraints（预算限制）</span><span class="chip">budgetary approval（预算批准）</span><span class="chip">budgetary allocation（预算拨款）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Hiring was delayed due to strict budgetary constraints.</en>
+          <zh>由于严格的预算限制，招聘被推迟了。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">bureaucracy</span>
+        <span class="ipa">/bjʊˈrɑːkrəsi/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">官僚作风；官僚机构；繁文缛节</div>
+        <div class="label">词根</div><div>bureau（办公室）+ -cracy（统治）</div>
+        <div class="label">词源</div><div>法语 bureau「办公桌/机关」+ 希腊语 -kratia「统治」，常带贬义，指繁琐手续与层级拖延</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">行政吐槽/改革：cut through bureaucracy（打破繁文缛节）；government bureaucracy（政府官僚体系）；excessive bureaucracy（过度官僚）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">cut through bureaucracy（打破繁文缛节）</span><span class="chip">excessive bureaucracy（过度官僚）</span><span class="chip">reduce bureaucracy（减少官僚作风）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Excessive bureaucracy slowed down the permit application.</en>
+          <zh>过度的官僚作风拖慢了许可证申请。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">buyer</span>
+        <span class="ipa">/ˈbaɪər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">买方；采购员；买家</div>
+        <div class="label">词根</div><div>buy（买）+ -er（人）</div>
+        <div class="label">词源</div><div>由 buy 加施事后缀构成；零售指顾客，B2B 常指专职采购（purchasing buyer）</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">采购/销售：potential buyer（潜在买家）；buyer’s market（买方市场）；meet with buyers（会见采购商）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">potential buyer（潜在买家）</span><span class="chip">buyer's market（买方市场）</span><span class="chip">corporate buyer（企业采购）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Our sales team will meet with key buyers at the trade show.</en>
+          <zh>我们的销售团队将在展会上会见主要采购商。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">bypass</span>
+        <span class="ipa">/ˈbaɪpæs/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">绕过；避开；旁路</div>
+        <div class="label">词根</div><div>by-（旁）+ pass（过）</div>
+        <div class="label">词源</div><div>复合词「从旁边经过」，可指绕开某程序、某人或某路段；商务中常指跳过中间环节</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">流程/决策：bypass a procedure（绕过程序）；bypass the usual channels（绕过常规渠道）；traffic bypass（绕行道）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">bypass a procedure（绕过程序）</span><span class="chip">bypass the usual channels（绕过常规渠道）</span><span class="chip">bypass security（绕过安检/安保）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Do not bypass the approval procedure for large purchases.</en>
+          <zh>大额采购请勿绕过审批程序。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">binder</span>
+        <span class="ipa">/ˈbaɪndər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">活页夹；装订物；（保险）暂保单</div>
+        <div class="label">词根</div><div>bind（装订）+ -er（物/人）</div>
+        <div class="label">词源</div><div>由 bind「装订」派生，办公指文件夹；保险业中 binder 亦可指正式保单出具前的暂保约定</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公/保险：three-ring binder（三孔活页夹）；policy binder（保险暂保单）；keep documents in a binder（把文件放进活页夹）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">three-ring binder（三孔活页夹）</span><span class="chip">policy binder（保险暂保单）</span><span class="chip">presentation binder（演示活页夹）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please file the signed contracts in the blue binder.</en>
+          <zh>请将已签署的合同放入蓝色活页夹。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
