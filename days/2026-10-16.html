@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 10/16 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.10.16</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">cafeteria</span>
+        <span class="ipa">/ˌkæfəˈtɪəriə/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">自助食堂；员工餐厅</div>
+        <div class="label">词根</div><div>cafe（咖啡）+ -teria（场所）</div>
+        <div class="label">词源</div><div>源自西班牙语 cafetería「咖啡馆」，经英语引申为自助式员工餐厅或公共食堂</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公/福利高频：staff cafeteria（员工食堂）；cafeteria plan（自选福利计划）；company cafeteria（公司餐厅）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">staff cafeteria（员工食堂）</span><span class="chip">cafeteria plan（自选福利计划）</span><span class="chip">eat in the cafeteria（在食堂用餐）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The new headquarters includes a spacious staff cafeteria on the second floor.</en>
+          <zh>新总部二楼设有宽敞的员工食堂。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">calendar</span>
+        <span class="ipa">/ˈkælɪndər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">日历；日程表；活动安排</div>
+        <div class="label">词根</div><div>calend-（月初账日）+ -ar（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 calendarium「账簿」，古罗马每月初结算债务，后泛指日期与日程安排</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/日程高频：check the calendar（查看日程）；calendar year（日历年）；mark on the calendar（在日历上标注）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">check the calendar（查看日程）</span><span class="chip">calendar year（日历年）</span><span class="chip">busy calendar（繁忙日程）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please check your calendar before we schedule the next board meeting.</en>
+          <zh>安排下次董事会会议前，请先查看你的日程。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">capable</span>
+        <span class="ipa">/ˈkeɪpəbl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">有能力的；能干的；能胜任的</div>
+        <div class="label">词根</div><div>cap-（拿/抓）+ -able（能…的）</div>
+        <div class="label">词源</div><div>源自拉丁语 capabilis「能容纳的」，由 capere「抓住、掌握」引申为「具备某种能力」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/评价高频：capable of（能够…）；highly capable（非常能干）；capable employee（能干的员工）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">capable of handling（能够处理）</span><span class="chip">highly capable（非常能干）</span><span class="chip">capable team（能干的团队）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>She is capable of managing multiple client accounts at once.</en>
+          <zh>她能够同时管理多个客户账户。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">career</span>
+        <span class="ipa">/kəˈrɪr/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">职业；生涯；事业</div>
+        <div class="label">词根</div><div>无</div>
+        <div class="label">词源</div><div>源自拉丁语 carraria「车道」，经法语 carrière「跑道」进入英语，引申为人生职业发展轨迹</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：career path（职业路径）；career development（职业发展）；change careers（转行）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">career path（职业路径）</span><span class="chip">career development（职业发展）</span><span class="chip">pursue a career（追求事业）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The mentoring program helps junior staff plan a clear career path.</en>
+          <zh>导师计划帮助初级员工规划清晰的职业路径。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">carrier</span>
+        <span class="ipa">/ˈkæriər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">承运人；运输公司；航空公司；载体</div>
+        <div class="label">词根</div><div>carry（运送）+ -er（者）</div>
+        <div class="label">词源</div><div>由 carry「运送」派生，指承担运输责任的人或公司，也指保险承保人或电信运营商</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">物流/差旅高频：shipping carrier（货运承运商）；air carrier（航空公司）；common carrier（公共承运人）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">shipping carrier（货运承运商）</span><span class="chip">air carrier（航空公司）</span><span class="chip">choose a carrier（选择承运商）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We switched to a more reliable shipping carrier to reduce delays.</en>
+          <zh>我们改用更可靠的货运承运商以减少延误。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">carton</span>
+        <span class="ipa">/ˈkɑːrtn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">纸箱；纸板盒</div>
+        <div class="label">词根</div><div>无</div>
+        <div class="label">词源</div><div>源自意大利语 cartone「厚纸板」，经法语进入英语，专指用硬纸板制成的包装箱</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">仓储/物流高频：shipping carton（运输纸箱）；cardboard carton（硬纸板箱）；pack in cartons（装入纸箱）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">shipping carton（运输纸箱）</span><span class="chip">pack in cartons（装入纸箱）</span><span class="chip">open a carton（打开纸箱）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Each carton must be labeled with the destination warehouse code.</en>
+          <zh>每个纸箱都必须标注目的仓库代码。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">cash</span>
+        <span class="ipa">/kæʃ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">现金；现款</div>
+        <div class="label">词根</div><div>无</div>
+        <div class="label">词源</div><div>可能源自中古法语 casse「钱箱」，经商业用语进入英语，指可立即使用的货币</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：cash flow（现金流）；pay in cash（现金支付）；cash reserve（现金储备）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">cash flow（现金流）</span><span class="chip">pay in cash（现金支付）</span><span class="chip">cash reserve（现金储备）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Positive cash flow is essential for covering short-term operating costs.</en>
+          <zh>正现金流对覆盖短期运营成本至关重要。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">category</span>
+        <span class="ipa">/ˈkætəɡɔːri/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">类别；分类；范畴</div>
+        <div class="label">词根</div><div>categ-（陈述/归类）+ -ory（名词）</div>
+        <div class="label">词源</div><div>源自希腊语 kategoria「指控、陈述」，亚里士多德用以划分事物，后泛指分类体系中的一类</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销/库存高频：product category（产品类别）；fall into a category（属于某类）；category manager（品类经理）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">product category（产品类别）</span><span class="chip">fall into a category（属于某类）</span><span class="chip">new category（新类别）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>This item belongs in the electronics product category.</en>
+          <zh>该商品属于电子产品类别。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">ceiling</span>
+        <span class="ipa">/ˈsiːlɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">天花板；上限；最高限度</div>
+        <div class="label">词根</div><div>ceil（覆盖顶部）+ -ing（名词）</div>
+        <div class="label">词源</div><div>由 ceil「给…装天花板」派生；商务中常引申为价格、预算或人数的上限</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/政策高频：price ceiling（价格上限）；debt ceiling（债务上限）；raise the ceiling（提高上限）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">price ceiling（价格上限）</span><span class="chip">debt ceiling（债务上限）</span><span class="chip">hit the ceiling（达到上限）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Regulators imposed a price ceiling on essential medicines.</en>
+          <zh>监管机构对基本药品设定了价格上限。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">celebrate</span>
+        <span class="ipa">/ˈselɪbreɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">庆祝；庆贺；颂扬</div>
+        <div class="label">词根</div><div>celebr-（众人聚集）+ -ate（动词）</div>
+        <div class="label">词源</div><div>源自拉丁语 celebrare「频繁举行、公开庆祝」，指以仪式或聚会纪念重要事件</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公司活动高频：celebrate a milestone（庆祝里程碑）；celebrate success（庆祝成功）；celebrate an anniversary（庆祝周年）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">celebrate a milestone（庆祝里程碑）</span><span class="chip">celebrate success（庆祝成功）</span><span class="chip">celebrate an anniversary（庆祝周年）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The team gathered to celebrate a record quarter in sales.</en>
+          <zh>团队聚在一起庆祝创纪录的销售季度。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">ceremony</span>
+        <span class="ipa">/ˈserəmoʊni/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">典礼；仪式；礼节</div>
+        <div class="label">词根</div><div>无</div>
+        <div class="label">词源</div><div>源自拉丁语 caerimonia「宗教仪式、庄重礼仪」，经法语进入英语，指正式公开的庆祝或就任活动</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">企业活动高频：opening ceremony（开幕式）；award ceremony（颁奖典礼）；signing ceremony（签约仪式）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">opening ceremony（开幕式）</span><span class="chip">award ceremony（颁奖典礼）</span><span class="chip">signing ceremony（签约仪式）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The CEO will speak at the opening ceremony of the new plant.</en>
+          <zh>首席执行官将在新工厂开幕式上致辞。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">chain</span>
+        <span class="ipa">/tʃeɪn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">链条；连锁店；一连串</div>
+        <div class="label">词根</div><div>无</div>
+        <div class="label">词源</div><div>源自拉丁语 catena「链条」，商务中常指连锁企业或供应链中的环节</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务高频：supply chain（供应链）；hotel chain（连锁酒店）；chain of command（指挥链）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">supply chain（供应链）</span><span class="chip">hotel chain（连锁酒店）</span><span class="chip">retail chain（零售连锁）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>A disruption in the supply chain delayed several product launches.</en>
+          <zh>供应链中断推迟了多个产品发布。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">channel</span>
+        <span class="ipa">/ˈtʃænl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">渠道；通道；频道</div>
+        <div class="label">词根</div><div>无</div>
+        <div class="label">词源</div><div>源自拉丁语 canalis「管道、沟渠」，引申为信息、销售或分销的通路</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销高频：distribution channel（分销渠道）；sales channel（销售渠道）；marketing channel（营销渠道）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">distribution channel（分销渠道）</span><span class="chip">sales channel（销售渠道）</span><span class="chip">open a channel（开辟渠道）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Online sales have become our strongest distribution channel.</en>
+          <zh>线上销售已成为我们最强的分销渠道。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">chapter</span>
+        <span class="ipa">/ˈtʃæptər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">章节；分会；阶段</div>
+        <div class="label">词根</div><div>无</div>
+        <div class="label">词源</div><div>源自拉丁语 capitulum「小头、章节」，也可指协会地方分会或人生/事业的一个阶段</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">组织/叙事：local chapter（地方分会）；open a new chapter（开启新篇章）；chapter of the report（报告章节）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">local chapter（地方分会）</span><span class="chip">new chapter（新篇章）</span><span class="chip">final chapter（最后一章）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The merger marked a new chapter in the company's history.</en>
+          <zh>此次合并标志着公司历史上的新篇章。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">chart</span>
+        <span class="ipa">/tʃɑːrt/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">图表；海图；绘制；规划</div>
+        <div class="label">词根</div><div>无</div>
+        <div class="label">词源</div><div>源自拉丁语 charta「纸、地图」，既可作名词指图表，也可作动词表示绘制或规划路线</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/报告高频：bar chart（柱状图）；organization chart（组织架构图）；chart a course（规划路线）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">bar chart（柱状图）</span><span class="chip">organization chart（组织架构图）</span><span class="chip">sales chart（销售图表）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The presentation included a bar chart comparing quarterly revenue.</en>
+          <zh>演示文稿中包含一张比较季度营收的柱状图。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">checklist</span>
+        <span class="ipa">/ˈtʃeklɪst/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">核对清单；检查表</div>
+        <div class="label">词根</div><div>check（核对）+ list（清单）</div>
+        <div class="label">词源</div><div>由 check 与 list 合成，指逐项核对用的清单，常见于流程控制和质量检查</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公/流程高频：follow a checklist（按清单执行）；safety checklist（安全检查表）；create a checklist（制作清单）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">follow a checklist（按清单执行）</span><span class="chip">safety checklist（安全检查表）</span><span class="chip">pre-departure checklist（出发前清单）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Use this checklist to confirm every document is ready for the audit.</en>
+          <zh>请用这份清单确认审计所需文件均已备齐。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">checkout</span>
+        <span class="ipa">/ˈtʃekaʊt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">结账；退房；检出</div>
+        <div class="label">词根</div><div>check（核对）+ out（出去）</div>
+        <div class="label">词源</div><div>由短语 check out 名词化，可指酒店退房、商店结账台，或图书馆/系统中的取出</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅/零售高频：hotel checkout（酒店退房）；checkout time（退房时间）；express checkout（快速结账/退房）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">hotel checkout（酒店退房）</span><span class="chip">checkout time（退房时间）</span><span class="chip">express checkout（快速结账）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Guests must complete hotel checkout by noon to avoid an extra charge.</en>
+          <zh>住客须在中午前完成退房，以免产生额外费用。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">circumstance</span>
+        <span class="ipa">/ˈsɜːrkəmstæns/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">情况；环境；境况（常复数）</div>
+        <div class="label">词根</div><div>circum-（周围）+ stance（站立/状态）</div>
+        <div class="label">词源</div><div>源自拉丁语 circumstantia「周围存在的事物」，指围绕某一事件的条件或客观情况</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/商务高频：under the circumstances（在此情况下）；unforeseen circumstances（不可预见的情况）；financial circumstances（财务状况）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">under the circumstances（在此情况下）</span><span class="chip">unforeseen circumstances（不可预见的情况）</span><span class="chip">in certain circumstances（在某些情况下）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The contract may be revised under exceptional circumstances.</en>
+          <zh>在特殊情况下，合同可以修订。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">cite</span>
+        <span class="ipa">/saɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">引用；列举；传唤</div>
+        <div class="label">词根</div><div>cit-（召唤/唤起）</div>
+        <div class="label">词源</div><div>源自拉丁语 citare「召唤、催促」，商务与学术中常指引用资料或列举理由</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">报告/会议高频：cite a source（引用出处）；cite as an example（举例说明）；cite reasons（列举理由）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">cite a source（引用出处）</span><span class="chip">cite as an example（举例说明）</span><span class="chip">cite reasons（列举理由）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The analyst cited rising demand as the main reason for the forecast upgrade.</en>
+          <zh>分析师将需求上升列为上调预测的主要理由。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">classification</span>
+        <span class="ipa">/ˌklæsɪfɪˈkeɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">分类；归类；级别</div>
+        <div class="label">词根</div><div>class（类别）+ -ific（使成为）+ -ation（名词）</div>
+        <div class="label">词源</div><div>由 classify「分类」派生，指按标准把事物归入不同组别或等级的过程与结果</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公/海关高频：job classification（职位分类）；security classification（密级）；product classification（产品分类）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">job classification（职位分类）</span><span class="chip">security classification（密级）</span><span class="chip">product classification（产品分类）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>HR updated the job classification system to reflect new roles.</en>
+          <zh>人力资源部门更新了职位分类体系以反映新岗位。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">clerk</span>
+        <span class="ipa">/klɜːrk/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">职员；文书；店员</div>
+        <div class="label">词根</div><div>无</div>
+        <div class="label">词源</div><div>源自拉丁语 clericus「教士、识字者」，中世纪识字者多从事文书，后泛指办公室或柜台职员</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公高频：office clerk（办公室文员）；bank clerk（银行职员）；sales clerk（售货员）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">office clerk（办公室文员）</span><span class="chip">bank clerk（银行职员）</span><span class="chip">file clerk（档案员）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The office clerk filed the invoices in chronological order.</en>
+          <zh>办公室文员按时间顺序归档了发票。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">climate</span>
+        <span class="ipa">/ˈklaɪmət/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">气候；氛围；环境</div>
+        <div class="label">词根</div><div>clim-（倾斜/地带）+ -ate（名词）</div>
+        <div class="label">词源</div><div>源自希腊语 klima「倾斜、纬度地带」，既指自然气候，也比喻商业或职场氛围</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务比喻高频：business climate（商业环境）；economic climate（经济气候）；workplace climate（职场氛围）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">business climate（商业环境）</span><span class="chip">economic climate（经济气候）</span><span class="chip">create a climate（营造氛围）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Investors are watching the business climate before expanding overseas.</en>
+          <zh>投资者在海外扩张前正关注当地商业环境。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">closure</span>
+        <span class="ipa">/ˈkloʊʒər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">关闭；停业；结束；了结</div>
+        <div class="label">词根</div><div>clos-（关闭）+ -ure（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 clausura「关闭」，可指工厂/店铺停业，也可指谈判或案件的了结</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务/工厂高频：plant closure（工厂关闭）；store closure（门店停业）；seek closure（寻求了结）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">plant closure（工厂关闭）</span><span class="chip">store closure（门店停业）</span><span class="chip">temporary closure（临时关闭）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company announced the temporary closure of two underperforming stores.</en>
+          <zh>公司宣布暂时关闭两家业绩不佳的门店。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">coach</span>
+        <span class="ipa">/koʊtʃ/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">教练；辅导；长途客车；指导</div>
+        <div class="label">词根</div><div>无</div>
+        <div class="label">词源</div><div>原指四轮马车，后引申为辅导者；作动词指一对一指导员工提升表现</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：career coach（职业教练）；coach employees（辅导员工）；executive coach（高管教练）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">career coach（职业教练）</span><span class="chip">coach employees（辅导员工）</span><span class="chip">executive coach（高管教练）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Managers are trained to coach employees through performance reviews.</en>
+          <zh>管理人员接受培训，以便在绩效面谈中辅导员工。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">code</span>
+        <span class="ipa">/koʊd/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">代码；法规；准则；编码</div>
+        <div class="label">词根</div><div>无</div>
+        <div class="label">词源</div><div>源自拉丁语 codex「木板书、法典」，既指成文规则，也指计算机代码或加密符号</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">职场高频：dress code（着装规范）；code of conduct（行为准则）；building code（建筑法规）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">dress code（着装规范）</span><span class="chip">code of conduct（行为准则）</span><span class="chip">access code（通行密码）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>All visitors must follow the building's security code of conduct.</en>
+          <zh>所有访客必须遵守大楼的安保行为准则。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">colleague</span>
+        <span class="ipa">/ˈkɑːliːɡ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">同事；同僚</div>
+        <div class="label">词根</div><div>col-（一起）+ league（联盟）</div>
+        <div class="label">词源</div><div>源自拉丁语 collega「共同被选任者」，指在同一组织中共事的人</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公高频：close colleague（亲密同事）；former colleague（前同事）；consult a colleague（咨询同事）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">close colleague（亲密同事）</span><span class="chip">former colleague（前同事）</span><span class="chip">work with colleagues（与同事合作）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please copy your colleagues on the email so everyone stays informed.</en>
+          <zh>请把同事抄送到邮件中，以便大家及时知情。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">collect</span>
+        <span class="ipa">/kəˈlekt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">收集；收取；领取</div>
+        <div class="label">词根</div><div>col-（一起）+ lect（挑选/采集）</div>
+        <div class="label">词源</div><div>源自拉丁语 colligere「收集到一起」，商务中常指催收账款或收集数据与文件</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/办公高频：collect payment（收款）；collect data（收集数据）；collect documents（收集文件）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">collect payment（收款）</span><span class="chip">collect data（收集数据）</span><span class="chip">collect documents（收集文件）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The accounting team will collect payment within thirty days of invoicing.</en>
+          <zh>会计团队将在开票后三十天内收款。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">compel</span>
+        <span class="ipa">/kəmˈpel/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">强迫；迫使；使不得不</div>
+        <div class="label">词根</div><div>com-（完全）+ pel（推）</div>
+        <div class="label">词源</div><div>源自拉丁语 compellere「驱赶、迫使」，指通过压力、法律或形势使人不得不行动</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/法规高频：compel someone to（迫使某人…）；compel compliance（强制合规）；feel compelled to（感到不得不）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">compel someone to act（迫使某人行动）</span><span class="chip">compel compliance（强制合规）</span><span class="chip">feel compelled to（感到不得不）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Safety regulations compel all workers to wear protective equipment.</en>
+          <zh>安全法规迫使所有工人佩戴防护装备。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">competent</span>
+        <span class="ipa">/ˈkɑːmpɪtənt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">胜任的；有能力的；合格的</div>
+        <div class="label">词根</div><div>com-（一起）+ pet-（追求）+ -ent（形容词）</div>
+        <div class="label">词源</div><div>源自拉丁语 competere「共同追求、相称」，引申为具备完成某项工作所需的能力与资格</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：competent staff（胜任的员工）；highly competent（非常胜任）；competent authority（主管当局）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">competent staff（胜任的员工）</span><span class="chip">highly competent（非常胜任）</span><span class="chip">competent authority（主管当局）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We need competent staff who can handle complex client inquiries.</en>
+          <zh>我们需要能处理复杂客户问询的胜任员工。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">compile</span>
+        <span class="ipa">/kəmˈpaɪl/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">汇编；编纂；编译</div>
+        <div class="label">词根</div><div>com-（一起）+ pile（堆积）</div>
+        <div class="label">词源</div><div>源自拉丁语 compilare「收集、堆叠」，指把资料汇成报告或清单；IT 中也指编译程序</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公/报告高频：compile a report（汇编报告）；compile data（汇总数据）；compile a list（编制清单）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">compile a report（汇编报告）</span><span class="chip">compile data（汇总数据）</span><span class="chip">compile a list（编制清单）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please compile a list of vendors who met the quality standards.</en>
+          <zh>请编制一份符合质量标准的供应商清单。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
