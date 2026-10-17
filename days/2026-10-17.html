@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 10/17 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.10.17</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">component</span>
+        <span class="ipa">/kəmˈpoʊnənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">组成部分；元件；成分</div>
+        <div class="label">词根</div><div>com-（一起）+ pon-（放置）+ -ent（物）</div>
+        <div class="label">词源</div><div>源自拉丁语 componere「放在一起」，指构成整体的各个部分或零件</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">产品/IT 高频：key component（关键组件）；component parts（组成部件）；software component（软件组件）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">key component（关键组件）</span><span class="chip">component parts（组成部件）</span><span class="chip">replace a component（更换元件）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Training is a key component of our onboarding program.</en>
+          <zh>培训是我们入职计划的关键组成部分。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">concrete</span>
+        <span class="ipa">/ˈkɑːnkriːt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">具体的；实在的；混凝土的</div>
+        <div class="label">词根</div><div>con-（一起）+ cret-（生长/凝固）</div>
+        <div class="label">词源</div><div>源自拉丁语 concretus「凝结成一体的」，引申为具体、可触摸或明确的</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/计划高频：concrete plan（具体计划）；concrete evidence（具体证据）；concrete proposal（具体提案）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">concrete plan（具体计划）</span><span class="chip">concrete evidence（具体证据）</span><span class="chip">concrete example（具体例子）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please submit a concrete proposal with timelines and costs.</en>
+          <zh>请提交一份附有时间表和成本的具体提案。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">concurrent</span>
+        <span class="ipa">/kənˈkɜːrənt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">同时发生的；并发的；并存的</div>
+        <div class="label">词根</div><div>con-（一起）+ curr-（跑）+ -ent（的）</div>
+        <div class="label">词源</div><div>源自拉丁语 concurrere「一起奔跑」，指多件事同时进行或发生</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">项目/IT 高频：concurrent projects（并行项目）；concurrent sessions（并行场次）；run concurrently（同时运行）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">concurrent projects（并行项目）</span><span class="chip">run concurrently（同时运行）</span><span class="chip">concurrent sessions（并行场次）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The two workshops will run concurrently in adjacent rooms.</en>
+          <zh>两场工作坊将在相邻会议室同时进行。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">condition</span>
+        <span class="ipa">/kənˈdɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">条件；状况；条款</div>
+        <div class="label">词根</div><div>con-（一起）+ dit-（说/给）+ -ion（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 condicio「约定、条件」，指协议条款或事物所处状态</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同高频：under the condition that（在…条件下）；terms and conditions（条款与条件）；in good condition（状况良好）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">terms and conditions（条款与条件）</span><span class="chip">under the condition that（在…条件下）</span><span class="chip">in good condition（状况良好）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Shipment will proceed under the condition that payment clears first.</en>
+          <zh>在款项先结清的条件下，货物才会发运。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">conflict</span>
+        <span class="ipa">/ˈkɑːnflɪkt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">冲突；矛盾；争执</div>
+        <div class="label">词根</div><div>con-（一起）+ flict-（打击）</div>
+        <div class="label">词源</div><div>源自拉丁语 confligere「相互撞击」，引申为意见、利益或日程上的冲突</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/HR 高频：schedule conflict（日程冲突）；conflict of interest（利益冲突）；resolve a conflict（解决冲突）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">schedule conflict（日程冲突）</span><span class="chip">conflict of interest（利益冲突）</span><span class="chip">resolve a conflict（解决冲突）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please check for a schedule conflict before booking the conference room.</en>
+          <zh>预订会议室前请先确认有无日程冲突。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">consequence</span>
+        <span class="ipa">/ˈkɑːnsɪkwəns/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">结果；后果；重要性</div>
+        <div class="label">词根</div><div>con-（随之）+ sequ-（跟随）+ -ence（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 consequentia「随之而来的事物」，指某行为带来的结果或影响</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合规/管理高频：as a consequence（因此）；face the consequences（承担后果）；serious consequences（严重后果）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">as a consequence（因此）</span><span class="chip">face the consequences（承担后果）</span><span class="chip">serious consequences（严重后果）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Missing the deadline may have serious consequences for the contract.</en>
+          <zh>错过截止日期可能给合同带来严重后果。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">consistent</span>
+        <span class="ipa">/kənˈsɪstənt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">一致的；连贯的；始终如一的</div>
+        <div class="label">词根</div><div>con-（一起）+ sist-（站立）+ -ent（的）</div>
+        <div class="label">词源</div><div>源自拉丁语 consistere「站在一起、保持稳定」，引申为前后一致、始终如一</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">评价/品牌高频：consistent with（与…一致）；remain consistent（保持一致）；consistent quality（稳定质量）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">consistent with policy（符合政策）</span><span class="chip">remain consistent（保持一致）</span><span class="chip">consistent quality（稳定质量）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Our messaging must remain consistent across all marketing channels.</en>
+          <zh>我们的文案必须在所有营销渠道上保持一致。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">construct</span>
+        <span class="ipa">/kənˈstrʌkt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">建造；构建；构思</div>
+        <div class="label">词根</div><div>con-（一起）+ struct-（建造）</div>
+        <div class="label">词源</div><div>源自拉丁语 construere「堆叠建造」，指建造实体或构建方案、论点</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">工程/计划高频：construct a building（建造大楼）；construct a plan（制定计划）；under construction（在建中）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">construct a plan（制定计划）</span><span class="chip">construct a building（建造大楼）</span><span class="chip">under construction（在建中）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The team will construct a detailed rollout plan before launch.</en>
+          <zh>团队将在上线前制定详细的推介计划。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">convention</span>
+        <span class="ipa">/kənˈvenʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">惯例；公约；大型会议</div>
+        <div class="label">词根</div><div>con-（一起）+ ven-（来）+ -tion（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 conventio「聚会、约定」，既指行业大会，也指通行惯例或国际公约</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅/会议高频：attend a convention（参加大会）；by convention（按惯例）；industry convention（行业大会）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">attend a convention（参加大会）</span><span class="chip">industry convention（行业大会）</span><span class="chip">by convention（按惯例）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Our sales team will attend the annual industry convention in Chicago.</en>
+          <zh>我们的销售团队将参加在芝加哥举行的年度行业大会。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">counterpart</span>
+        <span class="ipa">/ˈkaʊntərpɑːrt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">对应的人；对等职位；对应物</div>
+        <div class="label">词根</div><div>counter-（相对）+ part（部分）</div>
+        <div class="label">词源</div><div>由 counter「相对」与 part「部分」组成，指在另一组织中担任对等职责的人或对应事物</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务往来高频：overseas counterpart（海外对口人）；meet with counterparts（会见对口人员）；my counterpart（我的对口同事）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">overseas counterpart（海外对口人）</span><span class="chip">meet with counterparts（会见对口人员）</span><span class="chip">negotiate with counterparts（与对口方谈判）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please coordinate the schedule with your counterpart in the Tokyo office.</en>
+          <zh>请与东京办公室的对口同事协调日程。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">compliance</span>
+        <span class="ipa">/kəmˈplaɪəns/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">合规；遵守；顺从</div>
+        <div class="label">词根</div><div>com-（完全）+ pli-（折叠/服从）+ -ance（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 complere 相关词根，经法语进入英语，指遵守法规、政策或要求</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">IT/合规高频：in compliance with（符合…）；compliance officer（合规官）；ensure compliance（确保合规）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">in compliance with（符合…）</span><span class="chip">ensure compliance（确保合规）</span><span class="chip">compliance officer（合规官）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>All vendors must operate in compliance with local labor laws.</en>
+          <zh>所有供应商必须遵守当地劳动法。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">constraint</span>
+        <span class="ipa">/kənˈstreɪnt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">限制；约束；制约因素</div>
+        <div class="label">词根</div><div>con-（一起）+ strain-（拉紧）+ -t（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 constringere「捆紧、限制」，指时间、预算或资源上的约束</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">项目/财务高频：budget constraint（预算限制）；time constraint（时间限制）；under constraints（在约束下）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">budget constraint（预算限制）</span><span class="chip">time constraint（时间限制）</span><span class="chip">work under constraints（在约束下工作）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We redesigned the campaign under tight budget constraints.</en>
+          <zh>我们在严格的预算限制下重新设计了营销活动。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">contractor</span>
+        <span class="ipa">/ˈkɑːntræktər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">承包商；承包人；合同工</div>
+        <div class="label">词根</div><div>contract（合同）+ -or（人）</div>
+        <div class="label">词源</div><div>由 contract「订立合同」派生，指按合同承揽工程或提供服务的个人或公司</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">采购/工程高频：general contractor（总承包商）；hire a contractor（雇用承包商）；independent contractor（独立承包人）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">general contractor（总承包商）</span><span class="chip">hire a contractor（雇用承包商）</span><span class="chip">independent contractor（独立承包人）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The general contractor will submit progress reports every Friday.</en>
+          <zh>总承包商将于每周五提交进度报告。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">controversy</span>
+        <span class="ipa">/ˈkɑːntrəvɜːrsi/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">争议；争论；论战</div>
+        <div class="label">词根</div><div>contro-（反对）+ vers-（转）+ -y（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 controversia「对立争论」，指公开或持久的意见分歧</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公关/媒体高频：spark controversy（引发争议）；amid controversy（在争议中）；avoid controversy（避免争议）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">spark controversy（引发争议）</span><span class="chip">amid controversy（在争议中）</span><span class="chip">avoid controversy（避免争议）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The advertising slogan sparked controversy among local customers.</en>
+          <zh>这句广告语在当地客户中引发了争议。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">cooperation</span>
+        <span class="ipa">/koʊˌɑːpəˈreɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">合作；协作；配合</div>
+        <div class="label">词根</div><div>co-（共同）+ oper-（工作）+ -ation（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 cooperari「共同工作」，指多方协作以实现共同目标</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务/跨部门高频：in cooperation with（与…合作）；close cooperation（密切合作）；seek cooperation（寻求合作）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">in cooperation with（与…合作）</span><span class="chip">close cooperation（密切合作）</span><span class="chip">seek cooperation（寻求合作）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The launch was completed in cooperation with our regional partners.</en>
+          <zh>本次发布是在与区域合作伙伴的协作下完成的。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">creativity</span>
+        <span class="ipa">/ˌkriːeɪˈtɪvəti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">创造力；创意；独创性</div>
+        <div class="label">词根</div><div>creat-（创造）+ -ivity（性质）</div>
+        <div class="label">词源</div><div>由 create「创造」派生，指产生新想法或解决方案的能力</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销/HR 高频：foster creativity（培养创造力）；show creativity（展现创意）；creativity in design（设计创意）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">foster creativity（培养创造力）</span><span class="chip">show creativity（展现创意）</span><span class="chip">encourage creativity（鼓励创意）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The workshop aims to foster creativity among junior designers.</en>
+          <zh>该工作坊旨在培养初级设计师的创造力。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">creditor</span>
+        <span class="ipa">/ˈkredɪtər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">债权人；贷方</div>
+        <div class="label">词根</div><div>credit（信贷/信任）+ -or（人）</div>
+        <div class="label">词源</div><div>源自拉丁语 creditor「相信并借出的人」，指有权收回欠款的个人或机构</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：pay creditors（偿还债权人）；creditor meeting（债权人会议）；secured creditor（有担保债权人）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">pay creditors（偿还债权人）</span><span class="chip">creditor meeting（债权人会议）</span><span class="chip">notify creditors（通知债权人）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company agreed to pay its major creditors within 30 days.</en>
+          <zh>公司同意在 30 天内偿还主要债权人。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">curriculum</span>
+        <span class="ipa">/kəˈrɪkjələm/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">课程；课程体系；教学大纲</div>
+        <div class="label">词根</div><div>curr-（跑/跑程）+ -iculum（小径）</div>
+        <div class="label">词源</div><div>源自拉丁语 curriculum「跑道、行程」，引申为学校或培训项目的课程安排</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">培训/HR 高频：training curriculum（培训课程）；revise the curriculum（修订课程）；core curriculum（核心课程）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">training curriculum（培训课程）</span><span class="chip">revise the curriculum（修订课程）</span><span class="chip">core curriculum（核心课程）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>HR is revising the training curriculum for new managers.</en>
+          <zh>人力资源部正在修订新任经理的培训课程。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">cybersecurity</span>
+        <span class="ipa">/ˌsaɪbərˈsɪkjʊrəti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">网络安全；信息安全防护</div>
+        <div class="label">词根</div><div>cyber-（网络）+ security（安全）</div>
+        <div class="label">词源</div><div>由 cyber「网络空间」与 security「安全」合成，指保护系统与数据免受网络威胁</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">IT/合规高频：cybersecurity policy（网络安全政策）；strengthen cybersecurity（加强网络安全）；cybersecurity breach（网络安全漏洞）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">cybersecurity policy（网络安全政策）</span><span class="chip">strengthen cybersecurity（加强网络安全）</span><span class="chip">cybersecurity training（网络安全培训）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>All employees must complete cybersecurity training this quarter.</en>
+          <zh>所有员工本季度必须完成网络安全培训。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">debit</span>
+        <span class="ipa">/ˈdebɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">借方；借记；扣款</div>
+        <div class="label">词根</div><div>deb-（欠）+ -it（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 debitum「所欠之物」，会计中指借方分录或账户扣款</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：debit card（借记卡）；debit an account（借记账户）；direct debit（直接扣款）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">debit card（借记卡）</span><span class="chip">debit an account（借记账户）</span><span class="chip">direct debit（直接扣款）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The fee will appear as a debit on your corporate account.</en>
+          <zh>该费用将作为一笔扣款显示在您的公司账户上。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">default</span>
+        <span class="ipa">/dɪˈfɔːlt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">违约；拖欠；默认值</div>
+        <div class="label">词根</div><div>de-（离开）+ fault（过错）</div>
+        <div class="label">词源</div><div>源自法语 défaut「缺陷、未履行」，既指未能履约或还款，也指系统默认设置</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/合同高频：in default（违约/拖欠）；loan default（贷款违约）；by default（默认情况下）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">in default（违约/拖欠）</span><span class="chip">loan default（贷款违约）</span><span class="chip">by default（默认情况下）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The borrower was declared in default after missing three payments.</en>
+          <zh>借款人连续三期未付款后被宣布违约。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">deferral</span>
+        <span class="ipa">/dɪˈfɜːrəl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">延期；推迟；递延</div>
+        <div class="label">词根</div><div>defer（推迟）+ -al（名词）</div>
+        <div class="label">词源</div><div>由 defer「推迟」派生，指付款、决定或义务被延后的行为或期间</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/行政高频：tax deferral（税收递延）；payment deferral（付款延期）；request a deferral（申请延期）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">payment deferral（付款延期）</span><span class="chip">request a deferral（申请延期）</span><span class="chip">tax deferral（税收递延）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The client requested a payment deferral until the next quarter.</en>
+          <zh>客户申请将付款延期至下一季度。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">deficiency</span>
+        <span class="ipa">/dɪˈfɪʃnsi/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">不足；缺陷；亏空</div>
+        <div class="label">词根</div><div>de-（向下）+ fic-（做）+ -iency（状态）</div>
+        <div class="label">词源</div><div>源自拉丁语 deficientia「缺乏」，指数量、质量或能力上的不足</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">审计/质量高频：budget deficiency（预算不足）；correct a deficiency（纠正缺陷）；deficiency report（缺陷报告）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">correct a deficiency（纠正缺陷）</span><span class="chip">budget deficiency（预算不足）</span><span class="chip">identify a deficiency（找出不足）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The audit identified a deficiency in inventory controls.</en>
+          <zh>审计发现库存管控存在缺陷。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">definitive</span>
+        <span class="ipa">/dɪˈfɪnətɪv/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">最终的；决定性的；权威的</div>
+        <div class="label">词根</div><div>de-（完全）+ finit-（界限）+ -ive（的）</div>
+        <div class="label">词源</div><div>源自拉丁语 definitivus「界定清楚的」，指最终确定或具有权威性的</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/决策高频：definitive answer（明确答复）；definitive agreement（最终协议）；definitive decision（最终决定）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">definitive answer（明确答复）</span><span class="chip">definitive agreement（最终协议）</span><span class="chip">definitive decision（最终决定）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We need a definitive answer from legal before signing the deal.</en>
+          <zh>签约前我们需要法务给出明确答复。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">delegation</span>
+        <span class="ipa">/ˌdelɪˈɡeɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">代表团；授权；委派</div>
+        <div class="label">词根</div><div>de-（离开）+ leg-（派遣）+ -ation（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 delegare「派遣、授权」，既指代表团，也指把职责委派给他人</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/管理高频：trade delegation（贸易代表团）；delegation of authority（权力下放）；lead a delegation（率领代表团）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">trade delegation（贸易代表团）</span><span class="chip">delegation of authority（权力下放）</span><span class="chip">lead a delegation（率领代表团）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>A trade delegation from Singapore will visit our factory next week.</en>
+          <zh>新加坡贸易代表团将于下周参观我们的工厂。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">demotion</span>
+        <span class="ipa">/ˌdiːˈmoʊʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">降职；降级</div>
+        <div class="label">词根</div><div>de-（向下）+ mot-（移动）+ -ion（名词）</div>
+        <div class="label">词源</div><div>由 demote「降职」派生，与 promotion 相对，指职位或职级下调</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：face demotion（面临降职）；voluntary demotion（自愿降职）；demotion notice（降职通知）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">face demotion（面临降职）</span><span class="chip">voluntary demotion（自愿降职）</span><span class="chip">risk of demotion（降职风险）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Repeated policy violations may lead to demotion or dismissal.</en>
+          <zh>屡次违反政策可能导致降职或解雇。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">deployment</span>
+        <span class="ipa">/dɪˈplɔɪmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">部署；调配；投放</div>
+        <div class="label">词根</div><div>de-（展开）+ ploy（折叠）+ -ment（名词）</div>
+        <div class="label">词源</div><div>源自法语 déployer「展开」，指人员、资源或软件系统的部署与投放</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">IT/项目高频：software deployment（软件部署）；staff deployment（人员调配）；deployment schedule（部署时间表）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">software deployment（软件部署）</span><span class="chip">staff deployment（人员调配）</span><span class="chip">deployment schedule（部署时间表）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The software deployment is scheduled for this weekend.</en>
+          <zh>软件部署定于本周末进行。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">deregulation</span>
+        <span class="ipa">/ˌdiːˌreɡjuˈleɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">放松管制；解除规制</div>
+        <div class="label">词根</div><div>de-（去除）+ regulation（规制）</div>
+        <div class="label">词源</div><div>由 de-「去除」与 regulation「管制」组成，指减少或取消政府对企业的限制</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">政策/行业高频：market deregulation（市场放松管制）；industry deregulation（行业解制）；benefit from deregulation（受益于放松管制）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">market deregulation（市场放松管制）</span><span class="chip">industry deregulation（行业解制）</span><span class="chip">benefit from deregulation（受益于放松管制）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Airline deregulation increased competition and lowered ticket prices.</en>
+          <zh>航空业放松管制加剧了竞争并降低了票价。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">designation</span>
+        <span class="ipa">/ˌdezɪɡˈneɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">指定；称谓；头衔；任命</div>
+        <div class="label">词根</div><div>de-（指出）+ sign-（标记）+ -ation（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 designare「标出、指定」，指正式命名、指派或职务称谓</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/行政高频：job designation（职务名称）；official designation（正式指定）；receive a designation（获得任命/称号）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">job designation（职务名称）</span><span class="chip">official designation（正式指定）</span><span class="chip">receive a designation（获得任命）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please update your job designation on the internal directory.</en>
+          <zh>请在内部通讯录中更新你的职务名称。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">deterrent</span>
+        <span class="ipa">/dɪˈtɜːrənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">威慑因素；抑制物；阻止手段</div>
+        <div class="label">词根</div><div>de-（离开）+ terr-（惊吓）+ -ent（物）</div>
+        <div class="label">词源</div><div>源自拉丁语 deterrere「吓退」，指能阻止不良行为发生的因素或措施</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合规/安保高频：act as a deterrent（起到威慑作用）；strong deterrent（有力威慑）；deterrent to fraud（防欺诈手段）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">act as a deterrent（起到威慑作用）</span><span class="chip">strong deterrent（有力威慑）</span><span class="chip">deterrent to fraud（防欺诈手段）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Strict penalties serve as a deterrent to workplace fraud.</en>
+          <zh>严厉处罚对职场欺诈起到威慑作用。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
