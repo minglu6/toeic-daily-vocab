@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 10/18 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.10.18</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">diagnose</span>
+        <span class="ipa">/ˌdaɪəɡˈnoʊs/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">诊断；找出原因；判断问题</div>
+        <div class="label">词根</div><div>dia-（穿过）+ gnose-（知道）</div>
+        <div class="label">词源</div><div>源自希腊语 diagnōsis「辨别、识别」，指通过检查找出故障或问题的根源</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">IT/客服高频：diagnose a problem（诊断问题）；diagnose the cause（找出原因）；run a diagnostic（运行诊断）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">diagnose a problem（诊断问题）</span><span class="chip">diagnose the cause（找出原因）</span><span class="chip">diagnose a fault（诊断故障）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The IT team will diagnose the network outage before the morning briefing.</en>
+          <zh>IT 团队将在早会前诊断网络中断原因。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">diligent</span>
+        <span class="ipa">/ˈdɪlɪdʒənt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">勤奋的；认真细致的；尽职的</div>
+        <div class="label">词根</div><div>di-（分开）+ lig-（选择）+ -ent（的）</div>
+        <div class="label">词源</div><div>源自拉丁语 diligens「用心挑选的」，引申为勤奋、认真负责</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/评价高频：diligent employee（勤奋员工）；diligent effort（勤奋努力）；be diligent in（在…上勤勉）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">diligent employee（勤奋员工）</span><span class="chip">diligent effort（勤奋努力）</span><span class="chip">diligent research（认真调研）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Her diligent preparation helped the audit finish ahead of schedule.</en>
+          <zh>她认真细致的准备让审计提前完成。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">directive</span>
+        <span class="ipa">/dəˈrektɪv/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">指令；指示；官方规定</div>
+        <div class="label">词根</div><div>di-（分开）+ rect-（直）+ -ive（物）</div>
+        <div class="label">词源</div><div>源自拉丁语 dirigere「指引方向」，指上级或机构下达的正式指示</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">管理/合规高频：issue a directive（发布指令）；comply with the directive（遵守指令）；company directive（公司规定）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">issue a directive（发布指令）</span><span class="chip">comply with the directive（遵守指令）</span><span class="chip">follow a directive（执行指示）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>All branch managers must comply with the new safety directive.</en>
+          <zh>所有分公司经理必须遵守新的安全指令。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">disclaimer</span>
+        <span class="ipa">/dɪsˈkleɪmər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">免责声明；否认声明</div>
+        <div class="label">词根</div><div>dis-（否定）+ claim-（主张）+ -er（物）</div>
+        <div class="label">词源</div><div>源自 claim「主张」加否定前缀，指声明不承担责任或权利的正式文字</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/营销高频：legal disclaimer（法律免责声明）；include a disclaimer（附上免责声明）；disclaimer of liability（责任免除声明）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">legal disclaimer（法律免责声明）</span><span class="chip">include a disclaimer（附上免责声明）</span><span class="chip">disclaimer of warranty（保证免责声明）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please read the disclaimer at the bottom of the product brochure.</en>
+          <zh>请阅读产品手册底部的免责声明。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">disclosure</span>
+        <span class="ipa">/dɪsˈkloʊʒər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">披露；公开；透露</div>
+        <div class="label">词根</div><div>dis-（打开）+ clos-（关闭）+ -ure（名词）</div>
+        <div class="label">词源</div><div>源自 disclose「揭开、透露」，指将信息正式公开或告知相关方</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/合规高频：full disclosure（充分披露）；disclosure of information（信息披露）；mandatory disclosure（强制披露）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">full disclosure（充分披露）</span><span class="chip">disclosure of information（信息披露）</span><span class="chip">financial disclosure（财务披露）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The contract requires full disclosure of any related-party transactions.</en>
+          <zh>合同要求充分披露任何关联方交易。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">disposal</span>
+        <span class="ipa">/dɪˈspoʊzl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">处理；处置；清理</div>
+        <div class="label">词根</div><div>dis-（分开）+ pos-（放置）+ -al（名词）</div>
+        <div class="label">词源</div><div>源自 dispose「安排、处理」，指对资产、废物或文件的处置方式</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">运营/环保高频：waste disposal（废物处理）；disposal of assets（资产处置）；at one's disposal（供…使用）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">waste disposal（废物处理）</span><span class="chip">disposal of assets（资产处置）</span><span class="chip">at one's disposal（供…支配）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The factory updated its waste disposal procedures last quarter.</en>
+          <zh>工厂上季度更新了废物处理流程。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">disseminate</span>
+        <span class="ipa">/dɪˈsemɪneɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">传播；散布；发布</div>
+        <div class="label">词根</div><div>dis-（分开）+ semin-（种子）+ -ate（动词）</div>
+        <div class="label">词源</div><div>源自拉丁语 disseminare「撒播种子」，引申为广泛传播信息或知识</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公关/内部沟通高频：disseminate information（传播信息）；disseminate news（发布消息）；widely disseminate（广泛传播）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">disseminate information（传播信息）</span><span class="chip">disseminate guidelines（发布指南）</span><span class="chip">widely disseminate（广泛传播）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>HR will disseminate the updated leave policy to all staff tomorrow.</en>
+          <zh>人力资源部明天将向全体员工发布更新后的休假政策。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">division</span>
+        <span class="ipa">/dɪˈvɪʒn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">部门；分部；划分</div>
+        <div class="label">词根</div><div>di-（分开）+ vis-（分开）+ -ion（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 divisio「分开」，在商务中常指公司下属的事业部或业务单元</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">组织架构高频：sales division（销售部）；regional division（区域分部）；division head（部门负责人）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">sales division（销售部）</span><span class="chip">regional division（区域分部）</span><span class="chip">division manager（部门经理）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The marketing division will present its quarterly results on Friday.</en>
+          <zh>市场部将于周五汇报季度业绩。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">downtime</span>
+        <span class="ipa">/ˈdaʊntaɪm/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">停机时间；故障时间；停工</div>
+        <div class="label">词根</div><div>down（停止）+ time（时间）</div>
+        <div class="label">词源</div><div>由 down 与 time 合成，指系统、设备或生产线无法运行的时段</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">IT/生产高频：system downtime（系统停机）；minimize downtime（尽量减少停机）；scheduled downtime（计划停机）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">system downtime（系统停机）</span><span class="chip">minimize downtime（尽量减少停机）</span><span class="chip">scheduled downtime（计划停机）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We scheduled overnight downtime to upgrade the payment servers.</en>
+          <zh>我们安排了夜间停机以升级支付服务器。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">earmark</span>
+        <span class="ipa">/ˈɪrmɑːrk/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">指定用途；拨出；预留</div>
+        <div class="label">词根</div><div>ear（耳朵）+ mark（标记）</div>
+        <div class="label">词源</div><div>原指给牲畜耳朵做标记，引申为把资金或资源专门划拨给某用途</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/预算高频：earmark funds（拨出资金）；earmark for（专款用于）；earmarked budget（专项预算）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">earmark funds（拨出资金）</span><span class="chip">earmark for training（专款用于培训）</span><span class="chip">earmarked budget（专项预算）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The board earmarked $200,000 for employee wellness programs.</en>
+          <zh>董事会拨出 20 万美元用于员工健康项目。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">eligibility</span>
+        <span class="ipa">/ˌelɪdʒəˈbɪləti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">资格；合格条件；适宜性</div>
+        <div class="label">词根</div><div>e-（出）+ lig-（选择）+ -ibility（名词）</div>
+        <div class="label">词源</div><div>源自 eligible「有资格的」，指符合申请、福利或职位的条件</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/福利高频：eligibility criteria（资格标准）；check eligibility（核查资格）；eligibility for benefits（福利资格）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">eligibility criteria（资格标准）</span><span class="chip">check eligibility（核查资格）</span><span class="chip">eligibility for benefits（福利资格）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please review the eligibility criteria before applying for the scholarship.</en>
+          <zh>申请奖学金前请先查看资格标准。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">embark</span>
+        <span class="ipa">/ɪmˈbɑːrk/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">开始；着手；登船/登机</div>
+        <div class="label">词根</div><div>em-（进入）+ bark（船）</div>
+        <div class="label">词源</div><div>原指登船启航，引申为开始一项计划、项目或旅程</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">项目/差旅高频：embark on a project（启动项目）；embark on a journey（踏上旅程）；embark upon（着手）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">embark on a project（启动项目）</span><span class="chip">embark on a campaign（启动活动）</span><span class="chip">embark upon（着手）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The firm will embark on a digital transformation next fiscal year.</en>
+          <zh>公司将在下一财年启动数字化转型。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">empower</span>
+        <span class="ipa">/ɪmˈpaʊər/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">授权；赋能；使能够</div>
+        <div class="label">词根</div><div>em-（使）+ power（力量）</div>
+        <div class="label">词源</div><div>由 power 加使动前缀构成，指给予权力、能力或自主决策空间</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/领导力高频：empower employees（赋能员工）；empower to decide（授权决定）；feel empowered（感到有权）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">empower employees（赋能员工）</span><span class="chip">empower teams（赋能团队）</span><span class="chip">empower to decide（授权决定）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Managers should empower frontline staff to resolve customer complaints.</en>
+          <zh>经理应授权一线员工处理客户投诉。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">enable</span>
+        <span class="ipa">/ɪˈneɪbl/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">使能够；启用；促成</div>
+        <div class="label">词根</div><div>en-（使）+ able（能够）</div>
+        <div class="label">词源</div><div>由 able 加使动前缀，指创造条件使人或系统能够完成某事</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">产品/流程高频：enable customers to（使客户能够）；enable access（启用访问）；enable growth（促进增长）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">enable customers to（使客户能够）</span><span class="chip">enable access（启用访问）</span><span class="chip">enable growth（促进增长）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The new portal will enable clients to track shipments in real time.</en>
+          <zh>新门户将使客户能够实时追踪货运。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">encompass</span>
+        <span class="ipa">/ɪnˈkʌmpəs/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">包含；涵盖；环绕</div>
+        <div class="label">词根</div><div>en-（使）+ compass（范围）</div>
+        <div class="label">词源</div><div>源自 compass「范围、包围」，指把多方面内容纳入同一范围</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">计划/职责高频：encompass a wide range（涵盖广泛范围）；encompass all aspects（涵盖各方面）；duties encompass（职责包括）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">encompass a wide range（涵盖广泛）</span><span class="chip">encompass all aspects（涵盖各方面）</span><span class="chip">the plan encompasses（计划涵盖）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The training program encompasses compliance, safety, and customer service.</en>
+          <zh>该培训项目涵盖合规、安全与客户服务。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">enrich</span>
+        <span class="ipa">/ɪnˈrɪtʃ/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">丰富；充实；使更有价值</div>
+        <div class="label">词根</div><div>en-（使）+ rich（丰富）</div>
+        <div class="label">词源</div><div>由 rich 加使动前缀，指增加内容、经验或价值使其更充实</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">培训/产品高频：enrich experience（丰富体验）；enrich content（充实内容）；enrich knowledge（充实知识）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">enrich experience（丰富体验）</span><span class="chip">enrich content（充实内容）</span><span class="chip">enrich skills（提升技能）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Cross-department rotations enrich employees' professional experience.</en>
+          <zh>跨部门轮岗能丰富员工的专业经验。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">entail</span>
+        <span class="ipa">/ɪnˈteɪl/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">需要；牵涉；导致必须</div>
+        <div class="label">词根</div><div>en-（使）+ tail（切割/限定）</div>
+        <div class="label">词源</div><div>原指限定继承权，引申为某事必然包含或要求某些步骤、成本或后果</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">计划/成本高频：entail costs（涉及成本）；entail risks（带来风险）；what it entails（意味着什么）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">entail additional costs（涉及额外成本）</span><span class="chip">entail risks（带来风险）</span><span class="chip">entail changes（需要变更）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Expanding overseas will entail significant legal and logistics costs.</en>
+          <zh>拓展海外业务将涉及显著的法律与物流成本。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">enumerate</span>
+        <span class="ipa">/ɪˈnuːməreɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">列举；枚举；逐一说明</div>
+        <div class="label">词根</div><div>e-（出）+ numer-（数字）+ -ate（动词）</div>
+        <div class="label">词源</div><div>源自拉丁语 enumerare「数出」，指逐项列出要点或项目</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/报告高频：enumerate the reasons（列举理由）；enumerate key points（列举要点）；enumerate benefits（列举好处）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">enumerate the reasons（列举理由）</span><span class="chip">enumerate key points（列举要点）</span><span class="chip">enumerate options（列举选项）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please enumerate the main risks in your project proposal.</en>
+          <zh>请在项目提案中列举主要风险。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">envision</span>
+        <span class="ipa">/ɪnˈvɪʒn/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">设想；展望；构想</div>
+        <div class="label">词根</div><div>en-（使）+ vision（看见）</div>
+        <div class="label">词源</div><div>由 vision「视觉、愿景」构成，指在头脑中构想未来情景或目标</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">战略/规划高频：envision the future（展望未来）；envision a plan（构想计划）；as envisioned（正如所设想）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">envision the future（展望未来）</span><span class="chip">envision growth（展望增长）</span><span class="chip">as envisioned（正如所设想）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Leadership envisions a fully remote customer support team by next year.</en>
+          <zh>领导层设想明年建成一支全面远程的客服团队。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">equity</span>
+        <span class="ipa">/ˈekwəti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">公平；股本；权益</div>
+        <div class="label">词根</div><div>equ-（相等）+ -ity（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 aequitas「平等、公正」；金融语境中亦指股东权益或股本</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/HR 高频：home equity（房屋净值）；equity stake（股权份额）；pay equity（薪酬公平）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">equity stake（股权份额）</span><span class="chip">pay equity（薪酬公平）</span><span class="chip">return on equity（股本回报率）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Investors acquired a 15% equity stake in the logistics startup.</en>
+          <zh>投资者获得了该物流初创公司 15% 的股权。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">ethics</span>
+        <span class="ipa">/ˈeθɪks/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">伦理；道德规范；职业道德</div>
+        <div class="label">词根</div><div>eth-（习俗/品格）+ -ics（学科）</div>
+        <div class="label">词源</div><div>源自希腊语 ēthikos「与品格有关的」，指行为对错的规范与原则</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合规/HR 高频：business ethics（商业伦理）；code of ethics（道德准则）；ethics training（伦理培训）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">business ethics（商业伦理）</span><span class="chip">code of ethics（道德准则）</span><span class="chip">ethics committee（伦理委员会）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>All new hires must complete business ethics training within 30 days.</en>
+          <zh>所有新员工须在 30 天内完成商业伦理培训。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">evolve</span>
+        <span class="ipa">/ɪˈvɑːlv/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">演变；发展；逐步进化</div>
+        <div class="label">词根</div><div>e-（出）+ volv-（滚动）</div>
+        <div class="label">词源</div><div>源自拉丁语 evolvere「展开、滚出」，引申为逐渐发展或改变形态</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">战略/产品高频：evolve into（演变为）；evolve over time（随时间演变）；continue to evolve（持续演进）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">evolve into（演变为）</span><span class="chip">evolve over time（随时间演变）</span><span class="chip">continue to evolve（持续演进）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Our pricing model will evolve as we enter new overseas markets.</en>
+          <zh>随着进入新的海外市场，我们的定价模式将持续演变。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">excel</span>
+        <span class="ipa">/ɪkˈsel/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">擅长；出色；优于</div>
+        <div class="label">词根</div><div>ex-（出）+ cel-（升起）</div>
+        <div class="label">词源</div><div>源自拉丁语 excellere「高出、超越」，指在某方面表现突出</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">评价/招聘高频：excel at（擅长）；excel in（在…方面出色）；excel beyond expectations（超出预期）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">excel at（擅长）</span><span class="chip">excel in sales（在销售方面出色）</span><span class="chip">excel beyond expectations（超出预期）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>She excelled at negotiating vendor contracts under tight deadlines.</en>
+          <zh>她在紧张期限内谈判供应商合同方面表现出色。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">exception</span>
+        <span class="ipa">/ɪkˈsepʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">例外；除外；破例</div>
+        <div class="label">词根</div><div>ex-（出）+ cept-（拿）+ -ion（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 excipere「取出、除外」，指规则之外的特殊情况</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">政策/合同高频：make an exception（破例）；with the exception of（除…以外）；no exceptions（无一例外）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">make an exception（破例）</span><span class="chip">with the exception of（除…以外）</span><span class="chip">no exceptions（无一例外）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Refunds are not allowed, with the exception of defective products.</en>
+          <zh>除残次品外，一律不予退款。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">excerpt</span>
+        <span class="ipa">/ˈeksɜːrpt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">摘录；节选；片段</div>
+        <div class="label">词根</div><div>ex-（出）+ cerpt-（摘取）</div>
+        <div class="label">词源</div><div>源自拉丁语 excerptum「摘出之物」，指从较长文本中选取的段落</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/报告高频：excerpt from the report（报告摘录）；brief excerpt（简短摘录）；publish an excerpt（刊登摘录）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">excerpt from the report（报告摘录）</span><span class="chip">brief excerpt（简短摘录）</span><span class="chip">read an excerpt（朗读节选）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The memo includes an excerpt from last month's customer survey.</en>
+          <zh>备忘录包含上月客户调查的一段摘录。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">exclusion</span>
+        <span class="ipa">/ɪkˈskluːʒn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">排除；除外；不予纳入</div>
+        <div class="label">词根</div><div>ex-（出）+ clus-（关闭）+ -ion（名词）</div>
+        <div class="label">词源</div><div>源自 exclude「排除在外」，指故意不纳入范围、名单或保障</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/保险高频：exclusion clause（除外条款）；exclusion of liability（责任排除）；subject to exclusions（受除外条款约束）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">exclusion clause（除外条款）</span><span class="chip">exclusion of liability（责任排除）</span><span class="chip">policy exclusion（保单除外）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please note the exclusion clause covering natural disasters.</en>
+          <zh>请注意涵盖自然灾害的除外条款。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">exemplary</span>
+        <span class="ipa">/ɪɡˈzempləri/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">模范的；典范的；值得效仿的</div>
+        <div class="label">词根</div><div>ex-（出）+ empl-（拿/样本）+ -ary（的）</div>
+        <div class="label">词源</div><div>源自 exemplum「榜样、范例」，形容可作为标准或榜样的表现</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/表彰高频：exemplary performance（模范表现）；exemplary service（模范服务）；set an exemplary example（树立典范）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">exemplary performance（模范表现）</span><span class="chip">exemplary service（模范服务）</span><span class="chip">exemplary conduct（模范行为）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>She received an award for exemplary customer service this quarter.</en>
+          <zh>她因本季度模范的客户服务而获奖。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">exemption</span>
+        <span class="ipa">/ɪɡˈzempʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">豁免；免税；免除</div>
+        <div class="label">词根</div><div>ex-（出）+ empt-（拿）+ -ion（名词）</div>
+        <div class="label">词源</div><div>源自 exempt「免除」，指被正式免除义务、税费或规定约束</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/税务高频：tax exemption（免税）；apply for an exemption（申请豁免）；exemption from fees（费用豁免）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">tax exemption（免税）</span><span class="chip">apply for an exemption（申请豁免）</span><span class="chip">exemption from fees（费用豁免）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Nonprofits may qualify for a tax exemption on property purchases.</en>
+          <zh>非营利组织购买物业或可享受免税。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">expectation</span>
+        <span class="ipa">/ˌekspekˈteɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">期望；预期；指望</div>
+        <div class="label">词根</div><div>ex-（出）+ spect-（看）+ -ation（名词）</div>
+        <div class="label">词源</div><div>源自 expect「期待」，指对结果、表现或服务的预期标准</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">管理/客户高频：meet expectations（达到期望）；exceed expectations（超出期望）；clear expectations（明确期望）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">meet expectations（达到期望）</span><span class="chip">exceed expectations（超出期望）</span><span class="chip">set clear expectations（设定明确期望）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The client said the delivery exceeded their expectations.</en>
+          <zh>客户表示交付成果超出了他们的期望。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">expedient</span>
+        <span class="ipa">/ɪkˈspiːdiənt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">权宜的；便利的；应急实用的</div>
+        <div class="label">词根</div><div>ex-（出）+ ped-（脚）+ -ient（的）</div>
+        <div class="label">词源</div><div>源自拉丁语 expedire「解开脚绊、使畅通」，引申为当前最便利或权宜的做法</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">决策/会议高频：expedient solution（权宜之计）；politically expedient（政治上权宜的）；find it expedient（认为权宜）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">expedient solution（权宜之计）</span><span class="chip">find it expedient（认为权宜）</span><span class="chip">politically expedient（政治上权宜）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Hiring temporary staff was an expedient solution during peak season.</en>
+          <zh>旺季雇用临时工是一个权宜之计。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
