@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 10/19 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.10.19</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">excursion</span>
+        <span class="ipa">/ɪkˈskɜːrʒn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">短途旅行；远足；（团体）参观游览</div>
+        <div class="label">词根</div><div>ex-（向外）+ curs-（跑）+ -ion（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 excursio「跑出去、出行」，由 excurrere「跑出」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">旅游/团建高频：a day excursion（一日游）；常与 tour、trip、outing 同义替换（Part 7 同义词题）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a day excursion（一日游）</span><span class="chip">go on an excursion（去短途旅行）</span><span class="chip">an optional excursion（自费可选行程）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Conference attendees may sign up for an optional excursion to the harbor on Friday afternoon.</en>
+          <zh>与会者可报名参加周五下午前往港口的自选短途游。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">exhibition</span>
+        <span class="ipa">/ˌeksɪˈbɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">展览；展览会；展示</div>
+        <div class="label">词根</div><div>ex-（向外）+ hibit-（持、拿）+ -ion（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 exhibitio「拿出来给人看」，由 exhibere「展示」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">展会高频：trade exhibition（贸易展）；on exhibition（展出中）；动词 exhibit、名词 exhibitor（参展商）词性辨析</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a trade exhibition（贸易展览会）</span><span class="chip">hold an exhibition（举办展览）</span><span class="chip">on exhibition（正在展出）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Our new product line will be on exhibition at the trade fair in Singapore next month.</en>
+          <zh>我们的新产品线下个月将在新加坡的贸易展上展出。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">explicit</span>
+        <span class="ipa">/ɪkˈsplɪsɪt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">明确的；清楚的；直截了当的</div>
+        <div class="label">词根</div><div>ex-（向外）+ plic-（折叠）+ -it</div>
+        <div class="label">词源</div><div>源自拉丁语 explicitus「展开的」，由 explicare「展开、解释」而来，引申为「把话说开、说清楚」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/指示高频：explicit instructions（明确指示）；副词 explicitly 修饰 state / prohibit（明确规定/禁止）；反义词 implicit（含蓄的）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">explicit instructions（明确的指示）</span><span class="chip">explicit consent（明确同意）</span><span class="chip">be explicit about（对……说得很明确）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The contract makes explicit that all changes must be approved in writing.</en>
+          <zh>合同明确规定，所有变更必须经书面批准。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">extensive</span>
+        <span class="ipa">/ɪkˈstensɪv/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">广泛的；大量的；大规模的</div>
+        <div class="label">词根</div><div>ex-（向外）+ tens-（伸展）+ -ive（形容词）</div>
+        <div class="label">词源</div><div>源自晚期拉丁语 extensivus，由 extendere「向外伸展」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">招聘/工程高频：extensive experience（丰富经验）；extensive renovations（大规模翻修）；副词 extensively（广泛地）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">extensive experience（丰富的经验）</span><span class="chip">extensive renovations（大规模翻修）</span><span class="chip">extensive research（广泛的研究）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Candidates with extensive experience in supply chain management are encouraged to apply.</en>
+          <zh>欢迎具有丰富供应链管理经验的候选人申请。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">extract</span>
+        <span class="ipa">/ɪkˈstrækt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">提取；摘录；获得（信息、资金等）</div>
+        <div class="label">词根</div><div>ex-（向外）+ tract-（拉、拖）</div>
+        <div class="label">词源</div><div>源自拉丁语 extractus，由 extrahere「拉出、抽出」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">数据/文件高频：extract data from（从……提取数据）；名词 extract（摘录、浓缩物）重音在前 /ˈekstrækt/</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">extract data（提取数据）</span><span class="chip">extract information from（从……获取信息）</span><span class="chip">a brief extract（简短摘录）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The analyst extracted the sales figures from the quarterly report for the presentation.</en>
+          <zh>分析师从季度报告中提取了销售数据用于演示。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">faculty</span>
+        <span class="ipa">/ˈfæklti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">（大学）全体教员；院系；能力</div>
+        <div class="label">词根</div><div>fac-（做）+ -ulty（名词，能力）</div>
+        <div class="label">词源</div><div>源自拉丁语 facultas「能力、做事的本领」，与 facilis「容易的」同源</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">培训/学校高频：faculty members（教职员）；集合名词，可作单数或复数；与 staff（员工）对比</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">faculty members（教职员）</span><span class="chip">faculty and staff（教职员工）</span><span class="chip">the faculty of law（法学院）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Faculty members will lead the evening workshops at the leadership training program.</en>
+          <zh>教职人员将在领导力培训项目中主持晚间工作坊。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">fasten</span>
+        <span class="ipa">/ˈfæsn/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">系牢；扣紧；固定</div>
+        <div class="label">词根</div><div>fast（牢固的）+ -en（使……）</div>
+        <div class="label">词源</div><div>源自古英语 fæstnian「使牢固」，fast 原义「坚固的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">Part 1/飞机广播高频：fasten your seat belt（系好安全带）；t 不发音；反义 unfasten（解开）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">fasten your seat belt（系好安全带）</span><span class="chip">fasten securely（牢牢固定）</span><span class="chip">fasten a label to（把标签固定到……）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Passengers are asked to fasten their seat belts while the sign is illuminated.</en>
+          <zh>安全带指示灯亮起期间，请乘客系好安全带。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">feature</span>
+        <span class="ipa">/ˈfiːtʃər/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">特色；功能；（报刊）专题 / 以……为特色；由……主演</div>
+        <div class="label">词根</div><div>feat-（做成）+ -ure（名词）</div>
+        <div class="label">词源</div><div>源自古法语 faiture「形状、样子」，来自拉丁语 factura「制作」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">产品/广告高频：new features（新功能）；动词用法 The event will feature a keynote by…（活动将有……主讲）常考</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">key features（主要特点）</span><span class="chip">a feature article（专题报道）</span><span class="chip">feature a guest speaker（邀请嘉宾演讲）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The upgraded software features a simplified dashboard and faster reporting tools.</en>
+          <zh>升级后的软件具有更简洁的仪表板和更快的报表工具。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">finalize</span>
+        <span class="ipa">/ˈfaɪnəlaɪz/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">最终确定；敲定；完成</div>
+        <div class="label">词根</div><div>final（最后的）+ -ize（使……）</div>
+        <div class="label">词源</div><div>由 final（源自拉丁语 finalis「终结的」，finis「结束」）加动词后缀 -ize 构成</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/合同高频：finalize the details（敲定细节）；finalize the agreement（敲定协议）；名词 finalization</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">finalize the details（敲定细节）</span><span class="chip">finalize a contract（敲定合同）</span><span class="chip">finalize the schedule（确定日程）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We need to finalize the event schedule by Thursday so the brochures can be printed.</en>
+          <zh>我们需要在周四前确定活动日程，以便印制宣传册。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">financing</span>
+        <span class="ipa">/ˈfaɪnænsɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">融资；资金筹措；贷款</div>
+        <div class="label">词根</div><div>finance（财务）+ -ing（名词）</div>
+        <div class="label">词源</div><div>由 finance 派生；finance 源自古法语 finer「结清、付款」，拉丁语 finis「结束」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：secure financing（获得融资）；financing options（融资方案）；与 funding 同义替换</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">secure financing（获得融资）</span><span class="chip">financing options（融资方案）</span><span class="chip">project financing（项目融资）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company secured financing from two banks to build its new distribution center.</en>
+          <zh>公司从两家银行获得融资，用于建造新的配送中心。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">fixture</span>
+        <span class="ipa">/ˈfɪkstʃər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">固定装置（如灯具、卫浴）；固定设施</div>
+        <div class="label">词根</div><div>fix（固定）+ -ture（名词）</div>
+        <div class="label">词源</div><div>源自晚期拉丁语 fixura「固定」，由 figere「钉牢」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">房产/装修高频：light fixtures（灯具）；fixtures and fittings（固定装置与配件）；Part 1 图片描述常见</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">light fixtures（灯具）</span><span class="chip">bathroom fixtures（卫浴设施）</span><span class="chip">fixtures and fittings（固定装置及配件）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The landlord agreed to replace the old light fixtures before the new tenants move in.</en>
+          <zh>房东同意在新租户入住前更换旧灯具。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">fleet</span>
+        <span class="ipa">/fliːt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">车队；船队；机队</div>
+        <div class="label">词根</div><div>无</div>
+        <div class="label">词源</div><div>源自古英语 flēot「船、船队」，与 float「漂浮」同源</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">物流/交通高频：a fleet of trucks（一支卡车车队）；fleet management（车队管理）；集合名词</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a fleet of vehicles（一支车队）</span><span class="chip">fleet management（车队管理）</span><span class="chip">expand the fleet（扩充车队）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The logistics firm plans to add twenty electric vans to its delivery fleet this year.</en>
+          <zh>这家物流公司计划今年为配送车队新增二十辆电动货车。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">fluent</span>
+        <span class="ipa">/ˈfluːənt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">（语言）流利的；流畅的</div>
+        <div class="label">词根</div><div>flu-（流动）+ -ent（形容词）</div>
+        <div class="label">词源</div><div>源自拉丁语 fluentem「流动的」，由 fluere「流」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">招聘高频：fluent in English（英语流利）；名词 fluency（流利程度）；介词用 in</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">fluent in Japanese（日语流利）</span><span class="chip">a fluent speaker（说得流利的人）</span><span class="chip">speak fluent English（说流利的英语）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Applicants must be fluent in both English and Spanish to qualify for the position.</en>
+          <zh>申请者须精通英语和西班牙语方可符合该职位要求。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">forfeit</span>
+        <span class="ipa">/ˈfɔːrfɪt/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">（因违规）丧失；被没收 / 罚金；没收物</div>
+        <div class="label">词根</div><div>for-（外面）+ feit-（做）</div>
+        <div class="label">词源</div><div>源自古法语 forfait「罪行、违法」，由 forfaire「越界行事」而来，引申为因违规而失去</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/订金高频：forfeit the deposit（丧失订金）；与 lose、give up 同义替换；名词 forfeiture</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">forfeit the deposit（没收订金）</span><span class="chip">forfeit the right to（丧失……的权利）</span><span class="chip">forfeit a refund（失去退款资格）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Guests who cancel within 48 hours of arrival will forfeit their deposit.</en>
+          <zh>在入住前 48 小时内取消预订的客人将被没收订金。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">formality</span>
+        <span class="ipa">/fɔːrˈmæləti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">手续；正式程序；拘泥形式</div>
+        <div class="label">词根</div><div>form（形式）+ -al + -ity（名词）</div>
+        <div class="label">词源</div><div>源自中古法语 formalité，来自拉丁语 formalis「形式上的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">签证/入职高频：customs formalities（海关手续）；just a formality（只是走个形式）；常用复数</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">customs formalities（海关手续）</span><span class="chip">complete the formalities（办完手续）</span><span class="chip">just a formality（只是走个形式）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please arrive early to complete the check-in formalities before the conference begins.</en>
+          <zh>请提前到场，在会议开始前办完报到手续。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">format</span>
+        <span class="ipa">/ˈfɔːrmæt/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">格式；版式；形式 / 使格式化；排版</div>
+        <div class="label">词根</div><div>form（形式）+ -at</div>
+        <div class="label">词源</div><div>源自法语 format，来自拉丁语 formatus「成形的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">文件/会议高频：in PDF format（PDF 格式）；the format of the meeting（会议形式）；介词用 in</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">in electronic format（电子格式）</span><span class="chip">a standard format（标准格式）</span><span class="chip">format a document（为文档排版）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please submit your expense report in PDF format by the end of the month.</en>
+          <zh>请在月底前以 PDF 格式提交费用报告。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">forward</span>
+        <span class="ipa">/ˈfɔːrwərd/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">转发；转寄；递送</div>
+        <div class="label">词根</div><div>fore-（前）+ -ward（方向）</div>
+        <div class="label">词源</div><div>源自古英语 foreweard「朝前的」，动词「转寄」义始于 18 世纪</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">邮件高频：forward the email to（把邮件转发给）；look forward to + doing（期待做）语法常考</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">forward an email（转发邮件）</span><span class="chip">forward mail to（把邮件转寄到）</span><span class="chip">look forward to meeting you（期待与你见面）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Could you forward the client's message to everyone on the project team?</en>
+          <zh>你能把客户的消息转发给项目组的每个人吗？</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">franchise</span>
+        <span class="ipa">/ˈfræntʃaɪz/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">特许经营权；连锁加盟店</div>
+        <div class="label">词根</div><div>franc-（自由的）+ -ise</div>
+        <div class="label">词源</div><div>源自古法语 franchise「自由、特权」，由 franc「自由的」而来，引申为授予的经营特权</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商业高频：a franchise owner（加盟店主）；franchise fee（加盟费）；franchisee（加盟商）/ franchisor（授权方）辨析</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a franchise owner（加盟店店主）</span><span class="chip">open a franchise（开加盟店）</span><span class="chip">a franchise agreement（特许经营协议）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The coffee chain is offering new franchise opportunities in three coastal cities.</en>
+          <zh>这家咖啡连锁店正在三个沿海城市提供新的加盟机会。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">freelance</span>
+        <span class="ipa">/ˈfriːlæns/</span>
+        <span class="pos">adj./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">自由职业的；兼职接活的 / 做自由职业</div>
+        <div class="label">词根</div><div>free（自由的）+ lance（长矛）</div>
+        <div class="label">词源</div><div>19 世纪由司各特小说中的「自由长矛兵」（不效忠特定领主的雇佣骑士）而来，引申为不受雇于固定雇主</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">招聘/外包高频：a freelance designer（自由设计师）；work freelance（做自由职业）；名词 freelancer</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a freelance writer（自由撰稿人）</span><span class="chip">freelance work（自由职业工作）</span><span class="chip">hire a freelancer（聘请自由职业者）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We hired a freelance graphic designer to create the logo for the product launch.</en>
+          <zh>我们聘请了一位自由平面设计师为产品发布设计标志。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">frequent</span>
+        <span class="ipa">/ˈfriːkwənt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">频繁的；经常的</div>
+        <div class="label">词根</div><div>frequ-（拥挤、频繁）+ -ent（形容词）</div>
+        <div class="label">词源</div><div>源自拉丁语 frequentem「拥挤的、经常的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">出行高频：frequent flyer（常旅客）；frequent customers（常客）；副词 frequently、名词 frequency 词性题</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">frequent flyer program（常旅客计划）</span><span class="chip">frequent customers（常客）</span><span class="chip">at frequent intervals（时常）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Members of our frequent flyer program receive free seat upgrades on long-haul flights.</en>
+          <zh>我们常旅客计划的会员可在长途航班上免费升舱。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">fringe</span>
+        <span class="ipa">/frɪndʒ/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">边缘；外围 / 附加的；次要的</div>
+        <div class="label">词根</div><div>无</div>
+        <div class="label">词源</div><div>源自古法语 frenge「流苏、边饰」，来自拉丁语 fimbria「纤维、边缘」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：fringe benefits（附加福利，如保险、带薪假）；与 perks、benefits 同义替换</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">fringe benefits（附加福利）</span><span class="chip">on the fringe of（在……边缘）</span><span class="chip">a fringe market（边缘市场）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>In addition to a competitive salary, the job offers generous fringe benefits.</en>
+          <zh>除了有竞争力的薪资，这份工作还提供丰厚的附加福利。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">fundraiser</span>
+        <span class="ipa">/ˈfʌndreɪzər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">募捐活动；筹款人</div>
+        <div class="label">词根</div><div>fund（资金）+ raise（筹集）+ -er</div>
+        <div class="label">词源</div><div>由 fund-raise「筹集资金」加名词后缀 -er 构成，20 世纪中期出现</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">社区/公益高频：hold a fundraiser（举办募捐活动）；charity fundraiser（慈善募捐）；与 raise funds 同义</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">hold a fundraiser（举办募捐活动）</span><span class="chip">a charity fundraiser（慈善募捐会）</span><span class="chip">a fundraiser dinner（募捐晚宴）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The hospital will hold a fundraiser dinner to support its new children's wing.</en>
+          <zh>医院将举办募捐晚宴，为新建的儿科病区筹款。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">furnish</span>
+        <span class="ipa">/ˈfɜːrnɪʃ/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">布置家具；提供；供应</div>
+        <div class="label">词根</div><div>无</div>
+        <div class="label">词源</div><div>源自古法语 furniss-，由 furnir「完成、供应」而来；名词 furniture 同源</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">房产/文件高频：fully furnished apartment（家具齐全的公寓）；furnish sb with sth（向某人提供某物）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a fully furnished apartment（家具齐全的公寓）</span><span class="chip">furnish an office（布置办公室）</span><span class="chip">furnish sb with details（向某人提供详情）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Relocating employees will be provided with a fully furnished apartment for the first month.</en>
+          <zh>调任员工第一个月将获得一套家具齐全的公寓。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">garment</span>
+        <span class="ipa">/ˈɡɑːrmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">（一件）衣服；服装</div>
+        <div class="label">词根</div><div>garn-（装备）+ -ment（名词）</div>
+        <div class="label">词源</div><div>源自古法语 garnement「装备、服装」，由 garnir「装备、供应」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">制造/零售高频：garment factory（服装厂）；garment industry（服装业）；正式用词，可替换 clothing</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">the garment industry（服装业）</span><span class="chip">a garment factory（服装厂）</span><span class="chip">garment bag（西装袋）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The garment factory increased production to meet the holiday demand.</en>
+          <zh>服装厂为满足节日需求提高了产量。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">glitch</span>
+        <span class="ipa">/ɡlɪtʃ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">小故障；小问题（尤指技术性的）</div>
+        <div class="label">词根</div><div>无</div>
+        <div class="label">词源</div><div>可能源自意第绪语 glitsh「滑倒」，20 世纪中期美国航天工程师用来指电路小故障</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">IT 高频：a technical glitch（技术故障）；常与 problem、malfunction、issue 同义替换</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a technical glitch（技术故障）</span><span class="chip">a software glitch（软件小故障）</span><span class="chip">fix a glitch（修复故障）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>A technical glitch delayed the start of the online seminar by fifteen minutes.</en>
+          <zh>一个技术故障使线上研讨会推迟了十五分钟开始。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">goodwill</span>
+        <span class="ipa">/ˌɡʊdˈwɪl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">善意；友好；（企业的）商誉</div>
+        <div class="label">词根</div><div>good（好的）+ will（意愿）</div>
+        <div class="label">词源</div><div>源自古英语 gōd willa「善意」，16 世纪起在商业中指企业声誉的价值</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">客服/财务高频：as a gesture of goodwill（作为善意的表示）；商誉 goodwill 出现在并购财报中</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a gesture of goodwill（善意之举）</span><span class="chip">customer goodwill（客户好感）</span><span class="chip">build goodwill（建立良好关系）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>As a gesture of goodwill, the hotel offered the guest a free night's stay.</en>
+          <zh>作为善意的表示，酒店为该客人提供一晚免费住宿。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">headcount</span>
+        <span class="ipa">/ˈhedkaʊnt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">员工人数；人数统计</div>
+        <div class="label">词根</div><div>head（人头）+ count（计数）</div>
+        <div class="label">词源</div><div>由 head「人」和 count「计数」组合而成，20 世纪起用于企业人事统计</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/预算高频：reduce headcount（裁员）；headcount freeze（冻结编制）；与 staff numbers 同义</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reduce headcount（削减人员编制）</span><span class="chip">a headcount freeze（人员编制冻结）</span><span class="chip">total headcount（总人数）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The department plans to increase its headcount by ten percent next year.</en>
+          <zh>该部门计划明年将人员编制增加百分之十。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">hectic</span>
+        <span class="ipa">/ˈhektɪk/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">忙乱的；繁忙的</div>
+        <div class="label">词根</div><div>hect-（习惯性的）+ -ic</div>
+        <div class="label">词源</div><div>源自希腊语 hektikos「习惯性的、持续的」，原指持续发热，后引申为「忙乱紧张」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">日程高频：a hectic schedule（繁忙的日程）；常与 busy 同义替换（Part 3/4 同义题）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a hectic schedule（繁忙的日程）</span><span class="chip">a hectic week（忙乱的一周）</span><span class="chip">hectic pace（快节奏）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Despite her hectic schedule, the director made time to meet each new employee.</en>
+          <zh>尽管日程繁忙，主管仍抽时间与每位新员工见面。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">hierarchy</span>
+        <span class="ipa">/ˈhaɪərɑːrki/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">等级制度；层级；（组织的）上层</div>
+        <div class="label">词根</div><div>hier-（神圣的）+ -archy（统治）</div>
+        <div class="label">词源</div><div>源自希腊语 hierarkhia「祭司统治」，后引申为等级森严的组织结构</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">组织管理高频：corporate hierarchy（公司层级）；形容词 hierarchical（等级制的）；flat structure（扁平结构）为反义概念</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">corporate hierarchy（公司层级）</span><span class="chip">the management hierarchy（管理层级）</span><span class="chip">move up the hierarchy（晋升）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The startup has a flat structure with very little hierarchy among its staff.</en>
+          <zh>这家初创公司采用扁平结构，员工之间几乎没有层级之分。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">honorarium</span>
+        <span class="ipa">/ˌɑːnəˈreriəm/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">（给演讲者等的）酬金；谢礼</div>
+        <div class="label">词根</div><div>honor（荣誉）+ -arium（名词，物）</div>
+        <div class="label">词源</div><div>源自拉丁语 honorarium「荣誉性报酬」，由 honor「荣誉」而来，指非正式工资的酬谢</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">活动/讲座高频：receive an honorarium（领取酬金）；区别于 salary、wage（固定工资）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">receive an honorarium（领取酬金）</span><span class="chip">a speaker's honorarium（演讲酬金）</span><span class="chip">pay an honorarium（支付谢礼）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Each guest speaker will receive an honorarium and travel expenses.</en>
+          <zh>每位嘉宾演讲者将获得酬金及差旅费。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
