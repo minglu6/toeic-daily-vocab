@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 10/20 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.10.19</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">idle</span>
+        <span class="ipa">/ˈaɪdl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">闲置的；空闲的；（机器）未运转的</div>
+        <div class="label">词根</div><div>无明显词根（单一词根词）</div>
+        <div class="label">词源</div><div>源自古英语 īdel「空的、无用的」，与德语 eitel「虚荣的、空的」同源</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">设备/产能高频：idle machinery（闲置机器）；leave ... idle（使……闲置）；区分 idol（偶像）同音词</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">idle equipment（闲置设备）</span><span class="chip">sit idle（闲置不用）</span><span class="chip">idle capacity（闲置产能）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The assembly line sat idle for two days while technicians replaced the faulty motor.</en>
+          <zh>技术人员更换故障电机期间，装配线停工闲置了两天。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">imminent</span>
+        <span class="ipa">/ˈɪmɪnənt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">即将发生的；迫在眉睫的</div>
+        <div class="label">词根</div><div>im-（在……上）+ min-（突出、悬）+ -ent（形容词）</div>
+        <div class="label">词源</div><div>源自拉丁语 imminere「悬于上方、逼近」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公告/新闻高频：an imminent merger（即将进行的合并）；be imminent（即将到来）；勿与 eminent（杰出的）混淆</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an imminent announcement（即将发布的公告）</span><span class="chip">imminent danger（迫在眉睫的危险）</span><span class="chip">an imminent deadline（临近的截止日期）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Analysts believe an announcement about the merger is imminent.</en>
+          <zh>分析师认为有关合并的公告即将发布。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">impartial</span>
+        <span class="ipa">/ɪmˈpɑːrʃl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">公正的；不偏不倚的</div>
+        <div class="label">词根</div><div>im-（不）+ part-（部分、一方）+ -ial（形容词）</div>
+        <div class="label">词源</div><div>由 im- + partial「偏袒的」构成，partial 源自拉丁语 pars「部分」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">评审/调解高频：an impartial review（公正的审查）；同义替换 unbiased、neutral、fair（Part 7 同义词题）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an impartial judge（公正的评委）</span><span class="chip">impartial advice（中立的建议）</span><span class="chip">remain impartial（保持中立）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>An impartial panel will evaluate all design proposals submitted for the contest.</en>
+          <zh>一个公正的评审小组将评估所有参赛的设计方案。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">implication</span>
+        <span class="ipa">/ˌɪmplɪˈkeɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">（可能的）影响、后果；含意</div>
+        <div class="label">词根</div><div>im-（进入）+ plic-（折叠）+ -ation（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 implicatio「缠绕、牵连」，由 implicare「卷入」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财经/政策高频：常用复数 implications for ...（对……的影响）；动词 imply（暗示）词性辨析</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">financial implications（财务影响）</span><span class="chip">have implications for（对……有影响）</span><span class="chip">consider the implications（考虑后果）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The board discussed the financial implications of opening a second factory.</en>
+          <zh>董事会讨论了开设第二家工厂的财务影响。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">incidental</span>
+        <span class="ipa">/ˌɪnsɪˈdentl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">附带的；次要的；（费用）杂项的</div>
+        <div class="label">词根</div><div>in-（在……上）+ cid-（落下）+ -ent + -al（形容词）</div>
+        <div class="label">词源</div><div>源自拉丁语 incidere「落到、发生」，经 incident「事件」派生</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅报销高频：incidental expenses / incidentals（杂费，如小费、洗衣费）；incidental to（伴随……而来的）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">incidental expenses（杂项开支）</span><span class="chip">incidental charges（附加费用）</span><span class="chip">incidental to the job（工作附带的）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Hotel guests must leave a credit card deposit to cover incidental charges.</en>
+          <zh>酒店住客须以信用卡押金支付杂项费用。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">inclement</span>
+        <span class="ipa">/ɪnˈklemənt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">（天气）恶劣的；严酷的</div>
+        <div class="label">词根</div><div>in-（不）+ clement（温和的）</div>
+        <div class="label">词源</div><div>源自拉丁语 inclemens「不仁慈的」，clemens 意为「温和、宽厚」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">Part 4 广播高频：due to inclement weather（由于恶劣天气）航班取消/活动延期；同义替换 bad / severe weather</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">inclement weather（恶劣天气）</span><span class="chip">in case of inclement weather（如遇恶劣天气）</span><span class="chip">inclement conditions（恶劣条件）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>In case of inclement weather, the company picnic will be moved indoors.</en>
+          <zh>如遇恶劣天气，公司野餐将改在室内举行。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">indemnity</span>
+        <span class="ipa">/ɪnˈdemnəti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">赔偿（金）；保障；免责</div>
+        <div class="label">词根</div><div>in-（无）+ demn-（损失）+ -ity（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 indemnis「无损失的」，damnum 意为「损失」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/保险高频：indemnity clause（赔偿条款）；动词 indemnify（赔偿、保障）词性辨析</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an indemnity clause（赔偿条款）</span><span class="chip">indemnity insurance（责任赔偿保险）</span><span class="chip">pay an indemnity（支付赔偿金）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The contract includes an indemnity clause protecting the client against third-party claims.</en>
+          <zh>合同中含有一项赔偿条款，保护客户免受第三方索赔。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">indicator</span>
+        <span class="ipa">/ˈɪndɪkeɪtər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">指标；指示物；迹象</div>
+        <div class="label">词根</div><div>in-（向）+ dic-（指、说）+ -ator（名词，表物/人）</div>
+        <div class="label">词源</div><div>源自拉丁语 indicare「指出、显示」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财经报告高频：economic indicators（经济指标）；key performance indicator / KPI（关键绩效指标）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a key indicator（关键指标）</span><span class="chip">economic indicators（经济指标）</span><span class="chip">a reliable indicator of（……的可靠指标）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Customer retention is a key indicator of how well our support team is performing.</en>
+          <zh>客户留存率是衡量支持团队表现的关键指标。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">influx</span>
+        <span class="ipa">/ˈɪnflʌks/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">大量涌入；流入</div>
+        <div class="label">词根</div><div>in-（进入）+ flux（流动）</div>
+        <div class="label">词源</div><div>源自拉丁语 influxus，由 influere「流入」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">旅游/零售高频：an influx of tourists / customers（游客/顾客大量涌入）；固定搭配介词 of</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an influx of visitors（游客涌入）</span><span class="chip">a sudden influx（突然大量涌入）</span><span class="chip">an influx of orders（订单激增）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Local hotels are preparing for an influx of visitors during the trade fair.</en>
+          <zh>本地酒店正在为展会期间的游客涌入做准备。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">informative</span>
+        <span class="ipa">/ɪnˈfɔːrmətɪv/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">提供有用信息的；增长见识的</div>
+        <div class="label">词根</div><div>in-（进入）+ form（形状）+ -ative（形容词）</div>
+        <div class="label">词源</div><div>源自拉丁语 informare「赋形、教导」，经 inform「告知」派生</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">评价/反馈高频：an informative session（内容丰富的讲座）；词性辨析 inform（v.）/ information（n.）/ informative（adj.）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an informative seminar（内容充实的研讨会）</span><span class="chip">highly informative（非常有料的）</span><span class="chip">an informative brochure（信息详尽的宣传册）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Participants found the workshop on tax regulations highly informative.</en>
+          <zh>学员们认为税务法规研讨会内容非常充实。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">inhibit</span>
+        <span class="ipa">/ɪnˈhɪbɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">抑制；阻碍；限制</div>
+        <div class="label">词根</div><div>in-（在内）+ hibit-（持、拿住）</div>
+        <div class="label">词源</div><div>源自拉丁语 inhibere「拦住、阻止」，habere 意为「持有」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">经济/管理高频：inhibit growth（抑制增长）；inhibit sb from doing（阻止某人做……）；同义替换 hinder、restrict</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">inhibit growth（抑制增长）</span><span class="chip">inhibit innovation（阻碍创新）</span><span class="chip">inhibit sales（抑制销售）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>High shipping costs may inhibit the growth of our overseas sales.</en>
+          <zh>高昂的运费可能会抑制我们海外销售的增长。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">initiative</span>
+        <span class="ipa">/ɪˈnɪʃətɪv/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">（新）计划、举措；主动性</div>
+        <div class="label">词根</div><div>in-（进入）+ it-（走）+ -iative（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 initium「开端」，由 inire「进入、开始」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/公司公告高频：launch an initiative（发起一项计划）；take the initiative（主动做）；名词词尾易与 initiate（v.）混淆</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">launch an initiative（推出新举措）</span><span class="chip">take the initiative（采取主动）</span><span class="chip">a green initiative（环保计划）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company launched a new initiative to reduce paper use in all branch offices.</en>
+          <zh>公司推出一项新举措，减少所有分公司的纸张使用。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">innovative</span>
+        <span class="ipa">/ˈɪnəveɪtɪv/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">创新的；革新的</div>
+        <div class="label">词根</div><div>in-（进入）+ nov-（新）+ -ative（形容词）</div>
+        <div class="label">词源</div><div>源自拉丁语 innovare「更新」，novus 意为「新的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">市场/招聘高频：innovative solutions（创新方案）；词性辨析 innovate（v.）/ innovation（n.）/ innovator（n. 人）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an innovative design（创新设计）</span><span class="chip">innovative solutions（创新解决方案）</span><span class="chip">an innovative approach（创新方法）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The firm won an award for its innovative approach to energy-efficient packaging.</en>
+          <zh>该公司因其节能包装的创新方法而获奖。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">insight</span>
+        <span class="ipa">/ˈɪnsaɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">洞察（力）；深刻见解</div>
+        <div class="label">词根</div><div>in-（向内）+ sight（看）</div>
+        <div class="label">词源</div><div>中古英语 insight「内在的看见」，由 in + sight 构成</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">市场调研高频：gain insight into（深入了解）；provide insights（提供见解）；固定介词 into</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">gain insight into（深入了解）</span><span class="chip">valuable insights（宝贵见解）</span><span class="chip">customer insights（客户洞察）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The survey gave us valuable insight into what customers expect from our app.</en>
+          <zh>这项调查让我们深入了解了顾客对我们应用程序的期望。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">inspection</span>
+        <span class="ipa">/ɪnˈspekʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">检查；视察；检验</div>
+        <div class="label">词根</div><div>in-（向内）+ spect-（看）+ -ion（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 inspectio，由 inspicere「察看」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">工厂/安全高频：safety inspection（安全检查）；upon inspection（经检查）；动词 inspect、名词 inspector（检查员）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a safety inspection（安全检查）</span><span class="chip">pass an inspection（通过检查）</span><span class="chip">carry out an inspection（进行检查）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The warehouse will close early on Friday for its annual safety inspection.</en>
+          <zh>仓库周五将提前关闭，进行年度安全检查。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">instrumental</span>
+        <span class="ipa">/ˌɪnstrəˈmentl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">起重要作用的；有帮助的</div>
+        <div class="label">词根</div><div>instru-（建造、配备）+ -ment（名词）+ -al（形容词）</div>
+        <div class="label">词源</div><div>源自拉丁语 instrumentum「工具」，由 instruere「建造、配备」而来</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">表彰/推荐信高频：be instrumental in doing（在……中发挥关键作用）；固定介词 in</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">be instrumental in（对……起关键作用）</span><span class="chip">play an instrumental role（发挥重要作用）</span><span class="chip">instrumental to success（对成功至关重要）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Ms. Patel was instrumental in securing the contract with our largest client.</en>
+          <zh>帕特尔女士在拿下与最大客户的合同中发挥了关键作用。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">intake</span>
+        <span class="ipa">/ˈɪnteɪk/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">摄入量；（人员）招收数量；吸入</div>
+        <div class="label">词根</div><div>in（进入）+ take（拿）</div>
+        <div class="label">词源</div><div>由 in + take 复合而成，原指「吸入口」，后引申为「摄入、招收」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">招聘/健康高频：annual intake of graduates（毕业生年度招收量）；daily intake（每日摄入量）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">the annual intake（年度招收人数）</span><span class="chip">daily calorie intake（每日卡路里摄入）</span><span class="chip">reduce intake（减少摄入）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>This year's graduate intake is the largest in the company's history.</en>
+          <zh>今年招收的毕业生人数是公司历史上最多的。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">integral</span>
+        <span class="ipa">/ˈɪntɪɡrəl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">不可或缺的；构成整体所必需的</div>
+        <div class="label">词根</div><div>integr-（完整）+ -al（形容词）</div>
+        <div class="label">词源</div><div>源自拉丁语 integer「完整的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">职位描述高频：an integral part of（……的重要组成部分）；be integral to（对……不可或缺）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an integral part of（……不可或缺的部分）</span><span class="chip">integral to success（对成功至关重要）</span><span class="chip">an integral role（核心作用）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Clear communication is an integral part of every successful project.</en>
+          <zh>清晰的沟通是每个成功项目不可或缺的部分。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">intensive</span>
+        <span class="ipa">/ɪnˈtensɪv/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">密集的；强化的；集中的</div>
+        <div class="label">词根</div><div>in-（向内）+ tens-（伸展、拉紧）+ -ive（形容词）</div>
+        <div class="label">词源</div><div>源自拉丁语 intendere「拉紧、专注」，经 intense「强烈的」派生</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">培训高频：an intensive course（强化课程）；labor-intensive（劳动密集型的）；区分 intense（强烈的）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an intensive training program（强化培训项目）</span><span class="chip">labor-intensive work（劳动密集型工作）</span><span class="chip">intensive care（重症监护）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>New sales staff complete a two-week intensive training program before meeting clients.</en>
+          <zh>新销售人员在接触客户前需完成为期两周的强化培训。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">intermediate</span>
+        <span class="ipa">/ˌɪntərˈmiːdiət/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">中级的；中间的</div>
+        <div class="label">词根</div><div>inter-（在……之间）+ medi-（中间）+ -ate（形容词）</div>
+        <div class="label">词源</div><div>源自中世纪拉丁语 intermediatus，由 inter + medius「中间的」构成</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">课程/语言等级高频：intermediate level（中级水平）；常与 beginner、advanced 并列出现</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an intermediate level（中级水平）</span><span class="chip">an intermediate course（中级课程）</span><span class="chip">an intermediate stage（中间阶段）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The Spanish class is designed for employees with an intermediate level of proficiency.</en>
+          <zh>这门西班牙语课程是为具备中级水平的员工设计的。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">interpreter</span>
+        <span class="ipa">/ɪnˈtɜːrprɪtər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">口译员；解释者</div>
+        <div class="label">词根</div><div>inter-（在……之间）+ pret-（价值、交易）+ -er（人）</div>
+        <div class="label">词源</div><div>源自拉丁语 interpres「中间人、谈判者」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">国际会议高频：hire an interpreter（聘请口译员）；区分 translator（笔译员）；动词 interpret</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a professional interpreter（专业口译员）</span><span class="chip">through an interpreter（通过口译员）</span><span class="chip">hire an interpreter（聘请口译）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>An interpreter will be available for delegates who do not speak English.</en>
+          <zh>会为不会说英语的代表们提供口译员。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">itemize</span>
+        <span class="ipa">/ˈaɪtəmaɪz/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">逐项列出；分项记载</div>
+        <div class="label">词根</div><div>item（项目）+ -ize（动词，使……化）</div>
+        <div class="label">词源</div><div>由 item「条目」加 -ize 构成，item 源自拉丁语「同样、此外」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">报销/账单高频：an itemized bill / receipt（明细账单/收据）；Part 7 常考「须附明细收据」</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an itemized receipt（明细收据）</span><span class="chip">itemize expenses（逐项列出开支）</span><span class="chip">an itemized invoice（分项发票）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please attach an itemized receipt to each expense report you submit.</en>
+          <zh>请在每份报销单上附上明细收据。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">journal</span>
+        <span class="ipa">/ˈdʒɜːrnl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">期刊；日志；日记</div>
+        <div class="label">词根</div><div>journ-（日）+ -al（名词）</div>
+        <div class="label">词源</div><div>源自古法语 jornal「一天的」，拉丁语 diurnalis「每日的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">学术/出版高频：a trade journal（行业期刊）；publish in a journal（在期刊上发表）；同根 journalist（记者）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a trade journal（行业期刊）</span><span class="chip">an academic journal（学术期刊）</span><span class="chip">keep a journal（记日志）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Dr. Lin's findings were published in a leading medical journal last month.</en>
+          <zh>林博士的研究结果上个月发表在一份权威医学期刊上。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">judgment</span>
+        <span class="ipa">/ˈdʒʌdʒmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">判断（力）；看法；判决</div>
+        <div class="label">词根</div><div>judg-（判断）+ -ment（名词）</div>
+        <div class="label">词源</div><div>源自古法语 jugement，拉丁语 judicare「判断」，judex 意为「法官」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">招聘要求高频：sound judgment（良好的判断力）；use one's judgment（自行判断）；英式拼写 judgement</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">sound judgment（良好的判断力）</span><span class="chip">use your judgment（自行判断）</span><span class="chip">an error of judgment（判断失误）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Shift supervisors are expected to use their judgment when handling customer complaints.</en>
+          <zh>值班主管在处理客户投诉时需自行做出判断。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">jurisdiction</span>
+        <span class="ipa">/ˌdʒʊrɪsˈdɪkʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">管辖权；司法权；管辖范围</div>
+        <div class="label">词根</div><div>juris-（法律）+ dict-（说）+ -ion（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 jurisdictio「宣告法律」，jus 意为「法律」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/法规高频：fall under the jurisdiction of（属于……管辖）；within / outside one's jurisdiction（在……管辖范围内/外）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">under the jurisdiction of（在……管辖下）</span><span class="chip">have jurisdiction over（对……有管辖权）</span><span class="chip">local jurisdiction（地方管辖）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Building permits in this area fall under the jurisdiction of the city planning office.</en>
+          <zh>该地区的建筑许可归市规划办公室管辖。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">kiosk</span>
+        <span class="ipa">/ˈkiːɑːsk/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">（自助）服务终端机；售货亭；报刊亭</div>
+        <div class="label">词根</div><div>无明显词根（外来词）</div>
+        <div class="label">词源</div><div>经法语 kiosque 源自土耳其语 köşk「亭子」，最初来自波斯语</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">机场/商场高频：self-service kiosk（自助服务机）；check-in kiosk（自助值机机）Part 1/4 常见</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a self-service kiosk（自助服务机）</span><span class="chip">a check-in kiosk（自助值机机）</span><span class="chip">an information kiosk（信息亭）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Passengers can print their boarding passes at any of the check-in kiosks.</en>
+          <zh>乘客可以在任意一台自助值机机上打印登机牌。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">legitimate</span>
+        <span class="ipa">/lɪˈdʒɪtɪmət/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">合法的；正当的；合理的</div>
+        <div class="label">词根</div><div>legitim-（合法）+ -ate（形容词）；leg- 表「法律」</div>
+        <div class="label">词源</div><div>源自中世纪拉丁语 legitimatus，由 legitimus「合法的」而来，lex 意为「法律」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合规/投诉高频：a legitimate business（合法企业）；a legitimate concern（合理的担忧）；同义替换 valid、lawful</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a legitimate concern（合理的担忧）</span><span class="chip">a legitimate business（合法经营的企业）</span><span class="chip">a legitimate reason（正当理由）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Employees who raise legitimate concerns about safety will not face any penalty.</en>
+          <zh>提出合理安全担忧的员工不会受到任何处罚。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">leverage</span>
+        <span class="ipa">/ˈlevərɪdʒ/</span>
+        <span class="pos">v. / n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">（v.）充分利用；（n.）影响力；杠杆作用</div>
+        <div class="label">词根</div><div>lever（杠杆）+ -age（名词）</div>
+        <div class="label">词源</div><div>由 lever「杠杆」加 -age 构成，lever 源自古法语 levier，拉丁语 levare「举起」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务高频：leverage our expertise（利用我们的专长）；bargaining leverage（谈判筹码）；动词名词同形</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">leverage resources（充分利用资源）</span><span class="chip">leverage expertise（发挥专长）</span><span class="chip">gain leverage（获得谈判筹码）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We plan to leverage our existing client network to promote the new service.</en>
+          <zh>我们计划利用现有客户网络推广这项新服务。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">liaison</span>
+        <span class="ipa">/liˈeɪzɑːn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">联络人；联络；协作</div>
+        <div class="label">词根</div><div>li-（捆绑）+ -aison（名词）</div>
+        <div class="label">词源</div><div>源自法语 liaison「联系」，拉丁语 ligare「捆绑」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">职位/项目高频：act as a liaison between A and B（充当 A 与 B 之间的联络人）；a liaison officer（联络官）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">act as a liaison（担任联络人）</span><span class="chip">a liaison officer（联络专员）</span><span class="chip">in liaison with（与……协作）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Mr. Ortiz will act as a liaison between the design team and the client.</en>
+          <zh>奥尔蒂斯先生将担任设计团队与客户之间的联络人。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">litigation</span>
+        <span class="ipa">/ˌlɪtɪˈɡeɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">诉讼；打官司</div>
+        <div class="label">词根</div><div>lit-（争执）+ ig-（驱动）+ -ation（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 litigare「争讼」，lis/lit- 意为「诉讼、争执」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">法务/合同高频：avoid litigation（避免诉讼）；pending litigation（未决诉讼）；动词 litigate</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">avoid litigation（避免诉讼）</span><span class="chip">pending litigation（未决诉讼）</span><span class="chip">costly litigation（代价高昂的诉讼）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Both companies agreed to settle the dispute privately to avoid costly litigation.</en>
+          <zh>两家公司同意私下解决纠纷，以避免代价高昂的诉讼。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
