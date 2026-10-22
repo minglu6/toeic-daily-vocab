@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 10/22 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.10.22</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">photocopy</span>
+        <span class="ipa">/ˈfoʊtəʊkɒpi/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">复印件；复印</div>
+        <div class="label">词根</div><div>photo-（光）+ copy（复制）</div>
+        <div class="label">词源</div><div>20 世纪合成词，由 photograph 的 photo- 与 copy 组合而成</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公高频：make a photocopy（复印一份）；photocopy of the contract（合同复印件）；作动词时可说 photocopy the form（复印表格）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">make a photocopy（复印一份）</span><span class="chip">a clear photocopy（清晰的复印件）</span><span class="chip">photocopy the documents（复印文件）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please bring a photocopy of your passport to the registration desk.</en>
+          <zh>请将护照复印件带到登记台。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">pilot</span>
+        <span class="ipa">/ˈpaɪlət/</span>
+        <span class="pos">n./v./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">飞行员；试点；试行</div>
+        <div class="label">词根</div><div>无明显词根（单一词根词）</div>
+        <div class="label">词源</div><div>源自拉丁语 piloto / 希腊语 pēdon「舵」，后引申为领航与试运行</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务高频：pilot program / pilot project（试点项目）；pilot study（试点研究）；勿只记「飞行员」义</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a pilot program（试点项目）</span><span class="chip">pilot a new service（试行新服务）</span><span class="chip">a pilot study（试点研究）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company will pilot a flexible-work policy in two regional offices.</en>
+          <zh>公司将在两个区域办事处试行弹性工作政策。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">placement</span>
+        <span class="ipa">/ˈpleɪsmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">安置；岗位安排；分班/分位</div>
+        <div class="label">词根</div><div>place（放置）+ -ment（名词）</div>
+        <div class="label">词源</div><div>源自 place + 名词后缀 -ment，表示「安放、安排」的结果</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/招聘高频：job placement（就业安置）；product placement（植入式广告）；placement test（分级测试）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">job placement（就业安置）</span><span class="chip">product placement（产品植入）</span><span class="chip">a placement agency（职业介绍所）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The career center offers job placement assistance to recent graduates.</en>
+          <zh>就业中心为应届毕业生提供就业安置协助。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">plummet</span>
+        <span class="ipa">/ˈplʌmɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">骤降；暴跌</div>
+        <div class="label">词根</div><div>无明显词根（单一词根词）</div>
+        <div class="label">词源</div><div>源自拉丁语 plumbum「铅」，原指铅锤直线下坠，后引申为数字骤降</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财经图表/新闻高频：sales plummeted（销售额暴跌）；plummet to a record low（跌至历史低点）；比 drop / fall 语气更强</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">sales plummet（销售额暴跌）</span><span class="chip">plummet sharply（急剧下跌）</span><span class="chip">prices plummet（价格暴跌）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Share prices plummeted after the firm announced weaker quarterly earnings.</en>
+          <zh>公司公布季度业绩疲软后，股价暴跌。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">prerequisite</span>
+        <span class="ipa">/priːˈrekwɪzɪt/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">先决条件；必修的；作为前提的</div>
+        <div class="label">词根</div><div>pre-（预先）+ requisite（必需的）</div>
+        <div class="label">词源</div><div>源自拉丁语 praerequisitus「事先被要求的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">培训/课程/合同高频：a prerequisite for promotion（晋升的先决条件）；course prerequisite（先修课）；作形容词：prerequisite skills（必备技能）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a prerequisite for（……的先决条件）</span><span class="chip">meet the prerequisites（满足先决条件）</span><span class="chip">prerequisite skills（必备技能）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Two years of sales experience is a prerequisite for this managerial role.</en>
+          <zh>两年销售经验是担任该管理职位的先决条件。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">prospectus</span>
+        <span class="ipa">/prəˈspektəs/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">招股说明书；简介手册；招生简章</div>
+        <div class="label">词根</div><div>pro-（向前）+ spect（看）+ -us</div>
+        <div class="label">词源</div><div>源自拉丁语 prospectus「展望、远景」，后专指介绍性书面材料</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">金融/招生高频：company prospectus（公司招股书）；university prospectus（大学招生简章）；勿与 prospect（前景；潜在客户）混淆</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a company prospectus（公司招股说明书）</span><span class="chip">read the prospectus（阅读说明书）</span><span class="chip">issue a prospectus（发布招股书）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Investors should carefully review the prospectus before buying the shares.</en>
+          <zh>投资者在购买股份前应仔细阅读招股说明书。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">protocol</span>
+        <span class="ipa">/ˈproʊtəkɒl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">协议；规程；外交礼仪</div>
+        <div class="label">词根</div><div>proto-（最初）+ col（胶水/粘合，引申为记录）</div>
+        <div class="label">词源</div><div>源自希腊语 prōtokollon「卷首粘贴的纸」，后引申为正式程序与协议</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/IT/安全高频：follow protocol（遵循规程）；safety protocol（安全规程）；communication protocol（通信协议）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">follow protocol（遵循规程）</span><span class="chip">safety protocols（安全规程）</span><span class="chip">diplomatic protocol（外交礼仪）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>All visitors must follow the building's security protocol.</en>
+          <zh>所有访客必须遵守大楼的安保规程。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">proximity</span>
+        <span class="ipa">/prɒkˈsɪməti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">接近；邻近</div>
+        <div class="label">词根</div><div>proxim-（近）+ -ity（性质）</div>
+        <div class="label">词源</div><div>源自拉丁语 proximitas，来自 proximus「最近的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">地产/差旅/选址高频：in close proximity to（紧邻）；proximity to public transport（靠近公共交通）；常考名词形态</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">in close proximity to（紧邻）</span><span class="chip">proximity to the airport（靠近机场）</span><span class="chip">geographic proximity（地理邻近）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The hotel's proximity to the convention center is a major advantage.</en>
+          <zh>酒店紧邻会议中心是其一大优势。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">publicity</span>
+        <span class="ipa">/pʌbˈlɪsəti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">宣传；知名度；媒体关注</div>
+        <div class="label">词根</div><div>public（公开的）+ -ity（性质）</div>
+        <div class="label">词源</div><div>源自 public + -ity，指「公之于众」的状态或活动</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销高频：generate publicity（制造宣传效应）；adverse publicity（负面宣传）；publicity campaign（宣传活动）；勿与 publicize（v. 宣传）混淆</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">generate publicity（制造宣传效应）</span><span class="chip">a publicity campaign（宣传活动）</span><span class="chip">adverse publicity（负面宣传）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The product launch received extensive publicity in the business press.</en>
+          <zh>该产品发布在商业媒体上获得了广泛宣传。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">qualification</span>
+        <span class="ipa">/ˌkwɒlɪfɪˈkeɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">资格；资历；学历条件</div>
+        <div class="label">词根</div><div>qualify（使有资格）+ -ation（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 qualificare「赋予性质/资格」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：meet the qualifications（符合资格）；professional qualifications（专业资质）；qualification requirements（资格要求）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">meet the qualifications（符合资格）</span><span class="chip">professional qualifications（专业资质）</span><span class="chip">academic qualifications（学历资格）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Applicants must list their relevant qualifications on the form.</en>
+          <zh>申请人必须在表格上列出相关资格。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">quotation</span>
+        <span class="ipa">/kwəʊˈteɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">报价；引文；行情</div>
+        <div class="label">词根</div><div>quote（引用/报价）+ -ation（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 quotare「标注页码/引用」，商务义「报价」由此引申</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">采购/合同高频：request a quotation（索取报价）；price quotation（价格报价）；与 quote（v./n.）同族；比 estimate 更正式书面</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">request a quotation（索取报价）</span><span class="chip">a competitive quotation（有竞争力的报价）</span><span class="chip">provide a quotation（提供报价）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We asked three suppliers for a quotation on office furniture.</en>
+          <zh>我们向三家供应商索取了办公家具报价。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">rally</span>
+        <span class="ipa">/ˈræli/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">反弹；集会；重整</div>
+        <div class="label">词根</div><div>无明显词根（单一词根词）</div>
+        <div class="label">词源</div><div>源自法语 rallier「重新集合」，商务中常指股价或士气回升</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财经/活动高频：stocks rallied（股市反弹）；a sales rally（销售动员会）；market rally（市场反弹）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">stocks rally（股市反弹）</span><span class="chip">a market rally（市场反弹）</span><span class="chip">rally support（争取支持）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Tech stocks rallied after the positive earnings announcements.</en>
+          <zh>科技股在正面财报公布后出现反弹。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">reorganize</span>
+        <span class="ipa">/riːˈɔːrɡənaɪz/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">改组；重组</div>
+        <div class="label">词根</div><div>re-（再次）+ organize（组织）</div>
+        <div class="label">词源</div><div>由 re- + organize 构成，指重新安排组织结构</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公司新闻/HR 高频：reorganize the department（改组部门）；corporate reorganization（公司重组）；英式亦可拼 reorganise</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reorganize the department（改组部门）</span><span class="chip">reorganize operations（重组运营）</span><span class="chip">a plan to reorganize（重组计划）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Management plans to reorganize the sales division next quarter.</en>
+          <zh>管理层计划下季度改组销售部门。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">rival</span>
+        <span class="ipa">/ˈraɪvl/</span>
+        <span class="pos">n./v./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">竞争对手；与……匹敌；竞争的</div>
+        <div class="label">词根</div><div>无明显词根（单一词根词）</div>
+        <div class="label">词源</div><div>源自拉丁语 rivalis「共用同一条河的人」，引申为竞争者</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务对比高频：a fierce rival（强劲对手）；rival companies（竞争公司）；rival 作动词：rival the market leader（与市场领导者匹敌）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a fierce rival（强劲对手）</span><span class="chip">rival companies（竞争公司）</span><span class="chip">main rival（主要竞争对手）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Our main rival has lowered prices to win market share.</en>
+          <zh>我们的主要竞争对手已降价以争夺市场份额。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">roster</span>
+        <span class="ipa">/ˈrɒstər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">值班表；花名册；阵容</div>
+        <div class="label">词根</div><div>无明显词根（单一词根词）</div>
+        <div class="label">词源</div><div>源自荷兰语 rooster「烤架；清单」，英语中指人员名册或排班表</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/排班高频：duty roster（值班表）；staff roster（员工名册）；on the roster（在名册上）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a duty roster（值班表）</span><span class="chip">staff roster（员工名册）</span><span class="chip">update the roster（更新排班表）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please check the duty roster before requesting time off.</en>
+          <zh>请假前请先查看值班表。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">sample</span>
+        <span class="ipa">/ˈsæmpl/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">样品；样本；抽样</div>
+        <div class="label">词根</div><div>无明显词根（单一词根词）</div>
+        <div class="label">词源</div><div>源自古法语 essample（= example），后专指「样品、样本」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销/质检高频：free sample（免费样品）；product sample（产品样品）；sample size（样本量）；作动词：sample the product（试用产品）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a free sample（免费样品）</span><span class="chip">product samples（产品样品）</span><span class="chip">a random sample（随机样本）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The sales team distributed free samples at the trade fair.</en>
+          <zh>销售团队在展会上发放了免费样品。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">scheme</span>
+        <span class="ipa">/skiːm/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">计划；方案；体制</div>
+        <div class="label">词根</div><div>无明显词根（单一词根词）</div>
+        <div class="label">词源</div><div>源自希腊语 schēma「形状、安排」，英语中多指系统性计划或方案</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">英式商务高频：incentive scheme（激励方案）；pension scheme（养老金计划）；color scheme（配色方案）；美式更常用 plan / program</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an incentive scheme（激励方案）</span><span class="chip">a pension scheme（养老金计划）</span><span class="chip">a training scheme（培训计划）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company introduced a bonus scheme to reward top performers.</en>
+          <zh>公司推出奖金方案以奖励表现优异者。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">scope</span>
+        <span class="ipa">/skoʊp/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">范围；余地；视野</div>
+        <div class="label">词根</div><div>无明显词根（单一词根词）</div>
+        <div class="label">词源</div><div>源自意大利语 scopo / 希腊语 skopos「目标、观察者」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/项目高频：scope of work（工作范围）；beyond the scope（超出范围）；the scope of the project（项目范围）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">the scope of work（工作范围）</span><span class="chip">beyond the scope（超出范围）</span><span class="chip">narrow the scope（缩小范围）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Travel expenses are outside the scope of this reimbursement policy.</en>
+          <zh>差旅费不在本报销政策的范围内。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">sector</span>
+        <span class="ipa">/ˈsektər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">行业；部门；领域</div>
+        <div class="label">词根</div><div>sect（切）+ -or</div>
+        <div class="label">词源</div><div>源自拉丁语 sector「切割者」，引申为被划分出的部分或行业</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财经/报告高频：private sector（私营部门）；public sector（公共部门）；the manufacturing sector（制造业）；industry 偏具体产业，sector 偏宏观划分</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">the private sector（私营部门）</span><span class="chip">the financial sector（金融业）</span><span class="chip">a growing sector（增长中的行业）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Job growth has been strongest in the technology sector this year.</en>
+          <zh>今年就业增长在科技行业最为强劲。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">session</span>
+        <span class="ipa">/ˈseʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">一场（会议/培训）；会期；时段</div>
+        <div class="label">词根</div><div>sess（坐）+ -ion（名词）</div>
+        <div class="label">词源</div><div>源自拉丁语 sessio「就座；集会」，指一次正式集会或时段</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/培训高频：training session（培训课）；Q&A session（问答环节）；morning session（上午场）；opening session（开幕式）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a training session（培训课）</span><span class="chip">a Q&A session（问答环节）</span><span class="chip">the morning session（上午场）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The workshop will include a brief Q&A session at the end.</en>
+          <zh>研讨会结束时将安排简短的问答环节。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">shuttle</span>
+        <span class="ipa">/ˈʃʌtl/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">班车；穿梭运输；往返运送</div>
+        <div class="label">词根</div><div>无明显词根（单一词根词）</div>
+        <div class="label">词源</div><div>源自古英语 scytel「飞镖；梭」，引申为来回往返的交通工具</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅/酒店高频：airport shuttle（机场班车）；shuttle bus（班车）；shuttle service（接驳服务）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an airport shuttle（机场班车）</span><span class="chip">a shuttle bus（班车）</span><span class="chip">shuttle service（接驳服务）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>A free shuttle bus runs between the hotel and the exhibition hall.</en>
+          <zh>酒店与展馆之间有免费班车往返。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">specialist</span>
+        <span class="ipa">/ˈspeʃəlɪst/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">专家；专科人员</div>
+        <div class="label">词根</div><div>special（专门的）+ -ist（人）</div>
+        <div class="label">词源</div><div>由 special + -ist 构成，指某一领域的专业人士</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/医疗/IT 高频：a marketing specialist（营销专员）；IT specialist（IT 专家）；specialist in ...（……方面的专家）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a marketing specialist（营销专员）</span><span class="chip">an IT specialist（IT 专家）</span><span class="chip">a specialist in logistics（物流专家）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We hired a tax specialist to review the new compliance rules.</en>
+          <zh>我们聘请了一位税务专家来审核新的合规规定。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">stagnant</span>
+        <span class="ipa">/ˈstæɡnənt/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">停滞的；不景气的；不流动的</div>
+        <div class="label">词根</div><div>stagn-（停滞）+ -ant（形容词）</div>
+        <div class="label">词源</div><div>源自拉丁语 stagnare「积滞成塘」，引申为经济或销售停滞</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财经描述高频：stagnant sales（销售停滞）；stagnant economy（经济停滞）；名词 stagnation；动词 stagnate</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">stagnant sales（销售停滞）</span><span class="chip">a stagnant market（停滞的市场）</span><span class="chip">remain stagnant（保持停滞）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Demand remained stagnant despite aggressive discount campaigns.</en>
+          <zh>尽管大力折扣促销，需求仍停滞不前。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">statistics</span>
+        <span class="ipa">/stəˈtɪstɪks/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">统计数据；统计学</div>
+        <div class="label">词根</div><div>stat-（状态）+ -istics</div>
+        <div class="label">词源</div><div>源自德语 Statistik / 拉丁语 statisticus，原指「国家事务数据」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">报告/图表高频：according to statistics（根据统计）；unemployment statistics（失业统计）；作「统计学」时常用单数动词，作「数据」时常复数</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">according to statistics（根据统计）</span><span class="chip">sales statistics（销售统计）</span><span class="chip">official statistics（官方统计）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The latest statistics show a rise in online bookings.</en>
+          <zh>最新统计显示在线预订有所上升。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">target</span>
+        <span class="ipa">/ˈtɑːrɡɪt/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">目标；指标；以……为目标</div>
+        <div class="label">词根</div><div>无明显词根（单一词根词）</div>
+        <div class="label">词源</div><div>源自古法语 targette「小盾」，后引申为瞄准的目标</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">销售/KPI 高频：sales target（销售目标）；meet / hit / miss a target（达成/击中/未达目标）；target customers（目标客户）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a sales target（销售目标）</span><span class="chip">meet the target（达成目标）</span><span class="chip">target customers（目标客户）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The team exceeded its quarterly sales target by 12 percent.</en>
+          <zh>该团队超额完成季度销售目标 12%。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">technician</span>
+        <span class="ipa">/tekˈnɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">技术员；技师</div>
+        <div class="label">词根</div><div>techn-（技艺）+ -ician（从事者）</div>
+        <div class="label">词源</div><div>源自希腊语 tekhnē「技艺」+ 表示从业者的后缀</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">IT/维修/招聘高频：computer technician（电脑技术员）；lab technician（实验室技术员）；service technician（维修技师）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a service technician（维修技师）</span><span class="chip">a computer technician（电脑技术员）</span><span class="chip">call a technician（叫技术员）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>A technician will arrive tomorrow to repair the photocopier.</en>
+          <zh>技术员明天将来维修复印机。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">venture</span>
+        <span class="ipa">/ˈventʃər/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">风险企业；商业冒险；敢于做</div>
+        <div class="label">词根</div><div>vent-（来）相关；冒险义</div>
+        <div class="label">词源</div><div>源自古法语 aventure「偶然；冒险」，商务中常指合资或创业项目</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">创业/投资高频：joint venture（合资企业）；business venture（商业冒险）；venture capital（风险资本）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a joint venture（合资企业）</span><span class="chip">a business venture（商业冒险）</span><span class="chip">venture capital（风险资本）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The two firms formed a joint venture to enter the Asian market.</en>
+          <zh>两家公司成立合资企业以进入亚洲市场。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">verbal</span>
+        <span class="ipa">/ˈvɜːrbl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">口头的；言语的</div>
+        <div class="label">词根</div><div>verb（词）+ -al（形容词）</div>
+        <div class="label">词源</div><div>源自拉丁语 verbalis「与词语有关的」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/沟通高频：verbal agreement（口头协议）；verbal warning（口头警告）；反义 written；注意与 verbose（冗长的）区分</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a verbal agreement（口头协议）</span><span class="chip">verbal communication（口头沟通）</span><span class="chip">a verbal warning（口头警告）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We reached a verbal agreement and will sign the contract next week.</en>
+          <zh>我们达成了口头协议，并将于下周签署合同。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">workload</span>
+        <span class="ipa">/ˈwɜːrkloʊd/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">工作量；负荷</div>
+        <div class="label">词根</div><div>work（工作）+ load（负荷）</div>
+        <div class="label">词源</div><div>现代合成词，由 work 与 load 组合，指承担的工作总量</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/办公高频：heavy workload（繁重工作量）；reduce / share the workload（减轻/分担工作量）；manage workload（管理工作量）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a heavy workload（繁重工作量）</span><span class="chip">reduce the workload（减轻工作量）</span><span class="chip">manage your workload（管理工作量）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Hiring two assistants should ease the team's heavy workload.</en>
+          <zh>招聘两名助理应能减轻团队的繁重工作量。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">volatile</span>
+        <span class="ipa">/ˈvɒlətaɪl/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">波动剧烈的；不稳定的；易变的</div>
+        <div class="label">词根</div><div>volat-（飞）+ -ile（易于……的）</div>
+        <div class="label">词源</div><div>源自拉丁语 volatilis「能飞的；易消散的」，财经中指价格剧烈波动</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财经高频：volatile market（波动市场）；volatile prices（波动价格）；名词 volatility（波动性）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a volatile market（波动市场）</span><span class="chip">volatile prices（波动价格）</span><span class="chip">highly volatile（高度波动的）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Investors remain cautious because of the volatile currency market.</en>
+          <zh>由于汇市波动剧烈，投资者仍保持谨慎。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
