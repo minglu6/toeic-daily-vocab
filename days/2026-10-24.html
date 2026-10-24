@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 10/24 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.10.24</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">severance</span>
+        <span class="ipa">/ˈsevərəns/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">遣散费；解雇补偿；切断</div>
+        <div class="label">词根</div><div>sever（切断）+ -ance → 切断关系/离职补偿</div>
+        <div class="label">词源</div><div>源自拉丁语 separare「分开」，经法语进入英语，职场专指离职时的经济补偿</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：severance pay（遣散费）；severance package（离职补偿方案）；receive severance（领取遣散费）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">severance pay（遣散费）</span><span class="chip">a severance package（离职补偿方案）</span><span class="chip">negotiate severance（协商遣散条件）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Employees laid off in the restructuring will receive six months of severance pay.</en>
+          <zh>因重组被裁的员工将获得六个月的遣散费。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">stakeholder</span>
+        <span class="ipa">/ˈsteɪkˌhoʊldər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">利益相关方；干系人</div>
+        <div class="label">词根</div><div>stake（利害关系）+ holder（持有者）</div>
+        <div class="label">词源</div><div>原指「持有赌注的人」，后引申为对项目或公司有利益关联的各方</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/项目高频：key stakeholders（关键利益相关方）；stakeholder meeting（干系人会议）；engage stakeholders（与利益相关方沟通）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">key stakeholders（关键利益相关方）</span><span class="chip">a stakeholder meeting（干系人会议）</span><span class="chip">engage stakeholders（与利益相关方沟通）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The project lead invited all key stakeholders to review the launch timeline.</en>
+          <zh>项目负责人邀请所有关键干系人审阅上线时间表。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">subsidy</span>
+        <span class="ipa">/ˈsʌbsədi/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">补贴；补助金；津贴</div>
+        <div class="label">词根</div><div>sub-（在下）+ sid（坐）→ 坐在下面支持 → 补贴</div>
+        <div class="label">词源</div><div>源自拉丁语 subsidium「援助、后备」，指政府或机构给予的经济支持</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财经高频：government subsidy（政府补贴）；export subsidy（出口补贴）；qualify for a subsidy（符合补贴资格）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a government subsidy（政府补贴）</span><span class="chip">receive a subsidy（领取补助）</span><span class="chip">cut subsidies（削减补贴）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Small farms may apply for an energy subsidy to install solar panels.</en>
+          <zh>小型农场可申请能源补贴以安装太阳能板。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">termination</span>
+        <span class="ipa">/ˌtɜːrməˈneɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">终止；解雇；期满结束</div>
+        <div class="label">词根</div><div>termin（边界/终点）+ -ation → 到达终点</div>
+        <div class="label">词源</div><div>源自拉丁语 terminus「界限、终点」，合同与 HR 语境中指正式结束雇佣或协议</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/HR 高频：contract termination（合同终止）；termination notice（解雇通知）；early termination（提前终止）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">contract termination（合同终止）</span><span class="chip">a termination notice（解雇通知）</span><span class="chip">early termination（提前终止）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Either party may request early termination with thirty days' written notice.</en>
+          <zh>任何一方可提前三十天书面通知要求提前终止合同。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">throughput</span>
+        <span class="ipa">/ˈθruːpʊt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">吞吐量；产能；处理量</div>
+        <div class="label">词根</div><div>through（穿过）+ put（投入）→ 单位时间内通过的量</div>
+        <div class="label">词源</div><div>20 世纪工业与计算机用语，指系统在单位时间内处理或产出的量</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">运营/物流高频：increase throughput（提高吞吐量）；production throughput（生产产能）；network throughput（网络吞吐量）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">increase throughput（提高吞吐量）</span><span class="chip">production throughput（生产产能）</span><span class="chip">measure throughput（衡量处理量）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The new conveyor system increased warehouse throughput by twenty percent.</en>
+          <zh>新传送带系统将仓库吞吐量提高了百分之二十。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">tier</span>
+        <span class="ipa">/tɪr/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">层级；档次；等级</div>
+        <div class="label">词根</div><div>本义「排、层」，引申为服务或价格的分级</div>
+        <div class="label">词源</div><div>源自古法语 tire「行列、顺序」，现多用于会员、服务或供应链的分层</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销/采购高频：tiered pricing（分级定价）；top-tier supplier（顶级供应商）；second-tier market（二线市场）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">tiered pricing（分级定价）</span><span class="chip">a top-tier supplier（顶级供应商）</span><span class="chip">a three-tier system（三级体系）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The SaaS plan uses tiered pricing based on the number of active users.</en>
+          <zh>该软件即服务方案按活跃用户数采用分级定价。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">timeline</span>
+        <span class="ipa">/ˈtaɪmlaɪn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">时间表；进度线；时间轴</div>
+        <div class="label">词根</div><div>time（时间）+ line（线）</div>
+        <div class="label">词源</div><div>20 世纪合成词，指按时间顺序排列的事件或任务节点</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/项目高频：project timeline（项目时间表）；tight timeline（紧张的工期）；meet the timeline（赶上时间节点）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a project timeline（项目时间表）</span><span class="chip">a tight timeline（紧张的工期）</span><span class="chip">adjust the timeline（调整时间表）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please share an updated timeline before Friday's steering committee.</en>
+          <zh>请在周五指导委员会会议前分享更新后的时间表。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">underwrite</span>
+        <span class="ipa">/ˌʌndərˈraɪt/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">承保；包销（证券）；担保资助</div>
+        <div class="label">词根</div><div>under（在下）+ write（签署）→ 在下方签字承担责任</div>
+        <div class="label">词源</div><div>源自保险商在保单下方签字承诺风险，后扩展至证券承销与活动赞助</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">金融/保险高频：underwrite a policy（承保保单）；underwrite a loan（担保贷款）；insurance underwriting（保险核保）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">underwrite a policy（承保保单）</span><span class="chip">underwrite a loan（担保贷款）</span><span class="chip">an underwriting fee（承销/核保费用）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The bank refused to underwrite the loan without additional collateral.</en>
+          <zh>银行在没有额外抵押的情况下拒绝承保这笔贷款。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">upfront</span>
+        <span class="ipa">/ˌʌpˈfrʌnt/</span>
+        <span class="pos">adj./adv.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">预付的；事先的；坦率的</div>
+        <div class="label">词根</div><div>up（向上）+ front（前面）→ 事先、当面</div>
+        <div class="label">词源</div><div>原指「在前面」，商业英语中常指预先支付或事先说明</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务/财务高频：upfront payment（预付款）；upfront cost（前期成本）；be upfront about（对……坦诚）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an upfront payment（预付款）</span><span class="chip">upfront costs（前期成本）</span><span class="chip">be upfront about（对……坦诚）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The vendor requires a thirty percent upfront payment before production begins.</en>
+          <zh>供应商要求在开工前支付百分之三十的预付款。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">upstream</span>
+        <span class="ipa">/ˌʌpˈstriːm/</span>
+        <span class="pos">adj./adv.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">上游的；逆向的；源头端</div>
+        <div class="label">词根</div><div>up（向上）+ stream（溪流）→ 朝向源头</div>
+        <div class="label">词源</div><div>本义「逆流向上」，供应链与能源行业指靠近原材料或源头的环节</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">供应链/能源高频：upstream supplier（上游供应商）；upstream operations（上游业务）；move upstream（向产业链上游延伸）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an upstream supplier（上游供应商）</span><span class="chip">upstream operations（上游业务）</span><span class="chip">solve it upstream（在上游解决）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Quality issues must be fixed upstream to avoid costly rework later.</en>
+          <zh>质量问题必须在上游解决，以免日后昂贵的返工。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">verification</span>
+        <span class="ipa">/ˌverɪfɪˈkeɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">核实；验证；核验</div>
+        <div class="label">词根</div><div>veri（真实）+ fic（做）+ -ation → 使成真/核实</div>
+        <div class="label">词源</div><div>源自拉丁语 verus「真实」，指确认信息、身份或数据是否正确</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公/合规高频：identity verification（身份核验）；address verification（地址核实）；pending verification（待核实）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">identity verification（身份核验）</span><span class="chip">require verification（需要核实）</span><span class="chip">complete verification（完成验证）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Account access is locked until identity verification is complete.</en>
+          <zh>在身份核验完成前，账户访问将被锁定。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">vertical</span>
+        <span class="ipa">/ˈvɜːrtɪkl/</span>
+        <span class="pos">adj./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">垂直的；纵向的；（行业）垂直领域</div>
+        <div class="label">词根</div><div>vert（转）+ -ical → 直立的</div>
+        <div class="label">词源</div><div>源自拉丁语 vertex「顶点」，商业中常指某一垂直行业或纵向整合</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务/营销高频：vertical market（垂直市场）；vertical integration（纵向整合）；industry vertical（行业垂直领域）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a vertical market（垂直市场）</span><span class="chip">vertical integration（纵向整合）</span><span class="chip">an industry vertical（行业垂直领域）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The startup focuses on one vertical: healthcare logistics software.</en>
+          <zh>这家初创公司专注于一个垂直领域：医疗物流软件。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">visa</span>
+        <span class="ipa">/ˈviːzə/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">签证</div>
+        <div class="label">词根</div><div>源自拉丁语 visa「已查看的（文件）」</div>
+        <div class="label">词源</div><div>原为法语「已审阅」，指护照上表示获准入境的签注</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅高频：apply for a visa（申请签证）；work visa（工作签证）；visa application（签证申请）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">apply for a visa（申请签证）</span><span class="chip">a work visa（工作签证）</span><span class="chip">visa requirements（签证要求）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Staff traveling to the regional office must renew their work visas in advance.</en>
+          <zh>前往区域办事处的员工必须提前续签工作签证。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">collateral</span>
+        <span class="ipa">/kəˈlætərəl/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">抵押品；担保物；附属的</div>
+        <div class="label">词根</div><div>col-（一起）+ later（边）→ 并列/附属 → 担保物</div>
+        <div class="label">词源</div><div>源自拉丁语 collateralis「并肩的」，金融中指贷款时质押的资产</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">金融高频：provide collateral（提供抵押）；secure a loan with collateral（以抵押担保贷款）；collateral damage（附带损害）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">provide collateral（提供抵押）</span><span class="chip">use property as collateral（以房产作抵押）</span><span class="chip">insufficient collateral（抵押不足）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The borrower offered commercial property as collateral for the expansion loan.</en>
+          <zh>借款人以商业地产作为扩建贷款的抵押。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">endorsement</span>
+        <span class="ipa">/ɪnˈdɔːrsmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">背书；认可；代言；批注</div>
+        <div class="label">词根</div><div>en-（使）+ dors（背）+ -ment → 在背面签字</div>
+        <div class="label">词源</div><div>源自「在票据背面签字」，后引申为公开支持、保险批单或明星代言</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/营销高频：product endorsement（产品代言）；require endorsement（需要背书/批准）；policy endorsement（保单批单）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a product endorsement（产品代言）</span><span class="chip">an official endorsement（官方认可）</span><span class="chip">seek endorsement（寻求背书）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The campaign features a celebrity endorsement of the new skincare line.</en>
+          <zh>该营销活动以明星代言新品护肤系列为亮点。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">payable</span>
+        <span class="ipa">/ˈpeɪəbl/</span>
+        <span class="pos">adj./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">应付的；应付款</div>
+        <div class="label">词根</div><div>pay（支付）+ -able（可……的）→ 应付的</div>
+        <div class="label">词源</div><div>会计术语，指企业欠供应商或债权人、尚未支付的款项</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：accounts payable（应付账款）；notes payable（应付票据）；amount payable（应付金额）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">accounts payable（应付账款）</span><span class="chip">a payable invoice（应付发票）</span><span class="chip">taxes payable（应交税费）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please send all supplier invoices to accounts payable by month-end.</en>
+          <zh>请在月底前将所有供应商发票寄至应付账款部门。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">receivable</span>
+        <span class="ipa">/rɪˈsiːvəbl/</span>
+        <span class="pos">adj./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">应收的；应收账款</div>
+        <div class="label">词根</div><div>receive（收取）+ -able → 应收的</div>
+        <div class="label">词源</div><div>与 payable 相对，指客户欠企业、尚未收回的款项</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：accounts receivable（应收账款）；collect receivables（催收应收款）；outstanding receivables（未收账款）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">accounts receivable（应收账款）</span><span class="chip">collect receivables（催收应收款）</span><span class="chip">aging receivables（账龄分析中的应收款）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Cash flow improved after the team accelerated collection of overdue receivables.</en>
+          <zh>团队加快催收逾期应收款后，现金流有所改善。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">retainer</span>
+        <span class="ipa">/rɪˈteɪnər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">聘用定金；顾问费；保持器</div>
+        <div class="label">词根</div><div>retain（保留）+ -er → 为保留服务而付的费用</div>
+        <div class="label">词源</div><div>源自「留住某人」，法律与咨询业指预先支付以锁定专业服务的费用</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">法务/咨询高频：pay a retainer（支付聘用定金）；monthly retainer（月度顾问费）；on retainer（受聘待命）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">pay a retainer（支付聘用定金）</span><span class="chip">a monthly retainer（月度顾问费）</span><span class="chip">keep counsel on retainer（常年聘用律师）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The firm keeps a tax attorney on retainer for quarterly compliance reviews.</en>
+          <zh>公司常年聘用税务律师做季度合规审查。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">royalty</span>
+        <span class="ipa">/ˈrɔɪəlti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">版税；特许权使用费；皇室</div>
+        <div class="label">词根</div><div>royal（王室的）+ -ty → 原指王室特权，后指使用费</div>
+        <div class="label">词源</div><div>原指王室身份或特权；商业中指使用专利、版权或品牌所付的费用</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/知识产权高频：pay royalties（支付版税）；royalty rate（版税率）；licensing royalties（许可使用费）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">pay royalties（支付版税）</span><span class="chip">a royalty rate（版税率）</span><span class="chip">licensing royalties（许可使用费）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Authors earn royalties based on each copy sold through the publisher.</en>
+          <zh>作者按出版商售出的每册书获得版税。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">arbitration</span>
+        <span class="ipa">/ˌɑːrbɪˈtreɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">仲裁；公断</div>
+        <div class="label">词根</div><div>arbitr（仲裁者）+ -ation → 由仲裁者裁决</div>
+        <div class="label">词源</div><div>源自拉丁语 arbiter「裁决者」，指不经法院诉讼而由中立第三方解决争议</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/法律高频：binding arbitration（有约束力的仲裁）；arbitration clause（仲裁条款）；submit to arbitration（提交仲裁）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">binding arbitration（有约束力的仲裁）</span><span class="chip">an arbitration clause（仲裁条款）</span><span class="chip">go to arbitration（进入仲裁）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Disputes under this contract must first go to binding arbitration.</en>
+          <zh>本合同项下争议须首先进入有约束力的仲裁。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">bylaws</span>
+        <span class="ipa">/ˈbaɪlɔːz/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">公司章程细则；内部规章</div>
+        <div class="label">词根</div><div>by-（次要/附属）+ laws（法规）→ 内部细则</div>
+        <div class="label">词源</div><div>中古英语中指地方或组织的附属法规，现多指公司内部治理规则</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公司治理高频：corporate bylaws（公司章程细则）；amend the bylaws（修订章程细则）；according to the bylaws（依照章程）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">corporate bylaws（公司章程细则）</span><span class="chip">amend the bylaws（修订章程细则）</span><span class="chip">violate the bylaws（违反内部规章）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The board voted to amend the bylaws on director term limits.</en>
+          <zh>董事会表决修订了有关董事任期限制的章程细则。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">covenant</span>
+        <span class="ipa">/ˈkʌvənənt/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">契约条款；承诺；立约</div>
+        <div class="label">词根</div><div>源自拉丁语 convenire「走到一起、约定」</div>
+        <div class="label">词源</div><div>原指庄严约定；贷款与租赁合同中指双方必须遵守的承诺条款</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/贷款高频：loan covenant（贷款契约条款）；breach a covenant（违反契约）；restrictive covenant（限制性条款）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a loan covenant（贷款契约条款）</span><span class="chip">breach a covenant（违反契约）</span><span class="chip">a restrictive covenant（限制性条款）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Failing to meet the debt covenant could trigger an immediate repayment demand.</en>
+          <zh>未能满足债务契约条款可能触发立即还款要求。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">indemnify</span>
+        <span class="ipa">/ɪnˈdemnɪfaɪ/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">赔偿；使免受损失；保障</div>
+        <div class="label">词根</div><div>in-（不）+ damn（损害）+ -ify → 使不受损害</div>
+        <div class="label">词源</div><div>源自拉丁语 indemnis「未受损」，合同中指承诺补偿对方损失</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同高频：indemnify against losses（赔偿损失）；agree to indemnify（同意赔偿）；indemnify and hold harmless（赔偿并使之免责）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">indemnify against losses（赔偿损失）</span><span class="chip">agree to indemnify（同意赔偿）</span><span class="chip">indemnify the client（保障客户免受损失）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The contractor agreed to indemnify the client against third-party claims.</en>
+          <zh>承包商同意就第三方索赔向客户作出赔偿。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">affidavit</span>
+        <span class="ipa">/ˌæfəˈdeɪvɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">宣誓书；书面证词</div>
+        <div class="label">词根</div><div>拉丁语 affidare「宣誓保证」的第三人称形式</div>
+        <div class="label">词源</div><div>源自中世纪拉丁语，指经宣誓确认真实性的书面陈述，可作证据使用</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">法律/行政高频：sign an affidavit（签署宣誓书）；submit an affidavit（提交宣誓书）；sworn affidavit（经宣誓的书面证词）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">sign an affidavit（签署宣誓书）</span><span class="chip">submit an affidavit（提交宣誓书）</span><span class="chip">a sworn affidavit（经宣誓的书面证词）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>HR asked the employee to sign an affidavit confirming the expense report.</en>
+          <zh>人力资源部要求该员工签署宣誓书以确认费用报销单。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">briefing</span>
+        <span class="ipa">/ˈbriːfɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">简报；情况通报；行前说明</div>
+        <div class="label">词根</div><div>brief（简短）+ -ing → 简要说明</div>
+        <div class="label">词源</div><div>源自 brief「简短的」，指向参会者或团队快速传达关键信息</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议高频：morning briefing（晨会简报）；security briefing（安全通报）；give a briefing（做简报）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a morning briefing（晨会简报）</span><span class="chip">give a briefing（做简报）</span><span class="chip">a pre-departure briefing（行前说明会）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The CEO will give a short briefing on Q4 priorities at 9 a.m.</en>
+          <zh>首席执行官将在上午九时就第四季度重点做简短通报。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">moderator</span>
+        <span class="ipa">/ˈmɑːdəreɪtər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">主持人；协调人；版主</div>
+        <div class="label">词根</div><div>moderate（使缓和）+ -or → 调节会议节奏的人</div>
+        <div class="label">词源</div><div>源自拉丁语 moderari「控制、调节」，指主持讨论并维持秩序的人</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议高频：panel moderator（论坛主持人）；act as moderator（担任主持）；forum moderator（论坛版主）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a panel moderator（论坛主持人）</span><span class="chip">act as moderator（担任主持）</span><span class="chip">thank the moderator（感谢主持人）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please introduce yourselves briefly when the moderator calls on you.</en>
+          <zh>当主持人点到你时，请简短自我介绍。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">quorum</span>
+        <span class="ipa">/ˈkwɔːrəm/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">法定人数；开会最低出席人数</div>
+        <div class="label">词根</div><div>拉丁语 quorum「其中的哪些人」→ 有效议事所需人数</div>
+        <div class="label">词源</div><div>源自拉丁语关系代词，指构成有效会议或表决所必需的最低出席人数</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公司治理/会议高频：reach a quorum（达到法定人数）；lack a quorum（不足法定人数）；quorum requirement（法定人数要求）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reach a quorum（达到法定人数）</span><span class="chip">lack a quorum（不足法定人数）</span><span class="chip">a quorum of directors（董事法定人数）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The vote was postponed because the board lacked a quorum.</en>
+          <zh>因董事会未达法定人数，表决被推迟。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">reconvene</span>
+        <span class="ipa">/ˌriːkənˈviːn/</span>
+        <span class="pos">v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">重新召开；再集会</div>
+        <div class="label">词根</div><div>re-（再次）+ convene（召集）</div>
+        <div class="label">词源</div><div>由 re- 与 convene 组成，指休会或中断后再召开会议</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议高频：reconvene after lunch（午餐后复会）；reconvene the meeting（重新召开会议）；the committee will reconvene（委员会将复会）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reconvene after lunch（午餐后复会）</span><span class="chip">reconvene the meeting（重新召开会议）</span><span class="chip">reconvene next week（下周复会）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We will recess for fifteen minutes and reconvene at 2:30.</en>
+          <zh>我们将休会十五分钟，并在两点半复会。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">spokesperson</span>
+        <span class="ipa">/ˈspoʊkspɜːrsn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">发言人；代言人</div>
+        <div class="label">词根</div><div>spoke（说过的话）+ person → 代表发言的人</div>
+        <div class="label">词源</div><div>20 世纪中性词，替代 spokesman/spokeswoman，指官方对外发声者</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公关高频：company spokesperson（公司发言人）；official spokesperson（官方发言人）；speak through a spokesperson（通过发言人发声）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a company spokesperson（公司发言人）</span><span class="chip">an official spokesperson（官方发言人）</span><span class="chip">issue a statement via a spokesperson（通过发言人发表声明）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>A company spokesperson declined to comment on the merger talks.</en>
+          <zh>公司发言人拒绝对并购谈判置评。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">teleconference</span>
+        <span class="ipa">/ˈtelikɑːnfərəns/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">电话会议；远程会议</div>
+        <div class="label">词根</div><div>tele-（远距离）+ conference（会议）</div>
+        <div class="label">词源</div><div>20 世纪合成词，指通过电话或网络进行的远程会议</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/差旅高频：hold a teleconference（召开电话会议）；join a teleconference（加入远程会议）；schedule a teleconference（安排电话会议）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">hold a teleconference（召开电话会议）</span><span class="chip">join a teleconference（加入远程会议）</span><span class="chip">a weekly teleconference（每周电话会议）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Regional managers will join the weekly teleconference from their branch offices.</en>
+          <zh>区域经理将从各自分公司加入每周电话会议。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
