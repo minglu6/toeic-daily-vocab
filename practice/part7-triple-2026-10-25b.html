@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#ffffff" />
+<title>TOEIC Part 7 · Triple · 2026-10-25b</title>
+<style>
+  @page { margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: #cfc9be;
+    color: #000;
+    font-family: "Times New Roman", Times, "Times N R", "Nimbus Roman", "Liberation Serif", "Noto Serif CJK SC", "Songti SC", serif;
+    font-size: 15px;
+    line-height: 1.35;
+  }
+  .sheet {
+    max-width: 680px;
+    margin: 0 auto;
+    background: #fff;
+    min-height: 100vh;
+    padding: 16px 14px calc(32px + env(safe-area-inset-bottom));
+    border-left: 1px solid #aaa;
+    border-right: 1px solid #aaa;
+  }
+  @media (min-width: 720px) {
+    body { padding: 18px 0 28px; }
+    .sheet {
+      min-height: auto;
+      padding: 26px 34px 36px;
+      box-shadow: 0 1px 6px rgba(0,0,0,.15);
+      border: 0;
+    }
+  }
+  /* ETS-like: sans for chrome / directions / questions */
+  .sans, .header, .dir, .doc-label, .q, .stem, .opt, .actions, .btn, .score, .note,
+  .explain h2, .explain .ans, .explain .qzh, .explain .opts-zh, .field {
+    font-family: Arial, Helvetica, "Helvetica Neue", "Nimbus Sans", "Liberation Sans", "PingFang SC", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif;
+  }
+  .header {
+    border-bottom: 2px solid #000;
+    padding-bottom: 7px;
+    margin-bottom: 12px;
+  }
+  .header .part {
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+  }
+  .header .meta {
+    font-size: 11px;
+    margin-top: 3px;
+    color: #222;
+  }
+  .header .back {
+    display: inline-block;
+    margin-top: 7px;
+    font-size: 11px;
+    color: #222;
+    text-decoration: underline;
+  }
+  .dir {
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 400;
+    margin: 0 0 12px;
+  }
+  .doc-label {
+    font-size: 11px;
+    font-weight: 700;
+    margin: 14px 0 5px;
+    letter-spacing: .02em;
+  }
+  .doc-label:first-of-type { margin-top: 0; }
+  /* Passage boxes like printed inserts */
+  .email, .notice, .web, .sched {
+    border: 1px solid #000;
+    padding: 10px 11px 12px;
+    margin-bottom: 8px;
+    background: #fff;
+  }
+  .field {
+    font-size: 12px;
+    line-height: 1.4;
+    margin-bottom: 1px;
+    word-break: break-word;
+  }
+  .field b { font-weight: 700; }
+  .subj {
+    margin-top: 3px;
+    padding-bottom: 7px;
+    border-bottom: 1px solid #666;
+    margin-bottom: 9px;
+  }
+  /* Passage body = Times (exam reading text) */
+  .body {
+    font-family: "Times New Roman", Times, "Liberation Serif", "Noto Serif CJK SC", "Songti SC", serif;
+    font-size: 14.5px;
+    line-height: 1.38;
+  }
+  .body p { margin: 0 0 8px; }
+  .body p:last-child { margin-bottom: 0; }
+  .notice h3, .web h3, .sched h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    line-height: 1.3;
+  }
+  .notice .meta, .web .url {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #222;
+    margin-bottom: 8px;
+  }
+  .web .url {
+    font-family: "Courier New", Courier, "Liberation Mono", monospace;
+    word-break: break-all;
+  }
+  .notice ul, .web ul {
+    padding-left: 1.15em;
+    margin: 0 0 7px;
+    font-family: "Times New Roman", Times, "Liberation Serif", serif;
+    font-size: 14.5px;
+  }
+  .notice li, .web li { margin-bottom: 3px; }
+  table.sched-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+  }
+  table.sched-table th, table.sched-table td {
+    border: 1px solid #000;
+    padding: 5px 6px;
+    text-align: left;
+    vertical-align: top;
+  }
+  table.sched-table th {
+    background: #e6e6e6;
+    font-weight: 700;
+  }
+  /* Questions: booklet hanging indent */
+  .q {
+    margin: 14px 0 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+  }
+  .stem {
+    font-size: 13px;
+    font-weight: 700;
+    margin-bottom: 4px;
+    line-height: 1.35;
+  }
+  .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    font-size: 12.5px;
+    font-weight: 400;
+    line-height: 1.4;
+    padding: 3px 2px 3px 1.6em;
+    text-indent: -1.35em;
+    margin-bottom: 1px;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    color: #000;
+    cursor: pointer;
+    -webkit-tap-highlight-color: rgba(0,0,0,.08);
+  }
+  .opt.picked { background: #e8e8e8; }
+  .opt.correct { background: #d9e6d9; }
+  .opt.wrong { background: #efd9d9; }
+  .opt:disabled { cursor: default; opacity: 1; }
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 18px 0 8px;
+  }
+  .btn {
+    font-size: 12px;
+    padding: 9px 12px;
+    border: 1px solid #000;
+    border-radius: 0;
+    background: #fff;
+    color: #000;
+    cursor: pointer;
+  }
+  .btn.primary { background: #000; color: #fff; }
+  .score {
+    font-size: 12px;
+    color: #222;
+    margin-bottom: 8px;
+    min-height: 1.1em;
+  }
+  .explain {
+    display: none;
+    border: 1px solid #000;
+    padding: 12px 11px;
+    margin-top: 8px;
+    background: #f7f7f7;
+  }
+  .explain.show { display: block; }
+  .explain h2 {
+    font-size: 13px;
+    font-weight: 700;
+    margin: 14px 0 7px;
+  }
+  .explain h2:first-child { margin-top: 0; }
+  .explain .zh {
+    font-family: "Times New Roman", Times, "Noto Serif CJK SC", "Songti SC", serif;
+    font-size: 13.5px;
+    line-height: 1.4;
+    margin-bottom: 8px;
+  }
+  .explain .zh p { margin: 0 0 7px; }
+  .explain .item {
+    margin-bottom: 12px;
+    font-family: "Times New Roman", Times, "Noto Serif CJK SC", "Songti SC", serif;
+    font-size: 13.5px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #bbb;
+  }
+  .explain .item:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: 0; }
+  .explain .ans {
+    font-size: 12.5px;
+    font-weight: 700;
+    margin-bottom: 3px;
+  }
+  .explain .qzh {
+    font-size: 12px;
+    color: #222;
+    margin-bottom: 5px;
+  }
+  .explain .opts-zh {
+    font-size: 12px;
+    line-height: 1.45;
+    margin: 0 0 5px;
+    padding: 7px 8px;
+    background: #ececec;
+    border: 1px solid #bbb;
+  }
+  .note {
+    margin-top: 14px;
+    font-size: 11px;
+    color: #444;
+  }
+
+
+  .timer-bar {
+    font-family: Arial, Helvetica, "Helvetica Neue", sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 8px 14px;
+    border: 1px solid #000;
+    background: #f3f3f3;
+    padding: 8px 10px;
+    margin: 0 0 12px;
+    font-size: 12px;
+    line-height: 1.35;
+  }
+  .timer-bar .clock {
+    font-variant-numeric: tabular-nums;
+    font-weight: 700;
+    font-size: 15px;
+    letter-spacing: .02em;
+  }
+  .timer-bar .rec { color: #222; font-size: 11px; flex: 1 1 180px; }
+  .timer-bar .status { color: #222; }
+  .timer-bar.over {
+    background: #f5e8e8;
+    border-color: #000;
+  }
+  .timer-bar.over .status { font-weight: 700; }
+  .timer-bar .btn-timer {
+    margin-left: auto;
+    font-size: 11px;
+    padding: 4px 8px;
+    border: 1px solid #000;
+    background: #fff;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+</style>
+</head>
+<body>
+  <div class="sheet">
+        <div class="header">
+      <div class="part">READING TEST · PART 7</div>
+      <div class="meta">Questions 196–200 · Triple passage · Practice (not official ETS content)</div>
+      <a class="back" href="../index.html">← 回单词首页</a>
+    </div>
+    <div class="timer-bar" id="timerBar" data-rec-sec="225">
+      <span>用时 <span class="clock" id="timerClock">00:00</span></span>
+      <span class="rec">官方折算 3:45（75分/100题 × 5题；ETS未公布单套推荐）</span>
+      <span class="status" id="timerStatus">计时中</span>
+      <button type="button" class="btn-timer" id="timerPause">暂停</button>
+    </div>
+    <p class="dir">Questions 196–200 refer to the following e-mail, web page, and schedule.</p>
+
+    <div class="doc-label">Document 1 · E-mail</div>
+    <article class="email">
+      <div class="field"><b>From</b> Mara Chen, Logistics, Apex Components</div>
+      <div class="field"><b>To</b> Jonah Ruiz, Project Coordinator, Brightline Electronics</div>
+      <div class="field"><b>Date</b> October 24</div>
+      <div class="field subj"><b>Subject</b> Update on PO-44821 — revised delivery</div>
+      <div class="body">
+        <p>Jonah,</p>
+        <p>I am writing about the 12 display panels under purchase order PO-44821. Customs selected the shipment for a routine inspection in Seattle, so we must revise the delivery date from Tuesday, October 27, to Friday, October 30.</p>
+        <p>The panels will still arrive in time for your November 3 product launch if the lobby installation can shift by three days. Please confirm whether that works for your team.</p>
+        <p>If you need the panels earlier, you may request our free expedited ground upgrade (see our shipping page). Requests must be submitted by 3:00 p.m. on the business day before the original delivery date.</p>
+        <p>Regards,<br>Mara Chen</p>
+      </div>
+    </article>
+
+    <div class="doc-label">Document 2 · Web page</div>
+    <article class="web">
+      <h3>Apex Components · Shipping &amp; Tracking</h3>
+      <div class="url">www.apexcomponents.com/shipping</div>
+      <div class="body">
+        <ul>
+          <li><strong>Standard ground:</strong> 5–7 business days</li>
+          <li><strong>Expedited ground:</strong> 2–3 business days. A free upgrade is offered only when Apex causes a delay of two or more days.</li>
+          <li><strong>Customs holds:</strong> Typical release within 48–72 hours. Apex notifies customers within one business day of any hold.</li>
+          <li><strong>To request an expedited upgrade:</strong> e-mail logistics@apexcomponents.com by 3:00 p.m. on the business day before the originally scheduled delivery date. Same-day requests are not accepted.</li>
+        </ul>
+        <p><strong>Tracking — PO-44821</strong><br>
+        Status: Customs hold (Seattle) · Expected release: Oct 28 · Revised ETA to Brightline warehouse: Oct 30</p>
+      </div>
+    </article>
+
+    <div class="doc-label">Document 3 · Schedule</div>
+    <article class="sched">
+      <h3>Brightline Electronics · Lobby Display Installation Plan</h3>
+      <div class="body">
+        <p>Week of October 26</p>
+        <table class="sched-table">
+          <thead>
+            <tr><th>Date</th><th>Task</th><th>Owner</th><th>Notes</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Oct 26 (Mon)</td><td>Clear east lobby</td><td>Facilities</td><td>Must finish before panels arrive</td></tr>
+            <tr><td>Oct 27 (Tue)</td><td>Receive panels · Stage in warehouse</td><td>Receiving</td><td>Original delivery date</td></tr>
+            <tr><td>Oct 28 (Wed)</td><td>Install 12 panels in east lobby</td><td>AV Team</td><td>Requires panels on site</td></tr>
+            <tr><td>Oct 29 (Thu)</td><td>System test &amp; photo shoot</td><td>Marketing</td><td></td></tr>
+            <tr><td>Oct 30 (Fri)</td><td>Final walkthrough with executives</td><td>Jonah Ruiz</td><td></td></tr>
+            <tr><td>Nov 3 (Mon)</td><td>Product launch event</td><td>All</td><td>Lobby displays must be live</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </article>
+
+    <div class="q" data-q="196" data-ans="B">
+      <div class="stem">196. Why did Mara Chen write to Jonah Ruiz?</div>
+      <button type="button" class="opt" data-v="A">(A) To cancel purchase order PO-44821</button>
+      <button type="button" class="opt" data-v="B">(B) To report a revised delivery date for the display panels</button>
+      <button type="button" class="opt" data-v="C">(C) To ask Brightline to inspect the shipment in Seattle</button>
+      <button type="button" class="opt" data-v="D">(D) To confirm that the November 3 launch has been postponed</button>
+    </div>
+    <div class="q" data-q="197" data-ans="C">
+      <div class="stem">197. In the e-mail, the word “revise” in paragraph 1, line 2, is closest in meaning to</div>
+      <button type="button" class="opt" data-v="A">(A) reverse</button>
+      <button type="button" class="opt" data-v="B">(B) reprint</button>
+      <button type="button" class="opt" data-v="C">(C) change</button>
+      <button type="button" class="opt" data-v="D">(D) delay</button>
+    </div>
+    <div class="q" data-q="198" data-ans="B">
+      <div class="stem">198. Based on the e-mail and the schedule, which planned task is most directly affected by the delay?</div>
+      <button type="button" class="opt" data-v="A">(A) Clear east lobby on October 26</button>
+      <button type="button" class="opt" data-v="B">(B) Install 12 panels in east lobby on October 28</button>
+      <button type="button" class="opt" data-v="C">(C) Product launch event on November 3</button>
+      <button type="button" class="opt" data-v="D">(D) System test &amp; photo shoot on October 29</button>
+    </div>
+    <div class="q" data-q="199" data-ans="D">
+      <div class="stem">199. What is the latest time Jonah can request the free expedited upgrade?</div>
+      <button type="button" class="opt" data-v="A">(A) 3:00 p.m. on October 24</button>
+      <button type="button" class="opt" data-v="B">(B) 5:00 p.m. on October 26</button>
+      <button type="button" class="opt" data-v="C">(C) 3:00 p.m. on October 27</button>
+      <button type="button" class="opt" data-v="D">(D) 3:00 p.m. on October 26</button>
+    </div>
+    <div class="q" data-q="200" data-ans="A">
+      <div class="stem">200. What can be concluded from the three documents?</div>
+      <button type="button" class="opt" data-v="A">(A) Shifting the October 28 installation by three days would still leave time before the November 3 launch.</button>
+      <button type="button" class="opt" data-v="B">(B) The Receiving team will stage the panels on October 27 as listed.</button>
+      <button type="button" class="opt" data-v="C">(C) Apex has already applied the free expedited upgrade to PO-44821.</button>
+      <button type="button" class="opt" data-v="D">(D) The east lobby must be cleared after the panels arrive.</button>
+    </div>
+
+    <div class="actions">
+      <button type="button" class="btn primary" id="check">核对答案</button>
+      <button type="button" class="btn" id="reset">重做</button>
+      <button type="button" class="btn" id="toggleExplain">中文解析</button>
+    </div>
+    <p class="score" id="score"></p>
+
+    <div class="explain" id="explain">
+      <h2>全文译文 · 邮件</h2>
+      <div class="zh">
+        <p><strong>发件人：</strong>Mara Chen，物流部，Apex Components<br>
+        <strong>收件人：</strong>Jonah Ruiz，项目协调员，Brightline Electronics<br>
+        <strong>日期：</strong>10 月 24 日<br>
+        <strong>主题：</strong>关于 PO-44821 的更新——交货日期已修订</p>
+        <p>Jonah：</p>
+        <p>我写信是关于采购订单 PO-44821 下的 12 块显示面板。海关在西雅图抽中这批货做例行查验，因此我们必须把交货日期从 10 月 27 日（周二）修订为 10 月 30 日（周五）。</p>
+        <p>若大堂安装能顺延三天，面板仍赶得上你们 11 月 3 日的产品发布。请确认贵团队是否可行。</p>
+        <p>若你们需要更早收到面板，可申请我们的免费加急陆运升级（详见运输网页）。申请须在原定交货日前一个工作日下午 3:00 前提交。</p>
+        <p>此致<br>Mara Chen</p>
+      </div>
+
+      <h2>全文译文 · 网页</h2>
+      <div class="zh">
+        <p><strong>Apex Components · 运输与追踪</strong><br>
+        www.apexcomponents.com/shipping</p>
+        <p>· <strong>标准陆运：</strong>5–7 个工作日<br>
+        · <strong>加急陆运：</strong>2–3 个工作日。仅当 Apex 导致延误达两天或以上时，才提供免费升级。<br>
+        · <strong>海关扣留：</strong>通常 48–72 小时内放行。出现扣留时，Apex 会在一个工作日内通知客户。<br>
+        · <strong>申请加急升级：</strong>请在原定交货日前一个工作日下午 3:00 前发邮件至 logistics@apexcomponents.com。不接受当天申请。</p>
+        <p><strong>追踪 — PO-44821</strong><br>
+        状态：海关扣留（西雅图）· 预计放行：10 月 28 日 · 修订后预计到达 Brightline 仓库：10 月 30 日</p>
+      </div>
+
+      <h2>全文译文 · 日程表</h2>
+      <div class="zh">
+        <p><strong>Brightline Electronics · 大堂显示屏安装计划</strong><br>
+        10 月 26 日当周</p>
+        <p>· 10/26（周一）清理东侧大堂 — 设施部 — 须在面板到达前完成<br>
+        · 10/27（周二）收货并在仓库暂存 — 收货组 — 原定交货日<br>
+        · 10/28（周三）在东侧大堂安装 12 块面板 — AV 团队 — 须面板已到现场<br>
+        · 10/29（周四）系统测试与拍照 — 市场部<br>
+        · 10/30（周五）与高管最终现场检查 — Jonah Ruiz<br>
+        · 11/3（周一）产品发布活动 — 全体 — 大堂显示须已启用</p>
+      </div>
+
+      <h2>答案与解析</h2>
+
+      <div class="item">
+        <div class="ans">196 · B</div>
+        <div class="qzh">题目：Mara Chen 为什么写信给 Jonah Ruiz？</div>
+        <div class="opts-zh">
+          (A) 取消采购订单 PO-44821<br>
+          (B) 通报显示面板的修订交货日期<br>
+          (C) 请 Brightline 去西雅图查验货物<br>
+          (D) 确认 11 月 3 日发布会已推迟
+        </div>
+        邮件主题与首段明确：revise the delivery date。A 未取消订单；C 是海关查验，不是请对方去查；D 发布会未推迟，只是问安装能否顺延。
+      </div>
+
+      <div class="item">
+        <div class="ans">197 · C</div>
+        <div class="qzh">题目：邮件第一段第 2 行的 “revise” 意思最接近？</div>
+        <div class="opts-zh">
+          (A) 颠倒 / 撤销<br>
+          (B) 重印<br>
+          (C) 更改<br>
+          (D) 延误
+        </div>
+        revise the delivery date = 把日期改掉（change/update）。A reverse、B reprint 是形近干扰；D delay 是延误本身，文中 revise 的对象是「日期」，不是「延误」这个动作。
+      </div>
+
+      <div class="item">
+        <div class="ans">198 · B</div>
+        <div class="qzh">题目：根据邮件与日程表，哪项计划任务最直接受延误影响？</div>
+        <div class="opts-zh">
+          (A) 10 月 26 日清理东侧大堂<br>
+          (B) 10 月 28 日在东侧大堂安装 12 块面板<br>
+          (C) 11 月 3 日产品发布活动<br>
+          (D) 10 月 29 日系统测试与拍照
+        </div>
+        <strong>跨文：</strong>邮件改到 10/30 交货；日程 10/28 安装注明 Requires panels on site → 当天面板还没到，安装最直接受影响。A 清理可在到货前做；C 邮件称若安装顺延三天仍赶得上发布；D 依赖安装完成，是连带影响，非最直接。
+      </div>
+
+      <div class="item">
+        <div class="ans">199 · D</div>
+        <div class="qzh">题目：Jonah 最晚何时可申请免费加急升级？</div>
+        <div class="opts-zh">
+          (A) 10 月 24 日下午 3:00<br>
+          (B) 10 月 26 日下午 5:00<br>
+          (C) 10 月 27 日下午 3:00<br>
+          (D) 10 月 26 日下午 3:00
+        </div>
+        <strong>跨文推时间：</strong>原定交货日 = Oct 27（邮件）；截止 = 前一工作日下午 3:00（邮件/网页）→ Oct 26，3:00 p.m.。A 是发信日；B 把 3:00 误成 5:00；C 是原定交货当天（网页写明不接受 same-day）。
+      </div>
+
+      <div class="item">
+        <div class="ans">200 · A</div>
+        <div class="qzh">题目：综合三篇可以得出什么结论？</div>
+        <div class="opts-zh">
+          (A) 把 10 月 28 日的安装顺延三天，仍赶得上 11 月 3 日发布<br>
+          (B) 收货组仍会按表在 10 月 27 日暂存面板<br>
+          (C) Apex 已自动为 PO-44821 办理免费加急升级<br>
+          (D) 东侧大堂须在面板到达之后再清理
+        </div>
+        <strong>三篇联合：</strong>邮件写明若安装顺延三天仍赶得上 Nov 3；日程原安装 Oct 28，+3 天 = Oct 31，面板 ETA Oct 30，发布 Nov 3 → A 正确。B 与修订 ETA 矛盾；C 须主动申请，追踪未显示已升级；D 与日程「到货前清理」相反。
+      </div>
+    </div>
+
+    <p class="note">仿写练习（非 ETS 真题原文）。点选项作答；核对后可看三篇全文译文 + 题干/选项译文 + 跨文推理要点。</p>
+  </div>
+<script>
+(function () {
+  var picks = {};
+  document.querySelectorAll(".q").forEach(function (q) {
+    var id = q.getAttribute("data-q");
+    q.querySelectorAll(".opt").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        if (q.classList.contains("locked")) return;
+        q.querySelectorAll(".opt").forEach(function (b) { b.classList.remove("picked"); });
+        btn.classList.add("picked");
+        picks[id] = btn.getAttribute("data-v");
+      });
+    });
+  });
+  document.getElementById("check").addEventListener("click", function () {
+    var right = 0, total = 0;
+    document.querySelectorAll(".q").forEach(function (q) {
+      total++;
+      var ans = q.getAttribute("data-ans");
+      var id = q.getAttribute("data-q");
+      q.classList.add("locked");
+      q.querySelectorAll(".opt").forEach(function (btn) {
+        btn.disabled = true;
+        var v = btn.getAttribute("data-v");
+        btn.classList.remove("picked", "correct", "wrong");
+        if (v === ans) btn.classList.add("correct");
+        else if (picks[id] === v) btn.classList.add("wrong");
+      });
+      if (picks[id] === ans) right++;
+    });
+    document.getElementById("score").textContent = "得分：" + right + " / " + total;
+    document.getElementById("explain").classList.add("show");
+  });
+  document.getElementById("reset").addEventListener("click", function () {
+    picks = {};
+    document.querySelectorAll(".q").forEach(function (q) {
+      q.classList.remove("locked");
+      q.querySelectorAll(".opt").forEach(function (btn) {
+        btn.disabled = false;
+        btn.classList.remove("picked", "correct", "wrong");
+      });
+    });
+    document.getElementById("score").textContent = "";
+    document.getElementById("explain").classList.remove("show");
+  });
+  document.getElementById("toggleExplain").addEventListener("click", function () {
+    document.getElementById("explain").classList.toggle("show");
+  });
+})();
+
+(function () {
+  var bar = document.getElementById("timerBar");
+  if (!bar) return;
+  var recSec = parseInt(bar.getAttribute("data-rec-sec"), 10) || 225;
+  var elapsed = 0;
+  var paused = false;
+  var finished = false;
+  var clock = document.getElementById("timerClock");
+  var status = document.getElementById("timerStatus");
+  var pauseBtn = document.getElementById("timerPause");
+
+  function fmt(s) {
+    var m = Math.floor(s / 60);
+    var r = s % 60;
+    return (m < 10 ? "0" : "") + m + ":" + (r < 10 ? "0" : "") + r;
+  }
+
+  function tick() {
+    if (paused || finished) return;
+    elapsed += 1;
+    clock.textContent = fmt(elapsed);
+    if (elapsed > recSec) {
+      bar.classList.add("over");
+      status.textContent = "已超过官方折算时间 +" + fmt(elapsed - recSec);
+    } else {
+      bar.classList.remove("over");
+      var left = recSec - elapsed;
+      status.textContent = "折算剩余 " + fmt(left);
+    }
+  }
+
+  var timerId = setInterval(tick, 1000);
+  status.textContent = "折算剩余 " + fmt(recSec);
+
+  pauseBtn.addEventListener("click", function () {
+    if (finished) return;
+    paused = !paused;
+    pauseBtn.textContent = paused ? "继续" : "暂停";
+    if (paused) status.textContent = "已暂停 · " + clock.textContent;
+    else if (elapsed > recSec) status.textContent = "已超过官方折算时间 +" + fmt(elapsed - recSec);
+    else status.textContent = "折算剩余 " + fmt(recSec - elapsed);
+  });
+
+  function stopOnCheck() {
+    if (finished) return;
+    finished = true;
+    paused = true;
+    clearInterval(timerId);
+    pauseBtn.textContent = "已结束";
+    pauseBtn.disabled = true;
+    var msg = "完成用时 " + fmt(elapsed);
+    if (elapsed <= recSec) msg += "（未超过官方折算）";
+    else msg += "（超时 " + fmt(elapsed - recSec) + "）";
+    status.textContent = msg;
+    var score = document.getElementById("score");
+    if (score && score.textContent) score.textContent = score.textContent + " · " + msg;
+    else if (score) score.textContent = msg;
+  }
+
+  var checkBtn = document.getElementById("check");
+  if (checkBtn) {
+    checkBtn.addEventListener("click", stopOnCheck);
+  }
+})();
+
+</script>
+</body>
+
+</html>
