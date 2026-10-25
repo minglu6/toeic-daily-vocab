@@ -3,192 +3,158 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<meta name="theme-color" content="#141414" />
-<title>托业 Part 7 · 2026-10-24</title>
+<meta name="theme-color" content="#ffffff" />
+<title>TOEIC Part 7 · Single · 2026-10-24</title>
 <style>
-  :root {
-    --bg: #FAF7F2;
-    --dark: #141414;
-    --accent: #3D7A5C;
-    --muted: #6b6560;
-    --rule: #E6E0D6;
-    --card: #FFFcf8;
-    --opt: #f3efe8;
-  }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
-    font-family: "Iowan Old Style", Palatino, "Songti SC", "Noto Serif CJK SC", "PingFang SC", serif;
-    background: var(--bg);
-    color: #0f0e0e;
-    min-height: 100vh;
-    line-height: 1.55;
+    margin: 0;
+    background: #d8d4cc;
+    color: #111;
+    font-family: "Times New Roman", Times, "Noto Serif CJK SC", "Songti SC", serif;
+    line-height: 1.45;
     -webkit-text-size-adjust: 100%;
   }
-  .cover {
-    background: var(--dark);
-    color: #f5f2ec;
-    padding: 28px 20px 24px;
-    padding-top: max(28px, env(safe-area-inset-top));
-  }
-  .tag {
-    font-family: ui-monospace, Menlo, monospace;
-    font-size: 11px;
-    letter-spacing: .14em;
-    text-transform: uppercase;
-    color: #a8b5a0;
-    margin-bottom: 10px;
-  }
-  h1 { font-size: 26px; font-weight: 500; letter-spacing: -.02em; }
-  .sub { margin-top: 8px; color: #b8b2a8; font-size: 13.5px; }
-  .back {
-    display: inline-block;
-    margin-top: 14px;
-    color: #a8b5a0;
-    font-size: 13px;
-    text-decoration: none;
-  }
-  main {
-    max-width: 640px;
+  .sheet {
+    max-width: 720px;
     margin: 0 auto;
-    padding: 20px 16px calc(40px + env(safe-area-inset-bottom));
+    background: #fff;
+    min-height: 100vh;
+    padding: 18px 16px calc(36px + env(safe-area-inset-bottom));
+    box-shadow: 0 0 0 1px #bbb;
   }
-  .bar { width: 36px; height: 3px; background: var(--accent); margin-bottom: 14px; }
-  .dir {
-    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
-    font-size: 13px;
-    color: var(--muted);
+  @media (min-width: 760px) {
+    body { padding: 16px 0; }
+    .sheet { min-height: auto; padding: 28px 36px 40px; box-shadow: 0 1px 8px rgba(0,0,0,.12); }
+  }
+  .header {
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 2.5px solid #111;
+    padding-bottom: 8px;
     margin-bottom: 14px;
   }
-  .email {
-    background: var(--card);
-    border: 1px solid var(--rule);
-    border-radius: 12px;
-    padding: 16px;
-    margin-bottom: 22px;
+  .header .part {
+    font-size: 13px; font-weight: 700; letter-spacing: .04em;
+  }
+  .header .meta {
+    font-size: 11.5px; color: #333; margin-top: 4px;
+  }
+  .header .back {
+    display: inline-block; margin-top: 8px; font-size: 12px; color: #333; text-decoration: underline;
+  }
+  .dir {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12.5px; font-style: italic; margin: 0 0 14px; color: #111;
+  }
+  .doc-label {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11.5px; font-weight: 700; margin: 16px 0 6px; color: #111;
+  }
+  .doc-label:first-of-type { margin-top: 0; }
+  .email, .notice, .web, .sched {
+    border: 1.5px solid #333;
+    padding: 12px 12px 14px;
+    margin-bottom: 10px;
+    background: #fff;
   }
   .field {
-    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
-    font-size: 13px;
-    line-height: 1.5;
-    margin-bottom: 4px;
-    word-break: break-word;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12.5px; line-height: 1.5; margin-bottom: 2px; word-break: break-word;
   }
-  .field b {
-    display: inline-block;
-    min-width: 3.2em;
-    color: var(--muted);
-    font-weight: 600;
-  }
-  .subj {
-    margin: 10px 0 12px;
-    padding-bottom: 12px;
-    border-bottom: 1px solid var(--rule);
-  }
-  .body { font-size: 16px; }
-  .body p { margin: 0 0 12px; }
+  .field b { font-weight: 700; }
+  .subj { margin-top: 4px; padding-bottom: 8px; border-bottom: 1px solid #999; margin-bottom: 10px; }
+  .body { font-size: 15px; }
+  .body p { margin: 0 0 10px; }
   .body p:last-child { margin-bottom: 0; }
+  .notice h3, .web h3, .sched h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px; font-weight: 700; margin-bottom: 6px; line-height: 1.35;
+  }
+  .notice .meta, .web .url {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11.5px; color: #333; margin-bottom: 10px;
+  }
+  .web .url { font-family: "Courier New", Courier, monospace; word-break: break-all; }
+  .notice ul, .web ul { padding-left: 1.2em; margin: 0 0 8px; font-size: 14.5px; }
+  .notice li, .web li { margin-bottom: 4px; }
+  table.sched-table {
+    width: 100%; border-collapse: collapse; font-size: 12.5px;
+    font-family: Arial, Helvetica, sans-serif; margin-top: 6px;
+  }
+  table.sched-table th, table.sched-table td {
+    border: 1px solid #333; padding: 6px 7px; text-align: left; vertical-align: top;
+  }
+  table.sched-table th { background: #eee; font-weight: 700; }
   .q {
-    background: var(--card);
-    border: 1px solid var(--rule);
-    border-radius: 12px;
-    padding: 14px 14px 12px;
-    margin-bottom: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 16px 0 0; padding: 0; border: 0; background: transparent;
   }
-  .stem {
-    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
-    font-size: 14.5px;
-    font-weight: 700;
-    margin-bottom: 10px;
-    line-height: 1.4;
-  }
+  .stem { font-size: 13.5px; font-weight: 700; margin-bottom: 6px; line-height: 1.4; }
   .opt {
-    display: block;
-    width: 100%;
-    text-align: left;
-    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
-    font-size: 14px;
-    line-height: 1.45;
-    padding: 11px 12px;
-    margin-bottom: 8px;
-    border: 1px solid var(--rule);
-    border-radius: 10px;
-    background: var(--opt);
-    color: inherit;
-    cursor: pointer;
-    -webkit-tap-highlight-color: transparent;
+    display: block; width: 100%; text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px; line-height: 1.45; padding: 7px 4px; margin-bottom: 2px;
+    border: 0; border-radius: 0; background: transparent;
+    color: inherit; cursor: pointer; -webkit-tap-highlight-color: transparent;
   }
-  .opt:last-child { margin-bottom: 0; }
-  .opt.picked { border-color: var(--accent); background: #e8f2ec; }
-  .opt.correct { border-color: var(--accent); background: #e8f2ec; }
-  .opt.wrong { border-color: #b85c5c; background: #f8ecec; }
+  .opt.picked { background: #e8e8e8; }
+  .opt.correct { background: #dceadc; }
+  .opt.wrong { background: #f0dede; }
   .opt:disabled { cursor: default; opacity: 1; }
   .actions {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin: 18px 0 10px;
+    display: flex; flex-wrap: wrap; gap: 8px; margin: 20px 0 10px;
+    font-family: Arial, Helvetica, sans-serif;
   }
   .btn {
-    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
-    font-size: 14px;
-    padding: 12px 16px;
-    border-radius: 10px;
-    border: 1px solid var(--rule);
-    background: var(--card);
-    color: inherit;
-    cursor: pointer;
-    -webkit-tap-highlight-color: transparent;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px; padding: 10px 14px;
+    border: 1.5px solid #111; border-radius: 0; background: #fff; color: #111;
+    cursor: pointer; -webkit-tap-highlight-color: transparent;
   }
-  .btn.primary {
-    background: var(--accent);
-    border-color: var(--accent);
-    color: #fff;
-  }
+  .btn.primary { background: #111; color: #fff; }
   .score {
-    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
-    font-size: 14px;
-    color: var(--muted);
-    margin-bottom: 12px;
-    min-height: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px; color: #333; margin-bottom: 10px; min-height: 1.2em;
   }
   .explain {
-    display: none;
-    background: var(--card);
-    border: 1px solid var(--rule);
-    border-radius: 12px;
-    padding: 14px 16px;
-    margin-top: 8px;
+    display: none; border: 1.5px solid #333; padding: 14px 12px; margin-top: 8px; background: #fafafa;
   }
   .explain.show { display: block; }
   .explain h2 {
-    font-size: 16px;
-    font-weight: 600;
-    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px; font-weight: 700; margin: 16px 0 8px;
   }
-  .explain .item { margin-bottom: 12px; font-size: 14.5px; }
-  .explain .item:last-child { margin-bottom: 0; }
+  .explain h2:first-child { margin-top: 0; }
+  .explain .zh { font-size: 14px; margin-bottom: 10px; }
+  .explain .zh p { margin: 0 0 8px; }
+  .explain .item {
+    margin-bottom: 14px; font-size: 14px; padding-bottom: 12px; border-bottom: 1px solid #ccc;
+  }
+  .explain .item:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: 0; }
   .explain .ans {
-    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
-    font-weight: 700;
-    color: var(--accent);
-    margin-bottom: 4px;
+    font-family: Arial, Helvetica, sans-serif; font-weight: 700; margin-bottom: 4px;
+  }
+  .explain .qzh {
+    font-family: Arial, Helvetica, sans-serif; font-size: 12.5px; color: #333; margin-bottom: 6px;
+  }
+  .explain .opts-zh {
+    font-family: Arial, Helvetica, sans-serif; font-size: 12.5px; line-height: 1.5;
+    margin: 0 0 6px; padding: 8px 10px; background: #eee; border: 1px solid #ccc;
   }
   .note {
-    margin-top: 20px;
-    color: var(--muted);
-    font-size: 12.5px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 16px; font-size: 11.5px; color: #555;
   }
+
 </style>
 </head>
 <body>
-  <header class="cover">
-    <div class="tag">TOEIC · Part 7 · Single passage</div>
-    <h1>托业阅读练习</h1>
-    <p class="sub">Questions 147–150 · 手机版 · 2026-10-24</p>
-    <a class="back" href="../index.html">← 回单词首页</a>
-  </header>
-  <main>
-    <div class="bar"></div>
+  <div class="sheet">
+    <div class="header">
+      <div class="part">READING TEST · PART 7</div>
+      <div class="meta">Questions 147–150 · Single passage · Practice (not official ETS content)</div>
+      <a class="back" href="../index.html">← 回单词首页</a>
+    </div>
     <p class="dir">Questions 147–150 refer to the following e-mail.</p>
 
     <article class="email">
@@ -303,7 +269,7 @@
     </div>
 
     <p class="note">答题可点选项；核对后可看中文解析。由职场学习助手维护。</p>
-  </main>
+  </div>
 <script>
 (function () {
   var picks = {};
@@ -355,4 +321,3 @@
 })();
 </script>
 </body>
-</html>
