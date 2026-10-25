@@ -274,7 +274,7 @@
     font-size: 15px;
     letter-spacing: .02em;
   }
-  .timer-bar .rec { color: #222; }
+  .timer-bar .rec { color: #222; font-size: 11px; flex: 1 1 180px; }
   .timer-bar .status { color: #222; }
   .timer-bar.over {
     background: #f5e8e8;
@@ -300,9 +300,9 @@
       <div class="meta">Questions 196–200 · Triple passage · Practice (not official ETS content)</div>
       <a class="back" href="../index.html">← 回单词首页</a>
     </div>
-    <div class="timer-bar" id="timerBar" data-rec-min="12">
+    <div class="timer-bar" id="timerBar" data-rec-sec="225">
       <span>用时 <span class="clock" id="timerClock">00:00</span></span>
-      <span class="rec">推荐 12 分钟（三篇 5 题）</span>
+      <span class="rec">官方折算 3:45（75分/100题 × 5题；ETS未公布单套推荐）</span>
       <span class="status" id="timerStatus">计时中</span>
       <button type="button" class="btn-timer" id="timerPause">暂停</button>
     </div>
@@ -557,8 +557,7 @@
 (function () {
   var bar = document.getElementById("timerBar");
   if (!bar) return;
-  var recMin = parseInt(bar.getAttribute("data-rec-min"), 10) || 10;
-  var recSec = recMin * 60;
+  var recSec = parseInt(bar.getAttribute("data-rec-sec"), 10) || 225;
   var elapsed = 0;
   var paused = false;
   var finished = false;
@@ -578,24 +577,24 @@
     clock.textContent = fmt(elapsed);
     if (elapsed > recSec) {
       bar.classList.add("over");
-      status.textContent = "已超过推荐时间 +" + fmt(elapsed - recSec);
+      status.textContent = "已超过官方折算时间 +" + fmt(elapsed - recSec);
     } else {
       bar.classList.remove("over");
       var left = recSec - elapsed;
-      status.textContent = "剩余约 " + fmt(left);
+      status.textContent = "折算剩余 " + fmt(left);
     }
   }
 
   var timerId = setInterval(tick, 1000);
-  status.textContent = "剩余约 " + fmt(recSec);
+  status.textContent = "折算剩余 " + fmt(recSec);
 
   pauseBtn.addEventListener("click", function () {
     if (finished) return;
     paused = !paused;
     pauseBtn.textContent = paused ? "继续" : "暂停";
     if (paused) status.textContent = "已暂停 · " + clock.textContent;
-    else if (elapsed > recSec) status.textContent = "已超过推荐时间 +" + fmt(elapsed - recSec);
-    else status.textContent = "剩余约 " + fmt(recSec - elapsed);
+    else if (elapsed > recSec) status.textContent = "已超过官方折算时间 +" + fmt(elapsed - recSec);
+    else status.textContent = "折算剩余 " + fmt(recSec - elapsed);
   });
 
   function stopOnCheck() {
@@ -606,7 +605,7 @@
     pauseBtn.textContent = "已结束";
     pauseBtn.disabled = true;
     var msg = "完成用时 " + fmt(elapsed);
-    if (elapsed <= recSec) msg += "（在推荐时间内）";
+    if (elapsed <= recSec) msg += "（未超过官方折算）";
     else msg += "（超时 " + fmt(elapsed - recSec) + "）";
     status.textContent = msg;
     var score = document.getElementById("score");
