@@ -254,13 +254,56 @@
     color: #444;
   }
 
+
+  .timer-bar {
+    font-family: Arial, Helvetica, "Helvetica Neue", sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 8px 14px;
+    border: 1px solid #000;
+    background: #f3f3f3;
+    padding: 8px 10px;
+    margin: 0 0 12px;
+    font-size: 12px;
+    line-height: 1.35;
+  }
+  .timer-bar .clock {
+    font-variant-numeric: tabular-nums;
+    font-weight: 700;
+    font-size: 15px;
+    letter-spacing: .02em;
+  }
+  .timer-bar .rec { color: #222; }
+  .timer-bar .status { color: #222; }
+  .timer-bar.over {
+    background: #f5e8e8;
+    border-color: #000;
+  }
+  .timer-bar.over .status { font-weight: 700; }
+  .timer-bar .btn-timer {
+    margin-left: auto;
+    font-size: 11px;
+    padding: 4px 8px;
+    border: 1px solid #000;
+    background: #fff;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
 </style>
 </head>
 <body>
   <div class="sheet">
     <div class="header">
       <div class="part">READING TEST · PART 7</div>
-      <div class="meta">Questions 147–150 · Single passage · Practice (not official ETS content)</div>
+          <div class="timer-bar" id="timerBar" data-rec-min="8">
+      <span>用时 <span class="clock" id="timerClock">00:00</span></span>
+      <span class="rec">推荐 8 分钟（单篇 4 题）</span>
+      <span class="status" id="timerStatus">计时中</span>
+      <button type="button" class="btn-timer" id="timerPause">暂停</button>
+    </div>
+<div class="meta">Questions 147–150 · Single passage · Practice (not official ETS content)</div>
       <a class="back" href="../index.html">← 回单词首页</a>
     </div>
     <p class="dir">Questions 147–150 refer to the following e-mail.</p>
@@ -427,6 +470,73 @@
     document.getElementById("explain").classList.toggle("show");
   });
 })();
+
+(function () {
+  var bar = document.getElementById("timerBar");
+  if (!bar) return;
+  var recMin = parseInt(bar.getAttribute("data-rec-min"), 10) || 10;
+  var recSec = recMin * 60;
+  var elapsed = 0;
+  var paused = false;
+  var finished = false;
+  var clock = document.getElementById("timerClock");
+  var status = document.getElementById("timerStatus");
+  var pauseBtn = document.getElementById("timerPause");
+
+  function fmt(s) {
+    var m = Math.floor(s / 60);
+    var r = s % 60;
+    return (m < 10 ? "0" : "") + m + ":" + (r < 10 ? "0" : "") + r;
+  }
+
+  function tick() {
+    if (paused || finished) return;
+    elapsed += 1;
+    clock.textContent = fmt(elapsed);
+    if (elapsed > recSec) {
+      bar.classList.add("over");
+      status.textContent = "已超过推荐时间 +" + fmt(elapsed - recSec);
+    } else {
+      bar.classList.remove("over");
+      var left = recSec - elapsed;
+      status.textContent = "剩余约 " + fmt(left);
+    }
+  }
+
+  var timerId = setInterval(tick, 1000);
+  status.textContent = "剩余约 " + fmt(recSec);
+
+  pauseBtn.addEventListener("click", function () {
+    if (finished) return;
+    paused = !paused;
+    pauseBtn.textContent = paused ? "继续" : "暂停";
+    if (paused) status.textContent = "已暂停 · " + clock.textContent;
+    else if (elapsed > recSec) status.textContent = "已超过推荐时间 +" + fmt(elapsed - recSec);
+    else status.textContent = "剩余约 " + fmt(recSec - elapsed);
+  });
+
+  function stopOnCheck() {
+    if (finished) return;
+    finished = true;
+    paused = true;
+    clearInterval(timerId);
+    pauseBtn.textContent = "已结束";
+    pauseBtn.disabled = true;
+    var msg = "完成用时 " + fmt(elapsed);
+    if (elapsed <= recSec) msg += "（在推荐时间内）";
+    else msg += "（超时 " + fmt(elapsed - recSec) + "）";
+    status.textContent = msg;
+    var score = document.getElementById("score");
+    if (score && score.textContent) score.textContent = score.textContent + " · " + msg;
+    else if (score) score.textContent = msg;
+  }
+
+  var checkBtn = document.getElementById("check");
+  if (checkBtn) {
+    checkBtn.addEventListener("click", stopOnCheck);
+  }
+})();
+
 </script>
 </body>
 
