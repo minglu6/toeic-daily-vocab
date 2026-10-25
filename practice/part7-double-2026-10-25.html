@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#141414" />
+<title>托业 Part 7 双篇 · 2026-10-25</title>
+<style>
+  :root {
+    --bg: #FAF7F2; --dark: #141414; --accent: #3D7A5C; --muted: #6b6560;
+    --rule: #E6E0D6; --card: #FFFcf8; --opt: #f3efe8;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: "Iowan Old Style", Palatino, "Songti SC", "Noto Serif CJK SC", "PingFang SC", serif;
+    background: var(--bg); color: #0f0e0e; min-height: 100vh; line-height: 1.55;
+    -webkit-text-size-adjust: 100%;
+  }
+  .cover {
+    background: var(--dark); color: #f5f2ec;
+    padding: 28px 20px 24px; padding-top: max(28px, env(safe-area-inset-top));
+  }
+  .tag {
+    font-family: ui-monospace, Menlo, monospace; font-size: 11px;
+    letter-spacing: .14em; text-transform: uppercase; color: #a8b5a0; margin-bottom: 10px;
+  }
+  h1 { font-size: 26px; font-weight: 500; letter-spacing: -.02em; }
+  .sub { margin-top: 8px; color: #b8b2a8; font-size: 13.5px; }
+  .back { display: inline-block; margin-top: 14px; color: #a8b5a0; font-size: 13px; text-decoration: none; }
+  main { max-width: 640px; margin: 0 auto; padding: 20px 16px calc(40px + env(safe-area-inset-bottom)); }
+  .bar { width: 36px; height: 3px; background: var(--accent); margin-bottom: 14px; }
+  .dir {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 13px; color: var(--muted); margin-bottom: 14px;
+  }
+  .doc-label {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
+    color: var(--accent); margin: 18px 0 8px;
+  }
+  .doc-label:first-of-type { margin-top: 0; }
+  .email, .notice {
+    background: var(--card); border: 1px solid var(--rule); border-radius: 12px;
+    padding: 16px; margin-bottom: 8px;
+  }
+  .field {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 13px; line-height: 1.5; margin-bottom: 4px; word-break: break-word;
+  }
+  .field b { display: inline-block; min-width: 3.2em; color: var(--muted); font-weight: 600; }
+  .subj { margin: 10px 0 12px; padding-bottom: 12px; border-bottom: 1px solid var(--rule); }
+  .body { font-size: 16px; }
+  .body p { margin: 0 0 12px; }
+  .body p:last-child { margin-bottom: 0; }
+  .notice h3 {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 15.5px; font-weight: 700; margin-bottom: 10px; line-height: 1.35;
+  }
+  .notice .meta {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 12.5px; color: var(--muted); margin-bottom: 12px;
+  }
+  .notice ul { padding-left: 1.15em; margin: 0 0 10px; font-size: 15.5px; }
+  .notice li { margin-bottom: 6px; }
+  .q {
+    background: var(--card); border: 1px solid var(--rule); border-radius: 12px;
+    padding: 14px 14px 12px; margin-bottom: 12px; margin-top: 14px;
+  }
+  .stem {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 14.5px; font-weight: 700; margin-bottom: 10px; line-height: 1.4;
+  }
+  .opt {
+    display: block; width: 100%; text-align: left;
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 14px; line-height: 1.45; padding: 11px 12px; margin-bottom: 8px;
+    border: 1px solid var(--rule); border-radius: 10px; background: var(--opt);
+    color: inherit; cursor: pointer; -webkit-tap-highlight-color: transparent;
+  }
+  .opt:last-child { margin-bottom: 0; }
+  .opt.picked { border-color: var(--accent); background: #e8f2ec; }
+  .opt.correct { border-color: var(--accent); background: #e8f2ec; }
+  .opt.wrong { border-color: #b85c5c; background: #f8ecec; }
+  .opt:disabled { cursor: default; opacity: 1; }
+  .actions { display: flex; flex-wrap: wrap; gap: 8px; margin: 18px 0 10px; }
+  .btn {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 14px; padding: 12px 16px; border-radius: 10px;
+    border: 1px solid var(--rule); background: var(--card); color: inherit;
+    cursor: pointer; -webkit-tap-highlight-color: transparent;
+  }
+  .btn.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .score {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 14px; color: var(--muted); margin-bottom: 12px; min-height: 1.2em;
+  }
+  .explain {
+    display: none; background: var(--card); border: 1px solid var(--rule);
+    border-radius: 12px; padding: 16px; margin-top: 8px;
+  }
+  .explain.show { display: block; }
+  .explain h2 {
+    font-size: 17px; font-weight: 600; margin: 18px 0 10px;
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+  }
+  .explain h2:first-child { margin-top: 0; }
+  .explain .zh { font-size: 14.5px; color: #1a1918; margin-bottom: 12px; }
+  .explain .zh p { margin: 0 0 10px; }
+  .explain .zh p:last-child { margin-bottom: 0; }
+  .explain .item { margin-bottom: 16px; font-size: 14.5px; padding-bottom: 14px; border-bottom: 1px solid var(--rule); }
+  .explain .item:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: 0; }
+  .explain .ans {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-weight: 700; color: var(--accent); margin-bottom: 6px;
+  }
+  .explain .qzh {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 13.5px; color: var(--muted); margin-bottom: 8px; line-height: 1.45;
+  }
+  .explain .opts-zh {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 13px; line-height: 1.55; color: #333; margin: 0 0 8px;
+    padding: 10px 12px; background: var(--opt); border-radius: 8px;
+  }
+  .explain .why { margin-top: 4px; }
+  .note { margin-top: 20px; color: var(--muted); font-size: 12.5px; }
+</style>
+</head>
+<body>
+  <header class="cover">
+    <div class="tag">TOEIC · Part 7 · Double passage</div>
+    <h1>托业双篇阅读</h1>
+    <p class="sub">Questions 176–180 · 联合推理 · 手机版 · 2026-10-25</p>
+    <a class="back" href="../index.html">← 回单词首页</a>
+  </header>
+  <main>
+    <div class="bar"></div>
+    <p class="dir">Questions 176–180 refer to the following e-mail and notice.</p>
+
+    <div class="doc-label">Document 1 · E-mail</div>
+    <article class="email">
+      <div class="field"><b>From</b> Carla Nguyen, Facilities</div>
+      <div class="field"><b>To</b> All staff, West Tower</div>
+      <div class="field"><b>Date</b> October 20</div>
+      <div class="field subj"><b>Subject</b> Elevator modernization — temporary shuttle schedule</div>
+      <div class="body">
+        <p>Dear colleagues,</p>
+        <p>Starting Monday, October 27, Elevators B and C in the West Tower will be offline for modernization. Elevator A will remain in service, but wait times will be longer during peak hours.</p>
+        <p>To reduce congestion, we will run a free lobby shuttle to the East Tower lobby every 15 minutes from 8:00 a.m. to 10:00 a.m. and from 4:30 p.m. to 6:30 p.m. Staff whose offices are on floors 12–18 may temporarily use unused desks in East Tower Room E-204; please reserve a desk through the Facilities portal by Friday, October 24.</p>
+        <p>The attached notice lists the full shuttle hours and contact details. Please review it before the work begins.</p>
+        <p>Regards,<br>Carla Nguyen<br>Facilities Coordinator</p>
+      </div>
+    </article>
+
+    <div class="doc-label">Document 2 · Notice</div>
+    <article class="notice">
+      <h3>West Tower Elevator Modernization — Staff Notice</h3>
+      <div class="meta">Posted by Facilities · Effective October 27 – November 14</div>
+      <div class="body">
+        <p><strong>Service status</strong></p>
+        <ul>
+          <li>Elevators B &amp; C: out of service</li>
+          <li>Elevator A: limited service (priority for visitors with mobility needs)</li>
+        </ul>
+        <p><strong>Lobby shuttle (West Tower → East Tower)</strong></p>
+        <ul>
+          <li>Morning: 8:00 a.m. – 10:00 a.m., every 15 minutes</li>
+          <li>Evening: 4:30 p.m. – 6:30 p.m., every 15 minutes</li>
+          <li>Pickup point: West Tower main entrance</li>
+        </ul>
+        <p><strong>Temporary workspace</strong></p>
+        <ul>
+          <li>East Tower Room E-204 (floors 12–18 staff only)</li>
+          <li>Desk reservation deadline: October 24, 5:00 p.m.</li>
+        </ul>
+        <p><strong>Questions?</strong> Call Facilities at ext. 4420 or e-mail facilities@nordell.com.</p>
+        <p>Note: The cafeteria on West Tower Floor 2 will remain open as usual.</p>
+      </div>
+    </article>
+
+    <div class="q" data-q="176" data-ans="B">
+      <div class="stem">176. What is the purpose of the e-mail?</div>
+      <button type="button" class="opt" data-v="A">(A) To announce a cafeteria renovation</button>
+      <button type="button" class="opt" data-v="B">(B) To inform staff about elevator work and temporary options</button>
+      <button type="button" class="opt" data-v="C">(C) To request volunteers for a shuttle driver role</button>
+      <button type="button" class="opt" data-v="D">(D) To cancel all meetings in the West Tower</button>
+    </div>
+    <div class="q" data-q="177" data-ans="C">
+      <div class="stem">177. According to the notice, how often does the morning shuttle run?</div>
+      <button type="button" class="opt" data-v="A">(A) Every 10 minutes</button>
+      <button type="button" class="opt" data-v="B">(B) Once an hour</button>
+      <button type="button" class="opt" data-v="C">(C) Every 15 minutes</button>
+      <button type="button" class="opt" data-v="D">(D) Only at 8:00 a.m.</button>
+    </div>
+    <div class="q" data-q="178" data-ans="A">
+      <div class="stem">178. Who is eligible to use Room E-204?</div>
+      <button type="button" class="opt" data-v="A">(A) Staff whose offices are on floors 12–18</button>
+      <button type="button" class="opt" data-v="B">(B) All visitors to the West Tower</button>
+      <button type="button" class="opt" data-v="C">(C) Only Facilities employees</button>
+      <button type="button" class="opt" data-v="D">(D) Anyone who misses the shuttle</button>
+    </div>
+    <div class="q" data-q="179" data-ans="D">
+      <div class="stem">179. What is indicated about Elevator A?</div>
+      <button type="button" class="opt" data-v="A">(A) It will be replaced on October 24.</button>
+      <button type="button" class="opt" data-v="B">(B) It will be closed during peak hours.</button>
+      <button type="button" class="opt" data-v="C">(C) It will move only between floors 1 and 2.</button>
+      <button type="button" class="opt" data-v="D">(D) It will give priority to visitors with mobility needs.</button>
+    </div>
+    <div class="q" data-q="180" data-ans="B">
+      <div class="stem">180. What can be concluded from both documents?</div>
+      <button type="button" class="opt" data-v="A">(A) The cafeteria will close until November 14.</button>
+      <button type="button" class="opt" data-v="B">(B) Staff should reserve temporary desks before the elevator work starts.</button>
+      <button type="button" class="opt" data-v="C">(C) The shuttle runs all day without a break.</button>
+      <button type="button" class="opt" data-v="D">(D) East Tower Room E-204 is available without a reservation.</button>
+    </div>
+
+    <div class="actions">
+      <button type="button" class="btn primary" id="check">核对答案</button>
+      <button type="button" class="btn" id="reset">重做</button>
+      <button type="button" class="btn" id="toggleExplain">中文解析</button>
+    </div>
+    <p class="score" id="score"></p>
+
+    <div class="explain" id="explain">
+      <h2>全文译文 · 邮件</h2>
+      <div class="zh">
+        <p><strong>发件人：</strong>Carla Nguyen，行政设施部<br>
+        <strong>收件人：</strong>西塔全体员工<br>
+        <strong>日期：</strong>10 月 20 日<br>
+        <strong>主题：</strong>电梯现代化改造——临时班车时刻</p>
+        <p>各位同事：</p>
+        <p>自 10 月 27 日（周一）起，西塔 B、C 两部电梯将停运进行现代化改造。A 电梯仍可使用，但高峰时段等候时间会变长。</p>
+        <p>为缓解拥堵，我们将在上午 8:00–10:00 与下午 4:30–6:30 提供免费大堂班车，每 15 分钟一班，往返东塔大堂。办公室位于 12–18 层的员工可临时使用东塔 E-204 室空闲工位；请于 10 月 24 日（周五）前通过设施门户预约工位。</p>
+        <p>随附通知列有完整班车时间与联系方式，请在工程开始前阅读。</p>
+        <p>此致<br>Carla Nguyen<br>设施协调员</p>
+      </div>
+
+      <h2>全文译文 · 通知</h2>
+      <div class="zh">
+        <p><strong>西塔电梯现代化改造——员工通知</strong><br>
+        设施部发布 · 有效期：10 月 27 日–11 月 14 日</p>
+        <p><strong>运行状态</strong><br>
+        · B、C 电梯：停运<br>
+        · A 电梯：有限服务（优先供有行动不便需求的访客使用）</p>
+        <p><strong>大堂班车（西塔 → 东塔）</strong><br>
+        · 上午：8:00–10:00，每 15 分钟一班<br>
+        · 傍晚：4:30–6:30，每 15 分钟一班<br>
+        · 上车点：西塔正门</p>
+        <p><strong>临时工位</strong><br>
+        · 东塔 E-204 室（仅限 12–18 层员工）<br>
+        · 工位预约截止：10 月 24 日下午 5:00</p>
+        <p><strong>咨询？</strong>拨打设施部分机 4420，或发邮件至 facilities@nordell.com。</p>
+        <p>备注：西塔 2 楼食堂照常营业。</p>
+      </div>
+
+      <h2>答案与解析</h2>
+
+      <div class="item">
+        <div class="ans">176 · B</div>
+        <div class="qzh">题目：这封邮件的目的是什么？</div>
+        <div class="opts-zh">
+          (A) 宣布食堂装修<br>
+          (B) 告知员工电梯工程及临时安排<br>
+          (C) 招募班车司机志愿者<br>
+          (D) 取消西塔所有会议
+        </div>
+        <div class="why">邮件说明电梯停运、班车与临时工位，属于告知措施。A 与通知末句「食堂照常」相反；C、D 未提及。</div>
+      </div>
+
+      <div class="item">
+        <div class="ans">177 · C</div>
+        <div class="qzh">题目：根据通知，上午班车多久一班？</div>
+        <div class="opts-zh">
+          (A) 每 10 分钟<br>
+          (B) 每小时一次<br>
+          (C) 每 15 分钟<br>
+          (D) 仅在上午 8:00 一班
+        </div>
+        <div class="why">通知与邮件均写 every 15 minutes。只看一处也能答，但双篇里信息一致。</div>
+      </div>
+
+      <div class="item">
+        <div class="ans">178 · A</div>
+        <div class="qzh">题目：谁可以使用 E-204 室？</div>
+        <div class="opts-zh">
+          (A) 办公室在 12–18 层的员工<br>
+          (B) 所有西塔访客<br>
+          (C) 仅设施部员工<br>
+          (D) 任何错过班车的人
+        </div>
+        <div class="why">两篇都限定 floors 12–18 staff only / 12–18 层员工。</div>
+      </div>
+
+      <div class="item">
+        <div class="ans">179 · D</div>
+        <div class="qzh">题目：关于 A 电梯，文中表明什么？</div>
+        <div class="opts-zh">
+          (A) 将在 10 月 24 日更换<br>
+          (B) 高峰时段将关闭<br>
+          (C) 只在 1–2 层之间运行<br>
+          (D) 将优先供有行动不便需求的访客使用
+        </div>
+        <div class="why">细节在<strong>通知</strong>：priority for visitors with mobility needs。邮件只说 A 仍可用、高峰更慢，未提优先权——此题需对照第二篇。</div>
+      </div>
+
+      <div class="item">
+        <div class="ans">180 · B</div>
+        <div class="qzh">题目：综合两篇可以得出什么结论？</div>
+        <div class="opts-zh">
+          (A) 食堂将关闭至 11 月 14 日<br>
+          (B) 员工应在电梯工程开始前预约临时工位<br>
+          (C) 班车全天不间断运行<br>
+          (D) 东塔 E-204 无需预约即可使用
+        </div>
+        <div class="why"><strong>联合推理：</strong>工程 10/27 开始；预约截止 10/24（邮件写 Friday Oct 24，通知写 5:00 p.m.）→ 必须在开工前预约。A 与「食堂照常」矛盾；C 班车仅早晚两段；D 与须经 portal 预约矛盾。</div>
+      </div>
+    </div>
+
+    <p class="note">点选项作答；核对后可看全文译文 + 题目/选项译文 + 解析。由职场学习助手维护。</p>
+  </main>
+<script>
+(function () {
+  var picks = {};
+  document.querySelectorAll(".q").forEach(function (q) {
+    var id = q.getAttribute("data-q");
+    q.querySelectorAll(".opt").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        if (q.classList.contains("locked")) return;
+        q.querySelectorAll(".opt").forEach(function (b) { b.classList.remove("picked"); });
+        btn.classList.add("picked");
+        picks[id] = btn.getAttribute("data-v");
+      });
+    });
+  });
+  document.getElementById("check").addEventListener("click", function () {
+    var right = 0, total = 0;
+    document.querySelectorAll(".q").forEach(function (q) {
+      total++;
+      var ans = q.getAttribute("data-ans");
+      var id = q.getAttribute("data-q");
+      q.classList.add("locked");
+      q.querySelectorAll(".opt").forEach(function (btn) {
+        btn.disabled = true;
+        var v = btn.getAttribute("data-v");
+        btn.classList.remove("picked", "correct", "wrong");
+        if (v === ans) btn.classList.add("correct");
+        else if (picks[id] === v) btn.classList.add("wrong");
+      });
+      if (picks[id] === ans) right++;
+    });
+    document.getElementById("score").textContent = "得分：" + right + " / " + total;
+    document.getElementById("explain").classList.add("show");
+  });
+  document.getElementById("reset").addEventListener("click", function () {
+    picks = {};
+    document.querySelectorAll(".q").forEach(function (q) {
+      q.classList.remove("locked");
+      q.querySelectorAll(".opt").forEach(function (btn) {
+        btn.disabled = false;
+        btn.classList.remove("picked", "correct", "wrong");
+      });
+    });
+    document.getElementById("score").textContent = "";
+    document.getElementById("explain").classList.remove("show");
+  });
+  document.getElementById("toggleExplain").addEventListener("click", function () {
+    document.getElementById("explain").classList.toggle("show");
+  });
+})();
+</script>
+</body>
+</html>
