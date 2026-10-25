@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#141414" />
+<title>托业 Part 7 三篇 · 2026-10-25</title>
+<style>
+  :root {
+    --bg: #FAF7F2; --dark: #141414; --accent: #3D7A5C; --muted: #6b6560;
+    --rule: #E6E0D6; --card: #FFFcf8; --opt: #f3efe8;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: "Iowan Old Style", Palatino, "Songti SC", "Noto Serif CJK SC", "PingFang SC", serif;
+    background: var(--bg); color: #0f0e0e; min-height: 100vh; line-height: 1.55;
+    -webkit-text-size-adjust: 100%;
+  }
+  .cover {
+    background: var(--dark); color: #f5f2ec;
+    padding: 28px 20px 24px; padding-top: max(28px, env(safe-area-inset-top));
+  }
+  .tag {
+    font-family: ui-monospace, Menlo, monospace; font-size: 11px;
+    letter-spacing: .14em; text-transform: uppercase; color: #a8b5a0; margin-bottom: 10px;
+  }
+  h1 { font-size: 26px; font-weight: 500; letter-spacing: -.02em; }
+  .sub { margin-top: 8px; color: #b8b2a8; font-size: 13.5px; }
+  .back { display: inline-block; margin-top: 14px; color: #a8b5a0; font-size: 13px; text-decoration: none; }
+  main { max-width: 640px; margin: 0 auto; padding: 20px 16px calc(40px + env(safe-area-inset-bottom)); }
+  .bar { width: 36px; height: 3px; background: var(--accent); margin-bottom: 14px; }
+  .dir {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 13px; color: var(--muted); margin-bottom: 14px;
+  }
+  .doc-label {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
+    color: var(--accent); margin: 18px 0 8px;
+  }
+  .doc-label:first-of-type { margin-top: 0; }
+  .email, .web, .sched {
+    background: var(--card); border: 1px solid var(--rule); border-radius: 12px;
+    padding: 16px; margin-bottom: 8px;
+  }
+  .field {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 13px; line-height: 1.5; margin-bottom: 4px; word-break: break-word;
+  }
+  .field b { display: inline-block; min-width: 3.2em; color: var(--muted); font-weight: 600; }
+  .subj { margin: 10px 0 12px; padding-bottom: 12px; border-bottom: 1px solid var(--rule); }
+  .body { font-size: 15.5px; }
+  .body p { margin: 0 0 11px; }
+  .body p:last-child { margin-bottom: 0; }
+  .web h3, .sched h3 {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 15.5px; font-weight: 700; margin-bottom: 8px; line-height: 1.35;
+  }
+  .web .url {
+    font-family: ui-monospace, Menlo, monospace; font-size: 11.5px;
+    color: var(--muted); margin-bottom: 12px; word-break: break-all;
+  }
+  .web ul, .sched ul { padding-left: 1.15em; margin: 0 0 10px; font-size: 15px; }
+  .web li, .sched li { margin-bottom: 6px; }
+  table.sched-table {
+    width: 100%; border-collapse: collapse; font-size: 13.5px;
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif; margin-top: 8px;
+  }
+  table.sched-table th, table.sched-table td {
+    border: 1px solid var(--rule); padding: 8px 8px; text-align: left; vertical-align: top;
+  }
+  table.sched-table th { background: #f3efe8; font-weight: 700; }
+  .q {
+    background: var(--card); border: 1px solid var(--rule); border-radius: 12px;
+    padding: 14px 14px 12px; margin-bottom: 12px; margin-top: 14px;
+  }
+  .stem {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 14.5px; font-weight: 700; margin-bottom: 10px; line-height: 1.4;
+  }
+  .opt {
+    display: block; width: 100%; text-align: left;
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 14px; line-height: 1.45; padding: 11px 12px; margin-bottom: 8px;
+    border: 1px solid var(--rule); border-radius: 10px; background: var(--opt);
+    color: inherit; cursor: pointer; -webkit-tap-highlight-color: transparent;
+  }
+  .opt:last-child { margin-bottom: 0; }
+  .opt.picked { border-color: var(--accent); background: #e8f2ec; }
+  .opt.correct { border-color: var(--accent); background: #e8f2ec; }
+  .opt.wrong { border-color: #b85c5c; background: #f8ecec; }
+  .opt:disabled { cursor: default; opacity: 1; }
+  .actions { display: flex; flex-wrap: wrap; gap: 8px; margin: 18px 0 10px; }
+  .btn {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 14px; padding: 12px 16px; border-radius: 10px;
+    border: 1px solid var(--rule); background: var(--card); color: inherit;
+    cursor: pointer; -webkit-tap-highlight-color: transparent;
+  }
+  .btn.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .score {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 14px; color: var(--muted); margin-bottom: 12px; min-height: 1.2em;
+  }
+  .explain {
+    display: none; background: var(--card); border: 1px solid var(--rule);
+    border-radius: 12px; padding: 16px; margin-top: 8px;
+  }
+  .explain.show { display: block; }
+  .explain h2 {
+    font-size: 17px; font-weight: 600; margin: 18px 0 10px;
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+  }
+  .explain h2:first-child { margin-top: 0; }
+  .explain .zh { font-size: 14.5px; color: #1a1918; margin-bottom: 12px; }
+  .explain .zh p { margin: 0 0 10px; }
+  .explain .zh p:last-child { margin-bottom: 0; }
+  .explain .item {
+    margin-bottom: 16px; font-size: 14.5px; padding-bottom: 14px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .explain .item:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: 0; }
+  .explain .ans {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-weight: 700; color: var(--accent); margin-bottom: 6px;
+  }
+  .explain .qzh {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 13.5px; color: var(--muted); margin-bottom: 8px; line-height: 1.45;
+  }
+  .explain .opts-zh {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 13px; line-height: 1.55; color: #333; margin: 0 0 8px;
+    padding: 10px 12px; background: var(--opt); border-radius: 8px;
+  }
+  .note { margin-top: 20px; color: var(--muted); font-size: 12.5px; }
+</style>
+</head>
+<body>
+  <header class="cover">
+    <div class="tag">TOEIC · Part 7 · Triple passage</div>
+    <h1>托业三篇连读</h1>
+    <p class="sub">Questions 196–200 · 联合推理 · 手机版 · 2026-10-25</p>
+    <a class="back" href="../index.html">← 回单词首页</a>
+  </header>
+  <main>
+    <div class="bar"></div>
+    <p class="dir">Questions 196–200 refer to the following e-mail, web page, and schedule.</p>
+
+    <div class="doc-label">Document 1 · E-mail</div>
+    <article class="email">
+      <div class="field"><b>From</b> Hiro Tanaka, Sales</div>
+      <div class="field"><b>To</b> Lena Ortiz, Marketing</div>
+      <div class="field"><b>Date</b> October 22</div>
+      <div class="field subj"><b>Subject</b> Client visit — need workshop seats</div>
+      <div class="body">
+        <p>Hi Lena,</p>
+        <p>Two buyers from Meridian Retail will visit our campus next week. Could you reserve three seats for the “Retail Analytics Basics” workshop on Tuesday? I will join them.</p>
+        <p>They land at 9:40 a.m. and plan to take the 10:20 shuttle from the airport hotel. Please confirm whether we should meet them at Building C or at the visitor center first.</p>
+        <p>Also, one guest uses a wheelchair—please make sure the room is accessible.</p>
+        <p>Thanks,<br>Hiro</p>
+      </div>
+    </article>
+
+    <div class="doc-label">Document 2 · Web page</div>
+    <article class="web">
+      <h3>Open Workshops · October</h3>
+      <div class="url">www.nordell.com/learning/workshops</div>
+      <div class="body">
+        <p>Employees and registered guests may attend. Advance registration is required. Walk-ins are not accepted when a session is marked Full.</p>
+        <ul>
+          <li><strong>Retail Analytics Basics</strong> — Tue, Oct 28 · 1:00–3:00 p.m. · Room C-210 · Status: <em>3 seats left</em></li>
+          <li><strong>Inventory Forecasting Lab</strong> — Tue, Oct 28 · 1:00–3:00 p.m. · Room B-105 · Status: Full</li>
+          <li><strong>Customer Journey Mapping</strong> — Wed, Oct 29 · 10:00 a.m.–12:00 p.m. · Room C-210 · Status: Open</li>
+        </ul>
+        <p>Building C has step-free access from the visitor center via the glass walkway. Room C-210 is wheelchair accessible; Room B-105 is not.</p>
+        <p>Register by 5:00 p.m. the day before each workshop: learning@nordell.com.</p>
+      </div>
+    </article>
+
+    <div class="doc-label">Document 3 · Schedule</div>
+    <article class="sched">
+      <h3>Campus Shuttle · Week of October 27</h3>
+      <div class="body">
+        <p>Airport Hotel ↔ Nordell Visitor Center</p>
+        <table class="sched-table">
+          <thead>
+            <tr><th>Depart hotel</th><th>Arrive visitor center</th><th>Notes</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>8:50 a.m.</td><td>9:20 a.m.</td><td>Weekdays</td></tr>
+            <tr><td>10:20 a.m.</td><td>10:50 a.m.</td><td>Weekdays</td></tr>
+            <tr><td>1:15 p.m.</td><td>1:45 p.m.</td><td>Weekdays</td></tr>
+            <tr><td>4:40 p.m.</td><td>5:10 p.m.</td><td>Weekdays</td></tr>
+          </tbody>
+        </table>
+        <p style="margin-top:12px">All guests must check in at the visitor center before entering any building. Building C is a 4-minute walk from the visitor center via the glass walkway.</p>
+      </div>
+    </article>
+
+    <div class="q" data-q="196" data-ans="B">
+      <div class="stem">196. Why did Hiro write to Lena?</div>
+      <button type="button" class="opt" data-v="A">(A) To cancel a client meeting on Wednesday</button>
+      <button type="button" class="opt" data-v="B">(B) To ask her to reserve workshop seats for visitors</button>
+      <button type="button" class="opt" data-v="C">(C) To request a new shuttle route to Building B</button>
+      <button type="button" class="opt" data-v="D">(D) To complain that Room B-105 is inaccessible</button>
+    </div>
+    <div class="q" data-q="197" data-ans="C">
+      <div class="stem">197. What is true about the Retail Analytics Basics workshop?</div>
+      <button type="button" class="opt" data-v="A">(A) It is already full.</button>
+      <button type="button" class="opt" data-v="B">(B) It is held in Room B-105.</button>
+      <button type="button" class="opt" data-v="C">(C) It still has three seats available.</button>
+      <button type="button" class="opt" data-v="D">(D) It starts at 10:00 a.m.</button>
+    </div>
+    <div class="q" data-q="198" data-ans="A">
+      <div class="stem">198. Where should the Meridian Retail guests go first after the shuttle ride?</div>
+      <button type="button" class="opt" data-v="A">(A) The visitor center</button>
+      <button type="button" class="opt" data-v="B">(B) Room B-105</button>
+      <button type="button" class="opt" data-v="C">(C) The airport hotel lobby</button>
+      <button type="button" class="opt" data-v="D">(D) Building B security desk</button>
+    </div>
+    <div class="q" data-q="199" data-ans="D">
+      <div class="stem">199. What is the latest time Lena can register the group for Tuesday’s workshop?</div>
+      <button type="button" class="opt" data-v="A">(A) 9:40 a.m. on October 28</button>
+      <button type="button" class="opt" data-v="B">(B) 1:00 p.m. on October 28</button>
+      <button type="button" class="opt" data-v="C">(C) 5:00 p.m. on October 28</button>
+      <button type="button" class="opt" data-v="D">(D) 5:00 p.m. on October 27</button>
+    </div>
+    <div class="q" data-q="200" data-ans="B">
+      <div class="stem">200. What can be concluded from the three documents?</div>
+      <button type="button" class="opt" data-v="A">(A) Hiro should book Inventory Forecasting Lab instead because it has open seats.</button>
+      <button type="button" class="opt" data-v="B">(B) Room C-210 fits Hiro’s accessibility need and still has enough seats for his group.</button>
+      <button type="button" class="opt" data-v="C">(C) The guests will arrive at the visitor center before 10:00 a.m.</button>
+      <button type="button" class="opt" data-v="D">(D) Building C cannot be reached without climbing stairs.</button>
+    </div>
+
+    <div class="actions">
+      <button type="button" class="btn primary" id="check">核对答案</button>
+      <button type="button" class="btn" id="reset">重做</button>
+      <button type="button" class="btn" id="toggleExplain">中文解析</button>
+    </div>
+    <p class="score" id="score"></p>
+
+    <div class="explain" id="explain">
+      <h2>全文译文 · 邮件</h2>
+      <div class="zh">
+        <p><strong>发件人：</strong>Hiro Tanaka，销售部<br>
+        <strong>收件人：</strong>Lena Ortiz，市场部<br>
+        <strong>日期：</strong>10 月 22 日<br>
+        <strong>主题：</strong>客户来访——需要研讨班名额</p>
+        <p>Lena 你好：</p>
+        <p>Meridian Retail 的两位采购下周将来我们园区。能否帮我预订周二「零售分析基础」研讨班的三个座位？我会和他们一起参加。</p>
+        <p>他们上午 9:40 抵达，计划乘坐 10:20 从机场酒店出发的班车。请确认我们应先在 C 楼还是先在访客中心与他们会合。</p>
+        <p>另外，有一位客人使用轮椅——请确保教室无无障碍通行。</p>
+        <p>谢谢，<br>Hiro</p>
+      </div>
+
+      <h2>全文译文 · 网页</h2>
+      <div class="zh">
+        <p><strong>公开研讨班 · 十月</strong><br>
+        www.nordell.com/learning/workshops</p>
+        <p>员工与已登记访客均可参加。须提前报名。标注为 Full（已满）的场次不接受现场报名。</p>
+        <p>· <strong>零售分析基础</strong> — 10 月 28 日（周二）13:00–15:00 · C-210 室 · 状态：<em>剩余 3 个名额</em><br>
+        · <strong>库存预测实验</strong> — 10 月 28 日（周二）13:00–15:00 · B-105 室 · 状态：已满<br>
+        · <strong>客户旅程地图</strong> — 10 月 29 日（周三）10:00–12:00 · C-210 室 · 状态：开放</p>
+        <p>C 楼可从访客中心经玻璃连廊无台阶抵达。C-210 室支持轮椅通行；B-105 室不支持。</p>
+        <p>请于每场研讨班前一日下午 5:00 前报名：learning@nordell.com。</p>
+      </div>
+
+      <h2>全文译文 · 时刻表</h2>
+      <div class="zh">
+        <p><strong>园区班车 · 10 月 27 日当周</strong><br>
+        机场酒店 ↔ Nordell 访客中心</p>
+        <p>· 8:50 发车 → 9:20 到访客中心（工作日）<br>
+        · 10:20 发车 → 10:50 到访客中心（工作日）<br>
+        · 13:15 发车 → 13:45 到访客中心（工作日）<br>
+        · 16:40 发车 → 17:10 到访客中心（工作日）</p>
+        <p>所有访客进入任何楼宇前须先在访客中心登记。C 楼经玻璃连廊步行约 4 分钟可达。</p>
+      </div>
+
+      <h2>答案与解析</h2>
+
+      <div class="item">
+        <div class="ans">196 · B</div>
+        <div class="qzh">题目：Hiro 为什么写信给 Lena？</div>
+        <div class="opts-zh">
+          (A) 取消周三的客户会议<br>
+          (B) 请她为访客预订研讨班座位<br>
+          (C) 要求新增通往 B 楼的班车线路<br>
+          (D) 抱怨 B-105 室无法无障碍通行
+        </div>
+        邮件首段明确：reserve three seats for the workshop。A/C 未提；D 是网页信息，不是写信目的。
+      </div>
+
+      <div class="item">
+        <div class="ans">197 · C</div>
+        <div class="qzh">题目：关于「零售分析基础」研讨班，哪项正确？</div>
+        <div class="opts-zh">
+          (A) 已经满员<br>
+          (B) 在 B-105 室举行<br>
+          (C) 仍有三个名额<br>
+          (D) 上午 10:00 开始
+        </div>
+        网页写 Status: 3 seats left，地点 C-210，时间 1:00–3:00 p.m.。A/B 是另一场；D 是周三场次时间。
+      </div>
+
+      <div class="item">
+        <div class="ans">198 · A</div>
+        <div class="qzh">题目：Meridian Retail 客人坐完班车后应先去哪里？</div>
+        <div class="opts-zh">
+          (A) 访客中心<br>
+          (B) B-105 室<br>
+          (C) 机场酒店大堂<br>
+          (D) B 楼安保台
+        </div>
+        <strong>跨文：</strong>时刻表写班车终点是 visitor center，并规定须先在访客中心登记。Hiro 虽问 Building C 还是 visitor center，规定答案是先访客中心。
+      </div>
+
+      <div class="item">
+        <div class="ans">199 · D</div>
+        <div class="qzh">题目：Lena 最晚何时能为周二研讨班完成报名？</div>
+        <div class="opts-zh">
+          (A) 10 月 28 日上午 9:40<br>
+          (B) 10 月 28 日下午 1:00<br>
+          (C) 10 月 28 日下午 5:00<br>
+          (D) 10 月 27 日下午 5:00
+        </div>
+        <strong>跨文推时间：</strong>周二研讨班 = Oct 28；网页：Register by 5:00 p.m. the day before → 前一天 = Oct 27 下午 5:00。A 是航班抵达；B 是开课；C 把「前一天」误当成当天。
+      </div>
+
+      <div class="item">
+        <div class="ans">200 · B</div>
+        <div class="qzh">题目：综合三篇可以得出什么结论？</div>
+        <div class="opts-zh">
+          (A) Hiro 应改订「库存预测实验」，因为还有空位<br>
+          (B) C-210 室满足 Hiro 的无障碍需求，且名额够他这一组<br>
+          (C) 客人将在上午 10:00 前到达访客中心<br>
+          (D) 到 C 楼必须爬楼梯
+        </div>
+        <strong>三篇联合：</strong>邮件要 3 座 + 轮椅；网页显示 Retail Analytics 在 C-210、剩 3 座、轮椅可进，B-105 已满且不可轮椅；连廊无台阶 → B 正确。A 与 Full / 不可轮椅矛盾；C：10:20 班车 10:50 才到，晚于 10:00；D 与 step-free 矛盾。
+      </div>
+    </div>
+
+    <p class="note">点选项作答；核对后可看三篇全文译文 + 题干/选项译文 + 跨文推理要点。</p>
+  </main>
+<script>
+(function () {
+  var picks = {};
+  document.querySelectorAll(".q").forEach(function (q) {
+    var id = q.getAttribute("data-q");
+    q.querySelectorAll(".opt").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        if (q.classList.contains("locked")) return;
+        q.querySelectorAll(".opt").forEach(function (b) { b.classList.remove("picked"); });
+        btn.classList.add("picked");
+        picks[id] = btn.getAttribute("data-v");
+      });
+    });
+  });
+  document.getElementById("check").addEventListener("click", function () {
+    var right = 0, total = 0;
+    document.querySelectorAll(".q").forEach(function (q) {
+      total++;
+      var ans = q.getAttribute("data-ans");
+      var id = q.getAttribute("data-q");
+      q.classList.add("locked");
+      q.querySelectorAll(".opt").forEach(function (btn) {
+        btn.disabled = true;
+        var v = btn.getAttribute("data-v");
+        btn.classList.remove("picked", "correct", "wrong");
+        if (v === ans) btn.classList.add("correct");
+        else if (picks[id] === v) btn.classList.add("wrong");
+      });
+      if (picks[id] === ans) right++;
+    });
+    document.getElementById("score").textContent = "得分：" + right + " / " + total;
+    document.getElementById("explain").classList.add("show");
+  });
+  document.getElementById("reset").addEventListener("click", function () {
+    picks = {};
+    document.querySelectorAll(".q").forEach(function (q) {
+      q.classList.remove("locked");
+      q.querySelectorAll(".opt").forEach(function (btn) {
+        btn.disabled = false;
+        btn.classList.remove("picked", "correct", "wrong");
+      });
+    });
+    document.getElementById("score").textContent = "";
+    document.getElementById("explain").classList.remove("show");
+  });
+  document.getElementById("toggleExplain").addEventListener("click", function () {
+    document.getElementById("explain").classList.toggle("show");
+  });
+})();
+</script>
+</body>
+</html>
