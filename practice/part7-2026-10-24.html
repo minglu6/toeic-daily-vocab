@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#141414" />
+<title>托业 Part 7 · 2026-10-24</title>
+<style>
+  :root {
+    --bg: #FAF7F2;
+    --dark: #141414;
+    --accent: #3D7A5C;
+    --muted: #6b6560;
+    --rule: #E6E0D6;
+    --card: #FFFcf8;
+    --opt: #f3efe8;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: "Iowan Old Style", Palatino, "Songti SC", "Noto Serif CJK SC", "PingFang SC", serif;
+    background: var(--bg);
+    color: #0f0e0e;
+    min-height: 100vh;
+    line-height: 1.55;
+    -webkit-text-size-adjust: 100%;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 28px 20px 24px;
+    padding-top: max(28px, env(safe-area-inset-top));
+  }
+  .tag {
+    font-family: ui-monospace, Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 10px;
+  }
+  h1 { font-size: 26px; font-weight: 500; letter-spacing: -.02em; }
+  .sub { margin-top: 8px; color: #b8b2a8; font-size: 13.5px; }
+  .back {
+    display: inline-block;
+    margin-top: 14px;
+    color: #a8b5a0;
+    font-size: 13px;
+    text-decoration: none;
+  }
+  main {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 20px 16px calc(40px + env(safe-area-inset-bottom));
+  }
+  .bar { width: 36px; height: 3px; background: var(--accent); margin-bottom: 14px; }
+  .dir {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 13px;
+    color: var(--muted);
+    margin-bottom: 14px;
+  }
+  .email {
+    background: var(--card);
+    border: 1px solid var(--rule);
+    border-radius: 12px;
+    padding: 16px;
+    margin-bottom: 22px;
+  }
+  .field {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 13px;
+    line-height: 1.5;
+    margin-bottom: 4px;
+    word-break: break-word;
+  }
+  .field b {
+    display: inline-block;
+    min-width: 3.2em;
+    color: var(--muted);
+    font-weight: 600;
+  }
+  .subj {
+    margin: 10px 0 12px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .body { font-size: 16px; }
+  .body p { margin: 0 0 12px; }
+  .body p:last-child { margin-bottom: 0; }
+  .q {
+    background: var(--card);
+    border: 1px solid var(--rule);
+    border-radius: 12px;
+    padding: 14px 14px 12px;
+    margin-bottom: 12px;
+  }
+  .stem {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 14.5px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    line-height: 1.4;
+  }
+  .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 14px;
+    line-height: 1.45;
+    padding: 11px 12px;
+    margin-bottom: 8px;
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    background: var(--opt);
+    color: inherit;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .opt:last-child { margin-bottom: 0; }
+  .opt.picked { border-color: var(--accent); background: #e8f2ec; }
+  .opt.correct { border-color: var(--accent); background: #e8f2ec; }
+  .opt.wrong { border-color: #b85c5c; background: #f8ecec; }
+  .opt:disabled { cursor: default; opacity: 1; }
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 18px 0 10px;
+  }
+  .btn {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 14px;
+    padding: 12px 16px;
+    border-radius: 10px;
+    border: 1px solid var(--rule);
+    background: var(--card);
+    color: inherit;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .btn.primary {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+  }
+  .score {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-size: 14px;
+    color: var(--muted);
+    margin-bottom: 12px;
+    min-height: 1.2em;
+  }
+  .explain {
+    display: none;
+    background: var(--card);
+    border: 1px solid var(--rule);
+    border-radius: 12px;
+    padding: 14px 16px;
+    margin-top: 8px;
+  }
+  .explain.show { display: block; }
+  .explain h2 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  .explain .item { margin-bottom: 12px; font-size: 14.5px; }
+  .explain .item:last-child { margin-bottom: 0; }
+  .explain .ans {
+    font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+    font-weight: 700;
+    color: var(--accent);
+    margin-bottom: 4px;
+  }
+  .note {
+    margin-top: 20px;
+    color: var(--muted);
+    font-size: 12.5px;
+  }
+</style>
+</head>
+<body>
+  <header class="cover">
+    <div class="tag">TOEIC · Part 7 · Single passage</div>
+    <h1>托业阅读练习</h1>
+    <p class="sub">Questions 147–150 · 手机版 · 2026-10-24</p>
+    <a class="back" href="../index.html">← 回单词首页</a>
+  </header>
+  <main>
+    <div class="bar"></div>
+    <p class="dir">Questions 147–150 refer to the following e-mail.</p>
+
+    <article class="email">
+      <div class="field"><b>From</b> Mina Park, Human Resources</div>
+      <div class="field"><b>To</b> All Department Managers</div>
+      <div class="field"><b>Date</b> October 24</div>
+      <div class="field subj"><b>Subject</b> Stakeholder briefing and severance schedule — Plant B restructuring</div>
+      <div class="body">
+        <p>Dear Managers,</p>
+        <p>As announced last week, Plant B will complete its restructuring by November 30. Before we finalize the employee list, please join a stakeholder meeting on Monday at 10:00 a.m. in Conference Room A. Key stakeholders from Operations, Finance, and Legal will review the project timeline and confirm which roles are affected.</p>
+        <p>Employees whose positions are eliminated will receive a severance package equal to four months of base pay, plus continued health coverage through year-end. Managers must not discuss individual cases until HR has issued a formal termination notice. If you have questions about accounts payable related to the package, contact Finance before Friday.</p>
+        <p>Please reply by 5:00 p.m. today to confirm your attendance. We will reconvene the same group next Thursday if a quorum is not reached on Monday.</p>
+        <p>Regards,<br>Mina Park<br>HR Business Partner</p>
+      </div>
+    </article>
+
+    <div class="q" data-q="147" data-ans="B">
+      <div class="stem">147. What is the main purpose of the e-mail?</div>
+      <button type="button" class="opt" data-v="A">(A) To announce the opening of a new plant</button>
+      <button type="button" class="opt" data-v="B">(B) To invite managers to a meeting about restructuring</button>
+      <button type="button" class="opt" data-v="C">(C) To request approval for a government subsidy</button>
+      <button type="button" class="opt" data-v="D">(D) To introduce a new company spokesperson</button>
+    </div>
+    <div class="q" data-q="148" data-ans="B">
+      <div class="stem">148. According to the e-mail, what will affected employees receive?</div>
+      <button type="button" class="opt" data-v="A">(A) A promotion and a training stipend</button>
+      <button type="button" class="opt" data-v="B">(B) Four months of base pay and health coverage through year-end</button>
+      <button type="button" class="opt" data-v="C">(C) A monthly retainer and stock options</button>
+      <button type="button" class="opt" data-v="D">(D) Only a written apology from Legal</button>
+    </div>
+    <div class="q" data-q="149" data-ans="B">
+      <div class="stem">149. When should managers reply to confirm attendance?</div>
+      <button type="button" class="opt" data-v="A">(A) Before Friday</button>
+      <button type="button" class="opt" data-v="B">(B) By 5:00 p.m. today</button>
+      <button type="button" class="opt" data-v="C">(C) On November 30</button>
+      <button type="button" class="opt" data-v="D">(D) Next Thursday morning</button>
+    </div>
+    <div class="q" data-q="150" data-ans="C">
+      <div class="stem">150. What will happen if not enough people attend on Monday?</div>
+      <button type="button" class="opt" data-v="A">(A) The restructuring will be canceled</button>
+      <button type="button" class="opt" data-v="B">(B) Finance will issue severance immediately</button>
+      <button type="button" class="opt" data-v="C">(C) The same group will meet again next Thursday</button>
+      <button type="button" class="opt" data-v="D">(D) Legal will publish the employee list online</button>
+    </div>
+
+    <div class="actions">
+      <button type="button" class="btn primary" id="check">核对答案</button>
+      <button type="button" class="btn" id="reset">重做</button>
+      <button type="button" class="btn" id="toggleExplain">中文解析</button>
+    </div>
+    <p class="score" id="score"></p>
+
+    <div class="explain" id="explain">
+      <h2>答案与解析</h2>
+      <div class="item">
+        <div class="ans">147 · B</div>
+        邮件主要请各部门经理参加周一的 stakeholder meeting，讨论 Plant B 重组。A/C/D 文中均未提及。
+      </div>
+      <div class="item">
+        <div class="ans">148 · B</div>
+        原文：four months of base pay, plus continued health coverage through year-end。对应遣散方案内容。
+      </div>
+      <div class="item">
+        <div class="ans">149 · B</div>
+        原文：Please reply by 5:00 p.m. today to confirm your attendance。Before Friday 是联系财务的时限，别混。
+      </div>
+      <div class="item">
+        <div class="ans">150 · C</div>
+        原文：We will reconvene … next Thursday if a quorum is not reached on Monday。不足法定人数则下周同一批人复会。
+      </div>
+    </div>
+
+    <p class="note">答题可点选项；核对后可看中文解析。由职场学习助手维护。</p>
+  </main>
+<script>
+(function () {
+  var picks = {};
+  document.querySelectorAll(".q").forEach(function (q) {
+    var id = q.getAttribute("data-q");
+    q.querySelectorAll(".opt").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        if (q.classList.contains("locked")) return;
+        q.querySelectorAll(".opt").forEach(function (b) { b.classList.remove("picked"); });
+        btn.classList.add("picked");
+        picks[id] = btn.getAttribute("data-v");
+      });
+    });
+  });
+  document.getElementById("check").addEventListener("click", function () {
+    var right = 0, total = 0;
+    document.querySelectorAll(".q").forEach(function (q) {
+      total++;
+      var ans = q.getAttribute("data-ans");
+      var id = q.getAttribute("data-q");
+      q.classList.add("locked");
+      q.querySelectorAll(".opt").forEach(function (btn) {
+        btn.disabled = true;
+        var v = btn.getAttribute("data-v");
+        btn.classList.remove("picked", "correct", "wrong");
+        if (v === ans) btn.classList.add("correct");
+        else if (picks[id] === v) btn.classList.add("wrong");
+      });
+      if (picks[id] === ans) right++;
+    });
+    document.getElementById("score").textContent = "得分：" + right + " / " + total;
+    document.getElementById("explain").classList.add("show");
+  });
+  document.getElementById("reset").addEventListener("click", function () {
+    picks = {};
+    document.querySelectorAll(".q").forEach(function (q) {
+      q.classList.remove("locked");
+      q.querySelectorAll(".opt").forEach(function (btn) {
+        btn.disabled = false;
+        btn.classList.remove("picked", "correct", "wrong");
+      });
+    });
+    document.getElementById("score").textContent = "";
+    document.getElementById("explain").classList.remove("show");
+  });
+  document.getElementById("toggleExplain").addEventListener("click", function () {
+    document.getElementById("explain").classList.toggle("show");
+  });
+})();
+</script>
+</body>
+</html>
