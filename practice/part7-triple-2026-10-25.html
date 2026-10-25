@@ -301,12 +301,11 @@
   <div class="sheet">
         <div class="header">
       <div class="part">READING TEST · PART 7</div>
-      <div class="meta">Questions 196–200 · Triple passage · Practice (not official ETS content)</div>
-      <a class="back" href="../index.html">← 回单词首页</a>
-    </div>
+      <div class="meta">Questions 196–200 · Triple passage</div>
+</div>
     <div class="timer-bar" id="timerBar" data-rec-sec="225">
       <span>用时 <span class="clock" id="timerClock">00:00</span></span>
-      <span class="rec">官方折算 3:45（75分/100题 × 5题；ETS未公布单套推荐）</span>
+      <span class="rec">3:45</span>
       <span class="status" id="timerStatus">计时中</span>
       <button type="button" class="btn-timer" id="timerPause">暂停</button>
     </div>
@@ -505,9 +504,7 @@
         <strong>三篇联合：</strong>邮件要 3 座 + 轮椅；网页显示 Retail Analytics 在 C-210、剩 3 座、轮椅可进，B-105 已满且不可轮椅；连廊无台阶 → B 正确。A 与 Full / 不可轮椅矛盾；C：10:20 班车 10:50 才到，晚于 10:00；D 与 step-free 矛盾。
       </div>
     </div>
-
-    <p class="note">仿写练习（非 ETS 真题原文）。点选项作答；核对后可看三篇全文译文 + 题干/选项译文 + 跨文推理要点。</p>
-  </div>
+</div>
 <script>
 (function () {
   var picks = {};
@@ -581,7 +578,7 @@
     clock.textContent = fmt(elapsed);
     if (elapsed > recSec) {
       bar.classList.add("over");
-      status.textContent = "已超过官方折算时间 +" + fmt(elapsed - recSec);
+      status.textContent = "超时 +" + fmt(elapsed - recSec);
     } else {
       bar.classList.remove("over");
       var left = recSec - elapsed;
@@ -597,7 +594,7 @@
     paused = !paused;
     pauseBtn.textContent = paused ? "继续" : "暂停";
     if (paused) status.textContent = "已暂停 · " + clock.textContent;
-    else if (elapsed > recSec) status.textContent = "已超过官方折算时间 +" + fmt(elapsed - recSec);
+    else if (elapsed > recSec) status.textContent = "超时 +" + fmt(elapsed - recSec);
     else status.textContent = "折算剩余 " + fmt(recSec - elapsed);
   });
 
@@ -609,7 +606,7 @@
     pauseBtn.textContent = "已结束";
     pauseBtn.disabled = true;
     var msg = "完成用时 " + fmt(elapsed);
-    if (elapsed <= recSec) msg += "（未超过官方折算）";
+    if (elapsed <= recSec) msg += "";
     else msg += "（超时 " + fmt(elapsed - recSec) + "）";
     status.textContent = msg;
     var score = document.getElementById("score");
