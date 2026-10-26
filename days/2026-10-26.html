@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 10/26 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.10.26</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">layover</span>
+        <span class="ipa">/ˈleɪˌoʊvər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">中途停留；转机停留；中转停留时间</div>
+        <div class="label">词根</div><div>lay（停留）+ over（越过）→ 途中短暂停留</div>
+        <div class="label">词源</div><div>由动词短语 lay over 名词化而来，航空与差旅语境指航班之间的中转停留</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅高频：a two-hour layover（两小时中转停留）；layover in Chicago（在芝加哥转机停留）；during the layover（中转停留期间）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a short layover（短暂中转停留）</span><span class="chip">a layover in（在…转机停留）</span><span class="chip">during the layover（中转停留期间）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Our flight has a two-hour layover in Singapore before continuing to Sydney.</en>
+          <zh>我们的航班在继续飞往悉尼之前，会在新加坡转机停留两小时。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">customs</span>
+        <span class="ipa">/ˈkʌstəmz/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">海关；海关检查；关税部门</div>
+        <div class="label">词根</div><div>custom（惯例/关税）+ -s → 海关机构</div>
+        <div class="label">词源</div><div>源自拉丁语 consuetudo「习惯」；复数形式特指征收关税与查验行李的海关机关</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅高频：go through customs（过海关）；customs declaration（海关申报）；customs clearance（清关）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">go through customs（过海关）</span><span class="chip">a customs declaration（海关申报）</span><span class="chip">customs clearance（清关）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>All passengers must go through customs before exiting the international terminal.</en>
+          <zh>所有乘客在离开国际航站楼前都必须过海关。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">standby</span>
+        <span class="ipa">/ˈstændˌbaɪ/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">候补；待机；候补登机</div>
+        <div class="label">词根</div><div>stand（站）+ by（在旁）→ 待命等候</div>
+        <div class="label">词源</div><div>由短语 stand by「待命」合成；航空中指未订到座位、候补登机的旅客或票务状态</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅高频：fly standby（候补登机）；on standby（待命/候补中）；standby ticket（候补票）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">fly standby（候补登机）</span><span class="chip">on standby（待命/候补中）</span><span class="chip">a standby passenger（候补乘客）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>If the flight is full, you may still get a seat by flying standby.</en>
+          <zh>如果航班已满，你仍可能通过候补登机获得座位。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">stopover</span>
+        <span class="ipa">/ˈstɑːpˌoʊvər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">中途停留；经停；过境停留（可过夜）</div>
+        <div class="label">词根</div><div>stop（停下）+ over（越过）→ 途中停留</div>
+        <div class="label">词源</div><div>由 stop over 合成；与 layover 相近，但常强调可离开机场甚至过夜的较长停留</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅高频：a one-night stopover（过夜经停）；stopover privilege（经停权益）；allow a stopover（允许中途停留）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a stopover in（在…经停）</span><span class="chip">a one-night stopover（过夜经停）</span><span class="chip">allow a stopover（允许中途停留）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The ticket includes a free one-night stopover in Dubai.</en>
+          <zh>该机票包含在迪拜免费过夜经停一晚。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">cubicle</span>
+        <span class="ipa">/ˈkjuːbɪkl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">隔间办公位；小隔间；工位隔间</div>
+        <div class="label">词根</div><div>cube（立方）+ -icle（小）→ 小隔间</div>
+        <div class="label">词源</div><div>源自拉丁语 cubiculum「卧室/小室」；现代办公室指以隔板围成的个人工位</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公环境高频：office cubicle（办公隔间）；cubicle farm（隔间丛林）；move out of a cubicle（搬出隔间工位）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an office cubicle（办公隔间）</span><span class="chip">a cubicle farm（隔间丛林）</span><span class="chip">share a cubicle（共用隔间）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>New hires are assigned a cubicle on the third floor until private offices are available.</en>
+          <zh>新员工会被分配到三楼的隔间工位，直到有独立办公室可用。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">hot-desking</span>
+        <span class="ipa">/ˈhɑːt ˌdeskɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">共享工位制；热桌办公；非固定座位办公</div>
+        <div class="label">词根</div><div>hot（热的/轮换的）+ desk（桌子）+ -ing → 轮流使用工位</div>
+        <div class="label">词源</div><div>源自「热椅子」概念：座位不固定，员工到办公室后临时选用空闲工位</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公/HR 高频：introduce hot-desking（推行共享工位）；hot-desking policy（共享工位政策）；hot-desking arrangement（轮位安排）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">introduce hot-desking（推行共享工位）</span><span class="chip">a hot-desking policy（共享工位政策）</span><span class="chip">a hot-desking arrangement（轮位安排）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The firm introduced hot-desking to cut real-estate costs and free up unused desks.</en>
+          <zh>公司推行共享工位制，以降低不动产成本并腾出闲置工位。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">voicemail</span>
+        <span class="ipa">/ˈvɔɪsˌmeɪl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">语音信箱；语音留言；留言系统</div>
+        <div class="label">词根</div><div>voice（声音）+ mail（邮件）→ 语音邮件</div>
+        <div class="label">词源</div><div>20 世纪后期电信用语，指电话未接通时录制并存储的语音留言</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公沟通高频：leave a voicemail（留语音留言）；check voicemail（查语音信箱）；voicemail message（语音留言）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">leave a voicemail（留语音留言）</span><span class="chip">check your voicemail（查语音信箱）</span><span class="chip">a voicemail message（语音留言）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>If I miss your call, please leave a voicemail with your callback number.</en>
+          <zh>如果我没接到电话，请在语音信箱留言并留下回电号码。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">letterhead</span>
+        <span class="ipa">/ˈletərˌhed/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">信头纸；印有抬头的公文纸；公司信笺抬头</div>
+        <div class="label">词根</div><div>letter（信）+ head（头部）→ 信纸顶部的抬头</div>
+        <div class="label">词源</div><div>指印有公司名称、地址与标识的正式信纸，亦指该抬头本身</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公文/商务高频：on company letterhead（印在公司信头纸上）；official letterhead（正式信头纸）；print on letterhead（印在信头纸上）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">on company letterhead（印在公司信头纸上）</span><span class="chip">official letterhead（正式信头纸）</span><span class="chip">print on letterhead（印在信头纸上）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please submit the complaint on company letterhead so we can verify the sender.</en>
+          <zh>请将投诉写在公司信头纸上提交，以便我们核实发件方。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">open-plan</span>
+        <span class="ipa">/ˌoʊpən ˈplæn/</span>
+        <span class="pos">adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">开放式（办公）的；无隔间布局的；通透式的</div>
+        <div class="label">词根</div><div>open（开放）+ plan（平面布局）→ 无封闭隔断的布局</div>
+        <div class="label">词源</div><div>建筑设计用语，后广泛用于描述无独立隔间、空间连通的办公室布局</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公环境高频：an open-plan office（开放式办公室）；open-plan layout（开放式布局）；prefer open-plan（偏好开放式办公）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an open-plan office（开放式办公室）</span><span class="chip">an open-plan layout（开放式布局）</span><span class="chip">open-plan workspace（开放式工作空间）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Many staff find the open-plan office noisy during peak calling hours.</en>
+          <zh>许多员工觉得开放式办公室在通话高峰时段很吵。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">tagline</span>
+        <span class="ipa">/ˈtæɡˌlaɪn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">广告语；品牌口号；宣传标语</div>
+        <div class="label">词根</div><div>tag（标签）+ line（一行字）→ 一句标签式口号</div>
+        <div class="label">词源</div><div>营销用语，指紧跟品牌名、用于记忆与定位的简短广告语</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销高频：brand tagline（品牌广告语）；catchy tagline（朗朗上口的口号）；rewrite the tagline（改写广告语）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a brand tagline（品牌广告语）</span><span class="chip">a catchy tagline（朗朗上口的口号）</span><span class="chip">rewrite the tagline（改写广告语）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The new tagline emphasizes reliability rather than low price.</en>
+          <zh>新广告语强调可靠性，而非低价。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">billboard</span>
+        <span class="ipa">/ˈbɪlˌbɔːrd/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">广告牌；大型户外广告板；看板</div>
+        <div class="label">词根</div><div>bill（告示）+ board（板）→ 张贴告示的板</div>
+        <div class="label">词源</div><div>原指张贴海报的木板，现指公路或城市中的大型户外广告媒介</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销高频：highway billboard（公路广告牌）；billboard campaign（广告牌投放活动）；rent a billboard（租用广告牌）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a highway billboard（公路广告牌）</span><span class="chip">a billboard campaign（广告牌投放活动）</span><span class="chip">rent a billboard（租用广告牌）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The launch campaign featured billboards near major transit hubs.</en>
+          <zh>发布活动在主要交通枢纽附近投放了广告牌。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">soft-launch</span>
+        <span class="ipa">/ˈsɔːft ˌlɔːntʃ/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">软启动；小范围试发布；低调上线</div>
+        <div class="label">词根</div><div>soft（柔和的）+ launch（发布）→ 低调试发布</div>
+        <div class="label">词源</div><div>产品营销用语，指先在有限市场或用户群试推，再全面正式发布</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销/产品高频：a soft-launch in Asia（在亚洲软启动）；soft-launch a product（小范围试发产品）；after the soft-launch（软启动之后）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a soft-launch in（在…软启动）</span><span class="chip">soft-launch a product（小范围试发产品）</span><span class="chip">after the soft-launch（软启动之后）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We will soft-launch the app in two cities before a nationwide release.</en>
+          <zh>我们将在全国上线前，先在两个城市对应用进行软启动。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">cross-sell</span>
+        <span class="ipa">/ˈkrɔːs ˌsel/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">交叉销售；搭售相关产品；交叉推销</div>
+        <div class="label">词根</div><div>cross（交叉）+ sell（销售）→ 向现有客户推销相关产品</div>
+        <div class="label">词源</div><div>销售与银行零售常用语，指在客户已购产品基础上推荐互补商品或服务</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">销售高频：cross-sell insurance（交叉销售保险）；cross-sell opportunities（交叉销售机会）；a cross-sell strategy（交叉销售策略）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">cross-sell products（交叉销售产品）</span><span class="chip">cross-sell opportunities（交叉销售机会）</span><span class="chip">a cross-sell strategy（交叉销售策略）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Bank tellers are trained to cross-sell savings products to checking customers.</en>
+          <zh>银行柜员会接受培训，向支票账户客户交叉销售储蓄产品。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">upsell</span>
+        <span class="ipa">/ˈʌpˌsel/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">向上销售；推销更高档版本；加售升级</div>
+        <div class="label">词根</div><div>up（向上）+ sell（销售）→ 推销更高价/更高配选项</div>
+        <div class="label">词源</div><div>零售与服务业用语，指引导客户购买更贵、功能更多的版本或附加项</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">销售高频：upsell to a premium plan（向上销售至高级方案）；upsell techniques（加售技巧）；successful upsell（成功的向上销售）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">upsell to a premium plan（向上销售至高级方案）</span><span class="chip">upsell techniques（加售技巧）</span><span class="chip">an upsell opportunity（向上销售机会）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The agent tried to upsell me from the basic package to the unlimited plan.</en>
+          <zh>客服试图把我从基础套餐向上销售到无限量方案。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">flagship</span>
+        <span class="ipa">/ˈflæɡˌʃɪp/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">旗舰；旗舰店/产品；代表性主打</div>
+        <div class="label">词根</div><div>flag（旗）+ ship（船）→ 舰队司令舰；引申为最重要代表</div>
+        <div class="label">词源</div><div>原指悬挂司令旗的军舰，后引申为品牌最重要的门店、产品或业务线</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销高频：flagship store（旗舰店）；flagship product（旗舰产品）；flagship brand（旗舰品牌）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a flagship store（旗舰店）</span><span class="chip">a flagship product（旗舰产品）</span><span class="chip">the flagship brand（旗舰品牌）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company opened a flagship store on Fifth Avenue last month.</en>
+          <zh>该公司上个月在第五大道开设了一家旗舰店。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">accrual</span>
+        <span class="ipa">/əˈkruːəl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">应计；权责发生；应计项目</div>
+        <div class="label">词根</div><div>accrue（累积/应计）+ -al → 应计事项</div>
+        <div class="label">词源</div><div>源自拉丁语 accrescere「增长」；会计中指已发生但尚未收付的收入或费用确认</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：accrual accounting（权责发生制会计）；expense accrual（费用应计）；month-end accruals（月末应计）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">accrual accounting（权责发生制会计）</span><span class="chip">an expense accrual（费用应计）</span><span class="chip">month-end accruals（月末应计）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The controller recorded an accrual for unpaid contractor invoices.</en>
+          <zh>财务总监为尚未支付的承包商发票做了应计入账。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">overdraft</span>
+        <span class="ipa">/ˈoʊvərˌdræft/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">透支；账户透支额；透支额度</div>
+        <div class="label">词根</div><div>over（超过）+ draft（支取）→ 超额支取</div>
+        <div class="label">词源</div><div>银行业用语，指账户余额不足时仍允许支付所形成的负余额或约定透支额度</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/银行高频：overdraft protection（透支保护）；overdraft fee（透支手续费）；an authorized overdraft（约定透支）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">overdraft protection（透支保护）</span><span class="chip">an overdraft fee（透支手续费）</span><span class="chip">an authorized overdraft（约定透支）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The account incurred a $35 overdraft fee after the automatic payment cleared.</en>
+          <zh>自动扣款入账后，该账户产生了 35 美元的透支手续费。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">exchange-rate</span>
+        <span class="ipa">/ɪksˈtʃeɪndʒ ˌreɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">汇率；外汇兑换率；汇价</div>
+        <div class="label">词根</div><div>exchange（兑换）+ rate（比率）→ 货币兑换比率</div>
+        <div class="label">词源</div><div>国际贸易与金融核心术语，指一种货币兑换另一种货币的价格</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/差旅高频：fluctuating exchange-rate（波动的汇率）；favorable exchange-rate（有利汇率）；exchange-rate risk（汇率风险）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">the current exchange-rate（当前汇率）</span><span class="chip">a favorable exchange-rate（有利汇率）</span><span class="chip">exchange-rate risk（汇率风险）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>A weaker yen raised our import costs because of the exchange-rate shift.</en>
+          <zh>日元走弱导致汇率变动，推高了我们的进口成本。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">solvency</span>
+        <span class="ipa">/ˈsɑːlvənsi/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">偿付能力；清偿能力；资能抵债状态</div>
+        <div class="label">词根</div><div>solvent（有偿付能力的）+ -cy → 偿付能力</div>
+        <div class="label">词源</div><div>源自拉丁语 solvere「解开/偿付」；财务上指企业长期有能力偿还债务</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：financial solvency（财务偿付能力）；solvency ratio（偿付能力比率）；maintain solvency（保持偿付能力）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">financial solvency（财务偿付能力）</span><span class="chip">a solvency ratio（偿付能力比率）</span><span class="chip">maintain solvency（保持偿付能力）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Lenders reviewed the firm&#x27;s solvency before approving the expansion loan.</en>
+          <zh>贷款方在批准扩张贷款前审查了该公司的偿付能力。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">working-capital</span>
+        <span class="ipa">/ˈwɜːrkɪŋ ˌkæpɪtl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">营运资金；流动资金；周转资本</div>
+        <div class="label">词根</div><div>working（营运中的）+ capital（资本）→ 日常运营所需资金</div>
+        <div class="label">词源</div><div>会计与公司金融术语，通常指流动资产减去流动负债后的净额</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：improve working-capital（改善营运资金）；working-capital management（营运资金管理）；negative working-capital（负营运资金）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">improve working-capital（改善营运资金）</span><span class="chip">working-capital management（营运资金管理）</span><span class="chip">short of working-capital（营运资金不足）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Delayed customer payments have tightened our working-capital this quarter.</en>
+          <zh>客户回款延迟使本季度营运资金趋紧。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">maturity</span>
+        <span class="ipa">/məˈtʃʊrəti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">到期；到期日；期限届满；（债券等）满期</div>
+        <div class="label">词根</div><div>mature（成熟/到期）+ -ity → 到期状态</div>
+        <div class="label">词源</div><div>源自拉丁语 maturitas「成熟」；金融中特指贷款、债券等到期偿还的时点</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：at maturity（到期时）；maturity date（到期日）；bonds reaching maturity（即将到期的债券）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">at maturity（到期时）</span><span class="chip">the maturity date（到期日）</span><span class="chip">reach maturity（到期）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The bond pays the principal in full at maturity.</en>
+          <zh>该债券在到期时全额偿付本金。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">probation</span>
+        <span class="ipa">/proʊˈbeɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">试用期；见习期；考察期</div>
+        <div class="label">词根</div><div>probe（探查）相关拉丁词根 + -ation → 试验/考察</div>
+        <div class="label">词源</div><div>源自拉丁语 probatio「检验」；HR 中指新员工转正前的试用考察阶段</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：on probation（处于试用期）；probation period（试用期）；pass probation（通过试用期）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">on probation（处于试用期）</span><span class="chip">a probation period（试用期）</span><span class="chip">pass probation（通过试用期）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>New employees remain on probation for the first three months.</en>
+          <zh>新员工在最初三个月处于试用期。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">secondment</span>
+        <span class="ipa">/sɪˈkɑːndmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">借调；临时调派；外派支援</div>
+        <div class="label">词根</div><div>second（调派）+ -ment → 被借调的安排</div>
+        <div class="label">词源</div><div>英式 HR/公务用语，指员工暂时调往其他部门、分公司或外部机构工作</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：on secondment（借调中）；a six-month secondment（为期六个月的借调）；secondment to headquarters（借调至总部）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">on secondment（借调中）</span><span class="chip">a six-month secondment（为期六个月的借调）</span><span class="chip">secondment to（借调至）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>She is on a six-month secondment to the regional office in Osaka.</en>
+          <zh>她正在大阪区域办公室进行为期六个月的借调。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">sabbatical</span>
+        <span class="ipa">/səˈbætɪkl/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">休假研修；学术年假；长期公休</div>
+        <div class="label">词根</div><div>Sabbath（安息日）相关 → 周期性休息年</div>
+        <div class="label">词源</div><div>源自希伯来传统的安息年概念；学术界与部分企业指带薪或停薪的长期研修休假</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：take a sabbatical（休研修假）；sabbatical leave（公休/研修假）；a one-year sabbatical（一年研修假）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">take a sabbatical（休研修假）</span><span class="chip">sabbatical leave（公休/研修假）</span><span class="chip">a one-year sabbatical（一年研修假）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>After ten years of service, professors may apply for a paid sabbatical.</en>
+          <zh>服务满十年后，教授可申请带薪研修假。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">flextime</span>
+        <span class="ipa">/ˈfleksˌtaɪm/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">弹性工时；弹性上班制；弹性工作时间</div>
+        <div class="label">词根</div><div>flex（灵活）+ time（时间）→ 灵活的工作时间</div>
+        <div class="label">词源</div><div>20 世纪后期 HR 用语（亦作 flexitime），指在核心工时之外可自行安排上下班时间的制度</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：offer flextime（提供弹性工时）；flextime policy（弹性工时政策）；work flextime（实行弹性上班）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">offer flextime（提供弹性工时）</span><span class="chip">a flextime policy（弹性工时政策）</span><span class="chip">work flextime（实行弹性上班）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Parents of young children often prefer flextime so they can handle school drop-offs.</en>
+          <zh>有年幼子女的家长通常更喜欢弹性工时，以便接送孩子上学。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">burnout</span>
+        <span class="ipa">/ˈbɜːrnˌaʊt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">职业倦怠；过劳耗竭；精力燃尽</div>
+        <div class="label">词根</div><div>burn（燃烧）+ out（尽）→ 燃尽 → 身心耗竭</div>
+        <div class="label">词源</div><div>由 burn out 名词化；现代职场心理学指长期压力导致的情绪与精力枯竭</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/健康高频：employee burnout（员工倦怠）；prevent burnout（预防倦怠）；suffer from burnout（遭受职业倦怠）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">employee burnout（员工倦怠）</span><span class="chip">prevent burnout（预防倦怠）</span><span class="chip">suffer from burnout（遭受职业倦怠）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Heavy overtime without rest days led to widespread burnout in the team.</en>
+          <zh>长时间加班且缺少休息日，导致团队普遍出现职业倦怠。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">succession</span>
+        <span class="ipa">/səkˈseʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">继任；接班；职位继承安排</div>
+        <div class="label">词根</div><div>succeed（继任）+ -ion → 继任过程/安排</div>
+        <div class="label">词源</div><div>源自拉丁语 successio「随后而来」；企业管理中特指关键岗位的接班人规划</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/治理高频：succession planning（继任规划）；leadership succession（领导层接班）；order of succession（继任顺序）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">succession planning（继任规划）</span><span class="chip">leadership succession（领导层接班）</span><span class="chip">a succession plan（继任计划）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The board accelerated succession planning after the CEO announced retirement.</en>
+          <zh>首席执行官宣布退休后，董事会加快了继任规划。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">force-majeure</span>
+        <span class="ipa">/ˌfɔːrs mɑːˈʒɜːr/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">不可抗力；不可抗力条款；免责事由</div>
+        <div class="label">词根</div><div>法语 force（力量）+ majeure（较大的）→ 重大不可抗力</div>
+        <div class="label">词源</div><div>法语法律用语进入英语合同，指地震、战争等无法预见且无法控制的事件可免除履约责任</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同高频：force-majeure clause（不可抗力条款）；invoke force-majeure（援引不可抗力）；force-majeure event（不可抗力事件）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a force-majeure clause（不可抗力条款）</span><span class="chip">invoke force-majeure（援引不可抗力）</span><span class="chip">a force-majeure event（不可抗力事件）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The supplier invoked the force-majeure clause after the port was closed by the storm.</en>
+          <zh>港口因风暴关闭后，供应商援引了不可抗力条款。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">boilerplate</span>
+        <span class="ipa">/ˈbɔɪlərˌpleɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">套用条款；标准模板文本；样板条款</div>
+        <div class="label">词根</div><div>boiler（锅炉）+ plate（钢板）→ 原指可重复使用的铅版文字</div>
+        <div class="label">词源</div><div>原指新闻铅版；法律与商务中引申为可反复套用的标准合同条款或模板措辞</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同高频：boilerplate language（套用条款用语）；contract boilerplate（合同标准条款）；standard boilerplate（标准套用文本）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">boilerplate language（套用条款用语）</span><span class="chip">contract boilerplate（合同标准条款）</span><span class="chip">standard boilerplate（标准套用文本）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Most of the agreement is boilerplate, but the payment terms were heavily negotiated.</en>
+          <zh>协议大部分是套用条款，但付款条款经过了充分协商。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">action-item</span>
+        <span class="ipa">/ˈækʃn ˌaɪtəm/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">待办事项；行动项；会议落实任务</div>
+        <div class="label">词根</div><div>action（行动）+ item（条目）→ 需采取行动的条目</div>
+        <div class="label">词源</div><div>会议管理用语，指会议纪要中明确负责人与截止日期的具体任务条目</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议高频：assign an action-item（分配待办事项）；action-item list（行动项清单）；follow up on action-items（跟进待办事项）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">assign an action-item（分配待办事项）</span><span class="chip">an action-item list（行动项清单）</span><span class="chip">follow up on action-items（跟进待办事项）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Each action-item in the minutes names an owner and a due date.</en>
+          <zh>会议纪要中的每一项待办事项都写明了负责人和截止日期。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
