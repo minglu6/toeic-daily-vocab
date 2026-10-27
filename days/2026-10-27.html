@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 10/27 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.10.27</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">cold-call</span>
+        <span class="ipa">/ˈkoʊld ˌkɔːl/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">陌生拜访电话；冷电话推销；主动外呼潜在客户</div>
+        <div class="label">词根</div><div>cold（冷/陌生）+ call（电话）→ 对陌生人打电话</div>
+        <div class="label">词源</div><div>源自销售术语，指事先无关系或预约、向潜在客户主动拨打的推销电话</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">销售高频：make a cold call（打陌生推销电话）；cold-call a prospect（向潜在客户冷电）；cold-calling campaign（陌生外呼活动）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">make a cold call（打陌生推销电话）</span><span class="chip">cold-call a prospect（向潜在客户冷电）</span><span class="chip">a cold-calling script（陌生外呼话术）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>New sales reps spend the first month learning how to cold-call enterprise prospects.</en>
+          <zh>新销售代表会用第一个月学习如何向企业潜在客户打陌生推销电话。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">churn</span>
+        <span class="ipa">/tʃɜːrn/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">客户流失；用户流失率；流失（客户）</div>
+        <div class="label">词根</div><div>无（源自搅拌黄油的 churn，引申为不断流动）</div>
+        <div class="label">词源</div><div>原指搅拌；商业语境喻客户像被搅动般不断离开，常指订阅或服务业务的客户流失</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销/订阅高频：customer churn（客户流失）；reduce churn（降低流失率）；churn rate（流失率）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">customer churn（客户流失）</span><span class="chip">reduce churn（降低流失率）</span><span class="chip">a high churn rate（高流失率）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The product team is redesigning onboarding to reduce monthly customer churn.</en>
+          <zh>产品团队正在重新设计入职引导流程，以降低每月客户流失。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">escrow</span>
+        <span class="ipa">/ˈeskrəʊ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">托管；第三方保管；托管账户</div>
+        <div class="label">词根</div><div>无（古法语 escroue「卷轴/契据」）</div>
+        <div class="label">词源</div><div>源自中古法语，指由第三方保管的契据；现多指交易完成前由中立方保管资金或文件</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/金融高频：hold in escrow（托管保管）；an escrow account（托管账户）；release from escrow（从托管中放行）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">hold funds in escrow（将资金托管）</span><span class="chip">an escrow account（托管账户）</span><span class="chip">release from escrow（从托管中放行）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The deposit will be held in escrow until both parties sign the closing documents.</en>
+          <zh>定金将托管保管，直至双方签署交割文件。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">nondisclosure</span>
+        <span class="ipa">/ˌnɒndɪsˈkləʊʒər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">保密；不披露；保密义务（常指 NDA）</div>
+        <div class="label">词根</div><div>non-（不）+ disclosure（披露）→ 不披露</div>
+        <div class="label">词源</div><div>法律与商务用语，指不得向第三方透露机密信息的约定，常体现为 nondisclosure agreement</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同高频：a nondisclosure agreement（保密协议）；sign a nondisclosure（签署保密协议）；breach of nondisclosure（违反保密约定）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a nondisclosure agreement（保密协议）</span><span class="chip">sign a nondisclosure（签署保密协议）</span><span class="chip">a mutual nondisclosure（双向保密协议）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Vendors must sign a nondisclosure before reviewing the proprietary technical specs.</en>
+          <zh>供应商在查阅专有技术规格前必须签署保密协议。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">headhunter</span>
+        <span class="ipa">/ˈhedˌhʌntər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">猎头；猎头顾问；人才招聘中介</div>
+        <div class="label">词根</div><div>head（首脑/人才）+ hunter（猎手）→ 猎寻人才者</div>
+        <div class="label">词源</div><div>原为比喻用法；现代 HR 语境指专门物色并挖角高管或稀缺人才的招聘顾问</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：contact a headhunter（联系猎头）；a headhunter firm（猎头公司）；recruited by a headhunter（被猎头挖角）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">contact a headhunter（联系猎头）</span><span class="chip">a headhunter firm（猎头公司）</span><span class="chip">work with a headhunter（与猎头合作）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>A headhunter approached her about the regional director role at a competitor.</en>
+          <zh>一位猎头就竞争对手的区域总监职位联系了她。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">offboarding</span>
+        <span class="ipa">/ˈɔːfˌbɔːrdɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">离职交接；员工离任流程；退出流程</div>
+        <div class="label">词根</div><div>off（离开）+ boarding（登船/入职）的反义构词 → 离任流程</div>
+        <div class="label">词源</div><div>由 onboarding 类推而来，指员工离职时的权限回收、资产交还与知识交接等程序</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：employee offboarding（员工离职交接）；an offboarding checklist（离职清单）；complete offboarding（完成离任流程）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">employee offboarding（员工离职交接）</span><span class="chip">an offboarding checklist（离职清单）</span><span class="chip">streamline offboarding（精简离任流程）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>IT begins offboarding by revoking system access on the employee&#x27;s last day.</en>
+          <zh>IT 部门在员工最后一天通过撤销系统权限开始离任流程。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">backfill</span>
+        <span class="ipa">/ˈbækˌfɪl/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">补缺；填补空缺职位；替补人员</div>
+        <div class="label">词根</div><div>back（后方）+ fill（填补）→ 从后方填上缺口</div>
+        <div class="label">词源</div><div>原指回填土方；HR 中引申为在有人离职或调动后招聘/调配人员填补空缺</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：backfill a position（填补职位空缺）；a backfill hire（补缺招聘）；approve a backfill（批准补缺）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">backfill a position（填补职位空缺）</span><span class="chip">a backfill request（补缺申请）</span><span class="chip">approve a backfill（批准补缺）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We need to backfill the analyst role before the quarter-end reporting cycle.</en>
+          <zh>我们需要在季末报告周期开始前填补分析师职位空缺。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">bandwidth</span>
+        <span class="ipa">/ˈbændˌwɪdθ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">带宽；可用精力/时间；处理能力（比喻）</div>
+        <div class="label">词根</div><div>band（频带）+ width（宽度）→ 频带宽度；引申为精力容量</div>
+        <div class="label">词源</div><div>技术用语指数据传输容量；职场口语常比喻个人或团队当前可投入的时间与精力</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/协作高频：have the bandwidth（有余力）；lack bandwidth（精力不够）；bandwidth constraints（精力/资源限制）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">have the bandwidth（有余力）</span><span class="chip">lack bandwidth（精力不够）</span><span class="chip">limited bandwidth（有限精力）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>I don&#x27;t have the bandwidth to take on another project this month.</en>
+          <zh>这个月我没有余力再接另一个项目。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">synergy</span>
+        <span class="ipa">/ˈsɪnərdʒi/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">协同效应；合力；优势互补</div>
+        <div class="label">词根</div><div>syn-（一起）+ erg（工作）+ -y → 共同作用</div>
+        <div class="label">词源</div><div>源自希腊语 synergos「一起工作的」；商务中指合并或合作产生的额外价值</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/并购高频：create synergy（产生协同效应）；cost synergies（成本协同）；operational synergy（运营协同）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">create synergy（产生协同效应）</span><span class="chip">cost synergies（成本协同）</span><span class="chip">realize synergies（实现协同）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Management expects significant cost synergies within a year of the merger.</en>
+          <zh>管理层预计合并后一年内会出现显著的成本协同效应。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">deep-dive</span>
+        <span class="ipa">/ˈdiːp ˌdaɪv/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">深入分析；专题深挖；详细研讨</div>
+        <div class="label">词根</div><div>deep（深）+ dive（潜）→ 深入探究</div>
+        <div class="label">词源</div><div>由「深潜」比喻而来，职场指对某一主题进行比例会更细致的专项分析或讨论</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议高频：a deep-dive session（深度研讨）；do a deep-dive into（深入分析…）；schedule a deep-dive（安排深度研讨）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a deep-dive session（深度研讨）</span><span class="chip">do a deep-dive into（深入分析…）</span><span class="chip">schedule a deep-dive（安排深度研讨）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Let&#x27;s schedule a deep-dive into the Q3 attrition numbers next Tuesday.</en>
+          <zh>我们下周二安排一次对第三季度流失数据的深度研讨吧。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">takeaway</span>
+        <span class="ipa">/ˈteɪkəˌweɪ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">会议要点；关键收获；可带走的结论</div>
+        <div class="label">词根</div><div>take（带走）+ away（离开）→ 带走的东西；引申为要点</div>
+        <div class="label">词源</div><div>原指外带食物；商务会议中指听完讨论后应记住或执行的核心结论</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议高频：key takeaways（关键要点）；the main takeaway（主要收获）；share takeaways（分享要点）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">key takeaways（关键要点）</span><span class="chip">the main takeaway（主要收获）</span><span class="chip">share takeaways（分享要点）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The main takeaway from the briefing was to freeze nonessential hiring.</en>
+          <zh>简报的主要要点是冻结非必要招聘。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">kickoff</span>
+        <span class="ipa">/ˈkɪkˌɔːf/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">启动会；项目开踢；开工仪式</div>
+        <div class="label">词根</div><div>kick（踢）+ off（开始）→ 开球；引申为启动</div>
+        <div class="label">词源</div><div>源自体育开球；项目管理中指项目正式启动的会议或仪式</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">项目高频：a project kickoff（项目启动会）；kickoff meeting（开工会议）；attend the kickoff（参加启动会）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a project kickoff（项目启动会）</span><span class="chip">a kickoff meeting（开工会议）</span><span class="chip">attend the kickoff（参加启动会）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The client kickoff is set for Monday morning in the main conference room.</en>
+          <zh>客户项目启动会定在周一上午于主会议室举行。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">follow-up</span>
+        <span class="ipa">/ˈfɑːloʊ ˌʌp/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">跟进；后续行动；跟进事项</div>
+        <div class="label">词根</div><div>follow（跟随）+ up（向上/到底）→ 跟进到底</div>
+        <div class="label">词源</div><div>由动词短语 follow up 名词化；商务中指会后追踪承诺、邮件或未决事项</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议高频：a follow-up email（跟进邮件）；schedule a follow-up（安排跟进）；follow-up action（后续行动）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a follow-up email（跟进邮件）</span><span class="chip">schedule a follow-up（安排跟进）</span><span class="chip">a follow-up meeting（跟进会议）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please send a follow-up email summarizing the action items by end of day.</en>
+          <zh>请在今天下班前发送一封总结待办事项的跟进邮件。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">scope-creep</span>
+        <span class="ipa">/ˈskoʊp ˌkriːp/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">范围蔓延；需求无控扩张；项目范围漂移</div>
+        <div class="label">词根</div><div>scope（范围）+ creep（悄然蔓延）→ 范围悄悄扩大</div>
+        <div class="label">词源</div><div>项目管理术语，指未经正式变更控制、项目工作范围逐渐扩大的现象</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">项目/合同高频：prevent scope-creep（防止范围蔓延）；suffer from scope-creep（受范围蔓延影响）；control scope-creep（控制范围漂移）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">prevent scope-creep（防止范围蔓延）</span><span class="chip">suffer from scope-creep（受范围蔓延影响）</span><span class="chip">manage scope-creep（管控范围蔓延）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Clear change-order procedures help prevent scope-creep on fixed-price contracts.</en>
+          <zh>清晰的变更单流程有助于防止固定价格合同上的范围蔓延。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">term-sheet</span>
+        <span class="ipa">/ˈtɜːrm ˌʃiːt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">条款清单；投资条款书；意向条款表</div>
+        <div class="label">词根</div><div>term（条款）+ sheet（单页）→ 条款一览表</div>
+        <div class="label">词源</div><div>金融与并购用语，指在正式合同前概括关键商业与法律条款的非终局文件</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">金融/合同高频：sign a term-sheet（签署条款清单）；a nonbinding term-sheet（无约束力条款书）；negotiate the term-sheet（谈判条款清单）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">sign a term-sheet（签署条款清单）</span><span class="chip">a nonbinding term-sheet（无约束力条款书）</span><span class="chip">negotiate the term-sheet（谈判条款清单）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Investors issued a term-sheet outlining valuation and board seats.</en>
+          <zh>投资方出具了列明估值与董事会席位的条款清单。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">due-diligence</span>
+        <span class="ipa">/ˌduː ˈdɪlɪdʒəns/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">尽职调查；审慎核查；尽调</div>
+        <div class="label">词根</div><div>due（应有的）+ diligence（勤勉）→ 应尽的审慎</div>
+        <div class="label">词源</div><div>法律与交易用语，指买方在成交前对财务、法律、运营等风险进行的系统核查</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">并购/金融高频：conduct due-diligence（开展尽职调查）；a due-diligence review（尽调审查）；during due-diligence（尽调期间）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">conduct due-diligence（开展尽职调查）</span><span class="chip">a due-diligence review（尽调审查）</span><span class="chip">complete due-diligence（完成尽调）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The acquisition is contingent on satisfactory financial due-diligence.</en>
+          <zh>该收购取决于令人满意的财务尽职调查结果。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">garden-leave</span>
+        <span class="ipa">/ˈɡɑːrdn ˌliːv/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">园艺假；离职冷静期；带薪隔离期</div>
+        <div class="label">词根</div><div>garden（花园）+ leave（休假）→ 在家「浇花」的带薪离任期</div>
+        <div class="label">词源</div><div>英式 HR 用语，指员工已通知离职但仍领薪、暂不履职也不入职新东家的过渡期</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：be placed on garden-leave（被安排园艺假）；during garden-leave（园艺假期间）；a garden-leave clause（园艺假条款）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">be placed on garden-leave（被安排园艺假）</span><span class="chip">during garden-leave（园艺假期间）</span><span class="chip">a garden-leave clause（园艺假条款）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Senior executives are often placed on garden-leave to protect client relationships.</en>
+          <zh>为保护客户关系，高管常被安排进入园艺假。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">notice-period</span>
+        <span class="ipa">/ˈnoʊtɪs ˌpɪriəd/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">通知期；离职提前通知期限；解约预告期</div>
+        <div class="label">词根</div><div>notice（通知）+ period（期间）→ 通知所覆盖的期间</div>
+        <div class="label">词源</div><div>劳动法与雇佣合同用语，指辞职或解雇前须提前告知并继续履职的法定/约定期间</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：serve a notice-period（履行通知期）；a two-week notice-period（两周通知期）；waive the notice-period（免除通知期）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">serve a notice-period（履行通知期）</span><span class="chip">a two-week notice-period（两周通知期）</span><span class="chip">waive the notice-period（免除通知期）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Her contract requires a 30-day notice-period before resignation takes effect.</en>
+          <zh>她的合同要求辞职生效前有 30 天的通知期。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">exit-interview</span>
+        <span class="ipa">/ˈeksɪt ˌɪntərvjuː/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">离职面谈；离职访谈；离任访谈</div>
+        <div class="label">词根</div><div>exit（离开）+ interview（面谈）→ 离职时的面谈</div>
+        <div class="label">词源</div><div>HR 实践用语，指员工离职前由公司进行的结构化访谈，用于收集改进意见</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：conduct an exit-interview（进行离职面谈）；exit-interview feedback（离职面谈反馈）；schedule an exit-interview（安排离职面谈）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">conduct an exit-interview（进行离职面谈）</span><span class="chip">exit-interview feedback（离职面谈反馈）</span><span class="chip">schedule an exit-interview（安排离职面谈）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>HR uses exit-interview data to identify recurring management issues.</en>
+          <zh>人力资源部利用离职面谈数据识别反复出现的管理问题。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">background-check</span>
+        <span class="ipa">/ˈbækɡraʊnd ˌtʃek/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">背景调查；资历核查；背调</div>
+        <div class="label">词根</div><div>background（背景）+ check（核查）→ 核查背景</div>
+        <div class="label">词源</div><div>招聘合规用语，指对候选人学历、工作经历、犯罪记录等的核实程序</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：run a background-check（做背景调查）；pass a background-check（通过背调）；a pre-employment background-check（入职前背调）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">run a background-check（做背景调查）</span><span class="chip">pass a background-check（通过背调）</span><span class="chip">a pre-employment background-check（入职前背调）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The offer is conditional on a successful background-check and reference review.</en>
+          <zh>该录用取决于成功的背景调查与推荐人审核。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">per-diem</span>
+        <span class="ipa">/pər ˈdiːəm/</span>
+        <span class="pos">n./adv.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">每日津贴；按日补贴；差旅日津贴</div>
+        <div class="label">词根</div><div>拉丁语 per（每）+ diem（日）→ 按日</div>
+        <div class="label">词源</div><div>源自拉丁语「按日」；差旅政策中指按天发放、用于餐食与杂费的定额补贴</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅/财务高频：a per-diem allowance（每日津贴）；claim per-diem（申领日津贴）；per-diem rates（日津贴标准）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a per-diem allowance（每日津贴）</span><span class="chip">claim per-diem（申领日津贴）</span><span class="chip">per-diem rates（日津贴标准）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Domestic trips receive a fixed per-diem instead of itemized meal receipts.</en>
+          <zh>国内出差领取固定每日津贴，无需逐项提交餐费收据。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">expatriate</span>
+        <span class="ipa">/eksˈpeɪtriət/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">外派员工；侨居者；外派（人员）</div>
+        <div class="label">词根</div><div>ex-（出）+ patri（祖国）+ -ate → 离开祖国者</div>
+        <div class="label">词源</div><div>源自拉丁语 expatriare「放逐」；企业语境指出国长期工作的外派雇员（常简称 expat）</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/差旅高频：an expatriate assignment（外派任务）；expatriate package（外派待遇包）；relocate as an expatriate（以外派身份调任）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an expatriate assignment（外派任务）</span><span class="chip">an expatriate package（外派待遇包）</span><span class="chip">expatriate employees（外派员工）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company provides housing and schooling support for expatriate managers.</en>
+          <zh>公司为外派经理提供住房与子女就学支持。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">jet-lag</span>
+        <span class="ipa">/ˈdʒet ˌlæɡ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">时差反应；飞行时差综合症；倒时差</div>
+        <div class="label">词根</div><div>jet（喷气飞机）+ lag（滞后）→ 飞行造成的生理滞后</div>
+        <div class="label">词源</div><div>20 世纪航空普及后出现的复合词，指跨时区飞行后生物钟紊乱的不适</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅高频：suffer from jet-lag（受时差困扰）；recover from jet-lag（从时差中恢复）；jet-lag symptoms（时差症状）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">suffer from jet-lag（受时差困扰）</span><span class="chip">recover from jet-lag（从时差中恢复）</span><span class="chip">minimize jet-lag（尽量减轻时差）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>She arrived a day early to recover from jet-lag before the negotiations.</en>
+          <zh>她提前一天抵达，以便在谈判前从时差中恢复。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">boarding-pass</span>
+        <span class="ipa">/ˈbɔːrdɪŋ ˌpæs/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">登机牌；登机证；登机凭证</div>
+        <div class="label">词根</div><div>boarding（登机）+ pass（通行证）→ 登机通行证</div>
+        <div class="label">词源</div><div>航空客运用语，指办理登机手续后获得的、用于通过安检与登机口的凭证</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅高频：print a boarding-pass（打印登机牌）；a mobile boarding-pass（电子登机牌）；show your boarding-pass（出示登机牌）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">print a boarding-pass（打印登机牌）</span><span class="chip">a mobile boarding-pass（电子登机牌）</span><span class="chip">show your boarding-pass（出示登机牌）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please have your boarding-pass and passport ready at the security checkpoint.</en>
+          <zh>请在安检口准备好登机牌和护照。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">red-eye</span>
+        <span class="ipa">/ˈred ˌaɪ/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">红眼航班；夜间航班；通宵航班</div>
+        <div class="label">词根</div><div>red（红）+ eye（眼）→ 熬夜导致红眼；借指夜航</div>
+        <div class="label">词源</div><div>口语喻乘客因通宵飞行而眼睛发红；指深夜起飞、清晨抵达的廉价或衔接航班</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅高频：take a red-eye（搭乘红眼航班）；a red-eye flight（红眼航班）；arrive on the red-eye（搭红眼抵达）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">take a red-eye（搭乘红眼航班）</span><span class="chip">a red-eye flight（红眼航班）</span><span class="chip">catch the red-eye（赶红眼航班）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>He took the red-eye from Los Angeles to be at the morning board meeting.</en>
+          <zh>他搭乘从洛杉矶出发的红眼航班，以便赶上上午的董事会。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">kpi</span>
+        <span class="ipa">/ˌkeɪ piː ˈaɪ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">关键绩效指标；KPI；核心考核指标</div>
+        <div class="label">词根</div><div>Key Performance Indicator 的缩写</div>
+        <div class="label">词源</div><div>管理学缩略语，指用于衡量目标达成情况的可量化关键绩效指标</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">管理高频：set KPIs（设定关键绩效指标）；track KPIs（追踪 KPI）；meet KPI targets（达成 KPI 目标）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">set KPIs（设定关键绩效指标）</span><span class="chip">track KPIs（追踪 KPI）</span><span class="chip">meet KPI targets（达成 KPI 目标）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Customer retention is now one of the division&#x27;s top three KPIs.</en>
+          <zh>客户留存现已成为该事业部的三大关键绩效指标之一。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">sla</span>
+        <span class="ipa">/ˌes el ˈeɪ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">服务级别协议；SLA；服务水准协议</div>
+        <div class="label">词根</div><div>Service Level Agreement 的缩写</div>
+        <div class="label">词源</div><div>IT 与外包合同用语，规定服务商须达到的响应时间、可用性等可量化服务标准</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/IT 高频：meet the SLA（达到服务级别协议）；an SLA breach（违反 SLA）；SLA uptime（SLA 正常运行时间）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">meet the SLA（达到服务级别协议）</span><span class="chip">an SLA breach（违反 SLA）</span><span class="chip">negotiate an SLA（谈判服务级别协议）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The vendor credits our account whenever uptime falls below the SLA.</en>
+          <zh>每当正常运行时间低于服务级别协议时，供应商就会给我们账户返点。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">rfp</span>
+        <span class="ipa">/ˌɑːr ef ˈpiː/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">招标书；征求建议书；RFP</div>
+        <div class="label">词根</div><div>Request for Proposal 的缩写</div>
+        <div class="label">词源</div><div>采购用语，指向潜在供应商征求详细方案与报价的正式文件，常用于复杂采购</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">采购/合同高频：issue an RFP（发布招标书）；respond to an RFP（响应招标书）；an RFP process（招标流程）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">issue an RFP（发布招标书）</span><span class="chip">respond to an RFP（响应招标书）</span><span class="chip">an RFP process（招标流程）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Three vendors were shortlisted after the RFP evaluation committee met.</en>
+          <zh>招标评估委员会开会后，三家供应商进入了短名单。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">white-paper</span>
+        <span class="ipa">/ˈwaɪt ˌpeɪpər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">白皮书；权威报告；专题研究报告</div>
+        <div class="label">词根</div><div>white（白）+ paper（文件）→ 白皮书</div>
+        <div class="label">词源</div><div>原指政府正式政策文件；营销与 B2B 中指展示专业见解以培育潜客的长篇报告</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销高频：publish a white-paper（发布白皮书）；download a white-paper（下载白皮书）；a technical white-paper（技术白皮书）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">publish a white-paper（发布白皮书）</span><span class="chip">download a white-paper（下载白皮书）</span><span class="chip">a technical white-paper（技术白皮书）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The marketing team released a white-paper on sustainable packaging trends.</en>
+          <zh>市场团队发布了一份关于可持续包装趋势的白皮书。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">press-release</span>
+        <span class="ipa">/ˈpres rɪˌliːs/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">新闻稿；媒体通稿；新闻发布稿</div>
+        <div class="label">词根</div><div>press（新闻界）+ release（发布）→ 向媒体发布的稿件</div>
+        <div class="label">词源</div><div>公关用语，指公司向媒体分发、宣布产品、人事或业绩等消息的正式文稿</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">公关/营销高频：issue a press-release（发布新闻稿）；a press-release embargo（新闻稿禁发期）；draft a press-release（起草新闻稿）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">issue a press-release（发布新闻稿）</span><span class="chip">draft a press-release（起草新闻稿）</span><span class="chip">a press-release embargo（新闻稿禁发期）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The firm issued a press-release announcing the appointment of a new CFO.</en>
+          <zh>该公司发布新闻稿，宣布任命新的首席财务官。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
