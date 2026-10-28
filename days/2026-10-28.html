@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 10/28 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.10.28</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">deliverable</span>
+        <span class="ipa">/dɪˈlɪvərəbl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">可交付成果；交付物；项目产出物</div>
+        <div class="label">词根</div><div>deliver（交付）+ -able（可…的）→ 可交付之物</div>
+        <div class="label">词源</div><div>项目管理用语，指合同或计划中约定须按时提交的具体成果，如报告、原型或软件版本</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">项目/会议高频：a project deliverable（项目交付物）；key deliverables（关键交付成果）；meet deliverables（按期完成交付物）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a project deliverable（项目交付物）</span><span class="chip">key deliverables（关键交付成果）</span><span class="chip">finalize a deliverable（敲定交付物）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The sprint review will focus on each team&#x27;s main deliverable for the release.</en>
+          <zh>冲刺评审将聚焦各团队为本版本提交的主要交付物。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">sprint</span>
+        <span class="ipa">/sprɪnt/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">冲刺；短周期迭代；短跑冲刺（喻）</div>
+        <div class="label">词根</div><div>无（源自古挪威语，指短跑）</div>
+        <div class="label">词源</div><div>原指短距离全速奔跑；敏捷开发中指通常 1–4 周的固定迭代周期，用于交付可检查的增量</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">敏捷/会议高频：a two-week sprint（两周冲刺）；sprint planning（冲刺计划会）；complete a sprint（完成一个冲刺）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">sprint planning（冲刺计划会）</span><span class="chip">a two-week sprint（两周冲刺）</span><span class="chip">close out a sprint（收尾一个冲刺）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We will demo the new checkout flow at the end of this sprint.</en>
+          <zh>我们将在本冲刺结束时演示新的结账流程。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">stand-up</span>
+        <span class="ipa">/ˈstænd ʌp/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">站会；每日站立例会；简短同步会</div>
+        <div class="label">词根</div><div>stand（站）+ up（起）→ 站着开的短会</div>
+        <div class="label">词源</div><div>敏捷团队日常短会，通常站立进行以保持简短，用于同步进度、阻碍与当日计划</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议高频：a daily stand-up（每日站会）；run a stand-up（主持站会）；miss the stand-up（错过站会）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a daily stand-up（每日站会）</span><span class="chip">run a stand-up（主持站会）</span><span class="chip">a 15-minute stand-up（十五分钟站会）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please flag blockers in the morning stand-up so we can unblock you quickly.</en>
+          <zh>请在早间站会上标出阻碍，以便我们尽快帮你解除。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">retrospective</span>
+        <span class="ipa">/ˌretrəˈspektɪv/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">回顾会；复盘；回顾性的</div>
+        <div class="label">词根</div><div>retro-（向后）+ spect（看）+ -ive → 向后看</div>
+        <div class="label">词源</div><div>源自拉丁语 retrospectare「回头看」；敏捷中指冲刺结束后检视流程与协作的复盘会议</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">敏捷/会议高频：hold a retrospective（召开回顾会）；sprint retrospective（冲刺复盘）；action items from the retrospective（回顾会行动项）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">hold a retrospective（召开回顾会）</span><span class="chip">a sprint retrospective（冲刺复盘）</span><span class="chip">retrospective feedback（回顾性反馈）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The retrospective identified three process changes for the next cycle.</en>
+          <zh>回顾会确定了下一周期的三项流程改进。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">roadmap</span>
+        <span class="ipa">/ˈroʊdmæp/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">路线图；产品规划图；发展蓝图</div>
+        <div class="label">词根</div><div>road（路）+ map（地图）→ 路线示意图</div>
+        <div class="label">词源</div><div>原指公路地图；产品与战略语境中指按时间线排列的功能、里程碑或业务优先级规划</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">产品/战略高频：a product roadmap（产品路线图）；share the roadmap（分享路线图）；roadmap priorities（路线图优先级）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a product roadmap（产品路线图）</span><span class="chip">update the roadmap（更新路线图）</span><span class="chip">roadmap priorities（路线图优先级）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The Q1 roadmap prioritizes mobile performance and checkout simplification.</en>
+          <zh>第一季度路线图优先考虑移动端性能与结账流程简化。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">vesting</span>
+        <span class="ipa">/ˈvestɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">归属；股权兑现；权利逐步生效</div>
+        <div class="label">词根</div><div>vest（赋予权利）+ -ing → 权利归属过程</div>
+        <div class="label">词源</div><div>源自法律用语 vest「赋予权利」；股权激励中指员工须服务满约定期限后才真正获得期权或股份</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/股权高频：a vesting schedule（归属时间表）；stock vesting（股权归属）；accelerate vesting（加速归属）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a vesting schedule（归属时间表）</span><span class="chip">four-year vesting（四年归属）</span><span class="chip">accelerate vesting（加速归属）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Her options follow a four-year vesting schedule with a one-year cliff.</en>
+          <zh>她的期权按四年归属安排，并设一年 cliff。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">cliff</span>
+        <span class="ipa">/klɪf/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">悬崖；归属悬崖期；首期一次性兑现门槛</div>
+        <div class="label">词根</div><div>无（古英语 clif「悬崖」）</div>
+        <div class="label">词源</div><div>地理本义为陡崖；股权语境中指服务满首段期限前无权归属、到期才一次性兑现的门槛设计</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">股权/HR 高频：a one-year cliff（一年悬崖期）；hit the cliff（达到归属门槛）；cliff vesting（悬崖式归属）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a one-year cliff（一年悬崖期）</span><span class="chip">hit the cliff（达到归属门槛）</span><span class="chip">cliff vesting（悬崖式归属）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Employees who leave before the one-year cliff forfeit all unvested shares.</en>
+          <zh>在一年悬崖期前离职的员工将丧失全部未归属股份。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">earn-out</span>
+        <span class="ipa">/ˈɜːrn aʊt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">或有对价；业绩对赌付款；分期赚取价款</div>
+        <div class="label">词根</div><div>earn（赚取）+ out（出）→ 按业绩额外赚出的价款</div>
+        <div class="label">词源</div><div>并购术语，指买方按目标公司交割后业绩指标分期向卖方支付的额外对价</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">并购/合同高频：an earn-out clause（业绩对赌条款）；negotiate an earn-out（协商或有对价）；meet earn-out targets（达成对赌目标）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an earn-out clause（业绩对赌条款）</span><span class="chip">negotiate an earn-out（协商或有对价）</span><span class="chip">earn-out targets（对赌业绩目标）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Part of the purchase price is structured as a two-year earn-out tied to revenue.</en>
+          <zh>部分收购价款被设计为与收入挂钩的两年期或有对价。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">go-to-market</span>
+        <span class="ipa">/ˌɡoʊ tə ˈmɑːrkɪt/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">上市策略；进入市场方案；推向市场的</div>
+        <div class="label">词根</div><div>go to market（走向市场）→ 如何把产品推向市场</div>
+        <div class="label">词源</div><div>营销与产品术语，指围绕目标客户、渠道、定价与销售模式制定的产品上市整体策略</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销/产品高频：a go-to-market strategy（上市策略）；go-to-market plan（进入市场方案）；align go-to-market（对齐上市策略）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a go-to-market strategy（上市策略）</span><span class="chip">a go-to-market plan（进入市场方案）</span><span class="chip">refine go-to-market（优化上市策略）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The go-to-market plan pairs enterprise sales with a freemium online channel.</en>
+          <zh>该上市方案将企业直销与免费增值线上渠道相结合。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">product-market-fit</span>
+        <span class="ipa">/ˈprɒdʌkt ˈmɑːrkɪt fɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">产品市场契合；产品与市场需求匹配度</div>
+        <div class="label">词根</div><div>product（产品）+ market（市场）+ fit（契合）→ 产品与市场匹配</div>
+        <div class="label">词源</div><div>创业与产品管理核心概念，指产品满足明确市场需求并获得可持续增长与留存的状态</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">产品/创业高频：achieve product-market-fit（达成产品市场契合）；validate product-market-fit（验证产品市场契合）；lack product-market-fit（缺乏产品市场契合）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">achieve product-market-fit（达成产品市场契合）</span><span class="chip">validate product-market-fit（验证产品市场契合）</span><span class="chip">search for product-market-fit（寻找产品市场契合）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Investors want clear evidence of product-market-fit before the Series A round.</en>
+          <zh>投资人希望在 A 轮融资前看到明确的产品市场契合证据。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">omnichannel</span>
+        <span class="ipa">/ˈɒmnɪˌtʃænəl/</span>
+        <span class="pos">adj./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">全渠道的；全渠道零售；多触点一体</div>
+        <div class="label">词根</div><div>omni-（全部）+ channel（渠道）→ 覆盖全部渠道</div>
+        <div class="label">词源</div><div>零售与营销用语，强调线上线下及各触点无缝衔接、库存与体验统一，区别于简单多渠道并列</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">零售/营销高频：an omnichannel strategy（全渠道策略）；omnichannel retail（全渠道零售）；omnichannel experience（全渠道体验）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an omnichannel strategy（全渠道策略）</span><span class="chip">omnichannel retail（全渠道零售）</span><span class="chip">an omnichannel experience（全渠道体验）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The retailer invested in omnichannel inventory so online orders can ship from stores.</en>
+          <zh>该零售商投资全渠道库存，使线上订单可从门店发货。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">fulfillment</span>
+        <span class="ipa">/fʊlˈfɪlmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">履约；订单履约；仓储配送履约</div>
+        <div class="label">词根</div><div>fulfill（履行/完成）+ -ment → 完成履约</div>
+        <div class="label">词源</div><div>商务中常指从接单、拣货、包装到发货的整套履约流程；亦有「满足/实现」的一般义</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">物流/电商高频：order fulfillment（订单履约）；a fulfillment center（履约仓）；fulfillment costs（履约成本）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">order fulfillment（订单履约）</span><span class="chip">a fulfillment center（履约仓）</span><span class="chip">fulfillment costs（履约成本）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Peak-season delays often start in the fulfillment center, not at the carrier.</en>
+          <zh>旺季延误往往始于履约仓，而非承运商环节。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">last-mile</span>
+        <span class="ipa">/ˈlæst maɪl/</span>
+        <span class="pos">adj./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">最后一公里；末端配送；末端环节的</div>
+        <div class="label">词根</div><div>last（最后）+ mile（英里）→ 送达客户前的最后一段</div>
+        <div class="label">词源</div><div>物流与电信用语，指网络或配送链路中最靠近终端用户、成本与复杂度往往最高的一段</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">物流高频：last-mile delivery（末端配送）；last-mile costs（末端配送成本）；solve the last-mile（解决末端配送难题）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">last-mile delivery（末端配送）</span><span class="chip">last-mile costs（末端配送成本）</span><span class="chip">last-mile logistics（末端物流）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Drones and lockers are being tested to cut last-mile delivery expenses.</en>
+          <zh>无人机与快递柜正被试验用于降低末端配送费用。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">footfall</span>
+        <span class="ipa">/ˈfʊtfɔːl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">客流量；进店人次；人流</div>
+        <div class="label">词根</div><div>foot（脚）+ fall（落下）→ 脚步落下的次数，喻进店人数</div>
+        <div class="label">词源</div><div>英式商务用语，指某时段进入店铺或商场的顾客人次，是实体零售关键指标</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">零售高频：store footfall（门店客流）；increase footfall（提升客流）；footfall data（客流数据）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">store footfall（门店客流）</span><span class="chip">increase footfall（提升客流）</span><span class="chip">weekend footfall（周末客流）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The pop-up window display lifted weekend footfall by nearly 18 percent.</en>
+          <zh>快闪橱窗陈列使周末客流提升了近百分之十八。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">conversion-rate</span>
+        <span class="ipa">/kənˈvɜːrʒən reɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">转化率；成交转化比例；访客转化率</div>
+        <div class="label">词根</div><div>conversion（转化）+ rate（比率）→ 转化比率</div>
+        <div class="label">词源</div><div>营销与电商核心指标，衡量访问者、线索或试用用户中最终完成目标行为（如下单）的比例</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销高频：improve conversion-rate（提升转化率）；checkout conversion-rate（结账转化率）；a low conversion-rate（低转化率）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">improve conversion-rate（提升转化率）</span><span class="chip">checkout conversion-rate（结账转化率）</span><span class="chip">track conversion-rate（追踪转化率）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Simplifying the payment form raised the mobile conversion-rate within two weeks.</en>
+          <zh>简化支付表单后，两周内移动端转化率便有所提升。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">click-through</span>
+        <span class="ipa">/ˈklɪk θruː/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">点击通过；点击率相关；点进</div>
+        <div class="label">词根</div><div>click（点击）+ through（穿过）→ 点进去</div>
+        <div class="label">词源</div><div>数字广告用语，指用户点击广告或链接进入落地页；常与 click-through rate（CTR）连用</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销/广告高频：click-through rate（点击率）；a high click-through（高点击通过）；measure click-through（衡量点击通过）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">click-through rate（点击率）</span><span class="chip">improve click-through（提升点击通过）</span><span class="chip">ad click-through（广告点击通过）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The new subject line doubled email click-through compared with last month.</en>
+          <zh>新邮件主题行使点击通过率比上月翻了一番。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">impression</span>
+        <span class="ipa">/ɪmˈpreʃən/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">展示次数；广告曝光；印象</div>
+        <div class="label">词根</div><div>im-（向内）+ press（压）+ -ion → 印入脑海；引申为展示一次</div>
+        <div class="label">词源</div><div>一般义为印象；数字广告中指广告被展示一次即计为一次 impression，是计费与触达的基础单位</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">广告高频：ad impressions（广告展示次数）；cost per impression（每次展示成本）；generate impressions（产生曝光）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">ad impressions（广告展示次数）</span><span class="chip">cost per impression（每次展示成本）</span><span class="chip">boost impressions（提升曝光量）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The campaign delivered two million impressions but few qualified leads.</en>
+          <zh>该活动带来了两百万次展示，但合格线索很少。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">engagement</span>
+        <span class="ipa">/ɪnˈɡeɪdʒmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">互动；用户参与度；约定/聘用</div>
+        <div class="label">词根</div><div>engage（参与/约定）+ -ment → 参与状态</div>
+        <div class="label">词源</div><div>可指约定、聘用或交战；社交与产品语境中常指点赞、评论、停留等用户互动与参与深度</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销/产品高频：user engagement（用户参与度）；drive engagement（推动互动）；engagement metrics（互动指标）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">user engagement（用户参与度）</span><span class="chip">drive engagement（推动互动）</span><span class="chip">engagement metrics（互动指标）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Short-form video posts drove higher engagement than static image ads.</en>
+          <zh>短视频帖子带来的互动高于静态图片广告。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">uptime</span>
+        <span class="ipa">/ˈʌptaɪm/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">正常运行时间；可用时长；在线率</div>
+        <div class="label">词根</div><div>up（运行中）+ time（时间）→ 系统处于可用状态的时间</div>
+        <div class="label">词源</div><div>运维与 SLA 用语，指系统或服务保持可用的时长或比例，常与 downtime 相对</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">运维/SLA 高频：99.9% uptime（百分之九十九点九可用率）；guarantee uptime（保障正常运行时间）；measure uptime（衡量可用时长）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">99.9% uptime（百分之九十九点九可用率）</span><span class="chip">guarantee uptime（保障正常运行时间）</span><span class="chip">system uptime（系统可用时长）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The SLA requires 99.95 percent uptime during business hours.</en>
+          <zh>服务级别协议要求营业时间内百分之九十九点九五的可用率。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">failover</span>
+        <span class="ipa">/ˈfeɪlˌoʊvər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">故障切换；故障转移；备用接管</div>
+        <div class="label">词根</div><div>fail（故障）+ over（转到）→ 故障时切换到备用</div>
+        <div class="label">词源</div><div>IT 运维术语，指主系统故障时自动或手动将流量/工作负载切换到备用系统以保持服务连续</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">运维/IT 高频：automatic failover（自动故障切换）；a failover plan（故障转移方案）；test failover（测试故障切换）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">automatic failover（自动故障切换）</span><span class="chip">a failover plan（故障转移方案）</span><span class="chip">test failover（测试故障切换）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Automatic failover kept the checkout API available during the database outage.</en>
+          <zh>自动故障切换使结账 API 在数据库故障期间仍保持可用。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">capex</span>
+        <span class="ipa">/ˈkæpeks/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">资本性支出；固定资产投资；CapEx</div>
+        <div class="label">词根</div><div>cap（ital）+ ex（penditure）→ 资本支出缩写</div>
+        <div class="label">词源</div><div>finance 缩写 capital expenditure，指购置或升级长期资产（厂房、设备、系统）的支出，通常资本化</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：capex budget（资本支出预算）；reduce capex（削减资本支出）；capex vs opex（资本支出与运营支出）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a capex budget（资本支出预算）</span><span class="chip">approve capex（批准资本支出）</span><span class="chip">heavy capex（高额资本支出）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Building the new warehouse will require significant capex over two fiscal years.</en>
+          <zh>新建仓库需要在两个财年内投入大额资本性支出。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">opex</span>
+        <span class="ipa">/ˈɒpeks/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">运营支出；经营费用；OpEx</div>
+        <div class="label">词根</div><div>op（erating）+ ex（penditure）→ 运营支出缩写</div>
+        <div class="label">词源</div><div>finance 缩写 operating expenditure/expense，指维持日常经营的经常性费用，通常费用化计入当期损益</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：opex costs（运营费用）；cut opex（削减运营支出）；shift from capex to opex（从资本支出转向运营支出）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">cut opex（削减运营支出）</span><span class="chip">monthly opex（月度运营费用）</span><span class="chip">opex savings（运营费用节省）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Moving to the cloud converted some hardware capex into predictable monthly opex.</en>
+          <zh>上云把部分硬件资本支出转变成了可预期的月度运营支出。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">ebitda</span>
+        <span class="ipa">/iːˈbɪtdə/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">息税折旧摊销前利润；EBITDA</div>
+        <div class="label">词根</div><div>Earnings Before Interest, Taxes, Depreciation and Amortization 的首字母缩写</div>
+        <div class="label">词源</div><div>财务分析常用盈利指标，通过剔除利息、税项、折旧与摊销，便于比较不同资本结构与会计政策下的经营表现</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：report EBITDA（报告息税折旧摊销前利润）；EBITDA margin（EBITDA 利润率）；adjusted EBITDA（调整后 EBITDA）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">report EBITDA（报告息税折旧摊销前利润）</span><span class="chip">EBITDA margin（EBITDA 利润率）</span><span class="chip">adjusted EBITDA（调整后 EBITDA）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Management guided full-year EBITDA to grow mid-teens despite higher logistics costs.</en>
+          <zh>尽管物流成本上升，管理层仍指引全年 EBITDA 将实现百分之十几的增长。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">write-down</span>
+        <span class="ipa">/ˈraɪt daʊn/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">减值；资产减记；下调账面价值</div>
+        <div class="label">词根</div><div>write（记账写下）+ down（向下）→ 把账面价值向下改写</div>
+        <div class="label">词源</div><div>会计用语，指因资产公允价值或可收回金额下降而调减账面价值并确认损失（不完全核销）</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/会计高频：an inventory write-down（存货减值）；take a write-down（进行减记）；asset write-down（资产减值）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an inventory write-down（存货减值）</span><span class="chip">take a write-down（进行减记）</span><span class="chip">a goodwill write-down（商誉减值）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Obsolete chip inventory forced a sizable write-down in the third quarter.</en>
+          <zh>过时芯片存货迫使公司在第三季度进行大额减记。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">lead-time</span>
+        <span class="ipa">/ˈliːd taɪm/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">前置时间；交货周期；提前期</div>
+        <div class="label">词根</div><div>lead（领先/提前）+ time（时间）→ 提前所需的时间</div>
+        <div class="label">词源</div><div>供应链与制造用语，指从下单或启动到交付完成所需的时间长度</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">供应链/运营高频：supplier lead-time（供应商交货周期）；reduce lead-time（缩短前置时间）；long lead-time（长交货周期）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">supplier lead-time（供应商交货周期）</span><span class="chip">reduce lead-time（缩短前置时间）</span><span class="chip">long lead-time items（长周期物料）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Custom tooling has a twelve-week lead-time, so orders must be placed early.</en>
+          <zh>定制工装有十二周交货周期，因此必须提前下单。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">cycle-time</span>
+        <span class="ipa">/ˈsaɪkl taɪm/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">周期时间；单件加工周期；流程循环时长</div>
+        <div class="label">词根</div><div>cycle（循环）+ time（时间）→ 完成一个循环所需时间</div>
+        <div class="label">词源</div><div>精益与运营管理指标，指完成一件产品或一个流程步骤实际耗时，用于衡量效率与瓶颈</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">运营/精益高频：reduce cycle-time（缩短周期时间）；manufacturing cycle-time（制造周期时间）；measure cycle-time（衡量周期时间）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reduce cycle-time（缩短周期时间）</span><span class="chip">manufacturing cycle-time（制造周期时间）</span><span class="chip">average cycle-time（平均周期时间）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Automation cut average cycle-time on the packing line by almost 30 percent.</en>
+          <zh>自动化使包装线平均周期时间缩短了近百分之三十。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">brick-and-mortar</span>
+        <span class="ipa">/ˌbrɪk ən ˈmɔːrtər/</span>
+        <span class="pos">adj./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">实体店的；砖瓦门店；线下实体零售</div>
+        <div class="label">词根</div><div>brick（砖）+ and + mortar（砂浆）→ 砖瓦建成的实体店</div>
+        <div class="label">词源</div><div>比喻有实体店面的传统零售，常与纯电商相对，强调线下物理门店渠道</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">零售高频：a brick-and-mortar store（实体店）；brick-and-mortar retail（实体零售）；shift from brick-and-mortar（从实体店转向）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a brick-and-mortar store（实体店）</span><span class="chip">brick-and-mortar retail（实体零售）</span><span class="chip">brick-and-mortar locations（实体门店）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Even digital-first brands are opening brick-and-mortar stores for brand experience.</en>
+          <zh>即便数字优先品牌也在开设实体店以打造品牌体验。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">pop-up</span>
+        <span class="ipa">/ˈpɒp ʌp/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">快闪店；弹出式的；临时店铺</div>
+        <div class="label">词根</div><div>pop（突然出现）+ up（起来）→ 突然出现的（店/窗）</div>
+        <div class="label">词源</div><div>零售与营销中指短期租赁场地、限时营业的临时门店或体验空间，用于测市场或造势</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">零售/营销高频：a pop-up store（快闪店）；pop-up shop（快闪商店）；open a pop-up（开设快闪店）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a pop-up store（快闪店）</span><span class="chip">a pop-up shop（快闪商店）</span><span class="chip">a seasonal pop-up（季节性快闪店）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The brand ran a two-week pop-up in the airport to test traveler demand.</en>
+          <zh>该品牌在机场开设为期两周的快闪店，以测试旅客需求。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">thought-leadership</span>
+        <span class="ipa">/ˈθɔːt ˌliːdərʃɪp/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">思想领导力；观点引领；专业见解输出</div>
+        <div class="label">词根</div><div>thought（思想）+ leadership（领导力）→ 在思想上引领</div>
+        <div class="label">词源</div><div>营销与公关用语，指通过白皮书、演讲与深度内容建立专业权威、影响行业议程的策略</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销/公关高频：build thought-leadership（打造思想领导力）；thought-leadership content（思想领导力内容）；a thought-leadership piece（思想领导力文章）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">build thought-leadership（打造思想领导力）</span><span class="chip">thought-leadership content（思想领导力内容）</span><span class="chip">a thought-leadership piece（思想领导力文章）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The white paper strengthened the firm&#x27;s thought-leadership in sustainable logistics.</en>
+          <zh>该白皮书强化了公司在可持续物流领域的思想领导力。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">business-continuity</span>
+        <span class="ipa">/ˈbɪznəs kənˌtɪnjuːɪti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">业务连续性；持续经营能力；灾备持续运营</div>
+        <div class="label">词根</div><div>business（业务）+ continuity（连续性）→ 业务不中断</div>
+        <div class="label">词源</div><div>风险管理术语，指在中断、灾难或危机中维持关键业务运转的能力与预案体系</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">风控/运维高频：a business-continuity plan（业务连续性计划）；ensure business-continuity（确保业务连续性）；business-continuity testing（业务连续性演练）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a business-continuity plan（业务连续性计划）</span><span class="chip">ensure business-continuity（确保业务连续性）</span><span class="chip">business-continuity testing（业务连续性演练）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The audit found gaps in the company&#x27;s business-continuity plan for regional outages.</en>
+          <zh>审计发现公司针对区域中断的业务连续性计划存在缺口。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
