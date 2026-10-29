@@ -1,0 +1,896 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 10/29 ×30</title>
+<style>
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.10.29</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">amendment</span>
+        <span class="ipa">/əˈmendmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">修正案；修订条款；合同变更</div>
+        <div class="label">词根</div><div>amend（修正）+ -ment（名词）→ 修正之物</div>
+        <div class="label">词源</div><div>源自拉丁语 emendare「改正」；商务与法律中指对合同、章程或法规的正式文字修改</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/法务高频：a contract amendment（合同修正案）；propose an amendment（提出修订）；sign the amendment（签署修正条款）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a contract amendment（合同修正案）</span><span class="chip">propose an amendment（提出修订）</span><span class="chip">adopt an amendment（通过修正案）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please review the amendment before we circulate the revised agreement.</en>
+          <zh>请在我们分发修订协议前审阅该修正案。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">allegation</span>
+        <span class="ipa">/ˌæləˈɡeɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">指控；指称；未经证实的说法</div>
+        <div class="label">词根</div><div>allege（声称）+ -ation → 提出的指称</div>
+        <div class="label">词源</div><div>源自拉丁语 allegare「提出、援引」；职场与合规语境中多指尚待调查核实的不当行为指控</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合规/法务高频：deny an allegation（否认指控）；investigate allegations（调查指称）；unfounded allegations（毫无根据的指控）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">deny an allegation（否认指控）</span><span class="chip">investigate allegations（调查指称）</span><span class="chip">serious allegations（严重指控）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The compliance team opened a review after several allegations of kickbacks.</en>
+          <zh>在出现多起回扣指控后，合规团队启动了审查。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">fine-print</span>
+        <span class="ipa">/ˈfaɪn prɪnt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">小字条款；细则；附属条件</div>
+        <div class="label">词根</div><div>fine（细小）+ print（印刷文字）→ 小号印刷条款</div>
+        <div class="label">词源</div><div>原指合同末尾用小号字体印刷的附带条件；引申为易被忽略但对权利义务关键的细节条款</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同高频：read the fine print（细读小字条款）；hidden in the fine print（藏在细则里）；fine-print restrictions（细则限制）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">read the fine print（细读小字条款）</span><span class="chip">check the fine print（核对细则）</span><span class="chip">fine-print terms（细则条款）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The cancellation fee was buried in the fine print of the vendor contract.</en>
+          <zh>取消费用被写在供应商合同的小字条款里。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">hold-harmless</span>
+        <span class="ipa">/ˌhoʊld ˈhɑːrmləs/</span>
+        <span class="pos">adj./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">免责的；免责条款；使不受损害</div>
+        <div class="label">词根</div><div>hold（使保持）+ harmless（无害）→ 使不受损害</div>
+        <div class="label">词源</div><div>英美合同法用语，指一方同意使另一方免于承担特定损失或索赔责任的条款</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/采购高频：a hold-harmless clause（免责条款）；hold-harmless agreement（免责协议）；sign a hold-harmless（签署免责）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a hold-harmless clause（免责条款）</span><span class="chip">a hold-harmless agreement（免责协议）</span><span class="chip">require hold-harmless（要求免责）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Facilities will not admit contractors without a signed hold-harmless agreement.</en>
+          <zh>设施部门在未签署免责协议前不会允许承包商进场。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">non-compete</span>
+        <span class="ipa">/ˌnɑːn kəmˈpiːt/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">竞业禁止；竞业限制协议；禁止同业竞争的</div>
+        <div class="label">词根</div><div>non-（非）+ compete（竞争）→ 不得竞争</div>
+        <div class="label">词源</div><div>雇佣与并购合同中常见条款，限制员工或卖方在约定期限与地域内从事竞争性业务</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/法务高频：a non-compete clause（竞业禁止条款）；sign a non-compete（签署竞业协议）；enforce a non-compete（执行竞业限制）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a non-compete clause（竞业禁止条款）</span><span class="chip">sign a non-compete（签署竞业协议）</span><span class="chip">a one-year non-compete（一年竞业限制）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Her offer letter includes a 12-month non-compete covering the regional market.</en>
+          <zh>她的录用通知书含有覆盖区域市场的十二个月竞业禁止条款。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">paper-trail</span>
+        <span class="ipa">/ˈpeɪpər treɪl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">书面记录链；可追溯文件；证据链条</div>
+        <div class="label">词根</div><div>paper（文件）+ trail（痕迹）→ 文件留下的痕迹</div>
+        <div class="label">词源</div><div>审计与合规用语，指能证明决策、付款或审批过程的连续书面或电子记录</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合规/审计高频：leave a paper trail（留下书面记录）；a clear paper trail（清晰的文件链）；maintain a paper trail（保持可追溯记录）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">leave a paper trail（留下书面记录）</span><span class="chip">a clear paper trail（清晰的文件链）</span><span class="chip">create a paper trail（建立文件证据链）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Auditors asked for a complete paper trail of every purchase-order approval.</en>
+          <zh>审计人员要求提供每笔采购订单审批的完整书面记录链。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">zero-tolerance</span>
+        <span class="ipa">/ˌzɪroʊ ˈtɑːlərəns/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">零容忍；零容忍政策；绝不姑息</div>
+        <div class="label">词根</div><div>zero（零）+ tolerance（容忍）→ 零容忍</div>
+        <div class="label">词源</div><div>组织政策用语，表示对特定违规（如骚扰、安全违章）一律严肃处理、不留例外</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/安全高频：a zero-tolerance policy（零容忍政策）；zero-tolerance for harassment（对骚扰零容忍）；enforce zero-tolerance（执行零容忍）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a zero-tolerance policy（零容忍政策）</span><span class="chip">zero-tolerance for harassment（对骚扰零容忍）</span><span class="chip">adopt zero-tolerance（采取零容忍）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The plant has a zero-tolerance policy for working without a hard hat.</en>
+          <zh>该工厂对未戴安全帽作业实行零容忍政策。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">contingency</span>
+        <span class="ipa">/kənˈtɪndʒənsi/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">应急预案；偶然事件；或有事项</div>
+        <div class="label">词根</div><div>contingent（依情况而定的）+ -cy → 或有情况</div>
+        <div class="label">词源</div><div>源自拉丁语 contingere「触及、发生」；商务中既指意外情形，也指为此预留的预算或备用方案</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">计划/财务高频：a contingency plan（应急预案）；contingency budget（应急预算）；prepare for contingencies（为意外做准备）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a contingency plan（应急预案）</span><span class="chip">a contingency budget（应急预算）</span><span class="chip">cover contingencies（覆盖或有支出）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We set aside five percent of the project cost as a contingency.</en>
+          <zh>我们预留了项目成本的百分之五作为应急金。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">counterparty</span>
+        <span class="ipa">/ˈkaʊntərˌpɑːrti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">交易对手；合同相对方；对手方</div>
+        <div class="label">词根</div><div>counter-（相对）+ party（一方）→ 相对的一方</div>
+        <div class="label">词源</div><div>金融与合同法术语，指交易或合约中与己方相对的另一方，强调信用与履约风险</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">金融/合同高频：a trading counterparty（交易对手）；counterparty risk（对手方风险）；approve a counterparty（批准交易对手）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">counterparty risk（对手方风险）</span><span class="chip">a trading counterparty（交易对手）</span><span class="chip">select a counterparty（选定交易对手）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Treasury reviews the credit rating of each new counterparty before settlement.</en>
+          <zh>资金部在结算前会审核每位新交易对手的信用评级。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">fiduciary</span>
+        <span class="ipa">/fɪˈduːʃieri/</span>
+        <span class="pos">adj./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">信托的；受信义务的；受托人</div>
+        <div class="label">词根</div><div>拉丁 fiducia（信任）→ 基于信任的责任</div>
+        <div class="label">词源</div><div>源自拉丁语 fiduciarius「受托的」；指董事、受托人等须将受益人利益置于自身之上的法定义务</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">治理/法务高频：fiduciary duty（信义义务）；a fiduciary relationship（信托关系）；breach of fiduciary duty（违反信义义务）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">fiduciary duty（信义义务）</span><span class="chip">a fiduciary relationship（信托关系）</span><span class="chip">act as a fiduciary（以受托人身份行事）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Board members must act in a fiduciary capacity for all shareholders.</en>
+          <zh>董事会成员必须以全体股东的受托人身份行事。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">letter-of-credit</span>
+        <span class="ipa">/ˌletər əv ˈkredɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">信用证；信用状；银行付款保证文件</div>
+        <div class="label">词根</div><div>letter（函件）+ of credit（信用）→ 信用证明函</div>
+        <div class="label">词源</div><div>国际贸易支付工具：银行应买方申请开立，承诺在卖方提交合格单据后付款</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">贸易/财务高频：open a letter of credit（开立信用证）；an irrevocable letter of credit（不可撤销信用证）；present documents under the L/C（凭信用证交单）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">open a letter of credit（开立信用证）</span><span class="chip">an irrevocable letter of credit（不可撤销信用证）</span><span class="chip">a confirmed letter of credit（保兑信用证）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Shipment will not leave the port until the letter of credit is confirmed.</en>
+          <zh>信用证保兑前，货物不会离港。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">cash-flow</span>
+        <span class="ipa">/ˈkæʃ floʊ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">现金流；资金流动；现金收支</div>
+        <div class="label">词根</div><div>cash（现金）+ flow（流动）→ 现金的流动</div>
+        <div class="label">词源</div><div>会计与财务管理核心概念，衡量一定时期内现金流入与流出，反映企业偿付与运营能力</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：positive cash flow（正现金流）；cash-flow statement（现金流量表）；manage cash flow（管理现金流）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">manage cash flow（管理现金流）</span><span class="chip">a cash-flow forecast（现金流预测）</span><span class="chip">positive cash flow（正现金流）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Delayed receivables are putting pressure on our monthly cash flow.</en>
+          <zh>应收账款回笼延迟正对我们的月度现金流造成压力。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">joint-venture</span>
+        <span class="ipa">/ˌdʒɔɪnt ˈventʃər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">合资企业；合资项目；合作经营</div>
+        <div class="label">词根</div><div>joint（共同的）+ venture（冒险事业）→ 共同事业</div>
+        <div class="label">词源</div><div>两家或多家企业共同出资、共担风险与收益成立的实体或项目，常见于跨境扩张与大型基建</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务/战略高频：form a joint venture（成立合资企业）；a joint-venture partner（合资伙伴）；dissolve a joint venture（解散合资）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">form a joint venture（成立合资企业）</span><span class="chip">a joint-venture partner（合资伙伴）</span><span class="chip">a 50-50 joint venture（对半合资）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The two manufacturers announced a joint venture to build batteries locally.</en>
+          <zh>两家制造商宣布成立合资企业，在本地生产电池。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">year-over-year</span>
+        <span class="ipa">/ˌjɪr ˈoʊvər ˌjɪr/</span>
+        <span class="pos">adj./adv.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">同比的；与去年同期相比；逐年对比</div>
+        <div class="label">词根</div><div>year（年）+ over（跨越）+ year → 年与年对比</div>
+        <div class="label">词源</div><div>财务与运营报告常用比较口径，将本期指标与上年同期对比，以剔除季节性波动</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/报告高频：year-over-year growth（同比增长）；year-over-year decline（同比下降）；compare year-over-year（做同比比较）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">year-over-year growth（同比增长）</span><span class="chip">year-over-year revenue（同比营收）</span><span class="chip">a year-over-year increase（同比上升）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Sales rose twelve percent year-over-year despite softer footfall.</en>
+          <zh>尽管客流偏软，销售额仍同比增长百分之十二。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">underwriter</span>
+        <span class="ipa">/ˈʌndərˌraɪtər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">承保人；承销商；担保人</div>
+        <div class="label">词根</div><div>underwrite（承保/承销）+ -er → 承保或承销者</div>
+        <div class="label">词源</div><div>原指保险合同签署人；后亦指承诺购买并再销售证券的投资银行承销商</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">保险/金融高频：an insurance underwriter（保险承保人）；lead underwriter（主承销商）；underwriter approval（承保审批）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an insurance underwriter（保险承保人）</span><span class="chip">the lead underwriter（主承销商）</span><span class="chip">underwriter approval（承保审批）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The underwriter requested additional safety data before issuing the policy.</en>
+          <zh>承保人在出具保单前要求补充安全数据。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">renovation</span>
+        <span class="ipa">/ˌrenəˈveɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">翻新；整修；装修改造</div>
+        <div class="label">词根</div><div>re-（再次）+ nov（新）+ -ation → 使之重新变新</div>
+        <div class="label">词源</div><div>源自拉丁语 renovare「更新」；职场中常见于办公楼、门店或厂房的改造通知与工期安排</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">设施/通知高频：office renovation（办公室翻新）；renovation schedule（整修时间表）；during the renovation（翻新期间）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">office renovation（办公室翻新）</span><span class="chip">a renovation project（整修项目）</span><span class="chip">complete the renovation（完成翻新）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The lobby will remain closed during the three-week renovation.</en>
+          <zh>大厅将在为期三周的翻新期间保持关闭。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">evacuation</span>
+        <span class="ipa">/ɪˌvækjuˈeɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">疏散；撤离；清空撤离</div>
+        <div class="label">词根</div><div>e-（出）+ vacu（空）+ -ation → 使空出并离开</div>
+        <div class="label">词源</div><div>源自拉丁语 evacuare「排空」；工作场所安全中指火灾、泄漏等紧急情况下按路线有序撤离</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">安全高频：building evacuation（大楼疏散）；evacuation route（疏散路线）；order an evacuation（下令撤离）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an evacuation route（疏散路线）</span><span class="chip">building evacuation（大楼疏散）</span><span class="chip">conduct an evacuation（实施疏散）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Staff must know the nearest evacuation route from every meeting room.</en>
+          <zh>员工必须了解从每间会议室到最近疏散路线的路径。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">fire-drill</span>
+        <span class="ipa">/ˈfaɪər drɪl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">消防演练；火灾疏散演习；应急演练（喻）</div>
+        <div class="label">词根</div><div>fire（火）+ drill（操练）→ 火灾演练</div>
+        <div class="label">词源</div><div>定期组织的模拟火灾疏散训练；口语中亦喻指突然的紧急忙乱应对</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">安全/设施高频：conduct a fire drill（进行消防演练）；a scheduled fire drill（计划内消防演习）；miss the fire drill（错过消防演练）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">conduct a fire drill（进行消防演练）</span><span class="chip">a scheduled fire drill（计划内消防演习）</span><span class="chip">fire-drill procedures（消防演练程序）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>A building-wide fire drill is scheduled for Thursday at 10 a.m.</en>
+          <zh>整栋楼的消防演练定于周四上午十点举行。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">hard-hat</span>
+        <span class="ipa">/ˈhɑːrd hæt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">安全帽；硬壳帽；工地防护帽</div>
+        <div class="label">词根</div><div>hard（硬的）+ hat（帽）→ 硬质安全帽</div>
+        <div class="label">词源</div><div>建筑与工业现场强制佩戴的防护头盔；亦常借指现场施工人员或工地工作</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">安全/工地高频：wear a hard hat（佩戴安全帽）；hard-hat area（须戴安全帽区域）；hard-hat required（必须戴安全帽）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">wear a hard hat（佩戴安全帽）</span><span class="chip">a hard-hat area（须戴安全帽区域）</span><span class="chip">hard-hat required（必须戴安全帽）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Visitors must wear a hard hat before entering the construction zone.</en>
+          <zh>访客进入施工区域前必须佩戴安全帽。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">lockout</span>
+        <span class="ipa">/ˈlɑːkaʊt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">停工闭厂；封锁；拒绝入内</div>
+        <div class="label">词根</div><div>lock（锁）+ out（在外）→ 锁在外面</div>
+        <div class="label">词源</div><div>劳资争议中资方关闭厂房拒绝工人进入的手段；工业安全中亦指挂牌上锁以防设备误启动</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">劳资/安全高频：a company lockout（公司闭厂）；lockout procedures（上锁挂牌程序）；end the lockout（结束闭厂）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a company lockout（公司闭厂）</span><span class="chip">lockout/tagout procedures（上锁挂牌程序）</span><span class="chip">during the lockout（闭厂期间）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Negotiations resumed after a two-week lockout at the distribution center.</en>
+          <zh>配送中心闭厂两周后，谈判重新开始。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">hard-copy</span>
+        <span class="ipa">/ˈhɑːrd ˌkɑːpi/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">纸质副本；打印件；硬拷贝</div>
+        <div class="label">词根</div><div>hard（实物的）+ copy（副本）→ 纸质实体副本</div>
+        <div class="label">词源</div><div>相对电子文件而言的打印纸质版本；办公与归档中常要求同时保留硬拷贝</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公高频：a hard copy of the report（报告纸质版）；print a hard copy（打印一份）；keep a hard copy（保留纸质副本）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a hard copy（纸质副本）</span><span class="chip">print a hard copy（打印一份）</span><span class="chip">submit a hard copy（提交纸质版）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please bring a hard copy of your résumé to the interview desk.</en>
+          <zh>请带一份纸质简历到面试接待台。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">in-house</span>
+        <span class="ipa">/ˌɪn ˈhaʊs/</span>
+        <span class="pos">adj./adv.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">内部的；公司自有的；在内部进行</div>
+        <div class="label">词根</div><div>in（在…内）+ house（机构）→ 机构内部</div>
+        <div class="label">词源</div><div>指由本组织员工而非外包完成的工作、培训或服务，强调成本控制与保密</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公/HR 高频：in-house training（内部培训）；an in-house team（内部团队）；handle in-house（内部处理）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">in-house training（内部培训）</span><span class="chip">an in-house counsel（内部法律顾问）</span><span class="chip">develop in-house（内部开发）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We decided to build the reporting tool in-house instead of buying software.</en>
+          <zh>我们决定内部开发报表工具，而不是外购软件。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">off-site</span>
+        <span class="ipa">/ˌɔːf ˈsaɪt/</span>
+        <span class="pos">adj./adv./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">场外的；异地的；外出研讨活动</div>
+        <div class="label">词根</div><div>off（离开）+ site（场地）→ 不在原场地</div>
+        <div class="label">词源</div><div>相对 on-site；可指异地办公、外包存放，或团队离开日常办公地点举办的战略会议</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/设施高频：an off-site meeting（场外会议）；work off-site（在场外工作）；company off-site（公司外出研讨）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an off-site meeting（场外会议）</span><span class="chip">work off-site（在场外工作）</span><span class="chip">a leadership off-site（领导层外出研讨）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The leadership off-site will focus on next year&#x27;s budget priorities.</en>
+          <zh>领导层外出研讨将聚焦明年的预算优先级。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">work-order</span>
+        <span class="ipa">/ˈwɜːrk ˌɔːrdər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">工单；工作指令单；维修派工单</div>
+        <div class="label">词根</div><div>work（工作）+ order（指令）→ 工作指令</div>
+        <div class="label">词源</div><div>设施、制造与 IT 运维中用于派发、跟踪维修或作业任务的正式单据</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">设施/运维高频：issue a work order（开立工单）；close a work order（关闭工单）；pending work orders（待处理工单）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">issue a work order（开立工单）</span><span class="chip">close a work order（关闭工单）</span><span class="chip">a maintenance work order（维修工单）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Facilities opened a work order to replace the broken thermostat.</en>
+          <zh>设施部门开立了工单以更换损坏的恒温器。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">change-order</span>
+        <span class="ipa">/ˈtʃeɪndʒ ˌɔːrdər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">变更单；工程变更指令；合同变更令</div>
+        <div class="label">词根</div><div>change（变更）+ order（指令）→ 变更指令</div>
+        <div class="label">词源</div><div>建筑与采购合同执行中，对原范围、造价或工期的正式书面变更文件</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">采购/工程高频：approve a change order（批准变更单）；a change-order request（变更申请）；cost of the change order（变更费用）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">approve a change order（批准变更单）</span><span class="chip">a change-order request（变更申请）</span><span class="chip">issue a change order（签发变更令）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Any scope increase must be documented in a signed change order.</en>
+          <zh>任何范围扩大都必须以已签署的变更单记录。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">purchase-order</span>
+        <span class="ipa">/ˈpɜːrtʃəs ˌɔːrdər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">采购订单；订购单；PO</div>
+        <div class="label">词根</div><div>purchase（采购）+ order（订单）→ 采购订单</div>
+        <div class="label">词源</div><div>买方签发的正式订购文件，载明品名、数量、价格与交货条件，是应付账款与收货核对的依据</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">采购高频：issue a purchase order（开立采购订单）；PO number（采购订单号）；match the invoice to the purchase order（发票与采购订单核对）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">issue a purchase order（开立采购订单）</span><span class="chip">a purchase-order number（采购订单号）</span><span class="chip">approve a purchase order（批准采购订单）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Accounts payable will not process invoices without a matching purchase order.</en>
+          <zh>应付账款部门不会处理没有对应采购订单的发票。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">desk-audit</span>
+        <span class="ipa">/ˈdesk ˌɔːdɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">案头审计；书面审核；非现场稽核</div>
+        <div class="label">词根</div><div>desk（案头）+ audit（审计）→ 在办公桌完成的审计</div>
+        <div class="label">词源</div><div>审计与合规用语，指基于文件与数据的远程或办公室审查，相对现场实地核查</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合规/审计高频：conduct a desk audit（进行案头审计）；a desk-audit review（书面审核）；pass a desk audit（通过案头稽核）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">conduct a desk audit（进行案头审计）</span><span class="chip">a desk-audit checklist（案头审计清单）</span><span class="chip">schedule a desk audit（安排案头稽核）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Payroll underwent a desk audit of overtime approvals last quarter.</en>
+          <zh>上季度薪酬部门接受了加班审批的案头审计。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">stocktaking</span>
+        <span class="ipa">/ˈstɑːkteɪkɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">盘点；存货清点；库存盘查</div>
+        <div class="label">词根</div><div>stock（存货）+ taking（清点）→ 清点存货</div>
+        <div class="label">词源</div><div>零售与仓储定期核对账面与实物库存的流程；亦喻指对现状做全面清查评估</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">仓储/零售高频：annual stocktaking（年度盘点）；stocktaking day（盘点日）；complete stocktaking（完成盘点）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">annual stocktaking（年度盘点）</span><span class="chip">conduct stocktaking（进行盘点）</span><span class="chip">stocktaking discrepancies（盘点差异）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The warehouse will close early on Friday for year-end stocktaking.</en>
+          <zh>仓库周五将提前关门以进行年终盘点。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">soft-skills</span>
+        <span class="ipa">/ˈsɔːft skɪlz/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">软技能；人际与沟通能力；非技术素养</div>
+        <div class="label">词根</div><div>soft（软性的）+ skills（技能）→ 软性技能</div>
+        <div class="label">词源</div><div>相对 hard skills；指沟通、协作、领导力等职场通用能力，常见于招聘与培训材料</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/培训高频：develop soft skills（培养软技能）；soft-skills training（软技能培训）；strong soft skills（出色的软技能）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">soft-skills training（软技能培训）</span><span class="chip">develop soft skills（培养软技能）</span><span class="chip">assess soft skills（评估软技能）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The promotion criteria now weigh soft skills as heavily as technical ability.</en>
+          <zh>晋升标准现已将软技能与技术能力同等权重。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">front-line</span>
+        <span class="ipa">/ˈfrʌnt laɪn/</span>
+        <span class="pos">adj./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">一线的；前线；直接面对客户的岗位</div>
+        <div class="label">词根</div><div>front（前方）+ line（线）→ 最前线</div>
+        <div class="label">词源</div><div>军事用语引申至客服与运营，指直接接触客户或现场作业的岗位与人员</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">客服/运营高频：front-line staff（一线员工）；front-line managers（一线经理）；support the front line（支持一线）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">front-line staff（一线员工）</span><span class="chip">front-line service（一线服务）</span><span class="chip">front-line managers（一线经理）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Front-line agents need clearer scripts for refund requests.</en>
+          <zh>一线客服需要更清晰的退款话术脚本。</zh>
+        </div>
+      </div>
+    </article>
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
