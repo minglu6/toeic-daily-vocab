@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 10/30 ×30</title>
+<style>
+
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.10.30</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">apprenticeship</span>
+        <span class="ipa">/əˈprentɪʃɪp/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">学徒制；学徒期；学徒培训项目</div>
+        <div class="label">词根</div><div>apprentice（学徒）+ -ship（身份/制度）→ 学徒制度</div>
+        <div class="label">词源</div><div>源自中古英语，指跟随师傅边干边学的培训安排；现代职场中常指带薪学徒或双轨技能培养项目</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：complete an apprenticeship（完成学徒期）；an apprenticeship program（学徒培训项目）；offer apprenticeships（提供学徒名额）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an apprenticeship program（学徒培训项目）</span><span class="chip">complete an apprenticeship（完成学徒期）</span><span class="chip">a paid apprenticeship（带薪学徒）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The manufacturer launched a two-year apprenticeship for maintenance technicians.</en>
+          <zh>该制造商为维修技师推出了为期两年的学徒项目。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">internship</span>
+        <span class="ipa">/ˈɪntɜːrnʃɪp/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">实习；实习期；实习岗位</div>
+        <div class="label">词根</div><div>intern（实习生）+ -ship（身份）→ 实习身份/岗位</div>
+        <div class="label">词源</div><div>原指医院住院医师实习；现广泛指学生或新人在企业短期实践以获取经验的安排</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：a summer internship（暑期实习）；apply for an internship（申请实习）；paid internship（带薪实习）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a summer internship（暑期实习）</span><span class="chip">apply for an internship（申请实习）</span><span class="chip">complete an internship（完成实习）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Her marketing internship included drafting campaign briefs and analyzing survey data.</en>
+          <zh>她的营销实习包括起草活动简报和分析调查数据。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">mentoring</span>
+        <span class="ipa">/ˈmentərɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">导师辅导；师徒指导；辅导关系</div>
+        <div class="label">词根</div><div>mentor（导师）+ -ing → 导师辅导行为</div>
+        <div class="label">词源</div><div>源自希腊神话中的导师 Mentor；职场中指资深同事对新人在技能与职业发展上的持续指导</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：a mentoring program（导师辅导计划）；one-on-one mentoring（一对一辅导）；seek mentoring（寻求辅导）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a mentoring program（导师辅导计划）</span><span class="chip">one-on-one mentoring（一对一辅导）</span><span class="chip">peer mentoring（同伴辅导）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The firm pairs every new analyst with a senior partner for six months of mentoring.</en>
+          <zh>公司为每位新分析师配对一位资深合伙人，进行六个月的辅导。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">cross-training</span>
+        <span class="ipa">/ˈkrɔːs ˌtreɪnɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">交叉培训；跨岗培训；多技能训练</div>
+        <div class="label">词根</div><div>cross（交叉）+ training（培训）→ 跨岗位培训</div>
+        <div class="label">词源</div><div>运营与 HR 用语，指让员工学习本职以外岗位技能，以提高灵活调度与备份能力</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/运营高频：cross-training sessions（交叉培训课程）；cross-training staff（对员工进行交叉培训）；benefit from cross-training（受益于交叉培训）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">cross-training sessions（交叉培训课程）</span><span class="chip">cross-train staff（对员工交叉培训）</span><span class="chip">a cross-training plan（交叉培训计划）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Cross-training warehouse staff reduced delays when the packing team was short-handed.</en>
+          <zh>对仓库员工进行交叉培训后，包装组人手不足时延误明显减少。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">hiring-freeze</span>
+        <span class="ipa">/ˈhaɪərɪŋ friːz/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">招聘冻结；暂停招人；用工冻结</div>
+        <div class="label">词根</div><div>hiring（招聘）+ freeze（冻结）→ 暂停招聘</div>
+        <div class="label">词源</div><div>成本控制措施，指公司在预算压力或重组期间暂时停止对外招聘或仅填补关键空缺</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：impose a hiring-freeze（实施招聘冻结）；lift the hiring-freeze（解除招聘冻结）；during the hiring-freeze（招聘冻结期间）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">impose a hiring-freeze（实施招聘冻结）</span><span class="chip">lift the hiring-freeze（解除招聘冻结）</span><span class="chip">a company-wide hiring-freeze（全公司招聘冻结）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Because of slower sales, management announced a hiring-freeze through the first quarter.</en>
+          <zh>由于销售放缓，管理层宣布第一季度实施招聘冻结。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">new-hire</span>
+        <span class="ipa">/ˈnjuː ˌhaɪər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">新员工；新入职者；新聘人员</div>
+        <div class="label">词根</div><div>new（新）+ hire（雇用的人）→ 新聘员工</div>
+        <div class="label">词源</div><div>HR 口语与书面常用复合词，指刚被录用、尚在入职适应期的员工</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：orient a new-hire（给新员工做入职介绍）；a new-hire orientation（新员工入职培训）；welcome new-hires（欢迎新员工）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a new-hire orientation（新员工入职培训）</span><span class="chip">onboard a new-hire（完成新员工入职）</span><span class="chip">welcome new-hires（欢迎新员工）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Each new-hire receives a laptop, badge, and a 90-day development plan on day one.</en>
+          <zh>每位新员工入职首日都会拿到笔记本电脑、工牌和一份九十天发展计划。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">performance-review</span>
+        <span class="ipa">/pərˈfɔːrməns rɪˌvjuː/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">绩效评估；业绩考核；绩效面谈</div>
+        <div class="label">词根</div><div>performance（绩效）+ review（评审）→ 绩效评审</div>
+        <div class="label">词源</div><div>人力资源管理核心流程，指定期评估员工目标达成、能力表现并反馈改进与薪酬挂钩的正式评审</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：an annual performance-review（年度绩效评估）；conduct a performance-review（进行绩效面谈）；performance-review feedback（绩效评估反馈）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an annual performance-review（年度绩效评估）</span><span class="chip">conduct a performance-review（进行绩效面谈）</span><span class="chip">performance-review criteria（绩效评估标准）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please submit your self-assessment before next week&#x27;s performance-review meeting.</en>
+          <zh>请在下周绩效评估会之前提交自我评价。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">paid-leave</span>
+        <span class="ipa">/ˌpeɪd ˈliːv/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">带薪休假；带薪假；带薪缺勤</div>
+        <div class="label">词根</div><div>paid（带薪的）+ leave（休假）→ 带薪休假</div>
+        <div class="label">词源</div><div>劳动法与员工福利用语，指雇主在员工休假期间仍支付工资的假期安排，如年假、病假等</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：take paid-leave（请带薪假）；accrue paid-leave（累积带薪假期）；paid-leave balance（带薪假余额）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">take paid-leave（请带薪假）</span><span class="chip">accrue paid-leave（累积带薪假期）</span><span class="chip">a paid-leave policy（带薪休假政策）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Employees may use paid-leave for medical appointments with 24 hours&#x27; notice.</en>
+          <zh>员工可提前二十四小时通知，用带薪假处理就医预约。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">open-enrollment</span>
+        <span class="ipa">/ˌoʊpən ɪnˈroʊlmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">开放参保期；福利登记窗口；自由投保期</div>
+        <div class="label">词根</div><div>open（开放）+ enrollment（登记/参保）→ 开放登记期</div>
+        <div class="label">词源</div><div>员工福利术语，指每年固定时段，员工可更改医保、牙科、弹性福利等参保选项而不受平时限制</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/福利高频：during open-enrollment（在开放参保期内）；open-enrollment period（开放参保窗口）；miss open-enrollment（错过开放参保期）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">the open-enrollment period（开放参保窗口）</span><span class="chip">during open-enrollment（在开放参保期内）</span><span class="chip">complete open-enrollment（完成参保登记）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Open-enrollment ends Friday; after that, benefit changes require a qualifying event.</en>
+          <zh>开放参保期周五截止；之后更改福利须具备合格事由。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">redundancy</span>
+        <span class="ipa">/rɪˈdʌndənsi/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">裁员；冗员精简；岗位冗余（英）</div>
+        <div class="label">词根</div><div>redund-（溢出/多余）+ -ancy → 多余状态</div>
+        <div class="label">词源</div><div>源自拉丁语 redundare「溢出」；英式商务中常指因岗位不再需要而解雇（非因个人过错），美式多说 layoff</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：face redundancy（面临裁员）；a redundancy package（裁员补偿方案）；make staff redundant（将员工裁员）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a redundancy package（裁员补偿方案）</span><span class="chip">face redundancy（面临裁员）</span><span class="chip">voluntary redundancy（自愿裁员）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>After the plant closure, workers received a redundancy package based on years of service.</en>
+          <zh>工厂关闭后，工人按服务年限获得了裁员补偿方案。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">earnings</span>
+        <span class="ipa">/ˈɜːrnɪŋz/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">收益；盈利；公司盈余（常复数）</div>
+        <div class="label">词根</div><div>earn（赚取）+ -ings → 所赚得的收益</div>
+        <div class="label">词源</div><div>财务报告常用语，指公司在一定期间的利润或净收益，亦指个人工资收入</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：report earnings（公布业绩）；quarterly earnings（季度收益）；earnings growth（盈利增长）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">quarterly earnings（季度收益）</span><span class="chip">report earnings（公布业绩）</span><span class="chip">earnings growth（盈利增长）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Strong overseas sales lifted the company&#x27;s third-quarter earnings above forecasts.</en>
+          <zh>强劲的海外销售使公司第三季度收益高于预期。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">net-income</span>
+        <span class="ipa">/ˌnet ˈɪnkʌm/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">净收入；净利润；税后净利</div>
+        <div class="label">词根</div><div>net（净的）+ income（收入）→ 扣除费用后的净收入</div>
+        <div class="label">词源</div><div>会计核心指标，指收入减去成本、费用、利息与税项后的最终利润，常称「bottom line」</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：report net-income（公布净利润）；net-income rose（净利润上升）；net-income margin（净利润率）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">report net-income（公布净利润）</span><span class="chip">annual net-income（年度净利润）</span><span class="chip">net-income margin（净利润率）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Despite higher costs, net-income still grew 8 percent year over year.</en>
+          <zh>尽管成本上升，净利润仍同比增长百分之八。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">operating-margin</span>
+        <span class="ipa">/ˈɒpəreɪtɪŋ ˌmɑːrdʒɪn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">营业利润率；经营毛利率（营业口径）</div>
+        <div class="label">词根</div><div>operating（经营的）+ margin（利润率）→ 经营利润率</div>
+        <div class="label">词源</div><div>财务比率，用营业利润除以营收衡量主业盈利能力，不含利息与所得税等非经营项影响</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：improve operating-margin（提升营业利润率）；operating-margin pressure（营业利润率压力）；a healthy operating-margin（健康的营业利润率）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">improve operating-margin（提升营业利润率）</span><span class="chip">operating-margin pressure（营业利润率压力）</span><span class="chip">gross and operating-margin（毛利率与营业利润率）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Cost controls helped the division expand its operating-margin by two percentage points.</en>
+          <zh>成本控制使该事业部营业利润率提高了两个百分点。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">profit-margin</span>
+        <span class="ipa">/ˈprɒfɪt ˌmɑːrdʒɪn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">利润率；盈利幅度；利润空间</div>
+        <div class="label">词根</div><div>profit（利润）+ margin（幅度/边际）→ 利润占收入比例</div>
+        <div class="label">词源</div><div>通用财务指标，表示利润占销售额的百分比；可指毛利率、营业利润率或净利率，语境需分辨</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/商务高频：a thin profit-margin（微薄的利润率）；protect profit-margin（保护利润率）；low profit-margin（低利润率）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a thin profit-margin（微薄的利润率）</span><span class="chip">protect profit-margin（保护利润率）</span><span class="chip">raise the profit-margin（提高利润率）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Rising fuel costs are squeezing the airline&#x27;s already thin profit-margin.</en>
+          <zh>燃油成本上升正在挤压航空公司本已微薄的利润率。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">buyback</span>
+        <span class="ipa">/ˈbaɪbæk/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">回购；股票回购；买回</div>
+        <div class="label">词根</div><div>buy（买）+ back（回）→ 买回来</div>
+        <div class="label">词源</div><div>公司金融用语，尤指上市公司用现金从市场购回自身流通股，以提高每股收益或返还股东现金</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/资本市场高频：a share buyback（股票回购）；announce a buyback（宣布回购）；a buyback program（回购计划）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a share buyback（股票回购）</span><span class="chip">announce a buyback（宣布回购）</span><span class="chip">a buyback program（回购计划）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The board approved a $500 million buyback to return excess cash to shareholders.</en>
+          <zh>董事会批准了五亿美元的回购计划，以将多余现金返还股东。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">consolidation</span>
+        <span class="ipa">/kənˌsɒlɪˈdeɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">合并；整合；合并报表；行业整合</div>
+        <div class="label">词根</div><div>con-（一起）+ solid（坚固）+ -ation → 合为一体以加固</div>
+        <div class="label">词源</div><div>源自拉丁语 consolidare「使坚固」；商务中指公司合并、业务整合或会计上的合并报表处理</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/战略高频：industry consolidation（行业整合）；debt consolidation（债务合并）；post-merger consolidation（并购后整合）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">industry consolidation（行业整合）</span><span class="chip">debt consolidation（债务合并）</span><span class="chip">warehouse consolidation（仓库整合）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The logistics firm completed warehouse consolidation to cut overlapping routes.</en>
+          <zh>该物流公司完成了仓库整合，以削减重叠线路。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">deadlock</span>
+        <span class="ipa">/ˈdedlɒk/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">僵局；谈判陷入僵持；死锁</div>
+        <div class="label">词根</div><div>dead（死的）+ lock（锁）→ 锁死无法动弹</div>
+        <div class="label">词源</div><div>比喻谈判或决策各方互不相让、无法推进的状态；亦可作动词表示使陷入僵局</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/谈判高频：reach a deadlock（陷入僵局）；break the deadlock（打破僵局）；a negotiation deadlock（谈判僵局）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reach a deadlock（陷入僵局）</span><span class="chip">break the deadlock（打破僵局）</span><span class="chip">a negotiation deadlock（谈判僵局）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Talks hit a deadlock over wage increases and weekend staffing levels.</en>
+          <zh>谈判因加薪与周末排班水平问题陷入僵局。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">proxy</span>
+        <span class="ipa">/ˈprɒksi/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">代理人；委托投票；代理权；代理文件</div>
+        <div class="label">词根</div><div>无（中古英语 procuracie「代理」缩略）</div>
+        <div class="label">词源</div><div>公司治理与会议用语，指授权他人代为出席或投票；亦指代理权本身或代理表决表</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">治理/会议高频：vote by proxy（委托投票）；a proxy statement（委托说明书）；appoint a proxy（指定代理人）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">vote by proxy（委托投票）</span><span class="chip">a proxy statement（委托说明书）</span><span class="chip">appoint a proxy（指定代理人）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Shareholders who cannot attend may vote by proxy using the enclosed form.</en>
+          <zh>无法出席的股东可使用随附表格委托投票。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">cascade</span>
+        <span class="ipa">/kæˈskeɪd/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">逐级传达；层层下达；级联；瀑布</div>
+        <div class="label">词根</div><div>无（意大利语 cascata「瀑布」）</div>
+        <div class="label">词源</div><div>本义为瀑布；管理语境中常指信息、目标或决策从高层逐级向下传递的过程</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/管理高频：cascade the message（逐级传达信息）；cascade goals（层层下达目标）；an information cascade（信息级联）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">cascade the message（逐级传达信息）</span><span class="chip">cascade goals（层层下达目标）</span><span class="chip">cascade changes（逐级传达变更）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Managers must cascade the new safety policy to every shift by Monday.</en>
+          <zh>经理们须在周一前将新安全政策逐级传达到每一个班次。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">salesperson</span>
+        <span class="ipa">/ˈseɪlzˌpɜːrsn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">销售人员；推销员；业务员</div>
+        <div class="label">词根</div><div>sales（销售）+ person（人）→ 从事销售的人</div>
+        <div class="label">词源</div><div>中性称呼销售岗位从业者，较 salesman/saleswoman 更通用；TOEIC 公告与邮件中常见</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">销售高频：an experienced salesperson（有经验的销售人员）；hire a salesperson（招聘销售）；a top salesperson（顶尖销售）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an experienced salesperson（有经验的销售人员）</span><span class="chip">hire a salesperson（招聘销售）</span><span class="chip">a retail salesperson（零售销售员）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Each salesperson is assigned a regional territory and a quarterly revenue target.</en>
+          <zh>每位销售人员都分配了区域市场和季度营收目标。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">sales-quota</span>
+        <span class="ipa">/ˈseɪlz ˌkwoʊtə/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">销售配额；销售指标；业绩定额</div>
+        <div class="label">词根</div><div>sales（销售）+ quota（配额）→ 销售定额</div>
+        <div class="label">词源</div><div>销售管理工具，指在一定时期内个人或团队须完成的最低销售数量或金额目标</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">销售高频：meet a sales-quota（完成销售配额）；set a sales-quota（设定销售指标）；miss the sales-quota（未达销售定额）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">meet a sales-quota（完成销售配额）</span><span class="chip">set a sales-quota（设定销售指标）</span><span class="chip">a monthly sales-quota（月度销售定额）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Agents who exceed their sales-quota receive a bonus and preferred account leads.</en>
+          <zh>超额完成销售配额的代理可获奖金及优先客户线索。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">loyalty-program</span>
+        <span class="ipa">/ˈlɔɪəlti ˌproʊɡræm/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">忠诚度计划；会员积分计划；常客计划</div>
+        <div class="label">词根</div><div>loyalty（忠诚）+ program（计划）→ 培养客户忠诚的计划</div>
+        <div class="label">词源</div><div>零售与航空等行业常用营销工具，通过积分、等级与专属优惠鼓励重复消费与品牌黏性</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销高频：join a loyalty-program（加入忠诚度计划）；a customer loyalty-program（客户忠诚计划）；loyalty-program rewards（忠诚计划奖励）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">join a loyalty-program（加入忠诚度计划）</span><span class="chip">a customer loyalty-program（客户忠诚计划）</span><span class="chip">loyalty-program points（忠诚计划积分）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Members of the loyalty-program earn free nights after ten paid stays.</en>
+          <zh>忠诚度计划会员住满十次付费住宿后可获免费住宿。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">newsletter</span>
+        <span class="ipa">/ˈnjuːzˌletər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">简讯；电子报；内部通讯</div>
+        <div class="label">词根</div><div>news（新闻）+ letter（信函）→ 新闻信函</div>
+        <div class="label">词源</div><div>公司或组织定期向员工、客户或会员发送的简明资讯刊物，纸质或电子邮件形式皆可</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销/办公高频：subscribe to a newsletter（订阅简讯）；a company newsletter（公司通讯）；monthly newsletter（月度简讯）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">subscribe to a newsletter（订阅简讯）</span><span class="chip">a company newsletter（公司通讯）</span><span class="chip">send a newsletter（发送简讯）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please submit department updates for the Friday employee newsletter by Wednesday noon.</en>
+          <zh>请于周三中午前提交部门动态，供周五员工简讯使用。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">product-launch</span>
+        <span class="ipa">/ˈprɒdʌkt lɔːntʃ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">产品发布；新品上市；上市活动</div>
+        <div class="label">词根</div><div>product（产品）+ launch（发射/推出）→ 产品推出</div>
+        <div class="label">词源</div><div>营销与产品管理用语，指新产品正式进入市场的系列活动，含发布会、渠道铺货与宣传</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销/产品高频：a product-launch event（产品发布活动）；schedule a product-launch（安排新品上市）；delay the product-launch（推迟产品发布）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a product-launch event（产品发布活动）</span><span class="chip">schedule a product-launch（安排新品上市）</span><span class="chip">a successful product-launch（成功的产品发布）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The product-launch will feature live demos and early-bird pricing for trade buyers.</en>
+          <zh>产品发布将包括现场演示，并为贸易采购商提供早鸟价。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">occupancy-rate</span>
+        <span class="ipa">/ˈɒkjəpənsi reɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">入住率；占用率；入住比率</div>
+        <div class="label">词根</div><div>occupancy（占用/入住）+ rate（率）→ 被占用比例</div>
+        <div class="label">词源</div><div>酒店、办公楼与航空等行业关键 KPI，表示在统计期内已出租或已使用单元占总可售单元的比例</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">酒店/地产高频：a high occupancy-rate（高入住率）；boost occupancy-rate（提高入住率）；average occupancy-rate（平均入住率）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a high occupancy-rate（高入住率）</span><span class="chip">boost occupancy-rate（提高入住率）</span><span class="chip">hotel occupancy-rate（酒店入住率）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Weekend promotions lifted the hotel&#x27;s occupancy-rate to 92 percent in October.</en>
+          <zh>周末促销使该酒店十月份入住率升至百分之九十二。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">no-show</span>
+        <span class="ipa">/ˈnoʊ ʃoʊ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">未到者；爽约；预订未现身</div>
+        <div class="label">词根</div><div>no（不）+ show（出现）→ 未出现</div>
+        <div class="label">词源</div><div>酒店、航空与会议用语，指已预订却未取消、也未按时到达的客人或与会者</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">酒店/差旅高频：a reservation no-show（预订未到）；charge for a no-show（收取未到费）；reduce no-shows（减少爽约）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a reservation no-show（预订未到）</span><span class="chip">a no-show fee（未到手续费）</span><span class="chip">reduce no-shows（减少爽约）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Guests who cancel after 6 p.m. will be treated as a no-show and billed one night.</en>
+          <zh>晚于下午六点取消的客人将视为未到，并收取一晚房费。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">room-rate</span>
+        <span class="ipa">/ˈruːm reɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">房价；客房价格；房间费率</div>
+        <div class="label">词根</div><div>room（房间）+ rate（费率）→ 客房收费标准</div>
+        <div class="label">词源</div><div>酒店业核心报价术语，指每晚客房价格；常随季节、活动与入住情况浮动</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">酒店/差旅高频：a discounted room-rate（折扣房价）；corporate room-rate（企业协议房价）；seasonal room-rate（季节性房价）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a discounted room-rate（折扣房价）</span><span class="chip">a corporate room-rate（企业协议房价）</span><span class="chip">check the room-rate（查询房价）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Conference attendees receive a special room-rate if they book through the event portal.</en>
+          <zh>与会者通过活动门户预订可享特别房价。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">quality-control</span>
+        <span class="ipa">/ˈkwɒləti kənˌtroʊl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">质量控制；品管；质检</div>
+        <div class="label">词根</div><div>quality（质量）+ control（控制）→ 对质量进行控制</div>
+        <div class="label">词源</div><div>制造与服务管理流程，通过检验、抽样与标准比对防止不合格产品流出，常缩写 QC</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">制造/运营高频：quality-control checks（质量控制检查）；a quality-control team（品管团队）；strict quality-control（严格的质量控制）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">quality-control checks（质量控制检查）</span><span class="chip">a quality-control team（品管团队）</span><span class="chip">pass quality-control（通过质检）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Every batch must pass quality-control before it leaves the factory.</en>
+          <zh>每一批次在出厂前都必须通过质量控制。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">ramp-up</span>
+        <span class="ipa">/ˈræmp ʌp/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">爬坡增产；加速推进；产能爬升</div>
+        <div class="label">词根</div><div>ramp（斜坡）+ up（向上）→ 沿坡向上加速</div>
+        <div class="label">词源</div><div>运营与项目用语，指产量、招聘或活动强度在启动后逐步提高到目标水平的阶段</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">运营/项目高频：a production ramp-up（生产爬坡）；ramp-up capacity（提升产能）；during the ramp-up（在爬坡期间）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a production ramp-up（生产爬坡）</span><span class="chip">ramp-up capacity（提升产能）</span><span class="chip">a hiring ramp-up（招聘爬坡）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The plant plans a six-week ramp-up before reaching full production volume.</en>
+          <zh>该工厂计划用六周时间爬坡增产，再达到满产。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">turnaround</span>
+        <span class="ipa">/ˈtɜːrnəˌraʊnd/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">转机；扭亏为盈；周转时间；翻修周期</div>
+        <div class="label">词根</div><div>turn（转）+ around（环绕）→ 扭转局面/掉头</div>
+        <div class="label">词源</div><div>可指企业业绩扭转、航班或船舶在港周转时间，或项目从接收到交付的处理时长，语境决定具体义</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">商务/运营高频：a business turnaround（业务扭亏）；fast turnaround（快速周转）；turnaround time（周转时间）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a business turnaround（业务扭亏）</span><span class="chip">fast turnaround（快速周转）</span><span class="chip">turnaround time（周转时间）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The new CEO outlined a turnaround plan focused on cost cuts and core products.</en>
+          <zh>新任首席执行官提出了以削减成本与聚焦核心产品为重点的扭亏计划。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
