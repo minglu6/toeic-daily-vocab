@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#ffffff" />
+<title>TOEIC Part 7 · Double · 2026-11-02</title>
+<style>
+  @page { margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: #cfc9be;
+    color: #000;
+    font-family: "Times New Roman", Times, "Times N R", "Nimbus Roman", "Liberation Serif", "Noto Serif CJK SC", "Songti SC", serif;
+    font-size: 16px;
+    line-height: 1.38;
+  }
+  .sheet {
+    max-width: 860px;
+    margin: 0 auto;
+    background: #fff;
+    min-height: 100vh;
+    padding: 18px 16px calc(36px + env(safe-area-inset-bottom));
+    border-left: 1px solid #aaa;
+    border-right: 1px solid #aaa;
+  }
+  @media (min-width: 900px) {
+    body { padding: 22px 0 36px; }
+    .sheet {
+      min-height: auto;
+      padding: 32px 44px 44px;
+      box-shadow: 0 1px 8px rgba(0,0,0,.16);
+      border: 0;
+    }
+  }
+  .sans, .header, .dir, .doc-label, .q, .stem, .opt, .actions, .btn, .score,
+  .explain h2, .explain .ans, .explain .qzh, .explain .opts-zh, .field {
+    font-family: Arial, Helvetica, "Helvetica Neue", "Nimbus Sans", "Liberation Sans", "PingFang SC", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif;
+  }
+  .header {
+    border-bottom: 2px solid #000;
+    padding-bottom: 8px;
+    margin-bottom: 14px;
+  }
+  .header .part {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+  }
+  .header .meta {
+    font-size: 12px;
+    margin-top: 3px;
+    color: #222;
+  }
+  .dir {
+    font-size: 13px;
+    font-style: italic;
+    font-weight: 400;
+    margin: 0 0 14px;
+  }
+  .doc-label {
+    font-size: 12px;
+    font-weight: 700;
+    margin: 16px 0 6px;
+    letter-spacing: .02em;
+  }
+  .doc-label:first-of-type { margin-top: 0; }
+  .email, .notice, .web, .sched {
+    border: 1px solid #000;
+    padding: 12px 14px 14px;
+    margin-bottom: 10px;
+    background: #fff;
+  }
+  .field {
+    font-size: 13px;
+    line-height: 1.42;
+    margin-bottom: 2px;
+    word-break: break-word;
+  }
+  .field b { font-weight: 700; }
+  .subj {
+    margin-top: 3px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #666;
+    margin-bottom: 10px;
+  }
+  .body {
+    font-family: "Times New Roman", Times, "Liberation Serif", "Noto Serif CJK SC", "Songti SC", serif;
+    font-size: 15.5px;
+    line-height: 1.42;
+  }
+  .body p { margin: 0 0 9px; }
+  .body p:last-child { margin-bottom: 0; }
+  .notice h3, .web h3, .sched h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    line-height: 1.3;
+  }
+  .notice .meta, .web .url {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #222;
+    margin-bottom: 9px;
+  }
+  .web .url {
+    font-family: "Courier New", Courier, "Liberation Mono", monospace;
+    word-break: break-all;
+  }
+  .notice ul, .web ul {
+    padding-left: 1.15em;
+    margin: 0 0 8px;
+    font-family: "Times New Roman", Times, "Liberation Serif", serif;
+    font-size: 15.5px;
+  }
+  .notice li, .web li { margin-bottom: 4px; }
+  table.sched-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+  }
+  table.sched-table th, table.sched-table td {
+    border: 1px solid #000;
+    padding: 6px 7px;
+    text-align: left;
+    vertical-align: top;
+  }
+  table.sched-table th {
+    background: #e6e6e6;
+    font-weight: 700;
+  }
+  .q {
+    margin: 16px 0 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+  }
+  .stem {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    line-height: 1.38;
+  }
+  .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    font-size: 13.5px;
+    font-weight: 400;
+    line-height: 1.42;
+    padding: 4px 2px 4px 1.7em;
+    text-indent: -1.4em;
+    margin-bottom: 1px;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    color: #000;
+    cursor: pointer;
+    -webkit-tap-highlight-color: rgba(0,0,0,.08);
+  }
+  .opt.picked { background: #e8e8e8; }
+  .opt.correct { background: #d9e6d9; }
+  .opt.wrong { background: #efd9d9; }
+  .opt:disabled { cursor: default; opacity: 1; }
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 20px 0 8px;
+  }
+  .btn {
+    font-size: 13px;
+    padding: 9px 14px;
+    border: 1px solid #000;
+    border-radius: 0;
+    background: #fff;
+    color: #000;
+    cursor: pointer;
+  }
+  .btn.primary { background: #000; color: #fff; }
+  .score {
+    font-size: 13px;
+    color: #222;
+    margin-bottom: 8px;
+    min-height: 1.1em;
+  }
+  .explain {
+    display: none;
+    border: 1px solid #000;
+    padding: 14px 12px;
+    margin-top: 8px;
+    background: #f7f7f7;
+  }
+  .explain.show { display: block; }
+  .explain h2 {
+    font-size: 14px;
+    font-weight: 700;
+    margin: 14px 0 7px;
+  }
+  .explain h2:first-child { margin-top: 0; }
+  .explain .zh {
+    font-family: "Times New Roman", Times, "Noto Serif CJK SC", "Songti SC", serif;
+    font-size: 14px;
+    line-height: 1.45;
+    margin-bottom: 8px;
+  }
+  .explain .zh p { margin: 0 0 7px; }
+  .explain .item {
+    margin-bottom: 12px;
+    font-family: "Times New Roman", Times, "Noto Serif CJK SC", "Songti SC", serif;
+    font-size: 14px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #bbb;
+  }
+  .explain .item:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: 0; }
+  .explain .ans {
+    font-size: 13px;
+    font-weight: 700;
+    margin-bottom: 3px;
+  }
+  .explain .qzh {
+    font-size: 12.5px;
+    color: #222;
+    margin-bottom: 5px;
+  }
+  .explain .opts-zh {
+    font-size: 12.5px;
+    line-height: 1.45;
+    margin: 0 0 5px;
+    padding: 7px 8px;
+    background: #ececec;
+    border: 1px solid #bbb;
+  }
+  .timer-bar {
+    font-family: Arial, Helvetica, "Helvetica Neue", sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 8px 14px;
+    border: 1px solid #000;
+    background: #f3f3f3;
+    padding: 8px 10px;
+    margin: 0 0 14px;
+    font-size: 12px;
+    line-height: 1.35;
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    box-shadow: 0 1px 0 #000;
+  }
+  .timer-bar .clock {
+    font-variant-numeric: tabular-nums;
+    font-weight: 700;
+    font-size: 15px;
+    letter-spacing: .02em;
+  }
+  .timer-bar .rec { color: #222; font-size: 11px; flex: 1 1 120px; }
+  .timer-bar .status { color: #222; }
+  .timer-bar.over {
+    background: #f5e8e8;
+    border-color: #000;
+  }
+  .timer-bar.over .status { font-weight: 700; }
+  .timer-bar .btn-timer {
+    margin-left: auto;
+    font-size: 11px;
+    padding: 4px 8px;
+    border: 1px solid #000;
+    background: #fff;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+</style>
+</head>
+<body>
+  <div class="sheet">
+    <div class="header">
+      <div class="part">READING TEST · PART 7</div>
+      <div class="meta">Questions 176–180 · Double passage</div>
+    </div>
+    <div class="timer-bar" id="timerBar" data-rec-sec="225">
+      <span>用时 <span class="clock" id="timerClock">00:00</span></span>
+      <span class="rec">3:45</span>
+      <span class="status" id="timerStatus">计时中</span>
+      <button type="button" class="btn-timer" id="timerPause">暂停</button>
+    </div>
+    <p class="dir">Questions 176–180 refer to the following e-mail and Web page.</p>
+
+    <div class="doc-label">Document 1 · E-mail</div>
+    <article class="email">
+      <div class="field"><b>From</b> Mira Santos, Event Coordinator, Helix Analytics</div>
+      <div class="field"><b>To</b> sales@harborviewinn.com</div>
+      <div class="field"><b>Date</b> November 2</div>
+      <div class="field subj"><b>Subject</b> Room block request — Helix Analytics retreat (Nov 18–20)</div>
+      <div class="body">
+        <p>Dear Sales Team,</p>
+        <p>Helix Analytics is planning a two-day staff retreat and would like to reserve a <strong>block</strong> of 24 standard rooms at the Harborview Inn. Guests would check in on Tuesday, November 18, and check out on Thursday, November 20.</p>
+        <p>Please confirm whether a group rate is available. We will also need early check-in at about 1:00 p.m. on November 18 for a four-person setup team. In addition, we require a meeting room for approximately 30 people on Wednesday, November 19, from 9:00 a.m. to 4:00 p.m., with a projector if possible.</p>
+        <p>Could you also clarify whether breakfast is included and what the cancellation deadline would be? I would appreciate a reply by Friday, November 7.</p>
+        <p>Sincerely,<br>Mira Santos<br>Event Coordinator, Helix Analytics</p>
+      </div>
+    </article>
+
+    <div class="doc-label">Document 2 · Web page</div>
+    <article class="web">
+      <h3>Harborview Inn — Group Stays</h3>
+      <div class="url">www.harborviewinn.com/groups</div>
+      <div class="body">
+        <p><strong>Group rates (10 or more rooms)</strong></p>
+        <ul>
+          <li>Standard room: $149 per night (regularly $189)</li>
+          <li>Deluxe room: $179 per night</li>
+          <li>Rate includes a complimentary breakfast buffet for each registered guest</li>
+          <li>Complimentary meeting room (up to 40 guests) when booking 20 or more rooms; audiovisual package $75 per day</li>
+        </ul>
+        <p><strong>Check-in / Check-out</strong></p>
+        <ul>
+          <li>Standard check-in: 3:00 p.m. · Check-out: 11:00 a.m.</li>
+          <li>Early check-in from 1:00 p.m. available on request for groups booking 20 or more rooms — no extra charge</li>
+        </ul>
+        <p><strong>Cancellation policy</strong></p>
+        <ul>
+          <li>Full refund if cancelled 14 or more days before arrival</li>
+          <li>50% charge if cancelled 7–13 days before arrival</li>
+          <li>No refund within 6 days of arrival</li>
+        </ul>
+        <p>Contact: sales@harborviewinn.com · (555) 018-4400</p>
+      </div>
+    </article>
+
+    <div class="q" data-q="176" data-ans="B">
+      <div class="stem">176. What is the purpose of the e-mail?</div>
+      <button type="button" class="opt" data-v="A">(A) To complain about a previous stay at the hotel</button>
+      <button type="button" class="opt" data-v="B">(B) To request a room block and meeting space for a company retreat</button>
+      <button type="button" class="opt" data-v="C">(C) To cancel a reservation made for November 7</button>
+      <button type="button" class="opt" data-v="D">(D) To apply for an event-coordinator position</button>
+    </div>
+    <div class="q" data-q="177" data-ans="B">
+      <div class="stem">177. According to the Web page, what is included in the group rate for a standard room?</div>
+      <button type="button" class="opt" data-v="A">(A) An audiovisual package at no charge</button>
+      <button type="button" class="opt" data-v="B">(B) A complimentary breakfast buffet</button>
+      <button type="button" class="opt" data-v="C">(C) Free late check-out until 3:00 p.m.</button>
+      <button type="button" class="opt" data-v="D">(D) Airport shuttle service for every guest</button>
+    </div>
+    <div class="q" data-q="178" data-ans="C">
+      <div class="stem">178. The word “block” in the e-mail is closest in meaning to</div>
+      <button type="button" class="opt" data-v="A">(A) obstacle</button>
+      <button type="button" class="opt" data-v="B">(B) building wing</button>
+      <button type="button" class="opt" data-v="C">(C) reserved group of rooms</button>
+      <button type="button" class="opt" data-v="D">(D) payment schedule</button>
+    </div>
+    <div class="q" data-q="179" data-ans="B">
+      <div class="stem">179. What is indicated about early check-in?</div>
+      <button type="button" class="opt" data-v="A">(A) It is never available before 3:00 p.m.</button>
+      <button type="button" class="opt" data-v="B">(B) Groups booking 20 or more rooms may request it from 1:00 p.m. at no charge</button>
+      <button type="button" class="opt" data-v="C">(C) It costs an extra $75 per room</button>
+      <button type="button" class="opt" data-v="D">(D) Only guests in deluxe rooms are eligible</button>
+    </div>
+    <div class="q" data-q="180" data-ans="A">
+      <div class="stem">180. What can be concluded from both documents?</div>
+      <button type="button" class="opt" data-v="A">(A) Helix’s requested room count would qualify the group for a complimentary meeting room</button>
+      <button type="button" class="opt" data-v="B">(B) Breakfast is never complimentary for Harborview Inn group stays</button>
+      <button type="button" class="opt" data-v="C">(C) Mira must cancel by November 1 to receive a full refund</button>
+      <button type="button" class="opt" data-v="D">(D) The hotel cannot seat 30 people in any meeting room</button>
+    </div>
+
+    <div class="actions">
+      <button type="button" class="btn primary" id="check">核对答案</button>
+      <button type="button" class="btn" id="reset">重做</button>
+      <button type="button" class="btn" id="toggleExplain">中文解析</button>
+    </div>
+    <p class="score" id="score"></p>
+
+    <div class="explain" id="explain">
+      <h2>全文译文 · 电子邮件</h2>
+      <div class="zh">
+        <p><strong>发件人：</strong>Mira Santos，活动协调员，Helix Analytics<br>
+        <strong>收件人：</strong>sales@harborviewinn.com<br>
+        <strong>日期：</strong>11 月 2 日<br>
+        <strong>主题：</strong>客房预留申请——Helix Analytics 静修（11 月 18–20 日）</p>
+        <p>销售团队您好：</p>
+        <p>Helix Analytics 正筹划为期两天的员工静修，希望在 Harborview Inn 预留 <strong>24 间</strong>标准间。入住日为 11 月 18 日（周二），退房日为 11 月 20 日（周四）。</p>
+        <p>请确认是否提供团队价。我们还需要在 11 月 18 日下午约 1:00 提前入住，供 4 人筹备组使用。另外，11 月 19 日（周三）上午 9:00 至下午 4:00 需要可容纳约 30 人的会议室，如有可能请配备投影仪。</p>
+        <p>也请说明房价是否含早餐，以及取消截止日是哪一天。希望能在 11 月 7 日（周五）前收到回复。</p>
+        <p>此致<br>Mira Santos<br>活动协调员，Helix Analytics</p>
+      </div>
+
+      <h2>全文译文 · 网页</h2>
+      <div class="zh">
+        <p><strong>Harborview Inn——团队入住</strong><br>
+        www.harborviewinn.com/groups</p>
+        <p><strong>团队价（10 间及以上）</strong><br>
+        · 标准间：每晚 $149（原价 $189）<br>
+        · 豪华间：每晚 $179<br>
+        · 房价含每位登记入住客人的免费自助早餐<br>
+        · 预订 20 间及以上可免费使用会议室（最多 40 人）；视听套餐每天 $75</p>
+        <p><strong>入住 / 退房</strong><br>
+        · 标准入住：下午 3:00 · 退房：上午 11:00<br>
+        · 预订 20 间及以上的团队可申请自下午 1:00 起提前入住——不加收费用</p>
+        <p><strong>取消政策</strong><br>
+        · 抵达前 14 天及以上取消：全额退款<br>
+        · 抵达前 7–13 天取消：收取 50%<br>
+        · 抵达前 6 天内：不予退款</p>
+        <p>联系：sales@harborviewinn.com · (555) 018-4400</p>
+      </div>
+
+      <h2>答案与解析</h2>
+
+      <div class="item">
+        <div class="ans">176 · B</div>
+        <div class="qzh">题目：这封邮件的目的是什么？</div>
+        <div class="opts-zh">
+          (A) 投诉此前在该酒店的入住经历<br>
+          (B) 为公司静修申请客房预留及会议空间<br>
+          (C) 取消为 11 月 7 日所做的预订<br>
+          (D) 申请活动协调员职位
+        </div>
+        <div class="why">邮件核心是 request a block of 24 rooms + meeting room。A 无投诉；C 把「希望 11/7 前回复」误当成取消预订；D 把 Event Coordinator 签名职务当成求职。</div>
+      </div>
+
+      <div class="item">
+        <div class="ans">177 · B</div>
+        <div class="qzh">题目：根据网页，标准间团队价包含什么？</div>
+        <div class="opts-zh">
+          (A) 免费视听套餐<br>
+          (B) 免费自助早餐<br>
+          (C) 免费延迟退房至下午 3:00<br>
+          (D) 每位客人的机场接送
+        </div>
+        <div class="why">网页写 Rate includes a complimentary breakfast buffet。A 的 A/V 要另付 $75；C 把标准入住 3:00 错写成 late check-out；D 未提及。</div>
+      </div>
+
+      <div class="item">
+        <div class="ans">178 · C</div>
+        <div class="qzh">题目：邮件中 block 一词意思最接近？</div>
+        <div class="opts-zh">
+          (A) 障碍物<br>
+          (B) 楼宇侧翼<br>
+          (C) 预留的一批客房<br>
+          (D) 付款时间表
+        </div>
+        <div class="why">a block of 24 standard rooms＝酒店业「团房预留」。A、B 是 block 的其他义项干扰；D 与文意无关。</div>
+      </div>
+
+      <div class="item">
+        <div class="ans">179 · B</div>
+        <div class="qzh">题目：关于提前入住，文中表明什么？</div>
+        <div class="opts-zh">
+          (A) 下午 3:00 前绝不可用<br>
+          (B) 预订 20 间及以上的团队可申请自下午 1:00 起免费提前入住<br>
+          (C) 每间另收 $75<br>
+          (D) 仅豪华间客人有资格
+        </div>
+        <div class="why"><strong>细节在网页：</strong>Early check-in from 1:00 p.m. … 20 or more rooms — no extra charge。邮件只是提出需求；资格与费用看第二篇。C 把会议室 A/V $75 挪来当提前入住费；A 忽略 early check-in 条款。</div>
+      </div>
+
+      <div class="item">
+        <div class="ans">180 · A</div>
+        <div class="qzh">题目：综合两篇可以得出什么结论？</div>
+        <div class="opts-zh">
+          (A) Helix 申请的客房数量将使该团符合免费会议室条件<br>
+          (B) Harborview Inn 团队入住从不赠送早餐<br>
+          (C) Mira 必须在 11 月 1 日前取消才能全额退款<br>
+          (D) 酒店任何会议室都坐不下 30 人
+        </div>
+        <div class="why"><strong>联合推理：</strong>邮件要 24 间；网页写 booking 20 or more rooms → complimentary meeting room（最多 40 人，覆盖她要的 30 人）。B 与含早餐矛盾；C：抵达 11/18，全额退需提前 ≥14 天 → 截止约 11/4，不是 11/1，且 11/7 是「希望回复日」干扰；D 与 up to 40 guests 矛盾。</div>
+      </div>
+    </div>
+  </div>
+<script>
+(function () {
+  var picks = {};
+  document.querySelectorAll(".q").forEach(function (q) {
+    var id = q.getAttribute("data-q");
+    q.querySelectorAll(".opt").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        if (q.classList.contains("locked")) return;
+        q.querySelectorAll(".opt").forEach(function (b) { b.classList.remove("picked"); });
+        btn.classList.add("picked");
+        picks[id] = btn.getAttribute("data-v");
+      });
+    });
+  });
+  document.getElementById("check").addEventListener("click", function () {
+    var right = 0, total = 0;
+    document.querySelectorAll(".q").forEach(function (q) {
+      total++;
+      var ans = q.getAttribute("data-ans");
+      var id = q.getAttribute("data-q");
+      q.classList.add("locked");
+      q.querySelectorAll(".opt").forEach(function (btn) {
+        btn.disabled = true;
+        var v = btn.getAttribute("data-v");
+        btn.classList.remove("picked", "correct", "wrong");
+        if (v === ans) btn.classList.add("correct");
+        else if (picks[id] === v) btn.classList.add("wrong");
+      });
+      if (picks[id] === ans) right++;
+    });
+    document.getElementById("score").textContent = "得分：" + right + " / " + total;
+    document.getElementById("explain").classList.add("show");
+  });
+  document.getElementById("reset").addEventListener("click", function () {
+    picks = {};
+    document.querySelectorAll(".q").forEach(function (q) {
+      q.classList.remove("locked");
+      q.querySelectorAll(".opt").forEach(function (btn) {
+        btn.disabled = false;
+        btn.classList.remove("picked", "correct", "wrong");
+      });
+    });
+    document.getElementById("score").textContent = "";
+    document.getElementById("explain").classList.remove("show");
+  });
+  document.getElementById("toggleExplain").addEventListener("click", function () {
+    document.getElementById("explain").classList.toggle("show");
+  });
+})();
+
+(function () {
+  var bar = document.getElementById("timerBar");
+  if (!bar) return;
+  var recSec = parseInt(bar.getAttribute("data-rec-sec"), 10) || 225;
+  var elapsed = 0;
+  var paused = false;
+  var finished = false;
+  var clock = document.getElementById("timerClock");
+  var status = document.getElementById("timerStatus");
+  var pauseBtn = document.getElementById("timerPause");
+
+  function fmt(s) {
+    var m = Math.floor(s / 60);
+    var r = s % 60;
+    return (m < 10 ? "0" : "") + m + ":" + (r < 10 ? "0" : "") + r;
+  }
+
+  function tick() {
+    if (paused || finished) return;
+    elapsed += 1;
+    clock.textContent = fmt(elapsed);
+    if (elapsed > recSec) {
+      bar.classList.add("over");
+      status.textContent = "超时 +" + fmt(elapsed - recSec);
+    } else {
+      bar.classList.remove("over");
+      status.textContent = "剩余 " + fmt(recSec - elapsed);
+    }
+  }
+
+  var timerId = setInterval(tick, 1000);
+  status.textContent = "剩余 " + fmt(recSec);
+
+  pauseBtn.addEventListener("click", function () {
+    if (finished) return;
+    paused = !paused;
+    pauseBtn.textContent = paused ? "继续" : "暂停";
+    if (paused) status.textContent = "已暂停 · " + clock.textContent;
+    else if (elapsed > recSec) status.textContent = "超时 +" + fmt(elapsed - recSec);
+    else status.textContent = "剩余 " + fmt(recSec - elapsed);
+  });
+
+  function stopOnCheck() {
+    if (finished) return;
+    finished = true;
+    paused = true;
+    clearInterval(timerId);
+    pauseBtn.textContent = "已结束";
+    pauseBtn.disabled = true;
+    var msg = "完成用时 " + fmt(elapsed);
+    if (elapsed > recSec) msg += "（超时 " + fmt(elapsed - recSec) + "）";
+    status.textContent = msg;
+    var score = document.getElementById("score");
+    if (score && score.textContent) score.textContent = score.textContent + " · " + msg;
+    else if (score) score.textContent = msg;
+  }
+
+  var checkBtn = document.getElementById("check");
+  if (checkBtn) checkBtn.addEventListener("click", stopOnCheck);
+})();
+</script>
+</body>
+</html>
