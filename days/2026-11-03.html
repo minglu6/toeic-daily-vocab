@@ -1,0 +1,901 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 11/03 ×30</title>
+<style>
+
+
+
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.11.03</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">clawback</span>
+        <span class="ipa">/ˈklɔːbæk/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">追回条款；回拨；已发款项的收回</div>
+        <div class="label">词根</div><div>claw（爪）+ back（回）→ 像用爪子把钱抓回来</div>
+        <div class="label">词源</div><div>薪酬与合同用语，指公司在特定条件触发时（如财务重述、违规）有权追回已支付的奖金、股权或预付款</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/财务高频：a clawback provision（追回条款）；trigger a clawback（触发追回）；enforce a clawback（执行回拨）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a clawback provision（追回条款）</span><span class="chip">trigger a clawback（触发追回）</span><span class="chip">enforce a clawback（执行回拨）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The bonus plan includes a clawback if earnings are later restated.</en>
+          <zh>奖金方案包含追回条款：若日后对收益进行重述，公司可收回奖金。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">ring-fence</span>
+        <span class="ipa">/ˈrɪŋ fens/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">环围隔离；专项圈定（资金/资产）；设隔离保护</div>
+        <div class="label">词根</div><div>ring（环）+ fence（围栏）→ 用围栏把资金或业务圈起来专用</div>
+        <div class="label">词源</div><div>财务与监管用语，指将资金、资产或业务单元隔离，仅用于指定用途，防止被挪用或与其他风险混同</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/合规高频：ring-fence the budget（专项圈定预算）；ring-fenced funds（隔离专用资金）；a ring-fence around assets（对资产设隔离）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">ring-fence the budget（专项圈定预算）</span><span class="chip">ring-fenced funds（隔离专用资金）</span><span class="chip">a legal ring-fence（法律上的隔离保护）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Regulators required the bank to ring-fence retail deposits from investment banking risks.</en>
+          <zh>监管机构要求该银行将零售存款与投资银行业务风险隔离。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">side-letter</span>
+        <span class="ipa">/ˈsaɪd ˌletər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">附属函；补充协议函；合同旁函</div>
+        <div class="label">词根</div><div>side（旁边）+ letter（函件）→ 附在主合同旁的补充书面约定</div>
+        <div class="label">词源</div><div>商务与投资合同实践，指当事人就主协议未尽事宜另立简短信函，具有约定力，常见于私募与特许安排</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同高频：sign a side-letter（签署附属函）；a confidential side-letter（保密附属函）；amend via side-letter（以附属函修改）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">sign a side-letter（签署附属函）</span><span class="chip">a confidential side-letter（保密附属函）</span><span class="chip">attach a side-letter（附上附属函）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The investor rights were clarified in a side-letter rather than rewriting the main agreement.</en>
+          <zh>投资者权利在附属函中予以澄清，而不是重写主协议。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">exclusivity</span>
+        <span class="ipa">/ˌekskluːˈsɪvəti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">排他性；独家权；专营/专属期间</div>
+        <div class="label">词根</div><div>exclusive（排他的）+ -ity → 独家、排他的状态或权利</div>
+        <div class="label">词源</div><div>合同与商务谈判用语，指在约定期限内仅与一方交易或谈判的权利或义务，常见于经销、并购意向阶段</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同高频：an exclusivity period（排他期）；grant exclusivity（授予独家权）；breach exclusivity（违反排他约定）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an exclusivity period（排他期）</span><span class="chip">grant exclusivity（授予独家权）</span><span class="chip">negotiate exclusivity（谈判独家条款）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>During the exclusivity period, the seller may not solicit competing bids.</en>
+          <zh>在排他期内，卖方不得征求竞争性报价。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">letter-of-intent</span>
+        <span class="ipa">/ˌletər əv ɪnˈtent/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">意向书；合作意向函；初步意向文件</div>
+        <div class="label">词根</div><div>letter（函）+ of + intent（意图）→ 表明初步合作意图的书面文件</div>
+        <div class="label">词源</div><div>商务谈判文件，概述交易主要条款与后续步骤，多数条款不具最终约束力，但常含保密与排他等有约束力条款</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同高频：sign a letter-of-intent（签署意向书）；a non-binding letter-of-intent（无约束力意向书）；issue a letter-of-intent（出具意向书）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">sign a letter-of-intent（签署意向书）</span><span class="chip">a non-binding letter-of-intent（无约束力意向书）</span><span class="chip">draft a letter-of-intent（起草意向书）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Both parties signed a letter-of-intent outlining the proposed joint venture terms.</en>
+          <zh>双方签署了意向书，概述拟议合资条款。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">memorandum-of-understanding</span>
+        <span class="ipa">/ˌmemərændəm əv ˌʌndərˈstændɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">谅解备忘录；合作备忘录；MOU</div>
+        <div class="label">词根</div><div>memorandum（备忘录）+ of + understanding（谅解）→ 记录双方共识的备忘文件</div>
+        <div class="label">词源</div><div>国际商务与机构合作常用文件，记载合作框架与原则；约束力因起草方式而异，常作为正式合同前的过渡</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/合作高频：sign a memorandum-of-understanding（签署谅解备忘录）；a bilateral memorandum-of-understanding（双边备忘录）；under a memorandum-of-understanding（依据谅解备忘录）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">sign a memorandum-of-understanding（签署谅解备忘录）</span><span class="chip">a bilateral memorandum-of-understanding（双边谅解备忘录）</span><span class="chip">renew the memorandum-of-understanding（续签谅解备忘录）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The universities signed a memorandum-of-understanding on student exchange programs.</en>
+          <zh>两所大学就学生交换项目签署了谅解备忘录。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">indemnification</span>
+        <span class="ipa">/ɪnˌdemnɪfɪˈkeɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">赔偿；补偿义务；弥偿安排</div>
+        <div class="label">词根</div><div>indemnify（赔偿）+ -ation → 使对方免受损失的补偿行为或条款</div>
+        <div class="label">词源</div><div>合同法核心概念，一方承诺就约定范围内的损失、索赔或责任向另一方作出补偿，常见于并购与服务协议</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/法务高频：seek indemnification（寻求赔偿）；an indemnification clause（赔偿条款）；indemnification for losses（损失赔偿）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an indemnification clause（赔偿条款）</span><span class="chip">seek indemnification（寻求赔偿）</span><span class="chip">provide indemnification（提供赔偿保障）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The supplier agreed to indemnification for any third-party IP claims.</en>
+          <zh>供应商同意就任何第三方知识产权索赔提供赔偿。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">holdback</span>
+        <span class="ipa">/ˈhoʊldbæk/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">扣留款；暂扣金额；尾款扣留</div>
+        <div class="label">词根</div><div>hold（扣留）+ back（回/住）→ 暂时扣下不付的那部分款项</div>
+        <div class="label">词源</div><div>并购与工程付款实践，买方或业主暂扣一部分价款，待交割后索赔期届满或验收合格再释放</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/合同高频：a purchase-price holdback（购买价款扣留）；release the holdback（释放扣留款）；a holdback amount（暂扣金额）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a purchase-price holdback（购买价款扣留）</span><span class="chip">release the holdback（释放扣留款）</span><span class="chip">a 10% holdback（百分之十的暂扣）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Ten percent of the contract price is held as a holdback until final inspection.</en>
+          <zh>合同价款的百分之十作为扣留款，待最终验收后再支付。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">retainage</span>
+        <span class="ipa">/rɪˈteɪnɪdʒ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">工程质保金；保留金；施工尾款扣留</div>
+        <div class="label">词根</div><div>retain（保留）+ -age → 业主按进度保留的工程款比例</div>
+        <div class="label">词源</div><div>建筑工程合同用语，业主按各期进度款扣留一定比例，工程完工并过保修期后再支付，以督促承包商履约</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">工程/合同高频：withhold retainage（扣留保留金）；release retainage（发还保留金）；retainage percentage（保留金比例）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">withhold retainage（扣留保留金）</span><span class="chip">release retainage（发还保留金）</span><span class="chip">retainage percentage（保留金比例）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The owner will release the remaining retainage after the warranty period ends.</en>
+          <zh>保修期结束后，业主将发还剩余的工程保留金。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">punch-list</span>
+        <span class="ipa">/ˈpʌntʃ lɪst/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">整改清单；扫尾缺陷清单；竣工查验问题单</div>
+        <div class="label">词根</div><div>punch（打孔/勾销）+ list（清单）→ 逐项勾销待修缺陷的清单</div>
+        <div class="label">词源</div><div>建筑工程与设施交付用语，竣工验收时列出尚未完成或需返工的细项，承包商按单整改后方可最终验收</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">设施/工程高频：complete the punch-list（完成整改清单）；a punch-list item（整改清单条目）；walk through the punch-list（现场核对整改清单）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">complete the punch-list（完成整改清单）</span><span class="chip">a punch-list item（整改清单条目）</span><span class="chip">clear the punch-list（清完整改项）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Move-in is delayed until the contractor finishes every punch-list item.</en>
+          <zh>须等承包商完成整改清单上的每一项后，方可办理迁入。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">as-built</span>
+        <span class="ipa">/ˌæz ˈbɪlt/</span>
+        <span class="pos">adj./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">竣工的；竣工图；按实际建成状态的</div>
+        <div class="label">词根</div><div>as（如同）+ built（建成）→ 反映实际建成情况的图纸或记录</div>
+        <div class="label">词源</div><div>工程与设施管理用语，指根据施工中变更修订后的最终图纸，记录管道、线路等实际位置，供运维与改造使用</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">设施/工程高频：as-built drawings（竣工图）；submit as-built plans（提交竣工图纸）；update the as-built records（更新竣工记录）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">as-built drawings（竣工图）</span><span class="chip">submit as-built plans（提交竣工图纸）</span><span class="chip">as-built documentation（竣工资料）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Facilities asked for as-built drawings before approving the renovation permit.</en>
+          <zh>设施部门要求提交竣工图后，才批准装修许可。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">hoteling</span>
+        <span class="ipa">/hoʊˈtelɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">办公位预订制；共享工位预约；酒店式工位管理</div>
+        <div class="label">词根</div><div>hotel（酒店）+ -ing → 像订酒店房间一样预约办公工位</div>
+        <div class="label">词源</div><div>弹性办公与空间管理实践，员工不固定座位，通过系统按需预订工位，提高空间利用率并支持混合办公</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公/设施高频：desk hoteling（工位预订制）；a hoteling system（工位预约系统）；hoteling policy（共享工位政策）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">desk hoteling（工位预订制）</span><span class="chip">a hoteling system（工位预约系统）</span><span class="chip">book via hoteling（通过预订系统约工位）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Under the new hoteling policy, staff reserve desks for the days they come on-site.</en>
+          <zh>根据新的工位预订政策，员工在到岗日需提前预约工位。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">rolling-forecast</span>
+        <span class="ipa">/ˈroʊlɪŋ ˈfɔːrkæst/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">滚动预测；滚动预算预测；持续更新的财务预测</div>
+        <div class="label">词根</div><div>rolling（滚动的）+ forecast（预测）→ 随时间窗口不断前移更新的预测</div>
+        <div class="label">词源</div><div>财务管理方法，相对固定年度预算，按月或按季向前延伸预测期，使计划更贴近最新业务现实</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：update the rolling-forecast（更新滚动预测）；a 12-month rolling-forecast（十二个月滚动预测）；rolling-forecast accuracy（滚动预测准确度）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">update the rolling-forecast（更新滚动预测）</span><span class="chip">a 12-month rolling-forecast（十二个月滚动预测）</span><span class="chip">prepare a rolling-forecast（编制滚动预测）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Finance replaced the static annual budget with a monthly rolling-forecast.</en>
+          <zh>财务部用按月滚动预测取代了静态年度预算。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">variance-analysis</span>
+        <span class="ipa">/ˈveriəns əˈnæləsɪs/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">差异分析；预算差异分析；实际与预算对比解析</div>
+        <div class="label">词根</div><div>variance（差异）+ analysis（分析）→ 分析实际结果与预算/标准的差距</div>
+        <div class="label">词源</div><div>管理会计核心工具，把收入、成本等实际数与预算或标准成本对比，解释有利/不利差异原因以便纠偏</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：perform variance-analysis（进行差异分析）；budget variance-analysis（预算差异分析）；explain the variance-analysis（解释差异分析结果）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">perform variance-analysis（进行差异分析）</span><span class="chip">budget variance-analysis（预算差异分析）</span><span class="chip">monthly variance-analysis（月度差异分析）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The controller asked for variance-analysis on travel costs that exceeded plan by 18%.</en>
+          <zh>财务控制器要求对超出计划 18% 的差旅费用做差异分析。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">free-cash-flow</span>
+        <span class="ipa">/friː kæʃ floʊ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">自由现金流；可自由支配现金；经营现金净额减资本开支后余额</div>
+        <div class="label">词根</div><div>free（自由的）+ cash-flow（现金流）→ 满足必要开支后仍可自由使用的现金</div>
+        <div class="label">词源</div><div>公司财务估值与信贷分析指标，通常指经营现金流减去维持性资本支出后，可用于分红、还债或投资的现金</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：generate free-cash-flow（产生自由现金流）；positive free-cash-flow（正自由现金流）；free-cash-flow yield（自由现金流收益率）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">generate free-cash-flow（产生自由现金流）</span><span class="chip">positive free-cash-flow（正自由现金流）</span><span class="chip">improve free-cash-flow（改善自由现金流）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Strong free-cash-flow allowed the firm to cut debt and raise the dividend.</en>
+          <zh>强劲的自由现金流使公司得以减债并提高股息。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">days-sales-outstanding</span>
+        <span class="ipa">/deɪz seɪlz aʊtˈstændɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">应收账款周转天数；销售未收天数；DSO</div>
+        <div class="label">词根</div><div>days（天数）+ sales（销售）+ outstanding（未结清）→ 销售款项平均多少天收回</div>
+        <div class="label">词源</div><div>营运资金管理指标，衡量从开票到回款的平均天数；DSO 越高，资金占用越重，回款效率越低</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/信用高频：reduce days-sales-outstanding（缩短应收账款周转天数）；days-sales-outstanding of 45（四十五天的 DSO）；track days-sales-outstanding（跟踪 DSO）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reduce days-sales-outstanding（缩短应收周转天数）</span><span class="chip">average days-sales-outstanding（平均应收周转天数）</span><span class="chip">monitor days-sales-outstanding（监控 DSO）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Credit tightened terms to bring days-sales-outstanding below 40.</en>
+          <zh>信贷部门收紧付款条件，以便将应收账款周转天数压到 40 天以下。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">lockbox</span>
+        <span class="ipa">/ˈlɑːkbɑːks/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">银行代收箱；锁箱收款服务；集中汇款处理</div>
+        <div class="label">词根</div><div>lock（锁）+ box（箱）→ 银行代收客户汇款的专用信箱服务</div>
+        <div class="label">词源</div><div>银行现金管理产品，客户要求付款方将支票寄至银行专用地址，银行代为开箱、入账并加速到账，减少企业内部处理时间</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">银行/收款高频：a lockbox service（锁箱代收服务）；use a lockbox（使用代收箱）；lockbox remittances（经锁箱的汇款）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a lockbox service（锁箱代收服务）</span><span class="chip">open a lockbox（开通代收箱）</span><span class="chip">lockbox processing（锁箱处理）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Customers mail checks to the bank lockbox so funds clear faster.</en>
+          <zh>客户将支票寄至银行代收箱，以便资金更快到账。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">remittance-advice</span>
+        <span class="ipa">/rɪˈmɪtns ədˈvaɪs/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">汇款通知；付款明细通知单；解款说明</div>
+        <div class="label">词根</div><div>remittance（汇款）+ advice（通知）→ 说明本次付款对应哪些发票的通知</div>
+        <div class="label">词源</div><div>应付/应收账款实务文件，付款方随汇款或电汇发出，列明所付发票号与金额，便于收款方销账</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/应收高频：attach a remittance-advice（附上汇款通知）；match the remittance-advice（核对汇款通知）；missing remittance-advice（缺少汇款通知）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">attach a remittance-advice（附上汇款通知）</span><span class="chip">match the remittance-advice（核对汇款通知）</span><span class="chip">a remittance-advice form（汇款通知单）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please include a remittance-advice so we can apply payment to the correct invoices.</en>
+          <zh>请附上汇款通知，以便我们把款项核销到正确的发票上。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">packing-list</span>
+        <span class="ipa">/ˈpækɪŋ lɪst/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">装箱单；包装明细单；货物清单</div>
+        <div class="label">词根</div><div>packing（包装/装箱）+ list（清单）→ 列明箱内货物明细的单据</div>
+        <div class="label">词源</div><div>国际贸易与物流单据，详列每箱货品、数量、重量与唛头，与商业发票、提单配合用于清关与收货核对</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">物流/外贸高频：prepare a packing-list（编制装箱单）；attach the packing-list（附上装箱单）；packing-list discrepancy（装箱单不符）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">prepare a packing-list（编制装箱单）</span><span class="chip">attach the packing-list（附上装箱单）</span><span class="chip">check against the packing-list（对照装箱单核对）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Customs requested the commercial invoice and packing-list for the shipment.</en>
+          <zh>海关要求提供该批货物的商业发票与装箱单。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">proof-of-delivery</span>
+        <span class="ipa">/pruːf əv dɪˈlɪvəri/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">交货证明；签收凭证；妥投证明</div>
+        <div class="label">词根</div><div>proof（证明）+ of + delivery（交付）→ 证明货物已交付的凭证</div>
+        <div class="label">词源</div><div>物流与承运用语，含收货人签字、时间戳或电子签收记录，用于确认送达、结算运费及处理货损争议</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">物流高频：request proof-of-delivery（索取交货证明）；signed proof-of-delivery（已签字的签收凭证）；provide proof-of-delivery（提供妥投证明）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">request proof-of-delivery（索取交货证明）</span><span class="chip">signed proof-of-delivery（已签字签收凭证）</span><span class="chip">electronic proof-of-delivery（电子妥投证明）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The carrier uploaded proof-of-delivery within two hours of the drop-off.</en>
+          <zh>承运人在送货后两小时内上传了交货证明。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">cross-dock</span>
+        <span class="ipa">/ˈkrɔːs dɑːk/</span>
+        <span class="pos">v./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">越库；直通式转运；到货即分拨发运</div>
+        <div class="label">词根</div><div>cross（穿过）+ dock（码头/月台）→ 货物穿过月台直接转运、少入库存</div>
+        <div class="label">词源</div><div>仓储物流作业模式，货物到仓后几乎不入库存储，按目的地分拣后立刻装车发运，缩短前置时间并降低库存</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">物流/运营高频：cross-dock shipments（越库发运）；a cross-dock facility（越库设施）；cross-dock the freight（对货物做越库）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">cross-dock shipments（越库发运）</span><span class="chip">a cross-dock facility（越库设施）</span><span class="chip">cross-dock the freight（对货物做越库）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Perishable goods are cross-docked the same day to avoid cold-storage fees.</en>
+          <zh>易腐货物当天越库发运，以避免冷库费用。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">just-in-time</span>
+        <span class="ipa">/ˌdʒʌst ɪn ˈtaɪm/</span>
+        <span class="pos">adj./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">准时制；即时生产/供货；零库存导向交付</div>
+        <div class="label">词根</div><div>just（恰好）+ in + time（时间）→ 恰好在需要时到达</div>
+        <div class="label">词源</div><div>精益生产理念，物料与部件在生产需要的精确时点送达，以减少在制品与库存，但对供应链可靠性要求极高</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">运营/采购高频：just-in-time delivery（准时制交货）；a just-in-time system（准时制系统）；just-in-time inventory（准时制库存）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">just-in-time delivery（准时制交货）</span><span class="chip">a just-in-time system（准时制系统）</span><span class="chip">just-in-time inventory（准时制库存）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The plant relies on just-in-time delivery of components from nearby suppliers.</en>
+          <zh>该工厂依赖附近供应商的准时制零部件交货。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">safety-stock</span>
+        <span class="ipa">/ˈseɪfti stɑːk/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">安全库存；缓冲库存；防缺货备货量</div>
+        <div class="label">词根</div><div>safety（安全）+ stock（库存）→ 为防不确定而多备的缓冲存货</div>
+        <div class="label">词源</div><div>库存管理概念，在预期需求与提期之外额外持有的存货，用于应对需求波动、供应延误，平衡缺货与持有成本</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">运营/采购高频：maintain safety-stock（维持安全库存）；set safety-stock levels（设定安全库存水平）；reduce safety-stock（降低安全库存）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">maintain safety-stock（维持安全库存）</span><span class="chip">set safety-stock levels（设定安全库存水平）</span><span class="chip">safety-stock calculation（安全库存计算）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We raised safety-stock on critical chips after two supplier delays.</en>
+          <zh>在供应商两次延期后，我们提高了关键芯片的安全库存。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">stockout</span>
+        <span class="ipa">/ˈstɑːkaʊt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">缺货；断货；库存耗尽</div>
+        <div class="label">词根</div><div>stock（库存）+ out（尽/完）→ 存货售完或耗尽的状态</div>
+        <div class="label">词源</div><div>零售与供应链用语，指需求发生时无可用库存，会导致销售损失、加急成本与客户不满，是库存绩效关键指标</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">运营/零售高频：avoid a stockout（避免缺货）；stockout rate（缺货率）；a stockout situation（断货状况）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">avoid a stockout（避免缺货）</span><span class="chip">stockout rate（缺货率）</span><span class="chip">recover from a stockout（从断货中恢复）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>A weekend stockout on the bestseller hurt both sales and customer ratings.</en>
+          <zh>周末畅销品断货，既影响了销售额，也拉低了客户评分。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">landed-cost</span>
+        <span class="ipa">/ˈlændɪd kɔːst/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">到岸成本；落地总成本；含运费税费的最终成本</div>
+        <div class="label">词根</div><div>landed（落地的）+ cost（成本）→ 货物运抵目的地后的全部成本</div>
+        <div class="label">词源</div><div>国际贸易与采购核算，把购价、运费、保险、关税、报关等一并计入，使不同货源地的真实成本可比</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">采购/外贸高频：calculate landed-cost（计算到岸成本）；total landed-cost（总到岸成本）；compare landed-cost（比较到岸成本）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">calculate landed-cost（计算到岸成本）</span><span class="chip">total landed-cost（总到岸成本）</span><span class="chip">landed-cost advantage（到岸成本优势）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Although the unit price is lower overseas, the landed-cost is higher after duties.</en>
+          <zh>尽管海外单价更低，但加上关税后的到岸成本反而更高。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">preferred-vendor</span>
+        <span class="ipa">/prɪˈfɜːrd ˈvendər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">首选供应商；优选供应商；优先采购名单内的厂商</div>
+        <div class="label">词根</div><div>preferred（首选的）+ vendor（供应商）→ 经评估列入优先合作名单的供应商</div>
+        <div class="label">词源</div><div>采购管理实践，公司通过资质、价格、质量与合规审查建立优选名单，业务部门优先从名单内下单以控风险与成本</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">采购高频：a preferred-vendor list（首选供应商名单）；become a preferred-vendor（成为首选供应商）；preferred-vendor status（优选供应商资格）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a preferred-vendor list（首选供应商名单）</span><span class="chip">preferred-vendor status（优选供应商资格）</span><span class="chip">select a preferred-vendor（选择首选供应商）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Only preferred-vendor firms may bid on IT hardware this year.</en>
+          <zh>今年仅首选供应商名单内的公司可参与 IT 硬件投标。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">blanket-order</span>
+        <span class="ipa">/ˈblæŋkɪt ˌɔːrdər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">一揽子订单；开口订单；框架采购订单</div>
+        <div class="label">词根</div><div>blanket（一揽子/覆盖）+ order（订单）→ 覆盖一段时期多次交货的总订单</div>
+        <div class="label">词源</div><div>采购合同形式，预先约定价格、品类与总数量上限，再按需分批发货与结算，减少重复下单并锁定供应</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">采购高频：issue a blanket-order（签发一揽子订单）；against a blanket-order（依据一揽子订单）；blanket-order agreement（开口订单协议）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">issue a blanket-order（签发一揽子订单）</span><span class="chip">against a blanket-order（依据一揽子订单）</span><span class="chip">an annual blanket-order（年度一揽子订单）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Office supplies are purchased against a year-long blanket-order with two distributors.</en>
+          <zh>办公用品依据与两家经销商签订的年度一揽子订单采购。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">request-for-quotation</span>
+        <span class="ipa">/rɪˈkwest fər kwoʊˈteɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">询价函；报价请求；RFQ</div>
+        <div class="label">词根</div><div>request（请求）+ for + quotation（报价）→ 向供应商征求报价的正式文件</div>
+        <div class="label">词源</div><div>采购流程文件，规格已较明确时向多家供应商征集价格与交期，侧重比价；相对 RFP 更偏价格而非方案创新</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">采购高频：issue a request-for-quotation（发出询价函）；respond to a request-for-quotation（回应询价）；request-for-quotation deadline（询价截止日期）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">issue a request-for-quotation（发出询价函）</span><span class="chip">respond to a request-for-quotation（回应询价）</span><span class="chip">a formal request-for-quotation（正式询价函）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Purchasing sent a request-for-quotation for 5,000 units of packaging materials.</en>
+          <zh>采购部就五千件包装材料发出了询价函。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">sole-source</span>
+        <span class="ipa">/soʊl sɔːrs/</span>
+        <span class="pos">adj./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">单一来源的；独家供货；唯一定点采购</div>
+        <div class="label">词根</div><div>sole（唯一的）+ source（来源）→ 只有一个可选用的供应来源</div>
+        <div class="label">词源</div><div>采购与合规用语，因专利、兼容性或紧急需求等只能向唯一供应商采购；通常需额外审批与书面理由</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">采购/合规高频：a sole-source contract（单一来源合同）；sole-source justification（单一来源理由说明）；approve sole-source（批准单一来源采购）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a sole-source contract（单一来源合同）</span><span class="chip">sole-source justification（单一来源理由说明）</span><span class="chip">sole-source supplier（独家供应商）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>IT submitted sole-source justification because only one vendor supports the legacy system.</en>
+          <zh>IT 提交了单一来源理由说明，因为只有一家供应商支持该遗留系统。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">certificate-of-origin</span>
+        <span class="ipa">/sərˈtɪfɪkət əv ˈɔːrɪdʒɪn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">原产地证书；产地证；货物原产证明</div>
+        <div class="label">词根</div><div>certificate（证书）+ of + origin（原产地）→ 证明货物原产国的官方文件</div>
+        <div class="label">词源</div><div>国际贸易单证，由商会或海关签发，用于确定关税待遇、自由贸易协定优惠及进口国原产地规则合规</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">外贸/清关高频：issue a certificate-of-origin（签发原产地证书）；a certificate-of-origin form（原产地证书表格）；require a certificate-of-origin（要求提供产地证）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">issue a certificate-of-origin（签发原产地证书）</span><span class="chip">a valid certificate-of-origin（有效原产地证书）</span><span class="chip">present the certificate-of-origin（出示产地证）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Preferential tariffs apply only if the shipment has a valid certificate-of-origin.</en>
+          <zh>只有在货物附有有效原产地证书时，方可适用优惠关税。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
