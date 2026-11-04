@@ -1,0 +1,42 @@
+/* Quiet Paper speak button — keep beige/green */
+.head { align-items: center; }
+.speak-btn {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  margin-left: 2px;
+  padding: 0;
+  border: 1px solid var(--rule, #E6E0D6);
+  border-radius: 999px;
+  background: var(--bg-surface, #F2EDE6);
+  color: var(--accent, #3D7A5C);
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  transition: background .15s ease, color .15s ease, border-color .15s ease, transform .1s ease;
+}
+.speak-btn:hover,
+.speak-btn:focus-visible {
+  background: var(--accent-soft, #E4EFE8);
+  border-color: var(--accent, #3D7A5C);
+  outline: none;
+}
+.speak-btn:active { transform: scale(0.94); }
+.speak-btn[aria-pressed="true"],
+.speak-btn.is-playing {
+  background: var(--accent, #3D7A5C);
+  border-color: var(--accent, #3D7A5C);
+  color: #FFFcf8;
+}
+.speak-btn svg {
+  width: 14px;
+  height: 14px;
+  display: block;
+  pointer-events: none;
+}
+@media (max-width: 520px) {
+  .speak-btn { width: 32px; height: 32px; }
+  .speak-btn svg { width: 16px; height: 16px; }
+}
