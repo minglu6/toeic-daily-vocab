@@ -36,7 +36,34 @@
   display: block;
   pointer-events: none;
 }
+
+/* Example sentence row: English + compact speaker */
+.ex-en-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+}
+.ex-en-row en {
+  flex: 1 1 auto;
+  min-width: 0;
+  display: block;
+  font-style: italic;
+  color: var(--text-primary, #0f0e0e);
+}
+.speak-btn.speak-ex {
+  width: 26px;
+  height: 26px;
+  margin-left: 0;
+  margin-top: 1px;
+}
+.speak-btn.speak-ex svg {
+  width: 13px;
+  height: 13px;
+}
+
 @media (max-width: 520px) {
   .speak-btn { width: 32px; height: 32px; }
   .speak-btn svg { width: 16px; height: 16px; }
+  .speak-btn.speak-ex { width: 30px; height: 30px; }
+  .speak-btn.speak-ex svg { width: 15px; height: 15px; }
 }
