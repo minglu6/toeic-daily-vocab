@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 11/04 ×30</title>
+<style>
+
+
+
+
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.11.04</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">raci</span>
+        <span class="ipa">/ˈræsi/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">RACI 职责矩阵；责任分配框架（Responsible/Accountable/Consulted/Informed）</div>
+        <div class="label">词根</div><div>缩写：Responsible + Accountable + Consulted + Informed → 四类职责角色</div>
+        <div class="label">词源</div><div>项目管理与治理工具，用矩阵标明每项工作谁执行、谁拍板、需征询谁、需知会谁，减少职责模糊与决策延误</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/治理高频：a RACI matrix（RACI 矩阵）；clarify RACI（理清职责分工）；assign RACI roles（分配 RACI 角色）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a RACI matrix（RACI 矩阵）</span><span class="chip">clarify RACI（理清职责分工）</span><span class="chip">update the RACI（更新职责矩阵）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Before kickoff, the PMO asked each workstream to publish a RACI for key deliverables.</en>
+          <zh>启动前，项目管理办公室要求各工作流就关键交付物公布 RACI。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">timeboxing</span>
+        <span class="ipa">/ˈtaɪmˌbɒksɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">时间盒管理；限时时段工作法；为任务设定固定时限</div>
+        <div class="label">词根</div><div>time（时间）+ boxing（装箱/框定）→ 把工作装进固定时长的“时间盒”</div>
+        <div class="label">词源</div><div>敏捷与会议管理用语，指预先为讨论或任务划定不可延长的时限，到点即止，以提高专注与节奏</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/运营高频：use timeboxing（采用时间盒）；a 25-minute timeboxing session（25 分钟时间盒）；strict timeboxing（严格限时）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">use timeboxing（采用时间盒）</span><span class="chip">enforce timeboxing（强制限时）</span><span class="chip">a timeboxing rule（时间盒规则）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Timeboxing kept the design review to forty minutes and forced clearer priorities.</en>
+          <zh>时间盒管理把设计评审压在四十分钟内，并迫使优先级更清晰。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">pre-read</span>
+        <span class="ipa">/ˈpriː riːd/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">会前阅读材料；预读材料；会前预习</div>
+        <div class="label">词根</div><div>pre-（预先）+ read（阅读）→ 开会前先读的材料</div>
+        <div class="label">词源</div><div>会议效率实践，指会前分发的简报、议案或数据，要求参会者提前消化，以便会上直接讨论决策而非宣读内容</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议高频：send the pre-read（发送会前材料）；review the pre-read（审阅预读材料）；a concise pre-read（简洁的会前材料）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">send the pre-read（发送会前材料）</span><span class="chip">review the pre-read（审阅预读材料）</span><span class="chip">circulate a pre-read（传阅会前材料）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Please finish the pre-read by Monday so we can vote on the budget in the meeting.</en>
+          <zh>请在周一前完成会前阅读，以便会上对预算进行表决。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">after-action-review</span>
+        <span class="ipa">/ˌæftər ˈækʃən rɪˈvjuː/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">行动后复盘；事后检讨会；事后评估回顾</div>
+        <div class="label">词根</div><div>after（之后）+ action（行动）+ review（回顾）→ 行动结束后的结构化复盘</div>
+        <div class="label">词源</div><div>源于军事并广泛用于项目管理，围绕“计划做了什么、实际发生了什么、为何偏差、下次如何改进”进行简短复盘</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">运营/会议高频：conduct an after-action-review（开展行动后复盘）；an after-action-review meeting（复盘会）；document the after-action-review（记录复盘结论）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">conduct an after-action-review（开展行动后复盘）</span><span class="chip">schedule an after-action-review（安排复盘会）</span><span class="chip">lessons from the after-action-review（复盘得出的经验）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The launch team held an after-action-review to capture what delayed the go-live.</en>
+          <zh>上线团队召开行动后复盘，记录导致上线延误的原因。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">postmortem</span>
+        <span class="ipa">/ˌpoʊstˈmɔːrtəm/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">事后剖析；事故复盘报告；故障复盘</div>
+        <div class="label">词根</div><div>post-（之后）+ mortem（死亡）→ 原指尸检，引申为事故后的系统剖析</div>
+        <div class="label">词源</div><div>科技与运营用语，指重大故障或项目失败后的书面复盘，强调根因、时间线、影响范围与预防措施，常为无责文化</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">运营/IT 高频：write a postmortem（撰写复盘报告）；a blameless postmortem（无责复盘）；share the postmortem（分享复盘）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">write a postmortem（撰写复盘报告）</span><span class="chip">a blameless postmortem（无责复盘）</span><span class="chip">review the postmortem（审阅复盘报告）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Engineering published a blameless postmortem within 48 hours of the outage.</en>
+          <zh>工程团队在宕机后 48 小时内发布了无责复盘报告。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">swimlane</span>
+        <span class="ipa">/ˈswɪm leɪn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">泳道图；职责泳道；流程中按角色划分的通道</div>
+        <div class="label">词根</div><div>swim（游泳）+ lane（泳道）→ 像泳池泳道一样按角色分隔流程步骤</div>
+        <div class="label">词源</div><div>流程建模用语，在流程图中用横向或纵向泳道表示不同部门/角色的职责边界与交接点</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">运营/会议高频：a swimlane diagram（泳道图）；map the process in swimlanes（用泳道图梳理流程）；cross a swimlane（跨泳道交接）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a swimlane diagram（泳道图）</span><span class="chip">draw swimlanes（绘制泳道）</span><span class="chip">clarify swimlane ownership（理清泳道归属）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The swimlane made it obvious that handoffs between Sales and Finance caused delays.</en>
+          <zh>泳道图清楚显示销售与财务之间的交接造成了延误。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">decision-rights</span>
+        <span class="ipa">/dɪˈsɪʒən raɪts/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">决策权；拍板权限；谁有权做决定的界定</div>
+        <div class="label">词根</div><div>decision（决策）+ rights（权利）→ 做出最终决定的权限归属</div>
+        <div class="label">词源</div><div>组织治理概念，明确各类事项由谁批准、谁可否决，避免多头拍板或无人负责</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">治理高频：clarify decision-rights（明确决策权）；assign decision-rights（分配决策权）；blurred decision-rights（模糊的决策权）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">clarify decision-rights（明确决策权）</span><span class="chip">assign decision-rights（分配决策权）</span><span class="chip">document decision-rights（书面规定决策权）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Blurred decision-rights slowed the vendor selection for weeks.</en>
+          <zh>模糊的决策权使供应商遴选拖延了数周。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">succession-plan</span>
+        <span class="ipa">/səkˈseʃən plæn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">继任计划；接班规划；关键岗位后备方案</div>
+        <div class="label">词根</div><div>succession（继任）+ plan（计划）→ 关键岗位的接班安排</div>
+        <div class="label">词源</div><div>人力资源与董事会治理工具，预先识别并培养关键职位的潜在继任者，降低突然离职或退休带来的风险</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：update the succession-plan（更新继任计划）；a succession-plan for key roles（关键岗位继任计划）；review succession-plans（审阅接班规划）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">update the succession-plan（更新继任计划）</span><span class="chip">a board succession-plan（董事会继任计划）</span><span class="chip">identify succession-plan candidates（识别接班候选人）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The board reviewed the CEO succession-plan after the unexpected resignation.</en>
+          <zh>在意外辞职后，董事会审阅了首席执行官继任计划。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">pay-band</span>
+        <span class="ipa">/peɪ bænd/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">薪资带宽；薪酬等级区间；工资档位范围</div>
+        <div class="label">词根</div><div>pay（薪酬）+ band（带/区间）→ 某一职级对应的薪酬上下限</div>
+        <div class="label">词源</div><div>薪酬管理术语，将岗位归入等级，并为每级设定最低到最高薪资范围，用于招聘报价与内部公平</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：within the pay-band（在薪资带宽内）；adjust the pay-band（调整薪资带宽）；the mid-point of the pay-band（带宽中位值）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">within the pay-band（在薪资带宽内）</span><span class="chip">raise the pay-band（上调薪资带宽）</span><span class="chip">the pay-band midpoint（带宽中位点）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The offer sits at the 60th percentile of the analyst pay-band.</en>
+          <zh>该录用薪资位于分析师薪资带宽的第 60 百分位。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">comp-ratio</span>
+        <span class="ipa">/kɒmp ˈreɪʃioʊ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">薪酬比；实际薪资相对带宽中位的比率；工资竞争力指标</div>
+        <div class="label">词根</div><div>comp（compensation 薪酬缩写）+ ratio（比率）→ 个人薪资÷带宽中位</div>
+        <div class="label">词源</div><div>薪酬分析指标，通常用员工实际基本工资除以所在薪资带宽中位点，1.0 表示恰在中位，用于判断偏高或偏低</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：calculate the comp-ratio（计算薪酬比）；a high comp-ratio（偏高的薪酬比）；manage comp-ratios（管控薪酬比）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">calculate the comp-ratio（计算薪酬比）</span><span class="chip">a low comp-ratio（偏低的薪酬比）</span><span class="chip">review comp-ratios（审阅薪酬比）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Her comp-ratio of 0.92 suggests room for a market adjustment.</en>
+          <zh>她的薪酬比为 0.92，表明仍有市场调薪空间。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">span-of-control</span>
+        <span class="ipa">/spæn əv kənˈtroʊl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">管理幅度；直接下属人数；管控跨度</div>
+        <div class="label">词根</div><div>span（跨度）+ of + control（控制）→ 一名管理者直接管辖的人数范围</div>
+        <div class="label">词源</div><div>组织设计概念，指经理直接汇报下属的数量；幅度过宽易失控，过窄则层级过多、成本上升</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/组织高频：widen the span-of-control（扩大管理幅度）；a narrow span-of-control（狭窄的管理幅度）；optimal span-of-control（最优管理幅度）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">widen the span-of-control（扩大管理幅度）</span><span class="chip">a narrow span-of-control（狭窄的管理幅度）</span><span class="chip">measure span-of-control（衡量管理幅度）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>After the reorg, each director’s span-of-control rose from six to nine reports.</en>
+          <zh>重组后，每位总监的管理幅度从六名直接下属增至九名。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">dotted-line</span>
+        <span class="ipa">/ˈdɒtɪd laɪn/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">虚线汇报；非正式/矩阵汇报关系；虚线上级</div>
+        <div class="label">词根</div><div>dotted（虚线的）+ line（线）→ 组织图上用虚线表示的汇报关系</div>
+        <div class="label">词源</div><div>矩阵组织用语，相对实线（正式直属）汇报，虚线表示跨部门指导、协同或专业监督，权责通常较弱</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/组织高频：a dotted-line report（虚线下属）；dotted-line to Finance（向财务虚线汇报）；clarify dotted-line authority（明确虚线权限）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a dotted-line report（虚线下属）</span><span class="chip">dotted-line to the CFO（向首席财务官虚线汇报）</span><span class="chip">clarify the dotted-line（理清虚线关系）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>She has a solid-line manager in Marketing and a dotted-line to the regional CFO.</en>
+          <zh>她在市场部有实线经理，同时向区域首席财务官虚线汇报。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">lateral-move</span>
+        <span class="ipa">/ˈlætərəl muːv/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">平级调动；横向转岗；同级岗位转换</div>
+        <div class="label">词根</div><div>lateral（横向的）+ move（调动）→ 不升不降的同级岗位变动</div>
+        <div class="label">词源</div><div>职业发展用语，指在相同职级/薪级下转换职能或业务单元，以拓宽经验、为后续晋升铺路</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：make a lateral-move（进行平级调动）；request a lateral-move（申请横向转岗）；a strategic lateral-move（战略性平级调动）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">make a lateral-move（进行平级调动）</span><span class="chip">request a lateral-move（申请横向转岗）</span><span class="chip">a cross-functional lateral-move（跨职能平级调动）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>He made a lateral-move from sales operations into product marketing.</en>
+          <zh>他从销售运营平级调到了产品市场部。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">high-potential</span>
+        <span class="ipa">/haɪ pəˈtenʃəl/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">高潜人才；高潜力员工；被认定为有快速晋升潜力者</div>
+        <div class="label">词根</div><div>high（高）+ potential（潜力）→ 被认为有较高发展潜力的人才</div>
+        <div class="label">词源</div><div>人才管理标签，指通过绩效与潜力评估筛选出的、适合加速培养与继任路径的员工群体（常简称 HiPo）</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：identify high-potential talent（识别高潜人才）；a high-potential program（高潜培养项目）；nominate high-potentials（提名高潜）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">identify high-potential talent（识别高潜人才）</span><span class="chip">a high-potential program（高潜培养项目）</span><span class="chip">retain high-potentials（留住高潜人才）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>High-potential employees receive stretch assignments and executive mentoring.</en>
+          <zh>高潜员工会获得挑战性任务与高管辅导。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">impairment</span>
+        <span class="ipa">/ɪmˈpɛrmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">资产减值；价值减损；减值损失</div>
+        <div class="label">词根</div><div>impair（损害）+ -ment → 使资产账面价值下调的减损</div>
+        <div class="label">词源</div><div>财务会计用语，当资产可收回金额低于账面价值时确认减值损失，常见于商誉、固定资产与金融资产</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：an impairment charge（减值计提）；recognize impairment（确认减值）；goodwill impairment（商誉减值）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an impairment charge（减值计提）</span><span class="chip">recognize impairment（确认减值）</span><span class="chip">test for impairment（进行减值测试）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The company recorded a $40 million impairment on underperforming store assets.</en>
+          <zh>公司对表现不佳的门店资产计提了四千万美元减值。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">contingent-liability</span>
+        <span class="ipa">/kənˈtɪndʒənt ˌlaɪəˈbɪləti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">或有负债；视未来事件而定的潜在债务</div>
+        <div class="label">词根</div><div>contingent（或有的）+ liability（负债）→ 取决于不确定未来事件的潜在义务</div>
+        <div class="label">词源</div><div>会计与审计概念，如未决诉讼、担保或质保，需按发生可能性决定是否入账或仅在附注披露</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：disclose a contingent-liability（披露或有负债）；a material contingent-liability（重大或有负债）；assess contingent-liabilities（评估或有负债）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">disclose a contingent-liability（披露或有负债）</span><span class="chip">a pending contingent-liability（未决或有负债）</span><span class="chip">evaluate contingent-liabilities（评估或有负债）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Auditors asked management to disclose the lawsuit as a contingent-liability.</en>
+          <zh>审计师要求管理层将该诉讼作为或有负债予以披露。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">cash-conversion-cycle</span>
+        <span class="ipa">/kæʃ kənˈvɜːrʒən ˈsaɪkl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">现金转换周期；营运资金周转天数；从投出现金到收回现金的天数</div>
+        <div class="label">词根</div><div>cash（现金）+ conversion（转换）+ cycle（周期）→ 存货与应收转为现金所需天数</div>
+        <div class="label">词源</div><div>营运资本指标，通常为存货周转天数 + 应收周转天数 − 应付周转天数，越短说明现金回笼越快</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：shorten the cash-conversion-cycle（缩短现金转换周期）；measure the cash-conversion-cycle（测算现金转换周期）；a negative cash-conversion-cycle（负的现金转换周期）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">shorten the cash-conversion-cycle（缩短现金转换周期）</span><span class="chip">improve the cash-conversion-cycle（改善现金转换周期）</span><span class="chip">track the cash-conversion-cycle（跟踪现金转换周期）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Tighter inventory controls shortened the cash-conversion-cycle by twelve days.</en>
+          <zh>更严的库存管控使现金转换周期缩短了十二天。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">runway</span>
+        <span class="ipa">/ˈrʌnweɪ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">现金跑道；剩余可撑月数；烧钱时长</div>
+        <div class="label">词根</div><div>runway（跑道）→ 比喻现有现金还能支撑运营多久</div>
+        <div class="label">词源</div><div>创业与财务口语，指按当前烧钱速度、现有现金还能维持的月数；延长 runway 常靠融资或降本</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：extend the runway（延长现金跑道）；months of runway（可撑月数）；burn rate and runway（烧钱速度与跑道）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">extend the runway（延长现金跑道）</span><span class="chip">twelve months of runway（十二个月现金跑道）</span><span class="chip">calculate runway（测算现金跑道）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>With the new funding, the startup now has eighteen months of runway.</en>
+          <zh>获得新融资后，该初创公司现有十八个月的现金跑道。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">share-repurchase</span>
+        <span class="ipa">/ʃer riːˈpɜːrtʃəs/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">股票回购；股份回购计划；公司买回自身股票</div>
+        <div class="label">词根</div><div>share（股份）+ repurchase（回购）→ 公司购回已发行股份</div>
+        <div class="label">词源</div><div>资本市场资本回报方式，公司用现金买回流通股，可提高每股收益、返还多余现金或支撑股价，需遵守回购规则</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：announce a share-repurchase（宣布股票回购）；a share-repurchase program（股份回购计划）；authorize a share-repurchase（授权回购）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">announce a share-repurchase（宣布股票回购）</span><span class="chip">a share-repurchase program（股份回购计划）</span><span class="chip">complete a share-repurchase（完成股份回购）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The board authorized a $500 million share-repurchase over the next year.</en>
+          <zh>董事会授权在未来一年内进行五亿美元的股票回购。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">capital-call</span>
+        <span class="ipa">/ˈkæpɪtl kɔːl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">缴款通知；资本催缴；要求有限合伙人注资</div>
+        <div class="label">词根</div><div>capital（资本）+ call（召集/催缴）→ 基金向投资者催缴已承诺资本</div>
+        <div class="label">词源</div><div>私募股权与创投实务，普通合伙人按投资进度向有限合伙人发出缴款通知，要求按承诺额注资</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/投资高频：issue a capital-call（发出缴款通知）；meet a capital-call（履行缴款）；a capital-call notice（资本催缴通知）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">issue a capital-call（发出缴款通知）</span><span class="chip">meet a capital-call（履行缴款）</span><span class="chip">a capital-call deadline（缴款截止日期）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Investors have ten business days to fund the capital-call for the new acquisition.</en>
+          <zh>投资者须在十个工作日内为本次收购注资以满足缴款通知。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">travel-advance</span>
+        <span class="ipa">/ˈtrævl ədˈvæns/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">差旅预借款；出差备用金；行程前预支款</div>
+        <div class="label">词根</div><div>travel（差旅）+ advance（预付款）→ 出行前预支的差旅费用</div>
+        <div class="label">词源</div><div>差旅与费用政策用语，员工出差前向公司预借现金或转账，事后凭票据报销并结清差额</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅/财务高频：request a travel-advance（申请差旅预借款）；settle a travel-advance（结清差旅预借款）；a travel-advance policy（差旅预支政策）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">request a travel-advance（申请差旅预借款）</span><span class="chip">settle a travel-advance（结清差旅预借款）</span><span class="chip">approve a travel-advance（批准差旅预借款）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Finance approved a $1,200 travel-advance for the three-city client tour.</en>
+          <zh>财务批准了 1200 美元差旅预借款，用于三城客户拜访。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">corporate-card</span>
+        <span class="ipa">/ˈkɔːrpərət kɑːrd/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">公司信用卡；商务卡；企业公务卡</div>
+        <div class="label">词根</div><div>corporate（公司的）+ card（卡）→ 公司发放用于公务开支的支付卡</div>
+        <div class="label">词源</div><div>差旅与采购控费工具，员工用公司卡支付合规费用，账单由公司统一结算并与费用政策、报销系统对接</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅/财务高频：charge to the corporate-card（记入公司卡）；a corporate-card statement（公司卡账单）；misuse of a corporate-card（滥用公司卡）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">charge to the corporate-card（记入公司卡）</span><span class="chip">issue a corporate-card（发放公司卡）</span><span class="chip">reconcile the corporate-card（核对公司卡账单）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Hotel stays and airfare must be booked on the corporate-card whenever possible.</en>
+          <zh>酒店与机票应尽可能使用公司信用卡预订。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">hotel-folio</span>
+        <span class="ipa">/hoʊˈtel ˈfoʊlioʊ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">酒店账单；住店明细账；退房费用清单</div>
+        <div class="label">词根</div><div>hotel（酒店）+ folio（账页/账单）→ 住店期间费用明细单</div>
+        <div class="label">词源</div><div>酒店与差旅报销用语，列出房费、税、餐饮与杂费等明细，是报销与对账的关键凭证</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅高频：request the hotel-folio（索取酒店账单）；itemize the hotel-folio（列明酒店账单明细）；attach the hotel-folio（附上酒店账单）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">request the hotel-folio（索取酒店账单）</span><span class="chip">attach the hotel-folio（附上酒店账单）</span><span class="chip">review the hotel-folio（核对酒店账单）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Expense claims for lodging require the itemized hotel-folio, not just a credit-card slip.</en>
+          <zh>住宿报销需提供明细酒店账单，不能仅凭信用卡签单。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">open-jaw</span>
+        <span class="ipa">/ˈoʊpən dʒɔː/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">缺口程；开口行程；去程与回程城市不同的机票</div>
+        <div class="label">词根</div><div>open（开口的）+ jaw（颚）→ 行程两端不闭合，像张着的嘴</div>
+        <div class="label">词源</div><div>航空与差旅术语，指去程抵达城市与回程出发城市不同（或相反），常见于多城商务行程</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅高频：an open-jaw ticket（缺口程机票）；book an open-jaw（预订缺口程）；open-jaw itinerary（开口行程）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an open-jaw ticket（缺口程机票）</span><span class="chip">book an open-jaw（预订缺口程）</span><span class="chip">an open-jaw itinerary（开口行程）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>We booked an open-jaw: fly into Chicago and return from Dallas after the site visits.</en>
+          <zh>我们订了缺口程：飞入芝加哥，完成实地拜访后从达拉斯返回。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">churn-rate</span>
+        <span class="ipa">/tʃɜːrn reɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">流失率；客户流失比率；用户注销/不续约比例</div>
+        <div class="label">词根</div><div>churn（搅动/流失）+ rate（比率）→ 客户或订阅流失的比例</div>
+        <div class="label">词源</div><div>订阅与 SaaS 核心指标，衡量一段时间内停止使用或取消续约的客户占比，与留存、收入增长密切相关</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">市场/销售高频：reduce churn-rate（降低流失率）；monthly churn-rate（月流失率）；a high churn-rate（高流失率）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reduce churn-rate（降低流失率）</span><span class="chip">monthly churn-rate（月流失率）</span><span class="chip">track churn-rate（跟踪流失率）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Customer success cut the monthly churn-rate from 4% to 2.5% after onboarding improvements.</en>
+          <zh>改进入门体验后，客户成功团队将月流失率从 4% 降至 2.5%。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">attribution</span>
+        <span class="ipa">/ˌætrɪˈbjuːʃən/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">归因；效果归因；将转化归功于哪些触点</div>
+        <div class="label">词根</div><div>attribute（归因于）+ -ion → 把结果归到特定渠道或触点</div>
+        <div class="label">词源</div><div>数字营销分析概念，用规则或模型判断广告、邮件等触点对转化的贡献，影响预算分配与 ROI 评估</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">市场高频：marketing attribution（营销归因）；an attribution model（归因模型）；multi-touch attribution（多触点归因）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">marketing attribution（营销归因）</span><span class="chip">an attribution model（归因模型）</span><span class="chip">improve attribution（改进归因）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Last-click attribution undervalued the webinar that started most enterprise deals.</en>
+          <zh>末次点击归因低估了开启多数企业成交的网络研讨会。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">pipeline-coverage</span>
+        <span class="ipa">/ˈpaɪplaɪn ˈkʌvərɪdʒ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">销售漏斗覆盖倍数；管道覆盖率；商机总额相对配额的倍数</div>
+        <div class="label">词根</div><div>pipeline（销售管道）+ coverage（覆盖）→ 管道内商机对目标的覆盖程度</div>
+        <div class="label">词源</div><div>销售管理指标，通常用管道中合格商机金额除以业绩配额；常见目标为 3×–4×，以缓冲赢单不确定性</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">销售高频：pipeline-coverage of 3x（三倍管道覆盖）；improve pipeline-coverage（提高管道覆盖）；insufficient pipeline-coverage（管道覆盖不足）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">pipeline-coverage of 3x（三倍管道覆盖）</span><span class="chip">improve pipeline-coverage（提高管道覆盖）</span><span class="chip">review pipeline-coverage（审阅管道覆盖）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>With only 1.5× pipeline-coverage, the team is unlikely to hit the quarterly quota.</en>
+          <zh>管道覆盖仅 1.5 倍，团队不太可能完成季度配额。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">win-rate</span>
+        <span class="ipa">/wɪn reɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">赢单率；成交胜率；赢取商机的比例</div>
+        <div class="label">词根</div><div>win（赢得）+ rate（比率）→ 赢取的商机占总商机的比例</div>
+        <div class="label">词源</div><div>销售绩效指标，用赢单数（或金额）除以完结商机数，用于评估销售效率、预测收入与改进方法</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">销售高频：increase the win-rate（提高赢单率）；a 30% win-rate（百分之三十的赢单率）；track win-rate by segment（按细分跟踪赢单率）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">increase the win-rate（提高赢单率）</span><span class="chip">a competitive win-rate（竞争型赢单率）</span><span class="chip">analyze win-rate（分析赢单率）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Better discovery calls lifted the enterprise win-rate from 18% to 27%.</en>
+          <zh>更好的需求探询将企业客户赢单率从 18% 提升到 27%。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">limitation-of-liability</span>
+        <span class="ipa">/ˌlɪmɪˈteɪʃən əv ˌlaɪəˈbɪləti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">责任限制条款；赔偿责任上限约定</div>
+        <div class="label">词根</div><div>limitation（限制）+ of + liability（责任）→ 合同中限制赔偿范围或金额的条款</div>
+        <div class="label">词源</div><div>合同风险分配核心条款，常设赔偿上限（如费用的一定倍数）并排除间接损失，需注意消费者法与故意/重大过失例外</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同高频：a limitation-of-liability clause（责任限制条款）；negotiate limitation-of-liability（谈判责任上限）；carve-outs from limitation-of-liability（责任限制的例外）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a limitation-of-liability clause（责任限制条款）</span><span class="chip">negotiate limitation-of-liability（谈判责任上限）</span><span class="chip">cap under limitation-of-liability（责任限制下的上限）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>Counsel insisted on a limitation-of-liability equal to twelve months of fees.</en>
+          <zh>法务坚持将责任限制设为十二个月费用金额。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">change-of-control</span>
+        <span class="ipa">/tʃeɪndʒ əv kənˈtroʊl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">控制权变更；控股权易手；公司控制权转移</div>
+        <div class="label">词根</div><div>change（变更）+ of + control（控制）→ 公司控制权发生转移的事件</div>
+        <div class="label">词源</div><div>并购与融资合同关键定义，通常指多数投票权、董事会控制或重大资产出售易手；可触发加速到期、终止权或金牌降落伞</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同高频：a change-of-control clause（控制权变更条款）；upon a change-of-control（在控制权变更时）；trigger a change-of-control（触发控制权变更）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a change-of-control clause（控制权变更条款）</span><span class="chip">upon a change-of-control（在控制权变更时）</span><span class="chip">define change-of-control（界定控制权变更）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en>The credit agreement accelerates repayment upon a change-of-control.</en>
+          <zh>信贷协议规定在发生控制权变更时可加速要求还款。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+</body>
+</html>
