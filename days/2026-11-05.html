@@ -1,0 +1,905 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 11/05 ×30</title>
+<style>
+
+
+
+
+
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+<link rel="stylesheet" href="../assets/speak.css" />
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.11.05</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">net-promoter-score</span>
+        <span class="ipa">/net prəˈmoʊtər skɔːr/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">净推荐值；NPS 客户忠诚度指标；净推荐得分</div>
+        <div class="label">词根</div><div>net（净）+ promoter（推荐者）+ score（得分）→ 推荐者占比减去贬损者占比</div>
+        <div class="label">词源</div><div>客户成功与市场调研指标，用 0–10 分问“你有多大可能推荐我们”，把 9–10 分视为推荐者、0–6 为贬损者，两者占比之差即为 NPS</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">客户成功高频：track net-promoter-score（跟踪净推荐值）；improve the net-promoter-score（提升净推荐值）；a high net-promoter-score（较高的净推荐值）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">track net-promoter-score（跟踪净推荐值）</span><span class="chip">improve the net-promoter-score（提升净推荐值）</span><span class="chip">benchmark net-promoter-score（对标净推荐值）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/9ff9bff8c25912e3.mp3">Customer Success reviews the net-promoter-score every quarter before renewals.</en>
+          <zh>客户成功团队在续约前每个季度都会审阅净推荐值。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">health-score</span>
+        <span class="ipa">/helθ skɔːr/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">客户健康分；账户健康评分；客户状态综合分</div>
+        <div class="label">词根</div><div>health（健康）+ score（评分）→ 用多项信号衡量客户关系“健康”程度</div>
+        <div class="label">词源</div><div>SaaS 客户成功用语，综合产品使用、支持工单、付款与互动等信号，给每个账户打分，以便提前干预流失风险</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">客户成功高频：a declining health-score（下滑的健康分）；monitor health-score（监控健康分）；flag a low health-score（标记低健康分账户）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">monitor health-score（监控健康分）</span><span class="chip">a declining health-score（下滑的健康分）</span><span class="chip">raise the health-score（提升健康分）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/72e07fb1fea1f03e.mp3">A sudden drop in health-score triggered an outreach call to the account.</en>
+          <zh>健康分突然下降，触发了对该账户的外联电话。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">customer-journey</span>
+        <span class="ipa">/ˈkʌstəmər ˈdʒɜːrni/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">客户旅程；客户体验路径；从认知到续约的全流程</div>
+        <div class="label">词根</div><div>customer（客户）+ journey（旅程）→ 客户与品牌互动的完整路径</div>
+        <div class="label">词源</div><div>营销与客户成功框架，把触点按认知、考虑、购买、使用、续约等阶段串联，用于发现摩擦点并优化体验</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">客户成功/营销高频：map the customer-journey（绘制客户旅程）；across the customer-journey（贯穿客户旅程）；friction in the customer-journey（客户旅程中的摩擦）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">map the customer-journey（绘制客户旅程）</span><span class="chip">optimize the customer-journey（优化客户旅程）</span><span class="chip">stages of the customer-journey（客户旅程各阶段）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/76567d3c7223ab59.mp3">We mapped the customer-journey and found most churn happened after onboarding.</en>
+          <zh>我们梳理了客户旅程，发现多数流失发生在入职引导之后。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">playbook</span>
+        <span class="ipa">/ˈpleɪbʊk/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">作战手册；标准作业剧本；可复用的执行指南</div>
+        <div class="label">词根</div><div>play（战术/打法）+ book（书）→ 原指体育战术手册，引申为业务标准流程集</div>
+        <div class="label">词源</div><div>源自体育战术本，现广泛用于销售、客成与运营，指针对特定场景（如续约、升级）的步骤、话术与检查清单合集</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">运营/客成高频：follow the playbook（按剧本执行）；a sales playbook（销售作战手册）；update the playbook（更新作战手册）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">follow the playbook（按剧本执行）</span><span class="chip">a renewal playbook（续约作战手册）</span><span class="chip">build a playbook（编写作战手册）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/a28949765187542c.mp3">The renewal playbook tells reps when to escalate pricing exceptions.</en>
+          <zh>续约作战手册规定销售何时将价格例外向上升级。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">runbook</span>
+        <span class="ipa">/ˈrʌnbʊk/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">运维手册；故障处置剧本；标准化操作步骤书</div>
+        <div class="label">词根</div><div>run（运行）+ book（书）→ 指导系统如何“跑起来/恢复运行”的手册</div>
+        <div class="label">词源</div><div>IT 运维用语，列出事故响应、发布回滚、值班交接等逐步操作，使非原作者也能按同一标准执行</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">IT 运维高频：follow the runbook（按运维手册执行）；an incident runbook（事故处置手册）；keep the runbook current（保持手册最新）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">follow the runbook（按运维手册执行）</span><span class="chip">an incident runbook（事故处置手册）</span><span class="chip">update the runbook（更新运维手册）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/3d93907bf46eea67.mp3">On-call engineers restored service in twelve minutes using the outage runbook.</en>
+          <zh>值班工程师按宕机运维手册在十二分钟内恢复了服务。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">hot-desk</span>
+        <span class="ipa">/hɒt desk/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">共享工位；轮用办公桌；不固定工位办公</div>
+        <div class="label">词根</div><div>hot（热的/轮转的）+ desk（桌子）→ 工位被连续轮用、几乎不“冷却”</div>
+        <div class="label">词源</div><div>办公空间管理用语，员工不设固定座位，到岗后预订空闲工位，以提高面积利用率并配合混合办公</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">设施/办公高频：book a hot-desk（预订共享工位）；hot-desk for the day（当天使用共享工位）；a hot-desk policy（共享工位制度）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">book a hot-desk（预订共享工位）</span><span class="chip">a hot-desk policy（共享工位制度）</span><span class="chip">hot-desk in the office（在办公室轮用座位）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/02663732d1e9bd98.mp3">Hybrid staff must book a hot-desk by 9 a.m. if they come on Tuesdays.</en>
+          <zh>混合办公员工若周二到岗，须在上午九点前预订共享工位。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">space-utilization</span>
+        <span class="ipa">/speɪs ˌjuːtəlaɪˈzeɪʃən/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">空间利用率；办公面积使用效率；场地占用率</div>
+        <div class="label">词根</div><div>space（空间）+ utilization（利用）→ 空间被实际使用的程度</div>
+        <div class="label">词源</div><div>设施与不动产运营指标，衡量工位、会议室或楼层在时段内的占用比例，用于决定扩租、缩租或重新布局</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">设施高频：improve space-utilization（提升空间利用率）；measure space-utilization（测算空间利用率）；low space-utilization（低空间利用率）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">improve space-utilization（提升空间利用率）</span><span class="chip">measure space-utilization（测算空间利用率）</span><span class="chip">report on space-utilization（汇报空间利用率）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/47ca6f44b84100d1.mp3">Facilities cut one floor after space-utilization fell below forty percent.</en>
+          <zh>空间利用率降至百分之四十以下后，行政设施缩减了一整层。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">visitor-pass</span>
+        <span class="ipa">/ˈvɪzɪtər pæs/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">访客通行证；来宾出入证；访客胸牌</div>
+        <div class="label">词根</div><div>visitor（访客）+ pass（通行证）→ 允许访客在园区/大楼通行的凭证</div>
+        <div class="label">词源</div><div>楼宇安防与前台流程，访客登记后领取限时通行证，常需陪同或限定楼层，以平衡接待与安全</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">设施/安防高频：issue a visitor-pass（发放访客证）；wear a visitor-pass（佩戴访客证）；expire the visitor-pass（使访客证失效）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">issue a visitor-pass（发放访客证）</span><span class="chip">wear a visitor-pass（佩戴访客证）</span><span class="chip">return the visitor-pass（归还访客证）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/52049d33feadf44d.mp3">Reception issues a visitor-pass only after the host confirms the appointment.</en>
+          <zh>前台仅在接待人确认预约后才发放访客通行证。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">access-control</span>
+        <span class="ipa">/ˈækses kənˈtroʊl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">门禁控制；访问控制；出入权限管理</div>
+        <div class="label">词根</div><div>access（进入/访问）+ control（控制）→ 对谁可进入何处的管控</div>
+        <div class="label">词源</div><div>安防与 IT 共用术语，物理上指门禁卡/生物识别，逻辑上指系统权限；企业常统一管理楼层与数据访问</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">设施/IT 高频：tighten access-control（收紧门禁/访问控制）；an access-control system（门禁系统）；revoke access-control rights（撤销访问权限）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">tighten access-control（收紧访问控制）</span><span class="chip">an access-control system（门禁系统）</span><span class="chip">review access-control（审查访问权限）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/5dc91ab83f7842c3.mp3">After the audit, IT tightened access-control on the finance shared drive.</en>
+          <zh>审计之后，IT 收紧了财务共享盘的访问控制。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">wayfinding</span>
+        <span class="ipa">/ˈweɪˌfaɪndɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">导视系统；寻路指引；楼内导向标识</div>
+        <div class="label">词根</div><div>way（路）+ finding（寻找）→ 帮助人们找到路径的设计</div>
+        <div class="label">词源</div><div>建筑与设施设计用语，涵盖标识、地图、数字屏与色彩分区，降低访客与新员工在大型园区迷路的成本</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">设施高频：improve wayfinding（改善导视）；wayfinding signage（导视标识）；a wayfinding map（导视地图）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">improve wayfinding（改善导视）</span><span class="chip">wayfinding signage（导视标识）</span><span class="chip">a digital wayfinding kiosk（数字导视终端）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/0061cdfab42c2a2f.mp3">New wayfinding signs cut the time guests need to reach Conference Hall B.</en>
+          <zh>新的导视标识缩短了访客到达 B 会议厅所需的时间。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">deductible</span>
+        <span class="ipa">/dɪˈdʌktəbl/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">免赔额；起赔线；可扣除的（保险/税务）</div>
+        <div class="label">词根</div><div>deduct（扣除）+ -ible（可…的）→ 须先自行承担、可从理赔中扣除的部分</div>
+        <div class="label">词源</div><div>保险合同关键条款，指保险公司赔付前被保险人须自付的金额；免赔额越高，保费通常越低</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">保险高频：a high deductible（高免赔额）；meet the deductible（达到免赔额）；raise the deductible（提高免赔额）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a high deductible（高免赔额）</span><span class="chip">meet the deductible（达到免赔额）</span><span class="chip">choose a deductible（选择免赔额）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/13117571d40143fb.mp3">Raising the deductible lowered the annual cyber premium by fifteen percent.</en>
+          <zh>提高免赔额使年度网络险保费下降了百分之十五。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">certificate-of-insurance</span>
+        <span class="ipa">/sərˈtɪfɪkət əv ɪnˈʃʊrəns/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">保险凭证；承保证明；COI 投保证明</div>
+        <div class="label">词根</div><div>certificate（证明）+ of + insurance（保险）→ 证明已投保的文件</div>
+        <div class="label">词源</div><div>商务与场馆常见要求，承包商或租户向对方出示由保险公司出具的简要证明，列明险种、限额与有效期，而非完整保单</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">保险/合同高频：provide a certificate-of-insurance（提供保险凭证）；request a certificate-of-insurance（索取保险凭证）；an updated certificate-of-insurance（更新后的保险凭证）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">provide a certificate-of-insurance（提供保险凭证）</span><span class="chip">request a certificate-of-insurance（索取保险凭证）</span><span class="chip">an expired certificate-of-insurance（过期的保险凭证）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/8130362952849295.mp3">The landlord will not issue keys until we submit a certificate-of-insurance.</en>
+          <zh>在我们提交保险凭证之前，房东不会发放钥匙。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">cyber-insurance</span>
+        <span class="ipa">/ˈsaɪbər ɪnˈʃʊrəns/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">网络保险；网络安全险；数据泄露相关保险</div>
+        <div class="label">词根</div><div>cyber（网络）+ insurance（保险）→ 承保网络攻击与数据事件的险种</div>
+        <div class="label">词源</div><div>近年快速发展的商业险，覆盖勒索软件、数据泄露通知、业务中断与抗辩费用，投保常要求具备基本安全控制</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">保险/合规高频：purchase cyber-insurance（购买网络保险）；a cyber-insurance claim（网络险理赔）；cyber-insurance coverage（网络险保障范围）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">purchase cyber-insurance（购买网络保险）</span><span class="chip">file a cyber-insurance claim（提出网络险理赔）</span><span class="chip">review cyber-insurance coverage（审阅网络险保障）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/e6dc00e6aecb2689.mp3">Legal required proof of cyber-insurance before approving the cloud vendor.</en>
+          <zh>法务在批准云供应商前要求提供网络保险证明。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">business-interruption</span>
+        <span class="ipa">/ˈbɪznəs ˌɪntəˈrʌpʃən/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">营业中断；经营中断损失；停业损失（保险）</div>
+        <div class="label">词根</div><div>business（业务）+ interruption（中断）→ 因事故导致经营活动暂停</div>
+        <div class="label">词源</div><div>财产与网络保险中的关键损失类型，赔付因火灾、灾难或系统中断导致的收入损失与持续固定成本，常设等待期</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">保险高频：business-interruption coverage（营业中断保障）；a business-interruption claim（营业中断理赔）；business-interruption losses（营业中断损失）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">business-interruption coverage（营业中断保障）</span><span class="chip">a business-interruption claim（营业中断理赔）</span><span class="chip">estimate business-interruption losses（估算营业中断损失）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/988749c7b87cf95a.mp3">The flood claim included three months of business-interruption losses.</en>
+          <zh>水灾理赔包含了三个月的营业中断损失。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">coinsurance</span>
+        <span class="ipa">/ˌkoʊɪnˈʃʊrəns/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">共同保险；共保比例；被保险人分担比例</div>
+        <div class="label">词根</div><div>co-（共同）+ insurance（保险）→ 保险人与被保险人或多家保险人共同分担</div>
+        <div class="label">词源</div><div>健康与财产保险条款，规定赔付时被保险人按约定比例分担费用（如 80/20），或要求足额投保否则按比例赔付</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">保险高频：an 80/20 coinsurance（八二共保）；coinsurance clause（共保条款）；pay coinsurance（支付共保份额）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an 80/20 coinsurance（八二共保）</span><span class="chip">a coinsurance clause（共保条款）</span><span class="chip">calculate coinsurance（计算共保份额）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/0d17aed01eb78c81.mp3">Under the plan, employees pay twenty percent coinsurance after the deductible.</en>
+          <zh>根据该方案，员工在免赔额之后还需支付百分之二十的共保份额。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">rollback</span>
+        <span class="ipa">/ˈroʊlbæk/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">回滚；版本回退；撤销已发布变更</div>
+        <div class="label">词根</div><div>roll（滚动）+ back（向后）→ 把系统滚回到先前状态</div>
+        <div class="label">词源</div><div>软件发布与数据库运维用语，当新版本出现严重故障时，快速恢复到上一稳定版本或事务提交前状态</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">IT 运维高频：perform a rollback（执行回滚）；a rollback plan（回滚计划）；trigger a rollback（触发回滚）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">perform a rollback（执行回滚）</span><span class="chip">a rollback plan（回滚计划）</span><span class="chip">automate the rollback（自动化回滚）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/d2f246e8c1fb89b0.mp3">The release manager ordered an immediate rollback after error rates spiked.</en>
+          <zh>错误率飙升后，发布经理下令立即回滚。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">multi-factor</span>
+        <span class="ipa">/ˌmʌlti ˈfæktər/</span>
+        <span class="pos">adj./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">多因素（认证）；多重验证；MFA 多因子</div>
+        <div class="label">词根</div><div>multi-（多）+ factor（因素）→ 用多种独立因素验证身份</div>
+        <div class="label">词源</div><div>信息安全标准做法，在密码之外再要求手机令牌、生物特征等第二因素，大幅降低凭据泄露后的账户被盗风险</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">IT 安全高频：enable multi-factor authentication（启用多因素认证）；require multi-factor（要求多因素验证）；multi-factor login（多因素登录）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">enable multi-factor authentication（启用多因素认证）</span><span class="chip">require multi-factor（要求多因素验证）</span><span class="chip">enforce multi-factor（强制多因素）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/9f9f353803d401ce.mp3">Finance accounts now require multi-factor before any wire transfer is approved.</en>
+          <zh>财务账户在批准任何电汇前现须完成多因素认证。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">single-sign-on</span>
+        <span class="ipa">/ˈsɪŋɡl saɪn ɒn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">单点登录；SSO；一次登录访问多系统</div>
+        <div class="label">词根</div><div>single（单一）+ sign-on（登录）→ 一次身份验证打通多个应用</div>
+        <div class="label">词源</div><div>企业身份管理方案，用户登录门户或身份提供商后即可访问授权应用，减少密码疲劳并集中撤销权限</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">IT 高频：enable single-sign-on（启用单点登录）；single-sign-on access（单点登录访问）；migrate to single-sign-on（迁移到单点登录）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">enable single-sign-on（启用单点登录）</span><span class="chip">single-sign-on access（单点登录访问）</span><span class="chip">configure single-sign-on（配置单点登录）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/fb58554a55800733.mp3">HR rolled out single-sign-on so new hires need only one corporate password.</en>
+          <zh>人力资源上线了单点登录，使新员工只需一个公司密码。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">disaster-recovery</span>
+        <span class="ipa">/dɪˈzæstər rɪˈkʌvəri/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">灾难恢复；灾备；重大故障后系统恢复</div>
+        <div class="label">词根</div><div>disaster（灾难）+ recovery（恢复）→ 灾难发生后恢复业务与系统</div>
+        <div class="label">词源</div><div>IT 与业务连续性领域，指备份站点、恢复时间目标（RTO）与恢复点目标（RPO）等预案，定期演练以验证可用性</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">IT 运维高频：a disaster-recovery plan（灾难恢复计划）；test disaster-recovery（演练灾备）；disaster-recovery site（灾备站点）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a disaster-recovery plan（灾难恢复计划）</span><span class="chip">test disaster-recovery（演练灾备）</span><span class="chip">activate disaster-recovery（启动灾备）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/9d6e9ea5483350f8.mp3">The annual drill proved the disaster-recovery site could take over within an hour.</en>
+          <zh>年度演练证明灾备站点可在一小时内接管业务。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">on-call</span>
+        <span class="ipa">/ɒn kɔːl/</span>
+        <span class="pos">adj./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">值班的；待命；轮值响应（运维/医疗）</div>
+        <div class="label">词根</div><div>on + call（随时可被叫到）→ 规定时段内须响应紧急呼叫</div>
+        <div class="label">词源</div><div>医疗与 IT 运维共用，指轮值人员在班外时段仍须接听告警并处理事故，常配补偿与轮换表</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">IT 运维高频：be on-call（值班待命）；an on-call rotation（值班轮值）；the on-call engineer（值班工程师）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">be on-call（值班待命）</span><span class="chip">an on-call rotation（值班轮值）</span><span class="chip">page the on-call（呼叫值班人员）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/8d22cecfbfdf1e92.mp3">She is on-call this weekend and must respond to severity-one alerts within fifteen minutes.</en>
+          <zh>她本周末值班，须在十五分钟内响应一级告警。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">release-notes</span>
+        <span class="ipa">/rɪˈliːs noʊts/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">发布说明；版本更新说明；发行注记</div>
+        <div class="label">词根</div><div>release（发布）+ notes（说明）→ 随版本发布的变更摘要</div>
+        <div class="label">词源</div><div>产品与工程文档，向用户与支持团队说明新功能、修复、已知问题与升级影响，是沟通变更的标准载体</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">产品/IT 高频：publish release-notes（发布更新说明）；read the release-notes（阅读发布说明）；include in the release-notes（写入发布说明）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">publish release-notes（发布更新说明）</span><span class="chip">read the release-notes（阅读发布说明）</span><span class="chip">detailed release-notes（详细的发布说明）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/65dd42dc194363bf.mp3">Support asked customers to read the release-notes before upgrading the mobile app.</en>
+          <zh>支持团队请客户在升级移动应用前先阅读发布说明。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">feature-flag</span>
+        <span class="ipa">/ˈfiːtʃər flæɡ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">功能开关；特性开关；灰度发布开关</div>
+        <div class="label">词根</div><div>feature（功能）+ flag（标志位）→ 用开关控制功能是否对用户可见</div>
+        <div class="label">词源</div><div>现代软件交付实践，把未完成或高风险功能藏在开关后，可按用户群逐步打开，并在出问题时快速关闭而无需整包回滚</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">产品/工程高频：toggle a feature-flag（切换功能开关）；enable a feature-flag（打开功能开关）；a feature-flag rollout（功能开关灰度）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">toggle a feature-flag（切换功能开关）</span><span class="chip">enable a feature-flag（打开功能开关）</span><span class="chip">a feature-flag rollout（功能开关灰度）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/09eee63e3ed0584a.mp3">We disabled the checkout feature-flag within minutes of the payment bug report.</en>
+          <zh>收到支付故障报告后几分钟内，我们就关闭了结账功能开关。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">mvp</span>
+        <span class="ipa">/ˌem viː ˈpiː/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">最小可行产品；MVP；验证核心假设的最简版本</div>
+        <div class="label">词根</div><div>缩写：Minimum Viable Product → 最小且仍能验证价值的产品形态</div>
+        <div class="label">词源</div><div>精益创业核心概念，用最少功能上线以快速获得真实用户反馈，避免过度开发后再发现需求不成立</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">产品高频：launch an mvp（推出最小可行产品）；build an mvp（打造 MVP）；validate with an mvp（用 MVP 验证）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">launch an mvp（推出最小可行产品）</span><span class="chip">build an mvp（打造 MVP）</span><span class="chip">an mvp release（MVP 版本发布）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/b4758c362f3b1b69.mp3">The team shipped an mvp in six weeks to test whether users would pay for alerts.</en>
+          <zh>团队在六周内推出最小可行产品，以测试用户是否愿为告警付费。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">user-story</span>
+        <span class="ipa">/ˈjuːzər ˈstɔːri/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">用户故事；需求条目；敏捷需求描述</div>
+        <div class="label">词根</div><div>user（用户）+ story（故事）→ 从用户视角讲述的需求短述</div>
+        <div class="label">词源</div><div>敏捷开发格式，常用“作为…我想要…以便…”描述价值，并附验收标准，便于排期与测试对齐</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">产品/敏捷高频：write a user-story（编写用户故事）；groom the user-story（梳理用户故事）；accept the user-story（验收用户故事）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">write a user-story（编写用户故事）</span><span class="chip">groom user-stories（梳理用户故事）</span><span class="chip">estimate a user-story（估算用户故事）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/701d9c85aaf34303.mp3">Each sprint starts by refining the top user-story with clear acceptance criteria.</en>
+          <zh>每个冲刺开始时，都会把优先级最高的用户故事细化并写清验收标准。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">wireframe</span>
+        <span class="ipa">/ˈwaɪərfreɪm/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">线框图；界面骨架图；低保真页面结构稿</div>
+        <div class="label">词根</div><div>wire（线）+ frame（框架）→ 用线条勾勒的页面结构</div>
+        <div class="label">词源</div><div>UX/产品设计早期产物，聚焦布局与信息层级而非视觉美化，便于快速讨论流程再进入高保真设计</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">产品/设计高频：create a wireframe（制作线框图）；review the wireframe（审阅线框图）；a low-fidelity wireframe（低保真线框图）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">create a wireframe（制作线框图）</span><span class="chip">review the wireframe（审阅线框图）</span><span class="chip">a clickable wireframe（可点击线框图）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/f2626e5b25b17d5b.mp3">Design shared a wireframe of the settings page before any visual styling began.</en>
+          <zh>设计在开始任何视觉样式之前，先分享了设置页的线框图。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">canary</span>
+        <span class="ipa">/kəˈneri/</span>
+        <span class="pos">n./adj.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">金丝雀发布；小流量试发布；灰度探测版本</div>
+        <div class="label">词根</div><div>源自矿井金丝雀预警 → 先让一小部分流量“试毒”</div>
+        <div class="label">词源</div><div>软件发布策略，先把新版本推给极少用户或实例，观察指标正常后再扩大比例；异常则迅速撤回，降低全面故障风险</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">工程/运维高频：a canary release（金丝雀发布）；canary traffic（金丝雀流量）；promote the canary（扩大金丝雀比例）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a canary release（金丝雀发布）</span><span class="chip">canary traffic（金丝雀流量）</span><span class="chip">promote the canary（扩大金丝雀比例）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/e6c2452147f27896.mp3">The canary showed elevated latency, so we halted the wider rollout.</en>
+          <zh>金丝雀发布显示延迟升高，因此我们暂停了更大范围的上线。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">garnishment</span>
+        <span class="ipa">/ˈɡɑːrnɪʃmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">薪资扣押；法院扣款；强制划扣工资</div>
+        <div class="label">词根</div><div>garnish（扣押第三人手中财产）+ -ment → 对工资等的法定扣留</div>
+        <div class="label">词源</div><div>劳动法与薪资合规用语，法院或税务机关命令雇主从员工工资中扣留款项直接付给债权人或政府</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">薪资/合规高频：a wage garnishment（工资扣押）；process a garnishment（处理扣押令）；comply with garnishment（遵守扣押要求）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a wage garnishment（工资扣押）</span><span class="chip">process a garnishment（处理扣押令）</span><span class="chip">a garnishment order（扣押令）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/00a5b0ab0e077cac.mp3">Payroll must process each garnishment exactly as the court order specifies.</en>
+          <zh>薪资团队必须严格按照法院命令处理每笔工资扣押。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">direct-deposit</span>
+        <span class="ipa">/dəˈrekt dɪˈpɑːzɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">银行直存；工资直接入账；电子代发薪</div>
+        <div class="label">词根</div><div>direct（直接）+ deposit（存入）→ 薪资直接打入银行账户</div>
+        <div class="label">词源</div><div>现代发薪标准方式，雇主通过 ACH 等电子转账把净薪打入员工账户，减少支票与现金发放成本</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">薪资高频：set up direct-deposit（设置银行直存）；a direct-deposit form（直存表格）；receive direct-deposit（接收直存工资）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">set up direct-deposit（设置银行直存）</span><span class="chip">a direct-deposit form（直存表格）</span><span class="chip">update direct-deposit details（更新直存信息）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/015d28e0ea5f4121.mp3">New hires cannot be paid until they submit a completed direct-deposit form.</en>
+          <zh>新员工在提交填妥的银行直存表格之前无法发薪。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">paid-time-off</span>
+        <span class="ipa">/peɪd taɪm ɔːf/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">带薪休假；PTO；可带薪的请假额度</div>
+        <div class="label">词根</div><div>paid（带薪）+ time off（休假时间）→ 仍计薪的缺勤时间</div>
+        <div class="label">词源</div><div>北美人力资源常见制度，常把年假、病假等合并为统一 PTO 账户，员工按政策申请并经审批使用</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">人事高频：request paid-time-off（申请带薪假）；accrue paid-time-off（累积带薪假）；a paid-time-off balance（带薪假余额）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">request paid-time-off（申请带薪假）</span><span class="chip">accrue paid-time-off（累积带薪假）</span><span class="chip">approve paid-time-off（批准带薪假）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/eb424736c27f5bc0.mp3">Managers should approve paid-time-off at least one week before the leave starts.</en>
+          <zh>经理应在休假开始前至少一周批准带薪假申请。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">benefits-enrollment</span>
+        <span class="ipa">/ˈbenɪfɪts ɪnˈroʊlmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">福利登记；福利参保登记；福利选修窗口</div>
+        <div class="label">词根</div><div>benefits（福利）+ enrollment（登记入学/参保）→ 选择并登记员工福利方案</div>
+        <div class="label">词源</div><div>人力资源年度或入职流程，员工在开放参保期内选择医保、牙科、退休计划等，逾期可能须等待下次开放期</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">人事/福利高频：complete benefits-enrollment（完成福利登记）；open benefits-enrollment（开放福利登记）；miss benefits-enrollment（错过福利登记）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">complete benefits-enrollment（完成福利登记）</span><span class="chip">open benefits-enrollment（开放福利登记）</span><span class="chip">the benefits-enrollment window（福利登记窗口期）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/e6d680533163c79c.mp3">HR reminded staff that benefits-enrollment closes this Friday at five.</en>
+          <zh>人力资源提醒员工，福利登记本周五下午五点截止。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+<script src="../assets/speak.js" defer></script>
+</body>
+</html>
