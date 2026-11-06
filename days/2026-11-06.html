@@ -1,0 +1,906 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 11/06 ×30</title>
+<style>
+
+
+
+
+
+
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+<link rel="stylesheet" href="../assets/speak.css" />
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.11.06</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">career-ladder</span>
+        <span class="ipa">/kəˈrɪr ˈlædər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">职业阶梯；晋升路径；职级晋升通道</div>
+        <div class="label">词根</div><div>career（职业生涯）+ ladder（梯子）→ 逐级向上攀登的职级路径</div>
+        <div class="label">词源</div><div>人力资源与组织发展用语，把职级序列比作梯子，员工通过绩效、轮岗与培训逐级晋升</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：climb the career-ladder（攀登职业阶梯）；a clear career-ladder（清晰的晋升路径）；move up the career-ladder（沿职业阶梯上升）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">climb the career-ladder（攀登职业阶梯）</span><span class="chip">a clear career-ladder（清晰的晋升路径）</span><span class="chip">move up the career-ladder（沿职业阶梯上升）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/9f1ee70be9979836.mp3">Mentoring helps junior staff climb the career-ladder faster.</en>
+          <zh>导师辅导帮助初级员工更快攀登职业阶梯。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">job-rotation</span>
+        <span class="ipa">/dʒɑːb roʊˈteɪʃən/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">岗位轮换；轮岗；跨岗位轮训</div>
+        <div class="label">词根</div><div>job（岗位）+ rotation（轮转）→ 在不同岗位之间定期轮换</div>
+        <div class="label">词源</div><div>人才发展做法，让员工在部门或职能间轮岗，拓宽技能、培养后备并降低单一岗位依赖</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">人才发展高频：a job-rotation program（岗位轮换计划）；complete a job-rotation（完成一轮轮岗）；benefit from job-rotation（从轮岗中受益）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a job-rotation program（岗位轮换计划）</span><span class="chip">complete a job-rotation（完成一轮轮岗）</span><span class="chip">assign a job-rotation（安排岗位轮换）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/1a3515f037193d47.mp3">The leadership track requires a six-month job-rotation in operations.</en>
+          <zh>领导力培养通道要求在运营部门完成六个月岗位轮换。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">counter-offer</span>
+        <span class="ipa">/ˈkaʊntər ˌɔːfər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">还盘；反要约；挽留加薪报价</div>
+        <div class="label">词根</div><div>counter（反向/对应）+ offer（要约/报价）→ 针对对方报价提出的还价</div>
+        <div class="label">词源</div><div>招聘与谈判用语，候选人拿外部 offer 离职时，现雇主常提出更高薪酬的 counter-offer 试图挽留</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">招聘/谈判高频：make a counter-offer（提出还盘）；reject a counter-offer（拒绝挽留报价）；match the counter-offer（匹配对方还价）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">make a counter-offer（提出还盘）</span><span class="chip">reject a counter-offer（拒绝挽留报价）</span><span class="chip">a last-minute counter-offer（最后一刻的挽留报价）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/d54cf8521ed1b2da.mp3">She declined the counter-offer and joined the new firm in March.</en>
+          <zh>她拒绝了挽留报价，并于三月加入新公司。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">hard-skills</span>
+        <span class="ipa">/hɑːrd skɪlz/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">硬技能；可量化专业技能；技术性能力</div>
+        <div class="label">词根</div><div>hard（硬的/可量化的）+ skills（技能）→ 可测验、可认证的专业能力</div>
+        <div class="label">词源</div><div>与 soft skills（软技能）相对，指编程、财务分析、外语等可通过考试或作品证明的技能</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">招聘高频：demonstrate hard-skills（展示硬技能）；technical hard-skills（技术类硬技能）；assess hard-skills（评估硬技能）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">demonstrate hard-skills（展示硬技能）</span><span class="chip">technical hard-skills（技术类硬技能）</span><span class="chip">test hard-skills（测试硬技能）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/9ee0661e649a48a6.mp3">The posting lists hard-skills such as SQL and financial modeling.</en>
+          <zh>招聘启事列出了 SQL 与财务建模等硬技能要求。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">non-disclosure</span>
+        <span class="ipa">/ˌnɑːn dɪˈskloʊʒər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">保密；不披露；保密义务（常指 NDA）</div>
+        <div class="label">词根</div><div>non-（不）+ disclosure（披露）→ 不得向第三方透露信息</div>
+        <div class="label">词源</div><div>合同法与商业保密用语，常出现在 non-disclosure agreement（保密协议）中，约束双方不得泄露机密</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">法务高频：sign a non-disclosure（签署保密协议）；a mutual non-disclosure（双向保密）；breach of non-disclosure（违反保密义务）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">sign a non-disclosure（签署保密协议）</span><span class="chip">a mutual non-disclosure（双向保密）</span><span class="chip">violate non-disclosure（违反保密义务）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/0a08c01bc4c978fd.mp3">Vendors must sign a non-disclosure before reviewing product roadmaps.</en>
+          <zh>供应商在查阅产品路线图前必须签署保密协议。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">trade-secret</span>
+        <span class="ipa">/treɪd ˈsiːkrət/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">商业秘密；营业秘密；未公开的商业专有信息</div>
+        <div class="label">词根</div><div>trade（商业/行业）+ secret（秘密）→ 对企业有价值且未公开的信息</div>
+        <div class="label">词源</div><div>知识产权法概念，指配方、客户名单、算法等因保密而具有经济价值、且已采取合理保密措施的信息</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">法务/IP 高频：protect a trade-secret（保护商业秘密）；misappropriate a trade-secret（盗用商业秘密）；trade-secret theft（商业秘密盗窃）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">protect a trade-secret（保护商业秘密）</span><span class="chip">misappropriate a trade-secret（盗用商业秘密）</span><span class="chip">disclose a trade-secret（泄露商业秘密）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/c1172174d914c92c.mp3">The formula is treated as a trade-secret under the employment contract.</en>
+          <zh>根据劳动合同，该配方被作为商业秘密加以保护。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">conflict-check</span>
+        <span class="ipa">/ˈkɑːnflɪkt tʃek/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">利益冲突审查；利益冲突检索；接案前冲突核查</div>
+        <div class="label">词根</div><div>conflict（冲突）+ check（核查）→ 审查是否存在利益冲突</div>
+        <div class="label">词源</div><div>律师事务所与专业服务接案前的标准流程，检索现有客户与对方当事人，避免利益冲突违规</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">律所/专业服务高频：run a conflict-check（做利益冲突审查）；clear the conflict-check（通过冲突审查）；fail a conflict-check（未通过冲突审查）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">run a conflict-check（做利益冲突审查）</span><span class="chip">clear the conflict-check（通过冲突审查）</span><span class="chip">a thorough conflict-check（全面的冲突审查）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/3d92fc27e7faa6b7.mp3">We cannot open the matter until the conflict-check comes back clear.</en>
+          <zh>在利益冲突审查结果为通过之前，我们不能立案。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">matter-number</span>
+        <span class="ipa">/ˈmætər ˈnʌmbər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">案件编号；事项编号；律所内部案号</div>
+        <div class="label">词根</div><div>matter（案件/委托事项）+ number（编号）→ 标识单一委托事项的内部编号</div>
+        <div class="label">词源</div><div>律师与专业服务计费系统用语，每个客户委托事项分配唯一 matter-number，用于工时、费用与文件归集</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">律所计费高频：assign a matter-number（分配案件编号）；bill to the matter-number（记入该案号）；open a matter-number（新开案号）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">assign a matter-number（分配案件编号）</span><span class="chip">bill to the matter-number（记入该案号）</span><span class="chip">open a matter-number（新开案号）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/8ffbfe84700d2a56.mp3">Please charge all research time to the correct matter-number.</en>
+          <zh>请将所有调研工时记入正确的案件编号。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">billable-hour</span>
+        <span class="ipa">/ˈbɪləbəl aʊər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">可计费小时；可向客户计费的工时；计费工时</div>
+        <div class="label">词根</div><div>billable（可开单计费的）+ hour（小时）→ 可向客户收取费用的工作时间</div>
+        <div class="label">词源</div><div>专业服务计费基础单位，律师、顾问把可向客户收费的时间记为 billable-hour，与非计费行政时间相对</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">专业服务高频：log billable-hour（登记可计费小时）；increase billable-hour（提高计费工时）；a target for billable-hour（计费工时目标）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">log billable-hour（登记可计费小时）</span><span class="chip">track billable-hour（跟踪计费工时）</span><span class="chip">meet the billable-hour target（完成计费工时目标）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/7a967f7dc8a380f1.mp3">Associates must record every billable-hour before leaving for the day.</en>
+          <zh>律师助理下班前必须登记每一小时可计费工时。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">utilization-rate</span>
+        <span class="ipa">/ˌjuːtələˈzeɪʃən reɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">利用率；工时利用率；人员产能利用率</div>
+        <div class="label">词根</div><div>utilization（利用）+ rate（比率）→ 实际可计费/可用时间占总可用时间的比例</div>
+        <div class="label">词源</div><div>专业服务与运营指标，衡量顾问或产能被有效使用的程度；过高可能过载，过低则产能闲置</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">专业服务高频：raise the utilization-rate（提高利用率）；a low utilization-rate（较低的利用率）；target utilization-rate（目标利用率）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">raise the utilization-rate（提高利用率）</span><span class="chip">a low utilization-rate（较低的利用率）</span><span class="chip">monitor utilization-rate（监控利用率）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/ce1ece396b11182b.mp3">Partner reviews showed the team&#x27;s utilization-rate fell below sixty percent.</en>
+          <zh>合伙人审阅显示团队利用率已降至百分之六十以下。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">realization-rate</span>
+        <span class="ipa">/ˌriːələˈzeɪʃən reɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">实现率；收费实现率；开单金额兑现比例</div>
+        <div class="label">词根</div><div>realization（实现/兑现）+ rate（比率）→ 实际收到/开出金额相对标准费率的比例</div>
+        <div class="label">词源</div><div>律所与咨询公司财务指标，比较按标准费率算出的应收与实际开单或收回金额，反映折扣与坏账影响</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">专业服务财务高频：improve realization-rate（提升实现率）；a poor realization-rate（较差的实现率）；track realization-rate（跟踪实现率）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">improve realization-rate（提升实现率）</span><span class="chip">a poor realization-rate（较差的实现率）</span><span class="chip">calculate realization-rate（计算实现率）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/788f57f11c6c4a19.mp3">Heavy discounting dragged the realization-rate down this quarter.</en>
+          <zh>大幅折扣拖累了本季度的收费实现率。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">lease-renewal</span>
+        <span class="ipa">/liːs rɪˈnuːəl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">租约续期；租赁续约；续租</div>
+        <div class="label">词根</div><div>lease（租约）+ renewal（续期）→ 延长现有租赁期限</div>
+        <div class="label">词源</div><div>商业地产与设施管理用语，租户在租约到期前协商续租条款，常涉及租金调整与装修责任</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">设施/租赁高频：negotiate lease-renewal（协商租约续期）；a lease-renewal option（续租选择权）；decline lease-renewal（拒绝续租）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">negotiate lease-renewal（协商租约续期）</span><span class="chip">a lease-renewal option（续租选择权）</span><span class="chip">sign a lease-renewal（签署续租协议）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/b68a510e3c73cad9.mp3">Facilities started lease-renewal talks six months before the expiry date.</en>
+          <zh>设施部门在到期日六个月前就开始了租约续期谈判。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">security-deposit</span>
+        <span class="ipa">/sɪˈkjʊrəti dɪˈpɑːzɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">押金；保证金；租赁保证金</div>
+        <div class="label">词根</div><div>security（担保/保障）+ deposit（押金）→ 为履约风险预留的担保金</div>
+        <div class="label">词源</div><div>租赁与合同惯例，承租人预付押金，退租时若无欠租或损坏则退还，否则用于抵扣损失</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">租赁高频：pay a security-deposit（支付押金）；refund the security-deposit（退还押金）；hold the security-deposit（扣留押金）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">pay a security-deposit（支付押金）</span><span class="chip">refund the security-deposit（退还押金）</span><span class="chip">forfeit the security-deposit（没收押金）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/1482a1c2121825c8.mp3">The landlord will refund the security-deposit after the final walk-through.</en>
+          <zh>房东将在最终交房检查后退还押金。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">common-area</span>
+        <span class="ipa">/ˈkɑːmən ˈeriə/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">公共区域；共用空间；楼宇公共部位</div>
+        <div class="label">词根</div><div>common（共同的）+ area（区域）→ 多租户共享使用的空间</div>
+        <div class="label">词源</div><div>商业地产用语，指大堂、走廊、电梯、洗手间等非专属某一租户的区域，其维护费常计入服务费</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">设施/租赁高频：maintain the common-area（维护公共区域）；common-area charges（公共区域费用）；access to the common-area（使用公共区域）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">maintain the common-area（维护公共区域）</span><span class="chip">common-area charges（公共区域费用）</span><span class="chip">upgrade the common-area（升级公共区域）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/d3c0d08b35a458fd.mp3">Lobby renovations will close the main common-area for two weeks.</en>
+          <zh>大堂翻新将使主要公共区域关闭两周。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">service-charge</span>
+        <span class="ipa">/ˈsɜːrvɪs tʃɑːrdʒ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">服务费；物业管理费；附加服务收费</div>
+        <div class="label">词根</div><div>service（服务）+ charge（收费）→ 对提供服务另行收取的费用</div>
+        <div class="label">词源</div><div>商业地产中常指租户外摊的楼宇运营与公共区域维护费；餐饮等场景也可指服务附加费</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">租赁/财务高频：pay the service-charge（支付服务费）；a monthly service-charge（按月服务费）；dispute the service-charge（对服务费提出异议）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">pay the service-charge（支付服务费）</span><span class="chip">a monthly service-charge（按月服务费）</span><span class="chip">review the service-charge（审阅服务费）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/fe9eb59849b896c2.mp3">The new lease separates base rent from the building service-charge.</en>
+          <zh>新租约将基本租金与楼宇服务费分开列出。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">fare-class</span>
+        <span class="ipa">/fer klæs/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">票价舱位等级；运价等级；机票舱位代码</div>
+        <div class="label">词根</div><div>fare（票价）+ class（等级）→ 航空公司划分的票价与舱位等级</div>
+        <div class="label">词源</div><div>航空收益管理用语，用字母代码（如 Y、B、Q）区分票价规则、改签限制与里程累积，同一物理舱位可有多种 fare-class</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅高频：book a lower fare-class（预订较低票价舱位）；upgrade the fare-class（提升舱位等级）；fare-class restrictions（票价舱位限制）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">book a lower fare-class（预订较低票价舱位）</span><span class="chip">upgrade the fare-class（提升舱位等级）</span><span class="chip">fare-class restrictions（票价舱位限制）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/f1ff4564033605c9.mp3">The refundable ticket sits in a more expensive fare-class.</en>
+          <zh>可退改机票对应的是更贵的票价舱位等级。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">seat-assignment</span>
+        <span class="ipa">/siːt əˈsaɪnmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">座位分配；选座；指定座位</div>
+        <div class="label">词根</div><div>seat（座位）+ assignment（分配）→ 为旅客指定具体座位</div>
+        <div class="label">词源</div><div>航空与差旅运营用语，值机或购票时分配或预选座位；部分廉价票价不含免费 seat-assignment</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅高频：request a seat-assignment（申请座位分配）；advance seat-assignment（提前选座）；change the seat-assignment（更改座位）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">request a seat-assignment（申请座位分配）</span><span class="chip">advance seat-assignment（提前选座）</span><span class="chip">change the seat-assignment（更改座位）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/87d8872e0542e917.mp3">Economy Light fares do not include free seat-assignment.</en>
+          <zh>轻量经济舱票价不含免费选座。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">baggage-allowance</span>
+        <span class="ipa">/ˈbæɡɪdʒ əˈlaʊəns/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">行李额度；免费行李限额；托运行李额度</div>
+        <div class="label">词根</div><div>baggage（行李）+ allowance（限额/津贴）→ 允许免费携带或托运的行李量</div>
+        <div class="label">词源</div><div>航空运输规则，按件数或重量规定免费行李额，超出部分收取超重/超件费，商务舱通常额度更高</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅高频：exceed the baggage-allowance（超出行李额度）；check the baggage-allowance（核对行李额度）；a higher baggage-allowance（更高的行李额度）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">exceed the baggage-allowance（超出行李额度）</span><span class="chip">check the baggage-allowance（核对行李额度）</span><span class="chip">a higher baggage-allowance（更高的行李额度）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/4c3d805efb92e42a.mp3">Business class includes a higher baggage-allowance than economy.</en>
+          <zh>商务舱的行李额度高于经济舱。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">travel-advisory</span>
+        <span class="ipa">/ˈtrævəl ədˈvaɪzəri/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">旅行警示；出行建议；差旅安全通告</div>
+        <div class="label">词根</div><div>travel（旅行）+ advisory（咨询/警示）→ 关于出行风险的官方或公司提示</div>
+        <div class="label">词源</div><div>政府外交部门或公司差旅安全发布的风险等级与建议，企业差旅政策常据此限制或批准赴某地出差</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅安全高频：issue a travel-advisory（发布旅行警示）；follow the travel-advisory（遵守旅行警示）；a Level 3 travel-advisory（三级旅行警示）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">issue a travel-advisory（发布旅行警示）</span><span class="chip">follow the travel-advisory（遵守旅行警示）</span><span class="chip">lift a travel-advisory（解除旅行警示）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/d0efc8944bf87fc8.mp3">Security blocked bookings after the government raised its travel-advisory.</en>
+          <zh>政府上调旅行警示后，安保部门暂停了相关预订。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">capacity-planning</span>
+        <span class="ipa">/kəˈpæsəti ˈplænɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">产能规划；容量规划；资源承载规划</div>
+        <div class="label">词根</div><div>capacity（产能/容量）+ planning（规划）→ 预估并匹配未来所需产能</div>
+        <div class="label">词源</div><div>运营与 IT 用语，根据需求预测安排人力、机房、产线或云资源，避免过载或闲置</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">运营/IT 高频：do capacity-planning（做产能规划）；long-term capacity-planning（长期产能规划）；revise capacity-planning（修订产能规划）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">do capacity-planning（做产能规划）</span><span class="chip">long-term capacity-planning（长期产能规划）</span><span class="chip">revise capacity-planning（修订产能规划）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/700f40f8a9adff71.mp3">IT began capacity-planning for the holiday traffic surge.</en>
+          <zh>IT 已开始针对假日流量高峰做容量规划。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">headcount-planning</span>
+        <span class="ipa">/ˈhedkaʊnt ˈplænɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">编制规划；人员编制计划；人头预算规划</div>
+        <div class="label">词根</div><div>headcount（编制人数）+ planning（规划）→ 规划未来需要多少岗位与人员</div>
+        <div class="label">词源</div><div>人力资源与财务预算流程，按业务增长、离职与项目需求确定招聘名额与人力成本</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/财务高频：approve headcount-planning（批准编制规划）；annual headcount-planning（年度编制规划）；freeze headcount-planning（冻结编制规划）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">approve headcount-planning（批准编制规划）</span><span class="chip">annual headcount-planning（年度编制规划）</span><span class="chip">adjust headcount-planning（调整编制规划）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/e11032033abb2e8a.mp3">Finance locked next year&#x27;s headcount-planning after the budget review.</en>
+          <zh>财务在预算审阅后锁定了明年的编制规划。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">gross-margin</span>
+        <span class="ipa">/ɡroʊs ˈmɑːrdʒən/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">毛利率；毛利；销售毛利</div>
+        <div class="label">词根</div><div>gross（总的/毛的）+ margin（利润边际）→ 收入减去直接成本后的毛利（率）</div>
+        <div class="label">词源</div><div>财务分析核心指标，反映产品或业务在覆盖销售成本后的盈利空间，常用于定价与产品组合决策</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：improve gross-margin（提升毛利率）；a declining gross-margin（下滑的毛利率）；gross-margin pressure（毛利率压力）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">improve gross-margin（提升毛利率）</span><span class="chip">a declining gross-margin（下滑的毛利率）</span><span class="chip">protect gross-margin（保护毛利率）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/3ff5e939a64b2dde.mp3">Rising freight costs squeezed the product&#x27;s gross-margin last quarter.</en>
+          <zh>运费上涨压缩了上季度该产品的毛利率。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">volume-discount</span>
+        <span class="ipa">/ˈvɑːljuːm ˈdɪskaʊnt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">数量折扣；批量折扣；量大优惠</div>
+        <div class="label">词根</div><div>volume（数量/批量）+ discount（折扣）→ 因采购量大而给予的降价</div>
+        <div class="label">词源</div><div>采购与销售定价策略，鼓励大单或累计采购，阶梯式降低单价以换取规模与客户锁定</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">采购/销售高频：offer a volume-discount（提供数量折扣）；qualify for a volume-discount（达到数量折扣门槛）；negotiate a volume-discount（协商数量折扣）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">offer a volume-discount（提供数量折扣）</span><span class="chip">qualify for a volume-discount（达到数量折扣门槛）</span><span class="chip">negotiate a volume-discount（协商数量折扣）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/3fa38af7050c17af.mp3">Ordering above five thousand units unlocks a ten percent volume-discount.</en>
+          <zh>订购超过五千件可解锁百分之十的数量折扣。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">payment-terms</span>
+        <span class="ipa">/ˈpeɪmənt tɜːrmz/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">付款条件；账期条款；支付条款</div>
+        <div class="label">词根</div><div>payment（付款）+ terms（条款）→ 约定何时、如何付款的合同条件</div>
+        <div class="label">词源</div><div>商务合同标准条款，如 net 30、预付、分期等，直接影响现金流与坏账风险</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/采购高频：negotiate payment-terms（协商付款条件）；extend payment-terms（延长账期）；standard payment-terms（标准付款条件）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">negotiate payment-terms（协商付款条件）</span><span class="chip">extend payment-terms（延长账期）</span><span class="chip">standard payment-terms（标准付款条件）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/136f43c92974ab54.mp3">The supplier agreed to net-45 payment-terms for preferred buyers.</en>
+          <zh>供应商同意向优选买家提供净四十五天付款条件。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">fill-rate</span>
+        <span class="ipa">/fɪl reɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">订单满足率；供货满足率；发货完整率</div>
+        <div class="label">词根</div><div>fill（填满/履约发货）+ rate（比率）→ 按订单完整履约发货的比例</div>
+        <div class="label">词源</div><div>供应链与仓储 KPI，衡量客户订单中按量、按时完整交付的百分比，低 fill-rate 常指向缺货或拣货问题</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">供应链高频：improve the fill-rate（提高订单满足率）；a high fill-rate（较高的满足率）；measure fill-rate（衡量满足率）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">improve the fill-rate（提高订单满足率）</span><span class="chip">a high fill-rate（较高的满足率）</span><span class="chip">track fill-rate（跟踪满足率）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/7e6db2a228a5e096.mp3">Warehouse changes lifted the fill-rate above ninety-eight percent.</en>
+          <zh>仓储调整把订单满足率提升到百分之九十八以上。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">root-cause</span>
+        <span class="ipa">/ruːt kɔːz/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">根本原因；根因；问题的深层起因</div>
+        <div class="label">词根</div><div>root（根）+ cause（原因）→ 导致问题的最底层原因，而非表面症状</div>
+        <div class="label">词源</div><div>质量管理与事故分析用语，通过 5 Whys、鱼骨图等找出可纠正的根本原因，避免只治标</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">质量/运营高频：identify the root-cause（识别根本原因）；a root-cause analysis（根因分析）；address the root-cause（解决根本原因）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">identify the root-cause（识别根本原因）</span><span class="chip">a root-cause analysis（根因分析）</span><span class="chip">address the root-cause（解决根本原因）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/d5c5858c66ea9ca6.mp3">The outage review traced the root-cause to a misconfigured firewall rule.</en>
+          <zh>宕机复盘将根本原因追溯到一条错误配置的防火墙规则。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">corrective-action</span>
+        <span class="ipa">/kəˈrektɪv ˈækʃən/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">纠正措施；改正行动；纠偏措施</div>
+        <div class="label">词根</div><div>corrective（纠正的）+ action（行动）→ 消除已发现问题及其原因的措施</div>
+        <div class="label">词源</div><div>质量管理体系（如 ISO）用语，与 preventive action 相对，针对已发生不合格采取纠正并防止复发</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">质量/合规高频：take corrective-action（采取纠正措施）；a corrective-action plan（纠正措施计划）；close corrective-action（关闭纠正措施）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">take corrective-action（采取纠正措施）</span><span class="chip">a corrective-action plan（纠正措施计划）</span><span class="chip">verify corrective-action（验证纠正措施）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/b916ccfdc9455e98.mp3">Audit findings require corrective-action within thirty days.</en>
+          <zh>审计发现要求在三十天内采取纠正措施。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">opportunity-cost</span>
+        <span class="ipa">/ˌɑːpərˈtuːnəti kɔːst/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">机会成本；择一而弃的潜在收益；机会代价</div>
+        <div class="label">词根</div><div>opportunity（机会）+ cost（成本）→ 因选择 A 而放弃 B 所损失的潜在收益</div>
+        <div class="label">词源</div><div>经济学与管理决策概念，强调资源有限时，真实成本不仅是现金支出，还包括次优方案的收益</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/决策高频：consider the opportunity-cost（考虑机会成本）；the opportunity-cost of capital（资本的机会成本）；weigh opportunity-cost（权衡机会成本）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">consider the opportunity-cost（考虑机会成本）</span><span class="chip">the opportunity-cost of capital（资本的机会成本）</span><span class="chip">weigh opportunity-cost（权衡机会成本）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/006609c8d5508472.mp3">Keeping cash idle has a high opportunity-cost when rates are rising.</en>
+          <zh>在利率上升时，闲置现金的机会成本很高。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">sunk-cost</span>
+        <span class="ipa">/sʌŋk kɔːst/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">沉没成本；已发生且不可收回的成本；沉没费用</div>
+        <div class="label">词根</div><div>sunk（已沉没的）+ cost（成本）→ 已经发生、无法收回的支出</div>
+        <div class="label">词源</div><div>决策经济学告诫：理性决策应忽略 sunk-cost，只比较未来增量成本与收益，避免“沉没成本谬误”</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/决策高频：ignore sunk-cost（忽略沉没成本）；a sunk-cost fallacy（沉没成本谬误）；recover sunk-cost（试图收回沉没成本）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">ignore sunk-cost（忽略沉没成本）</span><span class="chip">a sunk-cost fallacy（沉没成本谬误）</span><span class="chip">treat it as sunk-cost（将其视为沉没成本）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/1a11599942f1ec29.mp3">The board warned managers not to chase a project just to justify sunk-cost.</en>
+          <zh>董事会告诫管理者不要仅为证明沉没成本而硬撑项目。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">restocking-fee</span>
+        <span class="ipa">/ˌriːˈstɑːkɪŋ fiː/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">补货/重新入库费；退货整备费；重新上架费</div>
+        <div class="label">词根</div><div>restocking（重新入库/补货上架）+ fee（费用）→ 处理退货重新上架所收的费用</div>
+        <div class="label">词源</div><div>零售与电商退货政策用语，商家对已开封或需检验再售的退货收取一定比例 restocking-fee 以覆盖处理成本</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">客服/零售高频：charge a restocking-fee（收取重新入库费）；waive the restocking-fee（免除重新入库费）；a fifteen-percent restocking-fee（百分之十五的重新入库费）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">charge a restocking-fee（收取重新入库费）</span><span class="chip">waive the restocking-fee（免除重新入库费）</span><span class="chip">a fifteen-percent restocking-fee（百分之十五的重新入库费）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/0184464a59ba9d76.mp3">Opened software boxes incur a fifteen-percent restocking-fee on return.</en>
+          <zh>已开封的软件包装退货将收取百分之十五的重新入库费。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+<script src="../assets/speak.js" defer></script>
+</body>
+</html>
