@@ -1,0 +1,906 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 11/07 ×30</title>
+<style>
+
+
+
+
+
+
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+</style>
+<link rel="stylesheet" href="../assets/speak.css" />
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.11.07</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">parental-leave</span>
+        <span class="ipa">/pəˈrɛntəl liːv/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">育儿假；父母假；产假/陪产假统称</div>
+        <div class="label">词根</div><div>parental（父母的）+ leave（假期）→ 因生育或照护子女而获准的假期</div>
+        <div class="label">词源</div><div>人力资源与劳动法用语，涵盖 maternity / paternity / adoption leave，政策邮件与员工手册中常统一写作 parental-leave</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：take parental-leave（休育儿假）；apply for parental-leave（申请育儿假）；paid parental-leave（带薪育儿假）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">take parental-leave（休育儿假）</span><span class="chip">apply for parental-leave（申请育儿假）</span><span class="chip">paid parental-leave（带薪育儿假）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/1405b83031867df2.mp3">She will take twelve weeks of parental-leave starting in April.</en>
+          <zh>她将从四月起休十二周育儿假。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">bereavement-leave</span>
+        <span class="ipa">/bɪˈriːvmənt liːv/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">丧假；奔丧假；直系亲属丧亡假期</div>
+        <div class="label">词根</div><div>bereavement（丧亲）+ leave（假期）→ 因亲人去世获准的短期假期</div>
+        <div class="label">词源</div><div>员工福利政策用语，手册中规定直系亲属去世可申请若干天 bereavement-leave，托业邮件题常见于请假通知</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：request bereavement-leave（申请丧假）；approve bereavement-leave（批准丧假）；three days of bereavement-leave（三天丧假）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">request bereavement-leave（申请丧假）</span><span class="chip">approve bereavement-leave（批准丧假）</span><span class="chip">three days of bereavement-leave（三天丧假）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/36e1cfeae74390d1.mp3">HR approved three days of bereavement-leave after his father&#x27;s passing.</en>
+          <zh>父亲去世后，人力资源部批准了他三天丧假。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">relocation-package</span>
+        <span class="ipa">/ˌriːloʊˈkeɪʃən ˈpækɪdʒ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">搬迁一揽子福利；异地调动补贴方案；安家包</div>
+        <div class="label">词根</div><div>relocation（搬迁/调动）+ package（一揽子方案）→ 公司为异地赴任提供的综合补贴</div>
+        <div class="label">词源</div><div>招聘与外派谈判用语，常含搬家费、临时住房、子女入学与签证支持，offer letter 中写作 relocation-package</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">招聘高频：offer a relocation-package（提供搬迁福利包）；negotiate the relocation-package（协商搬迁方案）；a generous relocation-package（丰厚的搬迁一揽子福利）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">offer a relocation-package（提供搬迁福利包）</span><span class="chip">negotiate the relocation-package（协商搬迁方案）</span><span class="chip">a generous relocation-package（丰厚的搬迁一揽子福利）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/51c04068114d6542.mp3">The offer includes a relocation-package covering moving costs and two months of housing.</en>
+          <zh>该录用通知包含涵盖搬家费与两个月住房的搬迁一揽子福利。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">signing-bonus</span>
+        <span class="ipa">/ˈsaɪnɪŋ ˈboʊnəs/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">签约奖金；入职奖金；签字奖</div>
+        <div class="label">词根</div><div>signing（签约）+ bonus（奖金）→ 签下 offer 时一次性发放的奖金</div>
+        <div class="label">词源</div><div>人才竞争激烈时招聘方用一次性现金吸引候选人，合同条款常写 clawback if leave early；托业 HR 邮件与合同条款常见</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">招聘高频：receive a signing-bonus（拿到签约奖金）；a one-time signing-bonus（一次性签约奖金）；repay the signing-bonus（退还签约奖金）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">receive a signing-bonus（拿到签约奖金）</span><span class="chip">a one-time signing-bonus（一次性签约奖金）</span><span class="chip">repay the signing-bonus（退还签约奖金）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/bbcd131bebad4244.mp3">Engineers who join before June receive a five-thousand-dollar signing-bonus.</en>
+          <zh>六月前入职的工程师可获得五千美元签约奖金。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">equity-grant</span>
+        <span class="ipa">/ˈɛkwɪti ɡrænt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">股权授予；权益激励授予；股票/期权授予份额</div>
+        <div class="label">词根</div><div>equity（股权/权益）+ grant（授予）→ 公司向员工授予的股份或期权额度</div>
+        <div class="label">词源</div><div>科技与创业公司薪酬结构用语，常与 vesting schedule、cliff 一并出现在 offer 与董事会决议中</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">薪酬高频：approve an equity-grant（批准股权授予）；a restricted-stock equity-grant（限制性股票股权授予）；vest an equity-grant（股权授予开始归属）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">approve an equity-grant（批准股权授予）</span><span class="chip">a new-hire equity-grant（新员工股权授予）</span><span class="chip">vest an equity-grant（股权授予开始归属）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/ae7b8a5b1e6131ca.mp3">The board approved a refresh equity-grant for the product leadership team.</en>
+          <zh>董事会批准了面向产品领导团队的补充股权授予。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">talent-review</span>
+        <span class="ipa">/ˈtælənt rɪˈvjuː/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">人才盘点；人才评审会；高潜评估会议</div>
+        <div class="label">词根</div><div>talent（人才）+ review（评审/盘点）→ 对关键能力与潜力进行系统性评估</div>
+        <div class="label">词源</div><div>组织发展年度流程，管理层对照绩效与潜力矩阵讨论晋升、轮岗与继任；常与 nine-box、calibration 联用</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">人才发展高频：hold a talent-review（召开人才盘点）；annual talent-review（年度人才盘点）；prepare for the talent-review（为人才盘点做准备）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">hold a talent-review（召开人才盘点）</span><span class="chip">annual talent-review（年度人才盘点）</span><span class="chip">prepare for the talent-review（为人才盘点做准备）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/c846acd5e5a8de28.mp3">Managers must submit ratings before next week&#x27;s talent-review.</en>
+          <zh>经理们须在下周人才盘点前提交评级。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">calibration-meeting</span>
+        <span class="ipa">/ˌkæləˈbreɪʃən ˈmiːtɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">校准会议；绩效评级对齐会；评分一致性会议</div>
+        <div class="label">词根</div><div>calibration（校准）+ meeting（会议）→ 统一各部门评分尺度的会议</div>
+        <div class="label">词源</div><div>绩效管理实务，防止经理打分过松或过严；在正式绩效结果发布前召开 calibration-meeting 对齐标准</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">绩效高频：attend a calibration-meeting（参加校准会议）；run a calibration-meeting（主持校准会议）；ratings after the calibration-meeting（校准会议后的评级）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">attend a calibration-meeting（参加校准会议）</span><span class="chip">run a calibration-meeting（主持校准会议）</span><span class="chip">finalize ratings in the calibration-meeting（在校准会议中敲定评级）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/bcb6f0aa5ed2005e.mp3">All department heads joined the calibration-meeting to align performance ratings.</en>
+          <zh>各部门负责人参加了校准会议，以统一绩效评级。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">nine-box</span>
+        <span class="ipa">/naɪn bɑːks/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">九宫格（人才矩阵）；绩效-潜力九格图</div>
+        <div class="label">词根</div><div>nine（九）+ box（格子）→ 3×3 绩效与潜力交叉矩阵</div>
+        <div class="label">词源</div><div>GE 等公司推广的人才盘点工具，横轴绩效、纵轴潜力，把员工落入九格以决定培养与继任动作</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">人才盘点高频：plot on the nine-box（标入九宫格）；a nine-box grid（九宫格矩阵）；move across the nine-box（在九宫格中移动位置）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">plot on the nine-box（标入九宫格）</span><span class="chip">a nine-box grid（九宫格矩阵）</span><span class="chip">discuss the nine-box（讨论九宫格结果）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/d97ae1646c069d50.mp3">High performers with growth potential sit in the upper-right of the nine-box.</en>
+          <zh>高绩效且有成长潜力的员工落在九宫格的右上角。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">net-zero</span>
+        <span class="ipa">/nɛt ˈzɪroʊ/</span>
+        <span class="pos">adj./n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">净零（排放）；净零目标；碳中和路径目标</div>
+        <div class="label">词根</div><div>net（净的）+ zero（零）→ 排放与清除相抵后净值为零</div>
+        <div class="label">词源</div><div>气候与 ESG 报告用语，企业承诺某年前达到 net-zero greenhouse-gas emissions，托业公告与年报摘要常见</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">ESG 高频：reach net-zero（实现净零）；a net-zero target（净零目标）；net-zero by 2050（2050 年净零）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reach net-zero（实现净零）</span><span class="chip">a net-zero target（净零目标）</span><span class="chip">net-zero by 2050（2050 年净零）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/abc05132ce78fbfd.mp3">The board committed the company to net-zero operations by 2040.</en>
+          <zh>董事会承诺公司在 2040 年前实现净零运营。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">carbon-footprint</span>
+        <span class="ipa">/ˈkɑːrbən ˈfʊtˌprɪnt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">碳足迹；碳排放量；温室气体排放足迹</div>
+        <div class="label">词根</div><div>carbon（碳）+ footprint（足迹）→ 活动或产品所造成的碳排放总量比喻</div>
+        <div class="label">词源</div><div>环境管理用语，衡量个人、产品或企业供应链的温室气体排放；采购与差旅政策常要求 reduce carbon-footprint</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">ESG 高频：reduce the carbon-footprint（降低碳足迹）；measure the carbon-footprint（测算碳足迹）；supply-chain carbon-footprint（供应链碳足迹）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reduce the carbon-footprint（降低碳足迹）</span><span class="chip">measure the carbon-footprint（测算碳足迹）</span><span class="chip">a lower carbon-footprint（更低的碳足迹）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/114fbceb2300598a.mp3">Switching to rail freight will cut our shipping carbon-footprint this year.</en>
+          <zh>改用铁路货运将降低我们今年运输的碳足迹。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">sustainability-report</span>
+        <span class="ipa">/səˌsteɪnəˈbɪləti rɪˈpɔːrt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">可持续发展报告；ESG 报告；永续报告</div>
+        <div class="label">词根</div><div>sustainability（可持续性）+ report（报告）→ 披露环境、社会与治理表现的年度报告</div>
+        <div class="label">词源</div><div>上市公司与大型企业面向投资者与监管披露 ESG 数据的正式文件，托业阅读常见于新闻稿与股东信</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">ESG 高频：publish a sustainability-report（发布可持续发展报告）；the annual sustainability-report（年度可持续发展报告）；disclose in the sustainability-report（在可持续发展报告中披露）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">publish a sustainability-report（发布可持续发展报告）</span><span class="chip">the annual sustainability-report（年度可持续发展报告）</span><span class="chip">download the sustainability-report（下载可持续发展报告）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/f2fceceeabff0571.mp3">Investors asked for clearer Scope 3 data in the next sustainability-report.</en>
+          <zh>投资者要求下一份可持续发展报告提供更清晰的范围三数据。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">green-procurement</span>
+        <span class="ipa">/ɡriːn prəˈkjʊrmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">绿色采购；环保采购；可持续采购政策</div>
+        <div class="label">词根</div><div>green（绿色/环保）+ procurement（采购）→ 优先购买低环境影响产品与服务的采购做法</div>
+        <div class="label">词源</div><div>公共部门与大型企业采购政策，要求供应商符合环保标准；RFP 与供应商守则中常出现 green-procurement criteria</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">采购高频：adopt green-procurement（采用绿色采购）；green-procurement guidelines（绿色采购指南）；prefer green-procurement vendors（优先选择绿色采购供应商）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">adopt green-procurement（采用绿色采购）</span><span class="chip">green-procurement guidelines（绿色采购指南）</span><span class="chip">a green-procurement policy（绿色采购政策）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/ece4b89913c9d548.mp3">Under green-procurement rules, recycled paper is the default office supply.</en>
+          <zh>按绿色采购规定，再生纸为默认办公用品。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">vendor-scorecard</span>
+        <span class="ipa">/ˈvɛndər ˈskɔːrkɑːrd/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">供应商记分卡；供应商绩效评分表</div>
+        <div class="label">词根</div><div>vendor（供应商）+ scorecard（记分卡）→ 按质量、交期、成本等维度给供应商打分的工具</div>
+        <div class="label">词源</div><div>供应链与采购管理实务，季度评审用 vendor-scorecard 决定续约、份额调整或淘汰；托业商务信函常见</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">采购高频：update the vendor-scorecard（更新供应商记分卡）；a quarterly vendor-scorecard（季度供应商记分卡）；score below the vendor-scorecard threshold（低于供应商记分卡门槛）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">update the vendor-scorecard（更新供应商记分卡）</span><span class="chip">a quarterly vendor-scorecard（季度供应商记分卡）</span><span class="chip">review the vendor-scorecard（审阅供应商记分卡）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/8e040531f665c8fe.mp3">Two suppliers fell below the quality line on this quarter&#x27;s vendor-scorecard.</en>
+          <zh>两家供应商在本季度供应商记分卡上的质量分低于标准线。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">key-account</span>
+        <span class="ipa">/kiː əˈkaʊnt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">关键客户；重点客户；大客户账户</div>
+        <div class="label">词根</div><div>key（关键的）+ account（客户账户）→ 对公司营收或战略特别重要的客户</div>
+        <div class="label">词源</div><div>B2B 销售组织用语，把高价值客户列为 key-account 并配备专属客户经理与定制服务级别</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">销售高频：manage a key-account（管理关键客户）；key-account strategy（关键客户策略）；win a key-account（拿下关键客户）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">manage a key-account（管理关键客户）</span><span class="chip">a strategic key-account（战略性关键客户）</span><span class="chip">key-account visit（关键客户拜访）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/1a2261868941af44.mp3">Our top ten key-account clients generate nearly half of annual revenue.</en>
+          <zh>前十大关键客户贡献了近一半的年收入。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">account-manager</span>
+        <span class="ipa">/əˈkaʊnt ˈmænɪdʒər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">客户经理；客户成功/客户关系经理；客户负责人</div>
+        <div class="label">词根</div><div>account（客户账户）+ manager（经理）→ 负责维护与发展指定客户关系的岗位</div>
+        <div class="label">词源</div><div>销售与客户成功体系中的一线角色，负责续约、增购与问题解决；招聘启事与组织架构图高频出现</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">销售高频：assign an account-manager（指派客户经理）；speak with your account-manager（联系你的客户经理）；a dedicated account-manager（专属客户经理）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">assign an account-manager（指派客户经理）</span><span class="chip">a dedicated account-manager（专属客户经理）</span><span class="chip">contact your account-manager（联系你的客户经理）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/eb3f3a67273b5920.mp3">Please escalate billing questions to your assigned account-manager.</en>
+          <zh>账单问题请上报给你指定的客户经理。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">price-list</span>
+        <span class="ipa">/praɪs lɪst/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">价目表；价格清单；报价目录</div>
+        <div class="label">词根</div><div>price（价格）+ list（清单）→ 列明产品或服务标准售价的表单</div>
+        <div class="label">词源</div><div>销售与采购往来基础文件，经销商、门店与 B2B 报价常附最新 price-list；托业 Part 7 价目表/通知题常见</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">销售高频：update the price-list（更新价目表）；the current price-list（现行价目表）；attach a price-list（附上价目表）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">update the price-list（更新价目表）</span><span class="chip">the current price-list（现行价目表）</span><span class="chip">publish a new price-list（发布新价目表）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/e52d676019741358.mp3">Effective Monday, please quote from the revised price-list only.</en>
+          <zh>自周一生效，请仅按修订后的价目表报价。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">markdown</span>
+        <span class="ipa">/ˈmɑːrkdaʊn/</span>
+        <span class="pos">n./v.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">降价；减价幅度；标低售价</div>
+        <div class="label">词根</div><div>mark（标价）+ down（向下）→ 把标价调低以促销或清仓</div>
+        <div class="label">词源</div><div>零售运营用语，季末或滞销商品通过 markdown 加快周转；财务上影响毛利率，托业商店通知与财报摘要常见</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">零售高频：take a markdown（实施降价）；a deep markdown（大幅降价）；clearance markdown（清仓降价）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">take a markdown（实施降价）</span><span class="chip">a deep markdown（大幅降价）</span><span class="chip">seasonal markdown（季节性降价）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/4497b501c12f435c.mp3">The buyer authorized a twenty-percent markdown on last season&#x27;s inventory.</en>
+          <zh>采购批准对上季库存实施百分之二十的降价。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">inbound-logistics</span>
+        <span class="ipa">/ˈɪnbaʊnd ləˈdʒɪstɪks/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">入库物流；入向物流；原材料/进货物流</div>
+        <div class="label">词根</div><div>inbound（入向的）+ logistics（物流）→ 把物料从供应商运入本企业的物流环节</div>
+        <div class="label">词源</div><div>供应链价值链用语（Porter），与 outbound-logistics 相对，涵盖收货、质检入库与原料仓储</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">供应链高频：improve inbound-logistics（改善入库物流）；inbound-logistics costs（入库物流成本）；coordinate inbound-logistics（协调入库物流）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">improve inbound-logistics（改善入库物流）</span><span class="chip">inbound-logistics costs（入库物流成本）</span><span class="chip">inbound-logistics delays（入库物流延误）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/abc060803427c15e.mp3">Customs holds have slowed inbound-logistics for electronic components.</en>
+          <zh>海关扣留拖慢了电子元件的入库物流。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">outbound-logistics</span>
+        <span class="ipa">/ˈaʊtbaʊnd ləˈdʒɪstɪks/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">出库物流；出向物流；成品配送物流</div>
+        <div class="label">词根</div><div>outbound（出向的）+ logistics（物流）→ 把产成品从企业送达客户的物流环节</div>
+        <div class="label">词源</div><div>供应链价值链用语，含仓储拣配、运输与最后配送；电商与制造企业 KPI 常跟踪 outbound-logistics 准时率</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">供应链高频：optimize outbound-logistics（优化出库物流）；outbound-logistics network（出库物流网络）；manage outbound-logistics（管理出库物流）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">optimize outbound-logistics（优化出库物流）</span><span class="chip">outbound-logistics network（出库物流网络）</span><span class="chip">outbound-logistics performance（出库物流表现）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/9ce84f03a961be71.mp3">Peak season stretched outbound-logistics capacity at every regional hub.</en>
+          <zh>旺季让每个区域枢纽的出库物流运力都吃紧。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">reverse-logistics</span>
+        <span class="ipa">/rɪˈvɜːrs ləˈdʒɪstɪks/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">逆向物流；退货回流物流；回收物流</div>
+        <div class="label">词根</div><div>reverse（逆向的）+ logistics（物流）→ 商品从客户端回流到企业的物流过程</div>
+        <div class="label">词源</div><div>电商与售后体系核心能力，处理退货、维修、再制造与环保回收；政策页常写 reverse-logistics process</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">供应链/客服高频：handle reverse-logistics（处理逆向物流）；a reverse-logistics program（逆向物流计划）；reduce reverse-logistics costs（降低逆向物流成本）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">handle reverse-logistics（处理逆向物流）</span><span class="chip">a reverse-logistics program（逆向物流计划）</span><span class="chip">reverse-logistics costs（逆向物流成本）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/04ef16f419c0ec0e.mp3">The warehouse added a dedicated bay for reverse-logistics returns.</en>
+          <zh>仓库增设了专用于逆向物流退货的装卸区。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">change-management</span>
+        <span class="ipa">/tʃeɪndʒ ˈmænɪdʒmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">变革管理；组织变更管理；转型落地管理</div>
+        <div class="label">词根</div><div>change（变革）+ management（管理）→ 系统推动人员、流程与系统适应变化的管理方法</div>
+        <div class="label">词源</div><div>组织发展与咨询行业术语，ERP 上线、重组与文化转型项目都会设立 change-management workstream</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">运营/项目高频：lead change-management（主导变革管理）；a change-management plan（变革管理计划）；change-management training（变革管理培训）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">lead change-management（主导变革管理）</span><span class="chip">a change-management plan（变革管理计划）</span><span class="chip">change-management communication（变革管理沟通）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/31f3c1996f497d2a.mp3">The ERP rollout failed without strong change-management for frontline staff.</en>
+          <zh>若缺少面向一线员工的有力变革管理，ERP 上线就会失败。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">process-mapping</span>
+        <span class="ipa">/ˈprɑːsɛs ˈmæpɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">流程梳理/流程图绘制；流程地图绘制</div>
+        <div class="label">词根</div><div>process（流程）+ mapping（绘图/映射）→ 把现行业务流程可视化成流程图</div>
+        <div class="label">词源</div><div>精益与运营改进起步步骤，用 swimlane 或 SIPOC 做 process-mapping 以发现浪费与瓶颈</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">运营高频：complete process-mapping（完成流程梳理）；process-mapping workshop（流程梳理工作坊）；start with process-mapping（从流程梳理开始）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">complete process-mapping（完成流程梳理）</span><span class="chip">a process-mapping workshop（流程梳理工作坊）</span><span class="chip">process-mapping exercise（流程梳理练习/作业）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/86c43caf9e8ba7e0.mp3">The lean team finished process-mapping for order-to-cash last Friday.</en>
+          <zh>精益团队上周五完成了订单到收款的流程梳理。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">expense-cap</span>
+        <span class="ipa">/ɪkˈspɛns kæp/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">费用上限；开支封顶额；报销额度上限</div>
+        <div class="label">词根</div><div>expense（费用）+ cap（上限）→ 对某类开支设定的最高金额</div>
+        <div class="label">词源</div><div>差旅与费用政策用语，如单次餐费、酒店房价设 expense-cap；超限需额外审批，托业政策通知常见</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/差旅高频：set an expense-cap（设定费用上限）；exceed the expense-cap（超出费用上限）；raise the expense-cap（提高费用上限）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">set an expense-cap（设定费用上限）</span><span class="chip">exceed the expense-cap（超出费用上限）</span><span class="chip">a daily expense-cap（每日费用上限）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/a17147e1610a2d7c.mp3">Hotel stays above the city expense-cap need director approval.</en>
+          <zh>超过该城市费用上限的酒店住宿需总监批准。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">mileage-reimbursement</span>
+        <span class="ipa">/ˈmaɪlɪdʒ ˌriːɪmˈbɜːrsmənt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">里程报销；按里程补贴；公务用车里程补偿</div>
+        <div class="label">词根</div><div>mileage（里程）+ reimbursement（报销）→ 按公务行驶英里数报销交通成本</div>
+        <div class="label">词源</div><div>差旅政策标准条款，员工用私车办公事后按每英里费率申请 mileage-reimbursement；美国 IRS rate 常被企业参照</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅高频：claim mileage-reimbursement（申请里程报销）；mileage-reimbursement rate（里程报销费率）；submit mileage-reimbursement（提交里程报销）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">claim mileage-reimbursement（申请里程报销）</span><span class="chip">mileage-reimbursement rate（里程报销费率）</span><span class="chip">approve mileage-reimbursement（批准里程报销）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/473aa48da98afd25.mp3">Sales reps should attach map logs when filing mileage-reimbursement.</en>
+          <zh>销售代表申请里程报销时应附上路线记录。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">soft-close</span>
+        <span class="ipa">/sɔːft kloʊz/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">软关账；初步关账；非正式月结截止</div>
+        <div class="label">词根</div><div>soft（软的/初步的）+ close（关账）→ 先做初步结账，仍允许有限调整</div>
+        <div class="label">词源</div><div>财务关账日历用语，soft-close 后业务仍可补少量分录，随后进入 hard-close；共享服务中心排程常用</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：complete the soft-close（完成软关账）；soft-close deadline（软关账截止日期）；after soft-close（软关账之后）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">complete the soft-close（完成软关账）</span><span class="chip">the soft-close deadline（软关账截止日期）</span><span class="chip">move into soft-close（进入软关账）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/dc63533b69e43782.mp3">All expense reports must be in before Friday&#x27;s soft-close.</en>
+          <zh>所有费用报销须在周五软关账前提交。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">hard-close</span>
+        <span class="ipa">/hɑːrd kloʊz/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">硬关账；最终关账；正式月结锁定</div>
+        <div class="label">词根</div><div>hard（硬的/最终的）+ close（关账）→ 账期正式锁定，原则上不再改动</div>
+        <div class="label">词源</div><div>与 soft-close 成对出现的财务术语，hard-close 后总账冻结以出报表；审计与 consolidation 依赖这一时点</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：reach hard-close（完成硬关账）；the hard-close date（硬关账日期）；books after hard-close（硬关账后的账簿）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reach hard-close（完成硬关账）</span><span class="chip">the hard-close date（硬关账日期）</span><span class="chip">lock the books at hard-close（在硬关账时锁定账簿）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/30aedb11909d645d.mp3">No journal entries are accepted after the monthly hard-close.</en>
+          <zh>月度硬关账之后不再接受任何会计分录。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">audit-trail</span>
+        <span class="ipa">/ˈɔːdɪt treɪl/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">审计轨迹；操作留痕；审计跟踪记录</div>
+        <div class="label">词根</div><div>audit（审计）+ trail（痕迹/轨迹）→ 可追溯谁在何时做了何种变更的记录链</div>
+        <div class="label">词源</div><div>内控与信息系统合规要求，ERP、合同与财务系统必须保留完整 audit-trail 供内审与外审抽查</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/合规高频：maintain an audit-trail（维护审计轨迹）；a clear audit-trail（清晰的审计轨迹）；review the audit-trail（审阅审计轨迹）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">maintain an audit-trail（维护审计轨迹）</span><span class="chip">a clear audit-trail（清晰的审计轨迹）</span><span class="chip">leave an audit-trail（留下审计轨迹）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/a4b1db56e8ad1470.mp3">Every price override must leave a complete audit-trail in the system.</en>
+          <zh>每一次价格覆盖都必须在系统中留下完整的审计轨迹。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">connecting-flight</span>
+        <span class="ipa">/kəˈnɛktɪŋ flaɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">转机航班；联程航班；衔接航班</div>
+        <div class="label">词根</div><div>connecting（衔接的）+ flight（航班）→ 在中转机场衔接下一段行程的航班</div>
+        <div class="label">词源</div><div>航空差旅用语，行程单常列 connecting-flight 与最短衔接时间；延误导致 missed connection 时需改签</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅高频：miss a connecting-flight（错过转机航班）；book a connecting-flight（预订转机航班）；a tight connecting-flight（衔接紧张的转机航班）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">miss a connecting-flight（错过转机航班）</span><span class="chip">book a connecting-flight（预订转机航班）</span><span class="chip">a short connecting-flight（短衔接转机航班）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/f1118949cafef6b0.mp3">Please allow at least ninety minutes for the Chicago connecting-flight.</en>
+          <zh>芝加哥的转机航班请至少预留九十分钟衔接时间。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">travel-voucher</span>
+        <span class="ipa">/ˈtrævəl ˈvuːtʃər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">旅行凭证/代金券；航司补偿券；差旅抵用券</div>
+        <div class="label">词根</div><div>travel（旅行）+ voucher（凭证/券）→ 可用于改签或消费的旅行抵用凭证</div>
+        <div class="label">词源</div><div>航空与酒店客服常用补偿形式，航班取消或超售时发放 travel-voucher 代替现金；托业投诉信与客服回复常见</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅高频：issue a travel-voucher（发放旅行代金券）；redeem a travel-voucher（兑换旅行代金券）；a complimentary travel-voucher（赠送的旅行代金券）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">issue a travel-voucher（发放旅行代金券）</span><span class="chip">redeem a travel-voucher（兑换旅行代金券）</span><span class="chip">a hotel travel-voucher（酒店旅行代金券）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/6e74f9ef362b15e5.mp3">Passengers affected by the cancellation received a two-hundred-dollar travel-voucher.</en>
+          <zh>受取消航班影响的旅客获得了二百美元旅行代金券。</zh>
+        </div>
+      </div>
+    </article>
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">steering-committee</span>
+        <span class="ipa">/ˈstɪrɪŋ kəˈmɪti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">指导委员会；督导委员会；项目决策委员会</div>
+        <div class="label">词根</div><div>steering（掌舵/指导）+ committee（委员会）→ 为重大项目把方向、做关键决策的高层委员会</div>
+        <div class="label">词源</div><div>项目管理治理结构，跨部门转型或大型 IT 项目设 steering-committee 审批范围、预算与里程碑；会议纪要高频出现</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/项目高频：chair the steering-committee（主持指导委员会）；report to the steering-committee（向指导委员会汇报）；steering-committee approval（指导委员会批准）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">chair the steering-committee（主持指导委员会）</span><span class="chip">report to the steering-committee（向指导委员会汇报）</span><span class="chip">steering-committee approval（指导委员会批准）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/08f45610489daf5a.mp3">The steering-committee postponed go-live until security testing is complete.</en>
+          <zh>指导委员会将上线推迟到安全测试完成之后。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+<script src="../assets/speak.js" defer></script>
+</body>
+</html>
