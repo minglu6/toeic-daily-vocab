@@ -1,0 +1,593 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#ffffff" />
+<title>TOEIC Part 7 · Double · 2026-11-08</title>
+<style>
+  @page { margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: #cfc9be;
+    color: #000;
+    font-family: "Times New Roman", Times, "Times N R", "Nimbus Roman", "Liberation Serif", "Noto Serif CJK SC", "Songti SC", serif;
+    font-size: 16px;
+    line-height: 1.38;
+  }
+  .sheet {
+    max-width: 860px;
+    margin: 0 auto;
+    background: #fff;
+    min-height: 100vh;
+    padding: 18px 16px calc(36px + env(safe-area-inset-bottom));
+    border-left: 1px solid #aaa;
+    border-right: 1px solid #aaa;
+  }
+  @media (min-width: 900px) {
+    body { padding: 22px 0 36px; }
+    .sheet {
+      min-height: auto;
+      padding: 32px 44px 44px;
+      box-shadow: 0 1px 8px rgba(0,0,0,.16);
+      border: 0;
+    }
+  }
+  .sans, .header, .dir, .doc-label, .q, .stem, .opt, .actions, .btn, .score,
+  .explain h2, .explain .ans, .explain .qzh, .explain .opts-zh, .field {
+    font-family: Arial, Helvetica, "Helvetica Neue", "Nimbus Sans", "Liberation Sans", "PingFang SC", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif;
+  }
+  .header {
+    border-bottom: 2px solid #000;
+    padding-bottom: 8px;
+    margin-bottom: 14px;
+  }
+  .header .part {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+  }
+  .header .meta {
+    font-size: 12px;
+    margin-top: 3px;
+    color: #222;
+  }
+  .dir {
+    font-size: 13px;
+    font-style: italic;
+    font-weight: 400;
+    margin: 0 0 14px;
+  }
+  .doc-label {
+    font-size: 12px;
+    font-weight: 700;
+    margin: 16px 0 6px;
+    letter-spacing: .02em;
+  }
+  .doc-label:first-of-type { margin-top: 0; }
+  .email, .notice, .web, .sched {
+    border: 1px solid #000;
+    padding: 12px 14px 14px;
+    margin-bottom: 10px;
+    background: #fff;
+  }
+  .field {
+    font-size: 13px;
+    line-height: 1.42;
+    margin-bottom: 2px;
+    word-break: break-word;
+  }
+  .field b { font-weight: 700; }
+  .subj {
+    margin-top: 3px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #666;
+    margin-bottom: 10px;
+  }
+  .body {
+    font-family: "Times New Roman", Times, "Liberation Serif", "Noto Serif CJK SC", "Songti SC", serif;
+    font-size: 15.5px;
+    line-height: 1.42;
+  }
+  .body p { margin: 0 0 9px; }
+  .body p:last-child { margin-bottom: 0; }
+  .notice h3, .web h3, .sched h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    line-height: 1.3;
+  }
+  .notice .meta, .web .url {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #222;
+    margin-bottom: 9px;
+  }
+  .web .url {
+    font-family: "Courier New", Courier, "Liberation Mono", monospace;
+    word-break: break-all;
+  }
+  .notice ul, .web ul {
+    padding-left: 1.15em;
+    margin: 0 0 8px;
+    font-family: "Times New Roman", Times, "Liberation Serif", serif;
+    font-size: 15.5px;
+  }
+  .notice li, .web li { margin-bottom: 4px; }
+  table.sched-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+  }
+  table.sched-table th, table.sched-table td {
+    border: 1px solid #000;
+    padding: 6px 7px;
+    text-align: left;
+    vertical-align: top;
+  }
+  table.sched-table th {
+    background: #e6e6e6;
+    font-weight: 700;
+  }
+  .q {
+    margin: 16px 0 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+  }
+  .stem {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    line-height: 1.38;
+  }
+  .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    font-size: 13.5px;
+    font-weight: 400;
+    line-height: 1.42;
+    padding: 4px 2px 4px 1.7em;
+    text-indent: -1.4em;
+    margin-bottom: 1px;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    color: #000;
+    cursor: pointer;
+    -webkit-tap-highlight-color: rgba(0,0,0,.08);
+  }
+  .opt.picked { background: #e8e8e8; }
+  .opt.correct { background: #d9e6d9; }
+  .opt.wrong { background: #efd9d9; }
+  .opt:disabled { cursor: default; opacity: 1; }
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 20px 0 8px;
+  }
+  .btn {
+    font-size: 13px;
+    padding: 9px 14px;
+    border: 1px solid #000;
+    border-radius: 0;
+    background: #fff;
+    color: #000;
+    cursor: pointer;
+  }
+  .btn.primary { background: #000; color: #fff; }
+  .score {
+    font-size: 13px;
+    color: #222;
+    margin-bottom: 8px;
+    min-height: 1.1em;
+  }
+  .explain {
+    display: none;
+    border: 1px solid #000;
+    padding: 14px 12px;
+    margin-top: 8px;
+    background: #f7f7f7;
+  }
+  .explain.show { display: block; }
+  .explain h2 {
+    font-size: 14px;
+    font-weight: 700;
+    margin: 14px 0 7px;
+  }
+  .explain h2:first-child { margin-top: 0; }
+  .explain .zh {
+    font-family: "Times New Roman", Times, "Noto Serif CJK SC", "Songti SC", serif;
+    font-size: 14px;
+    line-height: 1.45;
+    margin-bottom: 8px;
+  }
+  .explain .zh p { margin: 0 0 7px; }
+  .explain .item {
+    margin-bottom: 12px;
+    font-family: "Times New Roman", Times, "Noto Serif CJK SC", "Songti SC", serif;
+    font-size: 14px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #bbb;
+  }
+  .explain .item:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: 0; }
+  .explain .ans {
+    font-size: 13px;
+    font-weight: 700;
+    margin-bottom: 3px;
+  }
+  .explain .qzh {
+    font-size: 12.5px;
+    color: #222;
+    margin-bottom: 5px;
+  }
+  .explain .opts-zh {
+    font-size: 12.5px;
+    line-height: 1.45;
+    margin: 0 0 5px;
+    padding: 7px 8px;
+    background: #ececec;
+    border: 1px solid #bbb;
+  }
+  .timer-bar {
+    font-family: Arial, Helvetica, "Helvetica Neue", sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 8px 14px;
+    border: 1px solid #000;
+    background: #f3f3f3;
+    padding: 8px 10px;
+    margin: 0 0 14px;
+    font-size: 12px;
+    line-height: 1.35;
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    box-shadow: 0 1px 0 #000;
+  }
+  .timer-bar .clock {
+    font-variant-numeric: tabular-nums;
+    font-weight: 700;
+    font-size: 15px;
+    letter-spacing: .02em;
+  }
+  .timer-bar .rec { color: #222; font-size: 11px; flex: 1 1 120px; }
+  .timer-bar .status { color: #222; }
+  .timer-bar.over {
+    background: #f5e8e8;
+    border-color: #000;
+  }
+  .timer-bar.over .status { font-weight: 700; }
+  .timer-bar .btn-timer {
+    margin-left: auto;
+    font-size: 11px;
+    padding: 4px 8px;
+    border: 1px solid #000;
+    background: #fff;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+</style>
+</head>
+<body>
+  <div class="sheet">
+    <div class="header">
+      <div class="part">READING TEST · PART 7</div>
+      <div class="meta">Questions 181–185 · Double passage</div>
+    </div>
+    <div class="timer-bar" id="timerBar" data-rec-sec="225">
+      <span>用时 <span class="clock" id="timerClock">00:00</span></span>
+      <span class="rec">3:45</span>
+      <span class="status" id="timerStatus">计时中</span>
+      <button type="button" class="btn-timer" id="timerPause">暂停</button>
+    </div>
+    <p class="dir">Questions 181–185 refer to the following e-mail and notice.</p>
+
+    <div class="doc-label">Document 1 · E-mail</div>
+    <article class="email">
+      <div class="field"><b>From</b> Daniel Okonkwo &lt;d.okonkwo@northline.com&gt;</div>
+      <div class="field"><b>To</b> claims@meridianaudio.com</div>
+      <div class="field"><b>Date</b> November 8</div>
+      <div class="field subj"><b>Subject</b> Warranty claim — AeroPulse Pro earbuds (Order #MA-44821)</div>
+      <div class="body">
+        <p>Dear Claims Team,</p>
+        <p>I purchased a pair of AeroPulse Pro wireless earbuds from your online store on July 12. About four months later, the right earbud stopped charging and now powers off after only a few minutes of use. I have already tried the troubleshooting steps on your support page, including a factory reset, without success.</p>
+        <p>I would prefer a <strong>replacement</strong> rather than a repair. My order confirmation and a short video of the defect are attached. Please let me know whether I should mail the product to your service center or wait for a prepaid shipping label.</p>
+        <p>I can be reached at this e-mail address or at (555) 214-9083 on weekdays.</p>
+        <p>Sincerely,<br>Daniel Okonkwo<br>Northline Logistics</p>
+      </div>
+    </article>
+
+    <div class="doc-label">Document 2 · Notice</div>
+    <article class="notice">
+      <h3>Meridian Audio — Limited Warranty Policy</h3>
+      <div class="meta">Effective for products purchased on or after January 1 · www.meridianaudio.com/warranty</div>
+      <div class="body">
+        <p><strong>Coverage period</strong></p>
+        <ul>
+          <li>Consumer electronics (including AeroPulse earbuds): 12 months from the original purchase date</li>
+          <li>Proof of purchase required for all claims</li>
+        </ul>
+        <p><strong>What is covered</strong></p>
+        <ul>
+          <li>Manufacturing defects in materials or workmanship under normal use</li>
+          <li>Eligible claims: repair at no charge, or a refurbished or new replacement unit of equal or greater value at Meridian’s discretion</li>
+        </ul>
+        <p><strong>What is not covered</strong></p>
+        <ul>
+          <li>Damage from liquid, impact, unauthorized modification, or commercial rental use</li>
+          <li>Lost or stolen accessories (charging cases, cables)</li>
+        </ul>
+        <p><strong>How to file a claim</strong></p>
+        <ul>
+          <li>E-mail claims@meridianaudio.com with your order number and a description of the problem</li>
+          <li>Do not ship the product until you receive a claim reference number and a prepaid return label</li>
+          <li>Approved replacements are usually shipped within 5–7 business days after Meridian receives the defective unit</li>
+        </ul>
+        <p>Customer Care: (555) 018-7700 · Mon–Fri 9:00 a.m.–6:00 p.m.</p>
+      </div>
+    </article>
+
+    <div class="q" data-q="181" data-ans="C">
+      <div class="stem">181. What is the purpose of the e-mail?</div>
+      <button type="button" class="opt" data-v="A">(A) To request a refund for an unused product</button>
+      <button type="button" class="opt" data-v="B">(B) To ask how to become an authorized retailer</button>
+      <button type="button" class="opt" data-v="C">(C) To report a product defect and request a warranty replacement</button>
+      <button type="button" class="opt" data-v="D">(D) To cancel order #MA-44821 before shipment</button>
+    </div>
+    <div class="q" data-q="182" data-ans="B">
+      <div class="stem">182. According to the notice, how long is the AeroPulse earbuds warranty?</div>
+      <button type="button" class="opt" data-v="A">(A) Four months from the purchase date</button>
+      <button type="button" class="opt" data-v="B">(B) Twelve months from the original purchase date</button>
+      <button type="button" class="opt" data-v="C">(C) Five to seven business days after a claim is filed</button>
+      <button type="button" class="opt" data-v="D">(D) Until January 1 of the following year</button>
+    </div>
+    <div class="q" data-q="183" data-ans="A">
+      <div class="stem">183. The word “replacement” in the e-mail is closest in meaning to</div>
+      <button type="button" class="opt" data-v="A">(A) a substitute product provided in place of the defective one</button>
+      <button type="button" class="opt" data-v="B">(B) a temporary loaner device for travel</button>
+      <button type="button" class="opt" data-v="C">(C) a software update for the earbuds</button>
+      <button type="button" class="opt" data-v="D">(D) a written apology from customer care</button>
+    </div>
+    <div class="q" data-q="184" data-ans="D">
+      <div class="stem">184. What does the notice instruct customers to do before mailing a defective product?</div>
+      <button type="button" class="opt" data-v="A">(A) Call Customer Care every weekday at 9:00 a.m.</button>
+      <button type="button" class="opt" data-v="B">(B) Purchase a new charging case from the online store</button>
+      <button type="button" class="opt" data-v="C">(C) Complete a factory reset and wait 12 months</button>
+      <button type="button" class="opt" data-v="D">(D) Wait for a claim reference number and a prepaid return label</button>
+    </div>
+    <div class="q" data-q="185" data-ans="B">
+      <div class="stem">185. What can be concluded from both documents?</div>
+      <button type="button" class="opt" data-v="A">(A) Daniel’s claim is outside the coverage period because four months have passed</button>
+      <button type="button" class="opt" data-v="B">(B) Daniel’s purchase date falls within the warranty period, but he should not ship the earbuds until Meridian sends a prepaid label</button>
+      <button type="button" class="opt" data-v="C">(C) Meridian never issues replacements and only offers repairs</button>
+      <button type="button" class="opt" data-v="D">(D) Liquid damage is the most likely cause of Daniel’s charging problem</button>
+    </div>
+
+    <div class="actions">
+      <button type="button" class="btn primary" id="check">核对答案</button>
+      <button type="button" class="btn" id="reset">重做</button>
+      <button type="button" class="btn" id="toggleExplain">中文解析</button>
+    </div>
+    <p class="score" id="score"></p>
+
+    <div class="explain" id="explain">
+      <h2>全文译文 · 电子邮件</h2>
+      <div class="zh">
+        <p><strong>发件人：</strong>Daniel Okonkwo &lt;d.okonkwo@northline.com&gt;<br>
+        <strong>收件人：</strong>claims@meridianaudio.com<br>
+        <strong>日期：</strong>11 月 8 日<br>
+        <strong>主题：</strong>保修索赔——AeroPulse Pro 耳机（订单号 MA-44821）</p>
+        <p>索赔团队您好：</p>
+        <p>我于 7 月 12 日在贵公司网店购买了一副 AeroPulse Pro 无线耳机。大约四个月后，右耳塞无法充电，现在使用几分钟就会自动关机。我已按支持页面上的排查步骤操作（包括恢复出厂设置），但仍未解决。</p>
+        <p>我更希望获得<strong>换货</strong>而非维修。订单确认函以及一段故障短视频已随信附上。请告知我是应自行把产品寄往服务中心，还是等待贵公司提供预付运费标签。</p>
+        <p>工作日可通过本邮箱或 (555) 214-9083 联系我。</p>
+        <p>此致<br>Daniel Okonkwo<br>Northline Logistics</p>
+      </div>
+
+      <h2>全文译文 · 通知</h2>
+      <div class="zh">
+        <p><strong>Meridian Audio——有限保修政策</strong><br>
+        适用于 1 月 1 日及之后购买的产品 · www.meridianaudio.com/warranty</p>
+        <p><strong>保修期限</strong><br>
+        · 消费电子产品（含 AeroPulse 耳机）：自原购买日起 12 个月<br>
+        · 所有索赔须提供购买凭证</p>
+        <p><strong>保修范围</strong><br>
+        · 正常使用下材料或工艺的制造缺陷<br>
+        · 符合条件的索赔：免费维修，或由 Meridian 酌情提供等值或更高价值的翻新机 / 全新换货</p>
+        <p><strong>不在保修范围</strong><br>
+        · 液体、撞击、擅自改装或商业租赁用途造成的损坏<br>
+        · 丢失或被盗的配件（充电盒、线材）</p>
+        <p><strong>如何提交索赔</strong><br>
+        · 发送邮件至 claims@meridianaudio.com，注明订单号并说明问题<br>
+        · 在收到索赔参考号和预付退货标签之前，请勿寄出产品<br>
+        · 核准换货通常在 Meridian 收到故障产品后 5–7 个工作日内发出</p>
+        <p>客服：(555) 018-7700 · 周一至周五上午 9:00–下午 6:00</p>
+      </div>
+
+      <h2>答案与解析</h2>
+
+      <div class="item">
+        <div class="ans">181 · C</div>
+        <div class="qzh">题目：这封邮件的目的是什么？</div>
+        <div class="opts-zh">
+          (A) 为未使用的产品申请退款<br>
+          (B) 询问如何成为授权经销商<br>
+          (C) 报告产品故障并申请保修换货<br>
+          (D) 在发货前取消订单 #MA-44821
+        </div>
+        <div class="why">邮件描述充电故障，并写 prefer a replacement rather than a repair，还附订单与故障视频。A 未提退款；B 与经销无关；D 把订单号当成「未发货取消」，实际产品已用约四个月。</div>
+      </div>
+
+      <div class="item">
+        <div class="ans">182 · B</div>
+        <div class="qzh">题目：根据通知，AeroPulse 耳机保修多久？</div>
+        <div class="opts-zh">
+          (A) 自购买日起四个月<br>
+          (B) 自原购买日起十二个月<br>
+          (C) 提交索赔后五至七个工作日<br>
+          (D) 至次年 1 月 1 日为止
+        </div>
+        <div class="why">通知写 Consumer electronics … 12 months from the original purchase date。A 把邮件里「用了约四个月」误当成保修期；C 是换货发货时效；D 把政策生效日写歪。</div>
+      </div>
+
+      <div class="item">
+        <div class="ans">183 · A</div>
+        <div class="qzh">题目：邮件中 replacement 一词意思最接近？</div>
+        <div class="opts-zh">
+          (A) 用以替代故障品的换货产品<br>
+          (B) 供旅行使用的临时借用设备<br>
+          (C) 耳机的软件更新<br>
+          (D) 客服出具的书面道歉
+        </div>
+        <div class="why">prefer a replacement rather than a repair＝不要修、要换新品/替代品。B、C、D 均非商务保修语境下的 replacement。</div>
+      </div>
+
+      <div class="item">
+        <div class="ans">184 · D</div>
+        <div class="qzh">题目：通知要求顾客在寄出故障产品前做什么？</div>
+        <div class="opts-zh">
+          (A) 每个工作日上午 9:00 致电客服<br>
+          (B) 在网店另购新充电盒<br>
+          (C) 完成恢复出厂设置并等待 12 个月<br>
+          (D) 等待索赔参考号和预付退货标签
+        </div>
+        <div class="why"><strong>细节在通知：</strong>Do not ship … until you receive a claim reference number and a prepaid return label。A 把客服营业时间误写成强制每日来电；B 把「丢失充电盒不保」挪成必须另购；C 拼凑邮件排查步骤与保修期。</div>
+      </div>
+
+      <div class="item">
+        <div class="ans">185 · B</div>
+        <div class="qzh">题目：综合两篇可以得出什么结论？</div>
+        <div class="opts-zh">
+          (A) 因已过四个月，Daniel 的索赔超出保修期<br>
+          (B) Daniel 的购买日仍在保修期内，但在 Meridian 寄出预付标签前不应寄出耳机<br>
+          (C) Meridian 从不换货，只提供维修<br>
+          (D) 进液损坏最可能是 Daniel 充电故障的原因
+        </div>
+        <div class="why"><strong>联合推理：</strong>7/12 购入 + 保修 12 个月 → 11/8 仍在保；邮件问「是否自行寄出」，通知明确须等 reference number + prepaid label。A 错把使用时长当保修截止；C 与「repair or replacement」矛盾；D 文中无液体损坏证据，属不保事项干扰。</div>
+      </div>
+
+    </div>
+  </div>
+<script>
+(function () {
+  var picks = {};
+  document.querySelectorAll(".q").forEach(function (q) {
+    var id = q.getAttribute("data-q");
+    q.querySelectorAll(".opt").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        if (q.classList.contains("locked")) return;
+        q.querySelectorAll(".opt").forEach(function (b) { b.classList.remove("picked"); });
+        btn.classList.add("picked");
+        picks[id] = btn.getAttribute("data-v");
+      });
+    });
+  });
+  document.getElementById("check").addEventListener("click", function () {
+    var right = 0, total = 0;
+    document.querySelectorAll(".q").forEach(function (q) {
+      total++;
+      var ans = q.getAttribute("data-ans");
+      var id = q.getAttribute("data-q");
+      q.classList.add("locked");
+      q.querySelectorAll(".opt").forEach(function (btn) {
+        btn.disabled = true;
+        var v = btn.getAttribute("data-v");
+        btn.classList.remove("picked", "correct", "wrong");
+        if (v === ans) btn.classList.add("correct");
+        else if (picks[id] === v) btn.classList.add("wrong");
+      });
+      if (picks[id] === ans) right++;
+    });
+    document.getElementById("score").textContent = "得分：" + right + " / " + total;
+    document.getElementById("explain").classList.add("show");
+  });
+  document.getElementById("reset").addEventListener("click", function () {
+    picks = {};
+    document.querySelectorAll(".q").forEach(function (q) {
+      q.classList.remove("locked");
+      q.querySelectorAll(".opt").forEach(function (btn) {
+        btn.disabled = false;
+        btn.classList.remove("picked", "correct", "wrong");
+      });
+    });
+    document.getElementById("score").textContent = "";
+    document.getElementById("explain").classList.remove("show");
+  });
+  document.getElementById("toggleExplain").addEventListener("click", function () {
+    document.getElementById("explain").classList.toggle("show");
+  });
+})();
+
+(function () {
+  var bar = document.getElementById("timerBar");
+  if (!bar) return;
+  var recSec = parseInt(bar.getAttribute("data-rec-sec"), 10) || 225;
+  var elapsed = 0;
+  var paused = false;
+  var finished = false;
+  var clock = document.getElementById("timerClock");
+  var status = document.getElementById("timerStatus");
+  var pauseBtn = document.getElementById("timerPause");
+
+  function fmt(s) {
+    var m = Math.floor(s / 60);
+    var r = s % 60;
+    return (m < 10 ? "0" : "") + m + ":" + (r < 10 ? "0" : "") + r;
+  }
+
+  function tick() {
+    if (paused || finished) return;
+    elapsed += 1;
+    clock.textContent = fmt(elapsed);
+    if (elapsed > recSec) {
+      bar.classList.add("over");
+      status.textContent = "超时 +" + fmt(elapsed - recSec);
+    } else {
+      bar.classList.remove("over");
+      status.textContent = "剩余 " + fmt(recSec - elapsed);
+    }
+  }
+
+  var timerId = setInterval(tick, 1000);
+  status.textContent = "剩余 " + fmt(recSec);
+
+  pauseBtn.addEventListener("click", function () {
+    if (finished) return;
+    paused = !paused;
+    pauseBtn.textContent = paused ? "继续" : "暂停";
+    if (paused) status.textContent = "已暂停 · " + clock.textContent;
+    else if (elapsed > recSec) status.textContent = "超时 +" + fmt(elapsed - recSec);
+    else status.textContent = "剩余 " + fmt(recSec - elapsed);
+  });
+
+  function stopOnCheck() {
+    if (finished) return;
+    finished = true;
+    paused = true;
+    clearInterval(timerId);
+    pauseBtn.textContent = "已结束";
+    pauseBtn.disabled = true;
+    var msg = "完成用时 " + fmt(elapsed);
+    if (elapsed > recSec) msg += "（超时 " + fmt(elapsed - recSec) + "）";
+    status.textContent = msg;
+    var score = document.getElementById("score");
+    if (score && score.textContent) score.textContent = score.textContent + " · " + msg;
+    else if (score) score.textContent = msg;
+  }
+
+  var checkBtn = document.getElementById("check");
+  if (checkBtn) checkBtn.addEventListener("click", stopOnCheck);
+})();
+</script>
+</body>
+</html>
