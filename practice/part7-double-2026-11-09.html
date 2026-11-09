@@ -1,0 +1,593 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#ffffff" />
+<title>TOEIC Part 7 · Double · 2026-11-09</title>
+<style>
+  @page { margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: #cfc9be;
+    color: #000;
+    font-family: "Times New Roman", Times, "Times N R", "Nimbus Roman", "Liberation Serif", "Noto Serif CJK SC", "Songti SC", serif;
+    font-size: 16px;
+    line-height: 1.38;
+  }
+  .sheet {
+    max-width: 860px;
+    margin: 0 auto;
+    background: #fff;
+    min-height: 100vh;
+    padding: 18px 16px calc(36px + env(safe-area-inset-bottom));
+    border-left: 1px solid #aaa;
+    border-right: 1px solid #aaa;
+  }
+  @media (min-width: 900px) {
+    body { padding: 22px 0 36px; }
+    .sheet {
+      min-height: auto;
+      padding: 32px 44px 44px;
+      box-shadow: 0 1px 8px rgba(0,0,0,.16);
+      border: 0;
+    }
+  }
+  .sans, .header, .dir, .doc-label, .q, .stem, .opt, .actions, .btn, .score,
+  .explain h2, .explain .ans, .explain .qzh, .explain .opts-zh, .field {
+    font-family: Arial, Helvetica, "Helvetica Neue", "Nimbus Sans", "Liberation Sans", "PingFang SC", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif;
+  }
+  .header {
+    border-bottom: 2px solid #000;
+    padding-bottom: 8px;
+    margin-bottom: 14px;
+  }
+  .header .part {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+  }
+  .header .meta {
+    font-size: 12px;
+    margin-top: 3px;
+    color: #222;
+  }
+  .dir {
+    font-size: 13px;
+    font-style: italic;
+    font-weight: 400;
+    margin: 0 0 14px;
+  }
+  .doc-label {
+    font-size: 12px;
+    font-weight: 700;
+    margin: 16px 0 6px;
+    letter-spacing: .02em;
+  }
+  .doc-label:first-of-type { margin-top: 0; }
+  .email, .notice, .web, .sched {
+    border: 1px solid #000;
+    padding: 12px 14px 14px;
+    margin-bottom: 10px;
+    background: #fff;
+  }
+  .field {
+    font-size: 13px;
+    line-height: 1.42;
+    margin-bottom: 2px;
+    word-break: break-word;
+  }
+  .field b { font-weight: 700; }
+  .subj {
+    margin-top: 3px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #666;
+    margin-bottom: 10px;
+  }
+  .body {
+    font-family: "Times New Roman", Times, "Liberation Serif", "Noto Serif CJK SC", "Songti SC", serif;
+    font-size: 15.5px;
+    line-height: 1.42;
+  }
+  .body p { margin: 0 0 9px; }
+  .body p:last-child { margin-bottom: 0; }
+  .notice h3, .web h3, .sched h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    line-height: 1.3;
+  }
+  .notice .meta, .web .url {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #222;
+    margin-bottom: 9px;
+  }
+  .web .url {
+    font-family: "Courier New", Courier, "Liberation Mono", monospace;
+    word-break: break-all;
+  }
+  .notice ul, .web ul {
+    padding-left: 1.15em;
+    margin: 0 0 8px;
+    font-family: "Times New Roman", Times, "Liberation Serif", serif;
+    font-size: 15.5px;
+  }
+  .notice li, .web li { margin-bottom: 4px; }
+  table.sched-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+  }
+  table.sched-table th, table.sched-table td {
+    border: 1px solid #000;
+    padding: 6px 7px;
+    text-align: left;
+    vertical-align: top;
+  }
+  table.sched-table th {
+    background: #e6e6e6;
+    font-weight: 700;
+  }
+  .q {
+    margin: 16px 0 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+  }
+  .stem {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    line-height: 1.38;
+  }
+  .opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    font-size: 13.5px;
+    font-weight: 400;
+    line-height: 1.42;
+    padding: 4px 2px 4px 1.7em;
+    text-indent: -1.4em;
+    margin-bottom: 1px;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    color: #000;
+    cursor: pointer;
+    -webkit-tap-highlight-color: rgba(0,0,0,.08);
+  }
+  .opt.picked { background: #e8e8e8; }
+  .opt.correct { background: #d9e6d9; }
+  .opt.wrong { background: #efd9d9; }
+  .opt:disabled { cursor: default; opacity: 1; }
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 20px 0 8px;
+  }
+  .btn {
+    font-size: 13px;
+    padding: 9px 14px;
+    border: 1px solid #000;
+    border-radius: 0;
+    background: #fff;
+    color: #000;
+    cursor: pointer;
+  }
+  .btn.primary { background: #000; color: #fff; }
+  .score {
+    font-size: 13px;
+    color: #222;
+    margin-bottom: 8px;
+    min-height: 1.1em;
+  }
+  .explain {
+    display: none;
+    border: 1px solid #000;
+    padding: 14px 12px;
+    margin-top: 8px;
+    background: #f7f7f7;
+  }
+  .explain.show { display: block; }
+  .explain h2 {
+    font-size: 14px;
+    font-weight: 700;
+    margin: 14px 0 7px;
+  }
+  .explain h2:first-child { margin-top: 0; }
+  .explain .zh {
+    font-family: "Times New Roman", Times, "Noto Serif CJK SC", "Songti SC", serif;
+    font-size: 14px;
+    line-height: 1.45;
+    margin-bottom: 8px;
+  }
+  .explain .zh p { margin: 0 0 7px; }
+  .explain .item {
+    margin-bottom: 12px;
+    font-family: "Times New Roman", Times, "Noto Serif CJK SC", "Songti SC", serif;
+    font-size: 14px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #bbb;
+  }
+  .explain .item:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: 0; }
+  .explain .ans {
+    font-size: 13px;
+    font-weight: 700;
+    margin-bottom: 3px;
+  }
+  .explain .qzh {
+    font-size: 12.5px;
+    color: #222;
+    margin-bottom: 5px;
+  }
+  .explain .opts-zh {
+    font-size: 12.5px;
+    line-height: 1.45;
+    margin: 0 0 5px;
+    padding: 7px 8px;
+    background: #ececec;
+    border: 1px solid #bbb;
+  }
+  .timer-bar {
+    font-family: Arial, Helvetica, "Helvetica Neue", sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 8px 14px;
+    border: 1px solid #000;
+    background: #f3f3f3;
+    padding: 8px 10px;
+    margin: 0 0 14px;
+    font-size: 12px;
+    line-height: 1.35;
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    box-shadow: 0 1px 0 #000;
+  }
+  .timer-bar .clock {
+    font-variant-numeric: tabular-nums;
+    font-weight: 700;
+    font-size: 15px;
+    letter-spacing: .02em;
+  }
+  .timer-bar .rec { color: #222; font-size: 11px; flex: 1 1 120px; }
+  .timer-bar .status { color: #222; }
+  .timer-bar.over {
+    background: #f5e8e8;
+    border-color: #000;
+  }
+  .timer-bar.over .status { font-weight: 700; }
+  .timer-bar .btn-timer {
+    margin-left: auto;
+    font-size: 11px;
+    padding: 4px 8px;
+    border: 1px solid #000;
+    background: #fff;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+</style>
+</head>
+<body>
+  <div class="sheet">
+    <div class="header">
+      <div class="part">READING TEST · PART 7</div>
+      <div class="meta">Questions 176–180 · Double passage</div>
+    </div>
+    <div class="timer-bar" id="timerBar" data-rec-sec="225">
+      <span>用时 <span class="clock" id="timerClock">00:00</span></span>
+      <span class="rec">3:45</span>
+      <span class="status" id="timerStatus">计时中</span>
+      <button type="button" class="btn-timer" id="timerPause">暂停</button>
+    </div>
+    <p class="dir">Questions 176–180 refer to the following Web page and e-mail.</p>
+
+    <div class="doc-label">Document 1 · Web page</div>
+    <article class="web">
+      <h3>Crestline Consumer Goods — Careers</h3>
+      <div class="url">www.crestlinecg.com/careers/marketing-coordinator</div>
+      <div class="body">
+        <p><strong>Position:</strong> Marketing Coordinator (full-time)<br>
+        <strong>Location:</strong> Portland, Oregon · Hybrid (3 days in office)<br>
+        <strong>Posted:</strong> October 20 · <strong>Applications close:</strong> November 14</p>
+        <p>Crestline Consumer Goods is seeking a Marketing Coordinator to support product launches, social media campaigns, and trade-show logistics for our home-goods brands.</p>
+        <p><strong>Requirements</strong></p>
+        <ul>
+          <li>Bachelor’s degree in marketing, communications, or a related field</li>
+          <li>At least two years of marketing experience (agency or in-house)</li>
+          <li>Strong writing skills and familiarity with scheduling tools such as Hootsuite or Buffer</li>
+          <li>Willingness to travel up to 15% of the time for trade shows</li>
+          <li>Spanish proficiency preferred but not required</li>
+        </ul>
+        <p><strong>How to apply</strong></p>
+        <ul>
+          <li>E-mail a cover letter and résumé as PDF attachments to careers@crestlinecg.com</li>
+          <li>Use the subject line “Marketing Coordinator — [Your Name]”</li>
+          <li>Selected candidates will be invited to a 30-minute video screening the week of November 17</li>
+          <li>Please do not call the Portland office about this opening</li>
+        </ul>
+        <p>Crestline is an equal opportunity employer.</p>
+      </div>
+    </article>
+
+    <div class="doc-label">Document 2 · E-mail</div>
+    <article class="email">
+      <div class="field"><b>From</b> Maya Chen &lt;maya.chen@inboxmail.com&gt;</div>
+      <div class="field"><b>To</b> careers@crestlinecg.com</div>
+      <div class="field"><b>Date</b> November 9</div>
+      <div class="field subj"><b>Subject</b> Marketing Coordinator — Maya Chen</div>
+      <div class="body">
+        <p>Dear Hiring Team,</p>
+        <p>I am writing to apply for the Marketing Coordinator position advertised on your Careers page. For the past three years I have worked as a junior marketing associate at Harbor &amp; Lane Agency in Seattle, where I scheduled social posts, drafted product copy, and helped coordinate booth staffing at three regional trade shows.</p>
+        <p>I hold a B.A. in Communications from the University of Washington. Although I do not speak Spanish, I am comfortable learning new software quickly and recently completed a Hootsuite certification. I am prepared to <strong>relocate</strong> to Portland and can begin work as early as December 1.</p>
+        <p>My cover letter and résumé are attached as PDF files. I look forward to the possibility of a video screening.</p>
+        <p>Sincerely,<br>Maya Chen<br>(206) 555-0148</p>
+      </div>
+    </article>
+
+    <div class="q" data-q="176" data-ans="B">
+      <div class="stem">176. What is the purpose of the e-mail?</div>
+      <button type="button" class="opt" data-v="A">(A) To ask whether the Portland office can be contacted by phone</button>
+      <button type="button" class="opt" data-v="B">(B) To apply for a marketing position at Crestline</button>
+      <button type="button" class="opt" data-v="C">(C) To request a Spanish-language training course</button>
+      <button type="button" class="opt" data-v="D">(D) To confirm attendance at a trade show in Seattle</button>
+    </div>
+    <div class="q" data-q="177" data-ans="C">
+      <div class="stem">177. According to the Web page, when do applications for the position close?</div>
+      <button type="button" class="opt" data-v="A">(A) October 20</button>
+      <button type="button" class="opt" data-v="B">(B) November 9</button>
+      <button type="button" class="opt" data-v="C">(C) November 14</button>
+      <button type="button" class="opt" data-v="D">(D) November 17</button>
+    </div>
+    <div class="q" data-q="178" data-ans="A">
+      <div class="stem">178. The word “relocate” in the e-mail is closest in meaning to</div>
+      <button type="button" class="opt" data-v="A">(A) move to a different city for work</button>
+      <button type="button" class="opt" data-v="B">(B) change the date of a video interview</button>
+      <button type="button" class="opt" data-v="C">(C) transfer files from one computer to another</button>
+      <button type="button" class="opt" data-v="D">(D) reorganize a company’s social media calendar</button>
+    </div>
+    <div class="q" data-q="179" data-ans="D">
+      <div class="stem">179. What are applicants instructed to send with their e-mail?</div>
+      <button type="button" class="opt" data-v="A">(A) A Hootsuite login and a Spanish certificate</button>
+      <button type="button" class="opt" data-v="B">(B) A video recording of a 30-minute screening</button>
+      <button type="button" class="opt" data-v="C">(C) Printed copies delivered to the Portland office</button>
+      <button type="button" class="opt" data-v="D">(D) A cover letter and a résumé in PDF format</button>
+    </div>
+    <div class="q" data-q="180" data-ans="B">
+      <div class="stem">180. What can be concluded from both documents?</div>
+      <button type="button" class="opt" data-v="A">(A) Maya’s application arrived after the closing date, so it will not be reviewed</button>
+      <button type="button" class="opt" data-v="B">(B) Maya meets the minimum experience requirement and applied before the deadline, but she does not have the preferred Spanish skill</button>
+      <button type="button" class="opt" data-v="C">(C) Maya already works in Crestline’s Portland office three days a week</button>
+      <button type="button" class="opt" data-v="D">(D) Crestline will interview every candidate who attaches a Hootsuite certificate</button>
+    </div>
+
+    <div class="actions">
+      <button type="button" class="btn primary" id="check">核对答案</button>
+      <button type="button" class="btn" id="reset">重做</button>
+      <button type="button" class="btn" id="toggleExplain">中文解析</button>
+    </div>
+    <p class="score" id="score"></p>
+
+    <div class="explain" id="explain">
+      <h2>全文译文 · 网页</h2>
+      <div class="zh">
+        <p><strong>Crestline Consumer Goods——招聘页面</strong><br>
+        www.crestlinecg.com/careers/marketing-coordinator</p>
+        <p><strong>职位：</strong>市场协调员（全职）<br>
+        <strong>地点：</strong>俄勒冈州波特兰 · 混合办公（每周 3 天到岗）<br>
+        <strong>发布日期：</strong>10 月 20 日 · <strong>申请截止：</strong>11 月 14 日</p>
+        <p>Crestline Consumer Goods 诚聘市场协调员，协助家居品牌的产品发布、社交媒体活动及展会后勤。</p>
+        <p><strong>任职要求</strong><br>
+        · 市场营销、传播或相关专业学士学位<br>
+        · 至少两年市场工作经验（广告公司或企业内均可）<br>
+        · 较强写作能力，熟悉 Hootsuite 或 Buffer 等排期工具<br>
+        · 愿意因展会出差，出差时间不超过工作时间的 15%<br>
+        · 具备西班牙语能力者优先，但非硬性要求</p>
+        <p><strong>申请方式</strong><br>
+        · 将求职信与简历以 PDF 附件发送至 careers@crestlinecg.com<br>
+        · 主题行请写 “Marketing Coordinator — [您的姓名]”<br>
+        · 入围者将受邀于 11 月 17 日当周参加 30 分钟视频初筛<br>
+        · 请勿就本职位致电波特兰办公室</p>
+        <p>Crestline 为平等机会雇主。</p>
+      </div>
+
+      <h2>全文译文 · 电子邮件</h2>
+      <div class="zh">
+        <p><strong>发件人：</strong>Maya Chen &lt;maya.chen@inboxmail.com&gt;<br>
+        <strong>收件人：</strong>careers@crestlinecg.com<br>
+        <strong>日期：</strong>11 月 9 日<br>
+        <strong>主题：</strong>Marketing Coordinator — Maya Chen</p>
+        <p>招聘团队您好：</p>
+        <p>我写信申请贵公司招聘页面上刊登的市场协调员一职。过去三年我在西雅图 Harbor &amp; Lane Agency 担任初级市场专员，负责社交媒体排期、撰写产品文案，并协助三次区域展会的展位人员安排。</p>
+        <p>我拥有华盛顿大学传播学学士学位。虽然不会西班牙语，但我能快速学习新软件，并刚完成 Hootsuite 认证。我已准备好<strong>搬迁</strong>至波特兰，最早可于 12 月 1 日入职。</p>
+        <p>求职信与简历已以 PDF 附件随信附上。期待有机会参加视频初筛。</p>
+        <p>此致<br>Maya Chen<br>(206) 555-0148</p>
+      </div>
+
+      <h2>答案与解析</h2>
+
+      <div class="item">
+        <div class="ans">176 · B</div>
+        <div class="qzh">题目：这封邮件的目的是什么？</div>
+        <div class="opts-zh">
+          (A) 询问是否可以电话联系波特兰办公室<br>
+          (B) 申请 Crestline 的市场职位<br>
+          (C) 申请参加西班牙语培训课程<br>
+          (D) 确认将出席西雅图的展会
+        </div>
+        <div class="why">邮件开篇即 apply for the Marketing Coordinator position，并按要求附 PDF。A 把网页「请勿致电」歪成写信询问；C 把「不会西语」误读成要培训；D 把她过往展会经历当成确认出席。</div>
+      </div>
+
+      <div class="item">
+        <div class="ans">177 · C</div>
+        <div class="qzh">题目：根据网页，该职位申请何时截止？</div>
+        <div class="opts-zh">
+          (A) 10 月 20 日<br>
+          (B) 11 月 9 日<br>
+          (C) 11 月 14 日<br>
+          (D) 11 月 17 日
+        </div>
+        <div class="why">网页写 Applications close: November 14。A 是发布日；B 是邮件日期；D 是视频初筛所在周，均属错位细节。</div>
+      </div>
+
+      <div class="item">
+        <div class="ans">178 · A</div>
+        <div class="qzh">题目：邮件中 relocate 一词意思最接近？</div>
+        <div class="opts-zh">
+          (A) 为工作搬到另一座城市<br>
+          (B) 更改视频面试日期<br>
+          (C) 把文件从一台电脑转到另一台<br>
+          (D) 重新安排公司社交媒体日历
+        </div>
+        <div class="why">prepared to relocate to Portland＝愿意从西雅图搬到波特兰工作。B、C、D 均非求职语境下的 relocate。</div>
+      </div>
+
+      <div class="item">
+        <div class="ans">179 · D</div>
+        <div class="qzh">题目：申请者被要求随邮件附上什么？</div>
+        <div class="opts-zh">
+          (A) Hootsuite 登录信息与西班牙语证书<br>
+          (B) 一段 30 分钟初筛的录像<br>
+          (C) 送至波特兰办公室的纸质材料<br>
+          (D) PDF 格式的求职信与简历
+        </div>
+        <div class="why"><strong>细节在网页：</strong>E-mail a cover letter and résumé as PDF attachments。A 拼凑工具与「西语优先」；B 把公司安排的 video screening 当成申请材料；C 与「请勿致电办公室 / 邮件申请」矛盾。</div>
+      </div>
+
+      <div class="item">
+        <div class="ans">180 · B</div>
+        <div class="qzh">题目：综合两篇可以得出什么结论？</div>
+        <div class="opts-zh">
+          (A) Maya 的申请在截止日期之后到达，因此不会被审阅<br>
+          (B) Maya 满足最低工作经验要求且在截止日期前申请，但不具备优先的西班牙语技能<br>
+          (C) Maya 已在 Crestline 波特兰办公室每周工作三天<br>
+          (D) Crestline 会对所有附上 Hootsuite 证书的候选人进行面试
+        </div>
+        <div class="why"><strong>联合推理：</strong>要求至少两年经验，她有三年；11/9 申请早于 11/14 截止；她明确不说西语，而网页写 preferred but not required。A 日期判断错误；C 把 hybrid 3 days 误安到她现职；D 初筛仅限 selected candidates，证书非保证面试。</div>
+      </div>
+
+    </div>
+  </div>
+<script>
+(function () {
+  var picks = {};
+  document.querySelectorAll(".q").forEach(function (q) {
+    var id = q.getAttribute("data-q");
+    q.querySelectorAll(".opt").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        if (q.classList.contains("locked")) return;
+        q.querySelectorAll(".opt").forEach(function (b) { b.classList.remove("picked"); });
+        btn.classList.add("picked");
+        picks[id] = btn.getAttribute("data-v");
+      });
+    });
+  });
+  document.getElementById("check").addEventListener("click", function () {
+    var right = 0, total = 0;
+    document.querySelectorAll(".q").forEach(function (q) {
+      total++;
+      var ans = q.getAttribute("data-ans");
+      var id = q.getAttribute("data-q");
+      q.classList.add("locked");
+      q.querySelectorAll(".opt").forEach(function (btn) {
+        btn.disabled = true;
+        var v = btn.getAttribute("data-v");
+        btn.classList.remove("picked", "correct", "wrong");
+        if (v === ans) btn.classList.add("correct");
+        else if (picks[id] === v) btn.classList.add("wrong");
+      });
+      if (picks[id] === ans) right++;
+    });
+    document.getElementById("score").textContent = "得分：" + right + " / " + total;
+    document.getElementById("explain").classList.add("show");
+  });
+  document.getElementById("reset").addEventListener("click", function () {
+    picks = {};
+    document.querySelectorAll(".q").forEach(function (q) {
+      q.classList.remove("locked");
+      q.querySelectorAll(".opt").forEach(function (btn) {
+        btn.disabled = false;
+        btn.classList.remove("picked", "correct", "wrong");
+      });
+    });
+    document.getElementById("score").textContent = "";
+    document.getElementById("explain").classList.remove("show");
+  });
+  document.getElementById("toggleExplain").addEventListener("click", function () {
+    document.getElementById("explain").classList.toggle("show");
+  });
+})();
+
+(function () {
+  var bar = document.getElementById("timerBar");
+  if (!bar) return;
+  var recSec = parseInt(bar.getAttribute("data-rec-sec"), 10) || 225;
+  var elapsed = 0;
+  var paused = false;
+  var finished = false;
+  var clock = document.getElementById("timerClock");
+  var status = document.getElementById("timerStatus");
+  var pauseBtn = document.getElementById("timerPause");
+
+  function fmt(s) {
+    var m = Math.floor(s / 60);
+    var r = s % 60;
+    return (m < 10 ? "0" : "") + m + ":" + (r < 10 ? "0" : "") + r;
+  }
+
+  function tick() {
+    if (paused || finished) return;
+    elapsed += 1;
+    clock.textContent = fmt(elapsed);
+    if (elapsed > recSec) {
+      bar.classList.add("over");
+      status.textContent = "超时 +" + fmt(elapsed - recSec);
+    } else {
+      bar.classList.remove("over");
+      status.textContent = "剩余 " + fmt(recSec - elapsed);
+    }
+  }
+
+  var timerId = setInterval(tick, 1000);
+  status.textContent = "剩余 " + fmt(recSec);
+
+  pauseBtn.addEventListener("click", function () {
+    if (finished) return;
+    paused = !paused;
+    pauseBtn.textContent = paused ? "继续" : "暂停";
+    if (paused) status.textContent = "已暂停 · " + clock.textContent;
+    else if (elapsed > recSec) status.textContent = "超时 +" + fmt(elapsed - recSec);
+    else status.textContent = "剩余 " + fmt(recSec - elapsed);
+  });
+
+  function stopOnCheck() {
+    if (finished) return;
+    finished = true;
+    paused = true;
+    clearInterval(timerId);
+    pauseBtn.textContent = "已结束";
+    pauseBtn.disabled = true;
+    var msg = "完成用时 " + fmt(elapsed);
+    if (elapsed > recSec) msg += "（超时 " + fmt(elapsed - recSec) + "）";
+    status.textContent = msg;
+    var score = document.getElementById("score");
+    if (score && score.textContent) score.textContent = score.textContent + " · " + msg;
+    else if (score) score.textContent = msg;
+  }
+
+  var checkBtn = document.getElementById("check");
+  if (checkBtn) checkBtn.addEventListener("click", stopOnCheck);
+})();
+</script>
+</body>
+</html>
