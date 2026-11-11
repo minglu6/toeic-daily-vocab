@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>托业通勤听力（原创）</title>
+<meta name="description" content="原创托业单词通勤听力：英文读音、字母拼写、中文释义、职场例句、例句汉译。非新东方原书录音。" />
+<link rel="alternate" type="application/rss+xml" title="托业通勤听力" href="feed.xml" />
+<style>
+  :root {
+    --bg: #FAF7F2; --dark: #141414; --accent: #3D7A5C; --accent-soft: #E4EFE8;
+    --muted: #8b949e; --rule: #E6E0D6; --card: #FFFcf8; --body: #4a525a;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: "Iowan Old Style", Palatino, "Songti SC", "Noto Serif CJK SC", "Noto Sans CJK SC", serif;
+    background: var(--bg); color: #0f0e0e; min-height: 100vh;
+    padding-bottom: 140px;
+  }
+  .cover { background: var(--dark); color: #f5f2ec; padding: 36px 22px 28px; }
+  .tag { font-family: ui-monospace, Menlo, monospace; font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: #a8b5a0; margin-bottom: 12px; }
+  h1 { font-size: 30px; font-weight: 500; letter-spacing: -.02em; }
+  .sub { margin-top: 10px; color: #b8b2a8; font-size: 14px; line-height: 1.6; max-width: 40em; }
+  .cover-links { margin-top: 16px; display: flex; flex-wrap: wrap; gap: 14px; font-size: 13px; }
+  .cover-links a { color: #cfe0d4; text-decoration: none; }
+  main { max-width: 720px; margin: 0 auto; padding: 22px 16px 24px; }
+  .bar { width: 40px; height: 3px; background: var(--accent); margin-bottom: 14px; }
+  .disclaimer {
+    background: var(--accent-soft); color: #2c5a43; border-radius: 10px;
+    padding: 12px 14px; font-size: 13px; line-height: 1.55; margin-bottom: 18px;
+  }
+  .meta { color: var(--muted); font-size: 12.5px; line-height: 1.5; margin-bottom: 16px; }
+  .track {
+    display: grid; grid-template-columns: 1fr auto; gap: 8px 12px;
+    padding: 14px 14px 12px; margin-bottom: 8px;
+    background: var(--card); border: 1px solid var(--rule); border-radius: 10px;
+    cursor: pointer;
+  }
+  .track:hover, .track.on { border-color: var(--accent); }
+  .track.on { background: #f4faf6; }
+  .t-title { font-size: 16px; }
+  .t-sub { font-size: 12px; color: var(--muted); margin-top: 3px; font-family: ui-monospace, Menlo, monospace; }
+  .t-words { grid-column: 1 / -1; font-size: 12.5px; color: var(--body); line-height: 1.5; }
+  .t-actions { display: flex; flex-direction: column; align-items: flex-end; gap: 6px; }
+  .t-dur { font-family: ui-monospace, Menlo, monospace; font-size: 12px; color: var(--accent); }
+  .t-actions a, .icon-btn {
+    color: var(--accent); font-size: 12px; text-decoration: none;
+    background: none; border: 0; cursor: pointer; font-family: inherit;
+  }
+  .dock {
+    position: fixed; left: 0; right: 0; bottom: 0;
+    background: #141414; color: #f5f2ec;
+    padding: 12px 16px calc(12px + env(safe-area-inset-bottom));
+    box-shadow: 0 -8px 24px rgba(0,0,0,.25);
+  }
+  .dock-inner { max-width: 720px; margin: 0 auto; }
+  .now { font-size: 13px; color: #cfe0d4; margin-bottom: 8px; min-height: 1.2em; }
+  .row { display: flex; align-items: center; gap: 10px; }
+  .ctrl {
+    width: 42px; height: 42px; border: 0; border-radius: 50%;
+    background: var(--accent); color: #fff; font-size: 16px; cursor: pointer;
+    flex: 0 0 auto;
+  }
+  .ctrl.ghost { background: transparent; color: #cfe0d4; border: 1px solid #3a3a3a; width: 36px; height: 36px; font-size: 13px; }
+  .prog { flex: 1; }
+  input[type=range] { width: 100%; accent-color: var(--accent); }
+  .times { display: flex; justify-content: space-between; font-family: ui-monospace, Menlo, monospace; font-size: 11px; color: #9aa49e; margin-top: 2px; }
+  .opts { margin-top: 8px; display: flex; justify-content: space-between; align-items: center; font-size: 12px; color: #b8b2a8; gap: 10px; }
+  .opts label { display: flex; align-items: center; gap: 6px; }
+  .err { color: #c45c4a; font-size: 13px; margin: 8px 0; }
+</style>
+</head>
+<body>
+  <header class="cover">
+    <div class="tag">TOEIC · Commute Listening</div>
+    <h1>托业通勤听力</h1>
+    <p class="sub">每词五段：英文读音 · 字母拼写 · 中文释义 · 职场例句 · 例句汉译。语速略慢，适合路上不看屏听。</p>
+    <div class="cover-links">
+      <a href="../">← 返回词卡首页</a>
+      <a href="feed.xml">RSS 订阅</a>
+    </div>
+  </header>
+  <main>
+    <div class="bar"></div>
+    <p class="disclaimer">这是原创托业/商务英语通勤听力，不是新东方或其他商业词书的原文或录音。英文为 Jenny，中文为晓晓。</p>
+    <p class="meta" id="meta">正在加载曲目…</p>
+    <div id="err" class="err" hidden></div>
+    <div id="list"></div>
+  </main>
+  <div class="dock">
+    <div class="dock-inner">
+      <div class="now" id="now">选择一轨开始</div>
+      <div class="row">
+        <button class="ctrl ghost" id="prev" type="button" aria-label="上一轨">‹</button>
+        <button class="ctrl" id="play" type="button" aria-label="播放">▶</button>
+        <button class="ctrl ghost" id="next" type="button" aria-label="下一轨">›</button>
+        <div class="prog">
+          <input type="range" id="seek" min="0" max="1000" value="0" />
+          <div class="times"><span id="cur">0:00</span><span id="dur">0:00</span></div>
+        </div>
+      </div>
+      <div class="opts">
+        <label><input type="checkbox" id="cont" checked /> 连续播放</label>
+        <label>倍速
+          <select id="rate">
+            <option value="0.8">0.8×</option>
+            <option value="0.9">0.9×</option>
+            <option value="1" selected>1.0×</option>
+            <option value="1.1">1.1×</option>
+            <option value="1.25">1.25×</option>
+          </select>
+        </label>
+      </div>
+    </div>
+  </div>
+  <audio id="audio" preload="metadata"></audio>
+<script>
+(function () {
+  const $ = (id) => document.getElementById(id);
+  const audio = $("audio");
+  const listEl = $("list");
+  let tracks = [];
+  let index = -1;
+  let seeking = false;
+
+  const fmt = (s) => {
+    s = Math.max(0, Math.floor(s || 0));
+    return Math.floor(s / 60) + ":" + String(s % 60).padStart(2, "0");
+  };
+
+  function showErr(msg) {
+    $("err").hidden = !msg;
+    $("err").textContent = msg || "";
+  }
+
+  function srcOf(t) { return t.file; }
+
+  function highlight() {
+    listEl.querySelectorAll(".track").forEach((el, i) => {
+      el.classList.toggle("on", i === index);
+    });
+  }
+
+  function load(i, autoplay) {
+    if (i < 0 || i >= tracks.length) return;
+    index = i;
+    const t = tracks[i];
+    audio.src = srcOf(t);
+    audio.playbackRate = parseFloat($("rate").value) || 1;
+    $("now").textContent = t.title + " · " + t.word_count + " 词 · " + (t.duration || "");
+    $("dur").textContent = t.duration || "0:00";
+    highlight();
+    try { localStorage.setItem("toeic-commute-track", String(i)); } catch (e) {}
+    if (autoplay) {
+      audio.play().then(() => { $("play").textContent = "❚❚"; }).catch(() => {
+        $("play").textContent = "▶";
+      });
+    }
+  }
+
+  function render(manifest) {
+    tracks = manifest.tracks || [];
+    const nWords = manifest.word_count || tracks.reduce((a, t) => a + (t.word_count || 0), 0);
+    const totalSec = tracks.reduce((a, t) => a + (t.duration_sec || 0), 0);
+    $("meta").textContent =
+      nWords + " 个单词 · " + tracks.length + " 轨 · 合计约 " + Math.round(totalSec / 60) + " 分钟 · 每轨约 30 词";
+    listEl.innerHTML = "";
+    tracks.forEach((t, i) => {
+      const el = document.createElement("article");
+      el.className = "track";
+      el.innerHTML =
+        '<div><div class="t-title">' + t.title + '</div>' +
+        '<div class="t-sub">Track ' + t.id + ' · ' + t.word_count + ' 词</div></div>' +
+        '<div class="t-actions"><span class="t-dur">' + (t.duration || "") + '</span>' +
+        '<a class="dl" href="' + srcOf(t) + '" download="' + t.id + '.mp3">下载</a></div>' +
+        '<div class="t-words">' + (t.headwords || []).join(" · ") + '</div>';
+      el.addEventListener("click", (ev) => {
+        if (ev.target.closest("a")) return;
+        load(i, true);
+      });
+      listEl.appendChild(el);
+    });
+    let start = 0;
+    try { start = parseInt(localStorage.getItem("toeic-commute-track") || "0", 10) || 0; } catch (e) {}
+    if (tracks.length) load(Math.min(start, tracks.length - 1), false);
+  }
+
+  $("play").addEventListener("click", () => {
+    if (index < 0 && tracks.length) load(0, true);
+    else if (audio.paused) audio.play().then(() => { $("play").textContent = "❚❚"; });
+    else { audio.pause(); $("play").textContent = "▶"; }
+  });
+  $("prev").addEventListener("click", () => { if (index > 0) load(index - 1, true); });
+  $("next").addEventListener("click", () => { if (index + 1 < tracks.length) load(index + 1, true); });
+  $("rate").addEventListener("change", () => { audio.playbackRate = parseFloat($("rate").value) || 1; });
+  $("seek").addEventListener("pointerdown", () => { seeking = true; });
+  $("seek").addEventListener("change", () => {
+    if (audio.duration) audio.currentTime = (parseInt($("seek").value, 10) / 1000) * audio.duration;
+    seeking = false;
+  });
+  audio.addEventListener("timeupdate", () => {
+    if (!seeking && audio.duration) {
+      $("seek").value = String(Math.round((audio.currentTime / audio.duration) * 1000));
+    }
+    $("cur").textContent = fmt(audio.currentTime);
+    if (audio.duration) $("dur").textContent = fmt(audio.duration);
+  });
+  audio.addEventListener("play", () => { $("play").textContent = "❚❚"; });
+  audio.addEventListener("pause", () => { $("play").textContent = "▶"; });
+  audio.addEventListener("ended", () => {
+    if ($("cont").checked && index + 1 < tracks.length) load(index + 1, true);
+    else $("play").textContent = "▶";
+  });
+  audio.addEventListener("error", () => showErr("这轨暂时无法播放，请稍后重试或改用下载。"));
+
+  fetch("tracks.json?v=" + Date.now())
+    .then((r) => { if (!r.ok) throw new Error("tracks.json " + r.status); return r.json(); })
+    .then(render)
+    .catch((e) => { showErr("曲目清单加载失败：" + e.message); });
+})();
+</script>
+</body>
+</html>

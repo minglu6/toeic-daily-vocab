@@ -1,0 +1,1314 @@
+{
+  "id": "020",
+  "track": 20,
+  "title": "第 20 轨",
+  "word_count": 30,
+  "headwords": [
+    "illustrate",
+    "immediate",
+    "imply",
+    "import",
+    "inaugurate",
+    "income",
+    "incorporate",
+    "increment",
+    "indispensable",
+    "inflation",
+    "infrastructure",
+    "ingredient",
+    "inquire",
+    "installment",
+    "instruct",
+    "insurance",
+    "integrate",
+    "interim",
+    "intermission",
+    "investigate",
+    "investment",
+    "issue",
+    "joint",
+    "jeopardize",
+    "keen",
+    "keynote",
+    "label",
+    "labor",
+    "landlord",
+    "lapse"
+  ],
+  "entries": [
+    {
+      "word": "illustrate",
+      "spelling": "I, L, L, U, S, T, R, A, T, E",
+      "spoken_meaning": "动词，说明，阐明，配插图",
+      "en": "The chart illustrates how sales have changed over the past five years.",
+      "zh": "这张图表说明了过去五年的销售变化。"
+    },
+    {
+      "word": "immediate",
+      "spelling": "I, M, M, E, D, I, A, T, E",
+      "spoken_meaning": "形容词，立即的，直接的，最接近的",
+      "en": "Report any equipment malfunction to your immediate supervisor.",
+      "zh": "任何设备故障请报告给你的直属上司。"
+    },
+    {
+      "word": "imply",
+      "spelling": "I, M, P, L, Y",
+      "spoken_meaning": "动词，暗示，意味着",
+      "en": "What is implied about the new branch office?",
+      "zh": "关于新分公司，文中暗示了什么？"
+    },
+    {
+      "word": "import",
+      "spelling": "I, M, P, O, R, T",
+      "spoken_meaning": "动词或名词，进口，输入，进口商品",
+      "en": "The company imports most of its raw materials from Southeast Asia.",
+      "zh": "公司大部分原材料从东南亚进口。"
+    },
+    {
+      "word": "inaugurate",
+      "spelling": "I, N, A, U, G, U, R, A, T, E",
+      "spoken_meaning": "动词，为…举行开幕/就职典礼，开创",
+      "en": "The mayor will inaugurate the new convention center on Friday.",
+      "zh": "市长将于周五为新会展中心揭幕。"
+    },
+    {
+      "word": "income",
+      "spelling": "I, N, C, O, M, E",
+      "spoken_meaning": "名词，收入，所得",
+      "en": "Rental properties provide the firm with a steady source of income.",
+      "zh": "出租物业为公司提供了稳定的收入来源。"
+    },
+    {
+      "word": "incorporate",
+      "spelling": "I, N, C, O, R, P, O, R, A, T, E",
+      "spoken_meaning": "动词，包含，纳入，注册成立公司",
+      "en": "We have incorporated customer suggestions into the new product design.",
+      "zh": "我们已将客户建议融入新产品设计中。"
+    },
+    {
+      "word": "increment",
+      "spelling": "I, N, C, R, E, M, E, N, T",
+      "spoken_meaning": "名词，增量，（薪水的）定期增加",
+      "en": "Employees receive an annual salary increment based on performance.",
+      "zh": "员工每年根据绩效获得加薪。"
+    },
+    {
+      "word": "indispensable",
+      "spelling": "I, N, D, I, S, P, E, N, S, A, B, L, E",
+      "spoken_meaning": "形容词，不可或缺的，必不可少的",
+      "en": "Her experience with overseas clients has made her indispensable to the team.",
+      "zh": "她与海外客户打交道的经验使她成为团队中不可或缺的一员。"
+    },
+    {
+      "word": "inflation",
+      "spelling": "I, N, F, L, A, T, I, O, N",
+      "spoken_meaning": "名词，通货膨胀，膨胀",
+      "en": "Wages have not kept pace with inflation over the past two years.",
+      "zh": "过去两年工资增长没有跟上通货膨胀。"
+    },
+    {
+      "word": "infrastructure",
+      "spelling": "I, N, F, R, A, S, T, R, U, C, T, U, R, E",
+      "spoken_meaning": "名词，基础设施，基础架构",
+      "en": "The city plans to invest heavily in public transportation infrastructure.",
+      "zh": "该市计划大力投资公共交通基础设施。"
+    },
+    {
+      "word": "ingredient",
+      "spelling": "I, N, G, R, E, D, I, E, N, T",
+      "spoken_meaning": "名词，成分，原料，（成功的）要素",
+      "en": "The restaurant uses only locally sourced ingredients.",
+      "zh": "这家餐厅只使用本地采购的食材。"
+    },
+    {
+      "word": "inquire",
+      "spelling": "I, N, Q, U, I, R, E",
+      "spoken_meaning": "动词，询问，打听",
+      "en": "I am writing to inquire about the marketing position advertised on your website.",
+      "zh": "我写信是想询问贵公司网站上发布的市场职位。"
+    },
+    {
+      "word": "installment",
+      "spelling": "I, N, S, T, A, L, L, M, E, N, T",
+      "spoken_meaning": "名词，分期付款（的一期），（连载的）一集",
+      "en": "Customers can pay for the furniture in twelve monthly installments.",
+      "zh": "顾客可以分十二个月分期支付家具款。"
+    },
+    {
+      "word": "instruct",
+      "spelling": "I, N, S, T, R, U, C, T",
+      "spoken_meaning": "动词，指示，命令，教授",
+      "en": "The manager instructed all employees to back up their files before Friday.",
+      "zh": "经理指示所有员工在周五前备份文件。"
+    },
+    {
+      "word": "insurance",
+      "spelling": "I, N, S, U, R, A, N, C, E",
+      "spoken_meaning": "名词，保险，保险费",
+      "en": "Full-time employees are eligible for health insurance after three months.",
+      "zh": "全职员工三个月后可享有医疗保险。"
+    },
+    {
+      "word": "integrate",
+      "spelling": "I, N, T, E, G, R, A, T, E",
+      "spoken_meaning": "动词，整合，使融入",
+      "en": "The new app integrates seamlessly with our existing accounting software.",
+      "zh": "这款新应用能与我们现有的会计软件无缝整合。"
+    },
+    {
+      "word": "interim",
+      "spelling": "I, N, T, E, R, I, M",
+      "spoken_meaning": "形容词或名词，临时的，过渡期的，过渡期间",
+      "en": "Ms. Patel will serve as interim director until a replacement is hired.",
+      "zh": "在聘到接任者之前，Patel 女士将担任代理主管。"
+    },
+    {
+      "word": "intermission",
+      "spelling": "I, N, T, E, R, M, I, S, S, I, O, N",
+      "spoken_meaning": "名词，中场休息，间歇",
+      "en": "Refreshments will be available in the lobby during the intermission.",
+      "zh": "中场休息时大厅将提供茶点。"
+    },
+    {
+      "word": "investigate",
+      "spelling": "I, N, V, E, S, T, I, G, A, T, E",
+      "spoken_meaning": "动词，调查，研究",
+      "en": "Technicians are investigating the cause of the power outage.",
+      "zh": "技术人员正在调查停电的原因。"
+    },
+    {
+      "word": "investment",
+      "spelling": "I, N, V, E, S, T, M, E, N, T",
+      "spoken_meaning": "名词，投资，投入",
+      "en": "The new software was a worthwhile investment because it cut processing time in half.",
+      "zh": "这套新软件是一项值得的投资，因为它把处理时间缩短了一半。"
+    },
+    {
+      "word": "issue",
+      "spelling": "I, S, S, U, E",
+      "spoken_meaning": "名词或动词，问题，（期刊）期号，发布，发放",
+      "en": "Visitor badges will be issued at the front desk upon arrival.",
+      "zh": "访客抵达后将在前台领取访客证。"
+    },
+    {
+      "word": "joint",
+      "spelling": "J, O, I, N, T",
+      "spoken_meaning": "形容词或名词，联合的，共同的，关节，接合处",
+      "en": "The two firms announced a joint venture to develop electric delivery vans.",
+      "zh": "两家公司宣布成立合资企业，共同研发电动送货车。"
+    },
+    {
+      "word": "jeopardize",
+      "spelling": "J, E, O, P, A, R, D, I, Z, E",
+      "spoken_meaning": "动词，危及，使陷入险境",
+      "en": "Further delays in shipping could jeopardize our contract with the retailer.",
+      "zh": "运输若再延误，可能会危及我们和零售商的合同。"
+    },
+    {
+      "word": "keen",
+      "spelling": "K, E, E, N",
+      "spoken_meaning": "形容词，热衷的，渴望的，敏锐的，激烈的",
+      "en": "Ms. Patel is keen to hire candidates with a keen eye for detail.",
+      "zh": "帕特尔女士很想招聘对细节观察敏锐的候选人。"
+    },
+    {
+      "word": "keynote",
+      "spelling": "K, E, Y, N, O, T, E",
+      "spoken_meaning": "名词或形容词，主旨，主题演讲的",
+      "en": "The CEO of Arlo Tech will deliver the keynote address on the first day of the conference.",
+      "zh": "Arlo 科技的首席执行官将在会议第一天发表主题演讲。"
+    },
+    {
+      "word": "label",
+      "spelling": "L, A, B, E, L",
+      "spoken_meaning": "名词或动词，标签，（唱片）品牌，贴标签",
+      "en": "Please make sure every box is clearly labeled before it leaves the warehouse.",
+      "zh": "请确保每个箱子出仓前都贴有清楚的标签。"
+    },
+    {
+      "word": "labor",
+      "spelling": "L, A, B, O, R",
+      "spoken_meaning": "名词或动词，劳动，劳工，人工（费）",
+      "en": "The repair estimate covers both parts and labor.",
+      "zh": "这份维修报价包含零件费和人工费。"
+    },
+    {
+      "word": "landlord",
+      "spelling": "L, A, N, D, L, O, R, D",
+      "spoken_meaning": "名词，房东，业主",
+      "en": "We need the landlord's approval before we can renovate the office.",
+      "zh": "我们得先获得房东批准，才能装修办公室。"
+    },
+    {
+      "word": "lapse",
+      "spelling": "L, A, P, S, E",
+      "spoken_meaning": "名词或动词，（合同、会员等）失效，过期，疏忽，（时间）流逝",
+      "en": "Renew your parking permit online so that it does not lapse at the end of the month.",
+      "zh": "请在线续办停车证，以免月底失效。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第20轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "illustrate",
+      "voice": "en",
+      "text": "illustrate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "illustrate",
+      "voice": "en",
+      "text": "I, L, L, U, S, T, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "illustrate",
+      "voice": "zh",
+      "text": "动词，说明，阐明，配插图",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "illustrate",
+      "voice": "en",
+      "text": "The chart illustrates how sales have changed over the past five years.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "illustrate",
+      "voice": "zh",
+      "text": "这张图表说明了过去五年的销售变化。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "immediate",
+      "voice": "en",
+      "text": "immediate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "immediate",
+      "voice": "en",
+      "text": "I, M, M, E, D, I, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "immediate",
+      "voice": "zh",
+      "text": "形容词，立即的，直接的，最接近的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "immediate",
+      "voice": "en",
+      "text": "Report any equipment malfunction to your immediate supervisor.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "immediate",
+      "voice": "zh",
+      "text": "任何设备故障请报告给你的直属上司。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "imply",
+      "voice": "en",
+      "text": "imply",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "imply",
+      "voice": "en",
+      "text": "I, M, P, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "imply",
+      "voice": "zh",
+      "text": "动词，暗示，意味着",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "imply",
+      "voice": "en",
+      "text": "What is implied about the new branch office?",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "imply",
+      "voice": "zh",
+      "text": "关于新分公司，文中暗示了什么？",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "import",
+      "voice": "en",
+      "text": "import",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "import",
+      "voice": "en",
+      "text": "I, M, P, O, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "import",
+      "voice": "zh",
+      "text": "动词或名词，进口，输入，进口商品",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "import",
+      "voice": "en",
+      "text": "The company imports most of its raw materials from Southeast Asia.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "import",
+      "voice": "zh",
+      "text": "公司大部分原材料从东南亚进口。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "inaugurate",
+      "voice": "en",
+      "text": "inaugurate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "inaugurate",
+      "voice": "en",
+      "text": "I, N, A, U, G, U, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "inaugurate",
+      "voice": "zh",
+      "text": "动词，为…举行开幕/就职典礼，开创",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "inaugurate",
+      "voice": "en",
+      "text": "The mayor will inaugurate the new convention center on Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "inaugurate",
+      "voice": "zh",
+      "text": "市长将于周五为新会展中心揭幕。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "income",
+      "voice": "en",
+      "text": "income",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "income",
+      "voice": "en",
+      "text": "I, N, C, O, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "income",
+      "voice": "zh",
+      "text": "名词，收入，所得",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "income",
+      "voice": "en",
+      "text": "Rental properties provide the firm with a steady source of income.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "income",
+      "voice": "zh",
+      "text": "出租物业为公司提供了稳定的收入来源。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "incorporate",
+      "voice": "en",
+      "text": "incorporate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "incorporate",
+      "voice": "en",
+      "text": "I, N, C, O, R, P, O, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "incorporate",
+      "voice": "zh",
+      "text": "动词，包含，纳入，注册成立公司",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "incorporate",
+      "voice": "en",
+      "text": "We have incorporated customer suggestions into the new product design.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "incorporate",
+      "voice": "zh",
+      "text": "我们已将客户建议融入新产品设计中。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "increment",
+      "voice": "en",
+      "text": "increment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "increment",
+      "voice": "en",
+      "text": "I, N, C, R, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "increment",
+      "voice": "zh",
+      "text": "名词，增量，（薪水的）定期增加",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "increment",
+      "voice": "en",
+      "text": "Employees receive an annual salary increment based on performance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "increment",
+      "voice": "zh",
+      "text": "员工每年根据绩效获得加薪。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "indispensable",
+      "voice": "en",
+      "text": "indispensable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "indispensable",
+      "voice": "en",
+      "text": "I, N, D, I, S, P, E, N, S, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "indispensable",
+      "voice": "zh",
+      "text": "形容词，不可或缺的，必不可少的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "indispensable",
+      "voice": "en",
+      "text": "Her experience with overseas clients has made her indispensable to the team.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "indispensable",
+      "voice": "zh",
+      "text": "她与海外客户打交道的经验使她成为团队中不可或缺的一员。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "inflation",
+      "voice": "en",
+      "text": "inflation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "inflation",
+      "voice": "en",
+      "text": "I, N, F, L, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "inflation",
+      "voice": "zh",
+      "text": "名词，通货膨胀，膨胀",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "inflation",
+      "voice": "en",
+      "text": "Wages have not kept pace with inflation over the past two years.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "inflation",
+      "voice": "zh",
+      "text": "过去两年工资增长没有跟上通货膨胀。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "infrastructure",
+      "voice": "en",
+      "text": "infrastructure",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "infrastructure",
+      "voice": "en",
+      "text": "I, N, F, R, A, S, T, R, U, C, T, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "infrastructure",
+      "voice": "zh",
+      "text": "名词，基础设施，基础架构",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "infrastructure",
+      "voice": "en",
+      "text": "The city plans to invest heavily in public transportation infrastructure.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "infrastructure",
+      "voice": "zh",
+      "text": "该市计划大力投资公共交通基础设施。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ingredient",
+      "voice": "en",
+      "text": "ingredient",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ingredient",
+      "voice": "en",
+      "text": "I, N, G, R, E, D, I, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ingredient",
+      "voice": "zh",
+      "text": "名词，成分，原料，（成功的）要素",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ingredient",
+      "voice": "en",
+      "text": "The restaurant uses only locally sourced ingredients.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ingredient",
+      "voice": "zh",
+      "text": "这家餐厅只使用本地采购的食材。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "inquire",
+      "voice": "en",
+      "text": "inquire",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "inquire",
+      "voice": "en",
+      "text": "I, N, Q, U, I, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "inquire",
+      "voice": "zh",
+      "text": "动词，询问，打听",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "inquire",
+      "voice": "en",
+      "text": "I am writing to inquire about the marketing position advertised on your website.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "inquire",
+      "voice": "zh",
+      "text": "我写信是想询问贵公司网站上发布的市场职位。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "installment",
+      "voice": "en",
+      "text": "installment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "installment",
+      "voice": "en",
+      "text": "I, N, S, T, A, L, L, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "installment",
+      "voice": "zh",
+      "text": "名词，分期付款（的一期），（连载的）一集",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "installment",
+      "voice": "en",
+      "text": "Customers can pay for the furniture in twelve monthly installments.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "installment",
+      "voice": "zh",
+      "text": "顾客可以分十二个月分期支付家具款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "instruct",
+      "voice": "en",
+      "text": "instruct",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "instruct",
+      "voice": "en",
+      "text": "I, N, S, T, R, U, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "instruct",
+      "voice": "zh",
+      "text": "动词，指示，命令，教授",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "instruct",
+      "voice": "en",
+      "text": "The manager instructed all employees to back up their files before Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "instruct",
+      "voice": "zh",
+      "text": "经理指示所有员工在周五前备份文件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "insurance",
+      "voice": "en",
+      "text": "insurance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "insurance",
+      "voice": "en",
+      "text": "I, N, S, U, R, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "insurance",
+      "voice": "zh",
+      "text": "名词，保险，保险费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "insurance",
+      "voice": "en",
+      "text": "Full-time employees are eligible for health insurance after three months.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "insurance",
+      "voice": "zh",
+      "text": "全职员工三个月后可享有医疗保险。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "integrate",
+      "voice": "en",
+      "text": "integrate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "integrate",
+      "voice": "en",
+      "text": "I, N, T, E, G, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "integrate",
+      "voice": "zh",
+      "text": "动词，整合，使融入",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "integrate",
+      "voice": "en",
+      "text": "The new app integrates seamlessly with our existing accounting software.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "integrate",
+      "voice": "zh",
+      "text": "这款新应用能与我们现有的会计软件无缝整合。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "interim",
+      "voice": "en",
+      "text": "interim",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "interim",
+      "voice": "en",
+      "text": "I, N, T, E, R, I, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "interim",
+      "voice": "zh",
+      "text": "形容词或名词，临时的，过渡期的，过渡期间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "interim",
+      "voice": "en",
+      "text": "Ms. Patel will serve as interim director until a replacement is hired.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "interim",
+      "voice": "zh",
+      "text": "在聘到接任者之前，Patel 女士将担任代理主管。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "intermission",
+      "voice": "en",
+      "text": "intermission",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "intermission",
+      "voice": "en",
+      "text": "I, N, T, E, R, M, I, S, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "intermission",
+      "voice": "zh",
+      "text": "名词，中场休息，间歇",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "intermission",
+      "voice": "en",
+      "text": "Refreshments will be available in the lobby during the intermission.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "intermission",
+      "voice": "zh",
+      "text": "中场休息时大厅将提供茶点。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "investigate",
+      "voice": "en",
+      "text": "investigate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "investigate",
+      "voice": "en",
+      "text": "I, N, V, E, S, T, I, G, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "investigate",
+      "voice": "zh",
+      "text": "动词，调查，研究",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "investigate",
+      "voice": "en",
+      "text": "Technicians are investigating the cause of the power outage.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "investigate",
+      "voice": "zh",
+      "text": "技术人员正在调查停电的原因。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "investment",
+      "voice": "en",
+      "text": "investment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "investment",
+      "voice": "en",
+      "text": "I, N, V, E, S, T, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "investment",
+      "voice": "zh",
+      "text": "名词，投资，投入",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "investment",
+      "voice": "en",
+      "text": "The new software was a worthwhile investment because it cut processing time in half.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "investment",
+      "voice": "zh",
+      "text": "这套新软件是一项值得的投资，因为它把处理时间缩短了一半。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "issue",
+      "voice": "en",
+      "text": "issue",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "issue",
+      "voice": "en",
+      "text": "I, S, S, U, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "issue",
+      "voice": "zh",
+      "text": "名词或动词，问题，（期刊）期号，发布，发放",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "issue",
+      "voice": "en",
+      "text": "Visitor badges will be issued at the front desk upon arrival.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "issue",
+      "voice": "zh",
+      "text": "访客抵达后将在前台领取访客证。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "joint",
+      "voice": "en",
+      "text": "joint",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "joint",
+      "voice": "en",
+      "text": "J, O, I, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "joint",
+      "voice": "zh",
+      "text": "形容词或名词，联合的，共同的，关节，接合处",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "joint",
+      "voice": "en",
+      "text": "The two firms announced a joint venture to develop electric delivery vans.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "joint",
+      "voice": "zh",
+      "text": "两家公司宣布成立合资企业，共同研发电动送货车。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "jeopardize",
+      "voice": "en",
+      "text": "jeopardize",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "jeopardize",
+      "voice": "en",
+      "text": "J, E, O, P, A, R, D, I, Z, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "jeopardize",
+      "voice": "zh",
+      "text": "动词，危及，使陷入险境",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "jeopardize",
+      "voice": "en",
+      "text": "Further delays in shipping could jeopardize our contract with the retailer.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "jeopardize",
+      "voice": "zh",
+      "text": "运输若再延误，可能会危及我们和零售商的合同。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "keen",
+      "voice": "en",
+      "text": "keen",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "keen",
+      "voice": "en",
+      "text": "K, E, E, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "keen",
+      "voice": "zh",
+      "text": "形容词，热衷的，渴望的，敏锐的，激烈的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "keen",
+      "voice": "en",
+      "text": "Ms. Patel is keen to hire candidates with a keen eye for detail.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "keen",
+      "voice": "zh",
+      "text": "帕特尔女士很想招聘对细节观察敏锐的候选人。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "keynote",
+      "voice": "en",
+      "text": "keynote",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "keynote",
+      "voice": "en",
+      "text": "K, E, Y, N, O, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "keynote",
+      "voice": "zh",
+      "text": "名词或形容词，主旨，主题演讲的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "keynote",
+      "voice": "en",
+      "text": "The CEO of Arlo Tech will deliver the keynote address on the first day of the conference.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "keynote",
+      "voice": "zh",
+      "text": "Arlo 科技的首席执行官将在会议第一天发表主题演讲。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "label",
+      "voice": "en",
+      "text": "label",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "label",
+      "voice": "en",
+      "text": "L, A, B, E, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "label",
+      "voice": "zh",
+      "text": "名词或动词，标签，（唱片）品牌，贴标签",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "label",
+      "voice": "en",
+      "text": "Please make sure every box is clearly labeled before it leaves the warehouse.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "label",
+      "voice": "zh",
+      "text": "请确保每个箱子出仓前都贴有清楚的标签。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "labor",
+      "voice": "en",
+      "text": "labor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "labor",
+      "voice": "en",
+      "text": "L, A, B, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "labor",
+      "voice": "zh",
+      "text": "名词或动词，劳动，劳工，人工（费）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "labor",
+      "voice": "en",
+      "text": "The repair estimate covers both parts and labor.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "labor",
+      "voice": "zh",
+      "text": "这份维修报价包含零件费和人工费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "landlord",
+      "voice": "en",
+      "text": "landlord",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "landlord",
+      "voice": "en",
+      "text": "L, A, N, D, L, O, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "landlord",
+      "voice": "zh",
+      "text": "名词，房东，业主",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "landlord",
+      "voice": "en",
+      "text": "We need the landlord's approval before we can renovate the office.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "landlord",
+      "voice": "zh",
+      "text": "我们得先获得房东批准，才能装修办公室。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lapse",
+      "voice": "en",
+      "text": "lapse",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lapse",
+      "voice": "en",
+      "text": "L, A, P, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lapse",
+      "voice": "zh",
+      "text": "名词或动词，（合同、会员等）失效，过期，疏忽，（时间）流逝",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lapse",
+      "voice": "en",
+      "text": "Renew your parking permit online so that it does not lapse at the end of the month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lapse",
+      "voice": "zh",
+      "text": "请在线续办停车证，以免月底失效。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第20轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

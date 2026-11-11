@@ -1,0 +1,1314 @@
+{
+  "id": "025",
+  "track": 25,
+  "title": "第 25 轨",
+  "word_count": 30,
+  "headwords": [
+    "accuracy",
+    "activate",
+    "additional",
+    "adjacent",
+    "adjust",
+    "administer",
+    "admission",
+    "adopt",
+    "advance",
+    "advantage",
+    "adverse",
+    "advertise",
+    "advise",
+    "advocate",
+    "affirm",
+    "afford",
+    "agency",
+    "agent",
+    "aggressive",
+    "agreement",
+    "aisle",
+    "alert",
+    "alliance",
+    "allot",
+    "alter",
+    "ambition",
+    "ambitious",
+    "amenity",
+    "ample",
+    "anniversary"
+  ],
+  "entries": [
+    {
+      "word": "accuracy",
+      "spelling": "A, C, C, U, R, A, C, Y",
+      "spoken_meaning": "名词，准确性，精确度",
+      "en": "Please double-check the figures for accuracy before submission.",
+      "zh": "提交前请再次核对数字的准确性。"
+    },
+    {
+      "word": "activate",
+      "spelling": "A, C, T, I, V, A, T, E",
+      "spoken_meaning": "动词，激活，启用，使运作",
+      "en": "You must activate your membership card within seven days.",
+      "zh": "你必须在七天内激活会员卡。"
+    },
+    {
+      "word": "additional",
+      "spelling": "A, D, D, I, T, I, O, N, A, L",
+      "spoken_meaning": "形容词，额外的，附加的，追加的",
+      "en": "Guests may request an additional night at a discounted rate.",
+      "zh": "客人可以优惠房价加订一晚。"
+    },
+    {
+      "word": "adjacent",
+      "spelling": "A, D, J, A, C, E, N, T",
+      "spoken_meaning": "形容词，邻近的，毗连的",
+      "en": "The conference room is adjacent to the main lobby.",
+      "zh": "会议室紧邻主大厅。"
+    },
+    {
+      "word": "adjust",
+      "spelling": "A, D, J, U, S, T",
+      "spoken_meaning": "动词，调整，调节，适应",
+      "en": "We may need to adjust the delivery date if the shipment is delayed.",
+      "zh": "如果货运延误，我们可能需要调整交货日期。"
+    },
+    {
+      "word": "administer",
+      "spelling": "A, D, M, I, N, I, S, T, E, R",
+      "spoken_meaning": "动词，管理，执行，施行",
+      "en": "The HR department will administer the annual employee survey.",
+      "zh": "人力资源部将负责实施年度员工调查。"
+    },
+    {
+      "word": "admission",
+      "spelling": "A, D, M, I, S, S, I, O, N",
+      "spoken_meaning": "名词，准许进入，入场费，承认",
+      "en": "Admission to the trade show is free for registered buyers.",
+      "zh": "注册采购商可免费进入该贸易展。"
+    },
+    {
+      "word": "adopt",
+      "spelling": "A, D, O, P, T",
+      "spoken_meaning": "动词，采用，采纳，收养",
+      "en": "The company will adopt a flexible work schedule starting in May.",
+      "zh": "公司将从五月起采用弹性工作制。"
+    },
+    {
+      "word": "advance",
+      "spelling": "A, D, V, A, N, C, E",
+      "spoken_meaning": "动词或名词，推进，提前，预付款",
+      "en": "Please pay a 30 percent deposit in advance to reserve the venue.",
+      "zh": "请提前支付百分之三十的定金以预订场地。"
+    },
+    {
+      "word": "advantage",
+      "spelling": "A, D, V, A, N, T, A, G, E",
+      "spoken_meaning": "名词，优势，有利条件，好处",
+      "en": "Our local warehouses give us a clear advantage over online-only rivals.",
+      "zh": "本地仓库使我们相对纯线上对手具有明显优势。"
+    },
+    {
+      "word": "adverse",
+      "spelling": "A, D, V, E, R, S, E",
+      "spoken_meaning": "形容词，不利的，负面的，有害的",
+      "en": "The delay was caused by adverse weather at the destination airport.",
+      "zh": "延误是由目的地机场的恶劣天气造成的。"
+    },
+    {
+      "word": "advertise",
+      "spelling": "A, D, V, E, R, T, I, S, E",
+      "spoken_meaning": "动词，做广告，宣传，征聘启事",
+      "en": "We plan to advertise the new service on social media this month.",
+      "zh": "我们计划本月在社交媒体上宣传这项新服务。"
+    },
+    {
+      "word": "advise",
+      "spelling": "A, D, V, I, S, E",
+      "spoken_meaning": "动词，建议，劝告，通知",
+      "en": "We advise all travelers to arrive two hours before departure.",
+      "zh": "我们建议所有旅客在出发前两小时到达。"
+    },
+    {
+      "word": "advocate",
+      "spelling": "A, D, V, O, C, A, T, E",
+      "spoken_meaning": "动词或名词，拥护，提倡，倡导者",
+      "en": "The CEO advocates for greater investment in employee training.",
+      "zh": "首席执行官主张加大对员工培训的投入。"
+    },
+    {
+      "word": "affirm",
+      "spelling": "A, F, F, I, R, M",
+      "spoken_meaning": "动词，申明，确认，肯定",
+      "en": "The spokesperson affirmed that the merger talks were still ongoing.",
+      "zh": "发言人确认并购谈判仍在进行中。"
+    },
+    {
+      "word": "afford",
+      "spelling": "A, F, F, O, R, D",
+      "spoken_meaning": "动词，负担得起，提供，给予",
+      "en": "Small firms cannot afford to ignore online customer reviews.",
+      "zh": "小企业忽视网上客户评价的代价太大。"
+    },
+    {
+      "word": "agency",
+      "spelling": "A, G, E, N, C, Y",
+      "spoken_meaning": "名词，代理机构，中介，政府部门",
+      "en": "She booked the corporate retreat through a local travel agency.",
+      "zh": "她通过当地旅行社预订了公司团建行程。"
+    },
+    {
+      "word": "agent",
+      "spelling": "A, G, E, N, T",
+      "spoken_meaning": "名词，代理人，经纪人，特工",
+      "en": "Please contact our booking agent to change your reservation.",
+      "zh": "如需更改预订，请联系我们的订票代理。"
+    },
+    {
+      "word": "aggressive",
+      "spelling": "A, G, G, R, E, S, S, I, V, E",
+      "spoken_meaning": "形容词，积极进取的，侵略性的，激烈的",
+      "en": "The firm launched an aggressive campaign to win market share.",
+      "zh": "该公司发起了积极的宣传活动以争夺市场份额。"
+    },
+    {
+      "word": "agreement",
+      "spelling": "A, G, R, E, E, M, E, N, T",
+      "spoken_meaning": "名词，协议，同意，一致",
+      "en": "Both parties signed a three-year supply agreement yesterday.",
+      "zh": "双方昨天签署了一份为期三年的供应协议。"
+    },
+    {
+      "word": "aisle",
+      "spelling": "A, I, S, L, E",
+      "spoken_meaning": "名词，过道，通道，（超市）货架通道",
+      "en": "Please keep your luggage out of the aisle during the flight.",
+      "zh": "飞行途中请勿将行李放在过道上。"
+    },
+    {
+      "word": "alert",
+      "spelling": "A, L, E, R, T",
+      "spoken_meaning": "形容词或动词或名词，警觉的，提醒，警报",
+      "en": "The system will alert managers to any unusual spending.",
+      "zh": "系统会提醒经理注意任何异常支出。"
+    },
+    {
+      "word": "alliance",
+      "spelling": "A, L, L, I, A, N, C, E",
+      "spoken_meaning": "名词，联盟，结盟，合作关系",
+      "en": "The two firms formed a strategic alliance to expand overseas.",
+      "zh": "两家公司结成战略联盟以拓展海外市场。"
+    },
+    {
+      "word": "allot",
+      "spelling": "A, L, L, O, T",
+      "spoken_meaning": "动词，分配，拨给（时间、资金、任务）",
+      "en": "Each department was allotted two weeks to complete the audit.",
+      "zh": "每个部门被分配两周时间完成审计。"
+    },
+    {
+      "word": "alter",
+      "spelling": "A, L, T, E, R",
+      "spoken_meaning": "动词，改变，修改，变更",
+      "en": "We may need to alter the delivery date if the shipment is delayed.",
+      "zh": "若货运延误，我们可能需要更改交货日期。"
+    },
+    {
+      "word": "ambition",
+      "spelling": "A, M, B, I, T, I, O, N",
+      "spoken_meaning": "名词，抱负，雄心，志向",
+      "en": "Her ambition is to become the regional sales director within five years.",
+      "zh": "她的抱负是在五年内成为区域销售总监。"
+    },
+    {
+      "word": "ambitious",
+      "spelling": "A, M, B, I, T, I, O, U, S",
+      "spoken_meaning": "形容词，有雄心的，宏大的，费力的",
+      "en": "The company set an ambitious sales target for the next quarter.",
+      "zh": "公司为下季度设定了宏大的销售目标。"
+    },
+    {
+      "word": "amenity",
+      "spelling": "A, M, E, N, I, T, Y",
+      "spoken_meaning": "名词，便利设施，舒适，生活福利",
+      "en": "The conference hotel offers free Wi-Fi and other useful amenities.",
+      "zh": "这家会议酒店提供免费无线网络及其他实用设施。"
+    },
+    {
+      "word": "ample",
+      "spelling": "A, M, P, L, E",
+      "spoken_meaning": "形容词，充足的，宽敞的，绰绰有余的",
+      "en": "Please arrive early so that you have ample time for registration.",
+      "zh": "请提前到达，以便有充足时间办理登记。"
+    },
+    {
+      "word": "anniversary",
+      "spelling": "A, N, N, I, V, E, R, S, A, R, Y",
+      "spoken_meaning": "名词，周年纪念日，周年庆",
+      "en": "The firm will host a dinner to mark its twentieth anniversary.",
+      "zh": "公司将举办晚宴庆祝成立二十周年。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第25轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "accuracy",
+      "voice": "en",
+      "text": "accuracy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "accuracy",
+      "voice": "en",
+      "text": "A, C, C, U, R, A, C, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "accuracy",
+      "voice": "zh",
+      "text": "名词，准确性，精确度",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "accuracy",
+      "voice": "en",
+      "text": "Please double-check the figures for accuracy before submission.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "accuracy",
+      "voice": "zh",
+      "text": "提交前请再次核对数字的准确性。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "activate",
+      "voice": "en",
+      "text": "activate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "activate",
+      "voice": "en",
+      "text": "A, C, T, I, V, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "activate",
+      "voice": "zh",
+      "text": "动词，激活，启用，使运作",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "activate",
+      "voice": "en",
+      "text": "You must activate your membership card within seven days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "activate",
+      "voice": "zh",
+      "text": "你必须在七天内激活会员卡。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "additional",
+      "voice": "en",
+      "text": "additional",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "additional",
+      "voice": "en",
+      "text": "A, D, D, I, T, I, O, N, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "additional",
+      "voice": "zh",
+      "text": "形容词，额外的，附加的，追加的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "additional",
+      "voice": "en",
+      "text": "Guests may request an additional night at a discounted rate.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "additional",
+      "voice": "zh",
+      "text": "客人可以优惠房价加订一晚。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "adjacent",
+      "voice": "en",
+      "text": "adjacent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "adjacent",
+      "voice": "en",
+      "text": "A, D, J, A, C, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "adjacent",
+      "voice": "zh",
+      "text": "形容词，邻近的，毗连的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "adjacent",
+      "voice": "en",
+      "text": "The conference room is adjacent to the main lobby.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "adjacent",
+      "voice": "zh",
+      "text": "会议室紧邻主大厅。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "adjust",
+      "voice": "en",
+      "text": "adjust",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "adjust",
+      "voice": "en",
+      "text": "A, D, J, U, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "adjust",
+      "voice": "zh",
+      "text": "动词，调整，调节，适应",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "adjust",
+      "voice": "en",
+      "text": "We may need to adjust the delivery date if the shipment is delayed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "adjust",
+      "voice": "zh",
+      "text": "如果货运延误，我们可能需要调整交货日期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "administer",
+      "voice": "en",
+      "text": "administer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "administer",
+      "voice": "en",
+      "text": "A, D, M, I, N, I, S, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "administer",
+      "voice": "zh",
+      "text": "动词，管理，执行，施行",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "administer",
+      "voice": "en",
+      "text": "The HR department will administer the annual employee survey.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "administer",
+      "voice": "zh",
+      "text": "人力资源部将负责实施年度员工调查。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "admission",
+      "voice": "en",
+      "text": "admission",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "admission",
+      "voice": "en",
+      "text": "A, D, M, I, S, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "admission",
+      "voice": "zh",
+      "text": "名词，准许进入，入场费，承认",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "admission",
+      "voice": "en",
+      "text": "Admission to the trade show is free for registered buyers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "admission",
+      "voice": "zh",
+      "text": "注册采购商可免费进入该贸易展。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "adopt",
+      "voice": "en",
+      "text": "adopt",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "adopt",
+      "voice": "en",
+      "text": "A, D, O, P, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "adopt",
+      "voice": "zh",
+      "text": "动词，采用，采纳，收养",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "adopt",
+      "voice": "en",
+      "text": "The company will adopt a flexible work schedule starting in May.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "adopt",
+      "voice": "zh",
+      "text": "公司将从五月起采用弹性工作制。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "advance",
+      "voice": "en",
+      "text": "advance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "advance",
+      "voice": "en",
+      "text": "A, D, V, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "advance",
+      "voice": "zh",
+      "text": "动词或名词，推进，提前，预付款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "advance",
+      "voice": "en",
+      "text": "Please pay a 30 percent deposit in advance to reserve the venue.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "advance",
+      "voice": "zh",
+      "text": "请提前支付百分之三十的定金以预订场地。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "advantage",
+      "voice": "en",
+      "text": "advantage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "advantage",
+      "voice": "en",
+      "text": "A, D, V, A, N, T, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "advantage",
+      "voice": "zh",
+      "text": "名词，优势，有利条件，好处",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "advantage",
+      "voice": "en",
+      "text": "Our local warehouses give us a clear advantage over online-only rivals.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "advantage",
+      "voice": "zh",
+      "text": "本地仓库使我们相对纯线上对手具有明显优势。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "adverse",
+      "voice": "en",
+      "text": "adverse",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "adverse",
+      "voice": "en",
+      "text": "A, D, V, E, R, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "adverse",
+      "voice": "zh",
+      "text": "形容词，不利的，负面的，有害的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "adverse",
+      "voice": "en",
+      "text": "The delay was caused by adverse weather at the destination airport.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "adverse",
+      "voice": "zh",
+      "text": "延误是由目的地机场的恶劣天气造成的。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "advertise",
+      "voice": "en",
+      "text": "advertise",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "advertise",
+      "voice": "en",
+      "text": "A, D, V, E, R, T, I, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "advertise",
+      "voice": "zh",
+      "text": "动词，做广告，宣传，征聘启事",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "advertise",
+      "voice": "en",
+      "text": "We plan to advertise the new service on social media this month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "advertise",
+      "voice": "zh",
+      "text": "我们计划本月在社交媒体上宣传这项新服务。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "advise",
+      "voice": "en",
+      "text": "advise",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "advise",
+      "voice": "en",
+      "text": "A, D, V, I, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "advise",
+      "voice": "zh",
+      "text": "动词，建议，劝告，通知",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "advise",
+      "voice": "en",
+      "text": "We advise all travelers to arrive two hours before departure.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "advise",
+      "voice": "zh",
+      "text": "我们建议所有旅客在出发前两小时到达。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "advocate",
+      "voice": "en",
+      "text": "advocate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "advocate",
+      "voice": "en",
+      "text": "A, D, V, O, C, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "advocate",
+      "voice": "zh",
+      "text": "动词或名词，拥护，提倡，倡导者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "advocate",
+      "voice": "en",
+      "text": "The CEO advocates for greater investment in employee training.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "advocate",
+      "voice": "zh",
+      "text": "首席执行官主张加大对员工培训的投入。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "affirm",
+      "voice": "en",
+      "text": "affirm",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "affirm",
+      "voice": "en",
+      "text": "A, F, F, I, R, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "affirm",
+      "voice": "zh",
+      "text": "动词，申明，确认，肯定",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "affirm",
+      "voice": "en",
+      "text": "The spokesperson affirmed that the merger talks were still ongoing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "affirm",
+      "voice": "zh",
+      "text": "发言人确认并购谈判仍在进行中。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "afford",
+      "voice": "en",
+      "text": "afford",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "afford",
+      "voice": "en",
+      "text": "A, F, F, O, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "afford",
+      "voice": "zh",
+      "text": "动词，负担得起，提供，给予",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "afford",
+      "voice": "en",
+      "text": "Small firms cannot afford to ignore online customer reviews.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "afford",
+      "voice": "zh",
+      "text": "小企业忽视网上客户评价的代价太大。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "agency",
+      "voice": "en",
+      "text": "agency",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "agency",
+      "voice": "en",
+      "text": "A, G, E, N, C, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "agency",
+      "voice": "zh",
+      "text": "名词，代理机构，中介，政府部门",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "agency",
+      "voice": "en",
+      "text": "She booked the corporate retreat through a local travel agency.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "agency",
+      "voice": "zh",
+      "text": "她通过当地旅行社预订了公司团建行程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "agent",
+      "voice": "en",
+      "text": "agent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "agent",
+      "voice": "en",
+      "text": "A, G, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "agent",
+      "voice": "zh",
+      "text": "名词，代理人，经纪人，特工",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "agent",
+      "voice": "en",
+      "text": "Please contact our booking agent to change your reservation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "agent",
+      "voice": "zh",
+      "text": "如需更改预订，请联系我们的订票代理。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "aggressive",
+      "voice": "en",
+      "text": "aggressive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "aggressive",
+      "voice": "en",
+      "text": "A, G, G, R, E, S, S, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "aggressive",
+      "voice": "zh",
+      "text": "形容词，积极进取的，侵略性的，激烈的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "aggressive",
+      "voice": "en",
+      "text": "The firm launched an aggressive campaign to win market share.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "aggressive",
+      "voice": "zh",
+      "text": "该公司发起了积极的宣传活动以争夺市场份额。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "agreement",
+      "voice": "en",
+      "text": "agreement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "agreement",
+      "voice": "en",
+      "text": "A, G, R, E, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "agreement",
+      "voice": "zh",
+      "text": "名词，协议，同意，一致",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "agreement",
+      "voice": "en",
+      "text": "Both parties signed a three-year supply agreement yesterday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "agreement",
+      "voice": "zh",
+      "text": "双方昨天签署了一份为期三年的供应协议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "aisle",
+      "voice": "en",
+      "text": "aisle",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "aisle",
+      "voice": "en",
+      "text": "A, I, S, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "aisle",
+      "voice": "zh",
+      "text": "名词，过道，通道，（超市）货架通道",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "aisle",
+      "voice": "en",
+      "text": "Please keep your luggage out of the aisle during the flight.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "aisle",
+      "voice": "zh",
+      "text": "飞行途中请勿将行李放在过道上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "alert",
+      "voice": "en",
+      "text": "alert",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "alert",
+      "voice": "en",
+      "text": "A, L, E, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "alert",
+      "voice": "zh",
+      "text": "形容词或动词或名词，警觉的，提醒，警报",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "alert",
+      "voice": "en",
+      "text": "The system will alert managers to any unusual spending.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "alert",
+      "voice": "zh",
+      "text": "系统会提醒经理注意任何异常支出。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "alliance",
+      "voice": "en",
+      "text": "alliance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "alliance",
+      "voice": "en",
+      "text": "A, L, L, I, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "alliance",
+      "voice": "zh",
+      "text": "名词，联盟，结盟，合作关系",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "alliance",
+      "voice": "en",
+      "text": "The two firms formed a strategic alliance to expand overseas.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "alliance",
+      "voice": "zh",
+      "text": "两家公司结成战略联盟以拓展海外市场。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "allot",
+      "voice": "en",
+      "text": "allot",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "allot",
+      "voice": "en",
+      "text": "A, L, L, O, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "allot",
+      "voice": "zh",
+      "text": "动词，分配，拨给（时间、资金、任务）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "allot",
+      "voice": "en",
+      "text": "Each department was allotted two weeks to complete the audit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "allot",
+      "voice": "zh",
+      "text": "每个部门被分配两周时间完成审计。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "alter",
+      "voice": "en",
+      "text": "alter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "alter",
+      "voice": "en",
+      "text": "A, L, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "alter",
+      "voice": "zh",
+      "text": "动词，改变，修改，变更",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "alter",
+      "voice": "en",
+      "text": "We may need to alter the delivery date if the shipment is delayed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "alter",
+      "voice": "zh",
+      "text": "若货运延误，我们可能需要更改交货日期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ambition",
+      "voice": "en",
+      "text": "ambition",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ambition",
+      "voice": "en",
+      "text": "A, M, B, I, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ambition",
+      "voice": "zh",
+      "text": "名词，抱负，雄心，志向",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ambition",
+      "voice": "en",
+      "text": "Her ambition is to become the regional sales director within five years.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ambition",
+      "voice": "zh",
+      "text": "她的抱负是在五年内成为区域销售总监。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ambitious",
+      "voice": "en",
+      "text": "ambitious",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ambitious",
+      "voice": "en",
+      "text": "A, M, B, I, T, I, O, U, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ambitious",
+      "voice": "zh",
+      "text": "形容词，有雄心的，宏大的，费力的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ambitious",
+      "voice": "en",
+      "text": "The company set an ambitious sales target for the next quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ambitious",
+      "voice": "zh",
+      "text": "公司为下季度设定了宏大的销售目标。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "amenity",
+      "voice": "en",
+      "text": "amenity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "amenity",
+      "voice": "en",
+      "text": "A, M, E, N, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "amenity",
+      "voice": "zh",
+      "text": "名词，便利设施，舒适，生活福利",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "amenity",
+      "voice": "en",
+      "text": "The conference hotel offers free Wi-Fi and other useful amenities.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "amenity",
+      "voice": "zh",
+      "text": "这家会议酒店提供免费无线网络及其他实用设施。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ample",
+      "voice": "en",
+      "text": "ample",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ample",
+      "voice": "en",
+      "text": "A, M, P, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ample",
+      "voice": "zh",
+      "text": "形容词，充足的，宽敞的，绰绰有余的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ample",
+      "voice": "en",
+      "text": "Please arrive early so that you have ample time for registration.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ample",
+      "voice": "zh",
+      "text": "请提前到达，以便有充足时间办理登记。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "anniversary",
+      "voice": "en",
+      "text": "anniversary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "anniversary",
+      "voice": "en",
+      "text": "A, N, N, I, V, E, R, S, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "anniversary",
+      "voice": "zh",
+      "text": "名词，周年纪念日，周年庆",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "anniversary",
+      "voice": "en",
+      "text": "The firm will host a dinner to mark its twentieth anniversary.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "anniversary",
+      "voice": "zh",
+      "text": "公司将举办晚宴庆祝成立二十周年。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第25轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

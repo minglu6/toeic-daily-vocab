@@ -1,0 +1,1314 @@
+{
+  "id": "013",
+  "track": 13,
+  "title": "第 13 轨",
+  "word_count": 30,
+  "headwords": [
+    "suppose",
+    "surcharge",
+    "sustain",
+    "temporary",
+    "tenant",
+    "tender",
+    "tentative",
+    "territory",
+    "thorough",
+    "threaten",
+    "thrive",
+    "tolerate",
+    "trademark",
+    "transaction",
+    "transform",
+    "transit",
+    "transmit",
+    "transport",
+    "trend",
+    "trial",
+    "ultimate",
+    "unanimous",
+    "undergo",
+    "underestimate",
+    "undertake",
+    "unemployment",
+    "unexpected",
+    "uniform",
+    "unique",
+    "update"
+  ],
+  "entries": [
+    {
+      "word": "suppose",
+      "spelling": "S, U, P, P, O, S, E",
+      "spoken_meaning": "动词，假定，认为，猜想",
+      "en": "Suppose we increase the budget by ten percent—what happens next?",
+      "zh": "假定我们把预算提高百分之十——接下来会怎样？"
+    },
+    {
+      "word": "surcharge",
+      "spelling": "S, U, R, C, H, A, R, G, E",
+      "spoken_meaning": "名词或动词，附加费，加收费用",
+      "en": "A fuel surcharge will be added to all overseas shipments.",
+      "zh": "所有海外货运都将加收燃油附加费。"
+    },
+    {
+      "word": "sustain",
+      "spelling": "S, U, S, T, A, I, N",
+      "spoken_meaning": "动词，维持，承受，支撑",
+      "en": "The company cannot sustain this level of spending indefinitely.",
+      "zh": "公司无法无限期地维持这种开支水平。"
+    },
+    {
+      "word": "temporary",
+      "spelling": "T, E, M, P, O, R, A, R, Y",
+      "spoken_meaning": "形容词，临时的，暂时的",
+      "en": "We hired temporary staff to cover the holiday peak season.",
+      "zh": "我们招聘了临时员工以应对节日旺季。"
+    },
+    {
+      "word": "tenant",
+      "spelling": "T, E, N, A, N, T",
+      "spoken_meaning": "名词，承租人，租户",
+      "en": "Each tenant must sign a twelve-month lease for the office space.",
+      "zh": "每位租户必须为办公空间签署为期十二个月的租约。"
+    },
+    {
+      "word": "tender",
+      "spelling": "T, E, N, D, E, R",
+      "spoken_meaning": "名词或动词或形容词，投标，提出（报价），温柔的",
+      "en": "Three vendors submitted a tender for the catering contract.",
+      "zh": "三家供应商就餐饮合同递交了标书。"
+    },
+    {
+      "word": "tentative",
+      "spelling": "T, E, N, T, A, T, I, V, E",
+      "spoken_meaning": "形容词，暂定的，试探性的",
+      "en": "Please hold Monday afternoon as a tentative meeting time.",
+      "zh": "请暂定周一下午作为会议时间。"
+    },
+    {
+      "word": "territory",
+      "spelling": "T, E, R, R, I, T, O, R, Y",
+      "spoken_meaning": "名词，地区，销售区域，领地",
+      "en": "He was assigned a new sales territory in the Midwest.",
+      "zh": "他被分配到中西部一个新的销售区域。"
+    },
+    {
+      "word": "thorough",
+      "spelling": "T, H, O, R, O, U, G, H",
+      "spoken_meaning": "形容词，彻底的，详尽的",
+      "en": "Please conduct a thorough review of the safety procedures.",
+      "zh": "请对安全流程进行一次全面审核。"
+    },
+    {
+      "word": "threaten",
+      "spelling": "T, H, R, E, A, T, E, N",
+      "spoken_meaning": "动词，威胁，危及，有…危险",
+      "en": "Rising costs threaten our ability to meet the delivery deadline.",
+      "zh": "成本上升危及我们按期交货的能力。"
+    },
+    {
+      "word": "thrive",
+      "spelling": "T, H, R, I, V, E",
+      "spoken_meaning": "动词，繁荣，茁壮成长，兴旺",
+      "en": "Small retailers can thrive in niche markets with loyal customers.",
+      "zh": "小型零售商可以在拥有忠实客户的细分市场中兴旺发展。"
+    },
+    {
+      "word": "tolerate",
+      "spelling": "T, O, L, E, R, A, T, E",
+      "spoken_meaning": "动词，容忍，容许，耐受",
+      "en": "The company will not tolerate any violation of safety rules.",
+      "zh": "公司不会容忍任何违反安全规定的行为。"
+    },
+    {
+      "word": "trademark",
+      "spelling": "T, R, A, D, E, M, A, R, K",
+      "spoken_meaning": "名词，商标，标志性特征",
+      "en": "Legal counsel advised us to register the trademark overseas.",
+      "zh": "法律顾问建议我们在海外注册该商标。"
+    },
+    {
+      "word": "transaction",
+      "spelling": "T, R, A, N, S, A, C, T, I, O, N",
+      "spoken_meaning": "名词，交易，业务往来",
+      "en": "All online transactions are protected by encryption.",
+      "zh": "所有在线交易都受到加密保护。"
+    },
+    {
+      "word": "transform",
+      "spelling": "T, R, A, N, S, F, O, R, M",
+      "spoken_meaning": "动词，转变，改造，使改观",
+      "en": "Automation will transform how we process customer orders.",
+      "zh": "自动化将改变我们处理客户订单的方式。"
+    },
+    {
+      "word": "transit",
+      "spelling": "T, R, A, N, S, I, T",
+      "spoken_meaning": "名词或动词，运输，过境，中转",
+      "en": "The shipment is currently in transit and should arrive Friday.",
+      "zh": "货物目前正在运输途中，预计周五到达。"
+    },
+    {
+      "word": "transmit",
+      "spelling": "T, R, A, N, S, M, I, T",
+      "spoken_meaning": "动词，传送，传输，传达",
+      "en": "Please transmit the signed contract to our legal department.",
+      "zh": "请将已签署的合同传送给我们的法务部门。"
+    },
+    {
+      "word": "transport",
+      "spelling": "T, R, A, N, S, P, O, R, T",
+      "spoken_meaning": "名词或动词，运输，运送，交通工具",
+      "en": "We need a reliable firm to transport goods across the region.",
+      "zh": "我们需要一家可靠的公司在该地区运送货物。"
+    },
+    {
+      "word": "trend",
+      "spelling": "T, R, E, N, D",
+      "spoken_meaning": "名词或动词，趋势，潮流，倾向",
+      "en": "The latest report shows an upward trend in online bookings.",
+      "zh": "最新报告显示在线预订呈上升趋势。"
+    },
+    {
+      "word": "trial",
+      "spelling": "T, R, I, A, L",
+      "spoken_meaning": "名词或形容词，试用，试验，审判",
+      "en": "New hires complete a three-month trial period before confirmation.",
+      "zh": "新员工在转正前需完成三个月的试用期。"
+    },
+    {
+      "word": "ultimate",
+      "spelling": "U, L, T, I, M, A, T, E",
+      "spoken_meaning": "形容词或名词，最终的，终极的，最终结果",
+      "en": "Our ultimate goal is to expand into three new markets this year.",
+      "zh": "我们的最终目标是今年拓展到三个新市场。"
+    },
+    {
+      "word": "unanimous",
+      "spelling": "U, N, A, N, I, M, O, U, S",
+      "spoken_meaning": "形容词，一致同意的，无异议的",
+      "en": "The board reached a unanimous decision to approve the merger.",
+      "zh": "董事会一致决定批准这项并购。"
+    },
+    {
+      "word": "undergo",
+      "spelling": "U, N, D, E, R, G, O",
+      "spoken_meaning": "动词，经历，接受（检查/手术/改造等）",
+      "en": "The warehouse will undergo renovations throughout October.",
+      "zh": "仓库将在整个十月进行翻修。"
+    },
+    {
+      "word": "underestimate",
+      "spelling": "U, N, D, E, R, E, S, T, I, M, A, T, E",
+      "spoken_meaning": "动词或名词，低估，估计不足",
+      "en": "We should not underestimate the demand for remote support.",
+      "zh": "我们不应低估对远程支持的需求。"
+    },
+    {
+      "word": "undertake",
+      "spelling": "U, N, D, E, R, T, A, K, E",
+      "spoken_meaning": "动词，承担，着手做，承诺",
+      "en": "Our team will undertake a full review of the supplier contracts.",
+      "zh": "我们团队将全面审查供应商合同。"
+    },
+    {
+      "word": "unemployment",
+      "spelling": "U, N, E, M, P, L, O, Y, M, E, N, T",
+      "spoken_meaning": "名词，失业，失业率",
+      "en": "The report shows a slight decline in the regional unemployment rate.",
+      "zh": "报告显示该地区失业率略有下降。"
+    },
+    {
+      "word": "unexpected",
+      "spelling": "U, N, E, X, P, E, C, T, E, D",
+      "spoken_meaning": "形容词，意外的，出乎意料的",
+      "en": "An unexpected delay in customs held up the shipment.",
+      "zh": "海关的意外延误耽误了这批货物。"
+    },
+    {
+      "word": "uniform",
+      "spelling": "U, N, I, F, O, R, M",
+      "spoken_meaning": "形容词或名词，统一的，一致的，制服",
+      "en": "All branches must follow uniform safety standards.",
+      "zh": "所有分支机构必须遵循统一的安全标准。"
+    },
+    {
+      "word": "unique",
+      "spelling": "U, N, I, Q, U, E",
+      "spoken_meaning": "形容词，独特的，独一无二的",
+      "en": "The app's unique feature is real-time expense tracking.",
+      "zh": "这款应用的独特功能是实时费用追踪。"
+    },
+    {
+      "word": "update",
+      "spelling": "U, P, D, A, T, E",
+      "spoken_meaning": "动词或名词，更新，最新信息",
+      "en": "Please update the client database before Friday's meeting.",
+      "zh": "请在周五会议前更新客户数据库。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第13轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "suppose",
+      "voice": "en",
+      "text": "suppose",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "suppose",
+      "voice": "en",
+      "text": "S, U, P, P, O, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "suppose",
+      "voice": "zh",
+      "text": "动词，假定，认为，猜想",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "suppose",
+      "voice": "en",
+      "text": "Suppose we increase the budget by ten percent—what happens next?",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "suppose",
+      "voice": "zh",
+      "text": "假定我们把预算提高百分之十——接下来会怎样？",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "surcharge",
+      "voice": "en",
+      "text": "surcharge",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "surcharge",
+      "voice": "en",
+      "text": "S, U, R, C, H, A, R, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "surcharge",
+      "voice": "zh",
+      "text": "名词或动词，附加费，加收费用",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "surcharge",
+      "voice": "en",
+      "text": "A fuel surcharge will be added to all overseas shipments.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "surcharge",
+      "voice": "zh",
+      "text": "所有海外货运都将加收燃油附加费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sustain",
+      "voice": "en",
+      "text": "sustain",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sustain",
+      "voice": "en",
+      "text": "S, U, S, T, A, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sustain",
+      "voice": "zh",
+      "text": "动词，维持，承受，支撑",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sustain",
+      "voice": "en",
+      "text": "The company cannot sustain this level of spending indefinitely.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sustain",
+      "voice": "zh",
+      "text": "公司无法无限期地维持这种开支水平。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "temporary",
+      "voice": "en",
+      "text": "temporary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "temporary",
+      "voice": "en",
+      "text": "T, E, M, P, O, R, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "temporary",
+      "voice": "zh",
+      "text": "形容词，临时的，暂时的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "temporary",
+      "voice": "en",
+      "text": "We hired temporary staff to cover the holiday peak season.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "temporary",
+      "voice": "zh",
+      "text": "我们招聘了临时员工以应对节日旺季。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tenant",
+      "voice": "en",
+      "text": "tenant",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tenant",
+      "voice": "en",
+      "text": "T, E, N, A, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tenant",
+      "voice": "zh",
+      "text": "名词，承租人，租户",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tenant",
+      "voice": "en",
+      "text": "Each tenant must sign a twelve-month lease for the office space.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tenant",
+      "voice": "zh",
+      "text": "每位租户必须为办公空间签署为期十二个月的租约。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tender",
+      "voice": "en",
+      "text": "tender",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tender",
+      "voice": "en",
+      "text": "T, E, N, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tender",
+      "voice": "zh",
+      "text": "名词或动词或形容词，投标，提出（报价），温柔的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tender",
+      "voice": "en",
+      "text": "Three vendors submitted a tender for the catering contract.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tender",
+      "voice": "zh",
+      "text": "三家供应商就餐饮合同递交了标书。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tentative",
+      "voice": "en",
+      "text": "tentative",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tentative",
+      "voice": "en",
+      "text": "T, E, N, T, A, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tentative",
+      "voice": "zh",
+      "text": "形容词，暂定的，试探性的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tentative",
+      "voice": "en",
+      "text": "Please hold Monday afternoon as a tentative meeting time.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tentative",
+      "voice": "zh",
+      "text": "请暂定周一下午作为会议时间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "territory",
+      "voice": "en",
+      "text": "territory",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "territory",
+      "voice": "en",
+      "text": "T, E, R, R, I, T, O, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "territory",
+      "voice": "zh",
+      "text": "名词，地区，销售区域，领地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "territory",
+      "voice": "en",
+      "text": "He was assigned a new sales territory in the Midwest.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "territory",
+      "voice": "zh",
+      "text": "他被分配到中西部一个新的销售区域。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "thorough",
+      "voice": "en",
+      "text": "thorough",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "thorough",
+      "voice": "en",
+      "text": "T, H, O, R, O, U, G, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "thorough",
+      "voice": "zh",
+      "text": "形容词，彻底的，详尽的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "thorough",
+      "voice": "en",
+      "text": "Please conduct a thorough review of the safety procedures.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "thorough",
+      "voice": "zh",
+      "text": "请对安全流程进行一次全面审核。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "threaten",
+      "voice": "en",
+      "text": "threaten",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "threaten",
+      "voice": "en",
+      "text": "T, H, R, E, A, T, E, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "threaten",
+      "voice": "zh",
+      "text": "动词，威胁，危及，有…危险",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "threaten",
+      "voice": "en",
+      "text": "Rising costs threaten our ability to meet the delivery deadline.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "threaten",
+      "voice": "zh",
+      "text": "成本上升危及我们按期交货的能力。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "thrive",
+      "voice": "en",
+      "text": "thrive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "thrive",
+      "voice": "en",
+      "text": "T, H, R, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "thrive",
+      "voice": "zh",
+      "text": "动词，繁荣，茁壮成长，兴旺",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "thrive",
+      "voice": "en",
+      "text": "Small retailers can thrive in niche markets with loyal customers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "thrive",
+      "voice": "zh",
+      "text": "小型零售商可以在拥有忠实客户的细分市场中兴旺发展。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tolerate",
+      "voice": "en",
+      "text": "tolerate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tolerate",
+      "voice": "en",
+      "text": "T, O, L, E, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tolerate",
+      "voice": "zh",
+      "text": "动词，容忍，容许，耐受",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tolerate",
+      "voice": "en",
+      "text": "The company will not tolerate any violation of safety rules.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tolerate",
+      "voice": "zh",
+      "text": "公司不会容忍任何违反安全规定的行为。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "trademark",
+      "voice": "en",
+      "text": "trademark",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "trademark",
+      "voice": "en",
+      "text": "T, R, A, D, E, M, A, R, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "trademark",
+      "voice": "zh",
+      "text": "名词，商标，标志性特征",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "trademark",
+      "voice": "en",
+      "text": "Legal counsel advised us to register the trademark overseas.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "trademark",
+      "voice": "zh",
+      "text": "法律顾问建议我们在海外注册该商标。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "transaction",
+      "voice": "en",
+      "text": "transaction",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "transaction",
+      "voice": "en",
+      "text": "T, R, A, N, S, A, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "transaction",
+      "voice": "zh",
+      "text": "名词，交易，业务往来",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "transaction",
+      "voice": "en",
+      "text": "All online transactions are protected by encryption.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "transaction",
+      "voice": "zh",
+      "text": "所有在线交易都受到加密保护。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "transform",
+      "voice": "en",
+      "text": "transform",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "transform",
+      "voice": "en",
+      "text": "T, R, A, N, S, F, O, R, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "transform",
+      "voice": "zh",
+      "text": "动词，转变，改造，使改观",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "transform",
+      "voice": "en",
+      "text": "Automation will transform how we process customer orders.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "transform",
+      "voice": "zh",
+      "text": "自动化将改变我们处理客户订单的方式。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "transit",
+      "voice": "en",
+      "text": "transit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "transit",
+      "voice": "en",
+      "text": "T, R, A, N, S, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "transit",
+      "voice": "zh",
+      "text": "名词或动词，运输，过境，中转",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "transit",
+      "voice": "en",
+      "text": "The shipment is currently in transit and should arrive Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "transit",
+      "voice": "zh",
+      "text": "货物目前正在运输途中，预计周五到达。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "transmit",
+      "voice": "en",
+      "text": "transmit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "transmit",
+      "voice": "en",
+      "text": "T, R, A, N, S, M, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "transmit",
+      "voice": "zh",
+      "text": "动词，传送，传输，传达",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "transmit",
+      "voice": "en",
+      "text": "Please transmit the signed contract to our legal department.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "transmit",
+      "voice": "zh",
+      "text": "请将已签署的合同传送给我们的法务部门。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "transport",
+      "voice": "en",
+      "text": "transport",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "transport",
+      "voice": "en",
+      "text": "T, R, A, N, S, P, O, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "transport",
+      "voice": "zh",
+      "text": "名词或动词，运输，运送，交通工具",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "transport",
+      "voice": "en",
+      "text": "We need a reliable firm to transport goods across the region.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "transport",
+      "voice": "zh",
+      "text": "我们需要一家可靠的公司在该地区运送货物。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "trend",
+      "voice": "en",
+      "text": "trend",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "trend",
+      "voice": "en",
+      "text": "T, R, E, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "trend",
+      "voice": "zh",
+      "text": "名词或动词，趋势，潮流，倾向",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "trend",
+      "voice": "en",
+      "text": "The latest report shows an upward trend in online bookings.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "trend",
+      "voice": "zh",
+      "text": "最新报告显示在线预订呈上升趋势。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "trial",
+      "voice": "en",
+      "text": "trial",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "trial",
+      "voice": "en",
+      "text": "T, R, I, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "trial",
+      "voice": "zh",
+      "text": "名词或形容词，试用，试验，审判",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "trial",
+      "voice": "en",
+      "text": "New hires complete a three-month trial period before confirmation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "trial",
+      "voice": "zh",
+      "text": "新员工在转正前需完成三个月的试用期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ultimate",
+      "voice": "en",
+      "text": "ultimate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ultimate",
+      "voice": "en",
+      "text": "U, L, T, I, M, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ultimate",
+      "voice": "zh",
+      "text": "形容词或名词，最终的，终极的，最终结果",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ultimate",
+      "voice": "en",
+      "text": "Our ultimate goal is to expand into three new markets this year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ultimate",
+      "voice": "zh",
+      "text": "我们的最终目标是今年拓展到三个新市场。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "unanimous",
+      "voice": "en",
+      "text": "unanimous",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "unanimous",
+      "voice": "en",
+      "text": "U, N, A, N, I, M, O, U, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "unanimous",
+      "voice": "zh",
+      "text": "形容词，一致同意的，无异议的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "unanimous",
+      "voice": "en",
+      "text": "The board reached a unanimous decision to approve the merger.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "unanimous",
+      "voice": "zh",
+      "text": "董事会一致决定批准这项并购。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "undergo",
+      "voice": "en",
+      "text": "undergo",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "undergo",
+      "voice": "en",
+      "text": "U, N, D, E, R, G, O",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "undergo",
+      "voice": "zh",
+      "text": "动词，经历，接受（检查/手术/改造等）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "undergo",
+      "voice": "en",
+      "text": "The warehouse will undergo renovations throughout October.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "undergo",
+      "voice": "zh",
+      "text": "仓库将在整个十月进行翻修。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "underestimate",
+      "voice": "en",
+      "text": "underestimate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "underestimate",
+      "voice": "en",
+      "text": "U, N, D, E, R, E, S, T, I, M, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "underestimate",
+      "voice": "zh",
+      "text": "动词或名词，低估，估计不足",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "underestimate",
+      "voice": "en",
+      "text": "We should not underestimate the demand for remote support.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "underestimate",
+      "voice": "zh",
+      "text": "我们不应低估对远程支持的需求。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "undertake",
+      "voice": "en",
+      "text": "undertake",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "undertake",
+      "voice": "en",
+      "text": "U, N, D, E, R, T, A, K, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "undertake",
+      "voice": "zh",
+      "text": "动词，承担，着手做，承诺",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "undertake",
+      "voice": "en",
+      "text": "Our team will undertake a full review of the supplier contracts.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "undertake",
+      "voice": "zh",
+      "text": "我们团队将全面审查供应商合同。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "unemployment",
+      "voice": "en",
+      "text": "unemployment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "unemployment",
+      "voice": "en",
+      "text": "U, N, E, M, P, L, O, Y, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "unemployment",
+      "voice": "zh",
+      "text": "名词，失业，失业率",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "unemployment",
+      "voice": "en",
+      "text": "The report shows a slight decline in the regional unemployment rate.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "unemployment",
+      "voice": "zh",
+      "text": "报告显示该地区失业率略有下降。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "unexpected",
+      "voice": "en",
+      "text": "unexpected",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "unexpected",
+      "voice": "en",
+      "text": "U, N, E, X, P, E, C, T, E, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "unexpected",
+      "voice": "zh",
+      "text": "形容词，意外的，出乎意料的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "unexpected",
+      "voice": "en",
+      "text": "An unexpected delay in customs held up the shipment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "unexpected",
+      "voice": "zh",
+      "text": "海关的意外延误耽误了这批货物。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "uniform",
+      "voice": "en",
+      "text": "uniform",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "uniform",
+      "voice": "en",
+      "text": "U, N, I, F, O, R, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "uniform",
+      "voice": "zh",
+      "text": "形容词或名词，统一的，一致的，制服",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "uniform",
+      "voice": "en",
+      "text": "All branches must follow uniform safety standards.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "uniform",
+      "voice": "zh",
+      "text": "所有分支机构必须遵循统一的安全标准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "unique",
+      "voice": "en",
+      "text": "unique",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "unique",
+      "voice": "en",
+      "text": "U, N, I, Q, U, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "unique",
+      "voice": "zh",
+      "text": "形容词，独特的，独一无二的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "unique",
+      "voice": "en",
+      "text": "The app's unique feature is real-time expense tracking.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "unique",
+      "voice": "zh",
+      "text": "这款应用的独特功能是实时费用追踪。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "update",
+      "voice": "en",
+      "text": "update",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "update",
+      "voice": "en",
+      "text": "U, P, D, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "update",
+      "voice": "zh",
+      "text": "动词或名词，更新，最新信息",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "update",
+      "voice": "en",
+      "text": "Please update the client database before Friday's meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "update",
+      "voice": "zh",
+      "text": "请在周五会议前更新客户数据库。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第13轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

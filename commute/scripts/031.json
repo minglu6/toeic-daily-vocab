@@ -1,0 +1,1314 @@
+{
+  "id": "031",
+  "track": 31,
+  "title": "第 31 轨",
+  "word_count": 30,
+  "headwords": [
+    "fixture",
+    "fleet",
+    "fluent",
+    "forfeit",
+    "formality",
+    "format",
+    "forward",
+    "franchise",
+    "freelance",
+    "frequent",
+    "fringe",
+    "fundraiser",
+    "furnish",
+    "garment",
+    "glitch",
+    "goodwill",
+    "headcount",
+    "hectic",
+    "hierarchy",
+    "honorarium",
+    "idle",
+    "imminent",
+    "impartial",
+    "implication",
+    "incidental",
+    "inclement",
+    "indemnity",
+    "indicator",
+    "influx",
+    "informative"
+  ],
+  "entries": [
+    {
+      "word": "fixture",
+      "spelling": "F, I, X, T, U, R, E",
+      "spoken_meaning": "名词，固定装置（如灯具、卫浴），固定设施",
+      "en": "The landlord agreed to replace the old light fixtures before the new tenants move in.",
+      "zh": "房东同意在新租户入住前更换旧灯具。"
+    },
+    {
+      "word": "fleet",
+      "spelling": "F, L, E, E, T",
+      "spoken_meaning": "名词，车队，船队，机队",
+      "en": "The logistics firm plans to add twenty electric vans to its delivery fleet this year.",
+      "zh": "这家物流公司计划今年为配送车队新增二十辆电动货车。"
+    },
+    {
+      "word": "fluent",
+      "spelling": "F, L, U, E, N, T",
+      "spoken_meaning": "形容词，（语言）流利的，流畅的",
+      "en": "Applicants must be fluent in both English and Spanish to qualify for the position.",
+      "zh": "申请者须精通英语和西班牙语方可符合该职位要求。"
+    },
+    {
+      "word": "forfeit",
+      "spelling": "F, O, R, F, E, I, T",
+      "spoken_meaning": "动词或名词，（因违规）丧失，被没收/罚金，没收物",
+      "en": "Guests who cancel within 48 hours of arrival will forfeit their deposit.",
+      "zh": "在入住前 48 小时内取消预订的客人将被没收订金。"
+    },
+    {
+      "word": "formality",
+      "spelling": "F, O, R, M, A, L, I, T, Y",
+      "spoken_meaning": "名词，手续，正式程序，拘泥形式",
+      "en": "Please arrive early to complete the check-in formalities before the conference begins.",
+      "zh": "请提前到场，在会议开始前办完报到手续。"
+    },
+    {
+      "word": "format",
+      "spelling": "F, O, R, M, A, T",
+      "spoken_meaning": "名词或动词，格式，版式，形式/使格式化",
+      "en": "Please submit your expense report in PDF format by the end of the month.",
+      "zh": "请在月底前以 PDF 格式提交费用报告。"
+    },
+    {
+      "word": "forward",
+      "spelling": "F, O, R, W, A, R, D",
+      "spoken_meaning": "动词，转发，转寄，递送",
+      "en": "Could you forward the client's message to everyone on the project team?",
+      "zh": "你能把客户的消息转发给项目组的每个人吗？"
+    },
+    {
+      "word": "franchise",
+      "spelling": "F, R, A, N, C, H, I, S, E",
+      "spoken_meaning": "名词，特许经营权，连锁加盟店",
+      "en": "The coffee chain is offering new franchise opportunities in three coastal cities.",
+      "zh": "这家咖啡连锁店正在三个沿海城市提供新的加盟机会。"
+    },
+    {
+      "word": "freelance",
+      "spelling": "F, R, E, E, L, A, N, C, E",
+      "spoken_meaning": "形容词或动词，自由职业的，兼职接活的/做自由职业",
+      "en": "We hired a freelance graphic designer to create the logo for the product launch.",
+      "zh": "我们聘请了一位自由平面设计师为产品发布设计标志。"
+    },
+    {
+      "word": "frequent",
+      "spelling": "F, R, E, Q, U, E, N, T",
+      "spoken_meaning": "形容词，频繁的，经常的",
+      "en": "Members of our frequent flyer program receive free seat upgrades on long-haul flights.",
+      "zh": "我们常旅客计划的会员可在长途航班上免费升舱。"
+    },
+    {
+      "word": "fringe",
+      "spelling": "F, R, I, N, G, E",
+      "spoken_meaning": "名词或形容词，边缘，外围/附加的，次要的",
+      "en": "In addition to a competitive salary, the job offers generous fringe benefits.",
+      "zh": "除了有竞争力的薪资，这份工作还提供丰厚的附加福利。"
+    },
+    {
+      "word": "fundraiser",
+      "spelling": "F, U, N, D, R, A, I, S, E, R",
+      "spoken_meaning": "名词，募捐活动，筹款人",
+      "en": "The hospital will hold a fundraiser dinner to support its new children's wing.",
+      "zh": "医院将举办募捐晚宴，为新建的儿科病区筹款。"
+    },
+    {
+      "word": "furnish",
+      "spelling": "F, U, R, N, I, S, H",
+      "spoken_meaning": "动词，布置家具，提供，供应",
+      "en": "Relocating employees will be provided with a fully furnished apartment for the first month.",
+      "zh": "调任员工第一个月将获得一套家具齐全的公寓。"
+    },
+    {
+      "word": "garment",
+      "spelling": "G, A, R, M, E, N, T",
+      "spoken_meaning": "名词，（一件）衣服，服装",
+      "en": "The garment factory increased production to meet the holiday demand.",
+      "zh": "服装厂为满足节日需求提高了产量。"
+    },
+    {
+      "word": "glitch",
+      "spelling": "G, L, I, T, C, H",
+      "spoken_meaning": "名词，小故障，小问题（尤指技术性的）",
+      "en": "A technical glitch delayed the start of the online seminar by fifteen minutes.",
+      "zh": "一个技术故障使线上研讨会推迟了十五分钟开始。"
+    },
+    {
+      "word": "goodwill",
+      "spelling": "G, O, O, D, W, I, L, L",
+      "spoken_meaning": "名词，善意，友好，（企业的）商誉",
+      "en": "As a gesture of goodwill, the hotel offered the guest a free night's stay.",
+      "zh": "作为善意的表示，酒店为该客人提供一晚免费住宿。"
+    },
+    {
+      "word": "headcount",
+      "spelling": "H, E, A, D, C, O, U, N, T",
+      "spoken_meaning": "名词，员工人数，人数统计",
+      "en": "The department plans to increase its headcount by ten percent next year.",
+      "zh": "该部门计划明年将人员编制增加百分之十。"
+    },
+    {
+      "word": "hectic",
+      "spelling": "H, E, C, T, I, C",
+      "spoken_meaning": "形容词，忙乱的，繁忙的",
+      "en": "Despite her hectic schedule, the director made time to meet each new employee.",
+      "zh": "尽管日程繁忙，主管仍抽时间与每位新员工见面。"
+    },
+    {
+      "word": "hierarchy",
+      "spelling": "H, I, E, R, A, R, C, H, Y",
+      "spoken_meaning": "名词，等级制度，层级，（组织的）上层",
+      "en": "The startup has a flat structure with very little hierarchy among its staff.",
+      "zh": "这家初创公司采用扁平结构，员工之间几乎没有层级之分。"
+    },
+    {
+      "word": "honorarium",
+      "spelling": "H, O, N, O, R, A, R, I, U, M",
+      "spoken_meaning": "名词，（给演讲者等的）酬金，谢礼",
+      "en": "Each guest speaker will receive an honorarium and travel expenses.",
+      "zh": "每位嘉宾演讲者将获得酬金及差旅费。"
+    },
+    {
+      "word": "idle",
+      "spelling": "I, D, L, E",
+      "spoken_meaning": "形容词，闲置的，空闲的，（机器）未运转的",
+      "en": "The assembly line sat idle for two days while technicians replaced the faulty motor.",
+      "zh": "技术人员更换故障电机期间，装配线停工闲置了两天。"
+    },
+    {
+      "word": "imminent",
+      "spelling": "I, M, M, I, N, E, N, T",
+      "spoken_meaning": "形容词，即将发生的，迫在眉睫的",
+      "en": "Analysts believe an announcement about the merger is imminent.",
+      "zh": "分析师认为有关合并的公告即将发布。"
+    },
+    {
+      "word": "impartial",
+      "spelling": "I, M, P, A, R, T, I, A, L",
+      "spoken_meaning": "形容词，公正的，不偏不倚的",
+      "en": "An impartial panel will evaluate all design proposals submitted for the contest.",
+      "zh": "一个公正的评审小组将评估所有参赛的设计方案。"
+    },
+    {
+      "word": "implication",
+      "spelling": "I, M, P, L, I, C, A, T, I, O, N",
+      "spoken_meaning": "名词，（可能的）影响、后果，含意",
+      "en": "The board discussed the financial implications of opening a second factory.",
+      "zh": "董事会讨论了开设第二家工厂的财务影响。"
+    },
+    {
+      "word": "incidental",
+      "spelling": "I, N, C, I, D, E, N, T, A, L",
+      "spoken_meaning": "形容词，附带的，次要的，（费用）杂项的",
+      "en": "Hotel guests must leave a credit card deposit to cover incidental charges.",
+      "zh": "酒店住客须以信用卡押金支付杂项费用。"
+    },
+    {
+      "word": "inclement",
+      "spelling": "I, N, C, L, E, M, E, N, T",
+      "spoken_meaning": "形容词，（天气）恶劣的，严酷的",
+      "en": "In case of inclement weather, the company picnic will be moved indoors.",
+      "zh": "如遇恶劣天气，公司野餐将改在室内举行。"
+    },
+    {
+      "word": "indemnity",
+      "spelling": "I, N, D, E, M, N, I, T, Y",
+      "spoken_meaning": "名词，赔偿（金），保障，免责",
+      "en": "The contract includes an indemnity clause protecting the client against third-party claims.",
+      "zh": "合同中含有一项赔偿条款，保护客户免受第三方索赔。"
+    },
+    {
+      "word": "indicator",
+      "spelling": "I, N, D, I, C, A, T, O, R",
+      "spoken_meaning": "名词，指标，指示物，迹象",
+      "en": "Customer retention is a key indicator of how well our support team is performing.",
+      "zh": "客户留存率是衡量支持团队表现的关键指标。"
+    },
+    {
+      "word": "influx",
+      "spelling": "I, N, F, L, U, X",
+      "spoken_meaning": "名词，大量涌入，流入",
+      "en": "Local hotels are preparing for an influx of visitors during the trade fair.",
+      "zh": "本地酒店正在为展会期间的游客涌入做准备。"
+    },
+    {
+      "word": "informative",
+      "spelling": "I, N, F, O, R, M, A, T, I, V, E",
+      "spoken_meaning": "形容词，提供有用信息的，增长见识的",
+      "en": "Participants found the workshop on tax regulations highly informative.",
+      "zh": "学员们认为税务法规研讨会内容非常充实。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第31轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "fixture",
+      "voice": "en",
+      "text": "fixture",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fixture",
+      "voice": "en",
+      "text": "F, I, X, T, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fixture",
+      "voice": "zh",
+      "text": "名词，固定装置（如灯具、卫浴），固定设施",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fixture",
+      "voice": "en",
+      "text": "The landlord agreed to replace the old light fixtures before the new tenants move in.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fixture",
+      "voice": "zh",
+      "text": "房东同意在新租户入住前更换旧灯具。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fleet",
+      "voice": "en",
+      "text": "fleet",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fleet",
+      "voice": "en",
+      "text": "F, L, E, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fleet",
+      "voice": "zh",
+      "text": "名词，车队，船队，机队",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fleet",
+      "voice": "en",
+      "text": "The logistics firm plans to add twenty electric vans to its delivery fleet this year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fleet",
+      "voice": "zh",
+      "text": "这家物流公司计划今年为配送车队新增二十辆电动货车。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fluent",
+      "voice": "en",
+      "text": "fluent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fluent",
+      "voice": "en",
+      "text": "F, L, U, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fluent",
+      "voice": "zh",
+      "text": "形容词，（语言）流利的，流畅的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fluent",
+      "voice": "en",
+      "text": "Applicants must be fluent in both English and Spanish to qualify for the position.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fluent",
+      "voice": "zh",
+      "text": "申请者须精通英语和西班牙语方可符合该职位要求。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "forfeit",
+      "voice": "en",
+      "text": "forfeit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "forfeit",
+      "voice": "en",
+      "text": "F, O, R, F, E, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "forfeit",
+      "voice": "zh",
+      "text": "动词或名词，（因违规）丧失，被没收/罚金，没收物",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "forfeit",
+      "voice": "en",
+      "text": "Guests who cancel within 48 hours of arrival will forfeit their deposit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "forfeit",
+      "voice": "zh",
+      "text": "在入住前 48 小时内取消预订的客人将被没收订金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "formality",
+      "voice": "en",
+      "text": "formality",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "formality",
+      "voice": "en",
+      "text": "F, O, R, M, A, L, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "formality",
+      "voice": "zh",
+      "text": "名词，手续，正式程序，拘泥形式",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "formality",
+      "voice": "en",
+      "text": "Please arrive early to complete the check-in formalities before the conference begins.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "formality",
+      "voice": "zh",
+      "text": "请提前到场，在会议开始前办完报到手续。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "format",
+      "voice": "en",
+      "text": "format",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "format",
+      "voice": "en",
+      "text": "F, O, R, M, A, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "format",
+      "voice": "zh",
+      "text": "名词或动词，格式，版式，形式/使格式化",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "format",
+      "voice": "en",
+      "text": "Please submit your expense report in PDF format by the end of the month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "format",
+      "voice": "zh",
+      "text": "请在月底前以 PDF 格式提交费用报告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "forward",
+      "voice": "en",
+      "text": "forward",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "forward",
+      "voice": "en",
+      "text": "F, O, R, W, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "forward",
+      "voice": "zh",
+      "text": "动词，转发，转寄，递送",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "forward",
+      "voice": "en",
+      "text": "Could you forward the client's message to everyone on the project team?",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "forward",
+      "voice": "zh",
+      "text": "你能把客户的消息转发给项目组的每个人吗？",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "franchise",
+      "voice": "en",
+      "text": "franchise",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "franchise",
+      "voice": "en",
+      "text": "F, R, A, N, C, H, I, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "franchise",
+      "voice": "zh",
+      "text": "名词，特许经营权，连锁加盟店",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "franchise",
+      "voice": "en",
+      "text": "The coffee chain is offering new franchise opportunities in three coastal cities.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "franchise",
+      "voice": "zh",
+      "text": "这家咖啡连锁店正在三个沿海城市提供新的加盟机会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "freelance",
+      "voice": "en",
+      "text": "freelance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "freelance",
+      "voice": "en",
+      "text": "F, R, E, E, L, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "freelance",
+      "voice": "zh",
+      "text": "形容词或动词，自由职业的，兼职接活的/做自由职业",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "freelance",
+      "voice": "en",
+      "text": "We hired a freelance graphic designer to create the logo for the product launch.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "freelance",
+      "voice": "zh",
+      "text": "我们聘请了一位自由平面设计师为产品发布设计标志。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "frequent",
+      "voice": "en",
+      "text": "frequent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "frequent",
+      "voice": "en",
+      "text": "F, R, E, Q, U, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "frequent",
+      "voice": "zh",
+      "text": "形容词，频繁的，经常的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "frequent",
+      "voice": "en",
+      "text": "Members of our frequent flyer program receive free seat upgrades on long-haul flights.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "frequent",
+      "voice": "zh",
+      "text": "我们常旅客计划的会员可在长途航班上免费升舱。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fringe",
+      "voice": "en",
+      "text": "fringe",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fringe",
+      "voice": "en",
+      "text": "F, R, I, N, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fringe",
+      "voice": "zh",
+      "text": "名词或形容词，边缘，外围/附加的，次要的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fringe",
+      "voice": "en",
+      "text": "In addition to a competitive salary, the job offers generous fringe benefits.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fringe",
+      "voice": "zh",
+      "text": "除了有竞争力的薪资，这份工作还提供丰厚的附加福利。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fundraiser",
+      "voice": "en",
+      "text": "fundraiser",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fundraiser",
+      "voice": "en",
+      "text": "F, U, N, D, R, A, I, S, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fundraiser",
+      "voice": "zh",
+      "text": "名词，募捐活动，筹款人",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fundraiser",
+      "voice": "en",
+      "text": "The hospital will hold a fundraiser dinner to support its new children's wing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fundraiser",
+      "voice": "zh",
+      "text": "医院将举办募捐晚宴，为新建的儿科病区筹款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "furnish",
+      "voice": "en",
+      "text": "furnish",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "furnish",
+      "voice": "en",
+      "text": "F, U, R, N, I, S, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "furnish",
+      "voice": "zh",
+      "text": "动词，布置家具，提供，供应",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "furnish",
+      "voice": "en",
+      "text": "Relocating employees will be provided with a fully furnished apartment for the first month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "furnish",
+      "voice": "zh",
+      "text": "调任员工第一个月将获得一套家具齐全的公寓。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "garment",
+      "voice": "en",
+      "text": "garment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "garment",
+      "voice": "en",
+      "text": "G, A, R, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "garment",
+      "voice": "zh",
+      "text": "名词，（一件）衣服，服装",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "garment",
+      "voice": "en",
+      "text": "The garment factory increased production to meet the holiday demand.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "garment",
+      "voice": "zh",
+      "text": "服装厂为满足节日需求提高了产量。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "glitch",
+      "voice": "en",
+      "text": "glitch",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "glitch",
+      "voice": "en",
+      "text": "G, L, I, T, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "glitch",
+      "voice": "zh",
+      "text": "名词，小故障，小问题（尤指技术性的）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "glitch",
+      "voice": "en",
+      "text": "A technical glitch delayed the start of the online seminar by fifteen minutes.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "glitch",
+      "voice": "zh",
+      "text": "一个技术故障使线上研讨会推迟了十五分钟开始。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "goodwill",
+      "voice": "en",
+      "text": "goodwill",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "goodwill",
+      "voice": "en",
+      "text": "G, O, O, D, W, I, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "goodwill",
+      "voice": "zh",
+      "text": "名词，善意，友好，（企业的）商誉",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "goodwill",
+      "voice": "en",
+      "text": "As a gesture of goodwill, the hotel offered the guest a free night's stay.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "goodwill",
+      "voice": "zh",
+      "text": "作为善意的表示，酒店为该客人提供一晚免费住宿。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "headcount",
+      "voice": "en",
+      "text": "headcount",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "headcount",
+      "voice": "en",
+      "text": "H, E, A, D, C, O, U, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "headcount",
+      "voice": "zh",
+      "text": "名词，员工人数，人数统计",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "headcount",
+      "voice": "en",
+      "text": "The department plans to increase its headcount by ten percent next year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "headcount",
+      "voice": "zh",
+      "text": "该部门计划明年将人员编制增加百分之十。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hectic",
+      "voice": "en",
+      "text": "hectic",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hectic",
+      "voice": "en",
+      "text": "H, E, C, T, I, C",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hectic",
+      "voice": "zh",
+      "text": "形容词，忙乱的，繁忙的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hectic",
+      "voice": "en",
+      "text": "Despite her hectic schedule, the director made time to meet each new employee.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hectic",
+      "voice": "zh",
+      "text": "尽管日程繁忙，主管仍抽时间与每位新员工见面。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hierarchy",
+      "voice": "en",
+      "text": "hierarchy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hierarchy",
+      "voice": "en",
+      "text": "H, I, E, R, A, R, C, H, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hierarchy",
+      "voice": "zh",
+      "text": "名词，等级制度，层级，（组织的）上层",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hierarchy",
+      "voice": "en",
+      "text": "The startup has a flat structure with very little hierarchy among its staff.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hierarchy",
+      "voice": "zh",
+      "text": "这家初创公司采用扁平结构，员工之间几乎没有层级之分。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "honorarium",
+      "voice": "en",
+      "text": "honorarium",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "honorarium",
+      "voice": "en",
+      "text": "H, O, N, O, R, A, R, I, U, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "honorarium",
+      "voice": "zh",
+      "text": "名词，（给演讲者等的）酬金，谢礼",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "honorarium",
+      "voice": "en",
+      "text": "Each guest speaker will receive an honorarium and travel expenses.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "honorarium",
+      "voice": "zh",
+      "text": "每位嘉宾演讲者将获得酬金及差旅费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "idle",
+      "voice": "en",
+      "text": "idle",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "idle",
+      "voice": "en",
+      "text": "I, D, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "idle",
+      "voice": "zh",
+      "text": "形容词，闲置的，空闲的，（机器）未运转的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "idle",
+      "voice": "en",
+      "text": "The assembly line sat idle for two days while technicians replaced the faulty motor.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "idle",
+      "voice": "zh",
+      "text": "技术人员更换故障电机期间，装配线停工闲置了两天。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "imminent",
+      "voice": "en",
+      "text": "imminent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "imminent",
+      "voice": "en",
+      "text": "I, M, M, I, N, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "imminent",
+      "voice": "zh",
+      "text": "形容词，即将发生的，迫在眉睫的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "imminent",
+      "voice": "en",
+      "text": "Analysts believe an announcement about the merger is imminent.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "imminent",
+      "voice": "zh",
+      "text": "分析师认为有关合并的公告即将发布。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "impartial",
+      "voice": "en",
+      "text": "impartial",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "impartial",
+      "voice": "en",
+      "text": "I, M, P, A, R, T, I, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "impartial",
+      "voice": "zh",
+      "text": "形容词，公正的，不偏不倚的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "impartial",
+      "voice": "en",
+      "text": "An impartial panel will evaluate all design proposals submitted for the contest.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "impartial",
+      "voice": "zh",
+      "text": "一个公正的评审小组将评估所有参赛的设计方案。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "implication",
+      "voice": "en",
+      "text": "implication",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "implication",
+      "voice": "en",
+      "text": "I, M, P, L, I, C, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "implication",
+      "voice": "zh",
+      "text": "名词，（可能的）影响、后果，含意",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "implication",
+      "voice": "en",
+      "text": "The board discussed the financial implications of opening a second factory.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "implication",
+      "voice": "zh",
+      "text": "董事会讨论了开设第二家工厂的财务影响。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "incidental",
+      "voice": "en",
+      "text": "incidental",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "incidental",
+      "voice": "en",
+      "text": "I, N, C, I, D, E, N, T, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "incidental",
+      "voice": "zh",
+      "text": "形容词，附带的，次要的，（费用）杂项的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "incidental",
+      "voice": "en",
+      "text": "Hotel guests must leave a credit card deposit to cover incidental charges.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "incidental",
+      "voice": "zh",
+      "text": "酒店住客须以信用卡押金支付杂项费用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "inclement",
+      "voice": "en",
+      "text": "inclement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "inclement",
+      "voice": "en",
+      "text": "I, N, C, L, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "inclement",
+      "voice": "zh",
+      "text": "形容词，（天气）恶劣的，严酷的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "inclement",
+      "voice": "en",
+      "text": "In case of inclement weather, the company picnic will be moved indoors.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "inclement",
+      "voice": "zh",
+      "text": "如遇恶劣天气，公司野餐将改在室内举行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "indemnity",
+      "voice": "en",
+      "text": "indemnity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "indemnity",
+      "voice": "en",
+      "text": "I, N, D, E, M, N, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "indemnity",
+      "voice": "zh",
+      "text": "名词，赔偿（金），保障，免责",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "indemnity",
+      "voice": "en",
+      "text": "The contract includes an indemnity clause protecting the client against third-party claims.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "indemnity",
+      "voice": "zh",
+      "text": "合同中含有一项赔偿条款，保护客户免受第三方索赔。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "indicator",
+      "voice": "en",
+      "text": "indicator",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "indicator",
+      "voice": "en",
+      "text": "I, N, D, I, C, A, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "indicator",
+      "voice": "zh",
+      "text": "名词，指标，指示物，迹象",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "indicator",
+      "voice": "en",
+      "text": "Customer retention is a key indicator of how well our support team is performing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "indicator",
+      "voice": "zh",
+      "text": "客户留存率是衡量支持团队表现的关键指标。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "influx",
+      "voice": "en",
+      "text": "influx",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "influx",
+      "voice": "en",
+      "text": "I, N, F, L, U, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "influx",
+      "voice": "zh",
+      "text": "名词，大量涌入，流入",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "influx",
+      "voice": "en",
+      "text": "Local hotels are preparing for an influx of visitors during the trade fair.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "influx",
+      "voice": "zh",
+      "text": "本地酒店正在为展会期间的游客涌入做准备。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "informative",
+      "voice": "en",
+      "text": "informative",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "informative",
+      "voice": "en",
+      "text": "I, N, F, O, R, M, A, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "informative",
+      "voice": "zh",
+      "text": "形容词，提供有用信息的，增长见识的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "informative",
+      "voice": "en",
+      "text": "Participants found the workshop on tax regulations highly informative.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "informative",
+      "voice": "zh",
+      "text": "学员们认为税务法规研讨会内容非常充实。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第31轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

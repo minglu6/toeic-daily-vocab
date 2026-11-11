@@ -1,0 +1,1314 @@
+{
+  "id": "004",
+  "track": 4,
+  "title": "第 4 轨",
+  "word_count": 30,
+  "headwords": [
+    "client",
+    "collaborate",
+    "compensate",
+    "competitor",
+    "conference",
+    "consignment",
+    "corporation",
+    "credentials",
+    "deteriorate",
+    "distribute",
+    "efficient",
+    "endorse",
+    "expand",
+    "forecast",
+    "hospitality",
+    "interrupt",
+    "merchandise",
+    "productivity",
+    "shareholder",
+    "turnover",
+    "acknowledge",
+    "amend",
+    "announce",
+    "assemble",
+    "attain",
+    "clarify",
+    "commence",
+    "consolidate",
+    "contribute",
+    "convene"
+  ],
+  "entries": [
+    {
+      "word": "client",
+      "spelling": "C, L, I, E, N, T",
+      "spoken_meaning": "名词，客户，委托人",
+      "en": "Our key clients expect weekly progress updates.",
+      "zh": "我们的重要客户期望每周收到进度更新。"
+    },
+    {
+      "word": "collaborate",
+      "spelling": "C, O, L, L, A, B, O, R, A, T, E",
+      "spoken_meaning": "动词，合作，协作",
+      "en": "Marketing will collaborate with engineering on the launch plan.",
+      "zh": "市场部将与工程部协作制定发布计划。"
+    },
+    {
+      "word": "compensate",
+      "spelling": "C, O, M, P, E, N, S, A, T, E",
+      "spoken_meaning": "动词，补偿，赔偿，报酬",
+      "en": "The airline will compensate passengers for the delayed flight.",
+      "zh": "航空公司将就航班延误向乘客作出补偿。"
+    },
+    {
+      "word": "competitor",
+      "spelling": "C, O, M, P, E, T, I, T, O, R",
+      "spoken_meaning": "名词，竞争对手",
+      "en": "Our main competitor launched a similar product last month.",
+      "zh": "我们的主要竞争对手上个月推出了类似产品。"
+    },
+    {
+      "word": "conference",
+      "spelling": "C, O, N, F, E, R, E, N, C, E",
+      "spoken_meaning": "名词，会议，研讨会",
+      "en": "She will attend an industry conference in Singapore next month.",
+      "zh": "她下月将赴新加坡参加行业会议。"
+    },
+    {
+      "word": "consignment",
+      "spelling": "C, O, N, S, I, G, N, M, E, N, T",
+      "spoken_meaning": "名词，托运货物，寄售",
+      "en": "The bookstore sells these titles on consignment from local authors.",
+      "zh": "这家书店以寄售方式销售本地作者的图书。"
+    },
+    {
+      "word": "corporation",
+      "spelling": "C, O, R, P, O, R, A, T, I, O, N",
+      "spoken_meaning": "名词，公司，法人企业",
+      "en": "The multinational corporation announced a restructuring plan.",
+      "zh": "这家跨国公司宣布了重组计划。"
+    },
+    {
+      "word": "credentials",
+      "spelling": "C, R, E, D, E, N, T, I, A, L, S",
+      "spoken_meaning": "名词，资质证明，证件，登录凭据",
+      "en": "Please verify the applicant's professional credentials before hiring.",
+      "zh": "录用前请核实应聘者的专业资质。"
+    },
+    {
+      "word": "deteriorate",
+      "spelling": "D, E, T, E, R, I, O, R, A, T, E",
+      "spoken_meaning": "动词，恶化，变坏",
+      "en": "Customer satisfaction may deteriorate if delays continue.",
+      "zh": "若延误持续，客户满意度可能下滑。"
+    },
+    {
+      "word": "distribute",
+      "spelling": "D, I, S, T, R, I, B, U, T, E",
+      "spoken_meaning": "动词，分发，经销，分配",
+      "en": "We distribute our products through regional warehouses.",
+      "zh": "我们通过区域仓库经销产品。"
+    },
+    {
+      "word": "efficient",
+      "spelling": "E, F, F, I, C, I, E, N, T",
+      "spoken_meaning": "形容词，高效的，有成效的",
+      "en": "The new software makes inventory tracking more efficient.",
+      "zh": "新软件使库存追踪更高效。"
+    },
+    {
+      "word": "endorse",
+      "spelling": "E, N, D, O, R, S, E",
+      "spoken_meaning": "动词，背书，赞同，代言",
+      "en": "Several industry leaders endorsed the new safety standards.",
+      "zh": "多位行业领袖支持了新的安全标准。"
+    },
+    {
+      "word": "expand",
+      "spelling": "E, X, P, A, N, D",
+      "spoken_meaning": "动词，扩张，扩大",
+      "en": "The company plans to expand into Southeast Asian markets.",
+      "zh": "公司计划向东南亚市场扩张。"
+    },
+    {
+      "word": "forecast",
+      "spelling": "F, O, R, E, C, A, S, T",
+      "spoken_meaning": "名词或动词，预测，预报",
+      "en": "The sales forecast for Q4 looks stronger than expected.",
+      "zh": "第四季度销售预测好于预期。"
+    },
+    {
+      "word": "hospitality",
+      "spelling": "H, O, S, P, I, T, A, L, I, T, Y",
+      "spoken_meaning": "名词，款待，酒店服务业",
+      "en": "She has ten years of experience in the hospitality industry.",
+      "zh": "她在酒店服务业有十年经验。"
+    },
+    {
+      "word": "interrupt",
+      "spelling": "I, N, T, E, R, R, U, P, T",
+      "spoken_meaning": "动词，打断，中断",
+      "en": "Please do not interrupt the speaker during the presentation.",
+      "zh": "演示期间请勿打断发言人。"
+    },
+    {
+      "word": "merchandise",
+      "spelling": "M, E, R, C, H, A, N, D, I, S, E",
+      "spoken_meaning": "名词或动词，商品，推销商品",
+      "en": "Seasonal merchandise will be displayed near the store entrance.",
+      "zh": "季节性商品将陈列在店门口附近。"
+    },
+    {
+      "word": "productivity",
+      "spelling": "P, R, O, D, U, C, T, I, V, I, T, Y",
+      "spoken_meaning": "名词，生产力，效率",
+      "en": "Remote tools helped boost team productivity last year.",
+      "zh": "远程工具去年帮助提升了团队效率。"
+    },
+    {
+      "word": "shareholder",
+      "spelling": "S, H, A, R, E, H, O, L, D, E, R",
+      "spoken_meaning": "名词，股东",
+      "en": "Shareholders will vote on the merger at next week's meeting.",
+      "zh": "股东将在下周会议上就合并案投票。"
+    },
+    {
+      "word": "turnover",
+      "spelling": "T, U, R, N, O, V, E, R",
+      "spoken_meaning": "名词，营业额，人员流动率",
+      "en": "High staff turnover has increased our recruitment costs.",
+      "zh": "高人员流动率推高了我们的招聘成本。"
+    },
+    {
+      "word": "acknowledge",
+      "spelling": "A, C, K, N, O, W, L, E, D, G, E",
+      "spoken_meaning": "动词，承认，确认收到，致谢",
+      "en": "Please acknowledge receipt of this email within 24 hours.",
+      "zh": "请在24小时内确认收到此邮件。"
+    },
+    {
+      "word": "amend",
+      "spelling": "A, M, E, N, D",
+      "spoken_meaning": "动词，修改，修订（合同/条款）",
+      "en": "Both parties agreed to amend the payment terms.",
+      "zh": "双方同意修改付款条款。"
+    },
+    {
+      "word": "announce",
+      "spelling": "A, N, N, O, U, N, C, E",
+      "spoken_meaning": "动词，宣布，公布",
+      "en": "The CEO will announce the merger at tomorrow's press conference.",
+      "zh": "首席执行官将在明天的新闻发布会上宣布合并事宜。"
+    },
+    {
+      "word": "assemble",
+      "spelling": "A, S, S, E, M, B, L, E",
+      "spoken_meaning": "动词，组装，集合，召集",
+      "en": "Workers assemble the components before final inspection.",
+      "zh": "工人在最终检验前组装零部件。"
+    },
+    {
+      "word": "attain",
+      "spelling": "A, T, T, A, I, N",
+      "spoken_meaning": "动词，达到，获得（目标/水平）",
+      "en": "The division expects to attain its revenue target this quarter.",
+      "zh": "该部门预计本季度将达成营收目标。"
+    },
+    {
+      "word": "clarify",
+      "spelling": "C, L, A, R, I, F, Y",
+      "spoken_meaning": "动词，澄清，阐明",
+      "en": "Could you clarify the deadline for the revised proposal?",
+      "zh": "能否澄清修订提案的截止日期？"
+    },
+    {
+      "word": "commence",
+      "spelling": "C, O, M, M, E, N, C, E",
+      "spoken_meaning": "动词，开始，着手",
+      "en": "Construction will commence as soon as permits are approved.",
+      "zh": "许可证获批后施工将立即开始。"
+    },
+    {
+      "word": "consolidate",
+      "spelling": "C, O, N, S, O, L, I, D, A, T, E",
+      "spoken_meaning": "动词，合并，巩固",
+      "en": "The firm plans to consolidate its regional offices next year.",
+      "zh": "公司计划明年合并各区域办事处。"
+    },
+    {
+      "word": "contribute",
+      "spelling": "C, O, N, T, R, I, B, U, T, E",
+      "spoken_meaning": "动词，贡献，促成，投稿",
+      "en": "Her research contributed significantly to the product redesign.",
+      "zh": "她的研究对产品重新设计贡献很大。"
+    },
+    {
+      "word": "convene",
+      "spelling": "C, O, N, V, E, N, E",
+      "spoken_meaning": "动词，召集（会议），召开",
+      "en": "The chair will convene an emergency meeting this afternoon.",
+      "zh": "主席将于今天下午召开紧急会议。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第4轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "client",
+      "voice": "en",
+      "text": "client",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "client",
+      "voice": "en",
+      "text": "C, L, I, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "client",
+      "voice": "zh",
+      "text": "名词，客户，委托人",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "client",
+      "voice": "en",
+      "text": "Our key clients expect weekly progress updates.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "client",
+      "voice": "zh",
+      "text": "我们的重要客户期望每周收到进度更新。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "collaborate",
+      "voice": "en",
+      "text": "collaborate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "collaborate",
+      "voice": "en",
+      "text": "C, O, L, L, A, B, O, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "collaborate",
+      "voice": "zh",
+      "text": "动词，合作，协作",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "collaborate",
+      "voice": "en",
+      "text": "Marketing will collaborate with engineering on the launch plan.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "collaborate",
+      "voice": "zh",
+      "text": "市场部将与工程部协作制定发布计划。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "compensate",
+      "voice": "en",
+      "text": "compensate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "compensate",
+      "voice": "en",
+      "text": "C, O, M, P, E, N, S, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "compensate",
+      "voice": "zh",
+      "text": "动词，补偿，赔偿，报酬",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "compensate",
+      "voice": "en",
+      "text": "The airline will compensate passengers for the delayed flight.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "compensate",
+      "voice": "zh",
+      "text": "航空公司将就航班延误向乘客作出补偿。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "competitor",
+      "voice": "en",
+      "text": "competitor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "competitor",
+      "voice": "en",
+      "text": "C, O, M, P, E, T, I, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "competitor",
+      "voice": "zh",
+      "text": "名词，竞争对手",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "competitor",
+      "voice": "en",
+      "text": "Our main competitor launched a similar product last month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "competitor",
+      "voice": "zh",
+      "text": "我们的主要竞争对手上个月推出了类似产品。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "conference",
+      "voice": "en",
+      "text": "conference",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "conference",
+      "voice": "en",
+      "text": "C, O, N, F, E, R, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "conference",
+      "voice": "zh",
+      "text": "名词，会议，研讨会",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "conference",
+      "voice": "en",
+      "text": "She will attend an industry conference in Singapore next month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "conference",
+      "voice": "zh",
+      "text": "她下月将赴新加坡参加行业会议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "consignment",
+      "voice": "en",
+      "text": "consignment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "consignment",
+      "voice": "en",
+      "text": "C, O, N, S, I, G, N, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "consignment",
+      "voice": "zh",
+      "text": "名词，托运货物，寄售",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "consignment",
+      "voice": "en",
+      "text": "The bookstore sells these titles on consignment from local authors.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "consignment",
+      "voice": "zh",
+      "text": "这家书店以寄售方式销售本地作者的图书。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "corporation",
+      "voice": "en",
+      "text": "corporation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "corporation",
+      "voice": "en",
+      "text": "C, O, R, P, O, R, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "corporation",
+      "voice": "zh",
+      "text": "名词，公司，法人企业",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "corporation",
+      "voice": "en",
+      "text": "The multinational corporation announced a restructuring plan.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "corporation",
+      "voice": "zh",
+      "text": "这家跨国公司宣布了重组计划。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "credentials",
+      "voice": "en",
+      "text": "credentials",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "credentials",
+      "voice": "en",
+      "text": "C, R, E, D, E, N, T, I, A, L, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "credentials",
+      "voice": "zh",
+      "text": "名词，资质证明，证件，登录凭据",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "credentials",
+      "voice": "en",
+      "text": "Please verify the applicant's professional credentials before hiring.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "credentials",
+      "voice": "zh",
+      "text": "录用前请核实应聘者的专业资质。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "deteriorate",
+      "voice": "en",
+      "text": "deteriorate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deteriorate",
+      "voice": "en",
+      "text": "D, E, T, E, R, I, O, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deteriorate",
+      "voice": "zh",
+      "text": "动词，恶化，变坏",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deteriorate",
+      "voice": "en",
+      "text": "Customer satisfaction may deteriorate if delays continue.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deteriorate",
+      "voice": "zh",
+      "text": "若延误持续，客户满意度可能下滑。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "distribute",
+      "voice": "en",
+      "text": "distribute",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "distribute",
+      "voice": "en",
+      "text": "D, I, S, T, R, I, B, U, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "distribute",
+      "voice": "zh",
+      "text": "动词，分发，经销，分配",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "distribute",
+      "voice": "en",
+      "text": "We distribute our products through regional warehouses.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "distribute",
+      "voice": "zh",
+      "text": "我们通过区域仓库经销产品。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "efficient",
+      "voice": "en",
+      "text": "efficient",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "efficient",
+      "voice": "en",
+      "text": "E, F, F, I, C, I, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "efficient",
+      "voice": "zh",
+      "text": "形容词，高效的，有成效的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "efficient",
+      "voice": "en",
+      "text": "The new software makes inventory tracking more efficient.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "efficient",
+      "voice": "zh",
+      "text": "新软件使库存追踪更高效。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "endorse",
+      "voice": "en",
+      "text": "endorse",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "endorse",
+      "voice": "en",
+      "text": "E, N, D, O, R, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "endorse",
+      "voice": "zh",
+      "text": "动词，背书，赞同，代言",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "endorse",
+      "voice": "en",
+      "text": "Several industry leaders endorsed the new safety standards.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "endorse",
+      "voice": "zh",
+      "text": "多位行业领袖支持了新的安全标准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "expand",
+      "voice": "en",
+      "text": "expand",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "expand",
+      "voice": "en",
+      "text": "E, X, P, A, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "expand",
+      "voice": "zh",
+      "text": "动词，扩张，扩大",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "expand",
+      "voice": "en",
+      "text": "The company plans to expand into Southeast Asian markets.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "expand",
+      "voice": "zh",
+      "text": "公司计划向东南亚市场扩张。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "forecast",
+      "voice": "en",
+      "text": "forecast",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "forecast",
+      "voice": "en",
+      "text": "F, O, R, E, C, A, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "forecast",
+      "voice": "zh",
+      "text": "名词或动词，预测，预报",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "forecast",
+      "voice": "en",
+      "text": "The sales forecast for Q4 looks stronger than expected.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "forecast",
+      "voice": "zh",
+      "text": "第四季度销售预测好于预期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hospitality",
+      "voice": "en",
+      "text": "hospitality",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hospitality",
+      "voice": "en",
+      "text": "H, O, S, P, I, T, A, L, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hospitality",
+      "voice": "zh",
+      "text": "名词，款待，酒店服务业",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hospitality",
+      "voice": "en",
+      "text": "She has ten years of experience in the hospitality industry.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hospitality",
+      "voice": "zh",
+      "text": "她在酒店服务业有十年经验。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "interrupt",
+      "voice": "en",
+      "text": "interrupt",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "interrupt",
+      "voice": "en",
+      "text": "I, N, T, E, R, R, U, P, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "interrupt",
+      "voice": "zh",
+      "text": "动词，打断，中断",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "interrupt",
+      "voice": "en",
+      "text": "Please do not interrupt the speaker during the presentation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "interrupt",
+      "voice": "zh",
+      "text": "演示期间请勿打断发言人。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "merchandise",
+      "voice": "en",
+      "text": "merchandise",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "merchandise",
+      "voice": "en",
+      "text": "M, E, R, C, H, A, N, D, I, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "merchandise",
+      "voice": "zh",
+      "text": "名词或动词，商品，推销商品",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "merchandise",
+      "voice": "en",
+      "text": "Seasonal merchandise will be displayed near the store entrance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "merchandise",
+      "voice": "zh",
+      "text": "季节性商品将陈列在店门口附近。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "productivity",
+      "voice": "en",
+      "text": "productivity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "productivity",
+      "voice": "en",
+      "text": "P, R, O, D, U, C, T, I, V, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "productivity",
+      "voice": "zh",
+      "text": "名词，生产力，效率",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "productivity",
+      "voice": "en",
+      "text": "Remote tools helped boost team productivity last year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "productivity",
+      "voice": "zh",
+      "text": "远程工具去年帮助提升了团队效率。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "shareholder",
+      "voice": "en",
+      "text": "shareholder",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "shareholder",
+      "voice": "en",
+      "text": "S, H, A, R, E, H, O, L, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "shareholder",
+      "voice": "zh",
+      "text": "名词，股东",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "shareholder",
+      "voice": "en",
+      "text": "Shareholders will vote on the merger at next week's meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "shareholder",
+      "voice": "zh",
+      "text": "股东将在下周会议上就合并案投票。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "turnover",
+      "voice": "en",
+      "text": "turnover",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "turnover",
+      "voice": "en",
+      "text": "T, U, R, N, O, V, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "turnover",
+      "voice": "zh",
+      "text": "名词，营业额，人员流动率",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "turnover",
+      "voice": "en",
+      "text": "High staff turnover has increased our recruitment costs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "turnover",
+      "voice": "zh",
+      "text": "高人员流动率推高了我们的招聘成本。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "acknowledge",
+      "voice": "en",
+      "text": "acknowledge",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "acknowledge",
+      "voice": "en",
+      "text": "A, C, K, N, O, W, L, E, D, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "acknowledge",
+      "voice": "zh",
+      "text": "动词，承认，确认收到，致谢",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "acknowledge",
+      "voice": "en",
+      "text": "Please acknowledge receipt of this email within 24 hours.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "acknowledge",
+      "voice": "zh",
+      "text": "请在24小时内确认收到此邮件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "amend",
+      "voice": "en",
+      "text": "amend",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "amend",
+      "voice": "en",
+      "text": "A, M, E, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "amend",
+      "voice": "zh",
+      "text": "动词，修改，修订（合同/条款）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "amend",
+      "voice": "en",
+      "text": "Both parties agreed to amend the payment terms.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "amend",
+      "voice": "zh",
+      "text": "双方同意修改付款条款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "announce",
+      "voice": "en",
+      "text": "announce",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "announce",
+      "voice": "en",
+      "text": "A, N, N, O, U, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "announce",
+      "voice": "zh",
+      "text": "动词，宣布，公布",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "announce",
+      "voice": "en",
+      "text": "The CEO will announce the merger at tomorrow's press conference.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "announce",
+      "voice": "zh",
+      "text": "首席执行官将在明天的新闻发布会上宣布合并事宜。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "assemble",
+      "voice": "en",
+      "text": "assemble",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "assemble",
+      "voice": "en",
+      "text": "A, S, S, E, M, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "assemble",
+      "voice": "zh",
+      "text": "动词，组装，集合，召集",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "assemble",
+      "voice": "en",
+      "text": "Workers assemble the components before final inspection.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "assemble",
+      "voice": "zh",
+      "text": "工人在最终检验前组装零部件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "attain",
+      "voice": "en",
+      "text": "attain",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "attain",
+      "voice": "en",
+      "text": "A, T, T, A, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "attain",
+      "voice": "zh",
+      "text": "动词，达到，获得（目标/水平）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "attain",
+      "voice": "en",
+      "text": "The division expects to attain its revenue target this quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "attain",
+      "voice": "zh",
+      "text": "该部门预计本季度将达成营收目标。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "clarify",
+      "voice": "en",
+      "text": "clarify",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "clarify",
+      "voice": "en",
+      "text": "C, L, A, R, I, F, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "clarify",
+      "voice": "zh",
+      "text": "动词，澄清，阐明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "clarify",
+      "voice": "en",
+      "text": "Could you clarify the deadline for the revised proposal?",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "clarify",
+      "voice": "zh",
+      "text": "能否澄清修订提案的截止日期？",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "commence",
+      "voice": "en",
+      "text": "commence",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "commence",
+      "voice": "en",
+      "text": "C, O, M, M, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "commence",
+      "voice": "zh",
+      "text": "动词，开始，着手",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "commence",
+      "voice": "en",
+      "text": "Construction will commence as soon as permits are approved.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "commence",
+      "voice": "zh",
+      "text": "许可证获批后施工将立即开始。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "consolidate",
+      "voice": "en",
+      "text": "consolidate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "consolidate",
+      "voice": "en",
+      "text": "C, O, N, S, O, L, I, D, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "consolidate",
+      "voice": "zh",
+      "text": "动词，合并，巩固",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "consolidate",
+      "voice": "en",
+      "text": "The firm plans to consolidate its regional offices next year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "consolidate",
+      "voice": "zh",
+      "text": "公司计划明年合并各区域办事处。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "contribute",
+      "voice": "en",
+      "text": "contribute",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "contribute",
+      "voice": "en",
+      "text": "C, O, N, T, R, I, B, U, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "contribute",
+      "voice": "zh",
+      "text": "动词，贡献，促成，投稿",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "contribute",
+      "voice": "en",
+      "text": "Her research contributed significantly to the product redesign.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "contribute",
+      "voice": "zh",
+      "text": "她的研究对产品重新设计贡献很大。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "convene",
+      "voice": "en",
+      "text": "convene",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "convene",
+      "voice": "en",
+      "text": "C, O, N, V, E, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "convene",
+      "voice": "zh",
+      "text": "动词，召集（会议），召开",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "convene",
+      "voice": "en",
+      "text": "The chair will convene an emergency meeting this afternoon.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "convene",
+      "voice": "zh",
+      "text": "主席将于今天下午召开紧急会议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第4轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

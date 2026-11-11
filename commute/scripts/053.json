@@ -1,0 +1,1314 @@
+{
+  "id": "053",
+  "track": 53,
+  "title": "第 53 轨",
+  "word_count": 30,
+  "headwords": [
+    "credit-limit",
+    "wire-transfer",
+    "past-due",
+    "one-way",
+    "late-checkout",
+    "rental-car",
+    "business-trip",
+    "change-fee",
+    "keycard",
+    "break-room",
+    "after-hours",
+    "office-supplies",
+    "early-bird",
+    "market-research",
+    "press-kit",
+    "product-demo",
+    "material-breach",
+    "effective-date",
+    "authorized-signatory",
+    "countersign",
+    "huddle",
+    "dial-in",
+    "video-conference",
+    "next-steps",
+    "working-lunch",
+    "job-offer",
+    "sick-leave",
+    "maternity-leave",
+    "work-from-home",
+    "job-title"
+  ],
+  "entries": [
+    {
+      "word": "credit-limit",
+      "spelling": "C, R, E, D, I, T, hyphen, L, I, M, I, T",
+      "spoken_meaning": "名词，信用额度，信贷上限，授信限额",
+      "en": "The bank raised our credit-limit after reviewing last year's payment history.",
+      "zh": "银行在审阅去年的付款记录后，上调了我们的信用额度。"
+    },
+    {
+      "word": "wire-transfer",
+      "spelling": "W, I, R, E, hyphen, T, R, A, N, S, F, E, R",
+      "spoken_meaning": "名词，电汇，银行电划，电子汇款",
+      "en": "Please send the deposit by wire-transfer no later than Friday to secure the booking.",
+      "zh": "请最迟于周五前通过电汇支付定金，以便锁定预订。"
+    },
+    {
+      "word": "past-due",
+      "spelling": "P, A, S, T, hyphen, D, U, E",
+      "spoken_meaning": "形容词，逾期的，过期未付的，到期未结清的",
+      "en": "Accounts payable asked us to settle the past-due invoice before any new orders are shipped.",
+      "zh": "应付账款部门要求我们先结清这张逾期发票，然后才会发运任何新订单。"
+    },
+    {
+      "word": "one-way",
+      "spelling": "O, N, E, hyphen, W, A, Y",
+      "spoken_meaning": "形容词或名词，单程的，单程票，单程行程",
+      "en": "Because she will return by train, please book a one-way flight to Chicago.",
+      "zh": "由于她将乘火车返回，请预订一张前往芝加哥的单程机票。"
+    },
+    {
+      "word": "late-checkout",
+      "spelling": "L, A, T, E, hyphen, C, H, E, C, K, O, U, T",
+      "spoken_meaning": "名词，延迟退房，晚退房，延时离店",
+      "en": "The hotel granted a late-checkout until 2:00 p.m. so you can attend the morning session.",
+      "zh": "酒店批准延迟退房至下午2点，以便你能参加上午的会议。"
+    },
+    {
+      "word": "rental-car",
+      "spelling": "R, E, N, T, A, L, hyphen, C, A, R",
+      "spoken_meaning": "名词，租车，租赁汽车，自驾出租车辆",
+      "en": "Please reserve a rental-car at the airport for the two-day client visit.",
+      "zh": "请在机场预订一辆租车，供为期两天的客户拜访使用。"
+    },
+    {
+      "word": "business-trip",
+      "spelling": "B, U, S, I, N, E, S, S, hyphen, T, R, I, P",
+      "spoken_meaning": "名词，出差，商务旅行，因公出行",
+      "en": "Please submit your business-trip request at least five days before departure.",
+      "zh": "请至少在出发前五天提交出差申请。"
+    },
+    {
+      "word": "change-fee",
+      "spelling": "C, H, A, N, G, E, hyphen, F, E, E",
+      "spoken_meaning": "名词，改签费，变更手续费，票务更改费",
+      "en": "The airline will charge a $150 change-fee if you rebook the return flight.",
+      "zh": "若你改签回程航班，航空公司将收取150美元改签费。"
+    },
+    {
+      "word": "keycard",
+      "spelling": "K, E, Y, C, A, R, D",
+      "spoken_meaning": "名词，门禁卡，钥匙卡，感应门卡",
+      "en": "Please return your keycard to reception on your last day so we can deactivate building access.",
+      "zh": "请在最后工作日把门禁卡交还前台，以便我们关闭大楼门禁权限。"
+    },
+    {
+      "word": "break-room",
+      "spelling": "B, R, E, A, K, hyphen, R, O, O, M",
+      "spoken_meaning": "名词，休息室，茶水间，员工休息区",
+      "en": "The second-floor break-room will be closed on Friday for a refrigerator replacement.",
+      "zh": "二楼休息室将于周五关闭，以便更换冰箱。"
+    },
+    {
+      "word": "after-hours",
+      "spelling": "A, F, T, E, R, hyphen, H, O, U, R, S",
+      "spoken_meaning": "形容词或副词，下班后的，非工作时间，办公时间以外",
+      "en": "After-hours access to the server room requires written approval from IT security.",
+      "zh": "下班后进入机房须获得信息技术安全部门的书面批准。"
+    },
+    {
+      "word": "office-supplies",
+      "spelling": "O, F, F, I, C, E, hyphen, S, U, P, P, L, I, E, S",
+      "spoken_meaning": "名词，办公用品，办公耗材，文具与办公物料",
+      "en": "Please submit office-supplies requests by Wednesday so the order can go out this week.",
+      "zh": "请在周三前提交办公用品申请，以便本周能发出订单。"
+    },
+    {
+      "word": "early-bird",
+      "spelling": "E, A, R, L, Y, hyphen, B, I, R, D",
+      "spoken_meaning": "名词或形容词，早鸟优惠，提前报名价，早报名参加者",
+      "en": "Register by May 1 to receive the early-bird discount on the annual conference.",
+      "zh": "请在5月1日前报名，即可享受年会早鸟优惠。"
+    },
+    {
+      "word": "market-research",
+      "spelling": "M, A, R, K, E, T, hyphen, R, E, S, E, A, R, C, H",
+      "spoken_meaning": "名词，市场调研，市场研究，行情调查",
+      "en": "Before setting the price, we commissioned market-research on how competitors position similar products.",
+      "zh": "在定价之前，我们委托开展了市场调研，以了解竞争对手如何定位同类产品。"
+    },
+    {
+      "word": "press-kit",
+      "spelling": "P, R, E, S, S, hyphen, K, I, T",
+      "spoken_meaning": "名词，媒体资料包，新闻资料夹，新闻发布材料套装",
+      "en": "Please email the updated press-kit to reporters covering Thursday's product launch.",
+      "zh": "请把更新后的媒体资料包用电子邮件发给报道周四产品发布会的记者。"
+    },
+    {
+      "word": "product-demo",
+      "spelling": "P, R, O, D, U, C, T, hyphen, D, E, M, O",
+      "spoken_meaning": "名词，产品演示，产品示范，产品功能展示",
+      "en": "The sales team will give a product-demo to the client at 3:00 p.m. in Conference Room B.",
+      "zh": "销售团队将于下午3点在B会议室为客户进行产品演示。"
+    },
+    {
+      "word": "material-breach",
+      "spelling": "M, A, T, E, R, I, A, L, hyphen, B, R, E, A, C, H",
+      "spoken_meaning": "名词，重大违约，实质性违约，根本违约",
+      "en": "Failure to deliver by the agreed date may constitute a material-breach of the contract.",
+      "zh": "未能在约定日期交付，可能构成对该合同的重大违约。"
+    },
+    {
+      "word": "effective-date",
+      "spelling": "E, F, F, E, C, T, I, V, E, hyphen, D, A, T, E",
+      "spoken_meaning": "名词，生效日期，施行日，条款开始适用之日",
+      "en": "Please note that the new payment terms will apply from the effective-date of July 1.",
+      "zh": "请注意，新的付款条款将自7月1日的生效日期起适用。"
+    },
+    {
+      "word": "authorized-signatory",
+      "spelling": "A, U, T, H, O, R, I, Z, E, D, hyphen, S, I, G, N, A, T, O, R, Y",
+      "spoken_meaning": "名词，授权签字人，有权签署人，经授权的签署代表",
+      "en": "Only an authorized-signatory listed in Appendix A may execute contracts above $25,000.",
+      "zh": "只有附录A所列的授权签字人，才可签署金额超过2.5万美元的合同。"
+    },
+    {
+      "word": "countersign",
+      "spelling": "C, O, U, N, T, E, R, S, I, G, N",
+      "spoken_meaning": "动词，会签，副署，加签确认",
+      "en": "Please have your supervisor countersign the expense report before submitting it to finance.",
+      "zh": "请让你的主管在费用报销单上会签后，再提交给财务部门。"
+    },
+    {
+      "word": "huddle",
+      "spelling": "H, U, D, D, L, E",
+      "spoken_meaning": "名词，短会，碰头会，团队快速对齐进展的简短会议",
+      "en": "The team holds a ten-minute huddle each morning to flag delays.",
+      "zh": "团队每天早上开十分钟短会，以便及时标出延误。"
+    },
+    {
+      "word": "dial-in",
+      "spelling": "D, I, A, L, hyphen, I, N",
+      "spoken_meaning": "名词，电话接入，拨入号码，电话会议的接入方式",
+      "en": "Please use the dial-in number in the calendar invite if you cannot attend in person.",
+      "zh": "若无法亲自出席，请使用日历邀请中的电话接入号码入会。"
+    },
+    {
+      "word": "video-conference",
+      "spelling": "V, I, D, E, O, hyphen, C, O, N, F, E, R, E, N, C, E",
+      "spoken_meaning": "名词，视频会议，远程视讯会议",
+      "en": "The regional managers will join tomorrow's video-conference from their branch offices.",
+      "zh": "各地区经理将从各自分公司加入明天的视频会议。"
+    },
+    {
+      "word": "next-steps",
+      "spelling": "N, E, X, T, hyphen, S, T, E, P, S",
+      "spoken_meaning": "名词，后续步骤，下一步行动，会后待办事项",
+      "en": "Please email the next-steps to all attendees by the end of the day.",
+      "zh": "请在今天结束前把后续步骤发给所有与会者。"
+    },
+    {
+      "word": "working-lunch",
+      "spelling": "W, O, R, K, I, N, G, hyphen, L, U, N, C, H",
+      "spoken_meaning": "名词，工作午餐，边吃边谈的商务午餐会",
+      "en": "We have scheduled a working-lunch with the supplier to finalize the delivery dates.",
+      "zh": "我们已与供应商安排了工作午餐，以便敲定交货日期。"
+    },
+    {
+      "word": "job-offer",
+      "spelling": "J, O, B, hyphen, O, F, F, E, R",
+      "spoken_meaning": "名词，录用通知，聘用要约，工作录取意向",
+      "en": "She accepted the job-offer and will start in the marketing department on June 1.",
+      "zh": "她接受了这份录用通知，将于6月1日到市场部入职。"
+    },
+    {
+      "word": "sick-leave",
+      "spelling": "S, I, C, K, hyphen, L, E, A, V, E",
+      "spoken_meaning": "名词，病假，因病请假的核准假期",
+      "en": "Please submit a doctor's note if your sick-leave lasts more than three days.",
+      "zh": "若病假超过三天，请提交医生证明。"
+    },
+    {
+      "word": "maternity-leave",
+      "spelling": "M, A, T, E, R, N, I, T, Y, hyphen, L, E, A, V, E",
+      "spoken_meaning": "名词，产假，分娩及产后护理假期",
+      "en": "The benefits team briefed her on how to apply for maternity-leave before the due date.",
+      "zh": "福利团队在预产期前向她说明了如何申请产假。"
+    },
+    {
+      "word": "work-from-home",
+      "spelling": "W, O, R, K, hyphen, F, R, O, M, hyphen, H, O, M, E",
+      "spoken_meaning": "名词，在家办公，居家远程工作",
+      "en": "Friday is a work-from-home day for the support team, unless a client visit is scheduled.",
+      "zh": "除非安排了客户拜访，否则周五是支持团队的居家办公日。"
+    },
+    {
+      "word": "job-title",
+      "spelling": "J, O, B, hyphen, T, I, T, L, E",
+      "spoken_meaning": "名词，职位名称，职务头衔，岗位称谓",
+      "en": "Please update your email signature to reflect your new job-title after the promotion.",
+      "zh": "晋升后请更新电子邮件签名，以体现你的新职位名称。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第53轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "credit-limit",
+      "voice": "en",
+      "text": "credit limit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "credit-limit",
+      "voice": "en",
+      "text": "C, R, E, D, I, T, hyphen, L, I, M, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "credit-limit",
+      "voice": "zh",
+      "text": "名词，信用额度，信贷上限，授信限额",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "credit-limit",
+      "voice": "en",
+      "text": "The bank raised our credit-limit after reviewing last year's payment history.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "credit-limit",
+      "voice": "zh",
+      "text": "银行在审阅去年的付款记录后，上调了我们的信用额度。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "wire-transfer",
+      "voice": "en",
+      "text": "wire transfer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "wire-transfer",
+      "voice": "en",
+      "text": "W, I, R, E, hyphen, T, R, A, N, S, F, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "wire-transfer",
+      "voice": "zh",
+      "text": "名词，电汇，银行电划，电子汇款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "wire-transfer",
+      "voice": "en",
+      "text": "Please send the deposit by wire-transfer no later than Friday to secure the booking.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "wire-transfer",
+      "voice": "zh",
+      "text": "请最迟于周五前通过电汇支付定金，以便锁定预订。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "past-due",
+      "voice": "en",
+      "text": "past due",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "past-due",
+      "voice": "en",
+      "text": "P, A, S, T, hyphen, D, U, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "past-due",
+      "voice": "zh",
+      "text": "形容词，逾期的，过期未付的，到期未结清的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "past-due",
+      "voice": "en",
+      "text": "Accounts payable asked us to settle the past-due invoice before any new orders are shipped.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "past-due",
+      "voice": "zh",
+      "text": "应付账款部门要求我们先结清这张逾期发票，然后才会发运任何新订单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "one-way",
+      "voice": "en",
+      "text": "one way",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "one-way",
+      "voice": "en",
+      "text": "O, N, E, hyphen, W, A, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "one-way",
+      "voice": "zh",
+      "text": "形容词或名词，单程的，单程票，单程行程",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "one-way",
+      "voice": "en",
+      "text": "Because she will return by train, please book a one-way flight to Chicago.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "one-way",
+      "voice": "zh",
+      "text": "由于她将乘火车返回，请预订一张前往芝加哥的单程机票。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "late-checkout",
+      "voice": "en",
+      "text": "late checkout",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "late-checkout",
+      "voice": "en",
+      "text": "L, A, T, E, hyphen, C, H, E, C, K, O, U, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "late-checkout",
+      "voice": "zh",
+      "text": "名词，延迟退房，晚退房，延时离店",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "late-checkout",
+      "voice": "en",
+      "text": "The hotel granted a late-checkout until 2:00 p.m. so you can attend the morning session.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "late-checkout",
+      "voice": "zh",
+      "text": "酒店批准延迟退房至下午2点，以便你能参加上午的会议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "rental-car",
+      "voice": "en",
+      "text": "rental car",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rental-car",
+      "voice": "en",
+      "text": "R, E, N, T, A, L, hyphen, C, A, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rental-car",
+      "voice": "zh",
+      "text": "名词，租车，租赁汽车，自驾出租车辆",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rental-car",
+      "voice": "en",
+      "text": "Please reserve a rental-car at the airport for the two-day client visit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rental-car",
+      "voice": "zh",
+      "text": "请在机场预订一辆租车，供为期两天的客户拜访使用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "business-trip",
+      "voice": "en",
+      "text": "business trip",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "business-trip",
+      "voice": "en",
+      "text": "B, U, S, I, N, E, S, S, hyphen, T, R, I, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "business-trip",
+      "voice": "zh",
+      "text": "名词，出差，商务旅行，因公出行",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "business-trip",
+      "voice": "en",
+      "text": "Please submit your business-trip request at least five days before departure.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "business-trip",
+      "voice": "zh",
+      "text": "请至少在出发前五天提交出差申请。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "change-fee",
+      "voice": "en",
+      "text": "change fee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "change-fee",
+      "voice": "en",
+      "text": "C, H, A, N, G, E, hyphen, F, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "change-fee",
+      "voice": "zh",
+      "text": "名词，改签费，变更手续费，票务更改费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "change-fee",
+      "voice": "en",
+      "text": "The airline will charge a $150 change-fee if you rebook the return flight.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "change-fee",
+      "voice": "zh",
+      "text": "若你改签回程航班，航空公司将收取150美元改签费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "keycard",
+      "voice": "en",
+      "text": "keycard",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "keycard",
+      "voice": "en",
+      "text": "K, E, Y, C, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "keycard",
+      "voice": "zh",
+      "text": "名词，门禁卡，钥匙卡，感应门卡",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "keycard",
+      "voice": "en",
+      "text": "Please return your keycard to reception on your last day so we can deactivate building access.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "keycard",
+      "voice": "zh",
+      "text": "请在最后工作日把门禁卡交还前台，以便我们关闭大楼门禁权限。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "break-room",
+      "voice": "en",
+      "text": "break room",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "break-room",
+      "voice": "en",
+      "text": "B, R, E, A, K, hyphen, R, O, O, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "break-room",
+      "voice": "zh",
+      "text": "名词，休息室，茶水间，员工休息区",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "break-room",
+      "voice": "en",
+      "text": "The second-floor break-room will be closed on Friday for a refrigerator replacement.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "break-room",
+      "voice": "zh",
+      "text": "二楼休息室将于周五关闭，以便更换冰箱。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "after-hours",
+      "voice": "en",
+      "text": "after hours",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "after-hours",
+      "voice": "en",
+      "text": "A, F, T, E, R, hyphen, H, O, U, R, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "after-hours",
+      "voice": "zh",
+      "text": "形容词或副词，下班后的，非工作时间，办公时间以外",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "after-hours",
+      "voice": "en",
+      "text": "After-hours access to the server room requires written approval from IT security.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "after-hours",
+      "voice": "zh",
+      "text": "下班后进入机房须获得信息技术安全部门的书面批准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "office-supplies",
+      "voice": "en",
+      "text": "office supplies",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "office-supplies",
+      "voice": "en",
+      "text": "O, F, F, I, C, E, hyphen, S, U, P, P, L, I, E, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "office-supplies",
+      "voice": "zh",
+      "text": "名词，办公用品，办公耗材，文具与办公物料",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "office-supplies",
+      "voice": "en",
+      "text": "Please submit office-supplies requests by Wednesday so the order can go out this week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "office-supplies",
+      "voice": "zh",
+      "text": "请在周三前提交办公用品申请，以便本周能发出订单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "early-bird",
+      "voice": "en",
+      "text": "early bird",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "early-bird",
+      "voice": "en",
+      "text": "E, A, R, L, Y, hyphen, B, I, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "early-bird",
+      "voice": "zh",
+      "text": "名词或形容词，早鸟优惠，提前报名价，早报名参加者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "early-bird",
+      "voice": "en",
+      "text": "Register by May 1 to receive the early-bird discount on the annual conference.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "early-bird",
+      "voice": "zh",
+      "text": "请在5月1日前报名，即可享受年会早鸟优惠。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "market-research",
+      "voice": "en",
+      "text": "market research",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "market-research",
+      "voice": "en",
+      "text": "M, A, R, K, E, T, hyphen, R, E, S, E, A, R, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "market-research",
+      "voice": "zh",
+      "text": "名词，市场调研，市场研究，行情调查",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "market-research",
+      "voice": "en",
+      "text": "Before setting the price, we commissioned market-research on how competitors position similar products.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "market-research",
+      "voice": "zh",
+      "text": "在定价之前，我们委托开展了市场调研，以了解竞争对手如何定位同类产品。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "press-kit",
+      "voice": "en",
+      "text": "press kit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "press-kit",
+      "voice": "en",
+      "text": "P, R, E, S, S, hyphen, K, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "press-kit",
+      "voice": "zh",
+      "text": "名词，媒体资料包，新闻资料夹，新闻发布材料套装",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "press-kit",
+      "voice": "en",
+      "text": "Please email the updated press-kit to reporters covering Thursday's product launch.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "press-kit",
+      "voice": "zh",
+      "text": "请把更新后的媒体资料包用电子邮件发给报道周四产品发布会的记者。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "product-demo",
+      "voice": "en",
+      "text": "product demo",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "product-demo",
+      "voice": "en",
+      "text": "P, R, O, D, U, C, T, hyphen, D, E, M, O",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "product-demo",
+      "voice": "zh",
+      "text": "名词，产品演示，产品示范，产品功能展示",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "product-demo",
+      "voice": "en",
+      "text": "The sales team will give a product-demo to the client at 3:00 p.m. in Conference Room B.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "product-demo",
+      "voice": "zh",
+      "text": "销售团队将于下午3点在B会议室为客户进行产品演示。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "material-breach",
+      "voice": "en",
+      "text": "material breach",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "material-breach",
+      "voice": "en",
+      "text": "M, A, T, E, R, I, A, L, hyphen, B, R, E, A, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "material-breach",
+      "voice": "zh",
+      "text": "名词，重大违约，实质性违约，根本违约",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "material-breach",
+      "voice": "en",
+      "text": "Failure to deliver by the agreed date may constitute a material-breach of the contract.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "material-breach",
+      "voice": "zh",
+      "text": "未能在约定日期交付，可能构成对该合同的重大违约。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "effective-date",
+      "voice": "en",
+      "text": "effective date",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "effective-date",
+      "voice": "en",
+      "text": "E, F, F, E, C, T, I, V, E, hyphen, D, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "effective-date",
+      "voice": "zh",
+      "text": "名词，生效日期，施行日，条款开始适用之日",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "effective-date",
+      "voice": "en",
+      "text": "Please note that the new payment terms will apply from the effective-date of July 1.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "effective-date",
+      "voice": "zh",
+      "text": "请注意，新的付款条款将自7月1日的生效日期起适用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "authorized-signatory",
+      "voice": "en",
+      "text": "authorized signatory",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "authorized-signatory",
+      "voice": "en",
+      "text": "A, U, T, H, O, R, I, Z, E, D, hyphen, S, I, G, N, A, T, O, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "authorized-signatory",
+      "voice": "zh",
+      "text": "名词，授权签字人，有权签署人，经授权的签署代表",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "authorized-signatory",
+      "voice": "en",
+      "text": "Only an authorized-signatory listed in Appendix A may execute contracts above $25,000.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "authorized-signatory",
+      "voice": "zh",
+      "text": "只有附录A所列的授权签字人，才可签署金额超过2.5万美元的合同。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "countersign",
+      "voice": "en",
+      "text": "countersign",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "countersign",
+      "voice": "en",
+      "text": "C, O, U, N, T, E, R, S, I, G, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "countersign",
+      "voice": "zh",
+      "text": "动词，会签，副署，加签确认",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "countersign",
+      "voice": "en",
+      "text": "Please have your supervisor countersign the expense report before submitting it to finance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "countersign",
+      "voice": "zh",
+      "text": "请让你的主管在费用报销单上会签后，再提交给财务部门。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "huddle",
+      "voice": "en",
+      "text": "huddle",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "huddle",
+      "voice": "en",
+      "text": "H, U, D, D, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "huddle",
+      "voice": "zh",
+      "text": "名词，短会，碰头会，团队快速对齐进展的简短会议",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "huddle",
+      "voice": "en",
+      "text": "The team holds a ten-minute huddle each morning to flag delays.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "huddle",
+      "voice": "zh",
+      "text": "团队每天早上开十分钟短会，以便及时标出延误。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "dial-in",
+      "voice": "en",
+      "text": "dial in",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "dial-in",
+      "voice": "en",
+      "text": "D, I, A, L, hyphen, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "dial-in",
+      "voice": "zh",
+      "text": "名词，电话接入，拨入号码，电话会议的接入方式",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "dial-in",
+      "voice": "en",
+      "text": "Please use the dial-in number in the calendar invite if you cannot attend in person.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "dial-in",
+      "voice": "zh",
+      "text": "若无法亲自出席，请使用日历邀请中的电话接入号码入会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "video-conference",
+      "voice": "en",
+      "text": "video conference",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "video-conference",
+      "voice": "en",
+      "text": "V, I, D, E, O, hyphen, C, O, N, F, E, R, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "video-conference",
+      "voice": "zh",
+      "text": "名词，视频会议，远程视讯会议",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "video-conference",
+      "voice": "en",
+      "text": "The regional managers will join tomorrow's video-conference from their branch offices.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "video-conference",
+      "voice": "zh",
+      "text": "各地区经理将从各自分公司加入明天的视频会议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "next-steps",
+      "voice": "en",
+      "text": "next steps",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "next-steps",
+      "voice": "en",
+      "text": "N, E, X, T, hyphen, S, T, E, P, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "next-steps",
+      "voice": "zh",
+      "text": "名词，后续步骤，下一步行动，会后待办事项",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "next-steps",
+      "voice": "en",
+      "text": "Please email the next-steps to all attendees by the end of the day.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "next-steps",
+      "voice": "zh",
+      "text": "请在今天结束前把后续步骤发给所有与会者。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "working-lunch",
+      "voice": "en",
+      "text": "working lunch",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "working-lunch",
+      "voice": "en",
+      "text": "W, O, R, K, I, N, G, hyphen, L, U, N, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "working-lunch",
+      "voice": "zh",
+      "text": "名词，工作午餐，边吃边谈的商务午餐会",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "working-lunch",
+      "voice": "en",
+      "text": "We have scheduled a working-lunch with the supplier to finalize the delivery dates.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "working-lunch",
+      "voice": "zh",
+      "text": "我们已与供应商安排了工作午餐，以便敲定交货日期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "job-offer",
+      "voice": "en",
+      "text": "job offer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "job-offer",
+      "voice": "en",
+      "text": "J, O, B, hyphen, O, F, F, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "job-offer",
+      "voice": "zh",
+      "text": "名词，录用通知，聘用要约，工作录取意向",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "job-offer",
+      "voice": "en",
+      "text": "She accepted the job-offer and will start in the marketing department on June 1.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "job-offer",
+      "voice": "zh",
+      "text": "她接受了这份录用通知，将于6月1日到市场部入职。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sick-leave",
+      "voice": "en",
+      "text": "sick leave",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sick-leave",
+      "voice": "en",
+      "text": "S, I, C, K, hyphen, L, E, A, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sick-leave",
+      "voice": "zh",
+      "text": "名词，病假，因病请假的核准假期",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sick-leave",
+      "voice": "en",
+      "text": "Please submit a doctor's note if your sick-leave lasts more than three days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sick-leave",
+      "voice": "zh",
+      "text": "若病假超过三天，请提交医生证明。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "maternity-leave",
+      "voice": "en",
+      "text": "maternity leave",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "maternity-leave",
+      "voice": "en",
+      "text": "M, A, T, E, R, N, I, T, Y, hyphen, L, E, A, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "maternity-leave",
+      "voice": "zh",
+      "text": "名词，产假，分娩及产后护理假期",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "maternity-leave",
+      "voice": "en",
+      "text": "The benefits team briefed her on how to apply for maternity-leave before the due date.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "maternity-leave",
+      "voice": "zh",
+      "text": "福利团队在预产期前向她说明了如何申请产假。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "work-from-home",
+      "voice": "en",
+      "text": "work from home",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "work-from-home",
+      "voice": "en",
+      "text": "W, O, R, K, hyphen, F, R, O, M, hyphen, H, O, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "work-from-home",
+      "voice": "zh",
+      "text": "名词，在家办公，居家远程工作",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "work-from-home",
+      "voice": "en",
+      "text": "Friday is a work-from-home day for the support team, unless a client visit is scheduled.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "work-from-home",
+      "voice": "zh",
+      "text": "除非安排了客户拜访，否则周五是支持团队的居家办公日。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "job-title",
+      "voice": "en",
+      "text": "job title",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "job-title",
+      "voice": "en",
+      "text": "J, O, B, hyphen, T, I, T, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "job-title",
+      "voice": "zh",
+      "text": "名词，职位名称，职务头衔，岗位称谓",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "job-title",
+      "voice": "en",
+      "text": "Please update your email signature to reflect your new job-title after the promotion.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "job-title",
+      "voice": "zh",
+      "text": "晋升后请更新电子邮件签名，以体现你的新职位名称。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第53轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

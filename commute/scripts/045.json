@@ -1,0 +1,1314 @@
+{
+  "id": "045",
+  "track": 45,
+  "title": "第 45 轨",
+  "word_count": 30,
+  "headwords": [
+    "status-update",
+    "action-owner",
+    "decision-log",
+    "calendar-block",
+    "chargeback",
+    "deferred-revenue",
+    "accrued-expense",
+    "cash-reserve",
+    "late-fee",
+    "trade-show",
+    "call-to-action",
+    "customer-retention",
+    "drip-campaign",
+    "sales-funnel",
+    "service-agreement",
+    "early-termination",
+    "change-request",
+    "purchase-requisition",
+    "travel-policy",
+    "boarding-group",
+    "clawback",
+    "ring-fence",
+    "side-letter",
+    "exclusivity",
+    "letter-of-intent",
+    "memorandum-of-understanding",
+    "indemnification",
+    "holdback",
+    "retainage",
+    "punch-list"
+  ],
+  "entries": [
+    {
+      "word": "status-update",
+      "spelling": "S, T, A, T, U, S, hyphen, U, P, D, A, T, E",
+      "spoken_meaning": "名词，进度汇报，状态更新，近况通报",
+      "en": "Each workstream lead has two minutes for a status-update before we discuss blockers.",
+      "zh": "讨论阻碍前，各工作流负责人有两分钟做进度汇报。"
+    },
+    {
+      "word": "action-owner",
+      "spelling": "A, C, T, I, O, N, hyphen, O, W, N, E, R",
+      "spoken_meaning": "名词，行动负责人，事项责任人，落实人",
+      "en": "Every decision in the minutes must include a due date and a clear action-owner.",
+      "zh": "会议纪要中的每项决定都必须写明截止日期和明确的行动负责人。"
+    },
+    {
+      "word": "decision-log",
+      "spelling": "D, E, C, I, S, I, O, N, hyphen, L, O, G",
+      "spoken_meaning": "名词，决策日志，决议记录表，决策台账",
+      "en": "Before reopening the scope debate, check whether the decision-log already closed that issue.",
+      "zh": "重新打开范围争论前，请先查看决策日志是否已关闭该议题。"
+    },
+    {
+      "word": "calendar-block",
+      "spelling": "C, A, L, E, N, D, A, R, hyphen, B, L, O, C, K",
+      "spoken_meaning": "名词，日历预留时段，日程封锁，专注时段",
+      "en": "I put a calendar-block on Friday mornings for deep work on the quarterly report.",
+      "zh": "我把周五上午在日历里封锁出来，专门深度撰写季度报告。"
+    },
+    {
+      "word": "chargeback",
+      "spelling": "C, H, A, R, G, E, B, A, C, K",
+      "spoken_meaning": "名词，费用回扣，内部成本分摊，信用卡拒付/退单",
+      "en": "Finance will issue a chargeback to each division for its share of the cloud invoice.",
+      "zh": "财务部将就云服务账单中各部门应摊份额开具内部费用回扣。"
+    },
+    {
+      "word": "deferred-revenue",
+      "spelling": "D, E, F, E, R, R, E, D, hyphen, R, E, V, E, N, U, E",
+      "spoken_meaning": "名词，递延收入，预收账款，未实现收入",
+      "en": "Annual subscriptions are booked as deferred-revenue and recognized monthly as service is delivered.",
+      "zh": "年订费用先记为递延收入，并在服务交付时按月确认收入。"
+    },
+    {
+      "word": "accrued-expense",
+      "spelling": "A, C, C, R, U, E, D, hyphen, E, X, P, E, N, S, E",
+      "spoken_meaning": "名词，应计费用，预提费用，已发生未支付费用",
+      "en": "We booked an accrued-expense for legal fees incurred in October but billed in November.",
+      "zh": "我们为十月已发生、十一月才开票的律师费计提了应计费用。"
+    },
+    {
+      "word": "cash-reserve",
+      "spelling": "C, A, S, H, hyphen, R, E, S, E, R, V, E",
+      "spoken_meaning": "名词，现金储备，备用金，流动性准备金",
+      "en": "The board insisted the company keep a six-month cash-reserve before approving the expansion.",
+      "zh": "董事会坚持公司须保留六个月现金储备，才批准扩张计划。"
+    },
+    {
+      "word": "late-fee",
+      "spelling": "L, A, T, E, hyphen, F, E, E",
+      "spoken_meaning": "名词，滞纳金，逾期费，迟交罚款",
+      "en": "Accounts payable asked the vendor to waive the late-fee after the invoice was misrouted.",
+      "zh": "因发票误投，应付账款组请求供应商免除这笔滞纳金。"
+    },
+    {
+      "word": "trade-show",
+      "spelling": "T, R, A, D, E, hyphen, S, H, O, W",
+      "spoken_meaning": "名词，行业展会，贸易展览，商贸展",
+      "en": "Marketing booked a larger booth at next spring's trade-show to launch the new line.",
+      "zh": "市场部预订了明年春季展会的更大展位，以推出新产品线。"
+    },
+    {
+      "word": "call-to-action",
+      "spelling": "C, A, L, L, hyphen, T, O, hyphen, A, C, T, I, O, N",
+      "spoken_meaning": "名词，行动号召，转化按钮文案，CTA",
+      "en": "The landing page conversion rose after we replaced a vague line with a direct call-to-action.",
+      "zh": "把含糊文案换成直接的行动号召后，落地页转化率上升了。"
+    },
+    {
+      "word": "customer-retention",
+      "spelling": "C, U, S, T, O, M, E, R, hyphen, R, E, T, E, N, T, I, O, N",
+      "spoken_meaning": "名词，客户留存，顾客维系，留客率相关工作",
+      "en": "The renewal team’s bonus is tied to customer-retention rather than new-logo acquisition.",
+      "zh": "续约团队的奖金与客户留存挂钩，而非新客户获取。"
+    },
+    {
+      "word": "drip-campaign",
+      "spelling": "D, R, I, P, hyphen, C, A, M, P, A, I, G, N",
+      "spoken_meaning": "名词，滴灌式营销活动，自动分步邮件序列，培育活动",
+      "en": "Trial users enter a seven-day drip-campaign that highlights key product features.",
+      "zh": "试用用户会进入为期七天的滴灌活动，突出介绍产品核心功能。"
+    },
+    {
+      "word": "sales-funnel",
+      "spelling": "S, A, L, E, S, hyphen, F, U, N, N, E, L",
+      "spoken_meaning": "名词，销售漏斗，转化漏斗，销售管道阶段模型",
+      "en": "We redesigned the demo step because too many leads stalled in the middle of the sales-funnel.",
+      "zh": "因太多线索卡在销售漏斗中段，我们重新设计了演示环节。"
+    },
+    {
+      "word": "service-agreement",
+      "spelling": "S, E, R, V, I, C, E, hyphen, A, G, R, E, E, M, E, N, T",
+      "spoken_meaning": "名词，服务协议，服务合同，服务条款协议",
+      "en": "Legal will not approve the pilot until both parties sign the master service-agreement.",
+      "zh": "在双方签署主服务协议之前，法务不会批准试点。"
+    },
+    {
+      "word": "early-termination",
+      "spelling": "E, A, R, L, Y, hyphen, T, E, R, M, I, N, A, T, I, O, N",
+      "spoken_meaning": "名词，提前终止，提前解约，提前结束合同",
+      "en": "The lease allows early-termination after year two if the tenant pays three months’ rent.",
+      "zh": "租约允许租户在第二年后提前终止，但须支付三个月租金。"
+    },
+    {
+      "word": "change-request",
+      "spelling": "C, H, A, N, G, E, hyphen, R, E, Q, U, E, S, T",
+      "spoken_meaning": "名词，变更请求，变更申请，范围变更单",
+      "en": "Any new feature outside the statement of work requires a signed change-request.",
+      "zh": "工作说明书范围以外的任何新功能都需要签署变更请求。"
+    },
+    {
+      "word": "purchase-requisition",
+      "spelling": "P, U, R, C, H, A, S, E, hyphen, R, E, Q, U, I, S, I, T, I, O, N",
+      "spoken_meaning": "名词，采购申请，请购单，内部采购需求单",
+      "en": "IT cannot place the order until Finance clears the purchase-requisition in the system.",
+      "zh": "在财务于系统中核准采购申请之前，IT 不能下单。"
+    },
+    {
+      "word": "travel-policy",
+      "spelling": "T, R, A, V, E, L, hyphen, P, O, L, I, C, Y",
+      "spoken_meaning": "名词，差旅政策，出差规定，差旅报销制度",
+      "en": "Bookings above the travel-policy cap need director approval before ticketing.",
+      "zh": "超出差旅政策上限的预订，出票前须获得总监批准。"
+    },
+    {
+      "word": "boarding-group",
+      "spelling": "B, O, A, R, D, I, N, G, hyphen, G, R, O, U, P",
+      "spoken_meaning": "名词，登机组别，登机分区，登机优先组",
+      "en": "Her boarding pass shows boarding-group 4, so she will board after priority passengers.",
+      "zh": "她的登机牌显示登机组别为 4，因此会在优先旅客之后登机。"
+    },
+    {
+      "word": "clawback",
+      "spelling": "C, L, A, W, B, A, C, K",
+      "spoken_meaning": "名词，追回条款，回拨，已发款项的收回",
+      "en": "The bonus plan includes a clawback if earnings are later restated.",
+      "zh": "奖金方案包含追回条款：若日后对收益进行重述，公司可收回奖金。"
+    },
+    {
+      "word": "ring-fence",
+      "spelling": "R, I, N, G, hyphen, F, E, N, C, E",
+      "spoken_meaning": "动词或名词，环围隔离，专项圈定（资金/资产），设隔离保护",
+      "en": "Regulators required the bank to ring-fence retail deposits from investment banking risks.",
+      "zh": "监管机构要求该银行将零售存款与投资银行业务风险隔离。"
+    },
+    {
+      "word": "side-letter",
+      "spelling": "S, I, D, E, hyphen, L, E, T, T, E, R",
+      "spoken_meaning": "名词，附属函，补充协议函，合同旁函",
+      "en": "The investor rights were clarified in a side-letter rather than rewriting the main agreement.",
+      "zh": "投资者权利在附属函中予以澄清，而不是重写主协议。"
+    },
+    {
+      "word": "exclusivity",
+      "spelling": "E, X, C, L, U, S, I, V, I, T, Y",
+      "spoken_meaning": "名词，排他性，独家权，专营/专属期间",
+      "en": "During the exclusivity period, the seller may not solicit competing bids.",
+      "zh": "在排他期内，卖方不得征求竞争性报价。"
+    },
+    {
+      "word": "letter-of-intent",
+      "spelling": "L, E, T, T, E, R, hyphen, O, F, hyphen, I, N, T, E, N, T",
+      "spoken_meaning": "名词，意向书，合作意向函，初步意向文件",
+      "en": "Both parties signed a letter-of-intent outlining the proposed joint venture terms.",
+      "zh": "双方签署了意向书，概述拟议合资条款。"
+    },
+    {
+      "word": "memorandum-of-understanding",
+      "spelling": "M, E, M, O, R, A, N, D, U, M, hyphen, O, F, hyphen, U, N, D, E, R, S, T, A, N, D, I, N, G",
+      "spoken_meaning": "名词，谅解备忘录，合作备忘录，MOU",
+      "en": "The universities signed a memorandum-of-understanding on student exchange programs.",
+      "zh": "两所大学就学生交换项目签署了谅解备忘录。"
+    },
+    {
+      "word": "indemnification",
+      "spelling": "I, N, D, E, M, N, I, F, I, C, A, T, I, O, N",
+      "spoken_meaning": "名词，赔偿，补偿义务，弥偿安排",
+      "en": "The supplier agreed to indemnification for any third-party IP claims.",
+      "zh": "供应商同意就任何第三方知识产权索赔提供赔偿。"
+    },
+    {
+      "word": "holdback",
+      "spelling": "H, O, L, D, B, A, C, K",
+      "spoken_meaning": "名词，扣留款，暂扣金额，尾款扣留",
+      "en": "Ten percent of the contract price is held as a holdback until final inspection.",
+      "zh": "合同价款的百分之十作为扣留款，待最终验收后再支付。"
+    },
+    {
+      "word": "retainage",
+      "spelling": "R, E, T, A, I, N, A, G, E",
+      "spoken_meaning": "名词，工程质保金，保留金，施工尾款扣留",
+      "en": "The owner will release the remaining retainage after the warranty period ends.",
+      "zh": "保修期结束后，业主将发还剩余的工程保留金。"
+    },
+    {
+      "word": "punch-list",
+      "spelling": "P, U, N, C, H, hyphen, L, I, S, T",
+      "spoken_meaning": "名词，整改清单，扫尾缺陷清单，竣工查验问题单",
+      "en": "Move-in is delayed until the contractor finishes every punch-list item.",
+      "zh": "须等承包商完成整改清单上的每一项后，方可办理迁入。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第45轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "status-update",
+      "voice": "en",
+      "text": "status update",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "status-update",
+      "voice": "en",
+      "text": "S, T, A, T, U, S, hyphen, U, P, D, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "status-update",
+      "voice": "zh",
+      "text": "名词，进度汇报，状态更新，近况通报",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "status-update",
+      "voice": "en",
+      "text": "Each workstream lead has two minutes for a status-update before we discuss blockers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "status-update",
+      "voice": "zh",
+      "text": "讨论阻碍前，各工作流负责人有两分钟做进度汇报。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "action-owner",
+      "voice": "en",
+      "text": "action owner",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "action-owner",
+      "voice": "en",
+      "text": "A, C, T, I, O, N, hyphen, O, W, N, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "action-owner",
+      "voice": "zh",
+      "text": "名词，行动负责人，事项责任人，落实人",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "action-owner",
+      "voice": "en",
+      "text": "Every decision in the minutes must include a due date and a clear action-owner.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "action-owner",
+      "voice": "zh",
+      "text": "会议纪要中的每项决定都必须写明截止日期和明确的行动负责人。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "decision-log",
+      "voice": "en",
+      "text": "decision log",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "decision-log",
+      "voice": "en",
+      "text": "D, E, C, I, S, I, O, N, hyphen, L, O, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "decision-log",
+      "voice": "zh",
+      "text": "名词，决策日志，决议记录表，决策台账",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "decision-log",
+      "voice": "en",
+      "text": "Before reopening the scope debate, check whether the decision-log already closed that issue.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "decision-log",
+      "voice": "zh",
+      "text": "重新打开范围争论前，请先查看决策日志是否已关闭该议题。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "calendar-block",
+      "voice": "en",
+      "text": "calendar block",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "calendar-block",
+      "voice": "en",
+      "text": "C, A, L, E, N, D, A, R, hyphen, B, L, O, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "calendar-block",
+      "voice": "zh",
+      "text": "名词，日历预留时段，日程封锁，专注时段",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "calendar-block",
+      "voice": "en",
+      "text": "I put a calendar-block on Friday mornings for deep work on the quarterly report.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "calendar-block",
+      "voice": "zh",
+      "text": "我把周五上午在日历里封锁出来，专门深度撰写季度报告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "chargeback",
+      "voice": "en",
+      "text": "chargeback",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "chargeback",
+      "voice": "en",
+      "text": "C, H, A, R, G, E, B, A, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "chargeback",
+      "voice": "zh",
+      "text": "名词，费用回扣，内部成本分摊，信用卡拒付/退单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "chargeback",
+      "voice": "en",
+      "text": "Finance will issue a chargeback to each division for its share of the cloud invoice.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "chargeback",
+      "voice": "zh",
+      "text": "财务部将就云服务账单中各部门应摊份额开具内部费用回扣。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "deferred-revenue",
+      "voice": "en",
+      "text": "deferred revenue",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deferred-revenue",
+      "voice": "en",
+      "text": "D, E, F, E, R, R, E, D, hyphen, R, E, V, E, N, U, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deferred-revenue",
+      "voice": "zh",
+      "text": "名词，递延收入，预收账款，未实现收入",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deferred-revenue",
+      "voice": "en",
+      "text": "Annual subscriptions are booked as deferred-revenue and recognized monthly as service is delivered.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deferred-revenue",
+      "voice": "zh",
+      "text": "年订费用先记为递延收入，并在服务交付时按月确认收入。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "accrued-expense",
+      "voice": "en",
+      "text": "accrued expense",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "accrued-expense",
+      "voice": "en",
+      "text": "A, C, C, R, U, E, D, hyphen, E, X, P, E, N, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "accrued-expense",
+      "voice": "zh",
+      "text": "名词，应计费用，预提费用，已发生未支付费用",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "accrued-expense",
+      "voice": "en",
+      "text": "We booked an accrued-expense for legal fees incurred in October but billed in November.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "accrued-expense",
+      "voice": "zh",
+      "text": "我们为十月已发生、十一月才开票的律师费计提了应计费用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cash-reserve",
+      "voice": "en",
+      "text": "cash reserve",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cash-reserve",
+      "voice": "en",
+      "text": "C, A, S, H, hyphen, R, E, S, E, R, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cash-reserve",
+      "voice": "zh",
+      "text": "名词，现金储备，备用金，流动性准备金",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cash-reserve",
+      "voice": "en",
+      "text": "The board insisted the company keep a six-month cash-reserve before approving the expansion.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cash-reserve",
+      "voice": "zh",
+      "text": "董事会坚持公司须保留六个月现金储备，才批准扩张计划。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "late-fee",
+      "voice": "en",
+      "text": "late fee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "late-fee",
+      "voice": "en",
+      "text": "L, A, T, E, hyphen, F, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "late-fee",
+      "voice": "zh",
+      "text": "名词，滞纳金，逾期费，迟交罚款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "late-fee",
+      "voice": "en",
+      "text": "Accounts payable asked the vendor to waive the late-fee after the invoice was misrouted.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "late-fee",
+      "voice": "zh",
+      "text": "因发票误投，应付账款组请求供应商免除这笔滞纳金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "trade-show",
+      "voice": "en",
+      "text": "trade show",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "trade-show",
+      "voice": "en",
+      "text": "T, R, A, D, E, hyphen, S, H, O, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "trade-show",
+      "voice": "zh",
+      "text": "名词，行业展会，贸易展览，商贸展",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "trade-show",
+      "voice": "en",
+      "text": "Marketing booked a larger booth at next spring's trade-show to launch the new line.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "trade-show",
+      "voice": "zh",
+      "text": "市场部预订了明年春季展会的更大展位，以推出新产品线。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "call-to-action",
+      "voice": "en",
+      "text": "call to action",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "call-to-action",
+      "voice": "en",
+      "text": "C, A, L, L, hyphen, T, O, hyphen, A, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "call-to-action",
+      "voice": "zh",
+      "text": "名词，行动号召，转化按钮文案，CTA",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "call-to-action",
+      "voice": "en",
+      "text": "The landing page conversion rose after we replaced a vague line with a direct call-to-action.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "call-to-action",
+      "voice": "zh",
+      "text": "把含糊文案换成直接的行动号召后，落地页转化率上升了。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "customer-retention",
+      "voice": "en",
+      "text": "customer retention",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "customer-retention",
+      "voice": "en",
+      "text": "C, U, S, T, O, M, E, R, hyphen, R, E, T, E, N, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "customer-retention",
+      "voice": "zh",
+      "text": "名词，客户留存，顾客维系，留客率相关工作",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "customer-retention",
+      "voice": "en",
+      "text": "The renewal team’s bonus is tied to customer-retention rather than new-logo acquisition.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "customer-retention",
+      "voice": "zh",
+      "text": "续约团队的奖金与客户留存挂钩，而非新客户获取。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "drip-campaign",
+      "voice": "en",
+      "text": "drip campaign",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "drip-campaign",
+      "voice": "en",
+      "text": "D, R, I, P, hyphen, C, A, M, P, A, I, G, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "drip-campaign",
+      "voice": "zh",
+      "text": "名词，滴灌式营销活动，自动分步邮件序列，培育活动",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "drip-campaign",
+      "voice": "en",
+      "text": "Trial users enter a seven-day drip-campaign that highlights key product features.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "drip-campaign",
+      "voice": "zh",
+      "text": "试用用户会进入为期七天的滴灌活动，突出介绍产品核心功能。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sales-funnel",
+      "voice": "en",
+      "text": "sales funnel",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sales-funnel",
+      "voice": "en",
+      "text": "S, A, L, E, S, hyphen, F, U, N, N, E, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sales-funnel",
+      "voice": "zh",
+      "text": "名词，销售漏斗，转化漏斗，销售管道阶段模型",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sales-funnel",
+      "voice": "en",
+      "text": "We redesigned the demo step because too many leads stalled in the middle of the sales-funnel.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sales-funnel",
+      "voice": "zh",
+      "text": "因太多线索卡在销售漏斗中段，我们重新设计了演示环节。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "service-agreement",
+      "voice": "en",
+      "text": "service agreement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "service-agreement",
+      "voice": "en",
+      "text": "S, E, R, V, I, C, E, hyphen, A, G, R, E, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "service-agreement",
+      "voice": "zh",
+      "text": "名词，服务协议，服务合同，服务条款协议",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "service-agreement",
+      "voice": "en",
+      "text": "Legal will not approve the pilot until both parties sign the master service-agreement.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "service-agreement",
+      "voice": "zh",
+      "text": "在双方签署主服务协议之前，法务不会批准试点。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "early-termination",
+      "voice": "en",
+      "text": "early termination",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "early-termination",
+      "voice": "en",
+      "text": "E, A, R, L, Y, hyphen, T, E, R, M, I, N, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "early-termination",
+      "voice": "zh",
+      "text": "名词，提前终止，提前解约，提前结束合同",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "early-termination",
+      "voice": "en",
+      "text": "The lease allows early-termination after year two if the tenant pays three months’ rent.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "early-termination",
+      "voice": "zh",
+      "text": "租约允许租户在第二年后提前终止，但须支付三个月租金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "change-request",
+      "voice": "en",
+      "text": "change request",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "change-request",
+      "voice": "en",
+      "text": "C, H, A, N, G, E, hyphen, R, E, Q, U, E, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "change-request",
+      "voice": "zh",
+      "text": "名词，变更请求，变更申请，范围变更单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "change-request",
+      "voice": "en",
+      "text": "Any new feature outside the statement of work requires a signed change-request.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "change-request",
+      "voice": "zh",
+      "text": "工作说明书范围以外的任何新功能都需要签署变更请求。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "purchase-requisition",
+      "voice": "en",
+      "text": "purchase requisition",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "purchase-requisition",
+      "voice": "en",
+      "text": "P, U, R, C, H, A, S, E, hyphen, R, E, Q, U, I, S, I, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "purchase-requisition",
+      "voice": "zh",
+      "text": "名词，采购申请，请购单，内部采购需求单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "purchase-requisition",
+      "voice": "en",
+      "text": "IT cannot place the order until Finance clears the purchase-requisition in the system.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "purchase-requisition",
+      "voice": "zh",
+      "text": "在财务于系统中核准采购申请之前，IT 不能下单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "travel-policy",
+      "voice": "en",
+      "text": "travel policy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "travel-policy",
+      "voice": "en",
+      "text": "T, R, A, V, E, L, hyphen, P, O, L, I, C, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "travel-policy",
+      "voice": "zh",
+      "text": "名词，差旅政策，出差规定，差旅报销制度",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "travel-policy",
+      "voice": "en",
+      "text": "Bookings above the travel-policy cap need director approval before ticketing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "travel-policy",
+      "voice": "zh",
+      "text": "超出差旅政策上限的预订，出票前须获得总监批准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "boarding-group",
+      "voice": "en",
+      "text": "boarding group",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "boarding-group",
+      "voice": "en",
+      "text": "B, O, A, R, D, I, N, G, hyphen, G, R, O, U, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "boarding-group",
+      "voice": "zh",
+      "text": "名词，登机组别，登机分区，登机优先组",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "boarding-group",
+      "voice": "en",
+      "text": "Her boarding pass shows boarding-group 4, so she will board after priority passengers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "boarding-group",
+      "voice": "zh",
+      "text": "她的登机牌显示登机组别为 4，因此会在优先旅客之后登机。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "clawback",
+      "voice": "en",
+      "text": "clawback",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "clawback",
+      "voice": "en",
+      "text": "C, L, A, W, B, A, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "clawback",
+      "voice": "zh",
+      "text": "名词，追回条款，回拨，已发款项的收回",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "clawback",
+      "voice": "en",
+      "text": "The bonus plan includes a clawback if earnings are later restated.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "clawback",
+      "voice": "zh",
+      "text": "奖金方案包含追回条款：若日后对收益进行重述，公司可收回奖金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ring-fence",
+      "voice": "en",
+      "text": "ring fence",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ring-fence",
+      "voice": "en",
+      "text": "R, I, N, G, hyphen, F, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ring-fence",
+      "voice": "zh",
+      "text": "动词或名词，环围隔离，专项圈定（资金/资产），设隔离保护",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ring-fence",
+      "voice": "en",
+      "text": "Regulators required the bank to ring-fence retail deposits from investment banking risks.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ring-fence",
+      "voice": "zh",
+      "text": "监管机构要求该银行将零售存款与投资银行业务风险隔离。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "side-letter",
+      "voice": "en",
+      "text": "side letter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "side-letter",
+      "voice": "en",
+      "text": "S, I, D, E, hyphen, L, E, T, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "side-letter",
+      "voice": "zh",
+      "text": "名词，附属函，补充协议函，合同旁函",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "side-letter",
+      "voice": "en",
+      "text": "The investor rights were clarified in a side-letter rather than rewriting the main agreement.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "side-letter",
+      "voice": "zh",
+      "text": "投资者权利在附属函中予以澄清，而不是重写主协议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "exclusivity",
+      "voice": "en",
+      "text": "exclusivity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "exclusivity",
+      "voice": "en",
+      "text": "E, X, C, L, U, S, I, V, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "exclusivity",
+      "voice": "zh",
+      "text": "名词，排他性，独家权，专营/专属期间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "exclusivity",
+      "voice": "en",
+      "text": "During the exclusivity period, the seller may not solicit competing bids.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "exclusivity",
+      "voice": "zh",
+      "text": "在排他期内，卖方不得征求竞争性报价。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "letter-of-intent",
+      "voice": "en",
+      "text": "letter of intent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "letter-of-intent",
+      "voice": "en",
+      "text": "L, E, T, T, E, R, hyphen, O, F, hyphen, I, N, T, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "letter-of-intent",
+      "voice": "zh",
+      "text": "名词，意向书，合作意向函，初步意向文件",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "letter-of-intent",
+      "voice": "en",
+      "text": "Both parties signed a letter-of-intent outlining the proposed joint venture terms.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "letter-of-intent",
+      "voice": "zh",
+      "text": "双方签署了意向书，概述拟议合资条款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "memorandum-of-understanding",
+      "voice": "en",
+      "text": "memorandum of understanding",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "memorandum-of-understanding",
+      "voice": "en",
+      "text": "M, E, M, O, R, A, N, D, U, M, hyphen, O, F, hyphen, U, N, D, E, R, S, T, A, N, D, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "memorandum-of-understanding",
+      "voice": "zh",
+      "text": "名词，谅解备忘录，合作备忘录，MOU",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "memorandum-of-understanding",
+      "voice": "en",
+      "text": "The universities signed a memorandum-of-understanding on student exchange programs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "memorandum-of-understanding",
+      "voice": "zh",
+      "text": "两所大学就学生交换项目签署了谅解备忘录。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "indemnification",
+      "voice": "en",
+      "text": "indemnification",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "indemnification",
+      "voice": "en",
+      "text": "I, N, D, E, M, N, I, F, I, C, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "indemnification",
+      "voice": "zh",
+      "text": "名词，赔偿，补偿义务，弥偿安排",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "indemnification",
+      "voice": "en",
+      "text": "The supplier agreed to indemnification for any third-party IP claims.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "indemnification",
+      "voice": "zh",
+      "text": "供应商同意就任何第三方知识产权索赔提供赔偿。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "holdback",
+      "voice": "en",
+      "text": "holdback",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "holdback",
+      "voice": "en",
+      "text": "H, O, L, D, B, A, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "holdback",
+      "voice": "zh",
+      "text": "名词，扣留款，暂扣金额，尾款扣留",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "holdback",
+      "voice": "en",
+      "text": "Ten percent of the contract price is held as a holdback until final inspection.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "holdback",
+      "voice": "zh",
+      "text": "合同价款的百分之十作为扣留款，待最终验收后再支付。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "retainage",
+      "voice": "en",
+      "text": "retainage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "retainage",
+      "voice": "en",
+      "text": "R, E, T, A, I, N, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "retainage",
+      "voice": "zh",
+      "text": "名词，工程质保金，保留金，施工尾款扣留",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "retainage",
+      "voice": "en",
+      "text": "The owner will release the remaining retainage after the warranty period ends.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "retainage",
+      "voice": "zh",
+      "text": "保修期结束后，业主将发还剩余的工程保留金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "punch-list",
+      "voice": "en",
+      "text": "punch list",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "punch-list",
+      "voice": "en",
+      "text": "P, U, N, C, H, hyphen, L, I, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "punch-list",
+      "voice": "zh",
+      "text": "名词，整改清单，扫尾缺陷清单，竣工查验问题单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "punch-list",
+      "voice": "en",
+      "text": "Move-in is delayed until the contractor finishes every punch-list item.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "punch-list",
+      "voice": "zh",
+      "text": "须等承包商完成整改清单上的每一项后，方可办理迁入。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第45轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

@@ -1,0 +1,1314 @@
+{
+  "id": "003",
+  "track": 3,
+  "title": "第 3 轨",
+  "word_count": 30,
+  "headwords": [
+    "deposit",
+    "disclose",
+    "discrepancy",
+    "dismiss",
+    "dispute",
+    "draft",
+    "duration",
+    "facilitate",
+    "fluctuate",
+    "incentive",
+    "notify",
+    "outstanding",
+    "personnel",
+    "procurement",
+    "proposal",
+    "rebate",
+    "regulation",
+    "relocation",
+    "retention",
+    "schedule",
+    "adjourn",
+    "anticipate",
+    "apprentice",
+    "arrange",
+    "assess",
+    "backlog",
+    "bargain",
+    "candidate",
+    "capacity",
+    "catalog"
+  ],
+  "entries": [
+    {
+      "word": "deposit",
+      "spelling": "D, E, P, O, S, I, T",
+      "spoken_meaning": "名词或动词，押金，存款，存放",
+      "en": "A security deposit of $500 is required to reserve the suite.",
+      "zh": "预订套房需支付 500 美元押金。"
+    },
+    {
+      "word": "disclose",
+      "spelling": "D, I, S, C, L, O, S, E",
+      "spoken_meaning": "动词，披露，公开（信息）",
+      "en": "Companies must disclose material risks to investors.",
+      "zh": "公司必须向投资者披露重大风险。"
+    },
+    {
+      "word": "discrepancy",
+      "spelling": "D, I, S, C, R, E, P, A, N, C, Y",
+      "spoken_meaning": "名词，差异，不符，出入",
+      "en": "There is a discrepancy between the invoice and the delivery note.",
+      "zh": "发票与送货单之间存在出入。"
+    },
+    {
+      "word": "dismiss",
+      "spelling": "D, I, S, M, I, S, S",
+      "spoken_meaning": "动词，解雇，驳回，解散",
+      "en": "The manager decided to dismiss two underperforming staff members.",
+      "zh": "经理决定解雇两名表现不佳的员工。"
+    },
+    {
+      "word": "dispute",
+      "spelling": "D, I, S, P, U, T, E",
+      "spoken_meaning": "名词或动词，争议，争论，质疑",
+      "en": "The two firms are trying to settle the contract dispute amicably.",
+      "zh": "两家公司正设法友好地解决合同争议。"
+    },
+    {
+      "word": "draft",
+      "spelling": "D, R, A, F, T",
+      "spoken_meaning": "名词或动词，草稿，起草，汇票",
+      "en": "Please draft a proposal and send it to me by Friday.",
+      "zh": "请起草一份提案并于周五前发给我。"
+    },
+    {
+      "word": "duration",
+      "spelling": "D, U, R, A, T, I, O, N",
+      "spoken_meaning": "名词，持续时间，期间",
+      "en": "The warranty covers repairs for the duration of three years.",
+      "zh": "保修涵盖为期三年的维修。"
+    },
+    {
+      "word": "facilitate",
+      "spelling": "F, A, C, I, L, I, T, A, T, E",
+      "spoken_meaning": "动词，促进，使便利，促成",
+      "en": "The new software will facilitate communication across departments.",
+      "zh": "新软件将促进跨部门沟通。"
+    },
+    {
+      "word": "fluctuate",
+      "spelling": "F, L, U, C, T, U, A, T, E",
+      "spoken_meaning": "动词，波动，起伏",
+      "en": "Oil prices tend to fluctuate during the holiday season.",
+      "zh": "油价在节日期间往往会出现波动。"
+    },
+    {
+      "word": "incentive",
+      "spelling": "I, N, C, E, N, T, I, V, E",
+      "spoken_meaning": "名词，激励，奖励，诱因",
+      "en": "The company offers a bonus as an incentive for early completion.",
+      "zh": "公司提供奖金作为提前完工的激励。"
+    },
+    {
+      "word": "notify",
+      "spelling": "N, O, T, I, F, Y",
+      "spoken_meaning": "动词，通知，告知",
+      "en": "Please notify HR of any change in your contact information.",
+      "zh": "联系方式如有变更，请通知人事部。"
+    },
+    {
+      "word": "outstanding",
+      "spelling": "O, U, T, S, T, A, N, D, I, N, G",
+      "spoken_meaning": "形容词，未结清的，杰出的",
+      "en": "Please settle the outstanding balance by the end of this month.",
+      "zh": "请于本月底前结清未付余额。"
+    },
+    {
+      "word": "personnel",
+      "spelling": "P, E, R, S, O, N, N, E, L",
+      "spoken_meaning": "名词，人事，全体员工",
+      "en": "All new personnel must complete orientation within the first week.",
+      "zh": "所有新员工须在第一周内完成入职培训。"
+    },
+    {
+      "word": "procurement",
+      "spelling": "P, R, O, C, U, R, E, M, E, N, T",
+      "spoken_meaning": "名词，采购，获得",
+      "en": "Our procurement team is negotiating better rates with suppliers.",
+      "zh": "我们的采购团队正与供应商协商更优惠的价格。"
+    },
+    {
+      "word": "proposal",
+      "spelling": "P, R, O, P, O, S, A, L",
+      "spoken_meaning": "名词，提案，建议书",
+      "en": "The client asked us to submit a detailed proposal by Monday.",
+      "zh": "客户要求我们周一前提交详细提案。"
+    },
+    {
+      "word": "rebate",
+      "spelling": "R, E, B, A, T, E",
+      "spoken_meaning": "名词或动词，回扣，部分退款",
+      "en": "Customers who pay early will receive a 3% rebate.",
+      "zh": "提前付款的客户可获 3% 回扣。"
+    },
+    {
+      "word": "regulation",
+      "spelling": "R, E, G, U, L, A, T, I, O, N",
+      "spoken_meaning": "名词，法规，规章，管理",
+      "en": "New environmental regulations will affect manufacturing costs.",
+      "zh": "新的环保法规将影响制造成本。"
+    },
+    {
+      "word": "relocation",
+      "spelling": "R, E, L, O, C, A, T, I, O, N",
+      "spoken_meaning": "名词，搬迁，调动（工作地点）",
+      "en": "The firm offers a relocation package for staff moving overseas.",
+      "zh": "公司为外派员工提供搬迁福利包。"
+    },
+    {
+      "word": "retention",
+      "spelling": "R, E, T, E, N, T, I, O, N",
+      "spoken_meaning": "名词，留存，保留，员工留任",
+      "en": "Improving benefits is key to higher employee retention.",
+      "zh": "改善福利是提高员工留任率的关键。"
+    },
+    {
+      "word": "schedule",
+      "spelling": "S, C, H, E, D, U, L, E",
+      "spoken_meaning": "名词或动词，日程，时间表，安排",
+      "en": "The shipment is expected to arrive on schedule tomorrow.",
+      "zh": "货物预计明天按时到达。"
+    },
+    {
+      "word": "adjourn",
+      "spelling": "A, D, J, O, U, R, N",
+      "spoken_meaning": "动词，休会，延期",
+      "en": "The chair decided to adjourn the meeting until next week.",
+      "zh": "主席决定将会议延期至下周。"
+    },
+    {
+      "word": "anticipate",
+      "spelling": "A, N, T, I, C, I, P, A, T, E",
+      "spoken_meaning": "动词，预期，提前准备",
+      "en": "We anticipate a surge in orders after the product launch.",
+      "zh": "我们预计产品发布后订单会激增。"
+    },
+    {
+      "word": "apprentice",
+      "spelling": "A, P, P, R, E, N, T, I, C, E",
+      "spoken_meaning": "名词，学徒，见习生",
+      "en": "The firm hired three apprentices for the design team.",
+      "zh": "公司为设计团队招了三名学徒。"
+    },
+    {
+      "word": "arrange",
+      "spelling": "A, R, R, A, N, G, E",
+      "spoken_meaning": "动词，安排，整理",
+      "en": "Please arrange a conference room for Friday morning.",
+      "zh": "请为周五上午安排一间会议室。"
+    },
+    {
+      "word": "assess",
+      "spelling": "A, S, S, E, S, S",
+      "spoken_meaning": "动词，评估，评定",
+      "en": "Managers will assess each candidate's communication skills.",
+      "zh": "经理将评估每位候选人的沟通能力。"
+    },
+    {
+      "word": "backlog",
+      "spelling": "B, A, C, K, L, O, G",
+      "spoken_meaning": "名词，积压（工作/订单）",
+      "en": "The warehouse is working overtime to clear the shipment backlog.",
+      "zh": "仓库正在加班清理货运积压。"
+    },
+    {
+      "word": "bargain",
+      "spelling": "B, A, R, G, A, I, N",
+      "spoken_meaning": "名词或动词，便宜货，讨价还价",
+      "en": "We struck a bargain with the supplier for bulk discounts.",
+      "zh": "我们与供应商谈成了大宗折扣协议。"
+    },
+    {
+      "word": "candidate",
+      "spelling": "C, A, N, D, I, D, A, T, E",
+      "spoken_meaning": "名词，候选人，应聘者",
+      "en": "Three candidates will be interviewed for the sales manager role.",
+      "zh": "销售经理一职将面试三位候选人。"
+    },
+    {
+      "word": "capacity",
+      "spelling": "C, A, P, A, C, I, T, Y",
+      "spoken_meaning": "名词，产能，容量，能力",
+      "en": "The factory is operating at full capacity this quarter.",
+      "zh": "本季度工厂正满负荷运转。"
+    },
+    {
+      "word": "catalog",
+      "spelling": "C, A, T, A, L, O, G",
+      "spoken_meaning": "名词或动词，（产品）目录，编入目录",
+      "en": "Please update the spring product catalog before printing.",
+      "zh": "请在印刷前更新春季产品目录。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第3轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "deposit",
+      "voice": "en",
+      "text": "deposit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deposit",
+      "voice": "en",
+      "text": "D, E, P, O, S, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deposit",
+      "voice": "zh",
+      "text": "名词或动词，押金，存款，存放",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deposit",
+      "voice": "en",
+      "text": "A security deposit of $500 is required to reserve the suite.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deposit",
+      "voice": "zh",
+      "text": "预订套房需支付 500 美元押金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "disclose",
+      "voice": "en",
+      "text": "disclose",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "disclose",
+      "voice": "en",
+      "text": "D, I, S, C, L, O, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "disclose",
+      "voice": "zh",
+      "text": "动词，披露，公开（信息）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "disclose",
+      "voice": "en",
+      "text": "Companies must disclose material risks to investors.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "disclose",
+      "voice": "zh",
+      "text": "公司必须向投资者披露重大风险。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "discrepancy",
+      "voice": "en",
+      "text": "discrepancy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "discrepancy",
+      "voice": "en",
+      "text": "D, I, S, C, R, E, P, A, N, C, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "discrepancy",
+      "voice": "zh",
+      "text": "名词，差异，不符，出入",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "discrepancy",
+      "voice": "en",
+      "text": "There is a discrepancy between the invoice and the delivery note.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "discrepancy",
+      "voice": "zh",
+      "text": "发票与送货单之间存在出入。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "dismiss",
+      "voice": "en",
+      "text": "dismiss",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "dismiss",
+      "voice": "en",
+      "text": "D, I, S, M, I, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "dismiss",
+      "voice": "zh",
+      "text": "动词，解雇，驳回，解散",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "dismiss",
+      "voice": "en",
+      "text": "The manager decided to dismiss two underperforming staff members.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "dismiss",
+      "voice": "zh",
+      "text": "经理决定解雇两名表现不佳的员工。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "dispute",
+      "voice": "en",
+      "text": "dispute",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "dispute",
+      "voice": "en",
+      "text": "D, I, S, P, U, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "dispute",
+      "voice": "zh",
+      "text": "名词或动词，争议，争论，质疑",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "dispute",
+      "voice": "en",
+      "text": "The two firms are trying to settle the contract dispute amicably.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "dispute",
+      "voice": "zh",
+      "text": "两家公司正设法友好地解决合同争议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "draft",
+      "voice": "en",
+      "text": "draft",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "draft",
+      "voice": "en",
+      "text": "D, R, A, F, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "draft",
+      "voice": "zh",
+      "text": "名词或动词，草稿，起草，汇票",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "draft",
+      "voice": "en",
+      "text": "Please draft a proposal and send it to me by Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "draft",
+      "voice": "zh",
+      "text": "请起草一份提案并于周五前发给我。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "duration",
+      "voice": "en",
+      "text": "duration",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "duration",
+      "voice": "en",
+      "text": "D, U, R, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "duration",
+      "voice": "zh",
+      "text": "名词，持续时间，期间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "duration",
+      "voice": "en",
+      "text": "The warranty covers repairs for the duration of three years.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "duration",
+      "voice": "zh",
+      "text": "保修涵盖为期三年的维修。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "facilitate",
+      "voice": "en",
+      "text": "facilitate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "facilitate",
+      "voice": "en",
+      "text": "F, A, C, I, L, I, T, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "facilitate",
+      "voice": "zh",
+      "text": "动词，促进，使便利，促成",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "facilitate",
+      "voice": "en",
+      "text": "The new software will facilitate communication across departments.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "facilitate",
+      "voice": "zh",
+      "text": "新软件将促进跨部门沟通。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fluctuate",
+      "voice": "en",
+      "text": "fluctuate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fluctuate",
+      "voice": "en",
+      "text": "F, L, U, C, T, U, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fluctuate",
+      "voice": "zh",
+      "text": "动词，波动，起伏",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fluctuate",
+      "voice": "en",
+      "text": "Oil prices tend to fluctuate during the holiday season.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fluctuate",
+      "voice": "zh",
+      "text": "油价在节日期间往往会出现波动。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "incentive",
+      "voice": "en",
+      "text": "incentive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "incentive",
+      "voice": "en",
+      "text": "I, N, C, E, N, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "incentive",
+      "voice": "zh",
+      "text": "名词，激励，奖励，诱因",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "incentive",
+      "voice": "en",
+      "text": "The company offers a bonus as an incentive for early completion.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "incentive",
+      "voice": "zh",
+      "text": "公司提供奖金作为提前完工的激励。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "notify",
+      "voice": "en",
+      "text": "notify",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "notify",
+      "voice": "en",
+      "text": "N, O, T, I, F, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "notify",
+      "voice": "zh",
+      "text": "动词，通知，告知",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "notify",
+      "voice": "en",
+      "text": "Please notify HR of any change in your contact information.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "notify",
+      "voice": "zh",
+      "text": "联系方式如有变更，请通知人事部。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "outstanding",
+      "voice": "en",
+      "text": "outstanding",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "outstanding",
+      "voice": "en",
+      "text": "O, U, T, S, T, A, N, D, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "outstanding",
+      "voice": "zh",
+      "text": "形容词，未结清的，杰出的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "outstanding",
+      "voice": "en",
+      "text": "Please settle the outstanding balance by the end of this month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "outstanding",
+      "voice": "zh",
+      "text": "请于本月底前结清未付余额。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "personnel",
+      "voice": "en",
+      "text": "personnel",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "personnel",
+      "voice": "en",
+      "text": "P, E, R, S, O, N, N, E, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "personnel",
+      "voice": "zh",
+      "text": "名词，人事，全体员工",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "personnel",
+      "voice": "en",
+      "text": "All new personnel must complete orientation within the first week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "personnel",
+      "voice": "zh",
+      "text": "所有新员工须在第一周内完成入职培训。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "procurement",
+      "voice": "en",
+      "text": "procurement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "procurement",
+      "voice": "en",
+      "text": "P, R, O, C, U, R, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "procurement",
+      "voice": "zh",
+      "text": "名词，采购，获得",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "procurement",
+      "voice": "en",
+      "text": "Our procurement team is negotiating better rates with suppliers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "procurement",
+      "voice": "zh",
+      "text": "我们的采购团队正与供应商协商更优惠的价格。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "proposal",
+      "voice": "en",
+      "text": "proposal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "proposal",
+      "voice": "en",
+      "text": "P, R, O, P, O, S, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "proposal",
+      "voice": "zh",
+      "text": "名词，提案，建议书",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "proposal",
+      "voice": "en",
+      "text": "The client asked us to submit a detailed proposal by Monday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "proposal",
+      "voice": "zh",
+      "text": "客户要求我们周一前提交详细提案。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "rebate",
+      "voice": "en",
+      "text": "rebate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rebate",
+      "voice": "en",
+      "text": "R, E, B, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rebate",
+      "voice": "zh",
+      "text": "名词或动词，回扣，部分退款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rebate",
+      "voice": "en",
+      "text": "Customers who pay early will receive a 3% rebate.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rebate",
+      "voice": "zh",
+      "text": "提前付款的客户可获 3% 回扣。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "regulation",
+      "voice": "en",
+      "text": "regulation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "regulation",
+      "voice": "en",
+      "text": "R, E, G, U, L, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "regulation",
+      "voice": "zh",
+      "text": "名词，法规，规章，管理",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "regulation",
+      "voice": "en",
+      "text": "New environmental regulations will affect manufacturing costs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "regulation",
+      "voice": "zh",
+      "text": "新的环保法规将影响制造成本。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "relocation",
+      "voice": "en",
+      "text": "relocation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "relocation",
+      "voice": "en",
+      "text": "R, E, L, O, C, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "relocation",
+      "voice": "zh",
+      "text": "名词，搬迁，调动（工作地点）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "relocation",
+      "voice": "en",
+      "text": "The firm offers a relocation package for staff moving overseas.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "relocation",
+      "voice": "zh",
+      "text": "公司为外派员工提供搬迁福利包。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "retention",
+      "voice": "en",
+      "text": "retention",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "retention",
+      "voice": "en",
+      "text": "R, E, T, E, N, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "retention",
+      "voice": "zh",
+      "text": "名词，留存，保留，员工留任",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "retention",
+      "voice": "en",
+      "text": "Improving benefits is key to higher employee retention.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "retention",
+      "voice": "zh",
+      "text": "改善福利是提高员工留任率的关键。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "schedule",
+      "voice": "en",
+      "text": "schedule",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "schedule",
+      "voice": "en",
+      "text": "S, C, H, E, D, U, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "schedule",
+      "voice": "zh",
+      "text": "名词或动词，日程，时间表，安排",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "schedule",
+      "voice": "en",
+      "text": "The shipment is expected to arrive on schedule tomorrow.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "schedule",
+      "voice": "zh",
+      "text": "货物预计明天按时到达。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "adjourn",
+      "voice": "en",
+      "text": "adjourn",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "adjourn",
+      "voice": "en",
+      "text": "A, D, J, O, U, R, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "adjourn",
+      "voice": "zh",
+      "text": "动词，休会，延期",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "adjourn",
+      "voice": "en",
+      "text": "The chair decided to adjourn the meeting until next week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "adjourn",
+      "voice": "zh",
+      "text": "主席决定将会议延期至下周。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "anticipate",
+      "voice": "en",
+      "text": "anticipate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "anticipate",
+      "voice": "en",
+      "text": "A, N, T, I, C, I, P, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "anticipate",
+      "voice": "zh",
+      "text": "动词，预期，提前准备",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "anticipate",
+      "voice": "en",
+      "text": "We anticipate a surge in orders after the product launch.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "anticipate",
+      "voice": "zh",
+      "text": "我们预计产品发布后订单会激增。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "apprentice",
+      "voice": "en",
+      "text": "apprentice",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "apprentice",
+      "voice": "en",
+      "text": "A, P, P, R, E, N, T, I, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "apprentice",
+      "voice": "zh",
+      "text": "名词，学徒，见习生",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "apprentice",
+      "voice": "en",
+      "text": "The firm hired three apprentices for the design team.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "apprentice",
+      "voice": "zh",
+      "text": "公司为设计团队招了三名学徒。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "arrange",
+      "voice": "en",
+      "text": "arrange",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "arrange",
+      "voice": "en",
+      "text": "A, R, R, A, N, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "arrange",
+      "voice": "zh",
+      "text": "动词，安排，整理",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "arrange",
+      "voice": "en",
+      "text": "Please arrange a conference room for Friday morning.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "arrange",
+      "voice": "zh",
+      "text": "请为周五上午安排一间会议室。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "assess",
+      "voice": "en",
+      "text": "assess",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "assess",
+      "voice": "en",
+      "text": "A, S, S, E, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "assess",
+      "voice": "zh",
+      "text": "动词，评估，评定",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "assess",
+      "voice": "en",
+      "text": "Managers will assess each candidate's communication skills.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "assess",
+      "voice": "zh",
+      "text": "经理将评估每位候选人的沟通能力。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "backlog",
+      "voice": "en",
+      "text": "backlog",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "backlog",
+      "voice": "en",
+      "text": "B, A, C, K, L, O, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "backlog",
+      "voice": "zh",
+      "text": "名词，积压（工作/订单）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "backlog",
+      "voice": "en",
+      "text": "The warehouse is working overtime to clear the shipment backlog.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "backlog",
+      "voice": "zh",
+      "text": "仓库正在加班清理货运积压。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bargain",
+      "voice": "en",
+      "text": "bargain",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bargain",
+      "voice": "en",
+      "text": "B, A, R, G, A, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bargain",
+      "voice": "zh",
+      "text": "名词或动词，便宜货，讨价还价",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bargain",
+      "voice": "en",
+      "text": "We struck a bargain with the supplier for bulk discounts.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bargain",
+      "voice": "zh",
+      "text": "我们与供应商谈成了大宗折扣协议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "candidate",
+      "voice": "en",
+      "text": "candidate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "candidate",
+      "voice": "en",
+      "text": "C, A, N, D, I, D, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "candidate",
+      "voice": "zh",
+      "text": "名词，候选人，应聘者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "candidate",
+      "voice": "en",
+      "text": "Three candidates will be interviewed for the sales manager role.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "candidate",
+      "voice": "zh",
+      "text": "销售经理一职将面试三位候选人。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "capacity",
+      "voice": "en",
+      "text": "capacity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "capacity",
+      "voice": "en",
+      "text": "C, A, P, A, C, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "capacity",
+      "voice": "zh",
+      "text": "名词，产能，容量，能力",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "capacity",
+      "voice": "en",
+      "text": "The factory is operating at full capacity this quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "capacity",
+      "voice": "zh",
+      "text": "本季度工厂正满负荷运转。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "catalog",
+      "voice": "en",
+      "text": "catalog",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "catalog",
+      "voice": "en",
+      "text": "C, A, T, A, L, O, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "catalog",
+      "voice": "zh",
+      "text": "名词或动词，（产品）目录，编入目录",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "catalog",
+      "voice": "en",
+      "text": "Please update the spring product catalog before printing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "catalog",
+      "voice": "zh",
+      "text": "请在印刷前更新春季产品目录。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第3轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

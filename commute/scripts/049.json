@@ -1,0 +1,1314 @@
+{
+  "id": "049",
+  "track": 49,
+  "title": "第 49 轨",
+  "word_count": 30,
+  "headwords": [
+    "realization-rate",
+    "lease-renewal",
+    "security-deposit",
+    "common-area",
+    "service-charge",
+    "fare-class",
+    "seat-assignment",
+    "baggage-allowance",
+    "travel-advisory",
+    "capacity-planning",
+    "headcount-planning",
+    "gross-margin",
+    "volume-discount",
+    "payment-terms",
+    "fill-rate",
+    "root-cause",
+    "corrective-action",
+    "opportunity-cost",
+    "sunk-cost",
+    "restocking-fee",
+    "parental-leave",
+    "bereavement-leave",
+    "relocation-package",
+    "signing-bonus",
+    "equity-grant",
+    "talent-review",
+    "calibration-meeting",
+    "nine-box",
+    "net-zero",
+    "carbon-footprint"
+  ],
+  "entries": [
+    {
+      "word": "realization-rate",
+      "spelling": "R, E, A, L, I, Z, A, T, I, O, N, hyphen, R, A, T, E",
+      "spoken_meaning": "名词，实现率，收费实现率，开单金额兑现比例",
+      "en": "Heavy discounting dragged the realization-rate down this quarter.",
+      "zh": "大幅折扣拖累了本季度的收费实现率。"
+    },
+    {
+      "word": "lease-renewal",
+      "spelling": "L, E, A, S, E, hyphen, R, E, N, E, W, A, L",
+      "spoken_meaning": "名词，租约续期，租赁续约，续租",
+      "en": "Facilities started lease-renewal talks six months before the expiry date.",
+      "zh": "设施部门在到期日六个月前就开始了租约续期谈判。"
+    },
+    {
+      "word": "security-deposit",
+      "spelling": "S, E, C, U, R, I, T, Y, hyphen, D, E, P, O, S, I, T",
+      "spoken_meaning": "名词，押金，保证金，租赁保证金",
+      "en": "The landlord will refund the security-deposit after the final walk-through.",
+      "zh": "房东将在最终交房检查后退还押金。"
+    },
+    {
+      "word": "common-area",
+      "spelling": "C, O, M, M, O, N, hyphen, A, R, E, A",
+      "spoken_meaning": "名词，公共区域，共用空间，楼宇公共部位",
+      "en": "Lobby renovations will close the main common-area for two weeks.",
+      "zh": "大堂翻新将使主要公共区域关闭两周。"
+    },
+    {
+      "word": "service-charge",
+      "spelling": "S, E, R, V, I, C, E, hyphen, C, H, A, R, G, E",
+      "spoken_meaning": "名词，服务费，物业管理费，附加服务收费",
+      "en": "The new lease separates base rent from the building service-charge.",
+      "zh": "新租约将基本租金与楼宇服务费分开列出。"
+    },
+    {
+      "word": "fare-class",
+      "spelling": "F, A, R, E, hyphen, C, L, A, S, S",
+      "spoken_meaning": "名词，票价舱位等级，运价等级，机票舱位代码",
+      "en": "The refundable ticket sits in a more expensive fare-class.",
+      "zh": "可退改机票对应的是更贵的票价舱位等级。"
+    },
+    {
+      "word": "seat-assignment",
+      "spelling": "S, E, A, T, hyphen, A, S, S, I, G, N, M, E, N, T",
+      "spoken_meaning": "名词，座位分配，选座，指定座位",
+      "en": "Economy Light fares do not include free seat-assignment.",
+      "zh": "轻量经济舱票价不含免费选座。"
+    },
+    {
+      "word": "baggage-allowance",
+      "spelling": "B, A, G, G, A, G, E, hyphen, A, L, L, O, W, A, N, C, E",
+      "spoken_meaning": "名词，行李额度，免费行李限额，托运行李额度",
+      "en": "Business class includes a higher baggage-allowance than economy.",
+      "zh": "商务舱的行李额度高于经济舱。"
+    },
+    {
+      "word": "travel-advisory",
+      "spelling": "T, R, A, V, E, L, hyphen, A, D, V, I, S, O, R, Y",
+      "spoken_meaning": "名词，旅行警示，出行建议，差旅安全通告",
+      "en": "Security blocked bookings after the government raised its travel-advisory.",
+      "zh": "政府上调旅行警示后，安保部门暂停了相关预订。"
+    },
+    {
+      "word": "capacity-planning",
+      "spelling": "C, A, P, A, C, I, T, Y, hyphen, P, L, A, N, N, I, N, G",
+      "spoken_meaning": "名词，产能规划，容量规划，资源承载规划",
+      "en": "IT began capacity-planning for the holiday traffic surge.",
+      "zh": "IT 已开始针对假日流量高峰做容量规划。"
+    },
+    {
+      "word": "headcount-planning",
+      "spelling": "H, E, A, D, C, O, U, N, T, hyphen, P, L, A, N, N, I, N, G",
+      "spoken_meaning": "名词，编制规划，人员编制计划，人头预算规划",
+      "en": "Finance locked next year's headcount-planning after the budget review.",
+      "zh": "财务在预算审阅后锁定了明年的编制规划。"
+    },
+    {
+      "word": "gross-margin",
+      "spelling": "G, R, O, S, S, hyphen, M, A, R, G, I, N",
+      "spoken_meaning": "名词，毛利率，毛利，销售毛利",
+      "en": "Rising freight costs squeezed the product's gross-margin last quarter.",
+      "zh": "运费上涨压缩了上季度该产品的毛利率。"
+    },
+    {
+      "word": "volume-discount",
+      "spelling": "V, O, L, U, M, E, hyphen, D, I, S, C, O, U, N, T",
+      "spoken_meaning": "名词，数量折扣，批量折扣，量大优惠",
+      "en": "Ordering above five thousand units unlocks a ten percent volume-discount.",
+      "zh": "订购超过五千件可解锁百分之十的数量折扣。"
+    },
+    {
+      "word": "payment-terms",
+      "spelling": "P, A, Y, M, E, N, T, hyphen, T, E, R, M, S",
+      "spoken_meaning": "名词，付款条件，账期条款，支付条款",
+      "en": "The supplier agreed to net-45 payment-terms for preferred buyers.",
+      "zh": "供应商同意向优选买家提供净四十五天付款条件。"
+    },
+    {
+      "word": "fill-rate",
+      "spelling": "F, I, L, L, hyphen, R, A, T, E",
+      "spoken_meaning": "名词，订单满足率，供货满足率，发货完整率",
+      "en": "Warehouse changes lifted the fill-rate above ninety-eight percent.",
+      "zh": "仓储调整把订单满足率提升到百分之九十八以上。"
+    },
+    {
+      "word": "root-cause",
+      "spelling": "R, O, O, T, hyphen, C, A, U, S, E",
+      "spoken_meaning": "名词，根本原因，根因，问题的深层起因",
+      "en": "The outage review traced the root-cause to a misconfigured firewall rule.",
+      "zh": "宕机复盘将根本原因追溯到一条错误配置的防火墙规则。"
+    },
+    {
+      "word": "corrective-action",
+      "spelling": "C, O, R, R, E, C, T, I, V, E, hyphen, A, C, T, I, O, N",
+      "spoken_meaning": "名词，纠正措施，改正行动，纠偏措施",
+      "en": "Audit findings require corrective-action within thirty days.",
+      "zh": "审计发现要求在三十天内采取纠正措施。"
+    },
+    {
+      "word": "opportunity-cost",
+      "spelling": "O, P, P, O, R, T, U, N, I, T, Y, hyphen, C, O, S, T",
+      "spoken_meaning": "名词，机会成本，择一而弃的潜在收益，机会代价",
+      "en": "Keeping cash idle has a high opportunity-cost when rates are rising.",
+      "zh": "在利率上升时，闲置现金的机会成本很高。"
+    },
+    {
+      "word": "sunk-cost",
+      "spelling": "S, U, N, K, hyphen, C, O, S, T",
+      "spoken_meaning": "名词，沉没成本，已发生且不可收回的成本，沉没费用",
+      "en": "The board warned managers not to chase a project just to justify sunk-cost.",
+      "zh": "董事会告诫管理者不要仅为证明沉没成本而硬撑项目。"
+    },
+    {
+      "word": "restocking-fee",
+      "spelling": "R, E, S, T, O, C, K, I, N, G, hyphen, F, E, E",
+      "spoken_meaning": "名词，补货/重新入库费，退货整备费，重新上架费",
+      "en": "Opened software boxes incur a fifteen-percent restocking-fee on return.",
+      "zh": "已开封的软件包装退货将收取百分之十五的重新入库费。"
+    },
+    {
+      "word": "parental-leave",
+      "spelling": "P, A, R, E, N, T, A, L, hyphen, L, E, A, V, E",
+      "spoken_meaning": "名词，育儿假，父母假，产假/陪产假统称",
+      "en": "She will take twelve weeks of parental-leave starting in April.",
+      "zh": "她将从四月起休十二周育儿假。"
+    },
+    {
+      "word": "bereavement-leave",
+      "spelling": "B, E, R, E, A, V, E, M, E, N, T, hyphen, L, E, A, V, E",
+      "spoken_meaning": "名词，丧假，奔丧假，直系亲属丧亡假期",
+      "en": "HR approved three days of bereavement-leave after his father's passing.",
+      "zh": "父亲去世后，人力资源部批准了他三天丧假。"
+    },
+    {
+      "word": "relocation-package",
+      "spelling": "R, E, L, O, C, A, T, I, O, N, hyphen, P, A, C, K, A, G, E",
+      "spoken_meaning": "名词，搬迁一揽子福利，异地调动补贴方案，安家包",
+      "en": "The offer includes a relocation-package covering moving costs and two months of housing.",
+      "zh": "该录用通知包含涵盖搬家费与两个月住房的搬迁一揽子福利。"
+    },
+    {
+      "word": "signing-bonus",
+      "spelling": "S, I, G, N, I, N, G, hyphen, B, O, N, U, S",
+      "spoken_meaning": "名词，签约奖金，入职奖金，签字奖",
+      "en": "Engineers who join before June receive a five-thousand-dollar signing-bonus.",
+      "zh": "六月前入职的工程师可获得五千美元签约奖金。"
+    },
+    {
+      "word": "equity-grant",
+      "spelling": "E, Q, U, I, T, Y, hyphen, G, R, A, N, T",
+      "spoken_meaning": "名词，股权授予，权益激励授予，股票/期权授予份额",
+      "en": "The board approved a refresh equity-grant for the product leadership team.",
+      "zh": "董事会批准了面向产品领导团队的补充股权授予。"
+    },
+    {
+      "word": "talent-review",
+      "spelling": "T, A, L, E, N, T, hyphen, R, E, V, I, E, W",
+      "spoken_meaning": "名词，人才盘点，人才评审会，高潜评估会议",
+      "en": "Managers must submit ratings before next week's talent-review.",
+      "zh": "经理们须在下周人才盘点前提交评级。"
+    },
+    {
+      "word": "calibration-meeting",
+      "spelling": "C, A, L, I, B, R, A, T, I, O, N, hyphen, M, E, E, T, I, N, G",
+      "spoken_meaning": "名词，校准会议，绩效评级对齐会，评分一致性会议",
+      "en": "All department heads joined the calibration-meeting to align performance ratings.",
+      "zh": "各部门负责人参加了校准会议，以统一绩效评级。"
+    },
+    {
+      "word": "nine-box",
+      "spelling": "N, I, N, E, hyphen, B, O, X",
+      "spoken_meaning": "名词，九宫格（人才矩阵），绩效-潜力九格图",
+      "en": "High performers with growth potential sit in the upper-right of the nine-box.",
+      "zh": "高绩效且有成长潜力的员工落在九宫格的右上角。"
+    },
+    {
+      "word": "net-zero",
+      "spelling": "N, E, T, hyphen, Z, E, R, O",
+      "spoken_meaning": "形容词或名词，净零（排放），净零目标，碳中和路径目标",
+      "en": "The board committed the company to net-zero operations by 2040.",
+      "zh": "董事会承诺公司在 2040 年前实现净零运营。"
+    },
+    {
+      "word": "carbon-footprint",
+      "spelling": "C, A, R, B, O, N, hyphen, F, O, O, T, P, R, I, N, T",
+      "spoken_meaning": "名词，碳足迹，碳排放量，温室气体排放足迹",
+      "en": "Switching to rail freight will cut our shipping carbon-footprint this year.",
+      "zh": "改用铁路货运将降低我们今年运输的碳足迹。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第49轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "realization-rate",
+      "voice": "en",
+      "text": "realization rate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "realization-rate",
+      "voice": "en",
+      "text": "R, E, A, L, I, Z, A, T, I, O, N, hyphen, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "realization-rate",
+      "voice": "zh",
+      "text": "名词，实现率，收费实现率，开单金额兑现比例",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "realization-rate",
+      "voice": "en",
+      "text": "Heavy discounting dragged the realization-rate down this quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "realization-rate",
+      "voice": "zh",
+      "text": "大幅折扣拖累了本季度的收费实现率。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lease-renewal",
+      "voice": "en",
+      "text": "lease renewal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lease-renewal",
+      "voice": "en",
+      "text": "L, E, A, S, E, hyphen, R, E, N, E, W, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lease-renewal",
+      "voice": "zh",
+      "text": "名词，租约续期，租赁续约，续租",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lease-renewal",
+      "voice": "en",
+      "text": "Facilities started lease-renewal talks six months before the expiry date.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lease-renewal",
+      "voice": "zh",
+      "text": "设施部门在到期日六个月前就开始了租约续期谈判。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "security-deposit",
+      "voice": "en",
+      "text": "security deposit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "security-deposit",
+      "voice": "en",
+      "text": "S, E, C, U, R, I, T, Y, hyphen, D, E, P, O, S, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "security-deposit",
+      "voice": "zh",
+      "text": "名词，押金，保证金，租赁保证金",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "security-deposit",
+      "voice": "en",
+      "text": "The landlord will refund the security-deposit after the final walk-through.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "security-deposit",
+      "voice": "zh",
+      "text": "房东将在最终交房检查后退还押金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "common-area",
+      "voice": "en",
+      "text": "common area",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "common-area",
+      "voice": "en",
+      "text": "C, O, M, M, O, N, hyphen, A, R, E, A",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "common-area",
+      "voice": "zh",
+      "text": "名词，公共区域，共用空间，楼宇公共部位",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "common-area",
+      "voice": "en",
+      "text": "Lobby renovations will close the main common-area for two weeks.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "common-area",
+      "voice": "zh",
+      "text": "大堂翻新将使主要公共区域关闭两周。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "service-charge",
+      "voice": "en",
+      "text": "service charge",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "service-charge",
+      "voice": "en",
+      "text": "S, E, R, V, I, C, E, hyphen, C, H, A, R, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "service-charge",
+      "voice": "zh",
+      "text": "名词，服务费，物业管理费，附加服务收费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "service-charge",
+      "voice": "en",
+      "text": "The new lease separates base rent from the building service-charge.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "service-charge",
+      "voice": "zh",
+      "text": "新租约将基本租金与楼宇服务费分开列出。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fare-class",
+      "voice": "en",
+      "text": "fare class",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fare-class",
+      "voice": "en",
+      "text": "F, A, R, E, hyphen, C, L, A, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fare-class",
+      "voice": "zh",
+      "text": "名词，票价舱位等级，运价等级，机票舱位代码",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fare-class",
+      "voice": "en",
+      "text": "The refundable ticket sits in a more expensive fare-class.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fare-class",
+      "voice": "zh",
+      "text": "可退改机票对应的是更贵的票价舱位等级。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "seat-assignment",
+      "voice": "en",
+      "text": "seat assignment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "seat-assignment",
+      "voice": "en",
+      "text": "S, E, A, T, hyphen, A, S, S, I, G, N, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "seat-assignment",
+      "voice": "zh",
+      "text": "名词，座位分配，选座，指定座位",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "seat-assignment",
+      "voice": "en",
+      "text": "Economy Light fares do not include free seat-assignment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "seat-assignment",
+      "voice": "zh",
+      "text": "轻量经济舱票价不含免费选座。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "baggage-allowance",
+      "voice": "en",
+      "text": "baggage allowance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "baggage-allowance",
+      "voice": "en",
+      "text": "B, A, G, G, A, G, E, hyphen, A, L, L, O, W, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "baggage-allowance",
+      "voice": "zh",
+      "text": "名词，行李额度，免费行李限额，托运行李额度",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "baggage-allowance",
+      "voice": "en",
+      "text": "Business class includes a higher baggage-allowance than economy.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "baggage-allowance",
+      "voice": "zh",
+      "text": "商务舱的行李额度高于经济舱。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "travel-advisory",
+      "voice": "en",
+      "text": "travel advisory",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "travel-advisory",
+      "voice": "en",
+      "text": "T, R, A, V, E, L, hyphen, A, D, V, I, S, O, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "travel-advisory",
+      "voice": "zh",
+      "text": "名词，旅行警示，出行建议，差旅安全通告",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "travel-advisory",
+      "voice": "en",
+      "text": "Security blocked bookings after the government raised its travel-advisory.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "travel-advisory",
+      "voice": "zh",
+      "text": "政府上调旅行警示后，安保部门暂停了相关预订。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "capacity-planning",
+      "voice": "en",
+      "text": "capacity planning",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "capacity-planning",
+      "voice": "en",
+      "text": "C, A, P, A, C, I, T, Y, hyphen, P, L, A, N, N, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "capacity-planning",
+      "voice": "zh",
+      "text": "名词，产能规划，容量规划，资源承载规划",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "capacity-planning",
+      "voice": "en",
+      "text": "IT began capacity-planning for the holiday traffic surge.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "capacity-planning",
+      "voice": "zh",
+      "text": "IT 已开始针对假日流量高峰做容量规划。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "headcount-planning",
+      "voice": "en",
+      "text": "headcount planning",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "headcount-planning",
+      "voice": "en",
+      "text": "H, E, A, D, C, O, U, N, T, hyphen, P, L, A, N, N, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "headcount-planning",
+      "voice": "zh",
+      "text": "名词，编制规划，人员编制计划，人头预算规划",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "headcount-planning",
+      "voice": "en",
+      "text": "Finance locked next year's headcount-planning after the budget review.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "headcount-planning",
+      "voice": "zh",
+      "text": "财务在预算审阅后锁定了明年的编制规划。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "gross-margin",
+      "voice": "en",
+      "text": "gross margin",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "gross-margin",
+      "voice": "en",
+      "text": "G, R, O, S, S, hyphen, M, A, R, G, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "gross-margin",
+      "voice": "zh",
+      "text": "名词，毛利率，毛利，销售毛利",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "gross-margin",
+      "voice": "en",
+      "text": "Rising freight costs squeezed the product's gross-margin last quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "gross-margin",
+      "voice": "zh",
+      "text": "运费上涨压缩了上季度该产品的毛利率。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "volume-discount",
+      "voice": "en",
+      "text": "volume discount",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "volume-discount",
+      "voice": "en",
+      "text": "V, O, L, U, M, E, hyphen, D, I, S, C, O, U, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "volume-discount",
+      "voice": "zh",
+      "text": "名词，数量折扣，批量折扣，量大优惠",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "volume-discount",
+      "voice": "en",
+      "text": "Ordering above five thousand units unlocks a ten percent volume-discount.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "volume-discount",
+      "voice": "zh",
+      "text": "订购超过五千件可解锁百分之十的数量折扣。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "payment-terms",
+      "voice": "en",
+      "text": "payment terms",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "payment-terms",
+      "voice": "en",
+      "text": "P, A, Y, M, E, N, T, hyphen, T, E, R, M, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "payment-terms",
+      "voice": "zh",
+      "text": "名词，付款条件，账期条款，支付条款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "payment-terms",
+      "voice": "en",
+      "text": "The supplier agreed to net-45 payment-terms for preferred buyers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "payment-terms",
+      "voice": "zh",
+      "text": "供应商同意向优选买家提供净四十五天付款条件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fill-rate",
+      "voice": "en",
+      "text": "fill rate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fill-rate",
+      "voice": "en",
+      "text": "F, I, L, L, hyphen, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fill-rate",
+      "voice": "zh",
+      "text": "名词，订单满足率，供货满足率，发货完整率",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fill-rate",
+      "voice": "en",
+      "text": "Warehouse changes lifted the fill-rate above ninety-eight percent.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fill-rate",
+      "voice": "zh",
+      "text": "仓储调整把订单满足率提升到百分之九十八以上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "root-cause",
+      "voice": "en",
+      "text": "root cause",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "root-cause",
+      "voice": "en",
+      "text": "R, O, O, T, hyphen, C, A, U, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "root-cause",
+      "voice": "zh",
+      "text": "名词，根本原因，根因，问题的深层起因",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "root-cause",
+      "voice": "en",
+      "text": "The outage review traced the root-cause to a misconfigured firewall rule.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "root-cause",
+      "voice": "zh",
+      "text": "宕机复盘将根本原因追溯到一条错误配置的防火墙规则。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "corrective-action",
+      "voice": "en",
+      "text": "corrective action",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "corrective-action",
+      "voice": "en",
+      "text": "C, O, R, R, E, C, T, I, V, E, hyphen, A, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "corrective-action",
+      "voice": "zh",
+      "text": "名词，纠正措施，改正行动，纠偏措施",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "corrective-action",
+      "voice": "en",
+      "text": "Audit findings require corrective-action within thirty days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "corrective-action",
+      "voice": "zh",
+      "text": "审计发现要求在三十天内采取纠正措施。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "opportunity-cost",
+      "voice": "en",
+      "text": "opportunity cost",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "opportunity-cost",
+      "voice": "en",
+      "text": "O, P, P, O, R, T, U, N, I, T, Y, hyphen, C, O, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "opportunity-cost",
+      "voice": "zh",
+      "text": "名词，机会成本，择一而弃的潜在收益，机会代价",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "opportunity-cost",
+      "voice": "en",
+      "text": "Keeping cash idle has a high opportunity-cost when rates are rising.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "opportunity-cost",
+      "voice": "zh",
+      "text": "在利率上升时，闲置现金的机会成本很高。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sunk-cost",
+      "voice": "en",
+      "text": "sunk cost",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sunk-cost",
+      "voice": "en",
+      "text": "S, U, N, K, hyphen, C, O, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sunk-cost",
+      "voice": "zh",
+      "text": "名词，沉没成本，已发生且不可收回的成本，沉没费用",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sunk-cost",
+      "voice": "en",
+      "text": "The board warned managers not to chase a project just to justify sunk-cost.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sunk-cost",
+      "voice": "zh",
+      "text": "董事会告诫管理者不要仅为证明沉没成本而硬撑项目。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "restocking-fee",
+      "voice": "en",
+      "text": "restocking fee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "restocking-fee",
+      "voice": "en",
+      "text": "R, E, S, T, O, C, K, I, N, G, hyphen, F, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "restocking-fee",
+      "voice": "zh",
+      "text": "名词，补货/重新入库费，退货整备费，重新上架费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "restocking-fee",
+      "voice": "en",
+      "text": "Opened software boxes incur a fifteen-percent restocking-fee on return.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "restocking-fee",
+      "voice": "zh",
+      "text": "已开封的软件包装退货将收取百分之十五的重新入库费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "parental-leave",
+      "voice": "en",
+      "text": "parental leave",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "parental-leave",
+      "voice": "en",
+      "text": "P, A, R, E, N, T, A, L, hyphen, L, E, A, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "parental-leave",
+      "voice": "zh",
+      "text": "名词，育儿假，父母假，产假/陪产假统称",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "parental-leave",
+      "voice": "en",
+      "text": "She will take twelve weeks of parental-leave starting in April.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "parental-leave",
+      "voice": "zh",
+      "text": "她将从四月起休十二周育儿假。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bereavement-leave",
+      "voice": "en",
+      "text": "bereavement leave",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bereavement-leave",
+      "voice": "en",
+      "text": "B, E, R, E, A, V, E, M, E, N, T, hyphen, L, E, A, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bereavement-leave",
+      "voice": "zh",
+      "text": "名词，丧假，奔丧假，直系亲属丧亡假期",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bereavement-leave",
+      "voice": "en",
+      "text": "HR approved three days of bereavement-leave after his father's passing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bereavement-leave",
+      "voice": "zh",
+      "text": "父亲去世后，人力资源部批准了他三天丧假。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "relocation-package",
+      "voice": "en",
+      "text": "relocation package",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "relocation-package",
+      "voice": "en",
+      "text": "R, E, L, O, C, A, T, I, O, N, hyphen, P, A, C, K, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "relocation-package",
+      "voice": "zh",
+      "text": "名词，搬迁一揽子福利，异地调动补贴方案，安家包",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "relocation-package",
+      "voice": "en",
+      "text": "The offer includes a relocation-package covering moving costs and two months of housing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "relocation-package",
+      "voice": "zh",
+      "text": "该录用通知包含涵盖搬家费与两个月住房的搬迁一揽子福利。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "signing-bonus",
+      "voice": "en",
+      "text": "signing bonus",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "signing-bonus",
+      "voice": "en",
+      "text": "S, I, G, N, I, N, G, hyphen, B, O, N, U, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "signing-bonus",
+      "voice": "zh",
+      "text": "名词，签约奖金，入职奖金，签字奖",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "signing-bonus",
+      "voice": "en",
+      "text": "Engineers who join before June receive a five-thousand-dollar signing-bonus.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "signing-bonus",
+      "voice": "zh",
+      "text": "六月前入职的工程师可获得五千美元签约奖金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "equity-grant",
+      "voice": "en",
+      "text": "equity grant",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "equity-grant",
+      "voice": "en",
+      "text": "E, Q, U, I, T, Y, hyphen, G, R, A, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "equity-grant",
+      "voice": "zh",
+      "text": "名词，股权授予，权益激励授予，股票/期权授予份额",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "equity-grant",
+      "voice": "en",
+      "text": "The board approved a refresh equity-grant for the product leadership team.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "equity-grant",
+      "voice": "zh",
+      "text": "董事会批准了面向产品领导团队的补充股权授予。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "talent-review",
+      "voice": "en",
+      "text": "talent review",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "talent-review",
+      "voice": "en",
+      "text": "T, A, L, E, N, T, hyphen, R, E, V, I, E, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "talent-review",
+      "voice": "zh",
+      "text": "名词，人才盘点，人才评审会，高潜评估会议",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "talent-review",
+      "voice": "en",
+      "text": "Managers must submit ratings before next week's talent-review.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "talent-review",
+      "voice": "zh",
+      "text": "经理们须在下周人才盘点前提交评级。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "calibration-meeting",
+      "voice": "en",
+      "text": "calibration meeting",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "calibration-meeting",
+      "voice": "en",
+      "text": "C, A, L, I, B, R, A, T, I, O, N, hyphen, M, E, E, T, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "calibration-meeting",
+      "voice": "zh",
+      "text": "名词，校准会议，绩效评级对齐会，评分一致性会议",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "calibration-meeting",
+      "voice": "en",
+      "text": "All department heads joined the calibration-meeting to align performance ratings.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "calibration-meeting",
+      "voice": "zh",
+      "text": "各部门负责人参加了校准会议，以统一绩效评级。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "nine-box",
+      "voice": "en",
+      "text": "nine box",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "nine-box",
+      "voice": "en",
+      "text": "N, I, N, E, hyphen, B, O, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "nine-box",
+      "voice": "zh",
+      "text": "名词，九宫格（人才矩阵），绩效-潜力九格图",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "nine-box",
+      "voice": "en",
+      "text": "High performers with growth potential sit in the upper-right of the nine-box.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "nine-box",
+      "voice": "zh",
+      "text": "高绩效且有成长潜力的员工落在九宫格的右上角。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "net-zero",
+      "voice": "en",
+      "text": "net zero",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "net-zero",
+      "voice": "en",
+      "text": "N, E, T, hyphen, Z, E, R, O",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "net-zero",
+      "voice": "zh",
+      "text": "形容词或名词，净零（排放），净零目标，碳中和路径目标",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "net-zero",
+      "voice": "en",
+      "text": "The board committed the company to net-zero operations by 2040.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "net-zero",
+      "voice": "zh",
+      "text": "董事会承诺公司在 2040 年前实现净零运营。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "carbon-footprint",
+      "voice": "en",
+      "text": "carbon footprint",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "carbon-footprint",
+      "voice": "en",
+      "text": "C, A, R, B, O, N, hyphen, F, O, O, T, P, R, I, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "carbon-footprint",
+      "voice": "zh",
+      "text": "名词，碳足迹，碳排放量，温室气体排放足迹",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "carbon-footprint",
+      "voice": "en",
+      "text": "Switching to rail freight will cut our shipping carbon-footprint this year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "carbon-footprint",
+      "voice": "zh",
+      "text": "改用铁路货运将降低我们今年运输的碳足迹。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第49轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

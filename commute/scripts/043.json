@@ -1,0 +1,1314 @@
+{
+  "id": "043",
+  "track": 43,
+  "title": "第 43 轨",
+  "word_count": 30,
+  "headwords": [
+    "accounts-payable",
+    "accounts-receivable",
+    "petty-cash",
+    "bank-reconciliation",
+    "chart-of-accounts",
+    "expense-report",
+    "cost-center",
+    "travel-allowance",
+    "code-of-conduct",
+    "conflict-of-interest",
+    "framework-agreement",
+    "fit-out",
+    "hybrid-work",
+    "work-life-balance",
+    "talent-pipeline",
+    "skills-gap",
+    "brand-awareness",
+    "market-share",
+    "product-recall",
+    "point-of-sale",
+    "telework",
+    "coworking",
+    "core-hours",
+    "desk-sharing",
+    "cross-functional",
+    "org-chart",
+    "service-recovery",
+    "knowledge-base",
+    "aging-report",
+    "credit-note"
+  ],
+  "entries": [
+    {
+      "word": "accounts-payable",
+      "spelling": "A, C, C, O, U, N, T, S, hyphen, P, A, Y, A, B, L, E",
+      "spoken_meaning": "名词，应付账款，应付账，AP",
+      "en": "The accounts-payable team cleared overdue invoices before the month-end close.",
+      "zh": "应付账款团队在月末结账前清理了逾期发票。"
+    },
+    {
+      "word": "accounts-receivable",
+      "spelling": "A, C, C, O, U, N, T, S, hyphen, R, E, C, E, I, V, A, B, L, E",
+      "spoken_meaning": "名词，应收账款，应收账，AR",
+      "en": "Slow-paying clients pushed our accounts-receivable past the 60-day threshold.",
+      "zh": "付款缓慢的客户使我们的应收账款超过了六十天门槛。"
+    },
+    {
+      "word": "petty-cash",
+      "spelling": "P, E, T, T, Y, hyphen, C, A, S, H",
+      "spoken_meaning": "名词，小额备用金，零用现金，杂费现金",
+      "en": "Please submit the receipt so we can replenish the petty-cash fund.",
+      "zh": "请提交收据，以便我们补足小额备用金。"
+    },
+    {
+      "word": "bank-reconciliation",
+      "spelling": "B, A, N, K, hyphen, R, E, C, O, N, C, I, L, I, A, T, I, O, N",
+      "spoken_meaning": "名词，银行对账，银行存款余额调节，银企对账",
+      "en": "The auditor asked for last quarter's bank-reconciliation worksheets.",
+      "zh": "审计师要求提供上季度的银行对账工作底稿。"
+    },
+    {
+      "word": "chart-of-accounts",
+      "spelling": "C, H, A, R, T, hyphen, O, F, hyphen, A, C, C, O, U, N, T, S",
+      "spoken_meaning": "名词，会计科目表，账目一览表，科目体系",
+      "en": "Finance added a new cost-center code to the chart-of-accounts for the Asia office.",
+      "zh": "财务部在会计科目表中为亚洲办事处新增了一个成本中心编码。"
+    },
+    {
+      "word": "expense-report",
+      "spelling": "E, X, P, E, N, S, E, hyphen, R, E, P, O, R, T",
+      "spoken_meaning": "名词，费用报销单，支出报告，报销申请",
+      "en": "Managers must approve each expense-report within five business days.",
+      "zh": "经理须在五个工作日内审批每份费用报销单。"
+    },
+    {
+      "word": "cost-center",
+      "spelling": "C, O, S, T, hyphen, C, E, N, T, E, R",
+      "spoken_meaning": "名词，成本中心，费用归属单元，成本核算单元",
+      "en": "Please assign the training invoice to the correct cost-center before payment.",
+      "zh": "付款前请将培训发票归入正确的成本中心。"
+    },
+    {
+      "word": "travel-allowance",
+      "spelling": "T, R, A, V, E, L, hyphen, A, L, L, O, W, A, N, C, E",
+      "spoken_meaning": "名词，差旅津贴，出差补助，旅行补贴",
+      "en": "The revised policy raises the overnight travel-allowance for domestic trips.",
+      "zh": "修订后的政策提高了国内出差的过夜差旅津贴。"
+    },
+    {
+      "word": "code-of-conduct",
+      "spelling": "C, O, D, E, hyphen, O, F, hyphen, C, O, N, D, U, C, T",
+      "spoken_meaning": "名词，行为准则，员工守则，操守规范",
+      "en": "All new employees must acknowledge the code-of-conduct during orientation.",
+      "zh": "所有新员工须在入职培训期间确认已阅行为准则。"
+    },
+    {
+      "word": "conflict-of-interest",
+      "spelling": "C, O, N, F, L, I, C, T, hyphen, O, F, hyphen, I, N, T, E, R, E, S, T",
+      "spoken_meaning": "名词，利益冲突，利害冲突，公私利益冲突",
+      "en": "Board members must disclose any conflict-of-interest before the vote.",
+      "zh": "董事会成员须在表决前披露任何利益冲突。"
+    },
+    {
+      "word": "framework-agreement",
+      "spelling": "F, R, A, M, E, W, O, R, K, hyphen, A, G, R, E, E, M, E, N, T",
+      "spoken_meaning": "名词，框架协议，总协定，合作框架合同",
+      "en": "We placed the order under the existing framework-agreement with the preferred vendor.",
+      "zh": "我们根据与优选供应商现有的框架协议下达了订单。"
+    },
+    {
+      "word": "fit-out",
+      "spelling": "F, I, T, hyphen, O, U, T",
+      "spoken_meaning": "名词，室内装修，装修改造，办公空间装修交付",
+      "en": "The landlord will contribute toward the fit-out of the new headquarters floor.",
+      "zh": "业主将为新总部楼层的装修提供部分费用支持。"
+    },
+    {
+      "word": "hybrid-work",
+      "spelling": "H, Y, B, R, I, D, hyphen, W, O, R, K",
+      "spoken_meaning": "名词，混合办公，混合工作制，线上线下结合办公",
+      "en": "Under the hybrid-work model, teams meet in person every Tuesday and Thursday.",
+      "zh": "在混合办公模式下，团队每周二、周四现场开会。"
+    },
+    {
+      "word": "work-life-balance",
+      "spelling": "W, O, R, K, hyphen, L, I, F, E, hyphen, B, A, L, A, N, C, E",
+      "spoken_meaning": "名词，工作生活平衡，职场与生活平衡，劳逸平衡",
+      "en": "Flexible hours are meant to support employees' work-life-balance without cutting productivity.",
+      "zh": "弹性工时旨在支持员工的工作生活平衡，同时不降低生产力。"
+    },
+    {
+      "word": "talent-pipeline",
+      "spelling": "T, A, L, E, N, T, hyphen, P, I, P, E, L, I, N, E",
+      "spoken_meaning": "名词，人才储备库，人才输送管道，后备人才池",
+      "en": "Campus recruiting helps us keep a talent-pipeline ready for summer analyst roles.",
+      "zh": "校园招聘帮助我们为暑期分析师岗位保持人才储备。"
+    },
+    {
+      "word": "skills-gap",
+      "spelling": "S, K, I, L, L, S, hyphen, G, A, P",
+      "spoken_meaning": "名词，技能缺口，技能差距，人才技能落差",
+      "en": "Upskilling programs were launched to close the skills-gap in data analytics.",
+      "zh": "公司启动了提升培训项目，以弥合数据分析方面的技能缺口。"
+    },
+    {
+      "word": "brand-awareness",
+      "spelling": "B, R, A, N, D, hyphen, A, W, A, R, E, N, E, S, S",
+      "spoken_meaning": "名词，品牌知名度，品牌认知度，品牌意识",
+      "en": "The social media push was designed mainly to raise brand-awareness among younger shoppers.",
+      "zh": "这轮社交媒体推广主要为提升在年轻购物者中的品牌知名度。"
+    },
+    {
+      "word": "market-share",
+      "spelling": "M, A, R, K, E, T, hyphen, S, H, A, R, E",
+      "spoken_meaning": "名词，市场份额，市场占有率，市占率",
+      "en": "Aggressive pricing helped the startup capture market-share from established brands.",
+      "zh": "激进定价帮助这家初创公司从成熟品牌手中夺取了市场份额。"
+    },
+    {
+      "word": "product-recall",
+      "spelling": "P, R, O, D, U, C, T, hyphen, R, E, C, A, L, L",
+      "spoken_meaning": "名词，产品召回，缺陷产品回收，召回行动",
+      "en": "The manufacturer issued a product-recall after tests found a battery overheating risk.",
+      "zh": "检测发现电池有过热风险后，制造商发布了产品召回。"
+    },
+    {
+      "word": "point-of-sale",
+      "spelling": "P, O, I, N, T, hyphen, O, F, hyphen, S, A, L, E",
+      "spoken_meaning": "名词，销售点，收银台，POS终端/系统",
+      "en": "Upgrading the point-of-sale system cut checkout time during peak hours.",
+      "zh": "升级销售点系统缩短了高峰时段的结账时间。"
+    },
+    {
+      "word": "telework",
+      "spelling": "T, E, L, E, W, O, R, K",
+      "spoken_meaning": "名词或动词，远程办公，居家办公，远程工作",
+      "en": "The revised handbook clarifies which roles are eligible for telework two days a week.",
+      "zh": "修订后的手册明确了哪些岗位可每周远程办公两天。"
+    },
+    {
+      "word": "coworking",
+      "spelling": "C, O, W, O, R, K, I, N, G",
+      "spoken_meaning": "名词或形容词，联合办公，共享办公，共用办公空间",
+      "en": "Our satellite team rents desks in a downtown coworking space instead of leasing an office.",
+      "zh": "我们的驻外团队在市中心联合办公空间租用工位，而不是租赁整间办公室。"
+    },
+    {
+      "word": "core-hours",
+      "spelling": "C, O, R, E, hyphen, H, O, U, R, S",
+      "spoken_meaning": "名词，核心工作时段，必须到岗时段，核心工时",
+      "en": "Staff may flex start times as long as they remain available during core-hours.",
+      "zh": "只要员工在核心工时内保持可联系，就可以灵活安排上班时间。"
+    },
+    {
+      "word": "desk-sharing",
+      "spelling": "D, E, S, K, hyphen, S, H, A, R, I, N, G",
+      "spoken_meaning": "名词，共享工位，轮用办公桌，非固定座位",
+      "en": "After the move, desk-sharing cut unused seats and freed budget for meeting rooms.",
+      "zh": "搬迁后，共享工位减少了闲置座位，并把预算腾出来建设会议室。"
+    },
+    {
+      "word": "cross-functional",
+      "spelling": "C, R, O, S, S, hyphen, F, U, N, C, T, I, O, N, A, L",
+      "spoken_meaning": "形容词，跨职能的，跨部门的，多部门协作的",
+      "en": "A cross-functional team from sales, legal, and IT will finalize the vendor shortlist.",
+      "zh": "由来自销售、法务和 IT 的跨职能团队将敲定供应商短名单。"
+    },
+    {
+      "word": "org-chart",
+      "spelling": "O, R, G, hyphen, C, H, A, R, T",
+      "spoken_meaning": "名词，组织架构图，组织图，编制图",
+      "en": "Please check the latest org-chart before copying your new manager on the email.",
+      "zh": "在把新经理抄送进邮件前，请先查看最新的组织架构图。"
+    },
+    {
+      "word": "service-recovery",
+      "spelling": "S, E, R, V, I, C, E, hyphen, R, E, C, O, V, E, R, Y",
+      "spoken_meaning": "名词，服务补救，服务恢复，客诉补救",
+      "en": "Front-line staff followed the service-recovery checklist after the delayed delivery complaint.",
+      "zh": "一线员工在处理延迟送货投诉后，按服务补救清单完成了跟进。"
+    },
+    {
+      "word": "knowledge-base",
+      "spelling": "K, N, O, W, L, E, D, G, E, hyphen, B, A, S, E",
+      "spoken_meaning": "名词，知识库，帮助中心资料库，FAQ知识库",
+      "en": "Before escalating a ticket, agents must check whether the knowledge-base already covers the issue.",
+      "zh": "在升级工单前，客服必须先确认知识库是否已涵盖该问题。"
+    },
+    {
+      "word": "aging-report",
+      "spelling": "A, G, I, N, G, hyphen, R, E, P, O, R, T",
+      "spoken_meaning": "名词，账龄报告，应收/应付账龄表，逾期账龄分析",
+      "en": "The controller flagged three invoices over 90 days on this week's aging-report.",
+      "zh": "主计长在本周账龄报告中标出了三笔超过 90 天的发票。"
+    },
+    {
+      "word": "credit-note",
+      "spelling": "C, R, E, D, I, T, hyphen, N, O, T, E",
+      "spoken_meaning": "名词，贷项通知单，红字发票，退款/折让单据",
+      "en": "Finance issued a credit-note after the warehouse confirmed the damaged shipment.",
+      "zh": "仓库确认货损后，财务开具了贷项通知单。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第43轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "accounts-payable",
+      "voice": "en",
+      "text": "accounts payable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "accounts-payable",
+      "voice": "en",
+      "text": "A, C, C, O, U, N, T, S, hyphen, P, A, Y, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "accounts-payable",
+      "voice": "zh",
+      "text": "名词，应付账款，应付账，AP",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "accounts-payable",
+      "voice": "en",
+      "text": "The accounts-payable team cleared overdue invoices before the month-end close.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "accounts-payable",
+      "voice": "zh",
+      "text": "应付账款团队在月末结账前清理了逾期发票。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "accounts-receivable",
+      "voice": "en",
+      "text": "accounts receivable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "accounts-receivable",
+      "voice": "en",
+      "text": "A, C, C, O, U, N, T, S, hyphen, R, E, C, E, I, V, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "accounts-receivable",
+      "voice": "zh",
+      "text": "名词，应收账款，应收账，AR",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "accounts-receivable",
+      "voice": "en",
+      "text": "Slow-paying clients pushed our accounts-receivable past the 60-day threshold.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "accounts-receivable",
+      "voice": "zh",
+      "text": "付款缓慢的客户使我们的应收账款超过了六十天门槛。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "petty-cash",
+      "voice": "en",
+      "text": "petty cash",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "petty-cash",
+      "voice": "en",
+      "text": "P, E, T, T, Y, hyphen, C, A, S, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "petty-cash",
+      "voice": "zh",
+      "text": "名词，小额备用金，零用现金，杂费现金",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "petty-cash",
+      "voice": "en",
+      "text": "Please submit the receipt so we can replenish the petty-cash fund.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "petty-cash",
+      "voice": "zh",
+      "text": "请提交收据，以便我们补足小额备用金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bank-reconciliation",
+      "voice": "en",
+      "text": "bank reconciliation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bank-reconciliation",
+      "voice": "en",
+      "text": "B, A, N, K, hyphen, R, E, C, O, N, C, I, L, I, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bank-reconciliation",
+      "voice": "zh",
+      "text": "名词，银行对账，银行存款余额调节，银企对账",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bank-reconciliation",
+      "voice": "en",
+      "text": "The auditor asked for last quarter's bank-reconciliation worksheets.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bank-reconciliation",
+      "voice": "zh",
+      "text": "审计师要求提供上季度的银行对账工作底稿。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "chart-of-accounts",
+      "voice": "en",
+      "text": "chart of accounts",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "chart-of-accounts",
+      "voice": "en",
+      "text": "C, H, A, R, T, hyphen, O, F, hyphen, A, C, C, O, U, N, T, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "chart-of-accounts",
+      "voice": "zh",
+      "text": "名词，会计科目表，账目一览表，科目体系",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "chart-of-accounts",
+      "voice": "en",
+      "text": "Finance added a new cost-center code to the chart-of-accounts for the Asia office.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "chart-of-accounts",
+      "voice": "zh",
+      "text": "财务部在会计科目表中为亚洲办事处新增了一个成本中心编码。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "expense-report",
+      "voice": "en",
+      "text": "expense report",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "expense-report",
+      "voice": "en",
+      "text": "E, X, P, E, N, S, E, hyphen, R, E, P, O, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "expense-report",
+      "voice": "zh",
+      "text": "名词，费用报销单，支出报告，报销申请",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "expense-report",
+      "voice": "en",
+      "text": "Managers must approve each expense-report within five business days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "expense-report",
+      "voice": "zh",
+      "text": "经理须在五个工作日内审批每份费用报销单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cost-center",
+      "voice": "en",
+      "text": "cost center",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cost-center",
+      "voice": "en",
+      "text": "C, O, S, T, hyphen, C, E, N, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cost-center",
+      "voice": "zh",
+      "text": "名词，成本中心，费用归属单元，成本核算单元",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cost-center",
+      "voice": "en",
+      "text": "Please assign the training invoice to the correct cost-center before payment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cost-center",
+      "voice": "zh",
+      "text": "付款前请将培训发票归入正确的成本中心。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "travel-allowance",
+      "voice": "en",
+      "text": "travel allowance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "travel-allowance",
+      "voice": "en",
+      "text": "T, R, A, V, E, L, hyphen, A, L, L, O, W, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "travel-allowance",
+      "voice": "zh",
+      "text": "名词，差旅津贴，出差补助，旅行补贴",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "travel-allowance",
+      "voice": "en",
+      "text": "The revised policy raises the overnight travel-allowance for domestic trips.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "travel-allowance",
+      "voice": "zh",
+      "text": "修订后的政策提高了国内出差的过夜差旅津贴。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "code-of-conduct",
+      "voice": "en",
+      "text": "code of conduct",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "code-of-conduct",
+      "voice": "en",
+      "text": "C, O, D, E, hyphen, O, F, hyphen, C, O, N, D, U, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "code-of-conduct",
+      "voice": "zh",
+      "text": "名词，行为准则，员工守则，操守规范",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "code-of-conduct",
+      "voice": "en",
+      "text": "All new employees must acknowledge the code-of-conduct during orientation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "code-of-conduct",
+      "voice": "zh",
+      "text": "所有新员工须在入职培训期间确认已阅行为准则。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "conflict-of-interest",
+      "voice": "en",
+      "text": "conflict of interest",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "conflict-of-interest",
+      "voice": "en",
+      "text": "C, O, N, F, L, I, C, T, hyphen, O, F, hyphen, I, N, T, E, R, E, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "conflict-of-interest",
+      "voice": "zh",
+      "text": "名词，利益冲突，利害冲突，公私利益冲突",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "conflict-of-interest",
+      "voice": "en",
+      "text": "Board members must disclose any conflict-of-interest before the vote.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "conflict-of-interest",
+      "voice": "zh",
+      "text": "董事会成员须在表决前披露任何利益冲突。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "framework-agreement",
+      "voice": "en",
+      "text": "framework agreement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "framework-agreement",
+      "voice": "en",
+      "text": "F, R, A, M, E, W, O, R, K, hyphen, A, G, R, E, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "framework-agreement",
+      "voice": "zh",
+      "text": "名词，框架协议，总协定，合作框架合同",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "framework-agreement",
+      "voice": "en",
+      "text": "We placed the order under the existing framework-agreement with the preferred vendor.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "framework-agreement",
+      "voice": "zh",
+      "text": "我们根据与优选供应商现有的框架协议下达了订单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fit-out",
+      "voice": "en",
+      "text": "fit out",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fit-out",
+      "voice": "en",
+      "text": "F, I, T, hyphen, O, U, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fit-out",
+      "voice": "zh",
+      "text": "名词，室内装修，装修改造，办公空间装修交付",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fit-out",
+      "voice": "en",
+      "text": "The landlord will contribute toward the fit-out of the new headquarters floor.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fit-out",
+      "voice": "zh",
+      "text": "业主将为新总部楼层的装修提供部分费用支持。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hybrid-work",
+      "voice": "en",
+      "text": "hybrid work",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hybrid-work",
+      "voice": "en",
+      "text": "H, Y, B, R, I, D, hyphen, W, O, R, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hybrid-work",
+      "voice": "zh",
+      "text": "名词，混合办公，混合工作制，线上线下结合办公",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hybrid-work",
+      "voice": "en",
+      "text": "Under the hybrid-work model, teams meet in person every Tuesday and Thursday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hybrid-work",
+      "voice": "zh",
+      "text": "在混合办公模式下，团队每周二、周四现场开会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "work-life-balance",
+      "voice": "en",
+      "text": "work life balance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "work-life-balance",
+      "voice": "en",
+      "text": "W, O, R, K, hyphen, L, I, F, E, hyphen, B, A, L, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "work-life-balance",
+      "voice": "zh",
+      "text": "名词，工作生活平衡，职场与生活平衡，劳逸平衡",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "work-life-balance",
+      "voice": "en",
+      "text": "Flexible hours are meant to support employees' work-life-balance without cutting productivity.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "work-life-balance",
+      "voice": "zh",
+      "text": "弹性工时旨在支持员工的工作生活平衡，同时不降低生产力。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "talent-pipeline",
+      "voice": "en",
+      "text": "talent pipeline",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "talent-pipeline",
+      "voice": "en",
+      "text": "T, A, L, E, N, T, hyphen, P, I, P, E, L, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "talent-pipeline",
+      "voice": "zh",
+      "text": "名词，人才储备库，人才输送管道，后备人才池",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "talent-pipeline",
+      "voice": "en",
+      "text": "Campus recruiting helps us keep a talent-pipeline ready for summer analyst roles.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "talent-pipeline",
+      "voice": "zh",
+      "text": "校园招聘帮助我们为暑期分析师岗位保持人才储备。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "skills-gap",
+      "voice": "en",
+      "text": "skills gap",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "skills-gap",
+      "voice": "en",
+      "text": "S, K, I, L, L, S, hyphen, G, A, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "skills-gap",
+      "voice": "zh",
+      "text": "名词，技能缺口，技能差距，人才技能落差",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "skills-gap",
+      "voice": "en",
+      "text": "Upskilling programs were launched to close the skills-gap in data analytics.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "skills-gap",
+      "voice": "zh",
+      "text": "公司启动了提升培训项目，以弥合数据分析方面的技能缺口。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "brand-awareness",
+      "voice": "en",
+      "text": "brand awareness",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "brand-awareness",
+      "voice": "en",
+      "text": "B, R, A, N, D, hyphen, A, W, A, R, E, N, E, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "brand-awareness",
+      "voice": "zh",
+      "text": "名词，品牌知名度，品牌认知度，品牌意识",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "brand-awareness",
+      "voice": "en",
+      "text": "The social media push was designed mainly to raise brand-awareness among younger shoppers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "brand-awareness",
+      "voice": "zh",
+      "text": "这轮社交媒体推广主要为提升在年轻购物者中的品牌知名度。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "market-share",
+      "voice": "en",
+      "text": "market share",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "market-share",
+      "voice": "en",
+      "text": "M, A, R, K, E, T, hyphen, S, H, A, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "market-share",
+      "voice": "zh",
+      "text": "名词，市场份额，市场占有率，市占率",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "market-share",
+      "voice": "en",
+      "text": "Aggressive pricing helped the startup capture market-share from established brands.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "market-share",
+      "voice": "zh",
+      "text": "激进定价帮助这家初创公司从成熟品牌手中夺取了市场份额。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "product-recall",
+      "voice": "en",
+      "text": "product recall",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "product-recall",
+      "voice": "en",
+      "text": "P, R, O, D, U, C, T, hyphen, R, E, C, A, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "product-recall",
+      "voice": "zh",
+      "text": "名词，产品召回，缺陷产品回收，召回行动",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "product-recall",
+      "voice": "en",
+      "text": "The manufacturer issued a product-recall after tests found a battery overheating risk.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "product-recall",
+      "voice": "zh",
+      "text": "检测发现电池有过热风险后，制造商发布了产品召回。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "point-of-sale",
+      "voice": "en",
+      "text": "point of sale",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "point-of-sale",
+      "voice": "en",
+      "text": "P, O, I, N, T, hyphen, O, F, hyphen, S, A, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "point-of-sale",
+      "voice": "zh",
+      "text": "名词，销售点，收银台，POS终端/系统",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "point-of-sale",
+      "voice": "en",
+      "text": "Upgrading the point-of-sale system cut checkout time during peak hours.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "point-of-sale",
+      "voice": "zh",
+      "text": "升级销售点系统缩短了高峰时段的结账时间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "telework",
+      "voice": "en",
+      "text": "telework",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "telework",
+      "voice": "en",
+      "text": "T, E, L, E, W, O, R, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "telework",
+      "voice": "zh",
+      "text": "名词或动词，远程办公，居家办公，远程工作",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "telework",
+      "voice": "en",
+      "text": "The revised handbook clarifies which roles are eligible for telework two days a week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "telework",
+      "voice": "zh",
+      "text": "修订后的手册明确了哪些岗位可每周远程办公两天。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "coworking",
+      "voice": "en",
+      "text": "coworking",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "coworking",
+      "voice": "en",
+      "text": "C, O, W, O, R, K, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "coworking",
+      "voice": "zh",
+      "text": "名词或形容词，联合办公，共享办公，共用办公空间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "coworking",
+      "voice": "en",
+      "text": "Our satellite team rents desks in a downtown coworking space instead of leasing an office.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "coworking",
+      "voice": "zh",
+      "text": "我们的驻外团队在市中心联合办公空间租用工位，而不是租赁整间办公室。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "core-hours",
+      "voice": "en",
+      "text": "core hours",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "core-hours",
+      "voice": "en",
+      "text": "C, O, R, E, hyphen, H, O, U, R, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "core-hours",
+      "voice": "zh",
+      "text": "名词，核心工作时段，必须到岗时段，核心工时",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "core-hours",
+      "voice": "en",
+      "text": "Staff may flex start times as long as they remain available during core-hours.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "core-hours",
+      "voice": "zh",
+      "text": "只要员工在核心工时内保持可联系，就可以灵活安排上班时间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "desk-sharing",
+      "voice": "en",
+      "text": "desk sharing",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "desk-sharing",
+      "voice": "en",
+      "text": "D, E, S, K, hyphen, S, H, A, R, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "desk-sharing",
+      "voice": "zh",
+      "text": "名词，共享工位，轮用办公桌，非固定座位",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "desk-sharing",
+      "voice": "en",
+      "text": "After the move, desk-sharing cut unused seats and freed budget for meeting rooms.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "desk-sharing",
+      "voice": "zh",
+      "text": "搬迁后，共享工位减少了闲置座位，并把预算腾出来建设会议室。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cross-functional",
+      "voice": "en",
+      "text": "cross functional",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cross-functional",
+      "voice": "en",
+      "text": "C, R, O, S, S, hyphen, F, U, N, C, T, I, O, N, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cross-functional",
+      "voice": "zh",
+      "text": "形容词，跨职能的，跨部门的，多部门协作的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cross-functional",
+      "voice": "en",
+      "text": "A cross-functional team from sales, legal, and IT will finalize the vendor shortlist.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cross-functional",
+      "voice": "zh",
+      "text": "由来自销售、法务和 IT 的跨职能团队将敲定供应商短名单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "org-chart",
+      "voice": "en",
+      "text": "org chart",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "org-chart",
+      "voice": "en",
+      "text": "O, R, G, hyphen, C, H, A, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "org-chart",
+      "voice": "zh",
+      "text": "名词，组织架构图，组织图，编制图",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "org-chart",
+      "voice": "en",
+      "text": "Please check the latest org-chart before copying your new manager on the email.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "org-chart",
+      "voice": "zh",
+      "text": "在把新经理抄送进邮件前，请先查看最新的组织架构图。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "service-recovery",
+      "voice": "en",
+      "text": "service recovery",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "service-recovery",
+      "voice": "en",
+      "text": "S, E, R, V, I, C, E, hyphen, R, E, C, O, V, E, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "service-recovery",
+      "voice": "zh",
+      "text": "名词，服务补救，服务恢复，客诉补救",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "service-recovery",
+      "voice": "en",
+      "text": "Front-line staff followed the service-recovery checklist after the delayed delivery complaint.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "service-recovery",
+      "voice": "zh",
+      "text": "一线员工在处理延迟送货投诉后，按服务补救清单完成了跟进。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "knowledge-base",
+      "voice": "en",
+      "text": "knowledge base",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "knowledge-base",
+      "voice": "en",
+      "text": "K, N, O, W, L, E, D, G, E, hyphen, B, A, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "knowledge-base",
+      "voice": "zh",
+      "text": "名词，知识库，帮助中心资料库，FAQ知识库",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "knowledge-base",
+      "voice": "en",
+      "text": "Before escalating a ticket, agents must check whether the knowledge-base already covers the issue.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "knowledge-base",
+      "voice": "zh",
+      "text": "在升级工单前，客服必须先确认知识库是否已涵盖该问题。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "aging-report",
+      "voice": "en",
+      "text": "aging report",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "aging-report",
+      "voice": "en",
+      "text": "A, G, I, N, G, hyphen, R, E, P, O, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "aging-report",
+      "voice": "zh",
+      "text": "名词，账龄报告，应收/应付账龄表，逾期账龄分析",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "aging-report",
+      "voice": "en",
+      "text": "The controller flagged three invoices over 90 days on this week's aging-report.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "aging-report",
+      "voice": "zh",
+      "text": "主计长在本周账龄报告中标出了三笔超过 90 天的发票。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "credit-note",
+      "voice": "en",
+      "text": "credit note",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "credit-note",
+      "voice": "en",
+      "text": "C, R, E, D, I, T, hyphen, N, O, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "credit-note",
+      "voice": "zh",
+      "text": "名词，贷项通知单，红字发票，退款/折让单据",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "credit-note",
+      "voice": "en",
+      "text": "Finance issued a credit-note after the warehouse confirmed the damaged shipment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "credit-note",
+      "voice": "zh",
+      "text": "仓库确认货损后，财务开具了贷项通知单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第43轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

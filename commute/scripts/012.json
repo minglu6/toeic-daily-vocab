@@ -1,0 +1,1314 @@
+{
+  "id": "012",
+  "track": 12,
+  "title": "第 12 轨",
+  "word_count": 30,
+  "headwords": [
+    "shift",
+    "shortage",
+    "significant",
+    "simplify",
+    "skilled",
+    "solicit",
+    "specify",
+    "sponsor",
+    "stability",
+    "staff",
+    "standardize",
+    "statement",
+    "status",
+    "stimulate",
+    "stock",
+    "strategy",
+    "strengthen",
+    "strict",
+    "structure",
+    "substantial",
+    "substitute",
+    "succeed",
+    "successive",
+    "sufficient",
+    "suggest",
+    "suitable",
+    "summarize",
+    "supervise",
+    "supplement",
+    "support"
+  ],
+  "entries": [
+    {
+      "word": "shift",
+      "spelling": "S, H, I, F, T",
+      "spoken_meaning": "名词或动词，轮班，转变，转移",
+      "en": "Please confirm whether you can cover the night shift this Friday.",
+      "zh": "请确认本周五你是否能顶夜班。"
+    },
+    {
+      "word": "shortage",
+      "spelling": "S, H, O, R, T, A, G, E",
+      "spoken_meaning": "名词，短缺，不足",
+      "en": "Production was delayed because of a shortage of key components.",
+      "zh": "由于关键零部件短缺，生产被延误了。"
+    },
+    {
+      "word": "significant",
+      "spelling": "S, I, G, N, I, F, I, C, A, N, T",
+      "spoken_meaning": "形容词，重要的，显著的",
+      "en": "There has been a significant increase in online orders this quarter.",
+      "zh": "本季度线上订单有显著增长。"
+    },
+    {
+      "word": "simplify",
+      "spelling": "S, I, M, P, L, I, F, Y",
+      "spoken_meaning": "动词，简化，使简易",
+      "en": "We redesigned the app to simplify the checkout process.",
+      "zh": "我们重新设计了应用，以简化结账流程。"
+    },
+    {
+      "word": "skilled",
+      "spelling": "S, K, I, L, L, E, D",
+      "spoken_meaning": "形容词，熟练的，有技能的",
+      "en": "The factory is hiring skilled technicians for the night shift.",
+      "zh": "工厂正在招聘熟练技术员上夜班。"
+    },
+    {
+      "word": "solicit",
+      "spelling": "S, O, L, I, C, I, T",
+      "spoken_meaning": "动词，征求，请求，招揽",
+      "en": "The purchasing team will solicit bids from three approved vendors.",
+      "zh": "采购团队将向三家核准供应商征求投标。"
+    },
+    {
+      "word": "specify",
+      "spelling": "S, P, E, C, I, F, Y",
+      "spoken_meaning": "动词，明确说明，具体指定",
+      "en": "Please specify the delivery date in the purchase order.",
+      "zh": "请在采购订单中明确交货日期。"
+    },
+    {
+      "word": "sponsor",
+      "spelling": "S, P, O, N, S, O, R",
+      "spoken_meaning": "名词或动词，赞助商，赞助，主办",
+      "en": "A local bank agreed to sponsor the annual career fair.",
+      "zh": "一家本地银行同意赞助年度招聘会。"
+    },
+    {
+      "word": "stability",
+      "spelling": "S, T, A, B, I, L, I, T, Y",
+      "spoken_meaning": "名词，稳定，稳定性",
+      "en": "Investors value the company's long-term financial stability.",
+      "zh": "投资者看重该公司的长期财务稳定性。"
+    },
+    {
+      "word": "staff",
+      "spelling": "S, T, A, F, F",
+      "spoken_meaning": "名词或动词，全体员工，配备人员",
+      "en": "All staff must complete the online safety training by Friday.",
+      "zh": "全体员工须在周五前完成线上安全培训。"
+    },
+    {
+      "word": "standardize",
+      "spelling": "S, T, A, N, D, A, R, D, I, Z, E",
+      "spoken_meaning": "动词，使标准化，统一规范",
+      "en": "The HQ plans to standardize reporting formats across all branches.",
+      "zh": "总部计划统一各分公司的报告格式。"
+    },
+    {
+      "word": "statement",
+      "spelling": "S, T, A, T, E, M, E, N, T",
+      "spoken_meaning": "名词，声明，报表，陈述",
+      "en": "Please review your monthly bank statement for any unauthorized charges.",
+      "zh": "请核对月度银行对账单，查看是否有未授权扣款。"
+    },
+    {
+      "word": "status",
+      "spelling": "S, T, A, T, U, S",
+      "spoken_meaning": "名词，状态，地位，进展情况",
+      "en": "Could you send a brief status update on the renovation project?",
+      "zh": "能否发一份关于装修项目的简短进度更新？"
+    },
+    {
+      "word": "stimulate",
+      "spelling": "S, T, I, M, U, L, A, T, E",
+      "spoken_meaning": "动词，刺激，激励，促进",
+      "en": "The discount campaign is designed to stimulate weekend sales.",
+      "zh": "这次折扣活动旨在刺激周末销售。"
+    },
+    {
+      "word": "stock",
+      "spelling": "S, T, O, C, K",
+      "spoken_meaning": "名词或动词，库存，股票，备货",
+      "en": "The item is currently out of stock and will ship next week.",
+      "zh": "该商品目前缺货，将于下周发货。"
+    },
+    {
+      "word": "strategy",
+      "spelling": "S, T, R, A, T, E, G, Y",
+      "spoken_meaning": "名词，策略，战略",
+      "en": "The board approved a new marketing strategy for overseas markets.",
+      "zh": "董事会批准了针对海外市场的新营销策略。"
+    },
+    {
+      "word": "strengthen",
+      "spelling": "S, T, R, E, N, G, T, H, E, N",
+      "spoken_meaning": "动词，加强，巩固，增强",
+      "en": "We hope to strengthen our partnership with regional distributors.",
+      "zh": "我们希望加强与区域经销商的合作关系。"
+    },
+    {
+      "word": "strict",
+      "spelling": "S, T, R, I, C, T",
+      "spoken_meaning": "形容词，严格的，严厉的",
+      "en": "The company has a strict policy against sharing confidential data.",
+      "zh": "公司对共享机密数据有严格规定。"
+    },
+    {
+      "word": "structure",
+      "spelling": "S, T, R, U, C, T, U, R, E",
+      "spoken_meaning": "名词或动词，结构，体系，组织安排",
+      "en": "HR is reviewing the fee structure for the employee wellness plan.",
+      "zh": "人力资源部正在审查员工健康计划的费用结构。"
+    },
+    {
+      "word": "substantial",
+      "spelling": "S, U, B, S, T, A, N, T, I, A, L",
+      "spoken_meaning": "形容词，大量的，实质的，可观的",
+      "en": "The renovation will require a substantial investment this fiscal year.",
+      "zh": "此次翻新将需要本财年一笔可观的投资。"
+    },
+    {
+      "word": "substitute",
+      "spelling": "S, U, B, S, T, I, T, U, T, E",
+      "spoken_meaning": "动词或名词，代替，替代品，替补",
+      "en": "Please substitute the recycled packaging for the plastic wraps.",
+      "zh": "请用可回收包装替代塑料包装。"
+    },
+    {
+      "word": "succeed",
+      "spelling": "S, U, C, C, E, E, D",
+      "spoken_meaning": "动词，成功，继任，接替",
+      "en": "She hopes to succeed in expanding our presence overseas.",
+      "zh": "她希望成功拓展我们在海外的业务布局。"
+    },
+    {
+      "word": "successive",
+      "spelling": "S, U, C, C, E, S, S, I, V, E",
+      "spoken_meaning": "形容词，连续的，接连的",
+      "en": "Sales rose for the fifth successive quarter.",
+      "zh": "销售额连续第五个季度上升。"
+    },
+    {
+      "word": "sufficient",
+      "spelling": "S, U, F, F, I, C, I, E, N, T",
+      "spoken_meaning": "形容词，足够的，充足的",
+      "en": "Please ensure there are sufficient copies for all attendees.",
+      "zh": "请确保为所有与会者准备足够的复印件。"
+    },
+    {
+      "word": "suggest",
+      "spelling": "S, U, G, G, E, S, T",
+      "spoken_meaning": "动词，建议，表明，暗示",
+      "en": "I suggest that we postpone the product launch until next month.",
+      "zh": "我建议把产品发布推迟到下个月。"
+    },
+    {
+      "word": "suitable",
+      "spelling": "S, U, I, T, A, B, L, E",
+      "spoken_meaning": "形容词，合适的，适宜的",
+      "en": "The conference room is suitable for up to forty participants.",
+      "zh": "该会议室适合最多四十位与会者。"
+    },
+    {
+      "word": "summarize",
+      "spelling": "S, U, M, M, A, R, I, Z, E",
+      "spoken_meaning": "动词，总结，概括",
+      "en": "Could you summarize the key points before we adjourn?",
+      "zh": "休会前你能否把要点总结一下？"
+    },
+    {
+      "word": "supervise",
+      "spelling": "S, U, P, E, R, V, I, S, E",
+      "spoken_meaning": "动词，监督，管理，指导",
+      "en": "She will supervise the installation of the new equipment.",
+      "zh": "她将监督新设备的安装。"
+    },
+    {
+      "word": "supplement",
+      "spelling": "S, U, P, P, L, E, M, E, N, T",
+      "spoken_meaning": "名词或动词，补充，增补，补充物",
+      "en": "The appendix will supplement the main findings in the report.",
+      "zh": "附录将补充报告中的主要发现。"
+    },
+    {
+      "word": "support",
+      "spelling": "S, U, P, P, O, R, T",
+      "spoken_meaning": "动词或名词，支持，支撑，客服支持",
+      "en": "Our team provides 24-hour technical support for enterprise clients.",
+      "zh": "我们的团队为企业客户提供全天候技术支持。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第12轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "shift",
+      "voice": "en",
+      "text": "shift",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "shift",
+      "voice": "en",
+      "text": "S, H, I, F, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "shift",
+      "voice": "zh",
+      "text": "名词或动词，轮班，转变，转移",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "shift",
+      "voice": "en",
+      "text": "Please confirm whether you can cover the night shift this Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "shift",
+      "voice": "zh",
+      "text": "请确认本周五你是否能顶夜班。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "shortage",
+      "voice": "en",
+      "text": "shortage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "shortage",
+      "voice": "en",
+      "text": "S, H, O, R, T, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "shortage",
+      "voice": "zh",
+      "text": "名词，短缺，不足",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "shortage",
+      "voice": "en",
+      "text": "Production was delayed because of a shortage of key components.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "shortage",
+      "voice": "zh",
+      "text": "由于关键零部件短缺，生产被延误了。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "significant",
+      "voice": "en",
+      "text": "significant",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "significant",
+      "voice": "en",
+      "text": "S, I, G, N, I, F, I, C, A, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "significant",
+      "voice": "zh",
+      "text": "形容词，重要的，显著的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "significant",
+      "voice": "en",
+      "text": "There has been a significant increase in online orders this quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "significant",
+      "voice": "zh",
+      "text": "本季度线上订单有显著增长。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "simplify",
+      "voice": "en",
+      "text": "simplify",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "simplify",
+      "voice": "en",
+      "text": "S, I, M, P, L, I, F, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "simplify",
+      "voice": "zh",
+      "text": "动词，简化，使简易",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "simplify",
+      "voice": "en",
+      "text": "We redesigned the app to simplify the checkout process.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "simplify",
+      "voice": "zh",
+      "text": "我们重新设计了应用，以简化结账流程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "skilled",
+      "voice": "en",
+      "text": "skilled",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "skilled",
+      "voice": "en",
+      "text": "S, K, I, L, L, E, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "skilled",
+      "voice": "zh",
+      "text": "形容词，熟练的，有技能的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "skilled",
+      "voice": "en",
+      "text": "The factory is hiring skilled technicians for the night shift.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "skilled",
+      "voice": "zh",
+      "text": "工厂正在招聘熟练技术员上夜班。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "solicit",
+      "voice": "en",
+      "text": "solicit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "solicit",
+      "voice": "en",
+      "text": "S, O, L, I, C, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "solicit",
+      "voice": "zh",
+      "text": "动词，征求，请求，招揽",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "solicit",
+      "voice": "en",
+      "text": "The purchasing team will solicit bids from three approved vendors.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "solicit",
+      "voice": "zh",
+      "text": "采购团队将向三家核准供应商征求投标。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "specify",
+      "voice": "en",
+      "text": "specify",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "specify",
+      "voice": "en",
+      "text": "S, P, E, C, I, F, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "specify",
+      "voice": "zh",
+      "text": "动词，明确说明，具体指定",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "specify",
+      "voice": "en",
+      "text": "Please specify the delivery date in the purchase order.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "specify",
+      "voice": "zh",
+      "text": "请在采购订单中明确交货日期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sponsor",
+      "voice": "en",
+      "text": "sponsor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sponsor",
+      "voice": "en",
+      "text": "S, P, O, N, S, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sponsor",
+      "voice": "zh",
+      "text": "名词或动词，赞助商，赞助，主办",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sponsor",
+      "voice": "en",
+      "text": "A local bank agreed to sponsor the annual career fair.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sponsor",
+      "voice": "zh",
+      "text": "一家本地银行同意赞助年度招聘会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stability",
+      "voice": "en",
+      "text": "stability",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stability",
+      "voice": "en",
+      "text": "S, T, A, B, I, L, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stability",
+      "voice": "zh",
+      "text": "名词，稳定，稳定性",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stability",
+      "voice": "en",
+      "text": "Investors value the company's long-term financial stability.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stability",
+      "voice": "zh",
+      "text": "投资者看重该公司的长期财务稳定性。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "staff",
+      "voice": "en",
+      "text": "staff",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "staff",
+      "voice": "en",
+      "text": "S, T, A, F, F",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "staff",
+      "voice": "zh",
+      "text": "名词或动词，全体员工，配备人员",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "staff",
+      "voice": "en",
+      "text": "All staff must complete the online safety training by Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "staff",
+      "voice": "zh",
+      "text": "全体员工须在周五前完成线上安全培训。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "standardize",
+      "voice": "en",
+      "text": "standardize",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "standardize",
+      "voice": "en",
+      "text": "S, T, A, N, D, A, R, D, I, Z, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "standardize",
+      "voice": "zh",
+      "text": "动词，使标准化，统一规范",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "standardize",
+      "voice": "en",
+      "text": "The HQ plans to standardize reporting formats across all branches.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "standardize",
+      "voice": "zh",
+      "text": "总部计划统一各分公司的报告格式。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "statement",
+      "voice": "en",
+      "text": "statement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "statement",
+      "voice": "en",
+      "text": "S, T, A, T, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "statement",
+      "voice": "zh",
+      "text": "名词，声明，报表，陈述",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "statement",
+      "voice": "en",
+      "text": "Please review your monthly bank statement for any unauthorized charges.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "statement",
+      "voice": "zh",
+      "text": "请核对月度银行对账单，查看是否有未授权扣款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "status",
+      "voice": "en",
+      "text": "status",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "status",
+      "voice": "en",
+      "text": "S, T, A, T, U, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "status",
+      "voice": "zh",
+      "text": "名词，状态，地位，进展情况",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "status",
+      "voice": "en",
+      "text": "Could you send a brief status update on the renovation project?",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "status",
+      "voice": "zh",
+      "text": "能否发一份关于装修项目的简短进度更新？",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stimulate",
+      "voice": "en",
+      "text": "stimulate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stimulate",
+      "voice": "en",
+      "text": "S, T, I, M, U, L, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stimulate",
+      "voice": "zh",
+      "text": "动词，刺激，激励，促进",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stimulate",
+      "voice": "en",
+      "text": "The discount campaign is designed to stimulate weekend sales.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stimulate",
+      "voice": "zh",
+      "text": "这次折扣活动旨在刺激周末销售。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stock",
+      "voice": "en",
+      "text": "stock",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stock",
+      "voice": "en",
+      "text": "S, T, O, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stock",
+      "voice": "zh",
+      "text": "名词或动词，库存，股票，备货",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stock",
+      "voice": "en",
+      "text": "The item is currently out of stock and will ship next week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stock",
+      "voice": "zh",
+      "text": "该商品目前缺货，将于下周发货。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "strategy",
+      "voice": "en",
+      "text": "strategy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "strategy",
+      "voice": "en",
+      "text": "S, T, R, A, T, E, G, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "strategy",
+      "voice": "zh",
+      "text": "名词，策略，战略",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "strategy",
+      "voice": "en",
+      "text": "The board approved a new marketing strategy for overseas markets.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "strategy",
+      "voice": "zh",
+      "text": "董事会批准了针对海外市场的新营销策略。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "strengthen",
+      "voice": "en",
+      "text": "strengthen",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "strengthen",
+      "voice": "en",
+      "text": "S, T, R, E, N, G, T, H, E, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "strengthen",
+      "voice": "zh",
+      "text": "动词，加强，巩固，增强",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "strengthen",
+      "voice": "en",
+      "text": "We hope to strengthen our partnership with regional distributors.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "strengthen",
+      "voice": "zh",
+      "text": "我们希望加强与区域经销商的合作关系。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "strict",
+      "voice": "en",
+      "text": "strict",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "strict",
+      "voice": "en",
+      "text": "S, T, R, I, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "strict",
+      "voice": "zh",
+      "text": "形容词，严格的，严厉的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "strict",
+      "voice": "en",
+      "text": "The company has a strict policy against sharing confidential data.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "strict",
+      "voice": "zh",
+      "text": "公司对共享机密数据有严格规定。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "structure",
+      "voice": "en",
+      "text": "structure",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "structure",
+      "voice": "en",
+      "text": "S, T, R, U, C, T, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "structure",
+      "voice": "zh",
+      "text": "名词或动词，结构，体系，组织安排",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "structure",
+      "voice": "en",
+      "text": "HR is reviewing the fee structure for the employee wellness plan.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "structure",
+      "voice": "zh",
+      "text": "人力资源部正在审查员工健康计划的费用结构。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "substantial",
+      "voice": "en",
+      "text": "substantial",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "substantial",
+      "voice": "en",
+      "text": "S, U, B, S, T, A, N, T, I, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "substantial",
+      "voice": "zh",
+      "text": "形容词，大量的，实质的，可观的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "substantial",
+      "voice": "en",
+      "text": "The renovation will require a substantial investment this fiscal year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "substantial",
+      "voice": "zh",
+      "text": "此次翻新将需要本财年一笔可观的投资。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "substitute",
+      "voice": "en",
+      "text": "substitute",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "substitute",
+      "voice": "en",
+      "text": "S, U, B, S, T, I, T, U, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "substitute",
+      "voice": "zh",
+      "text": "动词或名词，代替，替代品，替补",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "substitute",
+      "voice": "en",
+      "text": "Please substitute the recycled packaging for the plastic wraps.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "substitute",
+      "voice": "zh",
+      "text": "请用可回收包装替代塑料包装。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "succeed",
+      "voice": "en",
+      "text": "succeed",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "succeed",
+      "voice": "en",
+      "text": "S, U, C, C, E, E, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "succeed",
+      "voice": "zh",
+      "text": "动词，成功，继任，接替",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "succeed",
+      "voice": "en",
+      "text": "She hopes to succeed in expanding our presence overseas.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "succeed",
+      "voice": "zh",
+      "text": "她希望成功拓展我们在海外的业务布局。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "successive",
+      "voice": "en",
+      "text": "successive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "successive",
+      "voice": "en",
+      "text": "S, U, C, C, E, S, S, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "successive",
+      "voice": "zh",
+      "text": "形容词，连续的，接连的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "successive",
+      "voice": "en",
+      "text": "Sales rose for the fifth successive quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "successive",
+      "voice": "zh",
+      "text": "销售额连续第五个季度上升。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sufficient",
+      "voice": "en",
+      "text": "sufficient",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sufficient",
+      "voice": "en",
+      "text": "S, U, F, F, I, C, I, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sufficient",
+      "voice": "zh",
+      "text": "形容词，足够的，充足的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sufficient",
+      "voice": "en",
+      "text": "Please ensure there are sufficient copies for all attendees.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sufficient",
+      "voice": "zh",
+      "text": "请确保为所有与会者准备足够的复印件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "suggest",
+      "voice": "en",
+      "text": "suggest",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "suggest",
+      "voice": "en",
+      "text": "S, U, G, G, E, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "suggest",
+      "voice": "zh",
+      "text": "动词，建议，表明，暗示",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "suggest",
+      "voice": "en",
+      "text": "I suggest that we postpone the product launch until next month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "suggest",
+      "voice": "zh",
+      "text": "我建议把产品发布推迟到下个月。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "suitable",
+      "voice": "en",
+      "text": "suitable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "suitable",
+      "voice": "en",
+      "text": "S, U, I, T, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "suitable",
+      "voice": "zh",
+      "text": "形容词，合适的，适宜的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "suitable",
+      "voice": "en",
+      "text": "The conference room is suitable for up to forty participants.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "suitable",
+      "voice": "zh",
+      "text": "该会议室适合最多四十位与会者。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "summarize",
+      "voice": "en",
+      "text": "summarize",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "summarize",
+      "voice": "en",
+      "text": "S, U, M, M, A, R, I, Z, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "summarize",
+      "voice": "zh",
+      "text": "动词，总结，概括",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "summarize",
+      "voice": "en",
+      "text": "Could you summarize the key points before we adjourn?",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "summarize",
+      "voice": "zh",
+      "text": "休会前你能否把要点总结一下？",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "supervise",
+      "voice": "en",
+      "text": "supervise",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "supervise",
+      "voice": "en",
+      "text": "S, U, P, E, R, V, I, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "supervise",
+      "voice": "zh",
+      "text": "动词，监督，管理，指导",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "supervise",
+      "voice": "en",
+      "text": "She will supervise the installation of the new equipment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "supervise",
+      "voice": "zh",
+      "text": "她将监督新设备的安装。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "supplement",
+      "voice": "en",
+      "text": "supplement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "supplement",
+      "voice": "en",
+      "text": "S, U, P, P, L, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "supplement",
+      "voice": "zh",
+      "text": "名词或动词，补充，增补，补充物",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "supplement",
+      "voice": "en",
+      "text": "The appendix will supplement the main findings in the report.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "supplement",
+      "voice": "zh",
+      "text": "附录将补充报告中的主要发现。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "support",
+      "voice": "en",
+      "text": "support",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "support",
+      "voice": "en",
+      "text": "S, U, P, P, O, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "support",
+      "voice": "zh",
+      "text": "动词或名词，支持，支撑，客服支持",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "support",
+      "voice": "en",
+      "text": "Our team provides 24-hour technical support for enterprise clients.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "support",
+      "voice": "zh",
+      "text": "我们的团队为企业客户提供全天候技术支持。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第12轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

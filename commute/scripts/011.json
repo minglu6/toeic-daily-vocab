@@ -1,0 +1,1314 @@
+{
+  "id": "011",
+  "track": 11,
+  "title": "第 11 轨",
+  "word_count": 30,
+  "headwords": [
+    "rent",
+    "replace",
+    "represent",
+    "request",
+    "require",
+    "research",
+    "reserve",
+    "resolve",
+    "resource",
+    "respond",
+    "restore",
+    "restrict",
+    "resume",
+    "retain",
+    "retire",
+    "retrieve",
+    "review",
+    "revise",
+    "revoke",
+    "reward",
+    "salary",
+    "satisfy",
+    "secure",
+    "select",
+    "seminar",
+    "senior",
+    "separate",
+    "sequence",
+    "settle",
+    "severe"
+  ],
+  "entries": [
+    {
+      "word": "rent",
+      "spelling": "R, E, N, T",
+      "spoken_meaning": "名词或动词，租金，租用，出租",
+      "en": "The startup decided to rent a smaller office to cut costs.",
+      "zh": "这家初创公司决定租用更小的办公室以削减成本。"
+    },
+    {
+      "word": "replace",
+      "spelling": "R, E, P, L, A, C, E",
+      "spoken_meaning": "动词，替换，取代，更换",
+      "en": "IT will replace all outdated laptops before the end of the quarter.",
+      "zh": "IT 部门将在本季度结束前更换所有过时的笔记本电脑。"
+    },
+    {
+      "word": "represent",
+      "spelling": "R, E, P, R, E, S, E, N, T",
+      "spoken_meaning": "动词，代表，表现，象征",
+      "en": "Our sales team will represent the company at the trade fair.",
+      "zh": "我们的销售团队将在交易会上代表公司。"
+    },
+    {
+      "word": "request",
+      "spelling": "R, E, Q, U, E, S, T",
+      "spoken_meaning": "名词或动词，请求，要求，申请",
+      "en": "Please submit your leave request at least three days in advance.",
+      "zh": "请至少提前三天提交请假申请。"
+    },
+    {
+      "word": "require",
+      "spelling": "R, E, Q, U, I, R, E",
+      "spoken_meaning": "动词，要求，需要，规定必须",
+      "en": "All visitors are required to wear a badge inside the building.",
+      "zh": "所有访客进入大楼时都必须佩戴证件。"
+    },
+    {
+      "word": "research",
+      "spelling": "R, E, S, E, A, R, C, H",
+      "spoken_meaning": "名词或动词，研究，调研，调查",
+      "en": "Market research shows strong demand for flexible work schedules.",
+      "zh": "市场调研显示人们对弹性工作时间需求强劲。"
+    },
+    {
+      "word": "reserve",
+      "spelling": "R, E, S, E, R, V, E",
+      "spoken_meaning": "动词或名词，预订，保留，储备",
+      "en": "Could you reserve a conference room for Thursday afternoon?",
+      "zh": "您能预订周四下午的会议室吗？"
+    },
+    {
+      "word": "resolve",
+      "spelling": "R, E, S, O, L, V, E",
+      "spoken_meaning": "动词，解决，决心，决议",
+      "en": "Customer service aims to resolve every complaint within 48 hours.",
+      "zh": "客服力求在四十八小时内解决每一宗投诉。"
+    },
+    {
+      "word": "resource",
+      "spelling": "R, E, S, O, U, R, C, E",
+      "spoken_meaning": "名词，资源，财力，资料",
+      "en": "The project was delayed because of limited staff resources.",
+      "zh": "由于人手资源有限，项目被推迟了。"
+    },
+    {
+      "word": "respond",
+      "spelling": "R, E, S, P, O, N, D",
+      "spoken_meaning": "动词，回应，答复，作出反应",
+      "en": "Please respond to the client's inquiry by the end of the day.",
+      "zh": "请在今天结束前回复客户的问询。"
+    },
+    {
+      "word": "restore",
+      "spelling": "R, E, S, T, O, R, E",
+      "spoken_meaning": "动词，恢复，修复，归还",
+      "en": "Engineers worked overnight to restore the payment system.",
+      "zh": "工程师通宵工作以恢复支付系统。"
+    },
+    {
+      "word": "restrict",
+      "spelling": "R, E, S, T, R, I, C, T",
+      "spoken_meaning": "动词，限制，约束，限定",
+      "en": "The company will restrict access to confidential client files.",
+      "zh": "公司将限制对机密客户文件的访问。"
+    },
+    {
+      "word": "resume",
+      "spelling": "R, E, S, U, M, E",
+      "spoken_meaning": "动词，恢复，继续，重新开始",
+      "en": "We will resume the meeting after a ten-minute break.",
+      "zh": "休息十分钟后我们将继续开会。"
+    },
+    {
+      "word": "retain",
+      "spelling": "R, E, T, A, I, N",
+      "spoken_meaning": "动词，留住，保留，保持",
+      "en": "Better benefits help the firm retain experienced engineers.",
+      "zh": "更好的福利有助于公司留住经验丰富的工程师。"
+    },
+    {
+      "word": "retire",
+      "spelling": "R, E, T, I, R, E",
+      "spoken_meaning": "动词，退休，退役，撤回",
+      "en": "The director will retire from the company at the end of this year.",
+      "zh": "该总监将于今年年底从公司退休。"
+    },
+    {
+      "word": "retrieve",
+      "spelling": "R, E, T, R, I, E, V, E",
+      "spoken_meaning": "动词，取回，检索，挽回",
+      "en": "Staff can retrieve archived invoices from the cloud database.",
+      "zh": "员工可以从云端数据库检索已归档的发票。"
+    },
+    {
+      "word": "review",
+      "spelling": "R, E, V, I, E, W",
+      "spoken_meaning": "动词或名词，审查，回顾，评论",
+      "en": "Please review the contract carefully before signing it.",
+      "zh": "签字前请仔细审阅合同。"
+    },
+    {
+      "word": "revise",
+      "spelling": "R, E, V, I, S, E",
+      "spoken_meaning": "动词，修订，修改，复习",
+      "en": "The team needs to revise the budget before Friday's meeting.",
+      "zh": "团队需要在周五会议前修订预算。"
+    },
+    {
+      "word": "revoke",
+      "spelling": "R, E, V, O, K, E",
+      "spoken_meaning": "动词，撤销，取消，废止",
+      "en": "The board may revoke the vendor's contract for repeated delays.",
+      "zh": "因多次延误，董事会可能撤销该供应商的合同。"
+    },
+    {
+      "word": "reward",
+      "spelling": "R, E, W, A, R, D",
+      "spoken_meaning": "名词或动词，奖励，报酬，奖赏",
+      "en": "The company will reward employees who exceed their sales targets.",
+      "zh": "公司将奖励超额完成销售目标的员工。"
+    },
+    {
+      "word": "salary",
+      "spelling": "S, A, L, A, R, Y",
+      "spoken_meaning": "名词，薪资，月薪",
+      "en": "The offer includes a competitive base salary plus performance bonuses.",
+      "zh": "该录用通知包含有竞争力的基本薪资以及绩效奖金。"
+    },
+    {
+      "word": "satisfy",
+      "spelling": "S, A, T, I, S, F, Y",
+      "spoken_meaning": "动词，使满意，满足（需求/条件）",
+      "en": "Our goal is to satisfy clients without delaying the project timeline.",
+      "zh": "我们的目标是在不延误项目进度的前提下让客户满意。"
+    },
+    {
+      "word": "secure",
+      "spelling": "S, E, C, U, R, E",
+      "spoken_meaning": "动词或形容词，获得，确保，安全的",
+      "en": "The sales team managed to secure a three-year supply contract.",
+      "zh": "销售团队成功拿下了一份三年期的供应合同。"
+    },
+    {
+      "word": "select",
+      "spelling": "S, E, L, E, C, T",
+      "spoken_meaning": "动词或形容词，选择，精选的",
+      "en": "Please select the payment method that works best for your department.",
+      "zh": "请选择最适合贵部门的支付方式。"
+    },
+    {
+      "word": "seminar",
+      "spelling": "S, E, M, I, N, A, R",
+      "spoken_meaning": "名词，研讨会，专题讲座",
+      "en": "All new hires must attend the compliance seminar next Thursday.",
+      "zh": "所有新员工下周四必须参加合规研讨会。"
+    },
+    {
+      "word": "senior",
+      "spelling": "S, E, N, I, O, R",
+      "spoken_meaning": "形容词或名词，资深的，高级的，年长者",
+      "en": "Please escalate urgent issues to a senior manager immediately.",
+      "zh": "请立即将紧急问题上报给资深经理。"
+    },
+    {
+      "word": "separate",
+      "spelling": "S, E, P, A, R, A, T, E",
+      "spoken_meaning": "动词或形容词，分开，单独的，分离的",
+      "en": "Travel expenses should be listed on a separate invoice.",
+      "zh": "差旅费用应列在单独的发票上。"
+    },
+    {
+      "word": "sequence",
+      "spelling": "S, E, Q, U, E, N, C, E",
+      "spoken_meaning": "名词，顺序，序列，一系列",
+      "en": "Complete the safety checks in the correct sequence before starting.",
+      "zh": "启动前请按正确顺序完成安全检查。"
+    },
+    {
+      "word": "settle",
+      "spelling": "S, E, T, T, L, E",
+      "spoken_meaning": "动词，解决，结算，定居",
+      "en": "Both parties agreed to settle the dispute through mediation.",
+      "zh": "双方同意通过调解解决争议。"
+    },
+    {
+      "word": "severe",
+      "spelling": "S, E, V, E, R, E",
+      "spoken_meaning": "形容词，严重的，严厉的",
+      "en": "The storm caused severe damage to the warehouse roof.",
+      "zh": "暴风雨对仓库屋顶造成了严重损坏。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第11轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "rent",
+      "voice": "en",
+      "text": "rent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rent",
+      "voice": "en",
+      "text": "R, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rent",
+      "voice": "zh",
+      "text": "名词或动词，租金，租用，出租",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rent",
+      "voice": "en",
+      "text": "The startup decided to rent a smaller office to cut costs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rent",
+      "voice": "zh",
+      "text": "这家初创公司决定租用更小的办公室以削减成本。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "replace",
+      "voice": "en",
+      "text": "replace",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "replace",
+      "voice": "en",
+      "text": "R, E, P, L, A, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "replace",
+      "voice": "zh",
+      "text": "动词，替换，取代，更换",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "replace",
+      "voice": "en",
+      "text": "IT will replace all outdated laptops before the end of the quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "replace",
+      "voice": "zh",
+      "text": "IT 部门将在本季度结束前更换所有过时的笔记本电脑。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "represent",
+      "voice": "en",
+      "text": "represent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "represent",
+      "voice": "en",
+      "text": "R, E, P, R, E, S, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "represent",
+      "voice": "zh",
+      "text": "动词，代表，表现，象征",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "represent",
+      "voice": "en",
+      "text": "Our sales team will represent the company at the trade fair.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "represent",
+      "voice": "zh",
+      "text": "我们的销售团队将在交易会上代表公司。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "request",
+      "voice": "en",
+      "text": "request",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "request",
+      "voice": "en",
+      "text": "R, E, Q, U, E, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "request",
+      "voice": "zh",
+      "text": "名词或动词，请求，要求，申请",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "request",
+      "voice": "en",
+      "text": "Please submit your leave request at least three days in advance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "request",
+      "voice": "zh",
+      "text": "请至少提前三天提交请假申请。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "require",
+      "voice": "en",
+      "text": "require",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "require",
+      "voice": "en",
+      "text": "R, E, Q, U, I, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "require",
+      "voice": "zh",
+      "text": "动词，要求，需要，规定必须",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "require",
+      "voice": "en",
+      "text": "All visitors are required to wear a badge inside the building.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "require",
+      "voice": "zh",
+      "text": "所有访客进入大楼时都必须佩戴证件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "research",
+      "voice": "en",
+      "text": "research",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "research",
+      "voice": "en",
+      "text": "R, E, S, E, A, R, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "research",
+      "voice": "zh",
+      "text": "名词或动词，研究，调研，调查",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "research",
+      "voice": "en",
+      "text": "Market research shows strong demand for flexible work schedules.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "research",
+      "voice": "zh",
+      "text": "市场调研显示人们对弹性工作时间需求强劲。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reserve",
+      "voice": "en",
+      "text": "reserve",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reserve",
+      "voice": "en",
+      "text": "R, E, S, E, R, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reserve",
+      "voice": "zh",
+      "text": "动词或名词，预订，保留，储备",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reserve",
+      "voice": "en",
+      "text": "Could you reserve a conference room for Thursday afternoon?",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reserve",
+      "voice": "zh",
+      "text": "您能预订周四下午的会议室吗？",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "resolve",
+      "voice": "en",
+      "text": "resolve",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "resolve",
+      "voice": "en",
+      "text": "R, E, S, O, L, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "resolve",
+      "voice": "zh",
+      "text": "动词，解决，决心，决议",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "resolve",
+      "voice": "en",
+      "text": "Customer service aims to resolve every complaint within 48 hours.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "resolve",
+      "voice": "zh",
+      "text": "客服力求在四十八小时内解决每一宗投诉。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "resource",
+      "voice": "en",
+      "text": "resource",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "resource",
+      "voice": "en",
+      "text": "R, E, S, O, U, R, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "resource",
+      "voice": "zh",
+      "text": "名词，资源，财力，资料",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "resource",
+      "voice": "en",
+      "text": "The project was delayed because of limited staff resources.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "resource",
+      "voice": "zh",
+      "text": "由于人手资源有限，项目被推迟了。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "respond",
+      "voice": "en",
+      "text": "respond",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "respond",
+      "voice": "en",
+      "text": "R, E, S, P, O, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "respond",
+      "voice": "zh",
+      "text": "动词，回应，答复，作出反应",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "respond",
+      "voice": "en",
+      "text": "Please respond to the client's inquiry by the end of the day.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "respond",
+      "voice": "zh",
+      "text": "请在今天结束前回复客户的问询。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "restore",
+      "voice": "en",
+      "text": "restore",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "restore",
+      "voice": "en",
+      "text": "R, E, S, T, O, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "restore",
+      "voice": "zh",
+      "text": "动词，恢复，修复，归还",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "restore",
+      "voice": "en",
+      "text": "Engineers worked overnight to restore the payment system.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "restore",
+      "voice": "zh",
+      "text": "工程师通宵工作以恢复支付系统。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "restrict",
+      "voice": "en",
+      "text": "restrict",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "restrict",
+      "voice": "en",
+      "text": "R, E, S, T, R, I, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "restrict",
+      "voice": "zh",
+      "text": "动词，限制，约束，限定",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "restrict",
+      "voice": "en",
+      "text": "The company will restrict access to confidential client files.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "restrict",
+      "voice": "zh",
+      "text": "公司将限制对机密客户文件的访问。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "resume",
+      "voice": "en",
+      "text": "resume",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "resume",
+      "voice": "en",
+      "text": "R, E, S, U, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "resume",
+      "voice": "zh",
+      "text": "动词，恢复，继续，重新开始",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "resume",
+      "voice": "en",
+      "text": "We will resume the meeting after a ten-minute break.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "resume",
+      "voice": "zh",
+      "text": "休息十分钟后我们将继续开会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "retain",
+      "voice": "en",
+      "text": "retain",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "retain",
+      "voice": "en",
+      "text": "R, E, T, A, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "retain",
+      "voice": "zh",
+      "text": "动词，留住，保留，保持",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "retain",
+      "voice": "en",
+      "text": "Better benefits help the firm retain experienced engineers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "retain",
+      "voice": "zh",
+      "text": "更好的福利有助于公司留住经验丰富的工程师。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "retire",
+      "voice": "en",
+      "text": "retire",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "retire",
+      "voice": "en",
+      "text": "R, E, T, I, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "retire",
+      "voice": "zh",
+      "text": "动词，退休，退役，撤回",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "retire",
+      "voice": "en",
+      "text": "The director will retire from the company at the end of this year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "retire",
+      "voice": "zh",
+      "text": "该总监将于今年年底从公司退休。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "retrieve",
+      "voice": "en",
+      "text": "retrieve",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "retrieve",
+      "voice": "en",
+      "text": "R, E, T, R, I, E, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "retrieve",
+      "voice": "zh",
+      "text": "动词，取回，检索，挽回",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "retrieve",
+      "voice": "en",
+      "text": "Staff can retrieve archived invoices from the cloud database.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "retrieve",
+      "voice": "zh",
+      "text": "员工可以从云端数据库检索已归档的发票。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "review",
+      "voice": "en",
+      "text": "review",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "review",
+      "voice": "en",
+      "text": "R, E, V, I, E, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "review",
+      "voice": "zh",
+      "text": "动词或名词，审查，回顾，评论",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "review",
+      "voice": "en",
+      "text": "Please review the contract carefully before signing it.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "review",
+      "voice": "zh",
+      "text": "签字前请仔细审阅合同。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "revise",
+      "voice": "en",
+      "text": "revise",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "revise",
+      "voice": "en",
+      "text": "R, E, V, I, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "revise",
+      "voice": "zh",
+      "text": "动词，修订，修改，复习",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "revise",
+      "voice": "en",
+      "text": "The team needs to revise the budget before Friday's meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "revise",
+      "voice": "zh",
+      "text": "团队需要在周五会议前修订预算。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "revoke",
+      "voice": "en",
+      "text": "revoke",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "revoke",
+      "voice": "en",
+      "text": "R, E, V, O, K, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "revoke",
+      "voice": "zh",
+      "text": "动词，撤销，取消，废止",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "revoke",
+      "voice": "en",
+      "text": "The board may revoke the vendor's contract for repeated delays.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "revoke",
+      "voice": "zh",
+      "text": "因多次延误，董事会可能撤销该供应商的合同。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reward",
+      "voice": "en",
+      "text": "reward",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reward",
+      "voice": "en",
+      "text": "R, E, W, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reward",
+      "voice": "zh",
+      "text": "名词或动词，奖励，报酬，奖赏",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reward",
+      "voice": "en",
+      "text": "The company will reward employees who exceed their sales targets.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reward",
+      "voice": "zh",
+      "text": "公司将奖励超额完成销售目标的员工。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "salary",
+      "voice": "en",
+      "text": "salary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "salary",
+      "voice": "en",
+      "text": "S, A, L, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "salary",
+      "voice": "zh",
+      "text": "名词，薪资，月薪",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "salary",
+      "voice": "en",
+      "text": "The offer includes a competitive base salary plus performance bonuses.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "salary",
+      "voice": "zh",
+      "text": "该录用通知包含有竞争力的基本薪资以及绩效奖金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "satisfy",
+      "voice": "en",
+      "text": "satisfy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "satisfy",
+      "voice": "en",
+      "text": "S, A, T, I, S, F, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "satisfy",
+      "voice": "zh",
+      "text": "动词，使满意，满足（需求/条件）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "satisfy",
+      "voice": "en",
+      "text": "Our goal is to satisfy clients without delaying the project timeline.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "satisfy",
+      "voice": "zh",
+      "text": "我们的目标是在不延误项目进度的前提下让客户满意。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "secure",
+      "voice": "en",
+      "text": "secure",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "secure",
+      "voice": "en",
+      "text": "S, E, C, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "secure",
+      "voice": "zh",
+      "text": "动词或形容词，获得，确保，安全的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "secure",
+      "voice": "en",
+      "text": "The sales team managed to secure a three-year supply contract.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "secure",
+      "voice": "zh",
+      "text": "销售团队成功拿下了一份三年期的供应合同。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "select",
+      "voice": "en",
+      "text": "select",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "select",
+      "voice": "en",
+      "text": "S, E, L, E, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "select",
+      "voice": "zh",
+      "text": "动词或形容词，选择，精选的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "select",
+      "voice": "en",
+      "text": "Please select the payment method that works best for your department.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "select",
+      "voice": "zh",
+      "text": "请选择最适合贵部门的支付方式。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "seminar",
+      "voice": "en",
+      "text": "seminar",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "seminar",
+      "voice": "en",
+      "text": "S, E, M, I, N, A, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "seminar",
+      "voice": "zh",
+      "text": "名词，研讨会，专题讲座",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "seminar",
+      "voice": "en",
+      "text": "All new hires must attend the compliance seminar next Thursday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "seminar",
+      "voice": "zh",
+      "text": "所有新员工下周四必须参加合规研讨会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "senior",
+      "voice": "en",
+      "text": "senior",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "senior",
+      "voice": "en",
+      "text": "S, E, N, I, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "senior",
+      "voice": "zh",
+      "text": "形容词或名词，资深的，高级的，年长者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "senior",
+      "voice": "en",
+      "text": "Please escalate urgent issues to a senior manager immediately.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "senior",
+      "voice": "zh",
+      "text": "请立即将紧急问题上报给资深经理。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "separate",
+      "voice": "en",
+      "text": "separate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "separate",
+      "voice": "en",
+      "text": "S, E, P, A, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "separate",
+      "voice": "zh",
+      "text": "动词或形容词，分开，单独的，分离的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "separate",
+      "voice": "en",
+      "text": "Travel expenses should be listed on a separate invoice.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "separate",
+      "voice": "zh",
+      "text": "差旅费用应列在单独的发票上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sequence",
+      "voice": "en",
+      "text": "sequence",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sequence",
+      "voice": "en",
+      "text": "S, E, Q, U, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sequence",
+      "voice": "zh",
+      "text": "名词，顺序，序列，一系列",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sequence",
+      "voice": "en",
+      "text": "Complete the safety checks in the correct sequence before starting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sequence",
+      "voice": "zh",
+      "text": "启动前请按正确顺序完成安全检查。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "settle",
+      "voice": "en",
+      "text": "settle",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "settle",
+      "voice": "en",
+      "text": "S, E, T, T, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "settle",
+      "voice": "zh",
+      "text": "动词，解决，结算，定居",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "settle",
+      "voice": "en",
+      "text": "Both parties agreed to settle the dispute through mediation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "settle",
+      "voice": "zh",
+      "text": "双方同意通过调解解决争议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "severe",
+      "voice": "en",
+      "text": "severe",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "severe",
+      "voice": "en",
+      "text": "S, E, V, E, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "severe",
+      "voice": "zh",
+      "text": "形容词，严重的，严厉的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "severe",
+      "voice": "en",
+      "text": "The storm caused severe damage to the warehouse roof.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "severe",
+      "voice": "zh",
+      "text": "暴风雨对仓库屋顶造成了严重损坏。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第11轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

@@ -1,0 +1,1314 @@
+{
+  "id": "001",
+  "track": 1,
+  "title": "第 1 轨",
+  "word_count": 30,
+  "headwords": [
+    "submit",
+    "approve",
+    "budget",
+    "shipment",
+    "inquiry",
+    "refund",
+    "overtime",
+    "brochure",
+    "inventory",
+    "reservation",
+    "authorize",
+    "attend",
+    "discount",
+    "departure",
+    "expense",
+    "launch",
+    "memo",
+    "renew",
+    "supplier",
+    "transfer",
+    "contract",
+    "assign",
+    "commute",
+    "estimate",
+    "promote",
+    "venue",
+    "payroll",
+    "enclose",
+    "eligible",
+    "lease"
+  ],
+  "entries": [
+    {
+      "word": "submit",
+      "spelling": "S, U, B, M, I, T",
+      "spoken_meaning": "动词，提交，呈递",
+      "en": "Please submit your timesheet before noon.",
+      "zh": "请在中午前提交工时表。"
+    },
+    {
+      "word": "approve",
+      "spelling": "A, P, P, R, O, V, E",
+      "spoken_meaning": "动词，批准，同意",
+      "en": "The manager approved the travel request yesterday.",
+      "zh": "经理昨天批准了出差申请。"
+    },
+    {
+      "word": "budget",
+      "spelling": "B, U, D, G, E, T",
+      "spoken_meaning": "名词或动词，预算，做预算",
+      "en": "We need to stay within the marketing budget this quarter.",
+      "zh": "本季度市场营销开支需控制在预算内。"
+    },
+    {
+      "word": "shipment",
+      "spelling": "S, H, I, P, M, E, N, T",
+      "spoken_meaning": "名词，货运，一批货物",
+      "en": "The shipment of office supplies will arrive on Monday.",
+      "zh": "这批办公用品将于周一到货。"
+    },
+    {
+      "word": "inquiry",
+      "spelling": "I, N, Q, U, I, R, Y",
+      "spoken_meaning": "名词，询问，查询（英enquiry）",
+      "en": "We received several inquiries about the new software.",
+      "zh": "我们收到多起关于新软件的咨询。"
+    },
+    {
+      "word": "refund",
+      "spelling": "R, E, F, U, N, D",
+      "spoken_meaning": "名词或动词，退款，退还（钱）",
+      "en": "Customers may request a refund within 30 days.",
+      "zh": "顾客可在 30 天内申请退款。"
+    },
+    {
+      "word": "overtime",
+      "spelling": "O, V, E, R, T, I, M, E",
+      "spoken_meaning": "名词或副词，加班（时间），加班地",
+      "en": "Staff will be paid overtime for weekend shifts.",
+      "zh": "周末班次员工可拿加班费。"
+    },
+    {
+      "word": "brochure",
+      "spelling": "B, R, O, C, H, U, R, E",
+      "spoken_meaning": "名词，宣传册，小册子",
+      "en": "Take a brochure from the reception desk for hotel details.",
+      "zh": "可在前台取一份宣传册了解酒店信息。"
+    },
+    {
+      "word": "inventory",
+      "spelling": "I, N, V, E, N, T, O, R, Y",
+      "spoken_meaning": "名词，库存，存货清单",
+      "en": "The warehouse will take inventory next Friday.",
+      "zh": "仓库下周五将盘点库存。"
+    },
+    {
+      "word": "reservation",
+      "spelling": "R, E, S, E, R, V, A, T, I, O, N",
+      "spoken_meaning": "名词，预订，预约",
+      "en": "I'd like to make a reservation for three under the name Lee.",
+      "zh": "我想以 Lee 的名字预订三人桌/房间。"
+    },
+    {
+      "word": "authorize",
+      "spelling": "A, U, T, H, O, R, I, Z, E",
+      "spoken_meaning": "动词，授权，批准",
+      "en": "Only the director can authorize overtime pay.",
+      "zh": "只有主管可以批准加班费。"
+    },
+    {
+      "word": "attend",
+      "spelling": "A, T, T, E, N, D",
+      "spoken_meaning": "动词，出席，参加",
+      "en": "All managers are expected to attend the briefing.",
+      "zh": "所有经理都应出席简报会。"
+    },
+    {
+      "word": "discount",
+      "spelling": "D, I, S, C, O, U, N, T",
+      "spoken_meaning": "名词或动词，折扣，打折",
+      "en": "Bulk orders qualify for a 15% discount.",
+      "zh": "大宗订单可享 15% 折扣。"
+    },
+    {
+      "word": "departure",
+      "spelling": "D, E, P, A, R, T, U, R, E",
+      "spoken_meaning": "名词，出发，启程，离开",
+      "en": "Please arrive two hours before your departure.",
+      "zh": "请于起飞前两小时到达。"
+    },
+    {
+      "word": "expense",
+      "spelling": "E, X, P, E, N, S, E",
+      "spoken_meaning": "名词，费用，开支",
+      "en": "Submit your expense report by the end of the month.",
+      "zh": "请在月底前提交费用报销单。"
+    },
+    {
+      "word": "launch",
+      "spelling": "L, A, U, N, C, H",
+      "spoken_meaning": "动词或名词，推出，发布，启动",
+      "en": "The company will launch the new app next week.",
+      "zh": "公司将于下周推出新应用。"
+    },
+    {
+      "word": "memo",
+      "spelling": "M, E, M, O",
+      "spoken_meaning": "名词，备忘录，内部通知",
+      "en": "A memo about the holiday schedule was emailed this morning.",
+      "zh": "今早已邮件发送放假安排备忘录。"
+    },
+    {
+      "word": "renew",
+      "spelling": "R, E, N, E, W",
+      "spoken_meaning": "动词，续订，更新，延期",
+      "en": "Please renew your membership before it expires.",
+      "zh": "请在会员到期前续订。"
+    },
+    {
+      "word": "supplier",
+      "spelling": "S, U, P, P, L, I, E, R",
+      "spoken_meaning": "名词，供应商，供货商",
+      "en": "We switched to a local supplier to cut shipping costs.",
+      "zh": "我们改用本地供应商以降低运费。"
+    },
+    {
+      "word": "transfer",
+      "spelling": "T, R, A, N, S, F, E, R",
+      "spoken_meaning": "动词或名词，调职，转账，换乘",
+      "en": "She requested a transfer to the Taipei office.",
+      "zh": "她申请调职到台北办事处。"
+    },
+    {
+      "word": "contract",
+      "spelling": "C, O, N, T, R, A, C, T",
+      "spoken_meaning": "名词或动词，合同，签约，收缩",
+      "en": "Please review the contract before the closing date.",
+      "zh": "请在截止日期前审阅这份合同。"
+    },
+    {
+      "word": "assign",
+      "spelling": "A, S, S, I, G, N",
+      "spoken_meaning": "动词，指派，分配",
+      "en": "The supervisor will assign each trainee a mentor.",
+      "zh": "主管会给每位学员指派一位导师。"
+    },
+    {
+      "word": "commute",
+      "spelling": "C, O, M, M, U, T, E",
+      "spoken_meaning": "动词或名词，通勤，上下班路程",
+      "en": "Many staff prefer to commute rather than relocate.",
+      "zh": "许多员工宁愿通勤，也不愿搬家。"
+    },
+    {
+      "word": "estimate",
+      "spelling": "E, S, T, I, M, A, T, E",
+      "spoken_meaning": "动词或名词，估计，估价单",
+      "en": "Please send a written estimate for the renovation work.",
+      "zh": "请寄一份装修工程的书面估价。"
+    },
+    {
+      "word": "promote",
+      "spelling": "P, R, O, M, O, T, E",
+      "spoken_meaning": "动词，晋升，推广",
+      "en": "She was promoted to senior analyst last month.",
+      "zh": "她上个月晋升为高级分析师。"
+    },
+    {
+      "word": "venue",
+      "spelling": "V, E, N, U, E",
+      "spoken_meaning": "名词，场地，会场",
+      "en": "The venue for the annual meeting has been changed.",
+      "zh": "年会场地已更改。"
+    },
+    {
+      "word": "payroll",
+      "spelling": "P, A, Y, R, O, L, L",
+      "spoken_meaning": "名词，工资单，在册员工",
+      "en": "New hires will be added to the payroll next week.",
+      "zh": "新员工下周会进入工资名册。"
+    },
+    {
+      "word": "enclose",
+      "spelling": "E, N, C, L, O, S, E",
+      "spoken_meaning": "动词，随函附上，围住",
+      "en": "I enclose a copy of the receipt for your records.",
+      "zh": "随信附上收据复印件，供您存档。"
+    },
+    {
+      "word": "eligible",
+      "spelling": "E, L, I, G, I, B, L, E",
+      "spoken_meaning": "形容词，符合资格的，有资格的",
+      "en": "Only full-time staff are eligible for the bonus plan.",
+      "zh": "只有全职员工有资格参加奖金计划。"
+    },
+    {
+      "word": "lease",
+      "spelling": "L, E, A, S, E",
+      "spoken_meaning": "名词或动词，租约，租赁",
+      "en": "The company plans to lease additional warehouse space.",
+      "zh": "公司计划再租用一些仓库空间。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第1轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "submit",
+      "voice": "en",
+      "text": "submit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "submit",
+      "voice": "en",
+      "text": "S, U, B, M, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "submit",
+      "voice": "zh",
+      "text": "动词，提交，呈递",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "submit",
+      "voice": "en",
+      "text": "Please submit your timesheet before noon.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "submit",
+      "voice": "zh",
+      "text": "请在中午前提交工时表。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "approve",
+      "voice": "en",
+      "text": "approve",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "approve",
+      "voice": "en",
+      "text": "A, P, P, R, O, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "approve",
+      "voice": "zh",
+      "text": "动词，批准，同意",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "approve",
+      "voice": "en",
+      "text": "The manager approved the travel request yesterday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "approve",
+      "voice": "zh",
+      "text": "经理昨天批准了出差申请。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "budget",
+      "voice": "en",
+      "text": "budget",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "budget",
+      "voice": "en",
+      "text": "B, U, D, G, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "budget",
+      "voice": "zh",
+      "text": "名词或动词，预算，做预算",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "budget",
+      "voice": "en",
+      "text": "We need to stay within the marketing budget this quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "budget",
+      "voice": "zh",
+      "text": "本季度市场营销开支需控制在预算内。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "shipment",
+      "voice": "en",
+      "text": "shipment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "shipment",
+      "voice": "en",
+      "text": "S, H, I, P, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "shipment",
+      "voice": "zh",
+      "text": "名词，货运，一批货物",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "shipment",
+      "voice": "en",
+      "text": "The shipment of office supplies will arrive on Monday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "shipment",
+      "voice": "zh",
+      "text": "这批办公用品将于周一到货。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "inquiry",
+      "voice": "en",
+      "text": "inquiry",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "inquiry",
+      "voice": "en",
+      "text": "I, N, Q, U, I, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "inquiry",
+      "voice": "zh",
+      "text": "名词，询问，查询（英enquiry）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "inquiry",
+      "voice": "en",
+      "text": "We received several inquiries about the new software.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "inquiry",
+      "voice": "zh",
+      "text": "我们收到多起关于新软件的咨询。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "refund",
+      "voice": "en",
+      "text": "refund",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "refund",
+      "voice": "en",
+      "text": "R, E, F, U, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "refund",
+      "voice": "zh",
+      "text": "名词或动词，退款，退还（钱）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "refund",
+      "voice": "en",
+      "text": "Customers may request a refund within 30 days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "refund",
+      "voice": "zh",
+      "text": "顾客可在 30 天内申请退款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "overtime",
+      "voice": "en",
+      "text": "overtime",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "overtime",
+      "voice": "en",
+      "text": "O, V, E, R, T, I, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "overtime",
+      "voice": "zh",
+      "text": "名词或副词，加班（时间），加班地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "overtime",
+      "voice": "en",
+      "text": "Staff will be paid overtime for weekend shifts.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "overtime",
+      "voice": "zh",
+      "text": "周末班次员工可拿加班费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "brochure",
+      "voice": "en",
+      "text": "brochure",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "brochure",
+      "voice": "en",
+      "text": "B, R, O, C, H, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "brochure",
+      "voice": "zh",
+      "text": "名词，宣传册，小册子",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "brochure",
+      "voice": "en",
+      "text": "Take a brochure from the reception desk for hotel details.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "brochure",
+      "voice": "zh",
+      "text": "可在前台取一份宣传册了解酒店信息。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "inventory",
+      "voice": "en",
+      "text": "inventory",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "inventory",
+      "voice": "en",
+      "text": "I, N, V, E, N, T, O, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "inventory",
+      "voice": "zh",
+      "text": "名词，库存，存货清单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "inventory",
+      "voice": "en",
+      "text": "The warehouse will take inventory next Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "inventory",
+      "voice": "zh",
+      "text": "仓库下周五将盘点库存。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reservation",
+      "voice": "en",
+      "text": "reservation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reservation",
+      "voice": "en",
+      "text": "R, E, S, E, R, V, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reservation",
+      "voice": "zh",
+      "text": "名词，预订，预约",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reservation",
+      "voice": "en",
+      "text": "I'd like to make a reservation for three under the name Lee.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reservation",
+      "voice": "zh",
+      "text": "我想以 Lee 的名字预订三人桌/房间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "authorize",
+      "voice": "en",
+      "text": "authorize",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "authorize",
+      "voice": "en",
+      "text": "A, U, T, H, O, R, I, Z, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "authorize",
+      "voice": "zh",
+      "text": "动词，授权，批准",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "authorize",
+      "voice": "en",
+      "text": "Only the director can authorize overtime pay.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "authorize",
+      "voice": "zh",
+      "text": "只有主管可以批准加班费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "attend",
+      "voice": "en",
+      "text": "attend",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "attend",
+      "voice": "en",
+      "text": "A, T, T, E, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "attend",
+      "voice": "zh",
+      "text": "动词，出席，参加",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "attend",
+      "voice": "en",
+      "text": "All managers are expected to attend the briefing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "attend",
+      "voice": "zh",
+      "text": "所有经理都应出席简报会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "discount",
+      "voice": "en",
+      "text": "discount",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "discount",
+      "voice": "en",
+      "text": "D, I, S, C, O, U, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "discount",
+      "voice": "zh",
+      "text": "名词或动词，折扣，打折",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "discount",
+      "voice": "en",
+      "text": "Bulk orders qualify for a 15% discount.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "discount",
+      "voice": "zh",
+      "text": "大宗订单可享 15% 折扣。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "departure",
+      "voice": "en",
+      "text": "departure",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "departure",
+      "voice": "en",
+      "text": "D, E, P, A, R, T, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "departure",
+      "voice": "zh",
+      "text": "名词，出发，启程，离开",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "departure",
+      "voice": "en",
+      "text": "Please arrive two hours before your departure.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "departure",
+      "voice": "zh",
+      "text": "请于起飞前两小时到达。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "expense",
+      "voice": "en",
+      "text": "expense",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "expense",
+      "voice": "en",
+      "text": "E, X, P, E, N, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "expense",
+      "voice": "zh",
+      "text": "名词，费用，开支",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "expense",
+      "voice": "en",
+      "text": "Submit your expense report by the end of the month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "expense",
+      "voice": "zh",
+      "text": "请在月底前提交费用报销单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "launch",
+      "voice": "en",
+      "text": "launch",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "launch",
+      "voice": "en",
+      "text": "L, A, U, N, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "launch",
+      "voice": "zh",
+      "text": "动词或名词，推出，发布，启动",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "launch",
+      "voice": "en",
+      "text": "The company will launch the new app next week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "launch",
+      "voice": "zh",
+      "text": "公司将于下周推出新应用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "memo",
+      "voice": "en",
+      "text": "memo",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "memo",
+      "voice": "en",
+      "text": "M, E, M, O",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "memo",
+      "voice": "zh",
+      "text": "名词，备忘录，内部通知",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "memo",
+      "voice": "en",
+      "text": "A memo about the holiday schedule was emailed this morning.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "memo",
+      "voice": "zh",
+      "text": "今早已邮件发送放假安排备忘录。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "renew",
+      "voice": "en",
+      "text": "renew",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "renew",
+      "voice": "en",
+      "text": "R, E, N, E, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "renew",
+      "voice": "zh",
+      "text": "动词，续订，更新，延期",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "renew",
+      "voice": "en",
+      "text": "Please renew your membership before it expires.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "renew",
+      "voice": "zh",
+      "text": "请在会员到期前续订。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "supplier",
+      "voice": "en",
+      "text": "supplier",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "supplier",
+      "voice": "en",
+      "text": "S, U, P, P, L, I, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "supplier",
+      "voice": "zh",
+      "text": "名词，供应商，供货商",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "supplier",
+      "voice": "en",
+      "text": "We switched to a local supplier to cut shipping costs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "supplier",
+      "voice": "zh",
+      "text": "我们改用本地供应商以降低运费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "transfer",
+      "voice": "en",
+      "text": "transfer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "transfer",
+      "voice": "en",
+      "text": "T, R, A, N, S, F, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "transfer",
+      "voice": "zh",
+      "text": "动词或名词，调职，转账，换乘",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "transfer",
+      "voice": "en",
+      "text": "She requested a transfer to the Taipei office.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "transfer",
+      "voice": "zh",
+      "text": "她申请调职到台北办事处。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "contract",
+      "voice": "en",
+      "text": "contract",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "contract",
+      "voice": "en",
+      "text": "C, O, N, T, R, A, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "contract",
+      "voice": "zh",
+      "text": "名词或动词，合同，签约，收缩",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "contract",
+      "voice": "en",
+      "text": "Please review the contract before the closing date.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "contract",
+      "voice": "zh",
+      "text": "请在截止日期前审阅这份合同。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "assign",
+      "voice": "en",
+      "text": "assign",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "assign",
+      "voice": "en",
+      "text": "A, S, S, I, G, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "assign",
+      "voice": "zh",
+      "text": "动词，指派，分配",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "assign",
+      "voice": "en",
+      "text": "The supervisor will assign each trainee a mentor.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "assign",
+      "voice": "zh",
+      "text": "主管会给每位学员指派一位导师。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "commute",
+      "voice": "en",
+      "text": "commute",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "commute",
+      "voice": "en",
+      "text": "C, O, M, M, U, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "commute",
+      "voice": "zh",
+      "text": "动词或名词，通勤，上下班路程",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "commute",
+      "voice": "en",
+      "text": "Many staff prefer to commute rather than relocate.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "commute",
+      "voice": "zh",
+      "text": "许多员工宁愿通勤，也不愿搬家。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "estimate",
+      "voice": "en",
+      "text": "estimate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "estimate",
+      "voice": "en",
+      "text": "E, S, T, I, M, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "estimate",
+      "voice": "zh",
+      "text": "动词或名词，估计，估价单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "estimate",
+      "voice": "en",
+      "text": "Please send a written estimate for the renovation work.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "estimate",
+      "voice": "zh",
+      "text": "请寄一份装修工程的书面估价。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "promote",
+      "voice": "en",
+      "text": "promote",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "promote",
+      "voice": "en",
+      "text": "P, R, O, M, O, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "promote",
+      "voice": "zh",
+      "text": "动词，晋升，推广",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "promote",
+      "voice": "en",
+      "text": "She was promoted to senior analyst last month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "promote",
+      "voice": "zh",
+      "text": "她上个月晋升为高级分析师。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "venue",
+      "voice": "en",
+      "text": "venue",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "venue",
+      "voice": "en",
+      "text": "V, E, N, U, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "venue",
+      "voice": "zh",
+      "text": "名词，场地，会场",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "venue",
+      "voice": "en",
+      "text": "The venue for the annual meeting has been changed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "venue",
+      "voice": "zh",
+      "text": "年会场地已更改。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "payroll",
+      "voice": "en",
+      "text": "payroll",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "payroll",
+      "voice": "en",
+      "text": "P, A, Y, R, O, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "payroll",
+      "voice": "zh",
+      "text": "名词，工资单，在册员工",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "payroll",
+      "voice": "en",
+      "text": "New hires will be added to the payroll next week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "payroll",
+      "voice": "zh",
+      "text": "新员工下周会进入工资名册。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "enclose",
+      "voice": "en",
+      "text": "enclose",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "enclose",
+      "voice": "en",
+      "text": "E, N, C, L, O, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "enclose",
+      "voice": "zh",
+      "text": "动词，随函附上，围住",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "enclose",
+      "voice": "en",
+      "text": "I enclose a copy of the receipt for your records.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "enclose",
+      "voice": "zh",
+      "text": "随信附上收据复印件，供您存档。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "eligible",
+      "voice": "en",
+      "text": "eligible",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "eligible",
+      "voice": "en",
+      "text": "E, L, I, G, I, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "eligible",
+      "voice": "zh",
+      "text": "形容词，符合资格的，有资格的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "eligible",
+      "voice": "en",
+      "text": "Only full-time staff are eligible for the bonus plan.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "eligible",
+      "voice": "zh",
+      "text": "只有全职员工有资格参加奖金计划。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lease",
+      "voice": "en",
+      "text": "lease",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lease",
+      "voice": "en",
+      "text": "L, E, A, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lease",
+      "voice": "zh",
+      "text": "名词或动词，租约，租赁",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lease",
+      "voice": "en",
+      "text": "The company plans to lease additional warehouse space.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lease",
+      "voice": "zh",
+      "text": "公司计划再租用一些仓库空间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第1轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

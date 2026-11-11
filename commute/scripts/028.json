@@ -1,0 +1,1314 @@
+{
+  "id": "028",
+  "track": 28,
+  "title": "第 28 轨",
+  "word_count": 30,
+  "headwords": [
+    "ceremony",
+    "chain",
+    "channel",
+    "chapter",
+    "chart",
+    "checklist",
+    "checkout",
+    "circumstance",
+    "cite",
+    "classification",
+    "clerk",
+    "climate",
+    "closure",
+    "coach",
+    "code",
+    "colleague",
+    "collect",
+    "compel",
+    "competent",
+    "compile",
+    "component",
+    "concrete",
+    "concurrent",
+    "condition",
+    "conflict",
+    "consequence",
+    "consistent",
+    "construct",
+    "convention",
+    "counterpart"
+  ],
+  "entries": [
+    {
+      "word": "ceremony",
+      "spelling": "C, E, R, E, M, O, N, Y",
+      "spoken_meaning": "名词，典礼，仪式，礼节",
+      "en": "The CEO will speak at the opening ceremony of the new plant.",
+      "zh": "首席执行官将在新工厂开幕式上致辞。"
+    },
+    {
+      "word": "chain",
+      "spelling": "C, H, A, I, N",
+      "spoken_meaning": "名词，链条，连锁店，一连串",
+      "en": "A disruption in the supply chain delayed several product launches.",
+      "zh": "供应链中断推迟了多个产品发布。"
+    },
+    {
+      "word": "channel",
+      "spelling": "C, H, A, N, N, E, L",
+      "spoken_meaning": "名词，渠道，通道，频道",
+      "en": "Online sales have become our strongest distribution channel.",
+      "zh": "线上销售已成为我们最强的分销渠道。"
+    },
+    {
+      "word": "chapter",
+      "spelling": "C, H, A, P, T, E, R",
+      "spoken_meaning": "名词，章节，分会，阶段",
+      "en": "The merger marked a new chapter in the company's history.",
+      "zh": "此次合并标志着公司历史上的新篇章。"
+    },
+    {
+      "word": "chart",
+      "spelling": "C, H, A, R, T",
+      "spoken_meaning": "名词或动词，图表，海图，绘制",
+      "en": "The presentation included a bar chart comparing quarterly revenue.",
+      "zh": "演示文稿中包含一张比较季度营收的柱状图。"
+    },
+    {
+      "word": "checklist",
+      "spelling": "C, H, E, C, K, L, I, S, T",
+      "spoken_meaning": "名词，核对清单，检查表",
+      "en": "Use this checklist to confirm every document is ready for the audit.",
+      "zh": "请用这份清单确认审计所需文件均已备齐。"
+    },
+    {
+      "word": "checkout",
+      "spelling": "C, H, E, C, K, O, U, T",
+      "spoken_meaning": "名词，结账，退房，检出",
+      "en": "Guests must complete hotel checkout by noon to avoid an extra charge.",
+      "zh": "住客须在中午前完成退房，以免产生额外费用。"
+    },
+    {
+      "word": "circumstance",
+      "spelling": "C, I, R, C, U, M, S, T, A, N, C, E",
+      "spoken_meaning": "名词，情况，环境，境况（常复数）",
+      "en": "The contract may be revised under exceptional circumstances.",
+      "zh": "在特殊情况下，合同可以修订。"
+    },
+    {
+      "word": "cite",
+      "spelling": "C, I, T, E",
+      "spoken_meaning": "动词，引用，列举，传唤",
+      "en": "The analyst cited rising demand as the main reason for the forecast upgrade.",
+      "zh": "分析师将需求上升列为上调预测的主要理由。"
+    },
+    {
+      "word": "classification",
+      "spelling": "C, L, A, S, S, I, F, I, C, A, T, I, O, N",
+      "spoken_meaning": "名词，分类，归类，级别",
+      "en": "HR updated the job classification system to reflect new roles.",
+      "zh": "人力资源部门更新了职位分类体系以反映新岗位。"
+    },
+    {
+      "word": "clerk",
+      "spelling": "C, L, E, R, K",
+      "spoken_meaning": "名词，职员，文书，店员",
+      "en": "The office clerk filed the invoices in chronological order.",
+      "zh": "办公室文员按时间顺序归档了发票。"
+    },
+    {
+      "word": "climate",
+      "spelling": "C, L, I, M, A, T, E",
+      "spoken_meaning": "名词，气候，氛围，环境",
+      "en": "Investors are watching the business climate before expanding overseas.",
+      "zh": "投资者在海外扩张前正关注当地商业环境。"
+    },
+    {
+      "word": "closure",
+      "spelling": "C, L, O, S, U, R, E",
+      "spoken_meaning": "名词，关闭，停业，结束",
+      "en": "The company announced the temporary closure of two underperforming stores.",
+      "zh": "公司宣布暂时关闭两家业绩不佳的门店。"
+    },
+    {
+      "word": "coach",
+      "spelling": "C, O, A, C, H",
+      "spoken_meaning": "名词或动词，教练，辅导，长途客车",
+      "en": "Managers are trained to coach employees through performance reviews.",
+      "zh": "管理人员接受培训，以便在绩效面谈中辅导员工。"
+    },
+    {
+      "word": "code",
+      "spelling": "C, O, D, E",
+      "spoken_meaning": "名词或动词，代码，法规，准则",
+      "en": "All visitors must follow the building's security code of conduct.",
+      "zh": "所有访客必须遵守大楼的安保行为准则。"
+    },
+    {
+      "word": "colleague",
+      "spelling": "C, O, L, L, E, A, G, U, E",
+      "spoken_meaning": "名词，同事，同僚",
+      "en": "Please copy your colleagues on the email so everyone stays informed.",
+      "zh": "请把同事抄送到邮件中，以便大家及时知情。"
+    },
+    {
+      "word": "collect",
+      "spelling": "C, O, L, L, E, C, T",
+      "spoken_meaning": "动词，收集，收取，领取",
+      "en": "The accounting team will collect payment within thirty days of invoicing.",
+      "zh": "会计团队将在开票后三十天内收款。"
+    },
+    {
+      "word": "compel",
+      "spelling": "C, O, M, P, E, L",
+      "spoken_meaning": "动词，强迫，迫使，使不得不",
+      "en": "Safety regulations compel all workers to wear protective equipment.",
+      "zh": "安全法规迫使所有工人佩戴防护装备。"
+    },
+    {
+      "word": "competent",
+      "spelling": "C, O, M, P, E, T, E, N, T",
+      "spoken_meaning": "形容词，胜任的，有能力的，合格的",
+      "en": "We need competent staff who can handle complex client inquiries.",
+      "zh": "我们需要能处理复杂客户问询的胜任员工。"
+    },
+    {
+      "word": "compile",
+      "spelling": "C, O, M, P, I, L, E",
+      "spoken_meaning": "动词，汇编，编纂，编译",
+      "en": "Please compile a list of vendors who met the quality standards.",
+      "zh": "请编制一份符合质量标准的供应商清单。"
+    },
+    {
+      "word": "component",
+      "spelling": "C, O, M, P, O, N, E, N, T",
+      "spoken_meaning": "名词，组成部分，元件，成分",
+      "en": "Training is a key component of our onboarding program.",
+      "zh": "培训是我们入职计划的关键组成部分。"
+    },
+    {
+      "word": "concrete",
+      "spelling": "C, O, N, C, R, E, T, E",
+      "spoken_meaning": "形容词，具体的，实在的，混凝土的",
+      "en": "Please submit a concrete proposal with timelines and costs.",
+      "zh": "请提交一份附有时间表和成本的具体提案。"
+    },
+    {
+      "word": "concurrent",
+      "spelling": "C, O, N, C, U, R, R, E, N, T",
+      "spoken_meaning": "形容词，同时发生的，并发的，并存的",
+      "en": "The two workshops will run concurrently in adjacent rooms.",
+      "zh": "两场工作坊将在相邻会议室同时进行。"
+    },
+    {
+      "word": "condition",
+      "spelling": "C, O, N, D, I, T, I, O, N",
+      "spoken_meaning": "名词，条件，状况，条款",
+      "en": "Shipment will proceed under the condition that payment clears first.",
+      "zh": "在款项先结清的条件下，货物才会发运。"
+    },
+    {
+      "word": "conflict",
+      "spelling": "C, O, N, F, L, I, C, T",
+      "spoken_meaning": "名词，冲突，矛盾，争执",
+      "en": "Please check for a schedule conflict before booking the conference room.",
+      "zh": "预订会议室前请先确认有无日程冲突。"
+    },
+    {
+      "word": "consequence",
+      "spelling": "C, O, N, S, E, Q, U, E, N, C, E",
+      "spoken_meaning": "名词，结果，后果，重要性",
+      "en": "Missing the deadline may have serious consequences for the contract.",
+      "zh": "错过截止日期可能给合同带来严重后果。"
+    },
+    {
+      "word": "consistent",
+      "spelling": "C, O, N, S, I, S, T, E, N, T",
+      "spoken_meaning": "形容词，一致的，连贯的，始终如一的",
+      "en": "Our messaging must remain consistent across all marketing channels.",
+      "zh": "我们的文案必须在所有营销渠道上保持一致。"
+    },
+    {
+      "word": "construct",
+      "spelling": "C, O, N, S, T, R, U, C, T",
+      "spoken_meaning": "动词，建造，构建，构思",
+      "en": "The team will construct a detailed rollout plan before launch.",
+      "zh": "团队将在上线前制定详细的推介计划。"
+    },
+    {
+      "word": "convention",
+      "spelling": "C, O, N, V, E, N, T, I, O, N",
+      "spoken_meaning": "名词，惯例，公约，大型会议",
+      "en": "Our sales team will attend the annual industry convention in Chicago.",
+      "zh": "我们的销售团队将参加在芝加哥举行的年度行业大会。"
+    },
+    {
+      "word": "counterpart",
+      "spelling": "C, O, U, N, T, E, R, P, A, R, T",
+      "spoken_meaning": "名词，对应的人，对等职位，对应物",
+      "en": "Please coordinate the schedule with your counterpart in the Tokyo office.",
+      "zh": "请与东京办公室的对口同事协调日程。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第28轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "ceremony",
+      "voice": "en",
+      "text": "ceremony",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ceremony",
+      "voice": "en",
+      "text": "C, E, R, E, M, O, N, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ceremony",
+      "voice": "zh",
+      "text": "名词，典礼，仪式，礼节",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ceremony",
+      "voice": "en",
+      "text": "The CEO will speak at the opening ceremony of the new plant.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ceremony",
+      "voice": "zh",
+      "text": "首席执行官将在新工厂开幕式上致辞。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "chain",
+      "voice": "en",
+      "text": "chain",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "chain",
+      "voice": "en",
+      "text": "C, H, A, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "chain",
+      "voice": "zh",
+      "text": "名词，链条，连锁店，一连串",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "chain",
+      "voice": "en",
+      "text": "A disruption in the supply chain delayed several product launches.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "chain",
+      "voice": "zh",
+      "text": "供应链中断推迟了多个产品发布。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "channel",
+      "voice": "en",
+      "text": "channel",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "channel",
+      "voice": "en",
+      "text": "C, H, A, N, N, E, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "channel",
+      "voice": "zh",
+      "text": "名词，渠道，通道，频道",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "channel",
+      "voice": "en",
+      "text": "Online sales have become our strongest distribution channel.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "channel",
+      "voice": "zh",
+      "text": "线上销售已成为我们最强的分销渠道。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "chapter",
+      "voice": "en",
+      "text": "chapter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "chapter",
+      "voice": "en",
+      "text": "C, H, A, P, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "chapter",
+      "voice": "zh",
+      "text": "名词，章节，分会，阶段",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "chapter",
+      "voice": "en",
+      "text": "The merger marked a new chapter in the company's history.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "chapter",
+      "voice": "zh",
+      "text": "此次合并标志着公司历史上的新篇章。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "chart",
+      "voice": "en",
+      "text": "chart",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "chart",
+      "voice": "en",
+      "text": "C, H, A, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "chart",
+      "voice": "zh",
+      "text": "名词或动词，图表，海图，绘制",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "chart",
+      "voice": "en",
+      "text": "The presentation included a bar chart comparing quarterly revenue.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "chart",
+      "voice": "zh",
+      "text": "演示文稿中包含一张比较季度营收的柱状图。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "checklist",
+      "voice": "en",
+      "text": "checklist",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "checklist",
+      "voice": "en",
+      "text": "C, H, E, C, K, L, I, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "checklist",
+      "voice": "zh",
+      "text": "名词，核对清单，检查表",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "checklist",
+      "voice": "en",
+      "text": "Use this checklist to confirm every document is ready for the audit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "checklist",
+      "voice": "zh",
+      "text": "请用这份清单确认审计所需文件均已备齐。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "checkout",
+      "voice": "en",
+      "text": "checkout",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "checkout",
+      "voice": "en",
+      "text": "C, H, E, C, K, O, U, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "checkout",
+      "voice": "zh",
+      "text": "名词，结账，退房，检出",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "checkout",
+      "voice": "en",
+      "text": "Guests must complete hotel checkout by noon to avoid an extra charge.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "checkout",
+      "voice": "zh",
+      "text": "住客须在中午前完成退房，以免产生额外费用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "circumstance",
+      "voice": "en",
+      "text": "circumstance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "circumstance",
+      "voice": "en",
+      "text": "C, I, R, C, U, M, S, T, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "circumstance",
+      "voice": "zh",
+      "text": "名词，情况，环境，境况（常复数）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "circumstance",
+      "voice": "en",
+      "text": "The contract may be revised under exceptional circumstances.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "circumstance",
+      "voice": "zh",
+      "text": "在特殊情况下，合同可以修订。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cite",
+      "voice": "en",
+      "text": "cite",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cite",
+      "voice": "en",
+      "text": "C, I, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cite",
+      "voice": "zh",
+      "text": "动词，引用，列举，传唤",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cite",
+      "voice": "en",
+      "text": "The analyst cited rising demand as the main reason for the forecast upgrade.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cite",
+      "voice": "zh",
+      "text": "分析师将需求上升列为上调预测的主要理由。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "classification",
+      "voice": "en",
+      "text": "classification",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "classification",
+      "voice": "en",
+      "text": "C, L, A, S, S, I, F, I, C, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "classification",
+      "voice": "zh",
+      "text": "名词，分类，归类，级别",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "classification",
+      "voice": "en",
+      "text": "HR updated the job classification system to reflect new roles.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "classification",
+      "voice": "zh",
+      "text": "人力资源部门更新了职位分类体系以反映新岗位。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "clerk",
+      "voice": "en",
+      "text": "clerk",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "clerk",
+      "voice": "en",
+      "text": "C, L, E, R, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "clerk",
+      "voice": "zh",
+      "text": "名词，职员，文书，店员",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "clerk",
+      "voice": "en",
+      "text": "The office clerk filed the invoices in chronological order.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "clerk",
+      "voice": "zh",
+      "text": "办公室文员按时间顺序归档了发票。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "climate",
+      "voice": "en",
+      "text": "climate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "climate",
+      "voice": "en",
+      "text": "C, L, I, M, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "climate",
+      "voice": "zh",
+      "text": "名词，气候，氛围，环境",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "climate",
+      "voice": "en",
+      "text": "Investors are watching the business climate before expanding overseas.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "climate",
+      "voice": "zh",
+      "text": "投资者在海外扩张前正关注当地商业环境。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "closure",
+      "voice": "en",
+      "text": "closure",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "closure",
+      "voice": "en",
+      "text": "C, L, O, S, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "closure",
+      "voice": "zh",
+      "text": "名词，关闭，停业，结束",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "closure",
+      "voice": "en",
+      "text": "The company announced the temporary closure of two underperforming stores.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "closure",
+      "voice": "zh",
+      "text": "公司宣布暂时关闭两家业绩不佳的门店。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "coach",
+      "voice": "en",
+      "text": "coach",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "coach",
+      "voice": "en",
+      "text": "C, O, A, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "coach",
+      "voice": "zh",
+      "text": "名词或动词，教练，辅导，长途客车",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "coach",
+      "voice": "en",
+      "text": "Managers are trained to coach employees through performance reviews.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "coach",
+      "voice": "zh",
+      "text": "管理人员接受培训，以便在绩效面谈中辅导员工。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "code",
+      "voice": "en",
+      "text": "code",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "code",
+      "voice": "en",
+      "text": "C, O, D, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "code",
+      "voice": "zh",
+      "text": "名词或动词，代码，法规，准则",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "code",
+      "voice": "en",
+      "text": "All visitors must follow the building's security code of conduct.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "code",
+      "voice": "zh",
+      "text": "所有访客必须遵守大楼的安保行为准则。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "colleague",
+      "voice": "en",
+      "text": "colleague",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "colleague",
+      "voice": "en",
+      "text": "C, O, L, L, E, A, G, U, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "colleague",
+      "voice": "zh",
+      "text": "名词，同事，同僚",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "colleague",
+      "voice": "en",
+      "text": "Please copy your colleagues on the email so everyone stays informed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "colleague",
+      "voice": "zh",
+      "text": "请把同事抄送到邮件中，以便大家及时知情。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "collect",
+      "voice": "en",
+      "text": "collect",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "collect",
+      "voice": "en",
+      "text": "C, O, L, L, E, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "collect",
+      "voice": "zh",
+      "text": "动词，收集，收取，领取",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "collect",
+      "voice": "en",
+      "text": "The accounting team will collect payment within thirty days of invoicing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "collect",
+      "voice": "zh",
+      "text": "会计团队将在开票后三十天内收款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "compel",
+      "voice": "en",
+      "text": "compel",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "compel",
+      "voice": "en",
+      "text": "C, O, M, P, E, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "compel",
+      "voice": "zh",
+      "text": "动词，强迫，迫使，使不得不",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "compel",
+      "voice": "en",
+      "text": "Safety regulations compel all workers to wear protective equipment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "compel",
+      "voice": "zh",
+      "text": "安全法规迫使所有工人佩戴防护装备。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "competent",
+      "voice": "en",
+      "text": "competent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "competent",
+      "voice": "en",
+      "text": "C, O, M, P, E, T, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "competent",
+      "voice": "zh",
+      "text": "形容词，胜任的，有能力的，合格的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "competent",
+      "voice": "en",
+      "text": "We need competent staff who can handle complex client inquiries.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "competent",
+      "voice": "zh",
+      "text": "我们需要能处理复杂客户问询的胜任员工。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "compile",
+      "voice": "en",
+      "text": "compile",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "compile",
+      "voice": "en",
+      "text": "C, O, M, P, I, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "compile",
+      "voice": "zh",
+      "text": "动词，汇编，编纂，编译",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "compile",
+      "voice": "en",
+      "text": "Please compile a list of vendors who met the quality standards.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "compile",
+      "voice": "zh",
+      "text": "请编制一份符合质量标准的供应商清单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "component",
+      "voice": "en",
+      "text": "component",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "component",
+      "voice": "en",
+      "text": "C, O, M, P, O, N, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "component",
+      "voice": "zh",
+      "text": "名词，组成部分，元件，成分",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "component",
+      "voice": "en",
+      "text": "Training is a key component of our onboarding program.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "component",
+      "voice": "zh",
+      "text": "培训是我们入职计划的关键组成部分。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "concrete",
+      "voice": "en",
+      "text": "concrete",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "concrete",
+      "voice": "en",
+      "text": "C, O, N, C, R, E, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "concrete",
+      "voice": "zh",
+      "text": "形容词，具体的，实在的，混凝土的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "concrete",
+      "voice": "en",
+      "text": "Please submit a concrete proposal with timelines and costs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "concrete",
+      "voice": "zh",
+      "text": "请提交一份附有时间表和成本的具体提案。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "concurrent",
+      "voice": "en",
+      "text": "concurrent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "concurrent",
+      "voice": "en",
+      "text": "C, O, N, C, U, R, R, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "concurrent",
+      "voice": "zh",
+      "text": "形容词，同时发生的，并发的，并存的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "concurrent",
+      "voice": "en",
+      "text": "The two workshops will run concurrently in adjacent rooms.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "concurrent",
+      "voice": "zh",
+      "text": "两场工作坊将在相邻会议室同时进行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "condition",
+      "voice": "en",
+      "text": "condition",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "condition",
+      "voice": "en",
+      "text": "C, O, N, D, I, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "condition",
+      "voice": "zh",
+      "text": "名词，条件，状况，条款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "condition",
+      "voice": "en",
+      "text": "Shipment will proceed under the condition that payment clears first.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "condition",
+      "voice": "zh",
+      "text": "在款项先结清的条件下，货物才会发运。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "conflict",
+      "voice": "en",
+      "text": "conflict",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "conflict",
+      "voice": "en",
+      "text": "C, O, N, F, L, I, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "conflict",
+      "voice": "zh",
+      "text": "名词，冲突，矛盾，争执",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "conflict",
+      "voice": "en",
+      "text": "Please check for a schedule conflict before booking the conference room.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "conflict",
+      "voice": "zh",
+      "text": "预订会议室前请先确认有无日程冲突。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "consequence",
+      "voice": "en",
+      "text": "consequence",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "consequence",
+      "voice": "en",
+      "text": "C, O, N, S, E, Q, U, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "consequence",
+      "voice": "zh",
+      "text": "名词，结果，后果，重要性",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "consequence",
+      "voice": "en",
+      "text": "Missing the deadline may have serious consequences for the contract.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "consequence",
+      "voice": "zh",
+      "text": "错过截止日期可能给合同带来严重后果。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "consistent",
+      "voice": "en",
+      "text": "consistent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "consistent",
+      "voice": "en",
+      "text": "C, O, N, S, I, S, T, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "consistent",
+      "voice": "zh",
+      "text": "形容词，一致的，连贯的，始终如一的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "consistent",
+      "voice": "en",
+      "text": "Our messaging must remain consistent across all marketing channels.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "consistent",
+      "voice": "zh",
+      "text": "我们的文案必须在所有营销渠道上保持一致。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "construct",
+      "voice": "en",
+      "text": "construct",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "construct",
+      "voice": "en",
+      "text": "C, O, N, S, T, R, U, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "construct",
+      "voice": "zh",
+      "text": "动词，建造，构建，构思",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "construct",
+      "voice": "en",
+      "text": "The team will construct a detailed rollout plan before launch.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "construct",
+      "voice": "zh",
+      "text": "团队将在上线前制定详细的推介计划。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "convention",
+      "voice": "en",
+      "text": "convention",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "convention",
+      "voice": "en",
+      "text": "C, O, N, V, E, N, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "convention",
+      "voice": "zh",
+      "text": "名词，惯例，公约，大型会议",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "convention",
+      "voice": "en",
+      "text": "Our sales team will attend the annual industry convention in Chicago.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "convention",
+      "voice": "zh",
+      "text": "我们的销售团队将参加在芝加哥举行的年度行业大会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "counterpart",
+      "voice": "en",
+      "text": "counterpart",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "counterpart",
+      "voice": "en",
+      "text": "C, O, U, N, T, E, R, P, A, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "counterpart",
+      "voice": "zh",
+      "text": "名词，对应的人，对等职位，对应物",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "counterpart",
+      "voice": "en",
+      "text": "Please coordinate the schedule with your counterpart in the Tokyo office.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "counterpart",
+      "voice": "zh",
+      "text": "请与东京办公室的对口同事协调日程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第28轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

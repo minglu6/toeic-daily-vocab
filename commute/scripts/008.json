@@ -1,0 +1,1314 @@
+{
+  "id": "008",
+  "track": 8,
+  "title": "第 8 轨",
+  "word_count": 30,
+  "headwords": [
+    "guarantee",
+    "handle",
+    "hire",
+    "identify",
+    "impact",
+    "impose",
+    "incur",
+    "indicate",
+    "innovation",
+    "install",
+    "invest",
+    "involve",
+    "justify",
+    "liable",
+    "manufacture",
+    "margin",
+    "monitor",
+    "motivate",
+    "objective",
+    "obsolete",
+    "occupy",
+    "omit",
+    "operate",
+    "opportunity",
+    "option",
+    "organize",
+    "outline",
+    "overcome",
+    "overlook",
+    "overseas"
+  ],
+  "entries": [
+    {
+      "word": "guarantee",
+      "spelling": "G, U, A, R, A, N, T, E, E",
+      "spoken_meaning": "名词或动词，保证，担保",
+      "en": "All laptops come with a two-year money-back guarantee.",
+      "zh": "所有笔记本电脑均享有两年退款保证。"
+    },
+    {
+      "word": "handle",
+      "spelling": "H, A, N, D, L, E",
+      "spoken_meaning": "动词或名词，处理，应付，把手",
+      "en": "Our support team is trained to handle complaints politely.",
+      "zh": "我们的客服团队受过礼貌处理投诉的培训。"
+    },
+    {
+      "word": "hire",
+      "spelling": "H, I, R, E",
+      "spoken_meaning": "动词或名词，雇用，聘用，新员工",
+      "en": "The department plans to hire three analysts before the peak season.",
+      "zh": "该部门计划在旺季前聘用三名分析师。"
+    },
+    {
+      "word": "identify",
+      "spelling": "I, D, E, N, T, I, F, Y",
+      "spoken_meaning": "动词，识别，确认，找出",
+      "en": "Please identify the cause of the shipping delay by Friday.",
+      "zh": "请在周五前找出货运延误的原因。"
+    },
+    {
+      "word": "impact",
+      "spelling": "I, M, P, A, C, T",
+      "spoken_meaning": "名词或动词，影响，冲击",
+      "en": "Higher fuel prices will have an impact on delivery costs.",
+      "zh": "燃油价格上涨将对配送成本产生影响。"
+    },
+    {
+      "word": "impose",
+      "spelling": "I, M, P, O, S, E",
+      "spoken_meaning": "动词，征收，强加，推行",
+      "en": "The city may impose a tax on short-term rental bookings.",
+      "zh": "该市可能对短租预订征收税款。"
+    },
+    {
+      "word": "incur",
+      "spelling": "I, N, C, U, R",
+      "spoken_meaning": "动词，招致，产生（费用/损失）",
+      "en": "Rush orders may incur additional shipping costs.",
+      "zh": "加急订单可能会产生额外运费。"
+    },
+    {
+      "word": "indicate",
+      "spelling": "I, N, D, I, C, A, T, E",
+      "spoken_meaning": "动词，表明，指示，显示",
+      "en": "Early surveys indicate that customers prefer the lighter packaging.",
+      "zh": "初步调查显示客户更喜欢更轻的包装。"
+    },
+    {
+      "word": "innovation",
+      "spelling": "I, N, N, O, V, A, T, I, O, N",
+      "spoken_meaning": "名词，创新，革新",
+      "en": "The lab focuses on product innovation for the mobile market.",
+      "zh": "该实验室专注于移动市场的产品创新。"
+    },
+    {
+      "word": "install",
+      "spelling": "I, N, S, T, A, L, L",
+      "spoken_meaning": "动词，安装，正式就任",
+      "en": "Technicians will install the new security cameras this weekend.",
+      "zh": "技术人员将于本周末安装新的安防摄像头。"
+    },
+    {
+      "word": "invest",
+      "spelling": "I, N, V, E, S, T",
+      "spoken_meaning": "动词，投资，投入（时间/精力）",
+      "en": "The firm decided to invest in renewable-energy startups.",
+      "zh": "该公司决定投资可再生能源初创企业。"
+    },
+    {
+      "word": "involve",
+      "spelling": "I, N, V, O, L, V, E",
+      "spoken_meaning": "动词，涉及，使参与，包含",
+      "en": "The redesign will involve several departments across the company.",
+      "zh": "这次改版将涉及公司多个部门。"
+    },
+    {
+      "word": "justify",
+      "spelling": "J, U, S, T, I, F, Y",
+      "spoken_meaning": "动词，证明合理，为…辩护",
+      "en": "Managers must justify the cost before approving large purchases.",
+      "zh": "经理须在批准大额采购前证明费用合理。"
+    },
+    {
+      "word": "liable",
+      "spelling": "L, I, A, B, L, E",
+      "spoken_meaning": "形容词，有法律责任的，易于…的",
+      "en": "The contractor is liable for any damage caused during renovation.",
+      "zh": "承包商对装修期间造成的任何损坏负有责任。"
+    },
+    {
+      "word": "manufacture",
+      "spelling": "M, A, N, U, F, A, C, T, U, R, E",
+      "spoken_meaning": "动词或名词，制造，生产，制造业",
+      "en": "The factory will manufacture electric motors for export markets.",
+      "zh": "该工厂将生产出口市场的电动机。"
+    },
+    {
+      "word": "margin",
+      "spelling": "M, A, R, G, I, N",
+      "spoken_meaning": "名词，利润率，页边空白，余地",
+      "en": "Rising material costs have reduced our profit margin this quarter.",
+      "zh": "原材料成本上升已压缩了本季度的利润率。"
+    },
+    {
+      "word": "monitor",
+      "spelling": "M, O, N, I, T, O, R",
+      "spoken_meaning": "动词或名词，监控，监视器，班长",
+      "en": "Supervisors monitor performance with weekly dashboard reports.",
+      "zh": "主管通过每周仪表盘报告监控业绩。"
+    },
+    {
+      "word": "motivate",
+      "spelling": "M, O, T, I, V, A, T, E",
+      "spoken_meaning": "动词，激励，促使",
+      "en": "Bonuses help motivate employees to meet quarterly targets.",
+      "zh": "奖金有助于激励员工完成季度目标。"
+    },
+    {
+      "word": "objective",
+      "spelling": "O, B, J, E, C, T, I, V, E",
+      "spoken_meaning": "名词或形容词，目标，客观的",
+      "en": "Our main objective this year is to expand into two new markets.",
+      "zh": "我们今年的主要目标是拓展进入两个新市场。"
+    },
+    {
+      "word": "obsolete",
+      "spelling": "O, B, S, O, L, E, T, E",
+      "spoken_meaning": "形容词，过时的，废弃的",
+      "en": "Older printers will become obsolete after the software upgrade.",
+      "zh": "软件升级后，旧打印机将变得过时。"
+    },
+    {
+      "word": "occupy",
+      "spelling": "O, C, C, U, P, Y",
+      "spoken_meaning": "动词，占用，占据（职位/空间），使忙碌",
+      "en": "She will occupy the regional manager position starting next month.",
+      "zh": "她将从下个月起担任区域经理一职。"
+    },
+    {
+      "word": "omit",
+      "spelling": "O, M, I, T",
+      "spoken_meaning": "动词，省略，遗漏，删除",
+      "en": "Please do not omit any contact details from the registration form.",
+      "zh": "请勿在登记表中遗漏任何联系方式。"
+    },
+    {
+      "word": "operate",
+      "spelling": "O, P, E, R, A, T, E",
+      "spoken_meaning": "动词，运营，操作，运转",
+      "en": "The firm plans to operate distribution centers in three cities.",
+      "zh": "该公司计划在三个城市运营配送中心。"
+    },
+    {
+      "word": "opportunity",
+      "spelling": "O, P, P, O, R, T, U, N, I, T, Y",
+      "spoken_meaning": "名词，机会，时机",
+      "en": "This internship is an excellent opportunity to gain industry experience.",
+      "zh": "这份实习是获得行业经验的绝佳机会。"
+    },
+    {
+      "word": "option",
+      "spelling": "O, P, T, I, O, N",
+      "spoken_meaning": "名词，选项，选择权，期权",
+      "en": "Employees have the option to work from home two days a week.",
+      "zh": "员工可以选择每周在家办公两天。"
+    },
+    {
+      "word": "organize",
+      "spelling": "O, R, G, A, N, I, Z, E",
+      "spoken_meaning": "动词，组织，安排，筹办",
+      "en": "HR will organize a welcome session for new hires on Monday.",
+      "zh": "人力资源部将在周一为新员工组织迎新会。"
+    },
+    {
+      "word": "outline",
+      "spelling": "O, U, T, L, I, N, E",
+      "spoken_meaning": "名词或动词，大纲，概要，概述",
+      "en": "Please outline the main risks before we approve the budget.",
+      "zh": "在我们批准预算之前，请概述主要风险。"
+    },
+    {
+      "word": "overcome",
+      "spelling": "O, V, E, R, C, O, M, E",
+      "spoken_meaning": "动词，克服，战胜（困难）",
+      "en": "The team worked hard to overcome supply shortages last quarter.",
+      "zh": "团队上个季度努力克服了供应短缺问题。"
+    },
+    {
+      "word": "overlook",
+      "spelling": "O, V, E, R, L, O, O, K",
+      "spoken_meaning": "动词，忽略，overlook（俯瞰），宽恕小错",
+      "en": "Please review the contract carefully so we do not overlook any clauses.",
+      "zh": "请仔细审阅合同，以免遗漏任何条款。"
+    },
+    {
+      "word": "overseas",
+      "spelling": "O, V, E, R, S, E, A, S",
+      "spoken_meaning": "形容词或副词，海外的，在国外",
+      "en": "Our overseas sales grew by 12 percent this year.",
+      "zh": "我们的海外销售额今年增长了百分之十二。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第8轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "guarantee",
+      "voice": "en",
+      "text": "guarantee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "guarantee",
+      "voice": "en",
+      "text": "G, U, A, R, A, N, T, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "guarantee",
+      "voice": "zh",
+      "text": "名词或动词，保证，担保",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "guarantee",
+      "voice": "en",
+      "text": "All laptops come with a two-year money-back guarantee.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "guarantee",
+      "voice": "zh",
+      "text": "所有笔记本电脑均享有两年退款保证。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "handle",
+      "voice": "en",
+      "text": "handle",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "handle",
+      "voice": "en",
+      "text": "H, A, N, D, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "handle",
+      "voice": "zh",
+      "text": "动词或名词，处理，应付，把手",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "handle",
+      "voice": "en",
+      "text": "Our support team is trained to handle complaints politely.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "handle",
+      "voice": "zh",
+      "text": "我们的客服团队受过礼貌处理投诉的培训。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hire",
+      "voice": "en",
+      "text": "hire",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hire",
+      "voice": "en",
+      "text": "H, I, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hire",
+      "voice": "zh",
+      "text": "动词或名词，雇用，聘用，新员工",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hire",
+      "voice": "en",
+      "text": "The department plans to hire three analysts before the peak season.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hire",
+      "voice": "zh",
+      "text": "该部门计划在旺季前聘用三名分析师。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "identify",
+      "voice": "en",
+      "text": "identify",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "identify",
+      "voice": "en",
+      "text": "I, D, E, N, T, I, F, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "identify",
+      "voice": "zh",
+      "text": "动词，识别，确认，找出",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "identify",
+      "voice": "en",
+      "text": "Please identify the cause of the shipping delay by Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "identify",
+      "voice": "zh",
+      "text": "请在周五前找出货运延误的原因。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "impact",
+      "voice": "en",
+      "text": "impact",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "impact",
+      "voice": "en",
+      "text": "I, M, P, A, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "impact",
+      "voice": "zh",
+      "text": "名词或动词，影响，冲击",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "impact",
+      "voice": "en",
+      "text": "Higher fuel prices will have an impact on delivery costs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "impact",
+      "voice": "zh",
+      "text": "燃油价格上涨将对配送成本产生影响。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "impose",
+      "voice": "en",
+      "text": "impose",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "impose",
+      "voice": "en",
+      "text": "I, M, P, O, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "impose",
+      "voice": "zh",
+      "text": "动词，征收，强加，推行",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "impose",
+      "voice": "en",
+      "text": "The city may impose a tax on short-term rental bookings.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "impose",
+      "voice": "zh",
+      "text": "该市可能对短租预订征收税款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "incur",
+      "voice": "en",
+      "text": "incur",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "incur",
+      "voice": "en",
+      "text": "I, N, C, U, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "incur",
+      "voice": "zh",
+      "text": "动词，招致，产生（费用/损失）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "incur",
+      "voice": "en",
+      "text": "Rush orders may incur additional shipping costs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "incur",
+      "voice": "zh",
+      "text": "加急订单可能会产生额外运费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "indicate",
+      "voice": "en",
+      "text": "indicate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "indicate",
+      "voice": "en",
+      "text": "I, N, D, I, C, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "indicate",
+      "voice": "zh",
+      "text": "动词，表明，指示，显示",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "indicate",
+      "voice": "en",
+      "text": "Early surveys indicate that customers prefer the lighter packaging.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "indicate",
+      "voice": "zh",
+      "text": "初步调查显示客户更喜欢更轻的包装。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "innovation",
+      "voice": "en",
+      "text": "innovation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "innovation",
+      "voice": "en",
+      "text": "I, N, N, O, V, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "innovation",
+      "voice": "zh",
+      "text": "名词，创新，革新",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "innovation",
+      "voice": "en",
+      "text": "The lab focuses on product innovation for the mobile market.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "innovation",
+      "voice": "zh",
+      "text": "该实验室专注于移动市场的产品创新。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "install",
+      "voice": "en",
+      "text": "install",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "install",
+      "voice": "en",
+      "text": "I, N, S, T, A, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "install",
+      "voice": "zh",
+      "text": "动词，安装，正式就任",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "install",
+      "voice": "en",
+      "text": "Technicians will install the new security cameras this weekend.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "install",
+      "voice": "zh",
+      "text": "技术人员将于本周末安装新的安防摄像头。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "invest",
+      "voice": "en",
+      "text": "invest",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "invest",
+      "voice": "en",
+      "text": "I, N, V, E, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "invest",
+      "voice": "zh",
+      "text": "动词，投资，投入（时间/精力）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "invest",
+      "voice": "en",
+      "text": "The firm decided to invest in renewable-energy startups.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "invest",
+      "voice": "zh",
+      "text": "该公司决定投资可再生能源初创企业。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "involve",
+      "voice": "en",
+      "text": "involve",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "involve",
+      "voice": "en",
+      "text": "I, N, V, O, L, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "involve",
+      "voice": "zh",
+      "text": "动词，涉及，使参与，包含",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "involve",
+      "voice": "en",
+      "text": "The redesign will involve several departments across the company.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "involve",
+      "voice": "zh",
+      "text": "这次改版将涉及公司多个部门。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "justify",
+      "voice": "en",
+      "text": "justify",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "justify",
+      "voice": "en",
+      "text": "J, U, S, T, I, F, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "justify",
+      "voice": "zh",
+      "text": "动词，证明合理，为…辩护",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "justify",
+      "voice": "en",
+      "text": "Managers must justify the cost before approving large purchases.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "justify",
+      "voice": "zh",
+      "text": "经理须在批准大额采购前证明费用合理。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "liable",
+      "voice": "en",
+      "text": "liable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "liable",
+      "voice": "en",
+      "text": "L, I, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "liable",
+      "voice": "zh",
+      "text": "形容词，有法律责任的，易于…的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "liable",
+      "voice": "en",
+      "text": "The contractor is liable for any damage caused during renovation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "liable",
+      "voice": "zh",
+      "text": "承包商对装修期间造成的任何损坏负有责任。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "manufacture",
+      "voice": "en",
+      "text": "manufacture",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "manufacture",
+      "voice": "en",
+      "text": "M, A, N, U, F, A, C, T, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "manufacture",
+      "voice": "zh",
+      "text": "动词或名词，制造，生产，制造业",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "manufacture",
+      "voice": "en",
+      "text": "The factory will manufacture electric motors for export markets.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "manufacture",
+      "voice": "zh",
+      "text": "该工厂将生产出口市场的电动机。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "margin",
+      "voice": "en",
+      "text": "margin",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "margin",
+      "voice": "en",
+      "text": "M, A, R, G, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "margin",
+      "voice": "zh",
+      "text": "名词，利润率，页边空白，余地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "margin",
+      "voice": "en",
+      "text": "Rising material costs have reduced our profit margin this quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "margin",
+      "voice": "zh",
+      "text": "原材料成本上升已压缩了本季度的利润率。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "monitor",
+      "voice": "en",
+      "text": "monitor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "monitor",
+      "voice": "en",
+      "text": "M, O, N, I, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "monitor",
+      "voice": "zh",
+      "text": "动词或名词，监控，监视器，班长",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "monitor",
+      "voice": "en",
+      "text": "Supervisors monitor performance with weekly dashboard reports.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "monitor",
+      "voice": "zh",
+      "text": "主管通过每周仪表盘报告监控业绩。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "motivate",
+      "voice": "en",
+      "text": "motivate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "motivate",
+      "voice": "en",
+      "text": "M, O, T, I, V, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "motivate",
+      "voice": "zh",
+      "text": "动词，激励，促使",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "motivate",
+      "voice": "en",
+      "text": "Bonuses help motivate employees to meet quarterly targets.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "motivate",
+      "voice": "zh",
+      "text": "奖金有助于激励员工完成季度目标。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "objective",
+      "voice": "en",
+      "text": "objective",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "objective",
+      "voice": "en",
+      "text": "O, B, J, E, C, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "objective",
+      "voice": "zh",
+      "text": "名词或形容词，目标，客观的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "objective",
+      "voice": "en",
+      "text": "Our main objective this year is to expand into two new markets.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "objective",
+      "voice": "zh",
+      "text": "我们今年的主要目标是拓展进入两个新市场。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "obsolete",
+      "voice": "en",
+      "text": "obsolete",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "obsolete",
+      "voice": "en",
+      "text": "O, B, S, O, L, E, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "obsolete",
+      "voice": "zh",
+      "text": "形容词，过时的，废弃的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "obsolete",
+      "voice": "en",
+      "text": "Older printers will become obsolete after the software upgrade.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "obsolete",
+      "voice": "zh",
+      "text": "软件升级后，旧打印机将变得过时。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "occupy",
+      "voice": "en",
+      "text": "occupy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "occupy",
+      "voice": "en",
+      "text": "O, C, C, U, P, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "occupy",
+      "voice": "zh",
+      "text": "动词，占用，占据（职位/空间），使忙碌",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "occupy",
+      "voice": "en",
+      "text": "She will occupy the regional manager position starting next month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "occupy",
+      "voice": "zh",
+      "text": "她将从下个月起担任区域经理一职。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "omit",
+      "voice": "en",
+      "text": "omit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "omit",
+      "voice": "en",
+      "text": "O, M, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "omit",
+      "voice": "zh",
+      "text": "动词，省略，遗漏，删除",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "omit",
+      "voice": "en",
+      "text": "Please do not omit any contact details from the registration form.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "omit",
+      "voice": "zh",
+      "text": "请勿在登记表中遗漏任何联系方式。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "operate",
+      "voice": "en",
+      "text": "operate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "operate",
+      "voice": "en",
+      "text": "O, P, E, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "operate",
+      "voice": "zh",
+      "text": "动词，运营，操作，运转",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "operate",
+      "voice": "en",
+      "text": "The firm plans to operate distribution centers in three cities.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "operate",
+      "voice": "zh",
+      "text": "该公司计划在三个城市运营配送中心。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "opportunity",
+      "voice": "en",
+      "text": "opportunity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "opportunity",
+      "voice": "en",
+      "text": "O, P, P, O, R, T, U, N, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "opportunity",
+      "voice": "zh",
+      "text": "名词，机会，时机",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "opportunity",
+      "voice": "en",
+      "text": "This internship is an excellent opportunity to gain industry experience.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "opportunity",
+      "voice": "zh",
+      "text": "这份实习是获得行业经验的绝佳机会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "option",
+      "voice": "en",
+      "text": "option",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "option",
+      "voice": "en",
+      "text": "O, P, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "option",
+      "voice": "zh",
+      "text": "名词，选项，选择权，期权",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "option",
+      "voice": "en",
+      "text": "Employees have the option to work from home two days a week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "option",
+      "voice": "zh",
+      "text": "员工可以选择每周在家办公两天。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "organize",
+      "voice": "en",
+      "text": "organize",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "organize",
+      "voice": "en",
+      "text": "O, R, G, A, N, I, Z, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "organize",
+      "voice": "zh",
+      "text": "动词，组织，安排，筹办",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "organize",
+      "voice": "en",
+      "text": "HR will organize a welcome session for new hires on Monday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "organize",
+      "voice": "zh",
+      "text": "人力资源部将在周一为新员工组织迎新会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "outline",
+      "voice": "en",
+      "text": "outline",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "outline",
+      "voice": "en",
+      "text": "O, U, T, L, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "outline",
+      "voice": "zh",
+      "text": "名词或动词，大纲，概要，概述",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "outline",
+      "voice": "en",
+      "text": "Please outline the main risks before we approve the budget.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "outline",
+      "voice": "zh",
+      "text": "在我们批准预算之前，请概述主要风险。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "overcome",
+      "voice": "en",
+      "text": "overcome",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "overcome",
+      "voice": "en",
+      "text": "O, V, E, R, C, O, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "overcome",
+      "voice": "zh",
+      "text": "动词，克服，战胜（困难）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "overcome",
+      "voice": "en",
+      "text": "The team worked hard to overcome supply shortages last quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "overcome",
+      "voice": "zh",
+      "text": "团队上个季度努力克服了供应短缺问题。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "overlook",
+      "voice": "en",
+      "text": "overlook",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "overlook",
+      "voice": "en",
+      "text": "O, V, E, R, L, O, O, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "overlook",
+      "voice": "zh",
+      "text": "动词，忽略，overlook（俯瞰），宽恕小错",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "overlook",
+      "voice": "en",
+      "text": "Please review the contract carefully so we do not overlook any clauses.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "overlook",
+      "voice": "zh",
+      "text": "请仔细审阅合同，以免遗漏任何条款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "overseas",
+      "voice": "en",
+      "text": "overseas",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "overseas",
+      "voice": "en",
+      "text": "O, V, E, R, S, E, A, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "overseas",
+      "voice": "zh",
+      "text": "形容词或副词，海外的，在国外",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "overseas",
+      "voice": "en",
+      "text": "Our overseas sales grew by 12 percent this year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "overseas",
+      "voice": "zh",
+      "text": "我们的海外销售额今年增长了百分之十二。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第8轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

@@ -1,0 +1,1314 @@
+{
+  "id": "046",
+  "track": 46,
+  "title": "第 46 轨",
+  "word_count": 30,
+  "headwords": [
+    "as-built",
+    "hoteling",
+    "rolling-forecast",
+    "variance-analysis",
+    "free-cash-flow",
+    "days-sales-outstanding",
+    "lockbox",
+    "remittance-advice",
+    "packing-list",
+    "proof-of-delivery",
+    "cross-dock",
+    "just-in-time",
+    "safety-stock",
+    "stockout",
+    "landed-cost",
+    "preferred-vendor",
+    "blanket-order",
+    "request-for-quotation",
+    "sole-source",
+    "certificate-of-origin",
+    "raci",
+    "timeboxing",
+    "pre-read",
+    "after-action-review",
+    "postmortem",
+    "swimlane",
+    "decision-rights",
+    "succession-plan",
+    "pay-band",
+    "comp-ratio"
+  ],
+  "entries": [
+    {
+      "word": "as-built",
+      "spelling": "A, S, hyphen, B, U, I, L, T",
+      "spoken_meaning": "形容词或名词，竣工的，竣工图，按实际建成状态的",
+      "en": "Facilities asked for as-built drawings before approving the renovation permit.",
+      "zh": "设施部门要求提交竣工图后，才批准装修许可。"
+    },
+    {
+      "word": "hoteling",
+      "spelling": "H, O, T, E, L, I, N, G",
+      "spoken_meaning": "名词，办公位预订制，共享工位预约，酒店式工位管理",
+      "en": "Under the new hoteling policy, staff reserve desks for the days they come on-site.",
+      "zh": "根据新的工位预订政策，员工在到岗日需提前预约工位。"
+    },
+    {
+      "word": "rolling-forecast",
+      "spelling": "R, O, L, L, I, N, G, hyphen, F, O, R, E, C, A, S, T",
+      "spoken_meaning": "名词，滚动预测，滚动预算预测，持续更新的财务预测",
+      "en": "Finance replaced the static annual budget with a monthly rolling-forecast.",
+      "zh": "财务部用按月滚动预测取代了静态年度预算。"
+    },
+    {
+      "word": "variance-analysis",
+      "spelling": "V, A, R, I, A, N, C, E, hyphen, A, N, A, L, Y, S, I, S",
+      "spoken_meaning": "名词，差异分析，预算差异分析，实际与预算对比解析",
+      "en": "The controller asked for variance-analysis on travel costs that exceeded plan by 18%.",
+      "zh": "财务控制器要求对超出计划 18% 的差旅费用做差异分析。"
+    },
+    {
+      "word": "free-cash-flow",
+      "spelling": "F, R, E, E, hyphen, C, A, S, H, hyphen, F, L, O, W",
+      "spoken_meaning": "名词，自由现金流，可自由支配现金，经营现金净额减资本开支后余额",
+      "en": "Strong free-cash-flow allowed the firm to cut debt and raise the dividend.",
+      "zh": "强劲的自由现金流使公司得以减债并提高股息。"
+    },
+    {
+      "word": "days-sales-outstanding",
+      "spelling": "D, A, Y, S, hyphen, S, A, L, E, S, hyphen, O, U, T, S, T, A, N, D, I, N, G",
+      "spoken_meaning": "名词，应收账款周转天数，销售未收天数，DSO",
+      "en": "Credit tightened terms to bring days-sales-outstanding below 40.",
+      "zh": "信贷部门收紧付款条件，以便将应收账款周转天数压到 40 天以下。"
+    },
+    {
+      "word": "lockbox",
+      "spelling": "L, O, C, K, B, O, X",
+      "spoken_meaning": "名词，银行代收箱，锁箱收款服务，集中汇款处理",
+      "en": "Customers mail checks to the bank lockbox so funds clear faster.",
+      "zh": "客户将支票寄至银行代收箱，以便资金更快到账。"
+    },
+    {
+      "word": "remittance-advice",
+      "spelling": "R, E, M, I, T, T, A, N, C, E, hyphen, A, D, V, I, C, E",
+      "spoken_meaning": "名词，汇款通知，付款明细通知单，解款说明",
+      "en": "Please include a remittance-advice so we can apply payment to the correct invoices.",
+      "zh": "请附上汇款通知，以便我们把款项核销到正确的发票上。"
+    },
+    {
+      "word": "packing-list",
+      "spelling": "P, A, C, K, I, N, G, hyphen, L, I, S, T",
+      "spoken_meaning": "名词，装箱单，包装明细单，货物清单",
+      "en": "Customs requested the commercial invoice and packing-list for the shipment.",
+      "zh": "海关要求提供该批货物的商业发票与装箱单。"
+    },
+    {
+      "word": "proof-of-delivery",
+      "spelling": "P, R, O, O, F, hyphen, O, F, hyphen, D, E, L, I, V, E, R, Y",
+      "spoken_meaning": "名词，交货证明，签收凭证，妥投证明",
+      "en": "The carrier uploaded proof-of-delivery within two hours of the drop-off.",
+      "zh": "承运人在送货后两小时内上传了交货证明。"
+    },
+    {
+      "word": "cross-dock",
+      "spelling": "C, R, O, S, S, hyphen, D, O, C, K",
+      "spoken_meaning": "动词或名词，越库，直通式转运，到货即分拨发运",
+      "en": "Perishable goods are cross-docked the same day to avoid cold-storage fees.",
+      "zh": "易腐货物当天越库发运，以避免冷库费用。"
+    },
+    {
+      "word": "just-in-time",
+      "spelling": "J, U, S, T, hyphen, I, N, hyphen, T, I, M, E",
+      "spoken_meaning": "形容词或名词，准时制，即时生产/供货，零库存导向交付",
+      "en": "The plant relies on just-in-time delivery of components from nearby suppliers.",
+      "zh": "该工厂依赖附近供应商的准时制零部件交货。"
+    },
+    {
+      "word": "safety-stock",
+      "spelling": "S, A, F, E, T, Y, hyphen, S, T, O, C, K",
+      "spoken_meaning": "名词，安全库存，缓冲库存，防缺货备货量",
+      "en": "We raised safety-stock on critical chips after two supplier delays.",
+      "zh": "在供应商两次延期后，我们提高了关键芯片的安全库存。"
+    },
+    {
+      "word": "stockout",
+      "spelling": "S, T, O, C, K, O, U, T",
+      "spoken_meaning": "名词，缺货，断货，库存耗尽",
+      "en": "A weekend stockout on the bestseller hurt both sales and customer ratings.",
+      "zh": "周末畅销品断货，既影响了销售额，也拉低了客户评分。"
+    },
+    {
+      "word": "landed-cost",
+      "spelling": "L, A, N, D, E, D, hyphen, C, O, S, T",
+      "spoken_meaning": "名词，到岸成本，落地总成本，含运费税费的最终成本",
+      "en": "Although the unit price is lower overseas, the landed-cost is higher after duties.",
+      "zh": "尽管海外单价更低，但加上关税后的到岸成本反而更高。"
+    },
+    {
+      "word": "preferred-vendor",
+      "spelling": "P, R, E, F, E, R, R, E, D, hyphen, V, E, N, D, O, R",
+      "spoken_meaning": "名词，首选供应商，优选供应商，优先采购名单内的厂商",
+      "en": "Only preferred-vendor firms may bid on IT hardware this year.",
+      "zh": "今年仅首选供应商名单内的公司可参与 IT 硬件投标。"
+    },
+    {
+      "word": "blanket-order",
+      "spelling": "B, L, A, N, K, E, T, hyphen, O, R, D, E, R",
+      "spoken_meaning": "名词，一揽子订单，开口订单，框架采购订单",
+      "en": "Office supplies are purchased against a year-long blanket-order with two distributors.",
+      "zh": "办公用品依据与两家经销商签订的年度一揽子订单采购。"
+    },
+    {
+      "word": "request-for-quotation",
+      "spelling": "R, E, Q, U, E, S, T, hyphen, F, O, R, hyphen, Q, U, O, T, A, T, I, O, N",
+      "spoken_meaning": "名词，询价函，报价请求，RFQ",
+      "en": "Purchasing sent a request-for-quotation for 5,000 units of packaging materials.",
+      "zh": "采购部就五千件包装材料发出了询价函。"
+    },
+    {
+      "word": "sole-source",
+      "spelling": "S, O, L, E, hyphen, S, O, U, R, C, E",
+      "spoken_meaning": "形容词或名词，单一来源的，独家供货，唯一定点采购",
+      "en": "IT submitted sole-source justification because only one vendor supports the legacy system.",
+      "zh": "IT 提交了单一来源理由说明，因为只有一家供应商支持该遗留系统。"
+    },
+    {
+      "word": "certificate-of-origin",
+      "spelling": "C, E, R, T, I, F, I, C, A, T, E, hyphen, O, F, hyphen, O, R, I, G, I, N",
+      "spoken_meaning": "名词，原产地证书，产地证，货物原产证明",
+      "en": "Preferential tariffs apply only if the shipment has a valid certificate-of-origin.",
+      "zh": "只有在货物附有有效原产地证书时，方可适用优惠关税。"
+    },
+    {
+      "word": "raci",
+      "spelling": "R, A, C, I",
+      "spoken_meaning": "名词或形容词，RACI职责矩阵",
+      "en": "Before kickoff, the PMO asked each workstream to publish a RACI for key deliverables.",
+      "zh": "启动前，项目管理办公室要求各工作流就关键交付物公布 RACI。"
+    },
+    {
+      "word": "timeboxing",
+      "spelling": "T, I, M, E, B, O, X, I, N, G",
+      "spoken_meaning": "名词，时间盒管理，限时时段工作法，为任务设定固定时限",
+      "en": "Timeboxing kept the design review to forty minutes and forced clearer priorities.",
+      "zh": "时间盒管理把设计评审压在四十分钟内，并迫使优先级更清晰。"
+    },
+    {
+      "word": "pre-read",
+      "spelling": "P, R, E, hyphen, R, E, A, D",
+      "spoken_meaning": "名词或动词，会前阅读材料，预读材料，会前预习",
+      "en": "Please finish the pre-read by Monday so we can vote on the budget in the meeting.",
+      "zh": "请在周一前完成会前阅读，以便会上对预算进行表决。"
+    },
+    {
+      "word": "after-action-review",
+      "spelling": "A, F, T, E, R, hyphen, A, C, T, I, O, N, hyphen, R, E, V, I, E, W",
+      "spoken_meaning": "名词，行动后复盘，事后检讨会，事后评估回顾",
+      "en": "The launch team held an after-action-review to capture what delayed the go-live.",
+      "zh": "上线团队召开行动后复盘，记录导致上线延误的原因。"
+    },
+    {
+      "word": "postmortem",
+      "spelling": "P, O, S, T, M, O, R, T, E, M",
+      "spoken_meaning": "名词，事后剖析，事故复盘报告，故障复盘",
+      "en": "Engineering published a blameless postmortem within 48 hours of the outage.",
+      "zh": "工程团队在宕机后 48 小时内发布了无责复盘报告。"
+    },
+    {
+      "word": "swimlane",
+      "spelling": "S, W, I, M, L, A, N, E",
+      "spoken_meaning": "名词，泳道图，职责泳道，流程中按角色划分的通道",
+      "en": "The swimlane made it obvious that handoffs between Sales and Finance caused delays.",
+      "zh": "泳道图清楚显示销售与财务之间的交接造成了延误。"
+    },
+    {
+      "word": "decision-rights",
+      "spelling": "D, E, C, I, S, I, O, N, hyphen, R, I, G, H, T, S",
+      "spoken_meaning": "名词，决策权，拍板权限，谁有权做决定的界定",
+      "en": "Blurred decision-rights slowed the vendor selection for weeks.",
+      "zh": "模糊的决策权使供应商遴选拖延了数周。"
+    },
+    {
+      "word": "succession-plan",
+      "spelling": "S, U, C, C, E, S, S, I, O, N, hyphen, P, L, A, N",
+      "spoken_meaning": "名词，继任计划，接班规划，关键岗位后备方案",
+      "en": "The board reviewed the CEO succession-plan after the unexpected resignation.",
+      "zh": "在意外辞职后，董事会审阅了首席执行官继任计划。"
+    },
+    {
+      "word": "pay-band",
+      "spelling": "P, A, Y, hyphen, B, A, N, D",
+      "spoken_meaning": "名词，薪资带宽，薪酬等级区间，工资档位范围",
+      "en": "The offer sits at the 60th percentile of the analyst pay-band.",
+      "zh": "该录用薪资位于分析师薪资带宽的第 60 百分位。"
+    },
+    {
+      "word": "comp-ratio",
+      "spelling": "C, O, M, P, hyphen, R, A, T, I, O",
+      "spoken_meaning": "名词，薪酬比，实际薪资相对带宽中位的比率，工资竞争力指标",
+      "en": "Her comp-ratio of 0.92 suggests room for a market adjustment.",
+      "zh": "她的薪酬比为 0.92，表明仍有市场调薪空间。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第46轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "as-built",
+      "voice": "en",
+      "text": "as built",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "as-built",
+      "voice": "en",
+      "text": "A, S, hyphen, B, U, I, L, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "as-built",
+      "voice": "zh",
+      "text": "形容词或名词，竣工的，竣工图，按实际建成状态的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "as-built",
+      "voice": "en",
+      "text": "Facilities asked for as-built drawings before approving the renovation permit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "as-built",
+      "voice": "zh",
+      "text": "设施部门要求提交竣工图后，才批准装修许可。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hoteling",
+      "voice": "en",
+      "text": "hoteling",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hoteling",
+      "voice": "en",
+      "text": "H, O, T, E, L, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hoteling",
+      "voice": "zh",
+      "text": "名词，办公位预订制，共享工位预约，酒店式工位管理",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hoteling",
+      "voice": "en",
+      "text": "Under the new hoteling policy, staff reserve desks for the days they come on-site.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hoteling",
+      "voice": "zh",
+      "text": "根据新的工位预订政策，员工在到岗日需提前预约工位。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "rolling-forecast",
+      "voice": "en",
+      "text": "rolling forecast",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rolling-forecast",
+      "voice": "en",
+      "text": "R, O, L, L, I, N, G, hyphen, F, O, R, E, C, A, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rolling-forecast",
+      "voice": "zh",
+      "text": "名词，滚动预测，滚动预算预测，持续更新的财务预测",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rolling-forecast",
+      "voice": "en",
+      "text": "Finance replaced the static annual budget with a monthly rolling-forecast.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rolling-forecast",
+      "voice": "zh",
+      "text": "财务部用按月滚动预测取代了静态年度预算。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "variance-analysis",
+      "voice": "en",
+      "text": "variance analysis",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "variance-analysis",
+      "voice": "en",
+      "text": "V, A, R, I, A, N, C, E, hyphen, A, N, A, L, Y, S, I, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "variance-analysis",
+      "voice": "zh",
+      "text": "名词，差异分析，预算差异分析，实际与预算对比解析",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "variance-analysis",
+      "voice": "en",
+      "text": "The controller asked for variance-analysis on travel costs that exceeded plan by 18%.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "variance-analysis",
+      "voice": "zh",
+      "text": "财务控制器要求对超出计划 18% 的差旅费用做差异分析。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "free-cash-flow",
+      "voice": "en",
+      "text": "free cash flow",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "free-cash-flow",
+      "voice": "en",
+      "text": "F, R, E, E, hyphen, C, A, S, H, hyphen, F, L, O, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "free-cash-flow",
+      "voice": "zh",
+      "text": "名词，自由现金流，可自由支配现金，经营现金净额减资本开支后余额",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "free-cash-flow",
+      "voice": "en",
+      "text": "Strong free-cash-flow allowed the firm to cut debt and raise the dividend.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "free-cash-flow",
+      "voice": "zh",
+      "text": "强劲的自由现金流使公司得以减债并提高股息。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "days-sales-outstanding",
+      "voice": "en",
+      "text": "days sales outstanding",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "days-sales-outstanding",
+      "voice": "en",
+      "text": "D, A, Y, S, hyphen, S, A, L, E, S, hyphen, O, U, T, S, T, A, N, D, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "days-sales-outstanding",
+      "voice": "zh",
+      "text": "名词，应收账款周转天数，销售未收天数，DSO",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "days-sales-outstanding",
+      "voice": "en",
+      "text": "Credit tightened terms to bring days-sales-outstanding below 40.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "days-sales-outstanding",
+      "voice": "zh",
+      "text": "信贷部门收紧付款条件，以便将应收账款周转天数压到 40 天以下。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lockbox",
+      "voice": "en",
+      "text": "lockbox",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lockbox",
+      "voice": "en",
+      "text": "L, O, C, K, B, O, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lockbox",
+      "voice": "zh",
+      "text": "名词，银行代收箱，锁箱收款服务，集中汇款处理",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lockbox",
+      "voice": "en",
+      "text": "Customers mail checks to the bank lockbox so funds clear faster.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lockbox",
+      "voice": "zh",
+      "text": "客户将支票寄至银行代收箱，以便资金更快到账。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "remittance-advice",
+      "voice": "en",
+      "text": "remittance advice",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "remittance-advice",
+      "voice": "en",
+      "text": "R, E, M, I, T, T, A, N, C, E, hyphen, A, D, V, I, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "remittance-advice",
+      "voice": "zh",
+      "text": "名词，汇款通知，付款明细通知单，解款说明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "remittance-advice",
+      "voice": "en",
+      "text": "Please include a remittance-advice so we can apply payment to the correct invoices.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "remittance-advice",
+      "voice": "zh",
+      "text": "请附上汇款通知，以便我们把款项核销到正确的发票上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "packing-list",
+      "voice": "en",
+      "text": "packing list",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "packing-list",
+      "voice": "en",
+      "text": "P, A, C, K, I, N, G, hyphen, L, I, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "packing-list",
+      "voice": "zh",
+      "text": "名词，装箱单，包装明细单，货物清单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "packing-list",
+      "voice": "en",
+      "text": "Customs requested the commercial invoice and packing-list for the shipment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "packing-list",
+      "voice": "zh",
+      "text": "海关要求提供该批货物的商业发票与装箱单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "proof-of-delivery",
+      "voice": "en",
+      "text": "proof of delivery",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "proof-of-delivery",
+      "voice": "en",
+      "text": "P, R, O, O, F, hyphen, O, F, hyphen, D, E, L, I, V, E, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "proof-of-delivery",
+      "voice": "zh",
+      "text": "名词，交货证明，签收凭证，妥投证明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "proof-of-delivery",
+      "voice": "en",
+      "text": "The carrier uploaded proof-of-delivery within two hours of the drop-off.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "proof-of-delivery",
+      "voice": "zh",
+      "text": "承运人在送货后两小时内上传了交货证明。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cross-dock",
+      "voice": "en",
+      "text": "cross dock",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cross-dock",
+      "voice": "en",
+      "text": "C, R, O, S, S, hyphen, D, O, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cross-dock",
+      "voice": "zh",
+      "text": "动词或名词，越库，直通式转运，到货即分拨发运",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cross-dock",
+      "voice": "en",
+      "text": "Perishable goods are cross-docked the same day to avoid cold-storage fees.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cross-dock",
+      "voice": "zh",
+      "text": "易腐货物当天越库发运，以避免冷库费用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "just-in-time",
+      "voice": "en",
+      "text": "just in time",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "just-in-time",
+      "voice": "en",
+      "text": "J, U, S, T, hyphen, I, N, hyphen, T, I, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "just-in-time",
+      "voice": "zh",
+      "text": "形容词或名词，准时制，即时生产/供货，零库存导向交付",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "just-in-time",
+      "voice": "en",
+      "text": "The plant relies on just-in-time delivery of components from nearby suppliers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "just-in-time",
+      "voice": "zh",
+      "text": "该工厂依赖附近供应商的准时制零部件交货。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "safety-stock",
+      "voice": "en",
+      "text": "safety stock",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "safety-stock",
+      "voice": "en",
+      "text": "S, A, F, E, T, Y, hyphen, S, T, O, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "safety-stock",
+      "voice": "zh",
+      "text": "名词，安全库存，缓冲库存，防缺货备货量",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "safety-stock",
+      "voice": "en",
+      "text": "We raised safety-stock on critical chips after two supplier delays.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "safety-stock",
+      "voice": "zh",
+      "text": "在供应商两次延期后，我们提高了关键芯片的安全库存。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stockout",
+      "voice": "en",
+      "text": "stockout",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stockout",
+      "voice": "en",
+      "text": "S, T, O, C, K, O, U, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stockout",
+      "voice": "zh",
+      "text": "名词，缺货，断货，库存耗尽",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stockout",
+      "voice": "en",
+      "text": "A weekend stockout on the bestseller hurt both sales and customer ratings.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stockout",
+      "voice": "zh",
+      "text": "周末畅销品断货，既影响了销售额，也拉低了客户评分。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "landed-cost",
+      "voice": "en",
+      "text": "landed cost",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "landed-cost",
+      "voice": "en",
+      "text": "L, A, N, D, E, D, hyphen, C, O, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "landed-cost",
+      "voice": "zh",
+      "text": "名词，到岸成本，落地总成本，含运费税费的最终成本",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "landed-cost",
+      "voice": "en",
+      "text": "Although the unit price is lower overseas, the landed-cost is higher after duties.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "landed-cost",
+      "voice": "zh",
+      "text": "尽管海外单价更低，但加上关税后的到岸成本反而更高。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "preferred-vendor",
+      "voice": "en",
+      "text": "preferred vendor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "preferred-vendor",
+      "voice": "en",
+      "text": "P, R, E, F, E, R, R, E, D, hyphen, V, E, N, D, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "preferred-vendor",
+      "voice": "zh",
+      "text": "名词，首选供应商，优选供应商，优先采购名单内的厂商",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "preferred-vendor",
+      "voice": "en",
+      "text": "Only preferred-vendor firms may bid on IT hardware this year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "preferred-vendor",
+      "voice": "zh",
+      "text": "今年仅首选供应商名单内的公司可参与 IT 硬件投标。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "blanket-order",
+      "voice": "en",
+      "text": "blanket order",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "blanket-order",
+      "voice": "en",
+      "text": "B, L, A, N, K, E, T, hyphen, O, R, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "blanket-order",
+      "voice": "zh",
+      "text": "名词，一揽子订单，开口订单，框架采购订单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "blanket-order",
+      "voice": "en",
+      "text": "Office supplies are purchased against a year-long blanket-order with two distributors.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "blanket-order",
+      "voice": "zh",
+      "text": "办公用品依据与两家经销商签订的年度一揽子订单采购。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "request-for-quotation",
+      "voice": "en",
+      "text": "request for quotation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "request-for-quotation",
+      "voice": "en",
+      "text": "R, E, Q, U, E, S, T, hyphen, F, O, R, hyphen, Q, U, O, T, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "request-for-quotation",
+      "voice": "zh",
+      "text": "名词，询价函，报价请求，RFQ",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "request-for-quotation",
+      "voice": "en",
+      "text": "Purchasing sent a request-for-quotation for 5,000 units of packaging materials.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "request-for-quotation",
+      "voice": "zh",
+      "text": "采购部就五千件包装材料发出了询价函。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sole-source",
+      "voice": "en",
+      "text": "sole source",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sole-source",
+      "voice": "en",
+      "text": "S, O, L, E, hyphen, S, O, U, R, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sole-source",
+      "voice": "zh",
+      "text": "形容词或名词，单一来源的，独家供货，唯一定点采购",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sole-source",
+      "voice": "en",
+      "text": "IT submitted sole-source justification because only one vendor supports the legacy system.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sole-source",
+      "voice": "zh",
+      "text": "IT 提交了单一来源理由说明，因为只有一家供应商支持该遗留系统。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "certificate-of-origin",
+      "voice": "en",
+      "text": "certificate of origin",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "certificate-of-origin",
+      "voice": "en",
+      "text": "C, E, R, T, I, F, I, C, A, T, E, hyphen, O, F, hyphen, O, R, I, G, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "certificate-of-origin",
+      "voice": "zh",
+      "text": "名词，原产地证书，产地证，货物原产证明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "certificate-of-origin",
+      "voice": "en",
+      "text": "Preferential tariffs apply only if the shipment has a valid certificate-of-origin.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "certificate-of-origin",
+      "voice": "zh",
+      "text": "只有在货物附有有效原产地证书时，方可适用优惠关税。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "raci",
+      "voice": "en",
+      "text": "raci",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "raci",
+      "voice": "en",
+      "text": "R, A, C, I",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "raci",
+      "voice": "zh",
+      "text": "名词或形容词，RACI职责矩阵",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "raci",
+      "voice": "en",
+      "text": "Before kickoff, the PMO asked each workstream to publish a RACI for key deliverables.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "raci",
+      "voice": "zh",
+      "text": "启动前，项目管理办公室要求各工作流就关键交付物公布 RACI。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "timeboxing",
+      "voice": "en",
+      "text": "timeboxing",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "timeboxing",
+      "voice": "en",
+      "text": "T, I, M, E, B, O, X, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "timeboxing",
+      "voice": "zh",
+      "text": "名词，时间盒管理，限时时段工作法，为任务设定固定时限",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "timeboxing",
+      "voice": "en",
+      "text": "Timeboxing kept the design review to forty minutes and forced clearer priorities.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "timeboxing",
+      "voice": "zh",
+      "text": "时间盒管理把设计评审压在四十分钟内，并迫使优先级更清晰。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "pre-read",
+      "voice": "en",
+      "text": "pre read",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "pre-read",
+      "voice": "en",
+      "text": "P, R, E, hyphen, R, E, A, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "pre-read",
+      "voice": "zh",
+      "text": "名词或动词，会前阅读材料，预读材料，会前预习",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "pre-read",
+      "voice": "en",
+      "text": "Please finish the pre-read by Monday so we can vote on the budget in the meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "pre-read",
+      "voice": "zh",
+      "text": "请在周一前完成会前阅读，以便会上对预算进行表决。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "after-action-review",
+      "voice": "en",
+      "text": "after action review",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "after-action-review",
+      "voice": "en",
+      "text": "A, F, T, E, R, hyphen, A, C, T, I, O, N, hyphen, R, E, V, I, E, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "after-action-review",
+      "voice": "zh",
+      "text": "名词，行动后复盘，事后检讨会，事后评估回顾",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "after-action-review",
+      "voice": "en",
+      "text": "The launch team held an after-action-review to capture what delayed the go-live.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "after-action-review",
+      "voice": "zh",
+      "text": "上线团队召开行动后复盘，记录导致上线延误的原因。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "postmortem",
+      "voice": "en",
+      "text": "postmortem",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "postmortem",
+      "voice": "en",
+      "text": "P, O, S, T, M, O, R, T, E, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "postmortem",
+      "voice": "zh",
+      "text": "名词，事后剖析，事故复盘报告，故障复盘",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "postmortem",
+      "voice": "en",
+      "text": "Engineering published a blameless postmortem within 48 hours of the outage.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "postmortem",
+      "voice": "zh",
+      "text": "工程团队在宕机后 48 小时内发布了无责复盘报告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "swimlane",
+      "voice": "en",
+      "text": "swimlane",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "swimlane",
+      "voice": "en",
+      "text": "S, W, I, M, L, A, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "swimlane",
+      "voice": "zh",
+      "text": "名词，泳道图，职责泳道，流程中按角色划分的通道",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "swimlane",
+      "voice": "en",
+      "text": "The swimlane made it obvious that handoffs between Sales and Finance caused delays.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "swimlane",
+      "voice": "zh",
+      "text": "泳道图清楚显示销售与财务之间的交接造成了延误。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "decision-rights",
+      "voice": "en",
+      "text": "decision rights",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "decision-rights",
+      "voice": "en",
+      "text": "D, E, C, I, S, I, O, N, hyphen, R, I, G, H, T, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "decision-rights",
+      "voice": "zh",
+      "text": "名词，决策权，拍板权限，谁有权做决定的界定",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "decision-rights",
+      "voice": "en",
+      "text": "Blurred decision-rights slowed the vendor selection for weeks.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "decision-rights",
+      "voice": "zh",
+      "text": "模糊的决策权使供应商遴选拖延了数周。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "succession-plan",
+      "voice": "en",
+      "text": "succession plan",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "succession-plan",
+      "voice": "en",
+      "text": "S, U, C, C, E, S, S, I, O, N, hyphen, P, L, A, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "succession-plan",
+      "voice": "zh",
+      "text": "名词，继任计划，接班规划，关键岗位后备方案",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "succession-plan",
+      "voice": "en",
+      "text": "The board reviewed the CEO succession-plan after the unexpected resignation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "succession-plan",
+      "voice": "zh",
+      "text": "在意外辞职后，董事会审阅了首席执行官继任计划。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "pay-band",
+      "voice": "en",
+      "text": "pay band",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "pay-band",
+      "voice": "en",
+      "text": "P, A, Y, hyphen, B, A, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "pay-band",
+      "voice": "zh",
+      "text": "名词，薪资带宽，薪酬等级区间，工资档位范围",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "pay-band",
+      "voice": "en",
+      "text": "The offer sits at the 60th percentile of the analyst pay-band.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "pay-band",
+      "voice": "zh",
+      "text": "该录用薪资位于分析师薪资带宽的第 60 百分位。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "comp-ratio",
+      "voice": "en",
+      "text": "comp ratio",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "comp-ratio",
+      "voice": "en",
+      "text": "C, O, M, P, hyphen, R, A, T, I, O",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "comp-ratio",
+      "voice": "zh",
+      "text": "名词，薪酬比，实际薪资相对带宽中位的比率，工资竞争力指标",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "comp-ratio",
+      "voice": "en",
+      "text": "Her comp-ratio of 0.92 suggests room for a market adjustment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "comp-ratio",
+      "voice": "zh",
+      "text": "她的薪酬比为 0.92，表明仍有市场调薪空间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第46轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

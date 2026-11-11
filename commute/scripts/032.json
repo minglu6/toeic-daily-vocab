@@ -1,0 +1,1314 @@
+{
+  "id": "032",
+  "track": 32,
+  "title": "第 32 轨",
+  "word_count": 30,
+  "headwords": [
+    "inhibit",
+    "initiative",
+    "innovative",
+    "insight",
+    "inspection",
+    "instrumental",
+    "intake",
+    "integral",
+    "intensive",
+    "intermediate",
+    "interpreter",
+    "itemize",
+    "journal",
+    "judgment",
+    "jurisdiction",
+    "kiosk",
+    "legitimate",
+    "leverage",
+    "liaison",
+    "litigation",
+    "lag",
+    "landmark",
+    "legible",
+    "lender",
+    "likelihood",
+    "limitation",
+    "liquidity",
+    "listing",
+    "mandate",
+    "manuscript"
+  ],
+  "entries": [
+    {
+      "word": "inhibit",
+      "spelling": "I, N, H, I, B, I, T",
+      "spoken_meaning": "动词，抑制，阻碍，限制",
+      "en": "High shipping costs may inhibit the growth of our overseas sales.",
+      "zh": "高昂的运费可能会抑制我们海外销售的增长。"
+    },
+    {
+      "word": "initiative",
+      "spelling": "I, N, I, T, I, A, T, I, V, E",
+      "spoken_meaning": "名词，（新）计划、举措，主动性",
+      "en": "The company launched a new initiative to reduce paper use in all branch offices.",
+      "zh": "公司推出一项新举措，减少所有分公司的纸张使用。"
+    },
+    {
+      "word": "innovative",
+      "spelling": "I, N, N, O, V, A, T, I, V, E",
+      "spoken_meaning": "形容词，创新的，革新的",
+      "en": "The firm won an award for its innovative approach to energy-efficient packaging.",
+      "zh": "该公司因其节能包装的创新方法而获奖。"
+    },
+    {
+      "word": "insight",
+      "spelling": "I, N, S, I, G, H, T",
+      "spoken_meaning": "名词，洞察（力），深刻见解",
+      "en": "The survey gave us valuable insight into what customers expect from our app.",
+      "zh": "这项调查让我们深入了解了顾客对我们应用程序的期望。"
+    },
+    {
+      "word": "inspection",
+      "spelling": "I, N, S, P, E, C, T, I, O, N",
+      "spoken_meaning": "名词，检查，视察，检验",
+      "en": "The warehouse will close early on Friday for its annual safety inspection.",
+      "zh": "仓库周五将提前关闭，进行年度安全检查。"
+    },
+    {
+      "word": "instrumental",
+      "spelling": "I, N, S, T, R, U, M, E, N, T, A, L",
+      "spoken_meaning": "形容词，起重要作用的，有帮助的",
+      "en": "Ms. Patel was instrumental in securing the contract with our largest client.",
+      "zh": "帕特尔女士在拿下与最大客户的合同中发挥了关键作用。"
+    },
+    {
+      "word": "intake",
+      "spelling": "I, N, T, A, K, E",
+      "spoken_meaning": "名词，摄入量，（人员）招收数量，吸入",
+      "en": "This year's graduate intake is the largest in the company's history.",
+      "zh": "今年招收的毕业生人数是公司历史上最多的。"
+    },
+    {
+      "word": "integral",
+      "spelling": "I, N, T, E, G, R, A, L",
+      "spoken_meaning": "形容词，不可或缺的，构成整体所必需的",
+      "en": "Clear communication is an integral part of every successful project.",
+      "zh": "清晰的沟通是每个成功项目不可或缺的部分。"
+    },
+    {
+      "word": "intensive",
+      "spelling": "I, N, T, E, N, S, I, V, E",
+      "spoken_meaning": "形容词，密集的，强化的，集中的",
+      "en": "New sales staff complete a two-week intensive training program before meeting clients.",
+      "zh": "新销售人员在接触客户前需完成为期两周的强化培训。"
+    },
+    {
+      "word": "intermediate",
+      "spelling": "I, N, T, E, R, M, E, D, I, A, T, E",
+      "spoken_meaning": "形容词，中级的，中间的",
+      "en": "The Spanish class is designed for employees with an intermediate level of proficiency.",
+      "zh": "这门西班牙语课程是为具备中级水平的员工设计的。"
+    },
+    {
+      "word": "interpreter",
+      "spelling": "I, N, T, E, R, P, R, E, T, E, R",
+      "spoken_meaning": "名词，口译员，解释者",
+      "en": "An interpreter will be available for delegates who do not speak English.",
+      "zh": "会为不会说英语的代表们提供口译员。"
+    },
+    {
+      "word": "itemize",
+      "spelling": "I, T, E, M, I, Z, E",
+      "spoken_meaning": "动词，逐项列出，分项记载",
+      "en": "Please attach an itemized receipt to each expense report you submit.",
+      "zh": "请在每份报销单上附上明细收据。"
+    },
+    {
+      "word": "journal",
+      "spelling": "J, O, U, R, N, A, L",
+      "spoken_meaning": "名词，期刊，日志，日记",
+      "en": "Dr. Lin's findings were published in a leading medical journal last month.",
+      "zh": "林博士的研究结果上个月发表在一份权威医学期刊上。"
+    },
+    {
+      "word": "judgment",
+      "spelling": "J, U, D, G, M, E, N, T",
+      "spoken_meaning": "名词，判断（力），看法，判决",
+      "en": "Shift supervisors are expected to use their judgment when handling customer complaints.",
+      "zh": "值班主管在处理客户投诉时需自行做出判断。"
+    },
+    {
+      "word": "jurisdiction",
+      "spelling": "J, U, R, I, S, D, I, C, T, I, O, N",
+      "spoken_meaning": "名词，管辖权，司法权，管辖范围",
+      "en": "Building permits in this area fall under the jurisdiction of the city planning office.",
+      "zh": "该地区的建筑许可归市规划办公室管辖。"
+    },
+    {
+      "word": "kiosk",
+      "spelling": "K, I, O, S, K",
+      "spoken_meaning": "名词，（自助）服务终端机，售货亭，报刊亭",
+      "en": "Passengers can print their boarding passes at any of the check-in kiosks.",
+      "zh": "乘客可以在任意一台自助值机机上打印登机牌。"
+    },
+    {
+      "word": "legitimate",
+      "spelling": "L, E, G, I, T, I, M, A, T, E",
+      "spoken_meaning": "形容词，合法的，正当的，合理的",
+      "en": "Employees who raise legitimate concerns about safety will not face any penalty.",
+      "zh": "提出合理安全担忧的员工不会受到任何处罚。"
+    },
+    {
+      "word": "leverage",
+      "spelling": "L, E, V, E, R, A, G, E",
+      "spoken_meaning": "动词或名词，（v.）充分利用，（n.）影响力，杠杆作用",
+      "en": "We plan to leverage our existing client network to promote the new service.",
+      "zh": "我们计划利用现有客户网络推广这项新服务。"
+    },
+    {
+      "word": "liaison",
+      "spelling": "L, I, A, I, S, O, N",
+      "spoken_meaning": "名词，联络人，联络，协作",
+      "en": "Mr. Ortiz will act as a liaison between the design team and the client.",
+      "zh": "奥尔蒂斯先生将担任设计团队与客户之间的联络人。"
+    },
+    {
+      "word": "litigation",
+      "spelling": "L, I, T, I, G, A, T, I, O, N",
+      "spoken_meaning": "名词，诉讼，打官司",
+      "en": "Both companies agreed to settle the dispute privately to avoid costly litigation.",
+      "zh": "两家公司同意私下解决纠纷，以避免代价高昂的诉讼。"
+    },
+    {
+      "word": "lag",
+      "spelling": "L, A, G",
+      "spoken_meaning": "动词或名词，落后，滞后，时间差",
+      "en": "Our online sales continue to lag behind those of our main competitor.",
+      "zh": "我们的线上销售额仍落后于主要竞争对手。"
+    },
+    {
+      "word": "landmark",
+      "spelling": "L, A, N, D, M, A, R, K",
+      "spoken_meaning": "名词或形容词，地标，里程碑，具有里程碑意义的",
+      "en": "The hotel is within walking distance of several famous landmarks.",
+      "zh": "这家酒店步行即可到达几处著名地标。"
+    },
+    {
+      "word": "legible",
+      "spelling": "L, E, G, I, B, L, E",
+      "spoken_meaning": "形容词，（字迹）清晰可辨的，易读的",
+      "en": "Please make sure your signature on the form is legible.",
+      "zh": "请确保您在表格上的签名清晰可辨。"
+    },
+    {
+      "word": "lender",
+      "spelling": "L, E, N, D, E, R",
+      "spoken_meaning": "名词，贷款人，放贷机构",
+      "en": "The company is negotiating new loan terms with its lender.",
+      "zh": "公司正与贷款机构协商新的贷款条款。"
+    },
+    {
+      "word": "likelihood",
+      "spelling": "L, I, K, E, L, I, H, O, O, D",
+      "spoken_meaning": "名词，可能性",
+      "en": "Booking early reduces the likelihood of paying higher fares.",
+      "zh": "提早预订可以降低支付更高票价的可能性。"
+    },
+    {
+      "word": "limitation",
+      "spelling": "L, I, M, I, T, A, T, I, O, N",
+      "spoken_meaning": "名词，限制，局限",
+      "en": "Due to space limitations, only registered guests may attend the seminar.",
+      "zh": "由于场地有限，只有已登记的来宾才能参加研讨会。"
+    },
+    {
+      "word": "liquidity",
+      "spelling": "L, I, Q, U, I, D, I, T, Y",
+      "spoken_meaning": "名词，（资产）流动性，变现能力",
+      "en": "The firm sold some assets to improve its liquidity.",
+      "zh": "公司出售部分资产以改善资金流动性。"
+    },
+    {
+      "word": "listing",
+      "spelling": "L, I, S, T, I, N, G",
+      "spoken_meaning": "名词，清单中的条目，（房产/招聘）登载信息",
+      "en": "Check the company website for current job listings.",
+      "zh": "请查看公司官网了解当前的招聘信息。"
+    },
+    {
+      "word": "mandate",
+      "spelling": "M, A, N, D, A, T, E",
+      "spoken_meaning": "名词或动词，授权，命令，强制要求",
+      "en": "New regulations mandate that all employees complete safety training annually.",
+      "zh": "新规定要求所有员工每年完成安全培训。"
+    },
+    {
+      "word": "manuscript",
+      "spelling": "M, A, N, U, S, C, R, I, P, T",
+      "spoken_meaning": "名词，手稿，原稿",
+      "en": "Authors must submit their manuscripts by the end of the month.",
+      "zh": "作者须在月底前提交稿件。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第32轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "inhibit",
+      "voice": "en",
+      "text": "inhibit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "inhibit",
+      "voice": "en",
+      "text": "I, N, H, I, B, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "inhibit",
+      "voice": "zh",
+      "text": "动词，抑制，阻碍，限制",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "inhibit",
+      "voice": "en",
+      "text": "High shipping costs may inhibit the growth of our overseas sales.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "inhibit",
+      "voice": "zh",
+      "text": "高昂的运费可能会抑制我们海外销售的增长。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "initiative",
+      "voice": "en",
+      "text": "initiative",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "initiative",
+      "voice": "en",
+      "text": "I, N, I, T, I, A, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "initiative",
+      "voice": "zh",
+      "text": "名词，（新）计划、举措，主动性",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "initiative",
+      "voice": "en",
+      "text": "The company launched a new initiative to reduce paper use in all branch offices.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "initiative",
+      "voice": "zh",
+      "text": "公司推出一项新举措，减少所有分公司的纸张使用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "innovative",
+      "voice": "en",
+      "text": "innovative",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "innovative",
+      "voice": "en",
+      "text": "I, N, N, O, V, A, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "innovative",
+      "voice": "zh",
+      "text": "形容词，创新的，革新的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "innovative",
+      "voice": "en",
+      "text": "The firm won an award for its innovative approach to energy-efficient packaging.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "innovative",
+      "voice": "zh",
+      "text": "该公司因其节能包装的创新方法而获奖。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "insight",
+      "voice": "en",
+      "text": "insight",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "insight",
+      "voice": "en",
+      "text": "I, N, S, I, G, H, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "insight",
+      "voice": "zh",
+      "text": "名词，洞察（力），深刻见解",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "insight",
+      "voice": "en",
+      "text": "The survey gave us valuable insight into what customers expect from our app.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "insight",
+      "voice": "zh",
+      "text": "这项调查让我们深入了解了顾客对我们应用程序的期望。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "inspection",
+      "voice": "en",
+      "text": "inspection",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "inspection",
+      "voice": "en",
+      "text": "I, N, S, P, E, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "inspection",
+      "voice": "zh",
+      "text": "名词，检查，视察，检验",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "inspection",
+      "voice": "en",
+      "text": "The warehouse will close early on Friday for its annual safety inspection.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "inspection",
+      "voice": "zh",
+      "text": "仓库周五将提前关闭，进行年度安全检查。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "instrumental",
+      "voice": "en",
+      "text": "instrumental",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "instrumental",
+      "voice": "en",
+      "text": "I, N, S, T, R, U, M, E, N, T, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "instrumental",
+      "voice": "zh",
+      "text": "形容词，起重要作用的，有帮助的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "instrumental",
+      "voice": "en",
+      "text": "Ms. Patel was instrumental in securing the contract with our largest client.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "instrumental",
+      "voice": "zh",
+      "text": "帕特尔女士在拿下与最大客户的合同中发挥了关键作用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "intake",
+      "voice": "en",
+      "text": "intake",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "intake",
+      "voice": "en",
+      "text": "I, N, T, A, K, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "intake",
+      "voice": "zh",
+      "text": "名词，摄入量，（人员）招收数量，吸入",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "intake",
+      "voice": "en",
+      "text": "This year's graduate intake is the largest in the company's history.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "intake",
+      "voice": "zh",
+      "text": "今年招收的毕业生人数是公司历史上最多的。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "integral",
+      "voice": "en",
+      "text": "integral",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "integral",
+      "voice": "en",
+      "text": "I, N, T, E, G, R, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "integral",
+      "voice": "zh",
+      "text": "形容词，不可或缺的，构成整体所必需的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "integral",
+      "voice": "en",
+      "text": "Clear communication is an integral part of every successful project.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "integral",
+      "voice": "zh",
+      "text": "清晰的沟通是每个成功项目不可或缺的部分。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "intensive",
+      "voice": "en",
+      "text": "intensive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "intensive",
+      "voice": "en",
+      "text": "I, N, T, E, N, S, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "intensive",
+      "voice": "zh",
+      "text": "形容词，密集的，强化的，集中的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "intensive",
+      "voice": "en",
+      "text": "New sales staff complete a two-week intensive training program before meeting clients.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "intensive",
+      "voice": "zh",
+      "text": "新销售人员在接触客户前需完成为期两周的强化培训。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "intermediate",
+      "voice": "en",
+      "text": "intermediate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "intermediate",
+      "voice": "en",
+      "text": "I, N, T, E, R, M, E, D, I, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "intermediate",
+      "voice": "zh",
+      "text": "形容词，中级的，中间的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "intermediate",
+      "voice": "en",
+      "text": "The Spanish class is designed for employees with an intermediate level of proficiency.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "intermediate",
+      "voice": "zh",
+      "text": "这门西班牙语课程是为具备中级水平的员工设计的。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "interpreter",
+      "voice": "en",
+      "text": "interpreter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "interpreter",
+      "voice": "en",
+      "text": "I, N, T, E, R, P, R, E, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "interpreter",
+      "voice": "zh",
+      "text": "名词，口译员，解释者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "interpreter",
+      "voice": "en",
+      "text": "An interpreter will be available for delegates who do not speak English.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "interpreter",
+      "voice": "zh",
+      "text": "会为不会说英语的代表们提供口译员。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "itemize",
+      "voice": "en",
+      "text": "itemize",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "itemize",
+      "voice": "en",
+      "text": "I, T, E, M, I, Z, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "itemize",
+      "voice": "zh",
+      "text": "动词，逐项列出，分项记载",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "itemize",
+      "voice": "en",
+      "text": "Please attach an itemized receipt to each expense report you submit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "itemize",
+      "voice": "zh",
+      "text": "请在每份报销单上附上明细收据。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "journal",
+      "voice": "en",
+      "text": "journal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "journal",
+      "voice": "en",
+      "text": "J, O, U, R, N, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "journal",
+      "voice": "zh",
+      "text": "名词，期刊，日志，日记",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "journal",
+      "voice": "en",
+      "text": "Dr. Lin's findings were published in a leading medical journal last month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "journal",
+      "voice": "zh",
+      "text": "林博士的研究结果上个月发表在一份权威医学期刊上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "judgment",
+      "voice": "en",
+      "text": "judgment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "judgment",
+      "voice": "en",
+      "text": "J, U, D, G, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "judgment",
+      "voice": "zh",
+      "text": "名词，判断（力），看法，判决",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "judgment",
+      "voice": "en",
+      "text": "Shift supervisors are expected to use their judgment when handling customer complaints.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "judgment",
+      "voice": "zh",
+      "text": "值班主管在处理客户投诉时需自行做出判断。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "jurisdiction",
+      "voice": "en",
+      "text": "jurisdiction",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "jurisdiction",
+      "voice": "en",
+      "text": "J, U, R, I, S, D, I, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "jurisdiction",
+      "voice": "zh",
+      "text": "名词，管辖权，司法权，管辖范围",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "jurisdiction",
+      "voice": "en",
+      "text": "Building permits in this area fall under the jurisdiction of the city planning office.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "jurisdiction",
+      "voice": "zh",
+      "text": "该地区的建筑许可归市规划办公室管辖。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "kiosk",
+      "voice": "en",
+      "text": "kiosk",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "kiosk",
+      "voice": "en",
+      "text": "K, I, O, S, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "kiosk",
+      "voice": "zh",
+      "text": "名词，（自助）服务终端机，售货亭，报刊亭",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "kiosk",
+      "voice": "en",
+      "text": "Passengers can print their boarding passes at any of the check-in kiosks.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "kiosk",
+      "voice": "zh",
+      "text": "乘客可以在任意一台自助值机机上打印登机牌。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "legitimate",
+      "voice": "en",
+      "text": "legitimate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "legitimate",
+      "voice": "en",
+      "text": "L, E, G, I, T, I, M, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "legitimate",
+      "voice": "zh",
+      "text": "形容词，合法的，正当的，合理的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "legitimate",
+      "voice": "en",
+      "text": "Employees who raise legitimate concerns about safety will not face any penalty.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "legitimate",
+      "voice": "zh",
+      "text": "提出合理安全担忧的员工不会受到任何处罚。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "leverage",
+      "voice": "en",
+      "text": "leverage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "leverage",
+      "voice": "en",
+      "text": "L, E, V, E, R, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "leverage",
+      "voice": "zh",
+      "text": "动词或名词，（v.）充分利用，（n.）影响力，杠杆作用",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "leverage",
+      "voice": "en",
+      "text": "We plan to leverage our existing client network to promote the new service.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "leverage",
+      "voice": "zh",
+      "text": "我们计划利用现有客户网络推广这项新服务。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "liaison",
+      "voice": "en",
+      "text": "liaison",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "liaison",
+      "voice": "en",
+      "text": "L, I, A, I, S, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "liaison",
+      "voice": "zh",
+      "text": "名词，联络人，联络，协作",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "liaison",
+      "voice": "en",
+      "text": "Mr. Ortiz will act as a liaison between the design team and the client.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "liaison",
+      "voice": "zh",
+      "text": "奥尔蒂斯先生将担任设计团队与客户之间的联络人。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "litigation",
+      "voice": "en",
+      "text": "litigation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "litigation",
+      "voice": "en",
+      "text": "L, I, T, I, G, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "litigation",
+      "voice": "zh",
+      "text": "名词，诉讼，打官司",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "litigation",
+      "voice": "en",
+      "text": "Both companies agreed to settle the dispute privately to avoid costly litigation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "litigation",
+      "voice": "zh",
+      "text": "两家公司同意私下解决纠纷，以避免代价高昂的诉讼。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lag",
+      "voice": "en",
+      "text": "lag",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lag",
+      "voice": "en",
+      "text": "L, A, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lag",
+      "voice": "zh",
+      "text": "动词或名词，落后，滞后，时间差",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lag",
+      "voice": "en",
+      "text": "Our online sales continue to lag behind those of our main competitor.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lag",
+      "voice": "zh",
+      "text": "我们的线上销售额仍落后于主要竞争对手。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "landmark",
+      "voice": "en",
+      "text": "landmark",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "landmark",
+      "voice": "en",
+      "text": "L, A, N, D, M, A, R, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "landmark",
+      "voice": "zh",
+      "text": "名词或形容词，地标，里程碑，具有里程碑意义的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "landmark",
+      "voice": "en",
+      "text": "The hotel is within walking distance of several famous landmarks.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "landmark",
+      "voice": "zh",
+      "text": "这家酒店步行即可到达几处著名地标。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "legible",
+      "voice": "en",
+      "text": "legible",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "legible",
+      "voice": "en",
+      "text": "L, E, G, I, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "legible",
+      "voice": "zh",
+      "text": "形容词，（字迹）清晰可辨的，易读的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "legible",
+      "voice": "en",
+      "text": "Please make sure your signature on the form is legible.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "legible",
+      "voice": "zh",
+      "text": "请确保您在表格上的签名清晰可辨。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lender",
+      "voice": "en",
+      "text": "lender",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lender",
+      "voice": "en",
+      "text": "L, E, N, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lender",
+      "voice": "zh",
+      "text": "名词，贷款人，放贷机构",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lender",
+      "voice": "en",
+      "text": "The company is negotiating new loan terms with its lender.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lender",
+      "voice": "zh",
+      "text": "公司正与贷款机构协商新的贷款条款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "likelihood",
+      "voice": "en",
+      "text": "likelihood",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "likelihood",
+      "voice": "en",
+      "text": "L, I, K, E, L, I, H, O, O, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "likelihood",
+      "voice": "zh",
+      "text": "名词，可能性",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "likelihood",
+      "voice": "en",
+      "text": "Booking early reduces the likelihood of paying higher fares.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "likelihood",
+      "voice": "zh",
+      "text": "提早预订可以降低支付更高票价的可能性。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "limitation",
+      "voice": "en",
+      "text": "limitation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "limitation",
+      "voice": "en",
+      "text": "L, I, M, I, T, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "limitation",
+      "voice": "zh",
+      "text": "名词，限制，局限",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "limitation",
+      "voice": "en",
+      "text": "Due to space limitations, only registered guests may attend the seminar.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "limitation",
+      "voice": "zh",
+      "text": "由于场地有限，只有已登记的来宾才能参加研讨会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "liquidity",
+      "voice": "en",
+      "text": "liquidity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "liquidity",
+      "voice": "en",
+      "text": "L, I, Q, U, I, D, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "liquidity",
+      "voice": "zh",
+      "text": "名词，（资产）流动性，变现能力",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "liquidity",
+      "voice": "en",
+      "text": "The firm sold some assets to improve its liquidity.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "liquidity",
+      "voice": "zh",
+      "text": "公司出售部分资产以改善资金流动性。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "listing",
+      "voice": "en",
+      "text": "listing",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "listing",
+      "voice": "en",
+      "text": "L, I, S, T, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "listing",
+      "voice": "zh",
+      "text": "名词，清单中的条目，（房产/招聘）登载信息",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "listing",
+      "voice": "en",
+      "text": "Check the company website for current job listings.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "listing",
+      "voice": "zh",
+      "text": "请查看公司官网了解当前的招聘信息。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mandate",
+      "voice": "en",
+      "text": "mandate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mandate",
+      "voice": "en",
+      "text": "M, A, N, D, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mandate",
+      "voice": "zh",
+      "text": "名词或动词，授权，命令，强制要求",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mandate",
+      "voice": "en",
+      "text": "New regulations mandate that all employees complete safety training annually.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mandate",
+      "voice": "zh",
+      "text": "新规定要求所有员工每年完成安全培训。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "manuscript",
+      "voice": "en",
+      "text": "manuscript",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "manuscript",
+      "voice": "en",
+      "text": "M, A, N, U, S, C, R, I, P, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "manuscript",
+      "voice": "zh",
+      "text": "名词，手稿，原稿",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "manuscript",
+      "voice": "en",
+      "text": "Authors must submit their manuscripts by the end of the month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "manuscript",
+      "voice": "zh",
+      "text": "作者须在月底前提交稿件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第32轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

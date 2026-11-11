@@ -1,0 +1,1314 @@
+{
+  "id": "044",
+  "track": 44,
+  "title": "第 44 轨",
+  "word_count": 30,
+  "headwords": [
+    "pro-forma",
+    "three-way-match",
+    "trial-balance",
+    "month-end",
+    "contribution-margin",
+    "statement-of-work",
+    "acceptance-criteria",
+    "governing-law",
+    "auto-renewal",
+    "cure-period",
+    "travel-request",
+    "breakout-room",
+    "hybrid-meeting",
+    "talking-points",
+    "facilitator",
+    "brand-equity",
+    "value-proposition",
+    "landing-page",
+    "talent-acquisition",
+    "offer-letter",
+    "talent-pool",
+    "stretch-assignment",
+    "skip-level",
+    "shared-services",
+    "one-on-one",
+    "pulse-survey",
+    "stay-interview",
+    "buddy-system",
+    "parking-lot",
+    "icebreaker"
+  ],
+  "entries": [
+    {
+      "word": "pro-forma",
+      "spelling": "P, R, O, hyphen, F, O, R, M, A",
+      "spoken_meaning": "形容词或名词，形式（发票）的，预估的，形式发票",
+      "en": "Please send a pro-forma invoice so we can process the advance payment and customs paperwork.",
+      "zh": "请发送形式发票，以便我们办理预付款和报关手续。"
+    },
+    {
+      "word": "three-way-match",
+      "spelling": "T, H, R, E, E, hyphen, W, A, Y, hyphen, M, A, T, C, H",
+      "spoken_meaning": "名词，三单匹配，三方核对，采购-收货-发票核对",
+      "en": "Accounts payable will not release payment until the three-way-match clears.",
+      "zh": "在三单匹配通过之前，应付账款不会放款。"
+    },
+    {
+      "word": "trial-balance",
+      "spelling": "T, R, I, A, L, hyphen, B, A, L, A, N, C, E",
+      "spoken_meaning": "名词，试算表，试算平衡表，科目余额试算",
+      "en": "The bookkeeper spotted a posting error while preparing the month-end trial-balance.",
+      "zh": "簿记员在编制月末试算表时发现了一笔过账错误。"
+    },
+    {
+      "word": "month-end",
+      "spelling": "M, O, N, T, H, hyphen, E, N, D",
+      "spoken_meaning": "名词或形容词，月末，月末结账，月结（期间）",
+      "en": "All expense reports must be submitted before the month-end close cutoff on Friday.",
+      "zh": "所有费用报销须在周五月末结账截止时间前提交。"
+    },
+    {
+      "word": "contribution-margin",
+      "spelling": "C, O, N, T, R, I, B, U, T, I, O, N, hyphen, M, A, R, G, I, N",
+      "spoken_meaning": "名词，边际贡献，贡献毛益，单位贡献毛利",
+      "en": "Even with lower volume, the new SKU still shows a healthy contribution-margin.",
+      "zh": "即便销量较低，该新 SKU 仍显示出健康的边际贡献。"
+    },
+    {
+      "word": "statement-of-work",
+      "spelling": "S, T, A, T, E, M, E, N, T, hyphen, O, F, hyphen, W, O, R, K",
+      "spoken_meaning": "名词，工作说明书，工作范围书，SOW",
+      "en": "Legal will not approve the vendor kickoff until the statement-of-work is signed.",
+      "zh": "在工作说明书签署之前，法务不会批准供应商项目启动。"
+    },
+    {
+      "word": "acceptance-criteria",
+      "spelling": "A, C, C, E, P, T, A, N, C, E, hyphen, C, R, I, T, E, R, I, A",
+      "spoken_meaning": "名词，验收标准，接受准则，交付验收条件",
+      "en": "The release was blocked because two acceptance-criteria on accessibility were still unmet.",
+      "zh": "因无障碍相关的两项验收标准仍未满足，发布被拦住了。"
+    },
+    {
+      "word": "governing-law",
+      "spelling": "G, O, V, E, R, N, I, N, G, hyphen, L, A, W",
+      "spoken_meaning": "名词，管辖法律，适用法律，准据法条款",
+      "en": "The governing-law of this agreement shall be the laws of Singapore.",
+      "zh": "本协议的管辖法律为新加坡法律。"
+    },
+    {
+      "word": "auto-renewal",
+      "spelling": "A, U, T, O, hyphen, R, E, N, E, W, A, L",
+      "spoken_meaning": "名词，自动续约，自动续订，期满自动延期",
+      "en": "Please cancel 30 days before term end if you do not want auto-renewal to apply.",
+      "zh": "若不想适用自动续约，请在期限结束前 30 天取消。"
+    },
+    {
+      "word": "cure-period",
+      "spelling": "C, U, R, E, hyphen, P, E, R, I, O, D",
+      "spoken_meaning": "名词，补正期，纠正期，违约补救期限",
+      "en": "If the breach is not remedied within the cure-period, the buyer may terminate the contract.",
+      "zh": "若违约未在补正期内纠正，买方可终止合同。"
+    },
+    {
+      "word": "travel-request",
+      "spelling": "T, R, A, V, E, L, hyphen, R, E, Q, U, E, S, T",
+      "spoken_meaning": "名词，差旅申请，出差申请单，出行审批请求",
+      "en": "Bookings are locked in the portal until your manager approves the travel-request.",
+      "zh": "在经理批准差旅申请之前，门户中的订票功能是锁定的。"
+    },
+    {
+      "word": "breakout-room",
+      "spelling": "B, R, E, A, K, O, U, T, hyphen, R, O, O, M",
+      "spoken_meaning": "名词，分组讨论室，分会场，线上分组房间",
+      "en": "After the briefing, participants moved into breakout-rooms to draft action items.",
+      "zh": "简报结束后，与会者进入分组讨论室起草行动项。"
+    },
+    {
+      "word": "hybrid-meeting",
+      "spelling": "H, Y, B, R, I, D, hyphen, M, E, E, T, I, N, G",
+      "spoken_meaning": "名词，混合会议，线上线下结合会议，混合式会议",
+      "en": "We booked a room with dual cameras so the hybrid-meeting would treat remote voices fairly.",
+      "zh": "我们预订了配备双摄像头的会议室，好让混合会议中远程发言也能被公平对待。"
+    },
+    {
+      "word": "talking-points",
+      "spelling": "T, A, L, K, I, N, G, hyphen, P, O, I, N, T, S",
+      "spoken_meaning": "名词，发言要点，谈话提纲，口径要点",
+      "en": "Comms circulated talking-points before the press call so everyone used the same figures.",
+      "zh": "公关在新闻电话会前分发了发言要点，确保大家使用同一组数据。"
+    },
+    {
+      "word": "facilitator",
+      "spelling": "F, A, C, I, L, I, T, A, T, O, R",
+      "spoken_meaning": "名词，引导员，会议促成者，工作坊主持人",
+      "en": "An external facilitator kept the strategy offsite on schedule and free of side debates.",
+      "zh": "外部引导员让战略封闭会按时推进，并避免了旁支争论。"
+    },
+    {
+      "word": "brand-equity",
+      "spelling": "B, R, A, N, D, hyphen, E, Q, U, I, T, Y",
+      "spoken_meaning": "名词，品牌资产，品牌价值，品牌权益",
+      "en": "Deep discounts may lift short-term sales but risk eroding brand-equity over time.",
+      "zh": "大幅折扣可能抬升短期销量，但长期可能侵蚀品牌资产。"
+    },
+    {
+      "word": "value-proposition",
+      "spelling": "V, A, L, U, E, hyphen, P, R, O, P, O, S, I, T, I, O, N",
+      "spoken_meaning": "名词，价值主张，价值主张陈述，产品价值卖点",
+      "en": "The pitch deck opens with a one-line value-proposition aimed at mid-market retailers.",
+      "zh": "路演材料以一句面向中端零售商的价值主张开场。"
+    },
+    {
+      "word": "landing-page",
+      "spelling": "L, A, N, D, I, N, G, hyphen, P, A, G, E",
+      "spoken_meaning": "名词，落地页，着陆页，转化专用网页",
+      "en": "A/B tests on the landing-page headline raised sign-ups by twelve percent.",
+      "zh": "对落地页标题的 A/B 测试使注册量提升了百分之十二。"
+    },
+    {
+      "word": "talent-acquisition",
+      "spelling": "T, A, L, E, N, T, hyphen, A, C, Q, U, I, S, I, T, I, O, N",
+      "spoken_meaning": "名词，人才招聘，人才获取，招揽人才",
+      "en": "Talent-acquisition partnered with marketing to refresh the careers site and employer brand.",
+      "zh": "人才招聘团队与市场部合作，刷新了招聘网站与雇主品牌。"
+    },
+    {
+      "word": "offer-letter",
+      "spelling": "O, F, F, E, R, hyphen, L, E, T, T, E, R",
+      "spoken_meaning": "名词，录用通知书，聘用要约函，录用信",
+      "en": "HR emailed the offer-letter with a one-week deadline to accept in writing.",
+      "zh": "人力资源部通过邮件发出了录用通知书，并要求一周内书面接受。"
+    },
+    {
+      "word": "talent-pool",
+      "spelling": "T, A, L, E, N, T, hyphen, P, O, O, L",
+      "spoken_meaning": "名词，人才库，后备人才池，候选人才储备",
+      "en": "HR maintains a talent-pool of former interns who may fill junior analyst openings.",
+      "zh": "人力资源部维护着一个前实习生人才库，以便填补初级分析师空缺。"
+    },
+    {
+      "word": "stretch-assignment",
+      "spelling": "S, T, R, E, T, C, H, hyphen, A, S, S, I, G, N, M, E, N, T",
+      "spoken_meaning": "名词，挑战性任务，拓展性岗位任务，拉伸型工作安排",
+      "en": "She accepted a stretch-assignment leading the regional launch to prepare for a manager role.",
+      "zh": "她接受了负责区域上市的挑战性任务，为晋升经理做准备。"
+    },
+    {
+      "word": "skip-level",
+      "spelling": "S, K, I, P, hyphen, L, E, V, E, L",
+      "spoken_meaning": "形容词或名词，跨级的，越级（会议/沟通），跳过直属上级",
+      "en": "The VP holds quarterly skip-level meetings to hear concerns that may not reach her through managers.",
+      "zh": "副总裁每季度召开跨级会议，听取可能无法经经理层层上报的意见。"
+    },
+    {
+      "word": "shared-services",
+      "spelling": "S, H, A, R, E, D, hyphen, S, E, R, V, I, C, E, S",
+      "spoken_meaning": "名词，共享服务，共享服务中心，集中后勤支持",
+      "en": "Payroll and benefits processing moved into the new shared-services center last quarter.",
+      "zh": "上个季度，薪资与福利处理已迁入新的共享服务中心。"
+    },
+    {
+      "word": "one-on-one",
+      "spelling": "O, N, E, hyphen, O, N, hyphen, O, N, E",
+      "spoken_meaning": "名词或形容词，一对一会议，单独面谈，一对一沟通",
+      "en": "Please bring three priorities and any blockers to our one-on-one on Thursday.",
+      "zh": "周四一对一面谈时，请带上三项优先事项以及任何阻碍。"
+    },
+    {
+      "word": "pulse-survey",
+      "spelling": "P, U, L, S, E, hyphen, S, U, R, V, E, Y",
+      "spoken_meaning": "名词，脉搏调查，短频员工满意度调查，脉动式问卷",
+      "en": "After the reorganization, leadership launched a pulse-survey to track morale week by week.",
+      "zh": "重组后，领导层发起了脉搏调查，逐周跟踪士气变化。"
+    },
+    {
+      "word": "stay-interview",
+      "spelling": "S, T, A, Y, hyphen, I, N, T, E, R, V, I, E, W",
+      "spoken_meaning": "名词，留任访谈，挽留面谈，在职访谈",
+      "en": "Managers were trained to run stay-interviews before high performers start looking elsewhere.",
+      "zh": "经理们接受了培训，以便在高绩效员工开始另寻机会前开展留任访谈。"
+    },
+    {
+      "word": "buddy-system",
+      "spelling": "B, U, D, D, Y, hyphen, S, Y, S, T, E, M",
+      "spoken_meaning": "名词，结对制度，新人搭档制，互助伙伴机制",
+      "en": "New hires join a buddy-system so they have a peer to ask about informal norms.",
+      "zh": "新员工加入结对制度，以便有同伴可请教非正式的职场规范。"
+    },
+    {
+      "word": "parking-lot",
+      "spelling": "P, A, R, K, I, N, G, hyphen, L, O, T",
+      "spoken_meaning": "名词，（会议）暂存议题区，停车场议题，待议清单",
+      "en": "We parked the vendor-pricing debate in the parking-lot and returned to the launch timeline.",
+      "zh": "我们把供应商定价争论放入暂存议题区，然后回到上市时间线。"
+    },
+    {
+      "word": "icebreaker",
+      "spelling": "I, C, E, B, R, E, A, K, E, R",
+      "spoken_meaning": "名词，破冰活动，开场暖场，破冰问题",
+      "en": "The facilitator opened the workshop with a short icebreaker so strangers could introduce themselves.",
+      "zh": "引导员用简短破冰活动开场，让互不相识的人互相介绍。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第44轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "pro-forma",
+      "voice": "en",
+      "text": "pro forma",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "pro-forma",
+      "voice": "en",
+      "text": "P, R, O, hyphen, F, O, R, M, A",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "pro-forma",
+      "voice": "zh",
+      "text": "形容词或名词，形式（发票）的，预估的，形式发票",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "pro-forma",
+      "voice": "en",
+      "text": "Please send a pro-forma invoice so we can process the advance payment and customs paperwork.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "pro-forma",
+      "voice": "zh",
+      "text": "请发送形式发票，以便我们办理预付款和报关手续。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "three-way-match",
+      "voice": "en",
+      "text": "three way match",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "three-way-match",
+      "voice": "en",
+      "text": "T, H, R, E, E, hyphen, W, A, Y, hyphen, M, A, T, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "three-way-match",
+      "voice": "zh",
+      "text": "名词，三单匹配，三方核对，采购-收货-发票核对",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "three-way-match",
+      "voice": "en",
+      "text": "Accounts payable will not release payment until the three-way-match clears.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "three-way-match",
+      "voice": "zh",
+      "text": "在三单匹配通过之前，应付账款不会放款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "trial-balance",
+      "voice": "en",
+      "text": "trial balance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "trial-balance",
+      "voice": "en",
+      "text": "T, R, I, A, L, hyphen, B, A, L, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "trial-balance",
+      "voice": "zh",
+      "text": "名词，试算表，试算平衡表，科目余额试算",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "trial-balance",
+      "voice": "en",
+      "text": "The bookkeeper spotted a posting error while preparing the month-end trial-balance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "trial-balance",
+      "voice": "zh",
+      "text": "簿记员在编制月末试算表时发现了一笔过账错误。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "month-end",
+      "voice": "en",
+      "text": "month end",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "month-end",
+      "voice": "en",
+      "text": "M, O, N, T, H, hyphen, E, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "month-end",
+      "voice": "zh",
+      "text": "名词或形容词，月末，月末结账，月结（期间）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "month-end",
+      "voice": "en",
+      "text": "All expense reports must be submitted before the month-end close cutoff on Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "month-end",
+      "voice": "zh",
+      "text": "所有费用报销须在周五月末结账截止时间前提交。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "contribution-margin",
+      "voice": "en",
+      "text": "contribution margin",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "contribution-margin",
+      "voice": "en",
+      "text": "C, O, N, T, R, I, B, U, T, I, O, N, hyphen, M, A, R, G, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "contribution-margin",
+      "voice": "zh",
+      "text": "名词，边际贡献，贡献毛益，单位贡献毛利",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "contribution-margin",
+      "voice": "en",
+      "text": "Even with lower volume, the new SKU still shows a healthy contribution-margin.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "contribution-margin",
+      "voice": "zh",
+      "text": "即便销量较低，该新 SKU 仍显示出健康的边际贡献。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "statement-of-work",
+      "voice": "en",
+      "text": "statement of work",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "statement-of-work",
+      "voice": "en",
+      "text": "S, T, A, T, E, M, E, N, T, hyphen, O, F, hyphen, W, O, R, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "statement-of-work",
+      "voice": "zh",
+      "text": "名词，工作说明书，工作范围书，SOW",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "statement-of-work",
+      "voice": "en",
+      "text": "Legal will not approve the vendor kickoff until the statement-of-work is signed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "statement-of-work",
+      "voice": "zh",
+      "text": "在工作说明书签署之前，法务不会批准供应商项目启动。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "acceptance-criteria",
+      "voice": "en",
+      "text": "acceptance criteria",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "acceptance-criteria",
+      "voice": "en",
+      "text": "A, C, C, E, P, T, A, N, C, E, hyphen, C, R, I, T, E, R, I, A",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "acceptance-criteria",
+      "voice": "zh",
+      "text": "名词，验收标准，接受准则，交付验收条件",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "acceptance-criteria",
+      "voice": "en",
+      "text": "The release was blocked because two acceptance-criteria on accessibility were still unmet.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "acceptance-criteria",
+      "voice": "zh",
+      "text": "因无障碍相关的两项验收标准仍未满足，发布被拦住了。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "governing-law",
+      "voice": "en",
+      "text": "governing law",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "governing-law",
+      "voice": "en",
+      "text": "G, O, V, E, R, N, I, N, G, hyphen, L, A, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "governing-law",
+      "voice": "zh",
+      "text": "名词，管辖法律，适用法律，准据法条款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "governing-law",
+      "voice": "en",
+      "text": "The governing-law of this agreement shall be the laws of Singapore.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "governing-law",
+      "voice": "zh",
+      "text": "本协议的管辖法律为新加坡法律。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "auto-renewal",
+      "voice": "en",
+      "text": "auto renewal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "auto-renewal",
+      "voice": "en",
+      "text": "A, U, T, O, hyphen, R, E, N, E, W, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "auto-renewal",
+      "voice": "zh",
+      "text": "名词，自动续约，自动续订，期满自动延期",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "auto-renewal",
+      "voice": "en",
+      "text": "Please cancel 30 days before term end if you do not want auto-renewal to apply.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "auto-renewal",
+      "voice": "zh",
+      "text": "若不想适用自动续约，请在期限结束前 30 天取消。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cure-period",
+      "voice": "en",
+      "text": "cure period",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cure-period",
+      "voice": "en",
+      "text": "C, U, R, E, hyphen, P, E, R, I, O, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cure-period",
+      "voice": "zh",
+      "text": "名词，补正期，纠正期，违约补救期限",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cure-period",
+      "voice": "en",
+      "text": "If the breach is not remedied within the cure-period, the buyer may terminate the contract.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cure-period",
+      "voice": "zh",
+      "text": "若违约未在补正期内纠正，买方可终止合同。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "travel-request",
+      "voice": "en",
+      "text": "travel request",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "travel-request",
+      "voice": "en",
+      "text": "T, R, A, V, E, L, hyphen, R, E, Q, U, E, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "travel-request",
+      "voice": "zh",
+      "text": "名词，差旅申请，出差申请单，出行审批请求",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "travel-request",
+      "voice": "en",
+      "text": "Bookings are locked in the portal until your manager approves the travel-request.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "travel-request",
+      "voice": "zh",
+      "text": "在经理批准差旅申请之前，门户中的订票功能是锁定的。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "breakout-room",
+      "voice": "en",
+      "text": "breakout room",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "breakout-room",
+      "voice": "en",
+      "text": "B, R, E, A, K, O, U, T, hyphen, R, O, O, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "breakout-room",
+      "voice": "zh",
+      "text": "名词，分组讨论室，分会场，线上分组房间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "breakout-room",
+      "voice": "en",
+      "text": "After the briefing, participants moved into breakout-rooms to draft action items.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "breakout-room",
+      "voice": "zh",
+      "text": "简报结束后，与会者进入分组讨论室起草行动项。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hybrid-meeting",
+      "voice": "en",
+      "text": "hybrid meeting",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hybrid-meeting",
+      "voice": "en",
+      "text": "H, Y, B, R, I, D, hyphen, M, E, E, T, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hybrid-meeting",
+      "voice": "zh",
+      "text": "名词，混合会议，线上线下结合会议，混合式会议",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hybrid-meeting",
+      "voice": "en",
+      "text": "We booked a room with dual cameras so the hybrid-meeting would treat remote voices fairly.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hybrid-meeting",
+      "voice": "zh",
+      "text": "我们预订了配备双摄像头的会议室，好让混合会议中远程发言也能被公平对待。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "talking-points",
+      "voice": "en",
+      "text": "talking points",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "talking-points",
+      "voice": "en",
+      "text": "T, A, L, K, I, N, G, hyphen, P, O, I, N, T, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "talking-points",
+      "voice": "zh",
+      "text": "名词，发言要点，谈话提纲，口径要点",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "talking-points",
+      "voice": "en",
+      "text": "Comms circulated talking-points before the press call so everyone used the same figures.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "talking-points",
+      "voice": "zh",
+      "text": "公关在新闻电话会前分发了发言要点，确保大家使用同一组数据。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "facilitator",
+      "voice": "en",
+      "text": "facilitator",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "facilitator",
+      "voice": "en",
+      "text": "F, A, C, I, L, I, T, A, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "facilitator",
+      "voice": "zh",
+      "text": "名词，引导员，会议促成者，工作坊主持人",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "facilitator",
+      "voice": "en",
+      "text": "An external facilitator kept the strategy offsite on schedule and free of side debates.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "facilitator",
+      "voice": "zh",
+      "text": "外部引导员让战略封闭会按时推进，并避免了旁支争论。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "brand-equity",
+      "voice": "en",
+      "text": "brand equity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "brand-equity",
+      "voice": "en",
+      "text": "B, R, A, N, D, hyphen, E, Q, U, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "brand-equity",
+      "voice": "zh",
+      "text": "名词，品牌资产，品牌价值，品牌权益",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "brand-equity",
+      "voice": "en",
+      "text": "Deep discounts may lift short-term sales but risk eroding brand-equity over time.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "brand-equity",
+      "voice": "zh",
+      "text": "大幅折扣可能抬升短期销量，但长期可能侵蚀品牌资产。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "value-proposition",
+      "voice": "en",
+      "text": "value proposition",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "value-proposition",
+      "voice": "en",
+      "text": "V, A, L, U, E, hyphen, P, R, O, P, O, S, I, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "value-proposition",
+      "voice": "zh",
+      "text": "名词，价值主张，价值主张陈述，产品价值卖点",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "value-proposition",
+      "voice": "en",
+      "text": "The pitch deck opens with a one-line value-proposition aimed at mid-market retailers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "value-proposition",
+      "voice": "zh",
+      "text": "路演材料以一句面向中端零售商的价值主张开场。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "landing-page",
+      "voice": "en",
+      "text": "landing page",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "landing-page",
+      "voice": "en",
+      "text": "L, A, N, D, I, N, G, hyphen, P, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "landing-page",
+      "voice": "zh",
+      "text": "名词，落地页，着陆页，转化专用网页",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "landing-page",
+      "voice": "en",
+      "text": "A/B tests on the landing-page headline raised sign-ups by twelve percent.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "landing-page",
+      "voice": "zh",
+      "text": "对落地页标题的 A/B 测试使注册量提升了百分之十二。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "talent-acquisition",
+      "voice": "en",
+      "text": "talent acquisition",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "talent-acquisition",
+      "voice": "en",
+      "text": "T, A, L, E, N, T, hyphen, A, C, Q, U, I, S, I, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "talent-acquisition",
+      "voice": "zh",
+      "text": "名词，人才招聘，人才获取，招揽人才",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "talent-acquisition",
+      "voice": "en",
+      "text": "Talent-acquisition partnered with marketing to refresh the careers site and employer brand.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "talent-acquisition",
+      "voice": "zh",
+      "text": "人才招聘团队与市场部合作，刷新了招聘网站与雇主品牌。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "offer-letter",
+      "voice": "en",
+      "text": "offer letter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "offer-letter",
+      "voice": "en",
+      "text": "O, F, F, E, R, hyphen, L, E, T, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "offer-letter",
+      "voice": "zh",
+      "text": "名词，录用通知书，聘用要约函，录用信",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "offer-letter",
+      "voice": "en",
+      "text": "HR emailed the offer-letter with a one-week deadline to accept in writing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "offer-letter",
+      "voice": "zh",
+      "text": "人力资源部通过邮件发出了录用通知书，并要求一周内书面接受。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "talent-pool",
+      "voice": "en",
+      "text": "talent pool",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "talent-pool",
+      "voice": "en",
+      "text": "T, A, L, E, N, T, hyphen, P, O, O, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "talent-pool",
+      "voice": "zh",
+      "text": "名词，人才库，后备人才池，候选人才储备",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "talent-pool",
+      "voice": "en",
+      "text": "HR maintains a talent-pool of former interns who may fill junior analyst openings.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "talent-pool",
+      "voice": "zh",
+      "text": "人力资源部维护着一个前实习生人才库，以便填补初级分析师空缺。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stretch-assignment",
+      "voice": "en",
+      "text": "stretch assignment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stretch-assignment",
+      "voice": "en",
+      "text": "S, T, R, E, T, C, H, hyphen, A, S, S, I, G, N, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stretch-assignment",
+      "voice": "zh",
+      "text": "名词，挑战性任务，拓展性岗位任务，拉伸型工作安排",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stretch-assignment",
+      "voice": "en",
+      "text": "She accepted a stretch-assignment leading the regional launch to prepare for a manager role.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stretch-assignment",
+      "voice": "zh",
+      "text": "她接受了负责区域上市的挑战性任务，为晋升经理做准备。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "skip-level",
+      "voice": "en",
+      "text": "skip level",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "skip-level",
+      "voice": "en",
+      "text": "S, K, I, P, hyphen, L, E, V, E, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "skip-level",
+      "voice": "zh",
+      "text": "形容词或名词，跨级的，越级（会议/沟通），跳过直属上级",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "skip-level",
+      "voice": "en",
+      "text": "The VP holds quarterly skip-level meetings to hear concerns that may not reach her through managers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "skip-level",
+      "voice": "zh",
+      "text": "副总裁每季度召开跨级会议，听取可能无法经经理层层上报的意见。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "shared-services",
+      "voice": "en",
+      "text": "shared services",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "shared-services",
+      "voice": "en",
+      "text": "S, H, A, R, E, D, hyphen, S, E, R, V, I, C, E, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "shared-services",
+      "voice": "zh",
+      "text": "名词，共享服务，共享服务中心，集中后勤支持",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "shared-services",
+      "voice": "en",
+      "text": "Payroll and benefits processing moved into the new shared-services center last quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "shared-services",
+      "voice": "zh",
+      "text": "上个季度，薪资与福利处理已迁入新的共享服务中心。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "one-on-one",
+      "voice": "en",
+      "text": "one on one",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "one-on-one",
+      "voice": "en",
+      "text": "O, N, E, hyphen, O, N, hyphen, O, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "one-on-one",
+      "voice": "zh",
+      "text": "名词或形容词，一对一会议，单独面谈，一对一沟通",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "one-on-one",
+      "voice": "en",
+      "text": "Please bring three priorities and any blockers to our one-on-one on Thursday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "one-on-one",
+      "voice": "zh",
+      "text": "周四一对一面谈时，请带上三项优先事项以及任何阻碍。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "pulse-survey",
+      "voice": "en",
+      "text": "pulse survey",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "pulse-survey",
+      "voice": "en",
+      "text": "P, U, L, S, E, hyphen, S, U, R, V, E, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "pulse-survey",
+      "voice": "zh",
+      "text": "名词，脉搏调查，短频员工满意度调查，脉动式问卷",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "pulse-survey",
+      "voice": "en",
+      "text": "After the reorganization, leadership launched a pulse-survey to track morale week by week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "pulse-survey",
+      "voice": "zh",
+      "text": "重组后，领导层发起了脉搏调查，逐周跟踪士气变化。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stay-interview",
+      "voice": "en",
+      "text": "stay interview",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stay-interview",
+      "voice": "en",
+      "text": "S, T, A, Y, hyphen, I, N, T, E, R, V, I, E, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stay-interview",
+      "voice": "zh",
+      "text": "名词，留任访谈，挽留面谈，在职访谈",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stay-interview",
+      "voice": "en",
+      "text": "Managers were trained to run stay-interviews before high performers start looking elsewhere.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stay-interview",
+      "voice": "zh",
+      "text": "经理们接受了培训，以便在高绩效员工开始另寻机会前开展留任访谈。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "buddy-system",
+      "voice": "en",
+      "text": "buddy system",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "buddy-system",
+      "voice": "en",
+      "text": "B, U, D, D, Y, hyphen, S, Y, S, T, E, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "buddy-system",
+      "voice": "zh",
+      "text": "名词，结对制度，新人搭档制，互助伙伴机制",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "buddy-system",
+      "voice": "en",
+      "text": "New hires join a buddy-system so they have a peer to ask about informal norms.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "buddy-system",
+      "voice": "zh",
+      "text": "新员工加入结对制度，以便有同伴可请教非正式的职场规范。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "parking-lot",
+      "voice": "en",
+      "text": "parking lot",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "parking-lot",
+      "voice": "en",
+      "text": "P, A, R, K, I, N, G, hyphen, L, O, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "parking-lot",
+      "voice": "zh",
+      "text": "名词，（会议）暂存议题区，停车场议题，待议清单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "parking-lot",
+      "voice": "en",
+      "text": "We parked the vendor-pricing debate in the parking-lot and returned to the launch timeline.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "parking-lot",
+      "voice": "zh",
+      "text": "我们把供应商定价争论放入暂存议题区，然后回到上市时间线。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "icebreaker",
+      "voice": "en",
+      "text": "icebreaker",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "icebreaker",
+      "voice": "en",
+      "text": "I, C, E, B, R, E, A, K, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "icebreaker",
+      "voice": "zh",
+      "text": "名词，破冰活动，开场暖场，破冰问题",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "icebreaker",
+      "voice": "en",
+      "text": "The facilitator opened the workshop with a short icebreaker so strangers could introduce themselves.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "icebreaker",
+      "voice": "zh",
+      "text": "引导员用简短破冰活动开场，让互不相识的人互相介绍。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第44轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

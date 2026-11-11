@@ -1,0 +1,1314 @@
+{
+  "id": "022",
+  "track": 22,
+  "title": "第 22 轨",
+  "word_count": 30,
+  "headwords": [
+    "notable",
+    "novice",
+    "obligation",
+    "offset",
+    "onboard",
+    "ongoing",
+    "outlet",
+    "outlook",
+    "output",
+    "outsource",
+    "overbook",
+    "overdue",
+    "overhead",
+    "oversee",
+    "overview",
+    "ownership",
+    "packaging",
+    "panel",
+    "parcel",
+    "pending",
+    "patron",
+    "pension",
+    "perishable",
+    "perk",
+    "petition",
+    "possess",
+    "precaution",
+    "premises",
+    "preside",
+    "prestigious"
+  ],
+  "entries": [
+    {
+      "word": "notable",
+      "spelling": "N, O, T, A, B, L, E",
+      "spoken_meaning": "形容词，显著的，值得注意的，著名的",
+      "en": "The most notable change in the new office is the open-plan layout.",
+      "zh": "新办公室最显著的变化是开放式布局。"
+    },
+    {
+      "word": "novice",
+      "spelling": "N, O, V, I, C, E",
+      "spoken_meaning": "名词，新手，初学者",
+      "en": "The software tutorial is designed for novices with no programming experience.",
+      "zh": "这个软件教程是为没有编程经验的新手设计的。"
+    },
+    {
+      "word": "obligation",
+      "spelling": "O, B, L, I, G, A, T, I, O, N",
+      "spoken_meaning": "名词，义务，责任",
+      "en": "Customers can try the service for 30 days without obligation.",
+      "zh": "顾客可以免费试用这项服务30天，无任何附带义务。"
+    },
+    {
+      "word": "offset",
+      "spelling": "O, F, F, S, E, T",
+      "spoken_meaning": "动词，抵消，弥补",
+      "en": "Higher fuel costs were partly offset by an increase in ticket sales.",
+      "zh": "燃油成本上涨被票务销售的增长部分抵消了。"
+    },
+    {
+      "word": "onboard",
+      "spelling": "O, N, B, O, A, R, D",
+      "spoken_meaning": "动词，（新员工）入职培训，使适应",
+      "en": "HR will onboard the new interns on Monday morning.",
+      "zh": "人力资源部将在周一上午为新实习生办理入职引导。"
+    },
+    {
+      "word": "ongoing",
+      "spelling": "O, N, G, O, I, N, G",
+      "spoken_meaning": "形容词，进行中的，持续的",
+      "en": "Due to ongoing construction, the east entrance will be closed until May.",
+      "zh": "由于施工仍在进行，东侧入口将关闭至五月。"
+    },
+    {
+      "word": "outlet",
+      "spelling": "O, U, T, L, E, T",
+      "spoken_meaning": "名词，门店，销售点，电源插座",
+      "en": "The company plans to open five new retail outlets in the region next year.",
+      "zh": "公司计划明年在该地区新开五家零售门店。"
+    },
+    {
+      "word": "outlook",
+      "spelling": "O, U, T, L, O, O, K",
+      "spoken_meaning": "名词，前景，展望，观点",
+      "en": "Analysts remain optimistic about the outlook for the tourism industry.",
+      "zh": "分析师对旅游业的前景仍持乐观态度。"
+    },
+    {
+      "word": "output",
+      "spelling": "O, U, T, P, U, T",
+      "spoken_meaning": "名词，产量，产出",
+      "en": "The factory doubled its output after installing the new assembly line.",
+      "zh": "安装新生产线后，这家工厂的产量翻了一番。"
+    },
+    {
+      "word": "outsource",
+      "spelling": "O, U, T, S, O, U, R, C, E",
+      "spoken_meaning": "动词，外包",
+      "en": "The firm decided to outsource its payroll processing to an accounting agency.",
+      "zh": "公司决定将工资核算外包给一家会计机构。"
+    },
+    {
+      "word": "overbook",
+      "spelling": "O, V, E, R, B, O, O, K",
+      "spoken_meaning": "动词，超额预订",
+      "en": "Because the flight was overbooked, several passengers were offered vouchers to take a later one.",
+      "zh": "由于航班超售，几位乘客获得代金券以改乘较晚的班次。"
+    },
+    {
+      "word": "overdue",
+      "spelling": "O, V, E, R, D, U, E",
+      "spoken_meaning": "形容词，逾期的，过期未付的",
+      "en": "Please settle the overdue balance on your account within ten days.",
+      "zh": "请在十天内结清您账户上的逾期余额。"
+    },
+    {
+      "word": "overhead",
+      "spelling": "O, V, E, R, H, E, A, D",
+      "spoken_meaning": "名词或形容词，（日常）管理费用，头顶上的",
+      "en": "Moving to a smaller office helped the startup cut its overhead.",
+      "zh": "搬到较小的办公室帮这家初创公司削减了运营费用。"
+    },
+    {
+      "word": "oversee",
+      "spelling": "O, V, E, R, S, E, E",
+      "spoken_meaning": "动词，监督，主管",
+      "en": "Mr. Patel will oversee the renovation of the main lobby.",
+      "zh": "帕特尔先生将负责监督主大厅的翻修工程。"
+    },
+    {
+      "word": "overview",
+      "spelling": "O, V, E, R, V, I, E, W",
+      "spoken_meaning": "名词，概述，概况",
+      "en": "The director began the meeting with a brief overview of last quarter's results.",
+      "zh": "总监以简要概述上季度的业绩开始了会议。"
+    },
+    {
+      "word": "ownership",
+      "spelling": "O, W, N, E, R, S, H, I, P",
+      "spoken_meaning": "名词，所有权，（对工作的）主人翁意识",
+      "en": "The restaurant reopened last month under new ownership.",
+      "zh": "这家餐厅上个月在新业主经营下重新开业。"
+    },
+    {
+      "word": "packaging",
+      "spelling": "P, A, C, K, A, G, I, N, G",
+      "spoken_meaning": "名词，包装，包装材料",
+      "en": "The company switched to recyclable packaging to reduce waste.",
+      "zh": "公司改用可回收包装以减少浪费。"
+    },
+    {
+      "word": "panel",
+      "spelling": "P, A, N, E, L",
+      "spoken_meaning": "名词，专家小组，评审团，面板",
+      "en": "The conference will close with a panel discussion on remote work.",
+      "zh": "会议将以一场关于远程办公的小组讨论结束。"
+    },
+    {
+      "word": "parcel",
+      "spelling": "P, A, R, C, E, L",
+      "spoken_meaning": "名词，包裹，（土地的）一块",
+      "en": "You can track your parcel online using the number on your receipt.",
+      "zh": "您可以用收据上的号码在网上追踪您的包裹。"
+    },
+    {
+      "word": "pending",
+      "spelling": "P, E, N, D, I, N, G",
+      "spoken_meaning": "形容词或介词，待定的，待处理的，在…之前",
+      "en": "The contract has been drafted but is still pending approval from the legal department.",
+      "zh": "合同已经起草好了，但仍在等待法务部的批准。"
+    },
+    {
+      "word": "patron",
+      "spelling": "P, A, T, R, O, N",
+      "spoken_meaning": "名词，顾客，常客，赞助人",
+      "en": "Patrons are reminded that the restaurant will close early on Friday for a private event.",
+      "zh": "敬请顾客注意，本餐厅周五因私人活动将提前打烊。"
+    },
+    {
+      "word": "pension",
+      "spelling": "P, E, N, S, I, O, N",
+      "spoken_meaning": "名词，养老金，退休金",
+      "en": "All full-time employees are automatically enrolled in the company pension plan.",
+      "zh": "所有全职员工都会自动加入公司的养老金计划。"
+    },
+    {
+      "word": "perishable",
+      "spelling": "P, E, R, I, S, H, A, B, L, E",
+      "spoken_meaning": "形容词，易腐烂的，易变质的",
+      "en": "Perishable items must be stored in the refrigerator immediately upon delivery.",
+      "zh": "易腐物品送达后必须立即放入冰箱保存。"
+    },
+    {
+      "word": "perk",
+      "spelling": "P, E, R, K",
+      "spoken_meaning": "名词，额外福利，津贴",
+      "en": "One of the perks of working here is a free gym membership.",
+      "zh": "在这里工作的福利之一是免费的健身房会员资格。"
+    },
+    {
+      "word": "petition",
+      "spelling": "P, E, T, I, T, I, O, N",
+      "spoken_meaning": "名词或动词，请愿（书），请求",
+      "en": "Residents signed a petition asking the city to add more parking near the station.",
+      "zh": "居民们签署了一份请愿书，请求市政府在车站附近增设停车位。"
+    },
+    {
+      "word": "possess",
+      "spelling": "P, O, S, S, E, S, S",
+      "spoken_meaning": "动词，拥有，具备",
+      "en": "Applicants must possess at least three years of experience in project management.",
+      "zh": "申请人须具备至少三年的项目管理经验。"
+    },
+    {
+      "word": "precaution",
+      "spelling": "P, R, E, C, A, U, T, I, O, N",
+      "spoken_meaning": "名词，预防措施，防范",
+      "en": "As a precaution, all files should be backed up before the system upgrade.",
+      "zh": "为以防万一，系统升级前应备份所有文件。"
+    },
+    {
+      "word": "premises",
+      "spelling": "P, R, E, M, I, S, E, S",
+      "spoken_meaning": "名词，（企业的）房屋及场地，经营场所",
+      "en": "Smoking is strictly prohibited anywhere on the premises.",
+      "zh": "场所内任何地方均严禁吸烟。"
+    },
+    {
+      "word": "preside",
+      "spelling": "P, R, E, S, I, D, E",
+      "spoken_meaning": "动词，主持，担任主席",
+      "en": "Ms. Tanaka will preside over this year's annual shareholders' meeting.",
+      "zh": "田中女士将主持今年的年度股东大会。"
+    },
+    {
+      "word": "prestigious",
+      "spelling": "P, R, E, S, T, I, G, I, O, U, S",
+      "spoken_meaning": "形容词，有声望的，享有盛誉的",
+      "en": "The architecture firm received a prestigious award for its design of the new library.",
+      "zh": "这家建筑事务所因新图书馆的设计荣获一项享有盛誉的奖项。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第22轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "notable",
+      "voice": "en",
+      "text": "notable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "notable",
+      "voice": "en",
+      "text": "N, O, T, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "notable",
+      "voice": "zh",
+      "text": "形容词，显著的，值得注意的，著名的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "notable",
+      "voice": "en",
+      "text": "The most notable change in the new office is the open-plan layout.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "notable",
+      "voice": "zh",
+      "text": "新办公室最显著的变化是开放式布局。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "novice",
+      "voice": "en",
+      "text": "novice",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "novice",
+      "voice": "en",
+      "text": "N, O, V, I, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "novice",
+      "voice": "zh",
+      "text": "名词，新手，初学者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "novice",
+      "voice": "en",
+      "text": "The software tutorial is designed for novices with no programming experience.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "novice",
+      "voice": "zh",
+      "text": "这个软件教程是为没有编程经验的新手设计的。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "obligation",
+      "voice": "en",
+      "text": "obligation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "obligation",
+      "voice": "en",
+      "text": "O, B, L, I, G, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "obligation",
+      "voice": "zh",
+      "text": "名词，义务，责任",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "obligation",
+      "voice": "en",
+      "text": "Customers can try the service for 30 days without obligation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "obligation",
+      "voice": "zh",
+      "text": "顾客可以免费试用这项服务30天，无任何附带义务。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "offset",
+      "voice": "en",
+      "text": "offset",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "offset",
+      "voice": "en",
+      "text": "O, F, F, S, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "offset",
+      "voice": "zh",
+      "text": "动词，抵消，弥补",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "offset",
+      "voice": "en",
+      "text": "Higher fuel costs were partly offset by an increase in ticket sales.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "offset",
+      "voice": "zh",
+      "text": "燃油成本上涨被票务销售的增长部分抵消了。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "onboard",
+      "voice": "en",
+      "text": "onboard",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "onboard",
+      "voice": "en",
+      "text": "O, N, B, O, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "onboard",
+      "voice": "zh",
+      "text": "动词，（新员工）入职培训，使适应",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "onboard",
+      "voice": "en",
+      "text": "HR will onboard the new interns on Monday morning.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "onboard",
+      "voice": "zh",
+      "text": "人力资源部将在周一上午为新实习生办理入职引导。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ongoing",
+      "voice": "en",
+      "text": "ongoing",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ongoing",
+      "voice": "en",
+      "text": "O, N, G, O, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ongoing",
+      "voice": "zh",
+      "text": "形容词，进行中的，持续的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ongoing",
+      "voice": "en",
+      "text": "Due to ongoing construction, the east entrance will be closed until May.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ongoing",
+      "voice": "zh",
+      "text": "由于施工仍在进行，东侧入口将关闭至五月。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "outlet",
+      "voice": "en",
+      "text": "outlet",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "outlet",
+      "voice": "en",
+      "text": "O, U, T, L, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "outlet",
+      "voice": "zh",
+      "text": "名词，门店，销售点，电源插座",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "outlet",
+      "voice": "en",
+      "text": "The company plans to open five new retail outlets in the region next year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "outlet",
+      "voice": "zh",
+      "text": "公司计划明年在该地区新开五家零售门店。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "outlook",
+      "voice": "en",
+      "text": "outlook",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "outlook",
+      "voice": "en",
+      "text": "O, U, T, L, O, O, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "outlook",
+      "voice": "zh",
+      "text": "名词，前景，展望，观点",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "outlook",
+      "voice": "en",
+      "text": "Analysts remain optimistic about the outlook for the tourism industry.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "outlook",
+      "voice": "zh",
+      "text": "分析师对旅游业的前景仍持乐观态度。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "output",
+      "voice": "en",
+      "text": "output",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "output",
+      "voice": "en",
+      "text": "O, U, T, P, U, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "output",
+      "voice": "zh",
+      "text": "名词，产量，产出",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "output",
+      "voice": "en",
+      "text": "The factory doubled its output after installing the new assembly line.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "output",
+      "voice": "zh",
+      "text": "安装新生产线后，这家工厂的产量翻了一番。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "outsource",
+      "voice": "en",
+      "text": "outsource",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "outsource",
+      "voice": "en",
+      "text": "O, U, T, S, O, U, R, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "outsource",
+      "voice": "zh",
+      "text": "动词，外包",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "outsource",
+      "voice": "en",
+      "text": "The firm decided to outsource its payroll processing to an accounting agency.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "outsource",
+      "voice": "zh",
+      "text": "公司决定将工资核算外包给一家会计机构。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "overbook",
+      "voice": "en",
+      "text": "overbook",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "overbook",
+      "voice": "en",
+      "text": "O, V, E, R, B, O, O, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "overbook",
+      "voice": "zh",
+      "text": "动词，超额预订",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "overbook",
+      "voice": "en",
+      "text": "Because the flight was overbooked, several passengers were offered vouchers to take a later one.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "overbook",
+      "voice": "zh",
+      "text": "由于航班超售，几位乘客获得代金券以改乘较晚的班次。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "overdue",
+      "voice": "en",
+      "text": "overdue",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "overdue",
+      "voice": "en",
+      "text": "O, V, E, R, D, U, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "overdue",
+      "voice": "zh",
+      "text": "形容词，逾期的，过期未付的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "overdue",
+      "voice": "en",
+      "text": "Please settle the overdue balance on your account within ten days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "overdue",
+      "voice": "zh",
+      "text": "请在十天内结清您账户上的逾期余额。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "overhead",
+      "voice": "en",
+      "text": "overhead",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "overhead",
+      "voice": "en",
+      "text": "O, V, E, R, H, E, A, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "overhead",
+      "voice": "zh",
+      "text": "名词或形容词，（日常）管理费用，头顶上的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "overhead",
+      "voice": "en",
+      "text": "Moving to a smaller office helped the startup cut its overhead.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "overhead",
+      "voice": "zh",
+      "text": "搬到较小的办公室帮这家初创公司削减了运营费用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "oversee",
+      "voice": "en",
+      "text": "oversee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "oversee",
+      "voice": "en",
+      "text": "O, V, E, R, S, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "oversee",
+      "voice": "zh",
+      "text": "动词，监督，主管",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "oversee",
+      "voice": "en",
+      "text": "Mr. Patel will oversee the renovation of the main lobby.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "oversee",
+      "voice": "zh",
+      "text": "帕特尔先生将负责监督主大厅的翻修工程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "overview",
+      "voice": "en",
+      "text": "overview",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "overview",
+      "voice": "en",
+      "text": "O, V, E, R, V, I, E, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "overview",
+      "voice": "zh",
+      "text": "名词，概述，概况",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "overview",
+      "voice": "en",
+      "text": "The director began the meeting with a brief overview of last quarter's results.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "overview",
+      "voice": "zh",
+      "text": "总监以简要概述上季度的业绩开始了会议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ownership",
+      "voice": "en",
+      "text": "ownership",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ownership",
+      "voice": "en",
+      "text": "O, W, N, E, R, S, H, I, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ownership",
+      "voice": "zh",
+      "text": "名词，所有权，（对工作的）主人翁意识",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ownership",
+      "voice": "en",
+      "text": "The restaurant reopened last month under new ownership.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ownership",
+      "voice": "zh",
+      "text": "这家餐厅上个月在新业主经营下重新开业。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "packaging",
+      "voice": "en",
+      "text": "packaging",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "packaging",
+      "voice": "en",
+      "text": "P, A, C, K, A, G, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "packaging",
+      "voice": "zh",
+      "text": "名词，包装，包装材料",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "packaging",
+      "voice": "en",
+      "text": "The company switched to recyclable packaging to reduce waste.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "packaging",
+      "voice": "zh",
+      "text": "公司改用可回收包装以减少浪费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "panel",
+      "voice": "en",
+      "text": "panel",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "panel",
+      "voice": "en",
+      "text": "P, A, N, E, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "panel",
+      "voice": "zh",
+      "text": "名词，专家小组，评审团，面板",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "panel",
+      "voice": "en",
+      "text": "The conference will close with a panel discussion on remote work.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "panel",
+      "voice": "zh",
+      "text": "会议将以一场关于远程办公的小组讨论结束。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "parcel",
+      "voice": "en",
+      "text": "parcel",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "parcel",
+      "voice": "en",
+      "text": "P, A, R, C, E, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "parcel",
+      "voice": "zh",
+      "text": "名词，包裹，（土地的）一块",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "parcel",
+      "voice": "en",
+      "text": "You can track your parcel online using the number on your receipt.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "parcel",
+      "voice": "zh",
+      "text": "您可以用收据上的号码在网上追踪您的包裹。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "pending",
+      "voice": "en",
+      "text": "pending",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "pending",
+      "voice": "en",
+      "text": "P, E, N, D, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "pending",
+      "voice": "zh",
+      "text": "形容词或介词，待定的，待处理的，在…之前",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "pending",
+      "voice": "en",
+      "text": "The contract has been drafted but is still pending approval from the legal department.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "pending",
+      "voice": "zh",
+      "text": "合同已经起草好了，但仍在等待法务部的批准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "patron",
+      "voice": "en",
+      "text": "patron",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "patron",
+      "voice": "en",
+      "text": "P, A, T, R, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "patron",
+      "voice": "zh",
+      "text": "名词，顾客，常客，赞助人",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "patron",
+      "voice": "en",
+      "text": "Patrons are reminded that the restaurant will close early on Friday for a private event.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "patron",
+      "voice": "zh",
+      "text": "敬请顾客注意，本餐厅周五因私人活动将提前打烊。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "pension",
+      "voice": "en",
+      "text": "pension",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "pension",
+      "voice": "en",
+      "text": "P, E, N, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "pension",
+      "voice": "zh",
+      "text": "名词，养老金，退休金",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "pension",
+      "voice": "en",
+      "text": "All full-time employees are automatically enrolled in the company pension plan.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "pension",
+      "voice": "zh",
+      "text": "所有全职员工都会自动加入公司的养老金计划。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "perishable",
+      "voice": "en",
+      "text": "perishable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "perishable",
+      "voice": "en",
+      "text": "P, E, R, I, S, H, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "perishable",
+      "voice": "zh",
+      "text": "形容词，易腐烂的，易变质的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "perishable",
+      "voice": "en",
+      "text": "Perishable items must be stored in the refrigerator immediately upon delivery.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "perishable",
+      "voice": "zh",
+      "text": "易腐物品送达后必须立即放入冰箱保存。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "perk",
+      "voice": "en",
+      "text": "perk",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "perk",
+      "voice": "en",
+      "text": "P, E, R, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "perk",
+      "voice": "zh",
+      "text": "名词，额外福利，津贴",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "perk",
+      "voice": "en",
+      "text": "One of the perks of working here is a free gym membership.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "perk",
+      "voice": "zh",
+      "text": "在这里工作的福利之一是免费的健身房会员资格。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "petition",
+      "voice": "en",
+      "text": "petition",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "petition",
+      "voice": "en",
+      "text": "P, E, T, I, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "petition",
+      "voice": "zh",
+      "text": "名词或动词，请愿（书），请求",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "petition",
+      "voice": "en",
+      "text": "Residents signed a petition asking the city to add more parking near the station.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "petition",
+      "voice": "zh",
+      "text": "居民们签署了一份请愿书，请求市政府在车站附近增设停车位。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "possess",
+      "voice": "en",
+      "text": "possess",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "possess",
+      "voice": "en",
+      "text": "P, O, S, S, E, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "possess",
+      "voice": "zh",
+      "text": "动词，拥有，具备",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "possess",
+      "voice": "en",
+      "text": "Applicants must possess at least three years of experience in project management.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "possess",
+      "voice": "zh",
+      "text": "申请人须具备至少三年的项目管理经验。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "precaution",
+      "voice": "en",
+      "text": "precaution",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "precaution",
+      "voice": "en",
+      "text": "P, R, E, C, A, U, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "precaution",
+      "voice": "zh",
+      "text": "名词，预防措施，防范",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "precaution",
+      "voice": "en",
+      "text": "As a precaution, all files should be backed up before the system upgrade.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "precaution",
+      "voice": "zh",
+      "text": "为以防万一，系统升级前应备份所有文件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "premises",
+      "voice": "en",
+      "text": "premises",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "premises",
+      "voice": "en",
+      "text": "P, R, E, M, I, S, E, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "premises",
+      "voice": "zh",
+      "text": "名词，（企业的）房屋及场地，经营场所",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "premises",
+      "voice": "en",
+      "text": "Smoking is strictly prohibited anywhere on the premises.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "premises",
+      "voice": "zh",
+      "text": "场所内任何地方均严禁吸烟。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "preside",
+      "voice": "en",
+      "text": "preside",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "preside",
+      "voice": "en",
+      "text": "P, R, E, S, I, D, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "preside",
+      "voice": "zh",
+      "text": "动词，主持，担任主席",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "preside",
+      "voice": "en",
+      "text": "Ms. Tanaka will preside over this year's annual shareholders' meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "preside",
+      "voice": "zh",
+      "text": "田中女士将主持今年的年度股东大会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "prestigious",
+      "voice": "en",
+      "text": "prestigious",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "prestigious",
+      "voice": "en",
+      "text": "P, R, E, S, T, I, G, I, O, U, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "prestigious",
+      "voice": "zh",
+      "text": "形容词，有声望的，享有盛誉的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "prestigious",
+      "voice": "en",
+      "text": "The architecture firm received a prestigious award for its design of the new library.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "prestigious",
+      "voice": "zh",
+      "text": "这家建筑事务所因新图书馆的设计荣获一项享有盛誉的奖项。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第22轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

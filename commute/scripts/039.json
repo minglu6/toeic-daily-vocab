@@ -1,0 +1,1314 @@
+{
+  "id": "039",
+  "track": 39,
+  "title": "第 39 轨",
+  "word_count": 30,
+  "headwords": [
+    "takeaway",
+    "kickoff",
+    "follow-up",
+    "scope-creep",
+    "term-sheet",
+    "due-diligence",
+    "garden-leave",
+    "notice-period",
+    "exit-interview",
+    "background-check",
+    "per-diem",
+    "expatriate",
+    "jet-lag",
+    "boarding-pass",
+    "red-eye",
+    "kpi",
+    "sla",
+    "rfp",
+    "white-paper",
+    "press-release",
+    "deliverable",
+    "sprint",
+    "stand-up",
+    "retrospective",
+    "roadmap",
+    "vesting",
+    "cliff",
+    "earn-out",
+    "go-to-market",
+    "product-market-fit"
+  ],
+  "entries": [
+    {
+      "word": "takeaway",
+      "spelling": "T, A, K, E, A, W, A, Y",
+      "spoken_meaning": "名词，会议要点，关键收获，可带走的结论",
+      "en": "The main takeaway from the briefing was to freeze nonessential hiring.",
+      "zh": "简报的主要要点是冻结非必要招聘。"
+    },
+    {
+      "word": "kickoff",
+      "spelling": "K, I, C, K, O, F, F",
+      "spoken_meaning": "名词，启动会，项目开踢，开工仪式",
+      "en": "The client kickoff is set for Monday morning in the main conference room.",
+      "zh": "客户项目启动会定在周一上午于主会议室举行。"
+    },
+    {
+      "word": "follow-up",
+      "spelling": "F, O, L, L, O, W, hyphen, U, P",
+      "spoken_meaning": "名词或形容词，跟进，后续行动，跟进事项",
+      "en": "Please send a follow-up email summarizing the action items by end of day.",
+      "zh": "请在今天下班前发送一封总结待办事项的跟进邮件。"
+    },
+    {
+      "word": "scope-creep",
+      "spelling": "S, C, O, P, E, hyphen, C, R, E, E, P",
+      "spoken_meaning": "名词，范围蔓延，需求无控扩张，项目范围漂移",
+      "en": "Clear change-order procedures help prevent scope-creep on fixed-price contracts.",
+      "zh": "清晰的变更单流程有助于防止固定价格合同上的范围蔓延。"
+    },
+    {
+      "word": "term-sheet",
+      "spelling": "T, E, R, M, hyphen, S, H, E, E, T",
+      "spoken_meaning": "名词，条款清单，投资条款书，意向条款表",
+      "en": "Investors issued a term-sheet outlining valuation and board seats.",
+      "zh": "投资方出具了列明估值与董事会席位的条款清单。"
+    },
+    {
+      "word": "due-diligence",
+      "spelling": "D, U, E, hyphen, D, I, L, I, G, E, N, C, E",
+      "spoken_meaning": "名词，尽职调查，审慎核查，尽调",
+      "en": "The acquisition is contingent on satisfactory financial due-diligence.",
+      "zh": "该收购取决于令人满意的财务尽职调查结果。"
+    },
+    {
+      "word": "garden-leave",
+      "spelling": "G, A, R, D, E, N, hyphen, L, E, A, V, E",
+      "spoken_meaning": "名词，园艺假，离职冷静期，带薪隔离期",
+      "en": "Senior executives are often placed on garden-leave to protect client relationships.",
+      "zh": "为保护客户关系，高管常被安排进入园艺假。"
+    },
+    {
+      "word": "notice-period",
+      "spelling": "N, O, T, I, C, E, hyphen, P, E, R, I, O, D",
+      "spoken_meaning": "名词，通知期，离职提前通知期限，解约预告期",
+      "en": "Her contract requires a 30-day notice-period before resignation takes effect.",
+      "zh": "她的合同要求辞职生效前有 30 天的通知期。"
+    },
+    {
+      "word": "exit-interview",
+      "spelling": "E, X, I, T, hyphen, I, N, T, E, R, V, I, E, W",
+      "spoken_meaning": "名词，离职面谈，离职访谈，离任访谈",
+      "en": "HR uses exit-interview data to identify recurring management issues.",
+      "zh": "人力资源部利用离职面谈数据识别反复出现的管理问题。"
+    },
+    {
+      "word": "background-check",
+      "spelling": "B, A, C, K, G, R, O, U, N, D, hyphen, C, H, E, C, K",
+      "spoken_meaning": "名词，背景调查，资历核查，背调",
+      "en": "The offer is conditional on a successful background-check and reference review.",
+      "zh": "该录用取决于成功的背景调查与推荐人审核。"
+    },
+    {
+      "word": "per-diem",
+      "spelling": "P, E, R, hyphen, D, I, E, M",
+      "spoken_meaning": "名词或副词，每日津贴，按日补贴，差旅日津贴",
+      "en": "Domestic trips receive a fixed per-diem instead of itemized meal receipts.",
+      "zh": "国内出差领取固定每日津贴，无需逐项提交餐费收据。"
+    },
+    {
+      "word": "expatriate",
+      "spelling": "E, X, P, A, T, R, I, A, T, E",
+      "spoken_meaning": "名词或动词，外派员工，侨居者，外派（人员）",
+      "en": "The company provides housing and schooling support for expatriate managers.",
+      "zh": "公司为外派经理提供住房与子女就学支持。"
+    },
+    {
+      "word": "jet-lag",
+      "spelling": "J, E, T, hyphen, L, A, G",
+      "spoken_meaning": "名词，时差反应，飞行时差综合症，倒时差",
+      "en": "She arrived a day early to recover from jet-lag before the negotiations.",
+      "zh": "她提前一天抵达，以便在谈判前从时差中恢复。"
+    },
+    {
+      "word": "boarding-pass",
+      "spelling": "B, O, A, R, D, I, N, G, hyphen, P, A, S, S",
+      "spoken_meaning": "名词，登机牌，登机证，登机凭证",
+      "en": "Please have your boarding-pass and passport ready at the security checkpoint.",
+      "zh": "请在安检口准备好登机牌和护照。"
+    },
+    {
+      "word": "red-eye",
+      "spelling": "R, E, D, hyphen, E, Y, E",
+      "spoken_meaning": "名词或形容词，红眼航班，夜间航班，通宵航班",
+      "en": "He took the red-eye from Los Angeles to be at the morning board meeting.",
+      "zh": "他搭乘从洛杉矶出发的红眼航班，以便赶上上午的董事会。"
+    },
+    {
+      "word": "kpi",
+      "spelling": "K, P, I",
+      "spoken_meaning": "名词，关键绩效指标，KPI，核心考核指标",
+      "en": "Customer retention is now one of the division's top three KPIs.",
+      "zh": "客户留存现已成为该事业部的三大关键绩效指标之一。"
+    },
+    {
+      "word": "sla",
+      "spelling": "S, L, A",
+      "spoken_meaning": "名词，服务级别协议，SLA，服务水准协议",
+      "en": "The vendor credits our account whenever uptime falls below the SLA.",
+      "zh": "每当正常运行时间低于服务级别协议时，供应商就会给我们账户返点。"
+    },
+    {
+      "word": "rfp",
+      "spelling": "R, F, P",
+      "spoken_meaning": "名词，招标书，征求建议书，RFP",
+      "en": "Three vendors were shortlisted after the RFP evaluation committee met.",
+      "zh": "招标评估委员会开会后，三家供应商进入了短名单。"
+    },
+    {
+      "word": "white-paper",
+      "spelling": "W, H, I, T, E, hyphen, P, A, P, E, R",
+      "spoken_meaning": "名词，白皮书，权威报告，专题研究报告",
+      "en": "The marketing team released a white-paper on sustainable packaging trends.",
+      "zh": "市场团队发布了一份关于可持续包装趋势的白皮书。"
+    },
+    {
+      "word": "press-release",
+      "spelling": "P, R, E, S, S, hyphen, R, E, L, E, A, S, E",
+      "spoken_meaning": "名词，新闻稿，媒体通稿，新闻发布稿",
+      "en": "The firm issued a press-release announcing the appointment of a new CFO.",
+      "zh": "该公司发布新闻稿，宣布任命新的首席财务官。"
+    },
+    {
+      "word": "deliverable",
+      "spelling": "D, E, L, I, V, E, R, A, B, L, E",
+      "spoken_meaning": "名词，可交付成果，交付物，项目产出物",
+      "en": "The sprint review will focus on each team's main deliverable for the release.",
+      "zh": "冲刺评审将聚焦各团队为本版本提交的主要交付物。"
+    },
+    {
+      "word": "sprint",
+      "spelling": "S, P, R, I, N, T",
+      "spoken_meaning": "名词或动词，冲刺，短周期迭代，短跑冲刺（喻）",
+      "en": "We will demo the new checkout flow at the end of this sprint.",
+      "zh": "我们将在本冲刺结束时演示新的结账流程。"
+    },
+    {
+      "word": "stand-up",
+      "spelling": "S, T, A, N, D, hyphen, U, P",
+      "spoken_meaning": "名词，站会，每日站立例会，简短同步会",
+      "en": "Please flag blockers in the morning stand-up so we can unblock you quickly.",
+      "zh": "请在早间站会上标出阻碍，以便我们尽快帮你解除。"
+    },
+    {
+      "word": "retrospective",
+      "spelling": "R, E, T, R, O, S, P, E, C, T, I, V, E",
+      "spoken_meaning": "名词或形容词，回顾会，复盘，回顾性的",
+      "en": "The retrospective identified three process changes for the next cycle.",
+      "zh": "回顾会确定了下一周期的三项流程改进。"
+    },
+    {
+      "word": "roadmap",
+      "spelling": "R, O, A, D, M, A, P",
+      "spoken_meaning": "名词，路线图，产品规划图，发展蓝图",
+      "en": "The Q1 roadmap prioritizes mobile performance and checkout simplification.",
+      "zh": "第一季度路线图优先考虑移动端性能与结账流程简化。"
+    },
+    {
+      "word": "vesting",
+      "spelling": "V, E, S, T, I, N, G",
+      "spoken_meaning": "名词，归属，股权兑现，权利逐步生效",
+      "en": "Her options follow a four-year vesting schedule with a one-year cliff.",
+      "zh": "她的期权按四年归属安排，并设一年 cliff。"
+    },
+    {
+      "word": "cliff",
+      "spelling": "C, L, I, F, F",
+      "spoken_meaning": "名词，悬崖，归属悬崖期，首期一次性兑现门槛",
+      "en": "Employees who leave before the one-year cliff forfeit all unvested shares.",
+      "zh": "在一年悬崖期前离职的员工将丧失全部未归属股份。"
+    },
+    {
+      "word": "earn-out",
+      "spelling": "E, A, R, N, hyphen, O, U, T",
+      "spoken_meaning": "名词，或有对价，业绩对赌付款，分期赚取价款",
+      "en": "Part of the purchase price is structured as a two-year earn-out tied to revenue.",
+      "zh": "部分收购价款被设计为与收入挂钩的两年期或有对价。"
+    },
+    {
+      "word": "go-to-market",
+      "spelling": "G, O, hyphen, T, O, hyphen, M, A, R, K, E, T",
+      "spoken_meaning": "名词或形容词，上市策略，进入市场方案，推向市场的",
+      "en": "The go-to-market plan pairs enterprise sales with a freemium online channel.",
+      "zh": "该上市方案将企业直销与免费增值线上渠道相结合。"
+    },
+    {
+      "word": "product-market-fit",
+      "spelling": "P, R, O, D, U, C, T, hyphen, M, A, R, K, E, T, hyphen, F, I, T",
+      "spoken_meaning": "名词，产品市场契合，产品与市场需求匹配度",
+      "en": "Investors want clear evidence of product-market-fit before the Series A round.",
+      "zh": "投资人希望在 A 轮融资前看到明确的产品市场契合证据。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第39轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "takeaway",
+      "voice": "en",
+      "text": "takeaway",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "takeaway",
+      "voice": "en",
+      "text": "T, A, K, E, A, W, A, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "takeaway",
+      "voice": "zh",
+      "text": "名词，会议要点，关键收获，可带走的结论",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "takeaway",
+      "voice": "en",
+      "text": "The main takeaway from the briefing was to freeze nonessential hiring.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "takeaway",
+      "voice": "zh",
+      "text": "简报的主要要点是冻结非必要招聘。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "kickoff",
+      "voice": "en",
+      "text": "kickoff",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "kickoff",
+      "voice": "en",
+      "text": "K, I, C, K, O, F, F",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "kickoff",
+      "voice": "zh",
+      "text": "名词，启动会，项目开踢，开工仪式",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "kickoff",
+      "voice": "en",
+      "text": "The client kickoff is set for Monday morning in the main conference room.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "kickoff",
+      "voice": "zh",
+      "text": "客户项目启动会定在周一上午于主会议室举行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "follow-up",
+      "voice": "en",
+      "text": "follow up",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "follow-up",
+      "voice": "en",
+      "text": "F, O, L, L, O, W, hyphen, U, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "follow-up",
+      "voice": "zh",
+      "text": "名词或形容词，跟进，后续行动，跟进事项",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "follow-up",
+      "voice": "en",
+      "text": "Please send a follow-up email summarizing the action items by end of day.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "follow-up",
+      "voice": "zh",
+      "text": "请在今天下班前发送一封总结待办事项的跟进邮件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "scope-creep",
+      "voice": "en",
+      "text": "scope creep",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "scope-creep",
+      "voice": "en",
+      "text": "S, C, O, P, E, hyphen, C, R, E, E, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "scope-creep",
+      "voice": "zh",
+      "text": "名词，范围蔓延，需求无控扩张，项目范围漂移",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "scope-creep",
+      "voice": "en",
+      "text": "Clear change-order procedures help prevent scope-creep on fixed-price contracts.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "scope-creep",
+      "voice": "zh",
+      "text": "清晰的变更单流程有助于防止固定价格合同上的范围蔓延。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "term-sheet",
+      "voice": "en",
+      "text": "term sheet",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "term-sheet",
+      "voice": "en",
+      "text": "T, E, R, M, hyphen, S, H, E, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "term-sheet",
+      "voice": "zh",
+      "text": "名词，条款清单，投资条款书，意向条款表",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "term-sheet",
+      "voice": "en",
+      "text": "Investors issued a term-sheet outlining valuation and board seats.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "term-sheet",
+      "voice": "zh",
+      "text": "投资方出具了列明估值与董事会席位的条款清单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "due-diligence",
+      "voice": "en",
+      "text": "due diligence",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "due-diligence",
+      "voice": "en",
+      "text": "D, U, E, hyphen, D, I, L, I, G, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "due-diligence",
+      "voice": "zh",
+      "text": "名词，尽职调查，审慎核查，尽调",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "due-diligence",
+      "voice": "en",
+      "text": "The acquisition is contingent on satisfactory financial due-diligence.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "due-diligence",
+      "voice": "zh",
+      "text": "该收购取决于令人满意的财务尽职调查结果。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "garden-leave",
+      "voice": "en",
+      "text": "garden leave",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "garden-leave",
+      "voice": "en",
+      "text": "G, A, R, D, E, N, hyphen, L, E, A, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "garden-leave",
+      "voice": "zh",
+      "text": "名词，园艺假，离职冷静期，带薪隔离期",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "garden-leave",
+      "voice": "en",
+      "text": "Senior executives are often placed on garden-leave to protect client relationships.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "garden-leave",
+      "voice": "zh",
+      "text": "为保护客户关系，高管常被安排进入园艺假。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "notice-period",
+      "voice": "en",
+      "text": "notice period",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "notice-period",
+      "voice": "en",
+      "text": "N, O, T, I, C, E, hyphen, P, E, R, I, O, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "notice-period",
+      "voice": "zh",
+      "text": "名词，通知期，离职提前通知期限，解约预告期",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "notice-period",
+      "voice": "en",
+      "text": "Her contract requires a 30-day notice-period before resignation takes effect.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "notice-period",
+      "voice": "zh",
+      "text": "她的合同要求辞职生效前有 30 天的通知期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "exit-interview",
+      "voice": "en",
+      "text": "exit interview",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "exit-interview",
+      "voice": "en",
+      "text": "E, X, I, T, hyphen, I, N, T, E, R, V, I, E, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "exit-interview",
+      "voice": "zh",
+      "text": "名词，离职面谈，离职访谈，离任访谈",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "exit-interview",
+      "voice": "en",
+      "text": "HR uses exit-interview data to identify recurring management issues.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "exit-interview",
+      "voice": "zh",
+      "text": "人力资源部利用离职面谈数据识别反复出现的管理问题。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "background-check",
+      "voice": "en",
+      "text": "background check",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "background-check",
+      "voice": "en",
+      "text": "B, A, C, K, G, R, O, U, N, D, hyphen, C, H, E, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "background-check",
+      "voice": "zh",
+      "text": "名词，背景调查，资历核查，背调",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "background-check",
+      "voice": "en",
+      "text": "The offer is conditional on a successful background-check and reference review.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "background-check",
+      "voice": "zh",
+      "text": "该录用取决于成功的背景调查与推荐人审核。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "per-diem",
+      "voice": "en",
+      "text": "per diem",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "per-diem",
+      "voice": "en",
+      "text": "P, E, R, hyphen, D, I, E, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "per-diem",
+      "voice": "zh",
+      "text": "名词或副词，每日津贴，按日补贴，差旅日津贴",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "per-diem",
+      "voice": "en",
+      "text": "Domestic trips receive a fixed per-diem instead of itemized meal receipts.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "per-diem",
+      "voice": "zh",
+      "text": "国内出差领取固定每日津贴，无需逐项提交餐费收据。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "expatriate",
+      "voice": "en",
+      "text": "expatriate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "expatriate",
+      "voice": "en",
+      "text": "E, X, P, A, T, R, I, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "expatriate",
+      "voice": "zh",
+      "text": "名词或动词，外派员工，侨居者，外派（人员）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "expatriate",
+      "voice": "en",
+      "text": "The company provides housing and schooling support for expatriate managers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "expatriate",
+      "voice": "zh",
+      "text": "公司为外派经理提供住房与子女就学支持。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "jet-lag",
+      "voice": "en",
+      "text": "jet lag",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "jet-lag",
+      "voice": "en",
+      "text": "J, E, T, hyphen, L, A, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "jet-lag",
+      "voice": "zh",
+      "text": "名词，时差反应，飞行时差综合症，倒时差",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "jet-lag",
+      "voice": "en",
+      "text": "She arrived a day early to recover from jet-lag before the negotiations.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "jet-lag",
+      "voice": "zh",
+      "text": "她提前一天抵达，以便在谈判前从时差中恢复。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "boarding-pass",
+      "voice": "en",
+      "text": "boarding pass",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "boarding-pass",
+      "voice": "en",
+      "text": "B, O, A, R, D, I, N, G, hyphen, P, A, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "boarding-pass",
+      "voice": "zh",
+      "text": "名词，登机牌，登机证，登机凭证",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "boarding-pass",
+      "voice": "en",
+      "text": "Please have your boarding-pass and passport ready at the security checkpoint.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "boarding-pass",
+      "voice": "zh",
+      "text": "请在安检口准备好登机牌和护照。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "red-eye",
+      "voice": "en",
+      "text": "red eye",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "red-eye",
+      "voice": "en",
+      "text": "R, E, D, hyphen, E, Y, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "red-eye",
+      "voice": "zh",
+      "text": "名词或形容词，红眼航班，夜间航班，通宵航班",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "red-eye",
+      "voice": "en",
+      "text": "He took the red-eye from Los Angeles to be at the morning board meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "red-eye",
+      "voice": "zh",
+      "text": "他搭乘从洛杉矶出发的红眼航班，以便赶上上午的董事会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "kpi",
+      "voice": "en",
+      "text": "kpi",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "kpi",
+      "voice": "en",
+      "text": "K, P, I",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "kpi",
+      "voice": "zh",
+      "text": "名词，关键绩效指标，KPI，核心考核指标",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "kpi",
+      "voice": "en",
+      "text": "Customer retention is now one of the division's top three KPIs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "kpi",
+      "voice": "zh",
+      "text": "客户留存现已成为该事业部的三大关键绩效指标之一。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sla",
+      "voice": "en",
+      "text": "sla",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sla",
+      "voice": "en",
+      "text": "S, L, A",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sla",
+      "voice": "zh",
+      "text": "名词，服务级别协议，SLA，服务水准协议",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sla",
+      "voice": "en",
+      "text": "The vendor credits our account whenever uptime falls below the SLA.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sla",
+      "voice": "zh",
+      "text": "每当正常运行时间低于服务级别协议时，供应商就会给我们账户返点。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "rfp",
+      "voice": "en",
+      "text": "rfp",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rfp",
+      "voice": "en",
+      "text": "R, F, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rfp",
+      "voice": "zh",
+      "text": "名词，招标书，征求建议书，RFP",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rfp",
+      "voice": "en",
+      "text": "Three vendors were shortlisted after the RFP evaluation committee met.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rfp",
+      "voice": "zh",
+      "text": "招标评估委员会开会后，三家供应商进入了短名单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "white-paper",
+      "voice": "en",
+      "text": "white paper",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "white-paper",
+      "voice": "en",
+      "text": "W, H, I, T, E, hyphen, P, A, P, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "white-paper",
+      "voice": "zh",
+      "text": "名词，白皮书，权威报告，专题研究报告",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "white-paper",
+      "voice": "en",
+      "text": "The marketing team released a white-paper on sustainable packaging trends.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "white-paper",
+      "voice": "zh",
+      "text": "市场团队发布了一份关于可持续包装趋势的白皮书。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "press-release",
+      "voice": "en",
+      "text": "press release",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "press-release",
+      "voice": "en",
+      "text": "P, R, E, S, S, hyphen, R, E, L, E, A, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "press-release",
+      "voice": "zh",
+      "text": "名词，新闻稿，媒体通稿，新闻发布稿",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "press-release",
+      "voice": "en",
+      "text": "The firm issued a press-release announcing the appointment of a new CFO.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "press-release",
+      "voice": "zh",
+      "text": "该公司发布新闻稿，宣布任命新的首席财务官。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "deliverable",
+      "voice": "en",
+      "text": "deliverable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deliverable",
+      "voice": "en",
+      "text": "D, E, L, I, V, E, R, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deliverable",
+      "voice": "zh",
+      "text": "名词，可交付成果，交付物，项目产出物",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deliverable",
+      "voice": "en",
+      "text": "The sprint review will focus on each team's main deliverable for the release.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deliverable",
+      "voice": "zh",
+      "text": "冲刺评审将聚焦各团队为本版本提交的主要交付物。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sprint",
+      "voice": "en",
+      "text": "sprint",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sprint",
+      "voice": "en",
+      "text": "S, P, R, I, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sprint",
+      "voice": "zh",
+      "text": "名词或动词，冲刺，短周期迭代，短跑冲刺（喻）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sprint",
+      "voice": "en",
+      "text": "We will demo the new checkout flow at the end of this sprint.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sprint",
+      "voice": "zh",
+      "text": "我们将在本冲刺结束时演示新的结账流程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stand-up",
+      "voice": "en",
+      "text": "stand up",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stand-up",
+      "voice": "en",
+      "text": "S, T, A, N, D, hyphen, U, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stand-up",
+      "voice": "zh",
+      "text": "名词，站会，每日站立例会，简短同步会",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stand-up",
+      "voice": "en",
+      "text": "Please flag blockers in the morning stand-up so we can unblock you quickly.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stand-up",
+      "voice": "zh",
+      "text": "请在早间站会上标出阻碍，以便我们尽快帮你解除。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "retrospective",
+      "voice": "en",
+      "text": "retrospective",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "retrospective",
+      "voice": "en",
+      "text": "R, E, T, R, O, S, P, E, C, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "retrospective",
+      "voice": "zh",
+      "text": "名词或形容词，回顾会，复盘，回顾性的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "retrospective",
+      "voice": "en",
+      "text": "The retrospective identified three process changes for the next cycle.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "retrospective",
+      "voice": "zh",
+      "text": "回顾会确定了下一周期的三项流程改进。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "roadmap",
+      "voice": "en",
+      "text": "roadmap",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "roadmap",
+      "voice": "en",
+      "text": "R, O, A, D, M, A, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "roadmap",
+      "voice": "zh",
+      "text": "名词，路线图，产品规划图，发展蓝图",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "roadmap",
+      "voice": "en",
+      "text": "The Q1 roadmap prioritizes mobile performance and checkout simplification.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "roadmap",
+      "voice": "zh",
+      "text": "第一季度路线图优先考虑移动端性能与结账流程简化。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "vesting",
+      "voice": "en",
+      "text": "vesting",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "vesting",
+      "voice": "en",
+      "text": "V, E, S, T, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "vesting",
+      "voice": "zh",
+      "text": "名词，归属，股权兑现，权利逐步生效",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "vesting",
+      "voice": "en",
+      "text": "Her options follow a four-year vesting schedule with a one-year cliff.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "vesting",
+      "voice": "zh",
+      "text": "她的期权按四年归属安排，并设一年 cliff。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cliff",
+      "voice": "en",
+      "text": "cliff",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cliff",
+      "voice": "en",
+      "text": "C, L, I, F, F",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cliff",
+      "voice": "zh",
+      "text": "名词，悬崖，归属悬崖期，首期一次性兑现门槛",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cliff",
+      "voice": "en",
+      "text": "Employees who leave before the one-year cliff forfeit all unvested shares.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cliff",
+      "voice": "zh",
+      "text": "在一年悬崖期前离职的员工将丧失全部未归属股份。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "earn-out",
+      "voice": "en",
+      "text": "earn out",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "earn-out",
+      "voice": "en",
+      "text": "E, A, R, N, hyphen, O, U, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "earn-out",
+      "voice": "zh",
+      "text": "名词，或有对价，业绩对赌付款，分期赚取价款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "earn-out",
+      "voice": "en",
+      "text": "Part of the purchase price is structured as a two-year earn-out tied to revenue.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "earn-out",
+      "voice": "zh",
+      "text": "部分收购价款被设计为与收入挂钩的两年期或有对价。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "go-to-market",
+      "voice": "en",
+      "text": "go to market",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "go-to-market",
+      "voice": "en",
+      "text": "G, O, hyphen, T, O, hyphen, M, A, R, K, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "go-to-market",
+      "voice": "zh",
+      "text": "名词或形容词，上市策略，进入市场方案，推向市场的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "go-to-market",
+      "voice": "en",
+      "text": "The go-to-market plan pairs enterprise sales with a freemium online channel.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "go-to-market",
+      "voice": "zh",
+      "text": "该上市方案将企业直销与免费增值线上渠道相结合。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "product-market-fit",
+      "voice": "en",
+      "text": "product market fit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "product-market-fit",
+      "voice": "en",
+      "text": "P, R, O, D, U, C, T, hyphen, M, A, R, K, E, T, hyphen, F, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "product-market-fit",
+      "voice": "zh",
+      "text": "名词，产品市场契合，产品与市场需求匹配度",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "product-market-fit",
+      "voice": "en",
+      "text": "Investors want clear evidence of product-market-fit before the Series A round.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "product-market-fit",
+      "voice": "zh",
+      "text": "投资人希望在 A 轮融资前看到明确的产品市场契合证据。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第39轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

@@ -1,0 +1,1314 @@
+{
+  "id": "042",
+  "track": 42,
+  "title": "第 42 轨",
+  "word_count": 30,
+  "headwords": [
+    "earnings",
+    "net-income",
+    "operating-margin",
+    "profit-margin",
+    "buyback",
+    "consolidation",
+    "deadlock",
+    "proxy",
+    "cascade",
+    "salesperson",
+    "sales-quota",
+    "loyalty-program",
+    "newsletter",
+    "product-launch",
+    "occupancy-rate",
+    "no-show",
+    "room-rate",
+    "quality-control",
+    "ramp-up",
+    "turnaround",
+    "sourcing",
+    "bill-of-lading",
+    "consignee",
+    "freight-forwarder",
+    "detention",
+    "demurrage",
+    "bonded-warehouse",
+    "customs-broker",
+    "cold-chain",
+    "pallet"
+  ],
+  "entries": [
+    {
+      "word": "earnings",
+      "spelling": "E, A, R, N, I, N, G, S",
+      "spoken_meaning": "名词，收益，盈利，公司盈余（常复数）",
+      "en": "Strong overseas sales lifted the company's third-quarter earnings above forecasts.",
+      "zh": "强劲的海外销售使公司第三季度收益高于预期。"
+    },
+    {
+      "word": "net-income",
+      "spelling": "N, E, T, hyphen, I, N, C, O, M, E",
+      "spoken_meaning": "名词，净收入，净利润，税后净利",
+      "en": "Despite higher costs, net-income still grew 8 percent year over year.",
+      "zh": "尽管成本上升，净利润仍同比增长百分之八。"
+    },
+    {
+      "word": "operating-margin",
+      "spelling": "O, P, E, R, A, T, I, N, G, hyphen, M, A, R, G, I, N",
+      "spoken_meaning": "名词，营业利润率，经营毛利率（营业口径）",
+      "en": "Cost controls helped the division expand its operating-margin by two percentage points.",
+      "zh": "成本控制使该事业部营业利润率提高了两个百分点。"
+    },
+    {
+      "word": "profit-margin",
+      "spelling": "P, R, O, F, I, T, hyphen, M, A, R, G, I, N",
+      "spoken_meaning": "名词，利润率，盈利幅度，利润空间",
+      "en": "Rising fuel costs are squeezing the airline's already thin profit-margin.",
+      "zh": "燃油成本上升正在挤压航空公司本已微薄的利润率。"
+    },
+    {
+      "word": "buyback",
+      "spelling": "B, U, Y, B, A, C, K",
+      "spoken_meaning": "名词，回购，股票回购，买回",
+      "en": "The board approved a $500 million buyback to return excess cash to shareholders.",
+      "zh": "董事会批准了五亿美元的回购计划，以将多余现金返还股东。"
+    },
+    {
+      "word": "consolidation",
+      "spelling": "C, O, N, S, O, L, I, D, A, T, I, O, N",
+      "spoken_meaning": "名词，合并，整合，合并报表",
+      "en": "The logistics firm completed warehouse consolidation to cut overlapping routes.",
+      "zh": "该物流公司完成了仓库整合，以削减重叠线路。"
+    },
+    {
+      "word": "deadlock",
+      "spelling": "D, E, A, D, L, O, C, K",
+      "spoken_meaning": "名词或动词，僵局，谈判陷入僵持，死锁",
+      "en": "Talks hit a deadlock over wage increases and weekend staffing levels.",
+      "zh": "谈判因加薪与周末排班水平问题陷入僵局。"
+    },
+    {
+      "word": "proxy",
+      "spelling": "P, R, O, X, Y",
+      "spoken_meaning": "名词，代理人，委托投票，代理权",
+      "en": "Shareholders who cannot attend may vote by proxy using the enclosed form.",
+      "zh": "无法出席的股东可使用随附表格委托投票。"
+    },
+    {
+      "word": "cascade",
+      "spelling": "C, A, S, C, A, D, E",
+      "spoken_meaning": "动词或名词，逐级传达，层层下达，级联",
+      "en": "Managers must cascade the new safety policy to every shift by Monday.",
+      "zh": "经理们须在周一前将新安全政策逐级传达到每一个班次。"
+    },
+    {
+      "word": "salesperson",
+      "spelling": "S, A, L, E, S, P, E, R, S, O, N",
+      "spoken_meaning": "名词，销售人员，推销员，业务员",
+      "en": "Each salesperson is assigned a regional territory and a quarterly revenue target.",
+      "zh": "每位销售人员都分配了区域市场和季度营收目标。"
+    },
+    {
+      "word": "sales-quota",
+      "spelling": "S, A, L, E, S, hyphen, Q, U, O, T, A",
+      "spoken_meaning": "名词，销售配额，销售指标，业绩定额",
+      "en": "Agents who exceed their sales-quota receive a bonus and preferred account leads.",
+      "zh": "超额完成销售配额的代理可获奖金及优先客户线索。"
+    },
+    {
+      "word": "loyalty-program",
+      "spelling": "L, O, Y, A, L, T, Y, hyphen, P, R, O, G, R, A, M",
+      "spoken_meaning": "名词，忠诚度计划，会员积分计划，常客计划",
+      "en": "Members of the loyalty-program earn free nights after ten paid stays.",
+      "zh": "忠诚度计划会员住满十次付费住宿后可获免费住宿。"
+    },
+    {
+      "word": "newsletter",
+      "spelling": "N, E, W, S, L, E, T, T, E, R",
+      "spoken_meaning": "名词，简讯，电子报，内部通讯",
+      "en": "Please submit department updates for the Friday employee newsletter by Wednesday noon.",
+      "zh": "请于周三中午前提交部门动态，供周五员工简讯使用。"
+    },
+    {
+      "word": "product-launch",
+      "spelling": "P, R, O, D, U, C, T, hyphen, L, A, U, N, C, H",
+      "spoken_meaning": "名词，产品发布，新品上市，上市活动",
+      "en": "The product-launch will feature live demos and early-bird pricing for trade buyers.",
+      "zh": "产品发布将包括现场演示，并为贸易采购商提供早鸟价。"
+    },
+    {
+      "word": "occupancy-rate",
+      "spelling": "O, C, C, U, P, A, N, C, Y, hyphen, R, A, T, E",
+      "spoken_meaning": "名词，入住率，占用率，入住比率",
+      "en": "Weekend promotions lifted the hotel's occupancy-rate to 92 percent in October.",
+      "zh": "周末促销使该酒店十月份入住率升至百分之九十二。"
+    },
+    {
+      "word": "no-show",
+      "spelling": "N, O, hyphen, S, H, O, W",
+      "spoken_meaning": "名词，未到者，爽约，预订未现身",
+      "en": "Guests who cancel after 6 p.m. will be treated as a no-show and billed one night.",
+      "zh": "晚于下午六点取消的客人将视为未到，并收取一晚房费。"
+    },
+    {
+      "word": "room-rate",
+      "spelling": "R, O, O, M, hyphen, R, A, T, E",
+      "spoken_meaning": "名词，房价，客房价格，房间费率",
+      "en": "Conference attendees receive a special room-rate if they book through the event portal.",
+      "zh": "与会者通过活动门户预订可享特别房价。"
+    },
+    {
+      "word": "quality-control",
+      "spelling": "Q, U, A, L, I, T, Y, hyphen, C, O, N, T, R, O, L",
+      "spoken_meaning": "名词，质量控制，品管，质检",
+      "en": "Every batch must pass quality-control before it leaves the factory.",
+      "zh": "每一批次在出厂前都必须通过质量控制。"
+    },
+    {
+      "word": "ramp-up",
+      "spelling": "R, A, M, P, hyphen, U, P",
+      "spoken_meaning": "名词或动词，爬坡增产，加速推进，产能爬升",
+      "en": "The plant plans a six-week ramp-up before reaching full production volume.",
+      "zh": "该工厂计划用六周时间爬坡增产，再达到满产。"
+    },
+    {
+      "word": "turnaround",
+      "spelling": "T, U, R, N, A, R, O, U, N, D",
+      "spoken_meaning": "名词，转机，扭亏为盈，周转时间",
+      "en": "The new CEO outlined a turnaround plan focused on cost cuts and core products.",
+      "zh": "新任首席执行官提出了以削减成本与聚焦核心产品为重点的扭亏计划。"
+    },
+    {
+      "word": "sourcing",
+      "spelling": "S, O, U, R, C, I, N, G",
+      "spoken_meaning": "名词，采购，寻源，货源开发",
+      "en": "The company redesigned its sourcing to reduce dependence on a single overseas supplier.",
+      "zh": "该公司重新设计了采购寻源，以降低对单一海外供应商的依赖。"
+    },
+    {
+      "word": "bill-of-lading",
+      "spelling": "B, I, L, L, hyphen, O, F, hyphen, L, A, D, I, N, G",
+      "spoken_meaning": "名词，提单，提货单，海运提单",
+      "en": "Customs will not release the shipment until we present the original bill-of-lading.",
+      "zh": "在我们出示正本提单之前，海关不会放行这批货物。"
+    },
+    {
+      "word": "consignee",
+      "spelling": "C, O, N, S, I, G, N, E, E",
+      "spoken_meaning": "名词，收货人，受货人，提单抬头方",
+      "en": "Please update the consignee contact so the warehouse can schedule delivery.",
+      "zh": "请更新收货人联系方式，以便仓库安排送货。"
+    },
+    {
+      "word": "freight-forwarder",
+      "spelling": "F, R, E, I, G, H, T, hyphen, F, O, R, W, A, R, D, E, R",
+      "spoken_meaning": "名词，货运代理，货代，国际货运代理人",
+      "en": "Our freight-forwarder booked space on next week's vessel and prepared the export documents.",
+      "zh": "我们的货代预订了下周船期舱位，并准备好了出口单证。"
+    },
+    {
+      "word": "detention",
+      "spelling": "D, E, T, E, N, T, I, O, N",
+      "spoken_meaning": "名词，滞箱费，集装箱滞留费，扣留",
+      "en": "Returning empty containers late triggered unexpected detention charges.",
+      "zh": "空箱归还过晚导致产生了意外的滞箱费。"
+    },
+    {
+      "word": "demurrage",
+      "spelling": "D, E, M, U, R, R, A, G, E",
+      "spoken_meaning": "名词，滞期费，压港费，超期堆存费",
+      "en": "Port congestion caused the cargo to sit for days, and demurrage quickly added up.",
+      "zh": "港口拥堵使货物滞留数日，滞期费迅速累积。"
+    },
+    {
+      "word": "bonded-warehouse",
+      "spelling": "B, O, N, D, E, D, hyphen, W, A, R, E, H, O, U, S, E",
+      "spoken_meaning": "名词，保税仓库，海关监管仓，保税仓",
+      "en": "The importer kept the electronics in a bonded-warehouse until retail demand picked up.",
+      "zh": "进口商将电子产品存放在保税仓，直到零售需求回升。"
+    },
+    {
+      "word": "customs-broker",
+      "spelling": "C, U, S, T, O, M, S, hyphen, B, R, O, K, E, R",
+      "spoken_meaning": "名词，报关行，海关经纪人，报关代理",
+      "en": "Our customs-broker flagged a missing certificate before the declaration was filed.",
+      "zh": "我们的报关行在申报提交前发现少了一份证书。"
+    },
+    {
+      "word": "cold-chain",
+      "spelling": "C, O, L, D, hyphen, C, H, A, I, N",
+      "spoken_meaning": "名词，冷链，冷链物流，低温供应链",
+      "en": "Any cold-chain breach during transit can spoil the entire vaccine shipment.",
+      "zh": "运输途中任何冷链中断都可能导致整批疫苗变质。"
+    },
+    {
+      "word": "pallet",
+      "spelling": "P, A, L, L, E, T",
+      "spoken_meaning": "名词，托盘，货盘，垫板",
+      "en": "Please stack the cartons on a pallet and wrap them before the truck arrives.",
+      "zh": "请在卡车到达前将纸箱码上托盘并缠好膜。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第42轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "earnings",
+      "voice": "en",
+      "text": "earnings",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "earnings",
+      "voice": "en",
+      "text": "E, A, R, N, I, N, G, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "earnings",
+      "voice": "zh",
+      "text": "名词，收益，盈利，公司盈余（常复数）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "earnings",
+      "voice": "en",
+      "text": "Strong overseas sales lifted the company's third-quarter earnings above forecasts.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "earnings",
+      "voice": "zh",
+      "text": "强劲的海外销售使公司第三季度收益高于预期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "net-income",
+      "voice": "en",
+      "text": "net income",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "net-income",
+      "voice": "en",
+      "text": "N, E, T, hyphen, I, N, C, O, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "net-income",
+      "voice": "zh",
+      "text": "名词，净收入，净利润，税后净利",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "net-income",
+      "voice": "en",
+      "text": "Despite higher costs, net-income still grew 8 percent year over year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "net-income",
+      "voice": "zh",
+      "text": "尽管成本上升，净利润仍同比增长百分之八。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "operating-margin",
+      "voice": "en",
+      "text": "operating margin",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "operating-margin",
+      "voice": "en",
+      "text": "O, P, E, R, A, T, I, N, G, hyphen, M, A, R, G, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "operating-margin",
+      "voice": "zh",
+      "text": "名词，营业利润率，经营毛利率（营业口径）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "operating-margin",
+      "voice": "en",
+      "text": "Cost controls helped the division expand its operating-margin by two percentage points.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "operating-margin",
+      "voice": "zh",
+      "text": "成本控制使该事业部营业利润率提高了两个百分点。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "profit-margin",
+      "voice": "en",
+      "text": "profit margin",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "profit-margin",
+      "voice": "en",
+      "text": "P, R, O, F, I, T, hyphen, M, A, R, G, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "profit-margin",
+      "voice": "zh",
+      "text": "名词，利润率，盈利幅度，利润空间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "profit-margin",
+      "voice": "en",
+      "text": "Rising fuel costs are squeezing the airline's already thin profit-margin.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "profit-margin",
+      "voice": "zh",
+      "text": "燃油成本上升正在挤压航空公司本已微薄的利润率。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "buyback",
+      "voice": "en",
+      "text": "buyback",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "buyback",
+      "voice": "en",
+      "text": "B, U, Y, B, A, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "buyback",
+      "voice": "zh",
+      "text": "名词，回购，股票回购，买回",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "buyback",
+      "voice": "en",
+      "text": "The board approved a $500 million buyback to return excess cash to shareholders.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "buyback",
+      "voice": "zh",
+      "text": "董事会批准了五亿美元的回购计划，以将多余现金返还股东。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "consolidation",
+      "voice": "en",
+      "text": "consolidation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "consolidation",
+      "voice": "en",
+      "text": "C, O, N, S, O, L, I, D, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "consolidation",
+      "voice": "zh",
+      "text": "名词，合并，整合，合并报表",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "consolidation",
+      "voice": "en",
+      "text": "The logistics firm completed warehouse consolidation to cut overlapping routes.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "consolidation",
+      "voice": "zh",
+      "text": "该物流公司完成了仓库整合，以削减重叠线路。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "deadlock",
+      "voice": "en",
+      "text": "deadlock",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deadlock",
+      "voice": "en",
+      "text": "D, E, A, D, L, O, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deadlock",
+      "voice": "zh",
+      "text": "名词或动词，僵局，谈判陷入僵持，死锁",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deadlock",
+      "voice": "en",
+      "text": "Talks hit a deadlock over wage increases and weekend staffing levels.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deadlock",
+      "voice": "zh",
+      "text": "谈判因加薪与周末排班水平问题陷入僵局。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "proxy",
+      "voice": "en",
+      "text": "proxy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "proxy",
+      "voice": "en",
+      "text": "P, R, O, X, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "proxy",
+      "voice": "zh",
+      "text": "名词，代理人，委托投票，代理权",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "proxy",
+      "voice": "en",
+      "text": "Shareholders who cannot attend may vote by proxy using the enclosed form.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "proxy",
+      "voice": "zh",
+      "text": "无法出席的股东可使用随附表格委托投票。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cascade",
+      "voice": "en",
+      "text": "cascade",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cascade",
+      "voice": "en",
+      "text": "C, A, S, C, A, D, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cascade",
+      "voice": "zh",
+      "text": "动词或名词，逐级传达，层层下达，级联",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cascade",
+      "voice": "en",
+      "text": "Managers must cascade the new safety policy to every shift by Monday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cascade",
+      "voice": "zh",
+      "text": "经理们须在周一前将新安全政策逐级传达到每一个班次。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "salesperson",
+      "voice": "en",
+      "text": "salesperson",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "salesperson",
+      "voice": "en",
+      "text": "S, A, L, E, S, P, E, R, S, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "salesperson",
+      "voice": "zh",
+      "text": "名词，销售人员，推销员，业务员",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "salesperson",
+      "voice": "en",
+      "text": "Each salesperson is assigned a regional territory and a quarterly revenue target.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "salesperson",
+      "voice": "zh",
+      "text": "每位销售人员都分配了区域市场和季度营收目标。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sales-quota",
+      "voice": "en",
+      "text": "sales quota",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sales-quota",
+      "voice": "en",
+      "text": "S, A, L, E, S, hyphen, Q, U, O, T, A",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sales-quota",
+      "voice": "zh",
+      "text": "名词，销售配额，销售指标，业绩定额",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sales-quota",
+      "voice": "en",
+      "text": "Agents who exceed their sales-quota receive a bonus and preferred account leads.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sales-quota",
+      "voice": "zh",
+      "text": "超额完成销售配额的代理可获奖金及优先客户线索。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "loyalty-program",
+      "voice": "en",
+      "text": "loyalty program",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "loyalty-program",
+      "voice": "en",
+      "text": "L, O, Y, A, L, T, Y, hyphen, P, R, O, G, R, A, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "loyalty-program",
+      "voice": "zh",
+      "text": "名词，忠诚度计划，会员积分计划，常客计划",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "loyalty-program",
+      "voice": "en",
+      "text": "Members of the loyalty-program earn free nights after ten paid stays.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "loyalty-program",
+      "voice": "zh",
+      "text": "忠诚度计划会员住满十次付费住宿后可获免费住宿。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "newsletter",
+      "voice": "en",
+      "text": "newsletter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "newsletter",
+      "voice": "en",
+      "text": "N, E, W, S, L, E, T, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "newsletter",
+      "voice": "zh",
+      "text": "名词，简讯，电子报，内部通讯",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "newsletter",
+      "voice": "en",
+      "text": "Please submit department updates for the Friday employee newsletter by Wednesday noon.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "newsletter",
+      "voice": "zh",
+      "text": "请于周三中午前提交部门动态，供周五员工简讯使用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "product-launch",
+      "voice": "en",
+      "text": "product launch",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "product-launch",
+      "voice": "en",
+      "text": "P, R, O, D, U, C, T, hyphen, L, A, U, N, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "product-launch",
+      "voice": "zh",
+      "text": "名词，产品发布，新品上市，上市活动",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "product-launch",
+      "voice": "en",
+      "text": "The product-launch will feature live demos and early-bird pricing for trade buyers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "product-launch",
+      "voice": "zh",
+      "text": "产品发布将包括现场演示，并为贸易采购商提供早鸟价。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "occupancy-rate",
+      "voice": "en",
+      "text": "occupancy rate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "occupancy-rate",
+      "voice": "en",
+      "text": "O, C, C, U, P, A, N, C, Y, hyphen, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "occupancy-rate",
+      "voice": "zh",
+      "text": "名词，入住率，占用率，入住比率",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "occupancy-rate",
+      "voice": "en",
+      "text": "Weekend promotions lifted the hotel's occupancy-rate to 92 percent in October.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "occupancy-rate",
+      "voice": "zh",
+      "text": "周末促销使该酒店十月份入住率升至百分之九十二。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "no-show",
+      "voice": "en",
+      "text": "no show",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "no-show",
+      "voice": "en",
+      "text": "N, O, hyphen, S, H, O, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "no-show",
+      "voice": "zh",
+      "text": "名词，未到者，爽约，预订未现身",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "no-show",
+      "voice": "en",
+      "text": "Guests who cancel after 6 p.m. will be treated as a no-show and billed one night.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "no-show",
+      "voice": "zh",
+      "text": "晚于下午六点取消的客人将视为未到，并收取一晚房费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "room-rate",
+      "voice": "en",
+      "text": "room rate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "room-rate",
+      "voice": "en",
+      "text": "R, O, O, M, hyphen, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "room-rate",
+      "voice": "zh",
+      "text": "名词，房价，客房价格，房间费率",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "room-rate",
+      "voice": "en",
+      "text": "Conference attendees receive a special room-rate if they book through the event portal.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "room-rate",
+      "voice": "zh",
+      "text": "与会者通过活动门户预订可享特别房价。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "quality-control",
+      "voice": "en",
+      "text": "quality control",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "quality-control",
+      "voice": "en",
+      "text": "Q, U, A, L, I, T, Y, hyphen, C, O, N, T, R, O, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "quality-control",
+      "voice": "zh",
+      "text": "名词，质量控制，品管，质检",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "quality-control",
+      "voice": "en",
+      "text": "Every batch must pass quality-control before it leaves the factory.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "quality-control",
+      "voice": "zh",
+      "text": "每一批次在出厂前都必须通过质量控制。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ramp-up",
+      "voice": "en",
+      "text": "ramp up",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ramp-up",
+      "voice": "en",
+      "text": "R, A, M, P, hyphen, U, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ramp-up",
+      "voice": "zh",
+      "text": "名词或动词，爬坡增产，加速推进，产能爬升",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ramp-up",
+      "voice": "en",
+      "text": "The plant plans a six-week ramp-up before reaching full production volume.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ramp-up",
+      "voice": "zh",
+      "text": "该工厂计划用六周时间爬坡增产，再达到满产。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "turnaround",
+      "voice": "en",
+      "text": "turnaround",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "turnaround",
+      "voice": "en",
+      "text": "T, U, R, N, A, R, O, U, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "turnaround",
+      "voice": "zh",
+      "text": "名词，转机，扭亏为盈，周转时间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "turnaround",
+      "voice": "en",
+      "text": "The new CEO outlined a turnaround plan focused on cost cuts and core products.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "turnaround",
+      "voice": "zh",
+      "text": "新任首席执行官提出了以削减成本与聚焦核心产品为重点的扭亏计划。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sourcing",
+      "voice": "en",
+      "text": "sourcing",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sourcing",
+      "voice": "en",
+      "text": "S, O, U, R, C, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sourcing",
+      "voice": "zh",
+      "text": "名词，采购，寻源，货源开发",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sourcing",
+      "voice": "en",
+      "text": "The company redesigned its sourcing to reduce dependence on a single overseas supplier.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sourcing",
+      "voice": "zh",
+      "text": "该公司重新设计了采购寻源，以降低对单一海外供应商的依赖。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bill-of-lading",
+      "voice": "en",
+      "text": "bill of lading",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bill-of-lading",
+      "voice": "en",
+      "text": "B, I, L, L, hyphen, O, F, hyphen, L, A, D, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bill-of-lading",
+      "voice": "zh",
+      "text": "名词，提单，提货单，海运提单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bill-of-lading",
+      "voice": "en",
+      "text": "Customs will not release the shipment until we present the original bill-of-lading.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bill-of-lading",
+      "voice": "zh",
+      "text": "在我们出示正本提单之前，海关不会放行这批货物。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "consignee",
+      "voice": "en",
+      "text": "consignee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "consignee",
+      "voice": "en",
+      "text": "C, O, N, S, I, G, N, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "consignee",
+      "voice": "zh",
+      "text": "名词，收货人，受货人，提单抬头方",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "consignee",
+      "voice": "en",
+      "text": "Please update the consignee contact so the warehouse can schedule delivery.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "consignee",
+      "voice": "zh",
+      "text": "请更新收货人联系方式，以便仓库安排送货。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "freight-forwarder",
+      "voice": "en",
+      "text": "freight forwarder",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "freight-forwarder",
+      "voice": "en",
+      "text": "F, R, E, I, G, H, T, hyphen, F, O, R, W, A, R, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "freight-forwarder",
+      "voice": "zh",
+      "text": "名词，货运代理，货代，国际货运代理人",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "freight-forwarder",
+      "voice": "en",
+      "text": "Our freight-forwarder booked space on next week's vessel and prepared the export documents.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "freight-forwarder",
+      "voice": "zh",
+      "text": "我们的货代预订了下周船期舱位，并准备好了出口单证。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "detention",
+      "voice": "en",
+      "text": "detention",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "detention",
+      "voice": "en",
+      "text": "D, E, T, E, N, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "detention",
+      "voice": "zh",
+      "text": "名词，滞箱费，集装箱滞留费，扣留",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "detention",
+      "voice": "en",
+      "text": "Returning empty containers late triggered unexpected detention charges.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "detention",
+      "voice": "zh",
+      "text": "空箱归还过晚导致产生了意外的滞箱费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "demurrage",
+      "voice": "en",
+      "text": "demurrage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "demurrage",
+      "voice": "en",
+      "text": "D, E, M, U, R, R, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "demurrage",
+      "voice": "zh",
+      "text": "名词，滞期费，压港费，超期堆存费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "demurrage",
+      "voice": "en",
+      "text": "Port congestion caused the cargo to sit for days, and demurrage quickly added up.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "demurrage",
+      "voice": "zh",
+      "text": "港口拥堵使货物滞留数日，滞期费迅速累积。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bonded-warehouse",
+      "voice": "en",
+      "text": "bonded warehouse",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bonded-warehouse",
+      "voice": "en",
+      "text": "B, O, N, D, E, D, hyphen, W, A, R, E, H, O, U, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bonded-warehouse",
+      "voice": "zh",
+      "text": "名词，保税仓库，海关监管仓，保税仓",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bonded-warehouse",
+      "voice": "en",
+      "text": "The importer kept the electronics in a bonded-warehouse until retail demand picked up.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bonded-warehouse",
+      "voice": "zh",
+      "text": "进口商将电子产品存放在保税仓，直到零售需求回升。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "customs-broker",
+      "voice": "en",
+      "text": "customs broker",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "customs-broker",
+      "voice": "en",
+      "text": "C, U, S, T, O, M, S, hyphen, B, R, O, K, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "customs-broker",
+      "voice": "zh",
+      "text": "名词，报关行，海关经纪人，报关代理",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "customs-broker",
+      "voice": "en",
+      "text": "Our customs-broker flagged a missing certificate before the declaration was filed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "customs-broker",
+      "voice": "zh",
+      "text": "我们的报关行在申报提交前发现少了一份证书。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cold-chain",
+      "voice": "en",
+      "text": "cold chain",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cold-chain",
+      "voice": "en",
+      "text": "C, O, L, D, hyphen, C, H, A, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cold-chain",
+      "voice": "zh",
+      "text": "名词，冷链，冷链物流，低温供应链",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cold-chain",
+      "voice": "en",
+      "text": "Any cold-chain breach during transit can spoil the entire vaccine shipment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cold-chain",
+      "voice": "zh",
+      "text": "运输途中任何冷链中断都可能导致整批疫苗变质。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "pallet",
+      "voice": "en",
+      "text": "pallet",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "pallet",
+      "voice": "en",
+      "text": "P, A, L, L, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "pallet",
+      "voice": "zh",
+      "text": "名词，托盘，货盘，垫板",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "pallet",
+      "voice": "en",
+      "text": "Please stack the cartons on a pallet and wrap them before the truck arrives.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "pallet",
+      "voice": "zh",
+      "text": "请在卡车到达前将纸箱码上托盘并缠好膜。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第42轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

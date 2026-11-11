@@ -1,0 +1,1314 @@
+{
+  "id": "024",
+  "track": 24,
+  "title": "第 24 轨",
+  "word_count": 30,
+  "headwords": [
+    "safeguard",
+    "scrutinize",
+    "signature",
+    "spreadsheet",
+    "stake",
+    "stationery",
+    "stipulate",
+    "storage",
+    "streamline",
+    "subscription",
+    "subsidiary",
+    "surpass",
+    "tariff",
+    "tenure",
+    "testimonial",
+    "timely",
+    "tuition",
+    "unveil",
+    "voucher",
+    "waive",
+    "abandon",
+    "abolish",
+    "absence",
+    "absorb",
+    "accelerate",
+    "accessible",
+    "accompany",
+    "accomplish",
+    "accountable",
+    "accumulate"
+  ],
+  "entries": [
+    {
+      "word": "safeguard",
+      "spelling": "S, A, F, E, G, U, A, R, D",
+      "spoken_meaning": "动词或名词，保护，保障，保护措施",
+      "en": "The new policy is designed to safeguard customers' personal information.",
+      "zh": "新政策旨在保护客户的个人信息。"
+    },
+    {
+      "word": "scrutinize",
+      "spelling": "S, C, R, U, T, I, N, I, Z, E",
+      "spoken_meaning": "动词，仔细审查，详查",
+      "en": "The auditors will scrutinize every expense report submitted this quarter.",
+      "zh": "审计人员将仔细审查本季度提交的每份报销单。"
+    },
+    {
+      "word": "signature",
+      "spelling": "S, I, G, N, A, T, U, R, E",
+      "spoken_meaning": "名词或形容词，签名，招牌的，标志性的",
+      "en": "Please return the form with your signature by Friday.",
+      "zh": "请在周五前将签好名的表格交回。"
+    },
+    {
+      "word": "spreadsheet",
+      "spelling": "S, P, R, E, A, D, S, H, E, E, T",
+      "spoken_meaning": "名词，电子表格",
+      "en": "I've attached a spreadsheet with this month's sales figures.",
+      "zh": "我附上了一份包含本月销售数据的电子表格。"
+    },
+    {
+      "word": "stake",
+      "spelling": "S, T, A, K, E",
+      "spoken_meaning": "名词，股份，利害关系，赌注",
+      "en": "The investment group acquired a minority stake in the startup.",
+      "zh": "该投资集团收购了这家初创公司的少数股权。"
+    },
+    {
+      "word": "stationery",
+      "spelling": "S, T, A, T, I, O, N, E, R, Y",
+      "spoken_meaning": "名词，文具，信纸",
+      "en": "Please order more stationery before the supply cabinet runs out.",
+      "zh": "请在储物柜用完之前再订一些文具。"
+    },
+    {
+      "word": "stipulate",
+      "spelling": "S, T, I, P, U, L, A, T, E",
+      "spoken_meaning": "动词，规定，明确要求",
+      "en": "The contract stipulates that payment must be made within 30 days.",
+      "zh": "合同规定必须在 30 天内付款。"
+    },
+    {
+      "word": "storage",
+      "spelling": "S, T, O, R, A, G, E",
+      "spoken_meaning": "名词，储存，仓储，存储空间",
+      "en": "Old files have been moved to the storage room on the basement level.",
+      "zh": "旧文件已移到地下层的储藏室。"
+    },
+    {
+      "word": "streamline",
+      "spelling": "S, T, R, E, A, M, L, I, N, E",
+      "spoken_meaning": "动词，精简，使高效化",
+      "en": "The new software will streamline the invoice approval process.",
+      "zh": "新软件将简化发票审批流程。"
+    },
+    {
+      "word": "subscription",
+      "spelling": "S, U, B, S, C, R, I, P, T, I, O, N",
+      "spoken_meaning": "名词，订阅，订购，会员费",
+      "en": "Your annual subscription will be renewed automatically unless you cancel it.",
+      "zh": "除非您取消，否则您的年度订阅将自动续订。"
+    },
+    {
+      "word": "subsidiary",
+      "spelling": "S, U, B, S, I, D, I, A, R, Y",
+      "spoken_meaning": "名词或形容词，子公司，附属的",
+      "en": "The company plans to open a subsidiary in Singapore next year.",
+      "zh": "公司计划明年在新加坡成立一家子公司。"
+    },
+    {
+      "word": "surpass",
+      "spelling": "S, U, R, P, A, S, S",
+      "spoken_meaning": "动词，超过，胜过",
+      "en": "Third-quarter profits surpassed analysts' expectations.",
+      "zh": "第三季度利润超出了分析师的预期。"
+    },
+    {
+      "word": "tariff",
+      "spelling": "T, A, R, I, F, F",
+      "spoken_meaning": "名词，关税，价目表",
+      "en": "The new tariffs have increased the cost of imported steel.",
+      "zh": "新的关税提高了进口钢材的成本。"
+    },
+    {
+      "word": "tenure",
+      "spelling": "T, E, N, U, R, E",
+      "spoken_meaning": "名词，任期，在职期间",
+      "en": "Sales doubled during her tenure as regional manager.",
+      "zh": "她担任区域经理期间，销售额翻了一番。"
+    },
+    {
+      "word": "testimonial",
+      "spelling": "T, E, S, T, I, M, O, N, I, A, L",
+      "spoken_meaning": "名词，客户评价，推荐信",
+      "en": "Our website features testimonials from satisfied clients.",
+      "zh": "我们的网站展示了满意客户的评价。"
+    },
+    {
+      "word": "timely",
+      "spelling": "T, I, M, E, L, Y",
+      "spoken_meaning": "形容词，及时的，适时的",
+      "en": "We appreciate your timely response to our inquiry.",
+      "zh": "感谢您及时回复我们的询问。"
+    },
+    {
+      "word": "tuition",
+      "spelling": "T, U, I, T, I, O, N",
+      "spoken_meaning": "名词，学费，教学",
+      "en": "The company offers tuition reimbursement for job-related courses.",
+      "zh": "公司为与工作相关的课程提供学费报销。"
+    },
+    {
+      "word": "unveil",
+      "spelling": "U, N, V, E, I, L",
+      "spoken_meaning": "动词，推出，公布，揭幕",
+      "en": "The company will unveil its new smartphone at next week's trade show.",
+      "zh": "公司将在下周的展会上推出新款智能手机。"
+    },
+    {
+      "word": "voucher",
+      "spelling": "V, O, U, C, H, E, R",
+      "spoken_meaning": "名词，代金券，凭证，优惠券",
+      "en": "As an apology for the delay, we have enclosed a $20 voucher.",
+      "zh": "为表示对延误的歉意，我们随信附上一张 20 美元的代金券。"
+    },
+    {
+      "word": "waive",
+      "spelling": "W, A, I, V, E",
+      "spoken_meaning": "动词，免除，放弃（权利）",
+      "en": "The bank agreed to waive the annual fee for the first year.",
+      "zh": "银行同意免收第一年的年费。"
+    },
+    {
+      "word": "abandon",
+      "spelling": "A, B, A, N, D, O, N",
+      "spoken_meaning": "动词，放弃，遗弃，中止",
+      "en": "The board decided to abandon the expansion project due to rising costs.",
+      "zh": "由于成本上升，董事会决定放弃扩建项目。"
+    },
+    {
+      "word": "abolish",
+      "spelling": "A, B, O, L, I, S, H",
+      "spoken_meaning": "动词，废除，取消（制度、规定）",
+      "en": "Management plans to abolish the outdated overtime policy next quarter.",
+      "zh": "管理层计划在下季度废除过时的加班政策。"
+    },
+    {
+      "word": "absence",
+      "spelling": "A, B, S, E, N, C, E",
+      "spoken_meaning": "名词，缺席，不在，缺乏",
+      "en": "Please contact the deputy manager in my absence.",
+      "zh": "我不在时请联系副经理。"
+    },
+    {
+      "word": "absorb",
+      "spelling": "A, B, S, O, R, B",
+      "spoken_meaning": "动词，吸收，理解，使全神贯注",
+      "en": "The supplier agreed to absorb the extra shipping cost.",
+      "zh": "供应商同意承担额外的运费。"
+    },
+    {
+      "word": "accelerate",
+      "spelling": "A, C, C, E, L, E, R, A, T, E",
+      "spoken_meaning": "动词，加速，加快，促进",
+      "en": "New software tools helped accelerate the product development cycle.",
+      "zh": "新的软件工具帮助加快了产品开发周期。"
+    },
+    {
+      "word": "accessible",
+      "spelling": "A, C, C, E, S, S, I, B, L, E",
+      "spoken_meaning": "形容词，可到达的，易获得的，易懂的",
+      "en": "The new branch is easily accessible by public transportation.",
+      "zh": "新分店乘坐公共交通很容易到达。"
+    },
+    {
+      "word": "accompany",
+      "spelling": "A, C, C, O, M, P, A, N, Y",
+      "spoken_meaning": "动词，陪伴，伴随，附有",
+      "en": "A detailed brochure will accompany each sample shipment.",
+      "zh": "每批样品出货都会附上一份详细手册。"
+    },
+    {
+      "word": "accomplish",
+      "spelling": "A, C, C, O, M, P, L, I, S, H",
+      "spoken_meaning": "动词，完成，实现，达成",
+      "en": "The team accomplished all of its quarterly sales targets.",
+      "zh": "该团队完成了所有季度销售目标。"
+    },
+    {
+      "word": "accountable",
+      "spelling": "A, C, C, O, U, N, T, A, B, L, E",
+      "spoken_meaning": "形容词，负有责任的，应作说明的",
+      "en": "Managers are accountable for meeting the safety standards.",
+      "zh": "经理们对达到安全标准负有责任。"
+    },
+    {
+      "word": "accumulate",
+      "spelling": "A, C, C, U, M, U, L, A, T, E",
+      "spoken_meaning": "动词，积累，积聚，堆积",
+      "en": "Interest will accumulate on the unpaid balance each month.",
+      "zh": "未付余额每月都会累积利息。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第24轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "safeguard",
+      "voice": "en",
+      "text": "safeguard",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "safeguard",
+      "voice": "en",
+      "text": "S, A, F, E, G, U, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "safeguard",
+      "voice": "zh",
+      "text": "动词或名词，保护，保障，保护措施",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "safeguard",
+      "voice": "en",
+      "text": "The new policy is designed to safeguard customers' personal information.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "safeguard",
+      "voice": "zh",
+      "text": "新政策旨在保护客户的个人信息。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "scrutinize",
+      "voice": "en",
+      "text": "scrutinize",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "scrutinize",
+      "voice": "en",
+      "text": "S, C, R, U, T, I, N, I, Z, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "scrutinize",
+      "voice": "zh",
+      "text": "动词，仔细审查，详查",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "scrutinize",
+      "voice": "en",
+      "text": "The auditors will scrutinize every expense report submitted this quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "scrutinize",
+      "voice": "zh",
+      "text": "审计人员将仔细审查本季度提交的每份报销单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "signature",
+      "voice": "en",
+      "text": "signature",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "signature",
+      "voice": "en",
+      "text": "S, I, G, N, A, T, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "signature",
+      "voice": "zh",
+      "text": "名词或形容词，签名，招牌的，标志性的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "signature",
+      "voice": "en",
+      "text": "Please return the form with your signature by Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "signature",
+      "voice": "zh",
+      "text": "请在周五前将签好名的表格交回。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "spreadsheet",
+      "voice": "en",
+      "text": "spreadsheet",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "spreadsheet",
+      "voice": "en",
+      "text": "S, P, R, E, A, D, S, H, E, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "spreadsheet",
+      "voice": "zh",
+      "text": "名词，电子表格",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "spreadsheet",
+      "voice": "en",
+      "text": "I've attached a spreadsheet with this month's sales figures.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "spreadsheet",
+      "voice": "zh",
+      "text": "我附上了一份包含本月销售数据的电子表格。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stake",
+      "voice": "en",
+      "text": "stake",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stake",
+      "voice": "en",
+      "text": "S, T, A, K, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stake",
+      "voice": "zh",
+      "text": "名词，股份，利害关系，赌注",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stake",
+      "voice": "en",
+      "text": "The investment group acquired a minority stake in the startup.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stake",
+      "voice": "zh",
+      "text": "该投资集团收购了这家初创公司的少数股权。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stationery",
+      "voice": "en",
+      "text": "stationery",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stationery",
+      "voice": "en",
+      "text": "S, T, A, T, I, O, N, E, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stationery",
+      "voice": "zh",
+      "text": "名词，文具，信纸",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stationery",
+      "voice": "en",
+      "text": "Please order more stationery before the supply cabinet runs out.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stationery",
+      "voice": "zh",
+      "text": "请在储物柜用完之前再订一些文具。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stipulate",
+      "voice": "en",
+      "text": "stipulate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stipulate",
+      "voice": "en",
+      "text": "S, T, I, P, U, L, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stipulate",
+      "voice": "zh",
+      "text": "动词，规定，明确要求",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stipulate",
+      "voice": "en",
+      "text": "The contract stipulates that payment must be made within 30 days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stipulate",
+      "voice": "zh",
+      "text": "合同规定必须在 30 天内付款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "storage",
+      "voice": "en",
+      "text": "storage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "storage",
+      "voice": "en",
+      "text": "S, T, O, R, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "storage",
+      "voice": "zh",
+      "text": "名词，储存，仓储，存储空间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "storage",
+      "voice": "en",
+      "text": "Old files have been moved to the storage room on the basement level.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "storage",
+      "voice": "zh",
+      "text": "旧文件已移到地下层的储藏室。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "streamline",
+      "voice": "en",
+      "text": "streamline",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "streamline",
+      "voice": "en",
+      "text": "S, T, R, E, A, M, L, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "streamline",
+      "voice": "zh",
+      "text": "动词，精简，使高效化",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "streamline",
+      "voice": "en",
+      "text": "The new software will streamline the invoice approval process.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "streamline",
+      "voice": "zh",
+      "text": "新软件将简化发票审批流程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "subscription",
+      "voice": "en",
+      "text": "subscription",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "subscription",
+      "voice": "en",
+      "text": "S, U, B, S, C, R, I, P, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "subscription",
+      "voice": "zh",
+      "text": "名词，订阅，订购，会员费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "subscription",
+      "voice": "en",
+      "text": "Your annual subscription will be renewed automatically unless you cancel it.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "subscription",
+      "voice": "zh",
+      "text": "除非您取消，否则您的年度订阅将自动续订。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "subsidiary",
+      "voice": "en",
+      "text": "subsidiary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "subsidiary",
+      "voice": "en",
+      "text": "S, U, B, S, I, D, I, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "subsidiary",
+      "voice": "zh",
+      "text": "名词或形容词，子公司，附属的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "subsidiary",
+      "voice": "en",
+      "text": "The company plans to open a subsidiary in Singapore next year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "subsidiary",
+      "voice": "zh",
+      "text": "公司计划明年在新加坡成立一家子公司。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "surpass",
+      "voice": "en",
+      "text": "surpass",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "surpass",
+      "voice": "en",
+      "text": "S, U, R, P, A, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "surpass",
+      "voice": "zh",
+      "text": "动词，超过，胜过",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "surpass",
+      "voice": "en",
+      "text": "Third-quarter profits surpassed analysts' expectations.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "surpass",
+      "voice": "zh",
+      "text": "第三季度利润超出了分析师的预期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tariff",
+      "voice": "en",
+      "text": "tariff",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tariff",
+      "voice": "en",
+      "text": "T, A, R, I, F, F",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tariff",
+      "voice": "zh",
+      "text": "名词，关税，价目表",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tariff",
+      "voice": "en",
+      "text": "The new tariffs have increased the cost of imported steel.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tariff",
+      "voice": "zh",
+      "text": "新的关税提高了进口钢材的成本。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tenure",
+      "voice": "en",
+      "text": "tenure",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tenure",
+      "voice": "en",
+      "text": "T, E, N, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tenure",
+      "voice": "zh",
+      "text": "名词，任期，在职期间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tenure",
+      "voice": "en",
+      "text": "Sales doubled during her tenure as regional manager.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tenure",
+      "voice": "zh",
+      "text": "她担任区域经理期间，销售额翻了一番。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "testimonial",
+      "voice": "en",
+      "text": "testimonial",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "testimonial",
+      "voice": "en",
+      "text": "T, E, S, T, I, M, O, N, I, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "testimonial",
+      "voice": "zh",
+      "text": "名词，客户评价，推荐信",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "testimonial",
+      "voice": "en",
+      "text": "Our website features testimonials from satisfied clients.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "testimonial",
+      "voice": "zh",
+      "text": "我们的网站展示了满意客户的评价。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "timely",
+      "voice": "en",
+      "text": "timely",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "timely",
+      "voice": "en",
+      "text": "T, I, M, E, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "timely",
+      "voice": "zh",
+      "text": "形容词，及时的，适时的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "timely",
+      "voice": "en",
+      "text": "We appreciate your timely response to our inquiry.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "timely",
+      "voice": "zh",
+      "text": "感谢您及时回复我们的询问。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tuition",
+      "voice": "en",
+      "text": "tuition",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tuition",
+      "voice": "en",
+      "text": "T, U, I, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tuition",
+      "voice": "zh",
+      "text": "名词，学费，教学",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tuition",
+      "voice": "en",
+      "text": "The company offers tuition reimbursement for job-related courses.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tuition",
+      "voice": "zh",
+      "text": "公司为与工作相关的课程提供学费报销。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "unveil",
+      "voice": "en",
+      "text": "unveil",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "unveil",
+      "voice": "en",
+      "text": "U, N, V, E, I, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "unveil",
+      "voice": "zh",
+      "text": "动词，推出，公布，揭幕",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "unveil",
+      "voice": "en",
+      "text": "The company will unveil its new smartphone at next week's trade show.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "unveil",
+      "voice": "zh",
+      "text": "公司将在下周的展会上推出新款智能手机。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "voucher",
+      "voice": "en",
+      "text": "voucher",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "voucher",
+      "voice": "en",
+      "text": "V, O, U, C, H, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "voucher",
+      "voice": "zh",
+      "text": "名词，代金券，凭证，优惠券",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "voucher",
+      "voice": "en",
+      "text": "As an apology for the delay, we have enclosed a $20 voucher.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "voucher",
+      "voice": "zh",
+      "text": "为表示对延误的歉意，我们随信附上一张 20 美元的代金券。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "waive",
+      "voice": "en",
+      "text": "waive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "waive",
+      "voice": "en",
+      "text": "W, A, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "waive",
+      "voice": "zh",
+      "text": "动词，免除，放弃（权利）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "waive",
+      "voice": "en",
+      "text": "The bank agreed to waive the annual fee for the first year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "waive",
+      "voice": "zh",
+      "text": "银行同意免收第一年的年费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "abandon",
+      "voice": "en",
+      "text": "abandon",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "abandon",
+      "voice": "en",
+      "text": "A, B, A, N, D, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "abandon",
+      "voice": "zh",
+      "text": "动词，放弃，遗弃，中止",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "abandon",
+      "voice": "en",
+      "text": "The board decided to abandon the expansion project due to rising costs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "abandon",
+      "voice": "zh",
+      "text": "由于成本上升，董事会决定放弃扩建项目。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "abolish",
+      "voice": "en",
+      "text": "abolish",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "abolish",
+      "voice": "en",
+      "text": "A, B, O, L, I, S, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "abolish",
+      "voice": "zh",
+      "text": "动词，废除，取消（制度、规定）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "abolish",
+      "voice": "en",
+      "text": "Management plans to abolish the outdated overtime policy next quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "abolish",
+      "voice": "zh",
+      "text": "管理层计划在下季度废除过时的加班政策。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "absence",
+      "voice": "en",
+      "text": "absence",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "absence",
+      "voice": "en",
+      "text": "A, B, S, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "absence",
+      "voice": "zh",
+      "text": "名词，缺席，不在，缺乏",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "absence",
+      "voice": "en",
+      "text": "Please contact the deputy manager in my absence.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "absence",
+      "voice": "zh",
+      "text": "我不在时请联系副经理。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "absorb",
+      "voice": "en",
+      "text": "absorb",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "absorb",
+      "voice": "en",
+      "text": "A, B, S, O, R, B",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "absorb",
+      "voice": "zh",
+      "text": "动词，吸收，理解，使全神贯注",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "absorb",
+      "voice": "en",
+      "text": "The supplier agreed to absorb the extra shipping cost.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "absorb",
+      "voice": "zh",
+      "text": "供应商同意承担额外的运费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "accelerate",
+      "voice": "en",
+      "text": "accelerate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "accelerate",
+      "voice": "en",
+      "text": "A, C, C, E, L, E, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "accelerate",
+      "voice": "zh",
+      "text": "动词，加速，加快，促进",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "accelerate",
+      "voice": "en",
+      "text": "New software tools helped accelerate the product development cycle.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "accelerate",
+      "voice": "zh",
+      "text": "新的软件工具帮助加快了产品开发周期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "accessible",
+      "voice": "en",
+      "text": "accessible",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "accessible",
+      "voice": "en",
+      "text": "A, C, C, E, S, S, I, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "accessible",
+      "voice": "zh",
+      "text": "形容词，可到达的，易获得的，易懂的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "accessible",
+      "voice": "en",
+      "text": "The new branch is easily accessible by public transportation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "accessible",
+      "voice": "zh",
+      "text": "新分店乘坐公共交通很容易到达。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "accompany",
+      "voice": "en",
+      "text": "accompany",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "accompany",
+      "voice": "en",
+      "text": "A, C, C, O, M, P, A, N, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "accompany",
+      "voice": "zh",
+      "text": "动词，陪伴，伴随，附有",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "accompany",
+      "voice": "en",
+      "text": "A detailed brochure will accompany each sample shipment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "accompany",
+      "voice": "zh",
+      "text": "每批样品出货都会附上一份详细手册。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "accomplish",
+      "voice": "en",
+      "text": "accomplish",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "accomplish",
+      "voice": "en",
+      "text": "A, C, C, O, M, P, L, I, S, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "accomplish",
+      "voice": "zh",
+      "text": "动词，完成，实现，达成",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "accomplish",
+      "voice": "en",
+      "text": "The team accomplished all of its quarterly sales targets.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "accomplish",
+      "voice": "zh",
+      "text": "该团队完成了所有季度销售目标。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "accountable",
+      "voice": "en",
+      "text": "accountable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "accountable",
+      "voice": "en",
+      "text": "A, C, C, O, U, N, T, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "accountable",
+      "voice": "zh",
+      "text": "形容词，负有责任的，应作说明的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "accountable",
+      "voice": "en",
+      "text": "Managers are accountable for meeting the safety standards.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "accountable",
+      "voice": "zh",
+      "text": "经理们对达到安全标准负有责任。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "accumulate",
+      "voice": "en",
+      "text": "accumulate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "accumulate",
+      "voice": "en",
+      "text": "A, C, C, U, M, U, L, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "accumulate",
+      "voice": "zh",
+      "text": "动词，积累，积聚，堆积",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "accumulate",
+      "voice": "en",
+      "text": "Interest will accumulate on the unpaid balance each month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "accumulate",
+      "voice": "zh",
+      "text": "未付余额每月都会累积利息。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第24轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

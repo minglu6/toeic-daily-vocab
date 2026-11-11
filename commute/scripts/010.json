@@ -1,0 +1,1314 @@
+{
+  "id": "010",
+  "track": 10,
+  "title": "第 10 轨",
+  "word_count": 30,
+  "headwords": [
+    "raise",
+    "range",
+    "rank",
+    "rate",
+    "ratio",
+    "reach",
+    "recall",
+    "receipt",
+    "receive",
+    "recipient",
+    "recommend",
+    "reconcile",
+    "recover",
+    "reduce",
+    "redundant",
+    "refer",
+    "reference",
+    "refine",
+    "regard",
+    "register",
+    "regulate",
+    "reinforce",
+    "reject",
+    "release",
+    "relevant",
+    "rely",
+    "remain",
+    "remedy",
+    "remittance",
+    "remove"
+  ],
+  "entries": [
+    {
+      "word": "raise",
+      "spelling": "R, A, I, S, E",
+      "spoken_meaning": "动词或名词，提高，筹措，加薪",
+      "en": "Management decided to raise salaries for customer service staff.",
+      "zh": "管理层决定提高客服人员的工资。"
+    },
+    {
+      "word": "range",
+      "spelling": "R, A, N, G, E",
+      "spoken_meaning": "名词或动词，范围，系列，变化幅度",
+      "en": "Our product range now includes eco-friendly packaging options.",
+      "zh": "我们的产品系列现在包含环保包装选项。"
+    },
+    {
+      "word": "rank",
+      "spelling": "R, A, N, K",
+      "spoken_meaning": "名词或动词，等级，排名，列为",
+      "en": "The brand ranks among the top three in customer satisfaction.",
+      "zh": "该品牌在客户满意度方面位列前三。"
+    },
+    {
+      "word": "rate",
+      "spelling": "R, A, T, E",
+      "spoken_meaning": "名词或动词，比率，费率，评价",
+      "en": "The bank lowered the interest rate on small business loans.",
+      "zh": "银行下调了小企业贷款的利率。"
+    },
+    {
+      "word": "ratio",
+      "spelling": "R, A, T, I, O",
+      "spoken_meaning": "名词，比率，比例",
+      "en": "The debt-to-equity ratio remains within the board's target range.",
+      "zh": "资产负债比率仍保持在董事会的目标范围内。"
+    },
+    {
+      "word": "reach",
+      "spelling": "R, E, A, C, H",
+      "spoken_meaning": "动词或名词，到达，达到，影响范围",
+      "en": "After long talks, both sides finally reached an agreement.",
+      "zh": "经过长时间谈判，双方终于达成协议。"
+    },
+    {
+      "word": "recall",
+      "spelling": "R, E, C, A, L, L",
+      "spoken_meaning": "动词或名词，召回（产品），回想，撤销",
+      "en": "The manufacturer issued a recall of the defective chargers.",
+      "zh": "制造商对有缺陷的充电器发出了召回通知。"
+    },
+    {
+      "word": "receipt",
+      "spelling": "R, E, C, E, I, P, T",
+      "spoken_meaning": "名词，收据，收到，接收",
+      "en": "Please keep the receipt for your travel expense claim.",
+      "zh": "请保留收据以便报销差旅费。"
+    },
+    {
+      "word": "receive",
+      "spelling": "R, E, C, E, I, V, E",
+      "spoken_meaning": "动词，收到，接待，接受",
+      "en": "We expect to receive the shipment by the end of this week.",
+      "zh": "我们预计本周末前收到这批货物。"
+    },
+    {
+      "word": "recipient",
+      "spelling": "R, E, C, I, P, I, E, N, T",
+      "spoken_meaning": "名词，接收者，收件人，获奖者",
+      "en": "Please confirm that the email recipient list is up to date.",
+      "zh": "请确认邮件收件人列表是最新的。"
+    },
+    {
+      "word": "recommend",
+      "spelling": "R, E, C, O, M, M, E, N, D",
+      "spoken_meaning": "动词，推荐，建议",
+      "en": "I highly recommend that we postpone the launch until next month.",
+      "zh": "我强烈建议把发布推迟到下个月。"
+    },
+    {
+      "word": "reconcile",
+      "spelling": "R, E, C, O, N, C, I, L, E",
+      "spoken_meaning": "动词，对账，和解，使一致",
+      "en": "Accounting needs to reconcile the bank statement with our records.",
+      "zh": "会计需要将银行对账单与我们的记录核对一致。"
+    },
+    {
+      "word": "recover",
+      "spelling": "R, E, C, O, V, E, R",
+      "spoken_meaning": "动词，恢复，收回，康复",
+      "en": "Sales began to recover after the new marketing campaign launched.",
+      "zh": "新营销活动启动后，销售额开始回升。"
+    },
+    {
+      "word": "reduce",
+      "spelling": "R, E, D, U, C, E",
+      "spoken_meaning": "动词，减少，降低，缩小",
+      "en": "The new process will reduce shipping costs by about fifteen percent.",
+      "zh": "新流程将使运费大约降低百分之十五。"
+    },
+    {
+      "word": "redundant",
+      "spelling": "R, E, D, U, N, D, A, N, T",
+      "spoken_meaning": "形容词，多余的，被裁员的，冗余的",
+      "en": "Several warehouse positions were made redundant after automation.",
+      "zh": "自动化之后，若干仓库岗位被裁撤。"
+    },
+    {
+      "word": "refer",
+      "spelling": "R, E, F, E, R",
+      "spoken_meaning": "动词，提及，参考，转介",
+      "en": "Please refer to the employee handbook for the leave policy.",
+      "zh": "请假政策请参阅员工手册。"
+    },
+    {
+      "word": "reference",
+      "spelling": "R, E, F, E, R, E, N, C, E",
+      "spoken_meaning": "名词，参考，推荐信，提及",
+      "en": "Please attach two professional references to your application.",
+      "zh": "请在申请材料中附上两份职业推荐信。"
+    },
+    {
+      "word": "refine",
+      "spelling": "R, E, F, I, N, E",
+      "spoken_meaning": "动词，改进，精炼，使更完善",
+      "en": "The design team will refine the prototype based on user feedback.",
+      "zh": "设计团队将根据用户反馈完善原型。"
+    },
+    {
+      "word": "regard",
+      "spelling": "R, E, G, A, R, D",
+      "spoken_meaning": "动词或名词，看待，尊重，方面",
+      "en": "With regard to the delay, we will issue a full refund.",
+      "zh": "关于这次延误，我们将全额退款。"
+    },
+    {
+      "word": "register",
+      "spelling": "R, E, G, I, S, T, E, R",
+      "spoken_meaning": "动词或名词，登记，注册，登记簿",
+      "en": "Employees must register for the safety workshop by Friday.",
+      "zh": "员工须在周五前报名参加安全培训。"
+    },
+    {
+      "word": "regulate",
+      "spelling": "R, E, G, U, L, A, T, E",
+      "spoken_meaning": "动词，监管，调控，规范",
+      "en": "The agency will regulate online advertising to protect consumers.",
+      "zh": "该机构将监管网络广告以保护消费者。"
+    },
+    {
+      "word": "reinforce",
+      "spelling": "R, E, I, N, F, O, R, C, E",
+      "spoken_meaning": "动词，加强，强化，加固",
+      "en": "Managers should reinforce safety rules during every shift briefing.",
+      "zh": "经理应在每次班前会上再次强调安全规定。"
+    },
+    {
+      "word": "reject",
+      "spelling": "R, E, J, E, C, T",
+      "spoken_meaning": "动词，拒绝，驳回，拒收",
+      "en": "The board voted to reject the merger proposal unanimously.",
+      "zh": "董事会一致投票否决了该合并提案。"
+    },
+    {
+      "word": "release",
+      "spelling": "R, E, L, E, A, S, E",
+      "spoken_meaning": "动词或名词，发布，释放，发行",
+      "en": "The company will release a new software update next Monday.",
+      "zh": "公司将在下周一发布新的软件更新。"
+    },
+    {
+      "word": "relevant",
+      "spelling": "R, E, L, E, V, A, N, T",
+      "spoken_meaning": "形容词，相关的，切题的",
+      "en": "Please attach only documents that are relevant to the application.",
+      "zh": "请只附上与申请相关的文件。"
+    },
+    {
+      "word": "rely",
+      "spelling": "R, E, L, Y",
+      "spoken_meaning": "动词，依靠，信赖",
+      "en": "Small shops often rely on weekend traffic for most of their sales.",
+      "zh": "小店常常依赖周末客流来完成大部分销售。"
+    },
+    {
+      "word": "remain",
+      "spelling": "R, E, M, A, I, N",
+      "spoken_meaning": "动词，保持，仍然是，留下",
+      "en": "Customer satisfaction scores remain high despite the price increase.",
+      "zh": "尽管涨价，客户满意度得分仍然很高。"
+    },
+    {
+      "word": "remedy",
+      "spelling": "R, E, M, E, D, Y",
+      "spoken_meaning": "名词或动词，补救办法，纠正，治疗",
+      "en": "We are working with the vendor to remedy the billing error quickly.",
+      "zh": "我们正与供应商合作，尽快纠正账单错误。"
+    },
+    {
+      "word": "remittance",
+      "spelling": "R, E, M, I, T, T, A, N, C, E",
+      "spoken_meaning": "名词，汇款，汇付金额",
+      "en": "Please confirm that the remittance has reached our bank account.",
+      "zh": "请确认汇款已到我们的银行账户。"
+    },
+    {
+      "word": "remove",
+      "spelling": "R, E, M, O, V, E",
+      "spoken_meaning": "动词，移除，开除，去掉",
+      "en": "Please remove outdated prices from the online catalog tonight.",
+      "zh": "请今晚把过时价格从在线目录中删除。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第10轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "raise",
+      "voice": "en",
+      "text": "raise",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "raise",
+      "voice": "en",
+      "text": "R, A, I, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "raise",
+      "voice": "zh",
+      "text": "动词或名词，提高，筹措，加薪",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "raise",
+      "voice": "en",
+      "text": "Management decided to raise salaries for customer service staff.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "raise",
+      "voice": "zh",
+      "text": "管理层决定提高客服人员的工资。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "range",
+      "voice": "en",
+      "text": "range",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "range",
+      "voice": "en",
+      "text": "R, A, N, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "range",
+      "voice": "zh",
+      "text": "名词或动词，范围，系列，变化幅度",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "range",
+      "voice": "en",
+      "text": "Our product range now includes eco-friendly packaging options.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "range",
+      "voice": "zh",
+      "text": "我们的产品系列现在包含环保包装选项。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "rank",
+      "voice": "en",
+      "text": "rank",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rank",
+      "voice": "en",
+      "text": "R, A, N, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rank",
+      "voice": "zh",
+      "text": "名词或动词，等级，排名，列为",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rank",
+      "voice": "en",
+      "text": "The brand ranks among the top three in customer satisfaction.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rank",
+      "voice": "zh",
+      "text": "该品牌在客户满意度方面位列前三。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "rate",
+      "voice": "en",
+      "text": "rate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rate",
+      "voice": "en",
+      "text": "R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rate",
+      "voice": "zh",
+      "text": "名词或动词，比率，费率，评价",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rate",
+      "voice": "en",
+      "text": "The bank lowered the interest rate on small business loans.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rate",
+      "voice": "zh",
+      "text": "银行下调了小企业贷款的利率。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ratio",
+      "voice": "en",
+      "text": "ratio",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ratio",
+      "voice": "en",
+      "text": "R, A, T, I, O",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ratio",
+      "voice": "zh",
+      "text": "名词，比率，比例",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ratio",
+      "voice": "en",
+      "text": "The debt-to-equity ratio remains within the board's target range.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ratio",
+      "voice": "zh",
+      "text": "资产负债比率仍保持在董事会的目标范围内。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reach",
+      "voice": "en",
+      "text": "reach",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reach",
+      "voice": "en",
+      "text": "R, E, A, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reach",
+      "voice": "zh",
+      "text": "动词或名词，到达，达到，影响范围",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reach",
+      "voice": "en",
+      "text": "After long talks, both sides finally reached an agreement.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reach",
+      "voice": "zh",
+      "text": "经过长时间谈判，双方终于达成协议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "recall",
+      "voice": "en",
+      "text": "recall",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "recall",
+      "voice": "en",
+      "text": "R, E, C, A, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "recall",
+      "voice": "zh",
+      "text": "动词或名词，召回（产品），回想，撤销",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "recall",
+      "voice": "en",
+      "text": "The manufacturer issued a recall of the defective chargers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "recall",
+      "voice": "zh",
+      "text": "制造商对有缺陷的充电器发出了召回通知。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "receipt",
+      "voice": "en",
+      "text": "receipt",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "receipt",
+      "voice": "en",
+      "text": "R, E, C, E, I, P, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "receipt",
+      "voice": "zh",
+      "text": "名词，收据，收到，接收",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "receipt",
+      "voice": "en",
+      "text": "Please keep the receipt for your travel expense claim.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "receipt",
+      "voice": "zh",
+      "text": "请保留收据以便报销差旅费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "receive",
+      "voice": "en",
+      "text": "receive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "receive",
+      "voice": "en",
+      "text": "R, E, C, E, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "receive",
+      "voice": "zh",
+      "text": "动词，收到，接待，接受",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "receive",
+      "voice": "en",
+      "text": "We expect to receive the shipment by the end of this week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "receive",
+      "voice": "zh",
+      "text": "我们预计本周末前收到这批货物。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "recipient",
+      "voice": "en",
+      "text": "recipient",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "recipient",
+      "voice": "en",
+      "text": "R, E, C, I, P, I, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "recipient",
+      "voice": "zh",
+      "text": "名词，接收者，收件人，获奖者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "recipient",
+      "voice": "en",
+      "text": "Please confirm that the email recipient list is up to date.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "recipient",
+      "voice": "zh",
+      "text": "请确认邮件收件人列表是最新的。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "recommend",
+      "voice": "en",
+      "text": "recommend",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "recommend",
+      "voice": "en",
+      "text": "R, E, C, O, M, M, E, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "recommend",
+      "voice": "zh",
+      "text": "动词，推荐，建议",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "recommend",
+      "voice": "en",
+      "text": "I highly recommend that we postpone the launch until next month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "recommend",
+      "voice": "zh",
+      "text": "我强烈建议把发布推迟到下个月。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reconcile",
+      "voice": "en",
+      "text": "reconcile",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reconcile",
+      "voice": "en",
+      "text": "R, E, C, O, N, C, I, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reconcile",
+      "voice": "zh",
+      "text": "动词，对账，和解，使一致",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reconcile",
+      "voice": "en",
+      "text": "Accounting needs to reconcile the bank statement with our records.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reconcile",
+      "voice": "zh",
+      "text": "会计需要将银行对账单与我们的记录核对一致。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "recover",
+      "voice": "en",
+      "text": "recover",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "recover",
+      "voice": "en",
+      "text": "R, E, C, O, V, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "recover",
+      "voice": "zh",
+      "text": "动词，恢复，收回，康复",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "recover",
+      "voice": "en",
+      "text": "Sales began to recover after the new marketing campaign launched.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "recover",
+      "voice": "zh",
+      "text": "新营销活动启动后，销售额开始回升。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reduce",
+      "voice": "en",
+      "text": "reduce",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reduce",
+      "voice": "en",
+      "text": "R, E, D, U, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reduce",
+      "voice": "zh",
+      "text": "动词，减少，降低，缩小",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reduce",
+      "voice": "en",
+      "text": "The new process will reduce shipping costs by about fifteen percent.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reduce",
+      "voice": "zh",
+      "text": "新流程将使运费大约降低百分之十五。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "redundant",
+      "voice": "en",
+      "text": "redundant",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "redundant",
+      "voice": "en",
+      "text": "R, E, D, U, N, D, A, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "redundant",
+      "voice": "zh",
+      "text": "形容词，多余的，被裁员的，冗余的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "redundant",
+      "voice": "en",
+      "text": "Several warehouse positions were made redundant after automation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "redundant",
+      "voice": "zh",
+      "text": "自动化之后，若干仓库岗位被裁撤。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "refer",
+      "voice": "en",
+      "text": "refer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "refer",
+      "voice": "en",
+      "text": "R, E, F, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "refer",
+      "voice": "zh",
+      "text": "动词，提及，参考，转介",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "refer",
+      "voice": "en",
+      "text": "Please refer to the employee handbook for the leave policy.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "refer",
+      "voice": "zh",
+      "text": "请假政策请参阅员工手册。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reference",
+      "voice": "en",
+      "text": "reference",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reference",
+      "voice": "en",
+      "text": "R, E, F, E, R, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reference",
+      "voice": "zh",
+      "text": "名词，参考，推荐信，提及",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reference",
+      "voice": "en",
+      "text": "Please attach two professional references to your application.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reference",
+      "voice": "zh",
+      "text": "请在申请材料中附上两份职业推荐信。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "refine",
+      "voice": "en",
+      "text": "refine",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "refine",
+      "voice": "en",
+      "text": "R, E, F, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "refine",
+      "voice": "zh",
+      "text": "动词，改进，精炼，使更完善",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "refine",
+      "voice": "en",
+      "text": "The design team will refine the prototype based on user feedback.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "refine",
+      "voice": "zh",
+      "text": "设计团队将根据用户反馈完善原型。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "regard",
+      "voice": "en",
+      "text": "regard",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "regard",
+      "voice": "en",
+      "text": "R, E, G, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "regard",
+      "voice": "zh",
+      "text": "动词或名词，看待，尊重，方面",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "regard",
+      "voice": "en",
+      "text": "With regard to the delay, we will issue a full refund.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "regard",
+      "voice": "zh",
+      "text": "关于这次延误，我们将全额退款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "register",
+      "voice": "en",
+      "text": "register",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "register",
+      "voice": "en",
+      "text": "R, E, G, I, S, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "register",
+      "voice": "zh",
+      "text": "动词或名词，登记，注册，登记簿",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "register",
+      "voice": "en",
+      "text": "Employees must register for the safety workshop by Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "register",
+      "voice": "zh",
+      "text": "员工须在周五前报名参加安全培训。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "regulate",
+      "voice": "en",
+      "text": "regulate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "regulate",
+      "voice": "en",
+      "text": "R, E, G, U, L, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "regulate",
+      "voice": "zh",
+      "text": "动词，监管，调控，规范",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "regulate",
+      "voice": "en",
+      "text": "The agency will regulate online advertising to protect consumers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "regulate",
+      "voice": "zh",
+      "text": "该机构将监管网络广告以保护消费者。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reinforce",
+      "voice": "en",
+      "text": "reinforce",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reinforce",
+      "voice": "en",
+      "text": "R, E, I, N, F, O, R, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reinforce",
+      "voice": "zh",
+      "text": "动词，加强，强化，加固",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reinforce",
+      "voice": "en",
+      "text": "Managers should reinforce safety rules during every shift briefing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reinforce",
+      "voice": "zh",
+      "text": "经理应在每次班前会上再次强调安全规定。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reject",
+      "voice": "en",
+      "text": "reject",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reject",
+      "voice": "en",
+      "text": "R, E, J, E, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reject",
+      "voice": "zh",
+      "text": "动词，拒绝，驳回，拒收",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reject",
+      "voice": "en",
+      "text": "The board voted to reject the merger proposal unanimously.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reject",
+      "voice": "zh",
+      "text": "董事会一致投票否决了该合并提案。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "release",
+      "voice": "en",
+      "text": "release",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "release",
+      "voice": "en",
+      "text": "R, E, L, E, A, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "release",
+      "voice": "zh",
+      "text": "动词或名词，发布，释放，发行",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "release",
+      "voice": "en",
+      "text": "The company will release a new software update next Monday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "release",
+      "voice": "zh",
+      "text": "公司将在下周一发布新的软件更新。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "relevant",
+      "voice": "en",
+      "text": "relevant",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "relevant",
+      "voice": "en",
+      "text": "R, E, L, E, V, A, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "relevant",
+      "voice": "zh",
+      "text": "形容词，相关的，切题的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "relevant",
+      "voice": "en",
+      "text": "Please attach only documents that are relevant to the application.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "relevant",
+      "voice": "zh",
+      "text": "请只附上与申请相关的文件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "rely",
+      "voice": "en",
+      "text": "rely",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rely",
+      "voice": "en",
+      "text": "R, E, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rely",
+      "voice": "zh",
+      "text": "动词，依靠，信赖",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rely",
+      "voice": "en",
+      "text": "Small shops often rely on weekend traffic for most of their sales.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rely",
+      "voice": "zh",
+      "text": "小店常常依赖周末客流来完成大部分销售。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "remain",
+      "voice": "en",
+      "text": "remain",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "remain",
+      "voice": "en",
+      "text": "R, E, M, A, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "remain",
+      "voice": "zh",
+      "text": "动词，保持，仍然是，留下",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "remain",
+      "voice": "en",
+      "text": "Customer satisfaction scores remain high despite the price increase.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "remain",
+      "voice": "zh",
+      "text": "尽管涨价，客户满意度得分仍然很高。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "remedy",
+      "voice": "en",
+      "text": "remedy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "remedy",
+      "voice": "en",
+      "text": "R, E, M, E, D, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "remedy",
+      "voice": "zh",
+      "text": "名词或动词，补救办法，纠正，治疗",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "remedy",
+      "voice": "en",
+      "text": "We are working with the vendor to remedy the billing error quickly.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "remedy",
+      "voice": "zh",
+      "text": "我们正与供应商合作，尽快纠正账单错误。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "remittance",
+      "voice": "en",
+      "text": "remittance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "remittance",
+      "voice": "en",
+      "text": "R, E, M, I, T, T, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "remittance",
+      "voice": "zh",
+      "text": "名词，汇款，汇付金额",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "remittance",
+      "voice": "en",
+      "text": "Please confirm that the remittance has reached our bank account.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "remittance",
+      "voice": "zh",
+      "text": "请确认汇款已到我们的银行账户。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "remove",
+      "voice": "en",
+      "text": "remove",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "remove",
+      "voice": "en",
+      "text": "R, E, M, O, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "remove",
+      "voice": "zh",
+      "text": "动词，移除，开除，去掉",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "remove",
+      "voice": "en",
+      "text": "Please remove outdated prices from the online catalog tonight.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "remove",
+      "voice": "zh",
+      "text": "请今晚把过时价格从在线目录中删除。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第10轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

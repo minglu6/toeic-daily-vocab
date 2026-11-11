@@ -1,0 +1,1314 @@
+{
+  "id": "041",
+  "track": 41,
+  "title": "第 41 轨",
+  "word_count": 30,
+  "headwords": [
+    "letter-of-credit",
+    "cash-flow",
+    "joint-venture",
+    "year-over-year",
+    "underwriter",
+    "renovation",
+    "evacuation",
+    "fire-drill",
+    "hard-hat",
+    "lockout",
+    "hard-copy",
+    "in-house",
+    "off-site",
+    "work-order",
+    "change-order",
+    "purchase-order",
+    "desk-audit",
+    "stocktaking",
+    "soft-skills",
+    "front-line",
+    "apprenticeship",
+    "internship",
+    "mentoring",
+    "cross-training",
+    "hiring-freeze",
+    "new-hire",
+    "performance-review",
+    "paid-leave",
+    "open-enrollment",
+    "redundancy"
+  ],
+  "entries": [
+    {
+      "word": "letter-of-credit",
+      "spelling": "L, E, T, T, E, R, hyphen, O, F, hyphen, C, R, E, D, I, T",
+      "spoken_meaning": "名词，信用证，信用状，银行付款保证文件",
+      "en": "Shipment will not leave the port until the letter of credit is confirmed.",
+      "zh": "信用证保兑前，货物不会离港。"
+    },
+    {
+      "word": "cash-flow",
+      "spelling": "C, A, S, H, hyphen, F, L, O, W",
+      "spoken_meaning": "名词，现金流，资金流动，现金收支",
+      "en": "Delayed receivables are putting pressure on our monthly cash flow.",
+      "zh": "应收账款回笼延迟正对我们的月度现金流造成压力。"
+    },
+    {
+      "word": "joint-venture",
+      "spelling": "J, O, I, N, T, hyphen, V, E, N, T, U, R, E",
+      "spoken_meaning": "名词，合资企业，合资项目，合作经营",
+      "en": "The two manufacturers announced a joint venture to build batteries locally.",
+      "zh": "两家制造商宣布成立合资企业，在本地生产电池。"
+    },
+    {
+      "word": "year-over-year",
+      "spelling": "Y, E, A, R, hyphen, O, V, E, R, hyphen, Y, E, A, R",
+      "spoken_meaning": "形容词或副词，同比的，与去年同期相比，逐年对比",
+      "en": "Sales rose twelve percent year-over-year despite softer footfall.",
+      "zh": "尽管客流偏软，销售额仍同比增长百分之十二。"
+    },
+    {
+      "word": "underwriter",
+      "spelling": "U, N, D, E, R, W, R, I, T, E, R",
+      "spoken_meaning": "名词，承保人，承销商，担保人",
+      "en": "The underwriter requested additional safety data before issuing the policy.",
+      "zh": "承保人在出具保单前要求补充安全数据。"
+    },
+    {
+      "word": "renovation",
+      "spelling": "R, E, N, O, V, A, T, I, O, N",
+      "spoken_meaning": "名词，翻新，整修，装修改造",
+      "en": "The lobby will remain closed during the three-week renovation.",
+      "zh": "大厅将在为期三周的翻新期间保持关闭。"
+    },
+    {
+      "word": "evacuation",
+      "spelling": "E, V, A, C, U, A, T, I, O, N",
+      "spoken_meaning": "名词，疏散，撤离，清空撤离",
+      "en": "Staff must know the nearest evacuation route from every meeting room.",
+      "zh": "员工必须了解从每间会议室到最近疏散路线的路径。"
+    },
+    {
+      "word": "fire-drill",
+      "spelling": "F, I, R, E, hyphen, D, R, I, L, L",
+      "spoken_meaning": "名词，消防演练，火灾疏散演习，应急演练（喻）",
+      "en": "A building-wide fire drill is scheduled for Thursday at 10 a.m.",
+      "zh": "整栋楼的消防演练定于周四上午十点举行。"
+    },
+    {
+      "word": "hard-hat",
+      "spelling": "H, A, R, D, hyphen, H, A, T",
+      "spoken_meaning": "名词，安全帽，硬壳帽，工地防护帽",
+      "en": "Visitors must wear a hard hat before entering the construction zone.",
+      "zh": "访客进入施工区域前必须佩戴安全帽。"
+    },
+    {
+      "word": "lockout",
+      "spelling": "L, O, C, K, O, U, T",
+      "spoken_meaning": "名词，停工闭厂，封锁，拒绝入内",
+      "en": "Negotiations resumed after a two-week lockout at the distribution center.",
+      "zh": "配送中心闭厂两周后，谈判重新开始。"
+    },
+    {
+      "word": "hard-copy",
+      "spelling": "H, A, R, D, hyphen, C, O, P, Y",
+      "spoken_meaning": "名词，纸质副本，打印件，硬拷贝",
+      "en": "Please bring a hard copy of your résumé to the interview desk.",
+      "zh": "请带一份纸质简历到面试接待台。"
+    },
+    {
+      "word": "in-house",
+      "spelling": "I, N, hyphen, H, O, U, S, E",
+      "spoken_meaning": "形容词或副词，内部的，公司自有的，在内部进行",
+      "en": "We decided to build the reporting tool in-house instead of buying software.",
+      "zh": "我们决定内部开发报表工具，而不是外购软件。"
+    },
+    {
+      "word": "off-site",
+      "spelling": "O, F, F, hyphen, S, I, T, E",
+      "spoken_meaning": "形容词或副词或名词，场外的，异地的，外出研讨活动",
+      "en": "The leadership off-site will focus on next year's budget priorities.",
+      "zh": "领导层外出研讨将聚焦明年的预算优先级。"
+    },
+    {
+      "word": "work-order",
+      "spelling": "W, O, R, K, hyphen, O, R, D, E, R",
+      "spoken_meaning": "名词，工单，工作指令单，维修派工单",
+      "en": "Facilities opened a work order to replace the broken thermostat.",
+      "zh": "设施部门开立了工单以更换损坏的恒温器。"
+    },
+    {
+      "word": "change-order",
+      "spelling": "C, H, A, N, G, E, hyphen, O, R, D, E, R",
+      "spoken_meaning": "名词，变更单，工程变更指令，合同变更令",
+      "en": "Any scope increase must be documented in a signed change order.",
+      "zh": "任何范围扩大都必须以已签署的变更单记录。"
+    },
+    {
+      "word": "purchase-order",
+      "spelling": "P, U, R, C, H, A, S, E, hyphen, O, R, D, E, R",
+      "spoken_meaning": "名词，采购订单，订购单，PO",
+      "en": "Accounts payable will not process invoices without a matching purchase order.",
+      "zh": "应付账款部门不会处理没有对应采购订单的发票。"
+    },
+    {
+      "word": "desk-audit",
+      "spelling": "D, E, S, K, hyphen, A, U, D, I, T",
+      "spoken_meaning": "名词，案头审计，书面审核，非现场稽核",
+      "en": "Payroll underwent a desk audit of overtime approvals last quarter.",
+      "zh": "上季度薪酬部门接受了加班审批的案头审计。"
+    },
+    {
+      "word": "stocktaking",
+      "spelling": "S, T, O, C, K, T, A, K, I, N, G",
+      "spoken_meaning": "名词，盘点，存货清点，库存盘查",
+      "en": "The warehouse will close early on Friday for year-end stocktaking.",
+      "zh": "仓库周五将提前关门以进行年终盘点。"
+    },
+    {
+      "word": "soft-skills",
+      "spelling": "S, O, F, T, hyphen, S, K, I, L, L, S",
+      "spoken_meaning": "名词，软技能，人际与沟通能力，非技术素养",
+      "en": "The promotion criteria now weigh soft skills as heavily as technical ability.",
+      "zh": "晋升标准现已将软技能与技术能力同等权重。"
+    },
+    {
+      "word": "front-line",
+      "spelling": "F, R, O, N, T, hyphen, L, I, N, E",
+      "spoken_meaning": "形容词或名词，一线的，前线，直接面对客户的岗位",
+      "en": "Front-line agents need clearer scripts for refund requests.",
+      "zh": "一线客服需要更清晰的退款话术脚本。"
+    },
+    {
+      "word": "apprenticeship",
+      "spelling": "A, P, P, R, E, N, T, I, C, E, S, H, I, P",
+      "spoken_meaning": "名词，学徒制，学徒期，学徒培训项目",
+      "en": "The manufacturer launched a two-year apprenticeship for maintenance technicians.",
+      "zh": "该制造商为维修技师推出了为期两年的学徒项目。"
+    },
+    {
+      "word": "internship",
+      "spelling": "I, N, T, E, R, N, S, H, I, P",
+      "spoken_meaning": "名词，实习，实习期，实习岗位",
+      "en": "Her marketing internship included drafting campaign briefs and analyzing survey data.",
+      "zh": "她的营销实习包括起草活动简报和分析调查数据。"
+    },
+    {
+      "word": "mentoring",
+      "spelling": "M, E, N, T, O, R, I, N, G",
+      "spoken_meaning": "名词，导师辅导，师徒指导，辅导关系",
+      "en": "The firm pairs every new analyst with a senior partner for six months of mentoring.",
+      "zh": "公司为每位新分析师配对一位资深合伙人，进行六个月的辅导。"
+    },
+    {
+      "word": "cross-training",
+      "spelling": "C, R, O, S, S, hyphen, T, R, A, I, N, I, N, G",
+      "spoken_meaning": "名词，交叉培训，跨岗培训，多技能训练",
+      "en": "Cross-training warehouse staff reduced delays when the packing team was short-handed.",
+      "zh": "对仓库员工进行交叉培训后，包装组人手不足时延误明显减少。"
+    },
+    {
+      "word": "hiring-freeze",
+      "spelling": "H, I, R, I, N, G, hyphen, F, R, E, E, Z, E",
+      "spoken_meaning": "名词，招聘冻结，暂停招人，用工冻结",
+      "en": "Because of slower sales, management announced a hiring-freeze through the first quarter.",
+      "zh": "由于销售放缓，管理层宣布第一季度实施招聘冻结。"
+    },
+    {
+      "word": "new-hire",
+      "spelling": "N, E, W, hyphen, H, I, R, E",
+      "spoken_meaning": "名词，新员工，新入职者，新聘人员",
+      "en": "Each new-hire receives a laptop, badge, and a 90-day development plan on day one.",
+      "zh": "每位新员工入职首日都会拿到笔记本电脑、工牌和一份九十天发展计划。"
+    },
+    {
+      "word": "performance-review",
+      "spelling": "P, E, R, F, O, R, M, A, N, C, E, hyphen, R, E, V, I, E, W",
+      "spoken_meaning": "名词，绩效评估，业绩考核，绩效面谈",
+      "en": "Please submit your self-assessment before next week's performance-review meeting.",
+      "zh": "请在下周绩效评估会之前提交自我评价。"
+    },
+    {
+      "word": "paid-leave",
+      "spelling": "P, A, I, D, hyphen, L, E, A, V, E",
+      "spoken_meaning": "名词，带薪休假，带薪假，带薪缺勤",
+      "en": "Employees may use paid-leave for medical appointments with 24 hours' notice.",
+      "zh": "员工可提前二十四小时通知，用带薪假处理就医预约。"
+    },
+    {
+      "word": "open-enrollment",
+      "spelling": "O, P, E, N, hyphen, E, N, R, O, L, L, M, E, N, T",
+      "spoken_meaning": "名词，开放参保期，福利登记窗口，自由投保期",
+      "en": "Open-enrollment ends Friday; after that, benefit changes require a qualifying event.",
+      "zh": "开放参保期周五截止；之后更改福利须具备合格事由。"
+    },
+    {
+      "word": "redundancy",
+      "spelling": "R, E, D, U, N, D, A, N, C, Y",
+      "spoken_meaning": "名词，裁员，冗员精简，岗位冗余（英）",
+      "en": "After the plant closure, workers received a redundancy package based on years of service.",
+      "zh": "工厂关闭后，工人按服务年限获得了裁员补偿方案。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第41轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "letter-of-credit",
+      "voice": "en",
+      "text": "letter of credit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "letter-of-credit",
+      "voice": "en",
+      "text": "L, E, T, T, E, R, hyphen, O, F, hyphen, C, R, E, D, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "letter-of-credit",
+      "voice": "zh",
+      "text": "名词，信用证，信用状，银行付款保证文件",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "letter-of-credit",
+      "voice": "en",
+      "text": "Shipment will not leave the port until the letter of credit is confirmed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "letter-of-credit",
+      "voice": "zh",
+      "text": "信用证保兑前，货物不会离港。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cash-flow",
+      "voice": "en",
+      "text": "cash flow",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cash-flow",
+      "voice": "en",
+      "text": "C, A, S, H, hyphen, F, L, O, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cash-flow",
+      "voice": "zh",
+      "text": "名词，现金流，资金流动，现金收支",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cash-flow",
+      "voice": "en",
+      "text": "Delayed receivables are putting pressure on our monthly cash flow.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cash-flow",
+      "voice": "zh",
+      "text": "应收账款回笼延迟正对我们的月度现金流造成压力。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "joint-venture",
+      "voice": "en",
+      "text": "joint venture",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "joint-venture",
+      "voice": "en",
+      "text": "J, O, I, N, T, hyphen, V, E, N, T, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "joint-venture",
+      "voice": "zh",
+      "text": "名词，合资企业，合资项目，合作经营",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "joint-venture",
+      "voice": "en",
+      "text": "The two manufacturers announced a joint venture to build batteries locally.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "joint-venture",
+      "voice": "zh",
+      "text": "两家制造商宣布成立合资企业，在本地生产电池。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "year-over-year",
+      "voice": "en",
+      "text": "year over year",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "year-over-year",
+      "voice": "en",
+      "text": "Y, E, A, R, hyphen, O, V, E, R, hyphen, Y, E, A, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "year-over-year",
+      "voice": "zh",
+      "text": "形容词或副词，同比的，与去年同期相比，逐年对比",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "year-over-year",
+      "voice": "en",
+      "text": "Sales rose twelve percent year-over-year despite softer footfall.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "year-over-year",
+      "voice": "zh",
+      "text": "尽管客流偏软，销售额仍同比增长百分之十二。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "underwriter",
+      "voice": "en",
+      "text": "underwriter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "underwriter",
+      "voice": "en",
+      "text": "U, N, D, E, R, W, R, I, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "underwriter",
+      "voice": "zh",
+      "text": "名词，承保人，承销商，担保人",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "underwriter",
+      "voice": "en",
+      "text": "The underwriter requested additional safety data before issuing the policy.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "underwriter",
+      "voice": "zh",
+      "text": "承保人在出具保单前要求补充安全数据。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "renovation",
+      "voice": "en",
+      "text": "renovation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "renovation",
+      "voice": "en",
+      "text": "R, E, N, O, V, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "renovation",
+      "voice": "zh",
+      "text": "名词，翻新，整修，装修改造",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "renovation",
+      "voice": "en",
+      "text": "The lobby will remain closed during the three-week renovation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "renovation",
+      "voice": "zh",
+      "text": "大厅将在为期三周的翻新期间保持关闭。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "evacuation",
+      "voice": "en",
+      "text": "evacuation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "evacuation",
+      "voice": "en",
+      "text": "E, V, A, C, U, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "evacuation",
+      "voice": "zh",
+      "text": "名词，疏散，撤离，清空撤离",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "evacuation",
+      "voice": "en",
+      "text": "Staff must know the nearest evacuation route from every meeting room.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "evacuation",
+      "voice": "zh",
+      "text": "员工必须了解从每间会议室到最近疏散路线的路径。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fire-drill",
+      "voice": "en",
+      "text": "fire drill",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fire-drill",
+      "voice": "en",
+      "text": "F, I, R, E, hyphen, D, R, I, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fire-drill",
+      "voice": "zh",
+      "text": "名词，消防演练，火灾疏散演习，应急演练（喻）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fire-drill",
+      "voice": "en",
+      "text": "A building-wide fire drill is scheduled for Thursday at 10 a.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fire-drill",
+      "voice": "zh",
+      "text": "整栋楼的消防演练定于周四上午十点举行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hard-hat",
+      "voice": "en",
+      "text": "hard hat",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hard-hat",
+      "voice": "en",
+      "text": "H, A, R, D, hyphen, H, A, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hard-hat",
+      "voice": "zh",
+      "text": "名词，安全帽，硬壳帽，工地防护帽",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hard-hat",
+      "voice": "en",
+      "text": "Visitors must wear a hard hat before entering the construction zone.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hard-hat",
+      "voice": "zh",
+      "text": "访客进入施工区域前必须佩戴安全帽。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lockout",
+      "voice": "en",
+      "text": "lockout",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lockout",
+      "voice": "en",
+      "text": "L, O, C, K, O, U, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lockout",
+      "voice": "zh",
+      "text": "名词，停工闭厂，封锁，拒绝入内",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lockout",
+      "voice": "en",
+      "text": "Negotiations resumed after a two-week lockout at the distribution center.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lockout",
+      "voice": "zh",
+      "text": "配送中心闭厂两周后，谈判重新开始。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hard-copy",
+      "voice": "en",
+      "text": "hard copy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hard-copy",
+      "voice": "en",
+      "text": "H, A, R, D, hyphen, C, O, P, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hard-copy",
+      "voice": "zh",
+      "text": "名词，纸质副本，打印件，硬拷贝",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hard-copy",
+      "voice": "en",
+      "text": "Please bring a hard copy of your résumé to the interview desk.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hard-copy",
+      "voice": "zh",
+      "text": "请带一份纸质简历到面试接待台。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "in-house",
+      "voice": "en",
+      "text": "in house",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "in-house",
+      "voice": "en",
+      "text": "I, N, hyphen, H, O, U, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "in-house",
+      "voice": "zh",
+      "text": "形容词或副词，内部的，公司自有的，在内部进行",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "in-house",
+      "voice": "en",
+      "text": "We decided to build the reporting tool in-house instead of buying software.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "in-house",
+      "voice": "zh",
+      "text": "我们决定内部开发报表工具，而不是外购软件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "off-site",
+      "voice": "en",
+      "text": "off site",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "off-site",
+      "voice": "en",
+      "text": "O, F, F, hyphen, S, I, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "off-site",
+      "voice": "zh",
+      "text": "形容词或副词或名词，场外的，异地的，外出研讨活动",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "off-site",
+      "voice": "en",
+      "text": "The leadership off-site will focus on next year's budget priorities.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "off-site",
+      "voice": "zh",
+      "text": "领导层外出研讨将聚焦明年的预算优先级。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "work-order",
+      "voice": "en",
+      "text": "work order",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "work-order",
+      "voice": "en",
+      "text": "W, O, R, K, hyphen, O, R, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "work-order",
+      "voice": "zh",
+      "text": "名词，工单，工作指令单，维修派工单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "work-order",
+      "voice": "en",
+      "text": "Facilities opened a work order to replace the broken thermostat.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "work-order",
+      "voice": "zh",
+      "text": "设施部门开立了工单以更换损坏的恒温器。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "change-order",
+      "voice": "en",
+      "text": "change order",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "change-order",
+      "voice": "en",
+      "text": "C, H, A, N, G, E, hyphen, O, R, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "change-order",
+      "voice": "zh",
+      "text": "名词，变更单，工程变更指令，合同变更令",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "change-order",
+      "voice": "en",
+      "text": "Any scope increase must be documented in a signed change order.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "change-order",
+      "voice": "zh",
+      "text": "任何范围扩大都必须以已签署的变更单记录。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "purchase-order",
+      "voice": "en",
+      "text": "purchase order",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "purchase-order",
+      "voice": "en",
+      "text": "P, U, R, C, H, A, S, E, hyphen, O, R, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "purchase-order",
+      "voice": "zh",
+      "text": "名词，采购订单，订购单，PO",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "purchase-order",
+      "voice": "en",
+      "text": "Accounts payable will not process invoices without a matching purchase order.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "purchase-order",
+      "voice": "zh",
+      "text": "应付账款部门不会处理没有对应采购订单的发票。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "desk-audit",
+      "voice": "en",
+      "text": "desk audit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "desk-audit",
+      "voice": "en",
+      "text": "D, E, S, K, hyphen, A, U, D, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "desk-audit",
+      "voice": "zh",
+      "text": "名词，案头审计，书面审核，非现场稽核",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "desk-audit",
+      "voice": "en",
+      "text": "Payroll underwent a desk audit of overtime approvals last quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "desk-audit",
+      "voice": "zh",
+      "text": "上季度薪酬部门接受了加班审批的案头审计。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stocktaking",
+      "voice": "en",
+      "text": "stocktaking",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stocktaking",
+      "voice": "en",
+      "text": "S, T, O, C, K, T, A, K, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stocktaking",
+      "voice": "zh",
+      "text": "名词，盘点，存货清点，库存盘查",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stocktaking",
+      "voice": "en",
+      "text": "The warehouse will close early on Friday for year-end stocktaking.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stocktaking",
+      "voice": "zh",
+      "text": "仓库周五将提前关门以进行年终盘点。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "soft-skills",
+      "voice": "en",
+      "text": "soft skills",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "soft-skills",
+      "voice": "en",
+      "text": "S, O, F, T, hyphen, S, K, I, L, L, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "soft-skills",
+      "voice": "zh",
+      "text": "名词，软技能，人际与沟通能力，非技术素养",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "soft-skills",
+      "voice": "en",
+      "text": "The promotion criteria now weigh soft skills as heavily as technical ability.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "soft-skills",
+      "voice": "zh",
+      "text": "晋升标准现已将软技能与技术能力同等权重。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "front-line",
+      "voice": "en",
+      "text": "front line",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "front-line",
+      "voice": "en",
+      "text": "F, R, O, N, T, hyphen, L, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "front-line",
+      "voice": "zh",
+      "text": "形容词或名词，一线的，前线，直接面对客户的岗位",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "front-line",
+      "voice": "en",
+      "text": "Front-line agents need clearer scripts for refund requests.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "front-line",
+      "voice": "zh",
+      "text": "一线客服需要更清晰的退款话术脚本。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "apprenticeship",
+      "voice": "en",
+      "text": "apprenticeship",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "apprenticeship",
+      "voice": "en",
+      "text": "A, P, P, R, E, N, T, I, C, E, S, H, I, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "apprenticeship",
+      "voice": "zh",
+      "text": "名词，学徒制，学徒期，学徒培训项目",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "apprenticeship",
+      "voice": "en",
+      "text": "The manufacturer launched a two-year apprenticeship for maintenance technicians.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "apprenticeship",
+      "voice": "zh",
+      "text": "该制造商为维修技师推出了为期两年的学徒项目。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "internship",
+      "voice": "en",
+      "text": "internship",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "internship",
+      "voice": "en",
+      "text": "I, N, T, E, R, N, S, H, I, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "internship",
+      "voice": "zh",
+      "text": "名词，实习，实习期，实习岗位",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "internship",
+      "voice": "en",
+      "text": "Her marketing internship included drafting campaign briefs and analyzing survey data.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "internship",
+      "voice": "zh",
+      "text": "她的营销实习包括起草活动简报和分析调查数据。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mentoring",
+      "voice": "en",
+      "text": "mentoring",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mentoring",
+      "voice": "en",
+      "text": "M, E, N, T, O, R, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mentoring",
+      "voice": "zh",
+      "text": "名词，导师辅导，师徒指导，辅导关系",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mentoring",
+      "voice": "en",
+      "text": "The firm pairs every new analyst with a senior partner for six months of mentoring.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mentoring",
+      "voice": "zh",
+      "text": "公司为每位新分析师配对一位资深合伙人，进行六个月的辅导。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cross-training",
+      "voice": "en",
+      "text": "cross training",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cross-training",
+      "voice": "en",
+      "text": "C, R, O, S, S, hyphen, T, R, A, I, N, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cross-training",
+      "voice": "zh",
+      "text": "名词，交叉培训，跨岗培训，多技能训练",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cross-training",
+      "voice": "en",
+      "text": "Cross-training warehouse staff reduced delays when the packing team was short-handed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cross-training",
+      "voice": "zh",
+      "text": "对仓库员工进行交叉培训后，包装组人手不足时延误明显减少。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hiring-freeze",
+      "voice": "en",
+      "text": "hiring freeze",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hiring-freeze",
+      "voice": "en",
+      "text": "H, I, R, I, N, G, hyphen, F, R, E, E, Z, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hiring-freeze",
+      "voice": "zh",
+      "text": "名词，招聘冻结，暂停招人，用工冻结",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hiring-freeze",
+      "voice": "en",
+      "text": "Because of slower sales, management announced a hiring-freeze through the first quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hiring-freeze",
+      "voice": "zh",
+      "text": "由于销售放缓，管理层宣布第一季度实施招聘冻结。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "new-hire",
+      "voice": "en",
+      "text": "new hire",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "new-hire",
+      "voice": "en",
+      "text": "N, E, W, hyphen, H, I, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "new-hire",
+      "voice": "zh",
+      "text": "名词，新员工，新入职者，新聘人员",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "new-hire",
+      "voice": "en",
+      "text": "Each new-hire receives a laptop, badge, and a 90-day development plan on day one.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "new-hire",
+      "voice": "zh",
+      "text": "每位新员工入职首日都会拿到笔记本电脑、工牌和一份九十天发展计划。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "performance-review",
+      "voice": "en",
+      "text": "performance review",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "performance-review",
+      "voice": "en",
+      "text": "P, E, R, F, O, R, M, A, N, C, E, hyphen, R, E, V, I, E, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "performance-review",
+      "voice": "zh",
+      "text": "名词，绩效评估，业绩考核，绩效面谈",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "performance-review",
+      "voice": "en",
+      "text": "Please submit your self-assessment before next week's performance-review meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "performance-review",
+      "voice": "zh",
+      "text": "请在下周绩效评估会之前提交自我评价。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "paid-leave",
+      "voice": "en",
+      "text": "paid leave",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "paid-leave",
+      "voice": "en",
+      "text": "P, A, I, D, hyphen, L, E, A, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "paid-leave",
+      "voice": "zh",
+      "text": "名词，带薪休假，带薪假，带薪缺勤",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "paid-leave",
+      "voice": "en",
+      "text": "Employees may use paid-leave for medical appointments with 24 hours' notice.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "paid-leave",
+      "voice": "zh",
+      "text": "员工可提前二十四小时通知，用带薪假处理就医预约。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "open-enrollment",
+      "voice": "en",
+      "text": "open enrollment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "open-enrollment",
+      "voice": "en",
+      "text": "O, P, E, N, hyphen, E, N, R, O, L, L, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "open-enrollment",
+      "voice": "zh",
+      "text": "名词，开放参保期，福利登记窗口，自由投保期",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "open-enrollment",
+      "voice": "en",
+      "text": "Open-enrollment ends Friday; after that, benefit changes require a qualifying event.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "open-enrollment",
+      "voice": "zh",
+      "text": "开放参保期周五截止；之后更改福利须具备合格事由。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "redundancy",
+      "voice": "en",
+      "text": "redundancy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "redundancy",
+      "voice": "en",
+      "text": "R, E, D, U, N, D, A, N, C, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "redundancy",
+      "voice": "zh",
+      "text": "名词，裁员，冗员精简，岗位冗余（英）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "redundancy",
+      "voice": "en",
+      "text": "After the plant closure, workers received a redundancy package based on years of service.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "redundancy",
+      "voice": "zh",
+      "text": "工厂关闭后，工人按服务年限获得了裁员补偿方案。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第41轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

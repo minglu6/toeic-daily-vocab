@@ -1,0 +1,1314 @@
+{
+  "id": "035",
+  "track": 35,
+  "title": "第 35 轨",
+  "word_count": 30,
+  "headwords": [
+    "zoning",
+    "accreditation",
+    "addendum",
+    "amortize",
+    "annuity",
+    "antitrust",
+    "attrition",
+    "backorder",
+    "billable",
+    "break-even",
+    "buyout",
+    "counteroffer",
+    "cutback",
+    "debrief",
+    "delinquency",
+    "digitize",
+    "distributor",
+    "drawdown",
+    "escalation",
+    "rollout",
+    "severance",
+    "stakeholder",
+    "subsidy",
+    "termination",
+    "throughput",
+    "tier",
+    "timeline",
+    "underwrite",
+    "upfront",
+    "upstream"
+  ],
+  "entries": [
+    {
+      "word": "zoning",
+      "spelling": "Z, O, N, I, N, G",
+      "spoken_meaning": "名词，分区规划，用途分区",
+      "en": "The developer applied for a change in zoning to build a retail complex.",
+      "zh": "开发商申请变更分区规划以建造零售综合体。"
+    },
+    {
+      "word": "accreditation",
+      "spelling": "A, C, C, R, E, D, I, T, A, T, I, O, N",
+      "spoken_meaning": "名词，认证，资格认定，委派认可",
+      "en": "The training center received accreditation from an international standards body.",
+      "zh": "该培训中心获得了国际标准机构的认证。"
+    },
+    {
+      "word": "addendum",
+      "spelling": "A, D, D, E, N, D, U, M",
+      "spoken_meaning": "名词，附录，补充条款，附加说明",
+      "en": "The parties signed an addendum clarifying the delivery schedule.",
+      "zh": "双方签署了一份澄清交货时间表的补充条款。"
+    },
+    {
+      "word": "amortize",
+      "spelling": "A, M, O, R, T, I, Z, E",
+      "spoken_meaning": "动词，摊销，分期偿还",
+      "en": "The firm will amortize the equipment cost over seven years.",
+      "zh": "公司将把设备成本分七年摊销。"
+    },
+    {
+      "word": "annuity",
+      "spelling": "A, N, N, U, I, T, Y",
+      "spoken_meaning": "名词，年金，年金保险",
+      "en": "She invested part of her savings in a retirement annuity.",
+      "zh": "她把部分积蓄投入了退休年金。"
+    },
+    {
+      "word": "antitrust",
+      "spelling": "A, N, T, I, T, R, U, S, T",
+      "spoken_meaning": "形容词，反垄断的，反托拉斯的",
+      "en": "The merger is under review for possible antitrust concerns.",
+      "zh": "该并购正因可能的反垄断问题接受审查。"
+    },
+    {
+      "word": "attrition",
+      "spelling": "A, T, T, R, I, T, I, O, N",
+      "spoken_meaning": "名词，自然减员，流失，磨损",
+      "en": "High attrition in the sales team prompted a review of compensation.",
+      "zh": "销售团队的高流失率促使公司重新审视薪酬。"
+    },
+    {
+      "word": "backorder",
+      "spelling": "B, A, C, K, O, R, D, E, R",
+      "spoken_meaning": "名词或动词，缺货待发订单，延期交货，使延期供货",
+      "en": "The popular model is currently on backorder until next month.",
+      "zh": "这款热门型号目前缺货，要到下个月才能发货。"
+    },
+    {
+      "word": "billable",
+      "spelling": "B, I, L, L, A, B, L, E",
+      "spoken_meaning": "形容词，可计费的，可向客户开票的",
+      "en": "Consultants must record all billable hours in the time-tracking system.",
+      "zh": "顾问须在工时系统中记录全部计费工时。"
+    },
+    {
+      "word": "break-even",
+      "spelling": "B, R, E, A, K, hyphen, E, V, E, N",
+      "spoken_meaning": "形容词或名词，盈亏平衡的，保本点",
+      "en": "The startup expects to reach its break-even point within eighteen months.",
+      "zh": "该初创公司预计在十八个月内达到盈亏平衡点。"
+    },
+    {
+      "word": "buyout",
+      "spelling": "B, U, Y, O, U, T",
+      "spoken_meaning": "名词，收购，买断，收购股权",
+      "en": "The executives proposed a management buyout of the family-owned firm.",
+      "zh": "高管们提议对这家家族企业进行管理层收购。"
+    },
+    {
+      "word": "counteroffer",
+      "spelling": "C, O, U, N, T, E, R, O, F, F, E, R",
+      "spoken_meaning": "名词或动词，还价，反要约，提出还价",
+      "en": "The candidate made a counteroffer asking for a higher signing bonus.",
+      "zh": "候选人提出还价，要求更高的签约奖金。"
+    },
+    {
+      "word": "cutback",
+      "spelling": "C, U, T, B, A, C, K",
+      "spoken_meaning": "名词，削减，缩减，裁减",
+      "en": "Facing lower demand, the factory announced production cutbacks.",
+      "zh": "面对需求下降，工厂宣布削减产量。"
+    },
+    {
+      "word": "debrief",
+      "spelling": "D, E, B, R, I, E, F",
+      "spoken_meaning": "动词或名词，任务后汇报，复盘，听取汇报",
+      "en": "After the product launch, the team held a debrief to capture lessons learned.",
+      "zh": "产品发布后，团队召开复盘会以总结经验教训。"
+    },
+    {
+      "word": "delinquency",
+      "spelling": "D, E, L, I, N, Q, U, E, N, C, Y",
+      "spoken_meaning": "名词，拖欠，逾期，失职",
+      "en": "The bank reported a slight rise in credit-card delinquency last quarter.",
+      "zh": "该银行报告上季度信用卡逾期率略有上升。"
+    },
+    {
+      "word": "digitize",
+      "spelling": "D, I, G, I, T, I, Z, E",
+      "spoken_meaning": "动词，数字化，转换成数字格式",
+      "en": "HR plans to digitize all employee files by the end of the year.",
+      "zh": "人力资源部计划在年底前将全部员工档案数字化。"
+    },
+    {
+      "word": "distributor",
+      "spelling": "D, I, S, T, R, I, B, U, T, O, R",
+      "spoken_meaning": "名词，分销商，经销商，配送者",
+      "en": "The manufacturer appointed a new distributor for the Southeast Asian market.",
+      "zh": "制造商为东南亚市场指定了一家新分销商。"
+    },
+    {
+      "word": "drawdown",
+      "spelling": "D, R, A, W, D, O, W, N",
+      "spoken_meaning": "名词，提取（贷款/资金），回撤，削减",
+      "en": "The borrower requested a drawdown of the remaining credit facility.",
+      "zh": "借款人申请提取剩余的信贷额度。"
+    },
+    {
+      "word": "escalation",
+      "spelling": "E, S, C, A, L, A, T, I, O, N",
+      "spoken_meaning": "名词，升级，事态扩大，价格上调",
+      "en": "Customer complaints that remain unresolved go to the next escalation level.",
+      "zh": "未解决的客户投诉将进入下一级升级处理。"
+    },
+    {
+      "word": "rollout",
+      "spelling": "R, O, L, L, O, U, T",
+      "spoken_meaning": "名词，推出，铺开，正式发布",
+      "en": "The company announced a phased rollout of the new payment system.",
+      "zh": "公司宣布分阶段推出新的支付系统。"
+    },
+    {
+      "word": "severance",
+      "spelling": "S, E, V, E, R, A, N, C, E",
+      "spoken_meaning": "名词，遣散费，解雇补偿，切断",
+      "en": "Employees laid off in the restructuring will receive six months of severance pay.",
+      "zh": "因重组被裁的员工将获得六个月的遣散费。"
+    },
+    {
+      "word": "stakeholder",
+      "spelling": "S, T, A, K, E, H, O, L, D, E, R",
+      "spoken_meaning": "名词，利益相关方，干系人",
+      "en": "The project lead invited all key stakeholders to review the launch timeline.",
+      "zh": "项目负责人邀请所有关键干系人审阅上线时间表。"
+    },
+    {
+      "word": "subsidy",
+      "spelling": "S, U, B, S, I, D, Y",
+      "spoken_meaning": "名词，补贴，补助金，津贴",
+      "en": "Small farms may apply for an energy subsidy to install solar panels.",
+      "zh": "小型农场可申请能源补贴以安装太阳能板。"
+    },
+    {
+      "word": "termination",
+      "spelling": "T, E, R, M, I, N, A, T, I, O, N",
+      "spoken_meaning": "名词，终止，解雇，期满结束",
+      "en": "Either party may request early termination with thirty days' written notice.",
+      "zh": "任何一方可提前三十天书面通知要求提前终止合同。"
+    },
+    {
+      "word": "throughput",
+      "spelling": "T, H, R, O, U, G, H, P, U, T",
+      "spoken_meaning": "名词，吞吐量，产能，处理量",
+      "en": "The new conveyor system increased warehouse throughput by twenty percent.",
+      "zh": "新传送带系统将仓库吞吐量提高了百分之二十。"
+    },
+    {
+      "word": "tier",
+      "spelling": "T, I, E, R",
+      "spoken_meaning": "名词，层级，档次，等级",
+      "en": "The SaaS plan uses tiered pricing based on the number of active users.",
+      "zh": "该软件即服务方案按活跃用户数采用分级定价。"
+    },
+    {
+      "word": "timeline",
+      "spelling": "T, I, M, E, L, I, N, E",
+      "spoken_meaning": "名词，时间表，进度线，时间轴",
+      "en": "Please share an updated timeline before Friday's steering committee.",
+      "zh": "请在周五指导委员会会议前分享更新后的时间表。"
+    },
+    {
+      "word": "underwrite",
+      "spelling": "U, N, D, E, R, W, R, I, T, E",
+      "spoken_meaning": "动词，承保，包销（证券），担保资助",
+      "en": "The bank refused to underwrite the loan without additional collateral.",
+      "zh": "银行在没有额外抵押的情况下拒绝承保这笔贷款。"
+    },
+    {
+      "word": "upfront",
+      "spelling": "U, P, F, R, O, N, T",
+      "spoken_meaning": "形容词或副词，预付的，事先的，坦率的",
+      "en": "The vendor requires a thirty percent upfront payment before production begins.",
+      "zh": "供应商要求在开工前支付百分之三十的预付款。"
+    },
+    {
+      "word": "upstream",
+      "spelling": "U, P, S, T, R, E, A, M",
+      "spoken_meaning": "形容词或副词，上游的，逆向的，源头端",
+      "en": "Quality issues must be fixed upstream to avoid costly rework later.",
+      "zh": "质量问题必须在上游解决，以免日后昂贵的返工。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第35轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "zoning",
+      "voice": "en",
+      "text": "zoning",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "zoning",
+      "voice": "en",
+      "text": "Z, O, N, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "zoning",
+      "voice": "zh",
+      "text": "名词，分区规划，用途分区",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "zoning",
+      "voice": "en",
+      "text": "The developer applied for a change in zoning to build a retail complex.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "zoning",
+      "voice": "zh",
+      "text": "开发商申请变更分区规划以建造零售综合体。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "accreditation",
+      "voice": "en",
+      "text": "accreditation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "accreditation",
+      "voice": "en",
+      "text": "A, C, C, R, E, D, I, T, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "accreditation",
+      "voice": "zh",
+      "text": "名词，认证，资格认定，委派认可",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "accreditation",
+      "voice": "en",
+      "text": "The training center received accreditation from an international standards body.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "accreditation",
+      "voice": "zh",
+      "text": "该培训中心获得了国际标准机构的认证。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "addendum",
+      "voice": "en",
+      "text": "addendum",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "addendum",
+      "voice": "en",
+      "text": "A, D, D, E, N, D, U, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "addendum",
+      "voice": "zh",
+      "text": "名词，附录，补充条款，附加说明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "addendum",
+      "voice": "en",
+      "text": "The parties signed an addendum clarifying the delivery schedule.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "addendum",
+      "voice": "zh",
+      "text": "双方签署了一份澄清交货时间表的补充条款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "amortize",
+      "voice": "en",
+      "text": "amortize",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "amortize",
+      "voice": "en",
+      "text": "A, M, O, R, T, I, Z, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "amortize",
+      "voice": "zh",
+      "text": "动词，摊销，分期偿还",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "amortize",
+      "voice": "en",
+      "text": "The firm will amortize the equipment cost over seven years.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "amortize",
+      "voice": "zh",
+      "text": "公司将把设备成本分七年摊销。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "annuity",
+      "voice": "en",
+      "text": "annuity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "annuity",
+      "voice": "en",
+      "text": "A, N, N, U, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "annuity",
+      "voice": "zh",
+      "text": "名词，年金，年金保险",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "annuity",
+      "voice": "en",
+      "text": "She invested part of her savings in a retirement annuity.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "annuity",
+      "voice": "zh",
+      "text": "她把部分积蓄投入了退休年金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "antitrust",
+      "voice": "en",
+      "text": "antitrust",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "antitrust",
+      "voice": "en",
+      "text": "A, N, T, I, T, R, U, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "antitrust",
+      "voice": "zh",
+      "text": "形容词，反垄断的，反托拉斯的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "antitrust",
+      "voice": "en",
+      "text": "The merger is under review for possible antitrust concerns.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "antitrust",
+      "voice": "zh",
+      "text": "该并购正因可能的反垄断问题接受审查。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "attrition",
+      "voice": "en",
+      "text": "attrition",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "attrition",
+      "voice": "en",
+      "text": "A, T, T, R, I, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "attrition",
+      "voice": "zh",
+      "text": "名词，自然减员，流失，磨损",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "attrition",
+      "voice": "en",
+      "text": "High attrition in the sales team prompted a review of compensation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "attrition",
+      "voice": "zh",
+      "text": "销售团队的高流失率促使公司重新审视薪酬。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "backorder",
+      "voice": "en",
+      "text": "backorder",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "backorder",
+      "voice": "en",
+      "text": "B, A, C, K, O, R, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "backorder",
+      "voice": "zh",
+      "text": "名词或动词，缺货待发订单，延期交货，使延期供货",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "backorder",
+      "voice": "en",
+      "text": "The popular model is currently on backorder until next month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "backorder",
+      "voice": "zh",
+      "text": "这款热门型号目前缺货，要到下个月才能发货。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "billable",
+      "voice": "en",
+      "text": "billable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "billable",
+      "voice": "en",
+      "text": "B, I, L, L, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "billable",
+      "voice": "zh",
+      "text": "形容词，可计费的，可向客户开票的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "billable",
+      "voice": "en",
+      "text": "Consultants must record all billable hours in the time-tracking system.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "billable",
+      "voice": "zh",
+      "text": "顾问须在工时系统中记录全部计费工时。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "break-even",
+      "voice": "en",
+      "text": "break even",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "break-even",
+      "voice": "en",
+      "text": "B, R, E, A, K, hyphen, E, V, E, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "break-even",
+      "voice": "zh",
+      "text": "形容词或名词，盈亏平衡的，保本点",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "break-even",
+      "voice": "en",
+      "text": "The startup expects to reach its break-even point within eighteen months.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "break-even",
+      "voice": "zh",
+      "text": "该初创公司预计在十八个月内达到盈亏平衡点。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "buyout",
+      "voice": "en",
+      "text": "buyout",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "buyout",
+      "voice": "en",
+      "text": "B, U, Y, O, U, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "buyout",
+      "voice": "zh",
+      "text": "名词，收购，买断，收购股权",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "buyout",
+      "voice": "en",
+      "text": "The executives proposed a management buyout of the family-owned firm.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "buyout",
+      "voice": "zh",
+      "text": "高管们提议对这家家族企业进行管理层收购。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "counteroffer",
+      "voice": "en",
+      "text": "counteroffer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "counteroffer",
+      "voice": "en",
+      "text": "C, O, U, N, T, E, R, O, F, F, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "counteroffer",
+      "voice": "zh",
+      "text": "名词或动词，还价，反要约，提出还价",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "counteroffer",
+      "voice": "en",
+      "text": "The candidate made a counteroffer asking for a higher signing bonus.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "counteroffer",
+      "voice": "zh",
+      "text": "候选人提出还价，要求更高的签约奖金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cutback",
+      "voice": "en",
+      "text": "cutback",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cutback",
+      "voice": "en",
+      "text": "C, U, T, B, A, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cutback",
+      "voice": "zh",
+      "text": "名词，削减，缩减，裁减",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cutback",
+      "voice": "en",
+      "text": "Facing lower demand, the factory announced production cutbacks.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cutback",
+      "voice": "zh",
+      "text": "面对需求下降，工厂宣布削减产量。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "debrief",
+      "voice": "en",
+      "text": "debrief",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "debrief",
+      "voice": "en",
+      "text": "D, E, B, R, I, E, F",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "debrief",
+      "voice": "zh",
+      "text": "动词或名词，任务后汇报，复盘，听取汇报",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "debrief",
+      "voice": "en",
+      "text": "After the product launch, the team held a debrief to capture lessons learned.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "debrief",
+      "voice": "zh",
+      "text": "产品发布后，团队召开复盘会以总结经验教训。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "delinquency",
+      "voice": "en",
+      "text": "delinquency",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "delinquency",
+      "voice": "en",
+      "text": "D, E, L, I, N, Q, U, E, N, C, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "delinquency",
+      "voice": "zh",
+      "text": "名词，拖欠，逾期，失职",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "delinquency",
+      "voice": "en",
+      "text": "The bank reported a slight rise in credit-card delinquency last quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "delinquency",
+      "voice": "zh",
+      "text": "该银行报告上季度信用卡逾期率略有上升。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "digitize",
+      "voice": "en",
+      "text": "digitize",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "digitize",
+      "voice": "en",
+      "text": "D, I, G, I, T, I, Z, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "digitize",
+      "voice": "zh",
+      "text": "动词，数字化，转换成数字格式",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "digitize",
+      "voice": "en",
+      "text": "HR plans to digitize all employee files by the end of the year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "digitize",
+      "voice": "zh",
+      "text": "人力资源部计划在年底前将全部员工档案数字化。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "distributor",
+      "voice": "en",
+      "text": "distributor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "distributor",
+      "voice": "en",
+      "text": "D, I, S, T, R, I, B, U, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "distributor",
+      "voice": "zh",
+      "text": "名词，分销商，经销商，配送者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "distributor",
+      "voice": "en",
+      "text": "The manufacturer appointed a new distributor for the Southeast Asian market.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "distributor",
+      "voice": "zh",
+      "text": "制造商为东南亚市场指定了一家新分销商。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "drawdown",
+      "voice": "en",
+      "text": "drawdown",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "drawdown",
+      "voice": "en",
+      "text": "D, R, A, W, D, O, W, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "drawdown",
+      "voice": "zh",
+      "text": "名词，提取（贷款/资金），回撤，削减",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "drawdown",
+      "voice": "en",
+      "text": "The borrower requested a drawdown of the remaining credit facility.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "drawdown",
+      "voice": "zh",
+      "text": "借款人申请提取剩余的信贷额度。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "escalation",
+      "voice": "en",
+      "text": "escalation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "escalation",
+      "voice": "en",
+      "text": "E, S, C, A, L, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "escalation",
+      "voice": "zh",
+      "text": "名词，升级，事态扩大，价格上调",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "escalation",
+      "voice": "en",
+      "text": "Customer complaints that remain unresolved go to the next escalation level.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "escalation",
+      "voice": "zh",
+      "text": "未解决的客户投诉将进入下一级升级处理。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "rollout",
+      "voice": "en",
+      "text": "rollout",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rollout",
+      "voice": "en",
+      "text": "R, O, L, L, O, U, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rollout",
+      "voice": "zh",
+      "text": "名词，推出，铺开，正式发布",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rollout",
+      "voice": "en",
+      "text": "The company announced a phased rollout of the new payment system.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rollout",
+      "voice": "zh",
+      "text": "公司宣布分阶段推出新的支付系统。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "severance",
+      "voice": "en",
+      "text": "severance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "severance",
+      "voice": "en",
+      "text": "S, E, V, E, R, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "severance",
+      "voice": "zh",
+      "text": "名词，遣散费，解雇补偿，切断",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "severance",
+      "voice": "en",
+      "text": "Employees laid off in the restructuring will receive six months of severance pay.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "severance",
+      "voice": "zh",
+      "text": "因重组被裁的员工将获得六个月的遣散费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stakeholder",
+      "voice": "en",
+      "text": "stakeholder",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stakeholder",
+      "voice": "en",
+      "text": "S, T, A, K, E, H, O, L, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stakeholder",
+      "voice": "zh",
+      "text": "名词，利益相关方，干系人",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stakeholder",
+      "voice": "en",
+      "text": "The project lead invited all key stakeholders to review the launch timeline.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stakeholder",
+      "voice": "zh",
+      "text": "项目负责人邀请所有关键干系人审阅上线时间表。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "subsidy",
+      "voice": "en",
+      "text": "subsidy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "subsidy",
+      "voice": "en",
+      "text": "S, U, B, S, I, D, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "subsidy",
+      "voice": "zh",
+      "text": "名词，补贴，补助金，津贴",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "subsidy",
+      "voice": "en",
+      "text": "Small farms may apply for an energy subsidy to install solar panels.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "subsidy",
+      "voice": "zh",
+      "text": "小型农场可申请能源补贴以安装太阳能板。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "termination",
+      "voice": "en",
+      "text": "termination",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "termination",
+      "voice": "en",
+      "text": "T, E, R, M, I, N, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "termination",
+      "voice": "zh",
+      "text": "名词，终止，解雇，期满结束",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "termination",
+      "voice": "en",
+      "text": "Either party may request early termination with thirty days' written notice.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "termination",
+      "voice": "zh",
+      "text": "任何一方可提前三十天书面通知要求提前终止合同。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "throughput",
+      "voice": "en",
+      "text": "throughput",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "throughput",
+      "voice": "en",
+      "text": "T, H, R, O, U, G, H, P, U, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "throughput",
+      "voice": "zh",
+      "text": "名词，吞吐量，产能，处理量",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "throughput",
+      "voice": "en",
+      "text": "The new conveyor system increased warehouse throughput by twenty percent.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "throughput",
+      "voice": "zh",
+      "text": "新传送带系统将仓库吞吐量提高了百分之二十。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tier",
+      "voice": "en",
+      "text": "tier",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tier",
+      "voice": "en",
+      "text": "T, I, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tier",
+      "voice": "zh",
+      "text": "名词，层级，档次，等级",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tier",
+      "voice": "en",
+      "text": "The SaaS plan uses tiered pricing based on the number of active users.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tier",
+      "voice": "zh",
+      "text": "该软件即服务方案按活跃用户数采用分级定价。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "timeline",
+      "voice": "en",
+      "text": "timeline",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "timeline",
+      "voice": "en",
+      "text": "T, I, M, E, L, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "timeline",
+      "voice": "zh",
+      "text": "名词，时间表，进度线，时间轴",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "timeline",
+      "voice": "en",
+      "text": "Please share an updated timeline before Friday's steering committee.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "timeline",
+      "voice": "zh",
+      "text": "请在周五指导委员会会议前分享更新后的时间表。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "underwrite",
+      "voice": "en",
+      "text": "underwrite",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "underwrite",
+      "voice": "en",
+      "text": "U, N, D, E, R, W, R, I, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "underwrite",
+      "voice": "zh",
+      "text": "动词，承保，包销（证券），担保资助",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "underwrite",
+      "voice": "en",
+      "text": "The bank refused to underwrite the loan without additional collateral.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "underwrite",
+      "voice": "zh",
+      "text": "银行在没有额外抵押的情况下拒绝承保这笔贷款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "upfront",
+      "voice": "en",
+      "text": "upfront",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "upfront",
+      "voice": "en",
+      "text": "U, P, F, R, O, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "upfront",
+      "voice": "zh",
+      "text": "形容词或副词，预付的，事先的，坦率的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "upfront",
+      "voice": "en",
+      "text": "The vendor requires a thirty percent upfront payment before production begins.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "upfront",
+      "voice": "zh",
+      "text": "供应商要求在开工前支付百分之三十的预付款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "upstream",
+      "voice": "en",
+      "text": "upstream",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "upstream",
+      "voice": "en",
+      "text": "U, P, S, T, R, E, A, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "upstream",
+      "voice": "zh",
+      "text": "形容词或副词，上游的，逆向的，源头端",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "upstream",
+      "voice": "en",
+      "text": "Quality issues must be fixed upstream to avoid costly rework later.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "upstream",
+      "voice": "zh",
+      "text": "质量问题必须在上游解决，以免日后昂贵的返工。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第35轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

@@ -1,0 +1,1314 @@
+{
+  "id": "051",
+  "track": 51,
+  "title": "第 51 轨",
+  "word_count": 30,
+  "headwords": [
+    "line-of-credit",
+    "journal-entry",
+    "current-ratio",
+    "return-on-investment",
+    "carry-on",
+    "checked-baggage",
+    "baggage-claim",
+    "frequent-flyer",
+    "business-class",
+    "dress-code",
+    "business-casual",
+    "name-badge",
+    "lead-generation",
+    "target-audience",
+    "focus-group",
+    "customer-lifetime-value",
+    "liquidated-damages",
+    "non-solicitation",
+    "electronic-signature",
+    "intellectual-property",
+    "agenda",
+    "lunch-and-learn",
+    "breakout-session",
+    "panel-discussion",
+    "town-hall",
+    "written-warning",
+    "probationary-period",
+    "job-description",
+    "knowledge-transfer",
+    "reference-check"
+  ],
+  "entries": [
+    {
+      "word": "line-of-credit",
+      "spelling": "L, I, N, E, hyphen, O, F, hyphen, C, R, E, D, I, T",
+      "spoken_meaning": "名词，信用额度，循环授信，备用信贷额度",
+      "en": "We drew on the line-of-credit to cover payroll during the collection delay.",
+      "zh": "在回款延迟期间，我们动用了信用额度以支付工资。"
+    },
+    {
+      "word": "journal-entry",
+      "spelling": "J, O, U, R, N, A, L, hyphen, E, N, T, R, Y",
+      "spoken_meaning": "名词，会计分录，日记账分录，账务记录",
+      "en": "Accounting posted a journal-entry to correct the duplicate vendor payment.",
+      "zh": "会计部门过账了一笔分录，以更正重复支付给供应商的款项。"
+    },
+    {
+      "word": "current-ratio",
+      "spelling": "C, U, R, R, E, N, T, hyphen, R, A, T, I, O",
+      "spoken_meaning": "名词，流动比率，流动资产对流动负债的比值",
+      "en": "The bank asked us to keep the current-ratio above 1.5 throughout the loan term.",
+      "zh": "银行要求我们在整个贷款期限内将流动比率维持在 1.5 以上。"
+    },
+    {
+      "word": "return-on-investment",
+      "spelling": "R, E, T, U, R, N, hyphen, O, N, hyphen, I, N, V, E, S, T, M, E, N, T",
+      "spoken_meaning": "名词，投资回报率，投资收益率（常称ROI）",
+      "en": "The pilot must show a clear return-on-investment before we fund a full rollout.",
+      "zh": "在我们拨款全面推广之前，试点必须显示出明确的投资回报率。"
+    },
+    {
+      "word": "carry-on",
+      "spelling": "C, A, R, R, Y, hyphen, O, N",
+      "spoken_meaning": "名词，随身行李，机舱手提包，可带上飞机的行李",
+      "en": "Please keep your carry-on within the overhead-bin size limits.",
+      "zh": "请将随身行李控制在头顶行李箱的尺寸限制以内。"
+    },
+    {
+      "word": "checked-baggage",
+      "spelling": "C, H, E, C, K, E, D, hyphen, B, A, G, G, A, G, E",
+      "spoken_meaning": "名词，托运行李，交运行李，办理登机手续时交运的行李",
+      "en": "The fare includes one piece of checked-baggage weighing up to twenty-three kilograms.",
+      "zh": "该票价包含一件不超过二十三公斤的托运行李。"
+    },
+    {
+      "word": "baggage-claim",
+      "spelling": "B, A, G, G, A, G, E, hyphen, C, L, A, I, M",
+      "spoken_meaning": "名词，行李提取处，行李转盘区域，到达后领取托运行李的地点",
+      "en": "After clearing immigration, proceed to baggage-claim carousel four.",
+      "zh": "通过入境边检后，请前往四号行李转盘提取行李。"
+    },
+    {
+      "word": "frequent-flyer",
+      "spelling": "F, R, E, Q, U, E, N, T, hyphen, F, L, Y, E, R",
+      "spoken_meaning": "名词，常旅客，飞行常客，航空公司常旅客计划会员",
+      "en": "Please add my frequent-flyer number to the booking so the miles post correctly.",
+      "zh": "请把我的常旅客会员号加入订单，以便里程能正确入账。"
+    },
+    {
+      "word": "business-class",
+      "spelling": "B, U, S, I, N, E, S, S, hyphen, C, L, A, S, S",
+      "spoken_meaning": "名词，商务舱，公务舱，介于经济舱与头等舱之间的舱等",
+      "en": "The travel policy allows business-class on flights longer than eight hours.",
+      "zh": "差旅政策允许时长超过八小时的航班预订商务舱。"
+    },
+    {
+      "word": "dress-code",
+      "spelling": "D, R, E, S, S, hyphen, C, O, D, E",
+      "spoken_meaning": "名词，着装规范，着装要求，场合着装准则",
+      "en": "Client-visit days require a stricter dress-code than our usual Fridays.",
+      "zh": "客户来访日的着装规范比我们平时的周五要求更严格。"
+    },
+    {
+      "word": "business-casual",
+      "spelling": "B, U, S, I, N, E, S, S, hyphen, C, A, S, U, A, L",
+      "spoken_meaning": "形容词，商务休闲装的，商务便装的，介于正装与便装之间的着装风格",
+      "en": "The office observes business-casual except when clients are on site.",
+      "zh": "除客户到访期间外，办公室执行商务休闲着装。"
+    },
+    {
+      "word": "name-badge",
+      "spelling": "N, A, M, E, hyphen, B, A, D, G, E",
+      "spoken_meaning": "名词，胸牌，姓名牌，身份识别牌",
+      "en": "All visitors must wear a name-badge while they are in the restricted area.",
+      "zh": "所有访客在限制区域内必须佩戴胸牌。"
+    },
+    {
+      "word": "lead-generation",
+      "spelling": "L, E, A, D, hyphen, G, E, N, E, R, A, T, I, O, N",
+      "spoken_meaning": "名词，潜在客户开发，获客，销售线索生成",
+      "en": "The webinar series is our strongest lead-generation channel this quarter.",
+      "zh": "该系列网络研讨会是本季度我们最有效的潜在客户开发渠道。"
+    },
+    {
+      "word": "target-audience",
+      "spelling": "T, A, R, G, E, T, hyphen, A, U, D, I, E, N, C, E",
+      "spoken_meaning": "名词，目标受众，目标群体，营销针对的对象人群",
+      "en": "Before we write the copy, we need to define the target-audience more precisely.",
+      "zh": "在撰写文案之前，我们需要更精确地界定目标受众。"
+    },
+    {
+      "word": "focus-group",
+      "spelling": "F, O, C, U, S, hyphen, G, R, O, U, P",
+      "spoken_meaning": "名词，焦点小组，小组座谈，定性访谈小组",
+      "en": "We will conduct a focus-group with store managers before finalizing the new display.",
+      "zh": "在最终确定新陈列方案之前，我们将与门店经理开展一场焦点小组访谈。"
+    },
+    {
+      "word": "customer-lifetime-value",
+      "spelling": "C, U, S, T, O, M, E, R, hyphen, L, I, F, E, T, I, M, E, hyphen, V, A, L, U, E",
+      "spoken_meaning": "名词，客户终身价值，顾客生命周期价值（常称CLV/LTV）",
+      "en": "Loyalty rewards are designed to raise customer-lifetime-value, not just first-order sales.",
+      "zh": "忠诚奖励计划旨在提升客户终身价值，而不仅仅是首单销售额。"
+    },
+    {
+      "word": "liquidated-damages",
+      "spelling": "L, I, Q, U, I, D, A, T, E, D, hyphen, D, A, M, A, G, E, S",
+      "spoken_meaning": "名词，违约金，约定损害赔偿，预定违约赔偿额",
+      "en": "Late delivery beyond ten days triggers liquidated-damages of one percent per week.",
+      "zh": "逾期交付超过十天的，将按每周百分之一触发违约金。"
+    },
+    {
+      "word": "non-solicitation",
+      "spelling": "N, O, N, hyphen, S, O, L, I, C, I, T, A, T, I, O, N",
+      "spoken_meaning": "名词，禁止招揽，竞业招揽限制，不得挖角或争揽客户的约定",
+      "en": "The agreement includes a twelve-month non-solicitation covering clients and staff.",
+      "zh": "该协议包含为期十二个月、涵盖客户与员工的禁止招揽条款。"
+    },
+    {
+      "word": "electronic-signature",
+      "spelling": "E, L, E, C, T, R, O, N, I, C, hyphen, S, I, G, N, A, T, U, R, E",
+      "spoken_meaning": "名词，电子签名，电子签章，以电子方式签署文件",
+      "en": "Vendors may execute the renewal with an electronic-signature through our portal.",
+      "zh": "供应商可通过我们的门户以电子签名完成续约签署。"
+    },
+    {
+      "word": "intellectual-property",
+      "spelling": "I, N, T, E, L, L, E, C, T, U, A, L, hyphen, P, R, O, P, E, R, T, Y",
+      "spoken_meaning": "名词，知识产权，智力成果权（常称IP）",
+      "en": "All work product under this contract remains the company's intellectual-property.",
+      "zh": "本合同项下的全部工作成果仍归公司所有，属于公司的知识产权。"
+    },
+    {
+      "word": "agenda",
+      "spelling": "A, G, E, N, D, A",
+      "spoken_meaning": "名词，议程，议事日程，会议议题清单",
+      "en": "I have attached the agenda so you can review the discussion items before Tuesday's meeting.",
+      "zh": "我已附上议程，便于你在周二开会前先审阅各项讨论议题。"
+    },
+    {
+      "word": "lunch-and-learn",
+      "spelling": "L, U, N, C, H, hyphen, A, N, D, hyphen, L, E, A, R, N",
+      "spoken_meaning": "名词，午餐学习会，午间分享会，边用餐边培训的内部分享",
+      "en": "HR will host a lunch-and-learn on the new expense software next Wednesday at noon.",
+      "zh": "人力资源部将于下周三中午主办一场关于新报销软件的午餐学习会。"
+    },
+    {
+      "word": "breakout-session",
+      "spelling": "B, R, E, A, K, O, U, T, hyphen, S, E, S, S, I, O, N",
+      "spoken_meaning": "名词，分组讨论，分会场环节，大会中的专题小组会",
+      "en": "After the keynote, attendees will join a breakout-session on vendor risk.",
+      "zh": "主旨演讲结束后，与会者将参加一场关于供应商风险的分组讨论。"
+    },
+    {
+      "word": "panel-discussion",
+      "spelling": "P, A, N, E, L, hyphen, D, I, S, C, U, S, S, I, O, N",
+      "spoken_meaning": "名词，专题座谈，小组讨论，嘉宾座谈会",
+      "en": "The afternoon panel-discussion will feature three regional managers and one key client.",
+      "zh": "下午的专题座谈将邀请三位区域经理和一位重点客户出席。"
+    },
+    {
+      "word": "town-hall",
+      "spelling": "T, O, W, N, hyphen, H, A, L, L",
+      "spoken_meaning": "名词，全员大会，内部开放会，员工问询会",
+      "en": "The CEO will host a town-hall on Friday to address the reorganization.",
+      "zh": "首席执行官将于周五召开全员大会，说明此次重组安排。"
+    },
+    {
+      "word": "written-warning",
+      "spelling": "W, R, I, T, T, E, N, hyphen, W, A, R, N, I, N, G",
+      "spoken_meaning": "名词，书面警告，书面告诫，正式书面处分通知",
+      "en": "HR issued a written-warning after the second violation of the attendance policy.",
+      "zh": "在第二次违反考勤政策后，人力资源部发出了书面警告。"
+    },
+    {
+      "word": "probationary-period",
+      "spelling": "P, R, O, B, A, T, I, O, N, A, R, Y, hyphen, P, E, R, I, O, D",
+      "spoken_meaning": "名词，试用期，见习期，转正前的考察阶段",
+      "en": "Her probationary-period ends on March 15, when we will confirm the permanent offer.",
+      "zh": "她的试用期将于3月15日结束，届时我们将确认是否转为正式聘用。"
+    },
+    {
+      "word": "job-description",
+      "spelling": "J, O, B, hyphen, D, E, S, C, R, I, P, T, I, O, N",
+      "spoken_meaning": "名词，职位说明，岗位职责描述，工作说明书",
+      "en": "Please update the job-description before we post the opening internally.",
+      "zh": "请在我们于内部发布该空缺之前，先更新职位说明。"
+    },
+    {
+      "word": "knowledge-transfer",
+      "spelling": "K, N, O, W, L, E, D, G, E, hyphen, T, R, A, N, S, F, E, R",
+      "spoken_meaning": "名词，知识移交，经验交接，关键信息转移",
+      "en": "We scheduled two weeks of knowledge-transfer before his last day.",
+      "zh": "我们在他最后工作日之前安排了两周的知识移交。"
+    },
+    {
+      "word": "reference-check",
+      "spelling": "R, E, F, E, R, E, N, C, E, hyphen, C, H, E, C, K",
+      "spoken_meaning": "名词，推荐人核实，前雇主征询，用人证明核查",
+      "en": "We will complete a reference-check with her previous supervisor this week.",
+      "zh": "我们将于本周与她的前任主管完成推荐人核实。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第51轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "line-of-credit",
+      "voice": "en",
+      "text": "line of credit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "line-of-credit",
+      "voice": "en",
+      "text": "L, I, N, E, hyphen, O, F, hyphen, C, R, E, D, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "line-of-credit",
+      "voice": "zh",
+      "text": "名词，信用额度，循环授信，备用信贷额度",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "line-of-credit",
+      "voice": "en",
+      "text": "We drew on the line-of-credit to cover payroll during the collection delay.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "line-of-credit",
+      "voice": "zh",
+      "text": "在回款延迟期间，我们动用了信用额度以支付工资。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "journal-entry",
+      "voice": "en",
+      "text": "journal entry",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "journal-entry",
+      "voice": "en",
+      "text": "J, O, U, R, N, A, L, hyphen, E, N, T, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "journal-entry",
+      "voice": "zh",
+      "text": "名词，会计分录，日记账分录，账务记录",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "journal-entry",
+      "voice": "en",
+      "text": "Accounting posted a journal-entry to correct the duplicate vendor payment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "journal-entry",
+      "voice": "zh",
+      "text": "会计部门过账了一笔分录，以更正重复支付给供应商的款项。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "current-ratio",
+      "voice": "en",
+      "text": "current ratio",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "current-ratio",
+      "voice": "en",
+      "text": "C, U, R, R, E, N, T, hyphen, R, A, T, I, O",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "current-ratio",
+      "voice": "zh",
+      "text": "名词，流动比率，流动资产对流动负债的比值",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "current-ratio",
+      "voice": "en",
+      "text": "The bank asked us to keep the current-ratio above 1.5 throughout the loan term.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "current-ratio",
+      "voice": "zh",
+      "text": "银行要求我们在整个贷款期限内将流动比率维持在 1.5 以上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "return-on-investment",
+      "voice": "en",
+      "text": "return on investment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "return-on-investment",
+      "voice": "en",
+      "text": "R, E, T, U, R, N, hyphen, O, N, hyphen, I, N, V, E, S, T, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "return-on-investment",
+      "voice": "zh",
+      "text": "名词，投资回报率，投资收益率（常称ROI）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "return-on-investment",
+      "voice": "en",
+      "text": "The pilot must show a clear return-on-investment before we fund a full rollout.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "return-on-investment",
+      "voice": "zh",
+      "text": "在我们拨款全面推广之前，试点必须显示出明确的投资回报率。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "carry-on",
+      "voice": "en",
+      "text": "carry on",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "carry-on",
+      "voice": "en",
+      "text": "C, A, R, R, Y, hyphen, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "carry-on",
+      "voice": "zh",
+      "text": "名词，随身行李，机舱手提包，可带上飞机的行李",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "carry-on",
+      "voice": "en",
+      "text": "Please keep your carry-on within the overhead-bin size limits.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "carry-on",
+      "voice": "zh",
+      "text": "请将随身行李控制在头顶行李箱的尺寸限制以内。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "checked-baggage",
+      "voice": "en",
+      "text": "checked baggage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "checked-baggage",
+      "voice": "en",
+      "text": "C, H, E, C, K, E, D, hyphen, B, A, G, G, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "checked-baggage",
+      "voice": "zh",
+      "text": "名词，托运行李，交运行李，办理登机手续时交运的行李",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "checked-baggage",
+      "voice": "en",
+      "text": "The fare includes one piece of checked-baggage weighing up to twenty-three kilograms.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "checked-baggage",
+      "voice": "zh",
+      "text": "该票价包含一件不超过二十三公斤的托运行李。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "baggage-claim",
+      "voice": "en",
+      "text": "baggage claim",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "baggage-claim",
+      "voice": "en",
+      "text": "B, A, G, G, A, G, E, hyphen, C, L, A, I, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "baggage-claim",
+      "voice": "zh",
+      "text": "名词，行李提取处，行李转盘区域，到达后领取托运行李的地点",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "baggage-claim",
+      "voice": "en",
+      "text": "After clearing immigration, proceed to baggage-claim carousel four.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "baggage-claim",
+      "voice": "zh",
+      "text": "通过入境边检后，请前往四号行李转盘提取行李。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "frequent-flyer",
+      "voice": "en",
+      "text": "frequent flyer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "frequent-flyer",
+      "voice": "en",
+      "text": "F, R, E, Q, U, E, N, T, hyphen, F, L, Y, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "frequent-flyer",
+      "voice": "zh",
+      "text": "名词，常旅客，飞行常客，航空公司常旅客计划会员",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "frequent-flyer",
+      "voice": "en",
+      "text": "Please add my frequent-flyer number to the booking so the miles post correctly.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "frequent-flyer",
+      "voice": "zh",
+      "text": "请把我的常旅客会员号加入订单，以便里程能正确入账。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "business-class",
+      "voice": "en",
+      "text": "business class",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "business-class",
+      "voice": "en",
+      "text": "B, U, S, I, N, E, S, S, hyphen, C, L, A, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "business-class",
+      "voice": "zh",
+      "text": "名词，商务舱，公务舱，介于经济舱与头等舱之间的舱等",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "business-class",
+      "voice": "en",
+      "text": "The travel policy allows business-class on flights longer than eight hours.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "business-class",
+      "voice": "zh",
+      "text": "差旅政策允许时长超过八小时的航班预订商务舱。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "dress-code",
+      "voice": "en",
+      "text": "dress code",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "dress-code",
+      "voice": "en",
+      "text": "D, R, E, S, S, hyphen, C, O, D, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "dress-code",
+      "voice": "zh",
+      "text": "名词，着装规范，着装要求，场合着装准则",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "dress-code",
+      "voice": "en",
+      "text": "Client-visit days require a stricter dress-code than our usual Fridays.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "dress-code",
+      "voice": "zh",
+      "text": "客户来访日的着装规范比我们平时的周五要求更严格。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "business-casual",
+      "voice": "en",
+      "text": "business casual",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "business-casual",
+      "voice": "en",
+      "text": "B, U, S, I, N, E, S, S, hyphen, C, A, S, U, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "business-casual",
+      "voice": "zh",
+      "text": "形容词，商务休闲装的，商务便装的，介于正装与便装之间的着装风格",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "business-casual",
+      "voice": "en",
+      "text": "The office observes business-casual except when clients are on site.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "business-casual",
+      "voice": "zh",
+      "text": "除客户到访期间外，办公室执行商务休闲着装。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "name-badge",
+      "voice": "en",
+      "text": "name badge",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "name-badge",
+      "voice": "en",
+      "text": "N, A, M, E, hyphen, B, A, D, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "name-badge",
+      "voice": "zh",
+      "text": "名词，胸牌，姓名牌，身份识别牌",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "name-badge",
+      "voice": "en",
+      "text": "All visitors must wear a name-badge while they are in the restricted area.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "name-badge",
+      "voice": "zh",
+      "text": "所有访客在限制区域内必须佩戴胸牌。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lead-generation",
+      "voice": "en",
+      "text": "lead generation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lead-generation",
+      "voice": "en",
+      "text": "L, E, A, D, hyphen, G, E, N, E, R, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lead-generation",
+      "voice": "zh",
+      "text": "名词，潜在客户开发，获客，销售线索生成",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lead-generation",
+      "voice": "en",
+      "text": "The webinar series is our strongest lead-generation channel this quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lead-generation",
+      "voice": "zh",
+      "text": "该系列网络研讨会是本季度我们最有效的潜在客户开发渠道。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "target-audience",
+      "voice": "en",
+      "text": "target audience",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "target-audience",
+      "voice": "en",
+      "text": "T, A, R, G, E, T, hyphen, A, U, D, I, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "target-audience",
+      "voice": "zh",
+      "text": "名词，目标受众，目标群体，营销针对的对象人群",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "target-audience",
+      "voice": "en",
+      "text": "Before we write the copy, we need to define the target-audience more precisely.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "target-audience",
+      "voice": "zh",
+      "text": "在撰写文案之前，我们需要更精确地界定目标受众。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "focus-group",
+      "voice": "en",
+      "text": "focus group",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "focus-group",
+      "voice": "en",
+      "text": "F, O, C, U, S, hyphen, G, R, O, U, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "focus-group",
+      "voice": "zh",
+      "text": "名词，焦点小组，小组座谈，定性访谈小组",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "focus-group",
+      "voice": "en",
+      "text": "We will conduct a focus-group with store managers before finalizing the new display.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "focus-group",
+      "voice": "zh",
+      "text": "在最终确定新陈列方案之前，我们将与门店经理开展一场焦点小组访谈。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "customer-lifetime-value",
+      "voice": "en",
+      "text": "customer lifetime value",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "customer-lifetime-value",
+      "voice": "en",
+      "text": "C, U, S, T, O, M, E, R, hyphen, L, I, F, E, T, I, M, E, hyphen, V, A, L, U, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "customer-lifetime-value",
+      "voice": "zh",
+      "text": "名词，客户终身价值，顾客生命周期价值（常称CLV/LTV）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "customer-lifetime-value",
+      "voice": "en",
+      "text": "Loyalty rewards are designed to raise customer-lifetime-value, not just first-order sales.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "customer-lifetime-value",
+      "voice": "zh",
+      "text": "忠诚奖励计划旨在提升客户终身价值，而不仅仅是首单销售额。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "liquidated-damages",
+      "voice": "en",
+      "text": "liquidated damages",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "liquidated-damages",
+      "voice": "en",
+      "text": "L, I, Q, U, I, D, A, T, E, D, hyphen, D, A, M, A, G, E, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "liquidated-damages",
+      "voice": "zh",
+      "text": "名词，违约金，约定损害赔偿，预定违约赔偿额",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "liquidated-damages",
+      "voice": "en",
+      "text": "Late delivery beyond ten days triggers liquidated-damages of one percent per week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "liquidated-damages",
+      "voice": "zh",
+      "text": "逾期交付超过十天的，将按每周百分之一触发违约金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "non-solicitation",
+      "voice": "en",
+      "text": "non solicitation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "non-solicitation",
+      "voice": "en",
+      "text": "N, O, N, hyphen, S, O, L, I, C, I, T, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "non-solicitation",
+      "voice": "zh",
+      "text": "名词，禁止招揽，竞业招揽限制，不得挖角或争揽客户的约定",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "non-solicitation",
+      "voice": "en",
+      "text": "The agreement includes a twelve-month non-solicitation covering clients and staff.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "non-solicitation",
+      "voice": "zh",
+      "text": "该协议包含为期十二个月、涵盖客户与员工的禁止招揽条款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "electronic-signature",
+      "voice": "en",
+      "text": "electronic signature",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "electronic-signature",
+      "voice": "en",
+      "text": "E, L, E, C, T, R, O, N, I, C, hyphen, S, I, G, N, A, T, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "electronic-signature",
+      "voice": "zh",
+      "text": "名词，电子签名，电子签章，以电子方式签署文件",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "electronic-signature",
+      "voice": "en",
+      "text": "Vendors may execute the renewal with an electronic-signature through our portal.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "electronic-signature",
+      "voice": "zh",
+      "text": "供应商可通过我们的门户以电子签名完成续约签署。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "intellectual-property",
+      "voice": "en",
+      "text": "intellectual property",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "intellectual-property",
+      "voice": "en",
+      "text": "I, N, T, E, L, L, E, C, T, U, A, L, hyphen, P, R, O, P, E, R, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "intellectual-property",
+      "voice": "zh",
+      "text": "名词，知识产权，智力成果权（常称IP）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "intellectual-property",
+      "voice": "en",
+      "text": "All work product under this contract remains the company's intellectual-property.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "intellectual-property",
+      "voice": "zh",
+      "text": "本合同项下的全部工作成果仍归公司所有，属于公司的知识产权。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "agenda",
+      "voice": "en",
+      "text": "agenda",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "agenda",
+      "voice": "en",
+      "text": "A, G, E, N, D, A",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "agenda",
+      "voice": "zh",
+      "text": "名词，议程，议事日程，会议议题清单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "agenda",
+      "voice": "en",
+      "text": "I have attached the agenda so you can review the discussion items before Tuesday's meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "agenda",
+      "voice": "zh",
+      "text": "我已附上议程，便于你在周二开会前先审阅各项讨论议题。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lunch-and-learn",
+      "voice": "en",
+      "text": "lunch and learn",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lunch-and-learn",
+      "voice": "en",
+      "text": "L, U, N, C, H, hyphen, A, N, D, hyphen, L, E, A, R, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lunch-and-learn",
+      "voice": "zh",
+      "text": "名词，午餐学习会，午间分享会，边用餐边培训的内部分享",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lunch-and-learn",
+      "voice": "en",
+      "text": "HR will host a lunch-and-learn on the new expense software next Wednesday at noon.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lunch-and-learn",
+      "voice": "zh",
+      "text": "人力资源部将于下周三中午主办一场关于新报销软件的午餐学习会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "breakout-session",
+      "voice": "en",
+      "text": "breakout session",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "breakout-session",
+      "voice": "en",
+      "text": "B, R, E, A, K, O, U, T, hyphen, S, E, S, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "breakout-session",
+      "voice": "zh",
+      "text": "名词，分组讨论，分会场环节，大会中的专题小组会",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "breakout-session",
+      "voice": "en",
+      "text": "After the keynote, attendees will join a breakout-session on vendor risk.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "breakout-session",
+      "voice": "zh",
+      "text": "主旨演讲结束后，与会者将参加一场关于供应商风险的分组讨论。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "panel-discussion",
+      "voice": "en",
+      "text": "panel discussion",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "panel-discussion",
+      "voice": "en",
+      "text": "P, A, N, E, L, hyphen, D, I, S, C, U, S, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "panel-discussion",
+      "voice": "zh",
+      "text": "名词，专题座谈，小组讨论，嘉宾座谈会",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "panel-discussion",
+      "voice": "en",
+      "text": "The afternoon panel-discussion will feature three regional managers and one key client.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "panel-discussion",
+      "voice": "zh",
+      "text": "下午的专题座谈将邀请三位区域经理和一位重点客户出席。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "town-hall",
+      "voice": "en",
+      "text": "town hall",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "town-hall",
+      "voice": "en",
+      "text": "T, O, W, N, hyphen, H, A, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "town-hall",
+      "voice": "zh",
+      "text": "名词，全员大会，内部开放会，员工问询会",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "town-hall",
+      "voice": "en",
+      "text": "The CEO will host a town-hall on Friday to address the reorganization.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "town-hall",
+      "voice": "zh",
+      "text": "首席执行官将于周五召开全员大会，说明此次重组安排。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "written-warning",
+      "voice": "en",
+      "text": "written warning",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "written-warning",
+      "voice": "en",
+      "text": "W, R, I, T, T, E, N, hyphen, W, A, R, N, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "written-warning",
+      "voice": "zh",
+      "text": "名词，书面警告，书面告诫，正式书面处分通知",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "written-warning",
+      "voice": "en",
+      "text": "HR issued a written-warning after the second violation of the attendance policy.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "written-warning",
+      "voice": "zh",
+      "text": "在第二次违反考勤政策后，人力资源部发出了书面警告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "probationary-period",
+      "voice": "en",
+      "text": "probationary period",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "probationary-period",
+      "voice": "en",
+      "text": "P, R, O, B, A, T, I, O, N, A, R, Y, hyphen, P, E, R, I, O, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "probationary-period",
+      "voice": "zh",
+      "text": "名词，试用期，见习期，转正前的考察阶段",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "probationary-period",
+      "voice": "en",
+      "text": "Her probationary-period ends on March 15, when we will confirm the permanent offer.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "probationary-period",
+      "voice": "zh",
+      "text": "她的试用期将于3月15日结束，届时我们将确认是否转为正式聘用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "job-description",
+      "voice": "en",
+      "text": "job description",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "job-description",
+      "voice": "en",
+      "text": "J, O, B, hyphen, D, E, S, C, R, I, P, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "job-description",
+      "voice": "zh",
+      "text": "名词，职位说明，岗位职责描述，工作说明书",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "job-description",
+      "voice": "en",
+      "text": "Please update the job-description before we post the opening internally.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "job-description",
+      "voice": "zh",
+      "text": "请在我们于内部发布该空缺之前，先更新职位说明。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "knowledge-transfer",
+      "voice": "en",
+      "text": "knowledge transfer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "knowledge-transfer",
+      "voice": "en",
+      "text": "K, N, O, W, L, E, D, G, E, hyphen, T, R, A, N, S, F, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "knowledge-transfer",
+      "voice": "zh",
+      "text": "名词，知识移交，经验交接，关键信息转移",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "knowledge-transfer",
+      "voice": "en",
+      "text": "We scheduled two weeks of knowledge-transfer before his last day.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "knowledge-transfer",
+      "voice": "zh",
+      "text": "我们在他最后工作日之前安排了两周的知识移交。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reference-check",
+      "voice": "en",
+      "text": "reference check",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reference-check",
+      "voice": "en",
+      "text": "R, E, F, E, R, E, N, C, E, hyphen, C, H, E, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reference-check",
+      "voice": "zh",
+      "text": "名词，推荐人核实，前雇主征询，用人证明核查",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reference-check",
+      "voice": "en",
+      "text": "We will complete a reference-check with her previous supervisor this week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reference-check",
+      "voice": "zh",
+      "text": "我们将于本周与她的前任主管完成推荐人核实。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第51轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

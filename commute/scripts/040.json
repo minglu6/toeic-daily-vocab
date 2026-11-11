@@ -1,0 +1,1314 @@
+{
+  "id": "040",
+  "track": 40,
+  "title": "第 40 轨",
+  "word_count": 30,
+  "headwords": [
+    "omnichannel",
+    "fulfillment",
+    "last-mile",
+    "footfall",
+    "conversion-rate",
+    "click-through",
+    "impression",
+    "engagement",
+    "uptime",
+    "failover",
+    "capex",
+    "opex",
+    "ebitda",
+    "write-down",
+    "lead-time",
+    "cycle-time",
+    "brick-and-mortar",
+    "pop-up",
+    "thought-leadership",
+    "business-continuity",
+    "amendment",
+    "allegation",
+    "fine-print",
+    "hold-harmless",
+    "non-compete",
+    "paper-trail",
+    "zero-tolerance",
+    "contingency",
+    "counterparty",
+    "fiduciary"
+  ],
+  "entries": [
+    {
+      "word": "omnichannel",
+      "spelling": "O, M, N, I, C, H, A, N, N, E, L",
+      "spoken_meaning": "形容词或名词，全渠道的，全渠道零售，多触点一体",
+      "en": "The retailer invested in omnichannel inventory so online orders can ship from stores.",
+      "zh": "该零售商投资全渠道库存，使线上订单可从门店发货。"
+    },
+    {
+      "word": "fulfillment",
+      "spelling": "F, U, L, F, I, L, L, M, E, N, T",
+      "spoken_meaning": "名词，履约，订单履约，仓储配送履约",
+      "en": "Peak-season delays often start in the fulfillment center, not at the carrier.",
+      "zh": "旺季延误往往始于履约仓，而非承运商环节。"
+    },
+    {
+      "word": "last-mile",
+      "spelling": "L, A, S, T, hyphen, M, I, L, E",
+      "spoken_meaning": "形容词或名词，最后一公里，末端配送，末端环节的",
+      "en": "Drones and lockers are being tested to cut last-mile delivery expenses.",
+      "zh": "无人机与快递柜正被试验用于降低末端配送费用。"
+    },
+    {
+      "word": "footfall",
+      "spelling": "F, O, O, T, F, A, L, L",
+      "spoken_meaning": "名词，客流量，进店人次，人流",
+      "en": "The pop-up window display lifted weekend footfall by nearly 18 percent.",
+      "zh": "快闪橱窗陈列使周末客流提升了近百分之十八。"
+    },
+    {
+      "word": "conversion-rate",
+      "spelling": "C, O, N, V, E, R, S, I, O, N, hyphen, R, A, T, E",
+      "spoken_meaning": "名词，转化率，成交转化比例，访客转化率",
+      "en": "Simplifying the payment form raised the mobile conversion-rate within two weeks.",
+      "zh": "简化支付表单后，两周内移动端转化率便有所提升。"
+    },
+    {
+      "word": "click-through",
+      "spelling": "C, L, I, C, K, hyphen, T, H, R, O, U, G, H",
+      "spoken_meaning": "名词或形容词，点击通过，点击率相关，点进",
+      "en": "The new subject line doubled email click-through compared with last month.",
+      "zh": "新邮件主题行使点击通过率比上月翻了一番。"
+    },
+    {
+      "word": "impression",
+      "spelling": "I, M, P, R, E, S, S, I, O, N",
+      "spoken_meaning": "名词，展示次数，广告曝光，印象",
+      "en": "The campaign delivered two million impressions but few qualified leads.",
+      "zh": "该活动带来了两百万次展示，但合格线索很少。"
+    },
+    {
+      "word": "engagement",
+      "spelling": "E, N, G, A, G, E, M, E, N, T",
+      "spoken_meaning": "名词，互动，用户参与度，约定/聘用",
+      "en": "Short-form video posts drove higher engagement than static image ads.",
+      "zh": "短视频帖子带来的互动高于静态图片广告。"
+    },
+    {
+      "word": "uptime",
+      "spelling": "U, P, T, I, M, E",
+      "spoken_meaning": "名词，正常运行时间，可用时长，在线率",
+      "en": "The SLA requires 99.95 percent uptime during business hours.",
+      "zh": "服务级别协议要求营业时间内百分之九十九点九五的可用率。"
+    },
+    {
+      "word": "failover",
+      "spelling": "F, A, I, L, O, V, E, R",
+      "spoken_meaning": "名词，故障切换，故障转移，备用接管",
+      "en": "Automatic failover kept the checkout API available during the database outage.",
+      "zh": "自动故障切换使结账 API 在数据库故障期间仍保持可用。"
+    },
+    {
+      "word": "capex",
+      "spelling": "C, A, P, E, X",
+      "spoken_meaning": "名词，资本性支出，固定资产投资，CapEx",
+      "en": "Building the new warehouse will require significant capex over two fiscal years.",
+      "zh": "新建仓库需要在两个财年内投入大额资本性支出。"
+    },
+    {
+      "word": "opex",
+      "spelling": "O, P, E, X",
+      "spoken_meaning": "名词，运营支出，经营费用，OpEx",
+      "en": "Moving to the cloud converted some hardware capex into predictable monthly opex.",
+      "zh": "上云把部分硬件资本支出转变成了可预期的月度运营支出。"
+    },
+    {
+      "word": "ebitda",
+      "spelling": "E, B, I, T, D, A",
+      "spoken_meaning": "名词，息税折旧摊销前利润，EBITDA",
+      "en": "Management guided full-year EBITDA to grow mid-teens despite higher logistics costs.",
+      "zh": "尽管物流成本上升，管理层仍指引全年 EBITDA 将实现百分之十几的增长。"
+    },
+    {
+      "word": "write-down",
+      "spelling": "W, R, I, T, E, hyphen, D, O, W, N",
+      "spoken_meaning": "名词或动词，减值，资产减记，下调账面价值",
+      "en": "Obsolete chip inventory forced a sizable write-down in the third quarter.",
+      "zh": "过时芯片存货迫使公司在第三季度进行大额减记。"
+    },
+    {
+      "word": "lead-time",
+      "spelling": "L, E, A, D, hyphen, T, I, M, E",
+      "spoken_meaning": "名词，前置时间，交货周期，提前期",
+      "en": "Custom tooling has a twelve-week lead-time, so orders must be placed early.",
+      "zh": "定制工装有十二周交货周期，因此必须提前下单。"
+    },
+    {
+      "word": "cycle-time",
+      "spelling": "C, Y, C, L, E, hyphen, T, I, M, E",
+      "spoken_meaning": "名词，周期时间，单件加工周期，流程循环时长",
+      "en": "Automation cut average cycle-time on the packing line by almost 30 percent.",
+      "zh": "自动化使包装线平均周期时间缩短了近百分之三十。"
+    },
+    {
+      "word": "brick-and-mortar",
+      "spelling": "B, R, I, C, K, hyphen, A, N, D, hyphen, M, O, R, T, A, R",
+      "spoken_meaning": "形容词或名词，实体店的，砖瓦门店，线下实体零售",
+      "en": "Even digital-first brands are opening brick-and-mortar stores for brand experience.",
+      "zh": "即便数字优先品牌也在开设实体店以打造品牌体验。"
+    },
+    {
+      "word": "pop-up",
+      "spelling": "P, O, P, hyphen, U, P",
+      "spoken_meaning": "名词或形容词，快闪店，弹出式的，临时店铺",
+      "en": "The brand ran a two-week pop-up in the airport to test traveler demand.",
+      "zh": "该品牌在机场开设为期两周的快闪店，以测试旅客需求。"
+    },
+    {
+      "word": "thought-leadership",
+      "spelling": "T, H, O, U, G, H, T, hyphen, L, E, A, D, E, R, S, H, I, P",
+      "spoken_meaning": "名词，思想领导力，观点引领，专业见解输出",
+      "en": "The white paper strengthened the firm's thought-leadership in sustainable logistics.",
+      "zh": "该白皮书强化了公司在可持续物流领域的思想领导力。"
+    },
+    {
+      "word": "business-continuity",
+      "spelling": "B, U, S, I, N, E, S, S, hyphen, C, O, N, T, I, N, U, I, T, Y",
+      "spoken_meaning": "名词，业务连续性，持续经营能力，灾备持续运营",
+      "en": "The audit found gaps in the company's business-continuity plan for regional outages.",
+      "zh": "审计发现公司针对区域中断的业务连续性计划存在缺口。"
+    },
+    {
+      "word": "amendment",
+      "spelling": "A, M, E, N, D, M, E, N, T",
+      "spoken_meaning": "名词，修正案，修订条款，合同变更",
+      "en": "Please review the amendment before we circulate the revised agreement.",
+      "zh": "请在我们分发修订协议前审阅该修正案。"
+    },
+    {
+      "word": "allegation",
+      "spelling": "A, L, L, E, G, A, T, I, O, N",
+      "spoken_meaning": "名词，指控，指称，未经证实的说法",
+      "en": "The compliance team opened a review after several allegations of kickbacks.",
+      "zh": "在出现多起回扣指控后，合规团队启动了审查。"
+    },
+    {
+      "word": "fine-print",
+      "spelling": "F, I, N, E, hyphen, P, R, I, N, T",
+      "spoken_meaning": "名词，小字条款，细则，附属条件",
+      "en": "The cancellation fee was buried in the fine print of the vendor contract.",
+      "zh": "取消费用被写在供应商合同的小字条款里。"
+    },
+    {
+      "word": "hold-harmless",
+      "spelling": "H, O, L, D, hyphen, H, A, R, M, L, E, S, S",
+      "spoken_meaning": "形容词或名词，免责的，免责条款，使不受损害",
+      "en": "Facilities will not admit contractors without a signed hold-harmless agreement.",
+      "zh": "设施部门在未签署免责协议前不会允许承包商进场。"
+    },
+    {
+      "word": "non-compete",
+      "spelling": "N, O, N, hyphen, C, O, M, P, E, T, E",
+      "spoken_meaning": "名词或形容词，竞业禁止，竞业限制协议，禁止同业竞争的",
+      "en": "Her offer letter includes a 12-month non-compete covering the regional market.",
+      "zh": "她的录用通知书含有覆盖区域市场的十二个月竞业禁止条款。"
+    },
+    {
+      "word": "paper-trail",
+      "spelling": "P, A, P, E, R, hyphen, T, R, A, I, L",
+      "spoken_meaning": "名词，书面记录链，可追溯文件，证据链条",
+      "en": "Auditors asked for a complete paper trail of every purchase-order approval.",
+      "zh": "审计人员要求提供每笔采购订单审批的完整书面记录链。"
+    },
+    {
+      "word": "zero-tolerance",
+      "spelling": "Z, E, R, O, hyphen, T, O, L, E, R, A, N, C, E",
+      "spoken_meaning": "名词或形容词，零容忍，零容忍政策，绝不姑息",
+      "en": "The plant has a zero-tolerance policy for working without a hard hat.",
+      "zh": "该工厂对未戴安全帽作业实行零容忍政策。"
+    },
+    {
+      "word": "contingency",
+      "spelling": "C, O, N, T, I, N, G, E, N, C, Y",
+      "spoken_meaning": "名词，应急预案，偶然事件，或有事项",
+      "en": "We set aside five percent of the project cost as a contingency.",
+      "zh": "我们预留了项目成本的百分之五作为应急金。"
+    },
+    {
+      "word": "counterparty",
+      "spelling": "C, O, U, N, T, E, R, P, A, R, T, Y",
+      "spoken_meaning": "名词，交易对手，合同相对方，对手方",
+      "en": "Treasury reviews the credit rating of each new counterparty before settlement.",
+      "zh": "资金部在结算前会审核每位新交易对手的信用评级。"
+    },
+    {
+      "word": "fiduciary",
+      "spelling": "F, I, D, U, C, I, A, R, Y",
+      "spoken_meaning": "形容词或名词，信托的，受信义务的，受托人",
+      "en": "Board members must act in a fiduciary capacity for all shareholders.",
+      "zh": "董事会成员必须以全体股东的受托人身份行事。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第40轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "omnichannel",
+      "voice": "en",
+      "text": "omnichannel",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "omnichannel",
+      "voice": "en",
+      "text": "O, M, N, I, C, H, A, N, N, E, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "omnichannel",
+      "voice": "zh",
+      "text": "形容词或名词，全渠道的，全渠道零售，多触点一体",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "omnichannel",
+      "voice": "en",
+      "text": "The retailer invested in omnichannel inventory so online orders can ship from stores.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "omnichannel",
+      "voice": "zh",
+      "text": "该零售商投资全渠道库存，使线上订单可从门店发货。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fulfillment",
+      "voice": "en",
+      "text": "fulfillment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fulfillment",
+      "voice": "en",
+      "text": "F, U, L, F, I, L, L, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fulfillment",
+      "voice": "zh",
+      "text": "名词，履约，订单履约，仓储配送履约",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fulfillment",
+      "voice": "en",
+      "text": "Peak-season delays often start in the fulfillment center, not at the carrier.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fulfillment",
+      "voice": "zh",
+      "text": "旺季延误往往始于履约仓，而非承运商环节。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "last-mile",
+      "voice": "en",
+      "text": "last mile",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "last-mile",
+      "voice": "en",
+      "text": "L, A, S, T, hyphen, M, I, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "last-mile",
+      "voice": "zh",
+      "text": "形容词或名词，最后一公里，末端配送，末端环节的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "last-mile",
+      "voice": "en",
+      "text": "Drones and lockers are being tested to cut last-mile delivery expenses.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "last-mile",
+      "voice": "zh",
+      "text": "无人机与快递柜正被试验用于降低末端配送费用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "footfall",
+      "voice": "en",
+      "text": "footfall",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "footfall",
+      "voice": "en",
+      "text": "F, O, O, T, F, A, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "footfall",
+      "voice": "zh",
+      "text": "名词，客流量，进店人次，人流",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "footfall",
+      "voice": "en",
+      "text": "The pop-up window display lifted weekend footfall by nearly 18 percent.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "footfall",
+      "voice": "zh",
+      "text": "快闪橱窗陈列使周末客流提升了近百分之十八。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "conversion-rate",
+      "voice": "en",
+      "text": "conversion rate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "conversion-rate",
+      "voice": "en",
+      "text": "C, O, N, V, E, R, S, I, O, N, hyphen, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "conversion-rate",
+      "voice": "zh",
+      "text": "名词，转化率，成交转化比例，访客转化率",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "conversion-rate",
+      "voice": "en",
+      "text": "Simplifying the payment form raised the mobile conversion-rate within two weeks.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "conversion-rate",
+      "voice": "zh",
+      "text": "简化支付表单后，两周内移动端转化率便有所提升。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "click-through",
+      "voice": "en",
+      "text": "click through",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "click-through",
+      "voice": "en",
+      "text": "C, L, I, C, K, hyphen, T, H, R, O, U, G, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "click-through",
+      "voice": "zh",
+      "text": "名词或形容词，点击通过，点击率相关，点进",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "click-through",
+      "voice": "en",
+      "text": "The new subject line doubled email click-through compared with last month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "click-through",
+      "voice": "zh",
+      "text": "新邮件主题行使点击通过率比上月翻了一番。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "impression",
+      "voice": "en",
+      "text": "impression",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "impression",
+      "voice": "en",
+      "text": "I, M, P, R, E, S, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "impression",
+      "voice": "zh",
+      "text": "名词，展示次数，广告曝光，印象",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "impression",
+      "voice": "en",
+      "text": "The campaign delivered two million impressions but few qualified leads.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "impression",
+      "voice": "zh",
+      "text": "该活动带来了两百万次展示，但合格线索很少。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "engagement",
+      "voice": "en",
+      "text": "engagement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "engagement",
+      "voice": "en",
+      "text": "E, N, G, A, G, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "engagement",
+      "voice": "zh",
+      "text": "名词，互动，用户参与度，约定/聘用",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "engagement",
+      "voice": "en",
+      "text": "Short-form video posts drove higher engagement than static image ads.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "engagement",
+      "voice": "zh",
+      "text": "短视频帖子带来的互动高于静态图片广告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "uptime",
+      "voice": "en",
+      "text": "uptime",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "uptime",
+      "voice": "en",
+      "text": "U, P, T, I, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "uptime",
+      "voice": "zh",
+      "text": "名词，正常运行时间，可用时长，在线率",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "uptime",
+      "voice": "en",
+      "text": "The SLA requires 99.95 percent uptime during business hours.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "uptime",
+      "voice": "zh",
+      "text": "服务级别协议要求营业时间内百分之九十九点九五的可用率。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "failover",
+      "voice": "en",
+      "text": "failover",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "failover",
+      "voice": "en",
+      "text": "F, A, I, L, O, V, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "failover",
+      "voice": "zh",
+      "text": "名词，故障切换，故障转移，备用接管",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "failover",
+      "voice": "en",
+      "text": "Automatic failover kept the checkout API available during the database outage.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "failover",
+      "voice": "zh",
+      "text": "自动故障切换使结账 API 在数据库故障期间仍保持可用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "capex",
+      "voice": "en",
+      "text": "capex",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "capex",
+      "voice": "en",
+      "text": "C, A, P, E, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "capex",
+      "voice": "zh",
+      "text": "名词，资本性支出，固定资产投资，CapEx",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "capex",
+      "voice": "en",
+      "text": "Building the new warehouse will require significant capex over two fiscal years.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "capex",
+      "voice": "zh",
+      "text": "新建仓库需要在两个财年内投入大额资本性支出。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "opex",
+      "voice": "en",
+      "text": "opex",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "opex",
+      "voice": "en",
+      "text": "O, P, E, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "opex",
+      "voice": "zh",
+      "text": "名词，运营支出，经营费用，OpEx",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "opex",
+      "voice": "en",
+      "text": "Moving to the cloud converted some hardware capex into predictable monthly opex.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "opex",
+      "voice": "zh",
+      "text": "上云把部分硬件资本支出转变成了可预期的月度运营支出。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ebitda",
+      "voice": "en",
+      "text": "ebitda",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ebitda",
+      "voice": "en",
+      "text": "E, B, I, T, D, A",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ebitda",
+      "voice": "zh",
+      "text": "名词，息税折旧摊销前利润，EBITDA",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ebitda",
+      "voice": "en",
+      "text": "Management guided full-year EBITDA to grow mid-teens despite higher logistics costs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ebitda",
+      "voice": "zh",
+      "text": "尽管物流成本上升，管理层仍指引全年 EBITDA 将实现百分之十几的增长。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "write-down",
+      "voice": "en",
+      "text": "write down",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "write-down",
+      "voice": "en",
+      "text": "W, R, I, T, E, hyphen, D, O, W, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "write-down",
+      "voice": "zh",
+      "text": "名词或动词，减值，资产减记，下调账面价值",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "write-down",
+      "voice": "en",
+      "text": "Obsolete chip inventory forced a sizable write-down in the third quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "write-down",
+      "voice": "zh",
+      "text": "过时芯片存货迫使公司在第三季度进行大额减记。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lead-time",
+      "voice": "en",
+      "text": "lead time",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lead-time",
+      "voice": "en",
+      "text": "L, E, A, D, hyphen, T, I, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lead-time",
+      "voice": "zh",
+      "text": "名词，前置时间，交货周期，提前期",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lead-time",
+      "voice": "en",
+      "text": "Custom tooling has a twelve-week lead-time, so orders must be placed early.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lead-time",
+      "voice": "zh",
+      "text": "定制工装有十二周交货周期，因此必须提前下单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cycle-time",
+      "voice": "en",
+      "text": "cycle time",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cycle-time",
+      "voice": "en",
+      "text": "C, Y, C, L, E, hyphen, T, I, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cycle-time",
+      "voice": "zh",
+      "text": "名词，周期时间，单件加工周期，流程循环时长",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cycle-time",
+      "voice": "en",
+      "text": "Automation cut average cycle-time on the packing line by almost 30 percent.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cycle-time",
+      "voice": "zh",
+      "text": "自动化使包装线平均周期时间缩短了近百分之三十。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "brick-and-mortar",
+      "voice": "en",
+      "text": "brick and mortar",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "brick-and-mortar",
+      "voice": "en",
+      "text": "B, R, I, C, K, hyphen, A, N, D, hyphen, M, O, R, T, A, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "brick-and-mortar",
+      "voice": "zh",
+      "text": "形容词或名词，实体店的，砖瓦门店，线下实体零售",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "brick-and-mortar",
+      "voice": "en",
+      "text": "Even digital-first brands are opening brick-and-mortar stores for brand experience.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "brick-and-mortar",
+      "voice": "zh",
+      "text": "即便数字优先品牌也在开设实体店以打造品牌体验。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "pop-up",
+      "voice": "en",
+      "text": "pop up",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "pop-up",
+      "voice": "en",
+      "text": "P, O, P, hyphen, U, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "pop-up",
+      "voice": "zh",
+      "text": "名词或形容词，快闪店，弹出式的，临时店铺",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "pop-up",
+      "voice": "en",
+      "text": "The brand ran a two-week pop-up in the airport to test traveler demand.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "pop-up",
+      "voice": "zh",
+      "text": "该品牌在机场开设为期两周的快闪店，以测试旅客需求。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "thought-leadership",
+      "voice": "en",
+      "text": "thought leadership",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "thought-leadership",
+      "voice": "en",
+      "text": "T, H, O, U, G, H, T, hyphen, L, E, A, D, E, R, S, H, I, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "thought-leadership",
+      "voice": "zh",
+      "text": "名词，思想领导力，观点引领，专业见解输出",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "thought-leadership",
+      "voice": "en",
+      "text": "The white paper strengthened the firm's thought-leadership in sustainable logistics.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "thought-leadership",
+      "voice": "zh",
+      "text": "该白皮书强化了公司在可持续物流领域的思想领导力。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "business-continuity",
+      "voice": "en",
+      "text": "business continuity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "business-continuity",
+      "voice": "en",
+      "text": "B, U, S, I, N, E, S, S, hyphen, C, O, N, T, I, N, U, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "business-continuity",
+      "voice": "zh",
+      "text": "名词，业务连续性，持续经营能力，灾备持续运营",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "business-continuity",
+      "voice": "en",
+      "text": "The audit found gaps in the company's business-continuity plan for regional outages.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "business-continuity",
+      "voice": "zh",
+      "text": "审计发现公司针对区域中断的业务连续性计划存在缺口。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "amendment",
+      "voice": "en",
+      "text": "amendment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "amendment",
+      "voice": "en",
+      "text": "A, M, E, N, D, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "amendment",
+      "voice": "zh",
+      "text": "名词，修正案，修订条款，合同变更",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "amendment",
+      "voice": "en",
+      "text": "Please review the amendment before we circulate the revised agreement.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "amendment",
+      "voice": "zh",
+      "text": "请在我们分发修订协议前审阅该修正案。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "allegation",
+      "voice": "en",
+      "text": "allegation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "allegation",
+      "voice": "en",
+      "text": "A, L, L, E, G, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "allegation",
+      "voice": "zh",
+      "text": "名词，指控，指称，未经证实的说法",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "allegation",
+      "voice": "en",
+      "text": "The compliance team opened a review after several allegations of kickbacks.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "allegation",
+      "voice": "zh",
+      "text": "在出现多起回扣指控后，合规团队启动了审查。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fine-print",
+      "voice": "en",
+      "text": "fine print",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fine-print",
+      "voice": "en",
+      "text": "F, I, N, E, hyphen, P, R, I, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fine-print",
+      "voice": "zh",
+      "text": "名词，小字条款，细则，附属条件",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fine-print",
+      "voice": "en",
+      "text": "The cancellation fee was buried in the fine print of the vendor contract.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fine-print",
+      "voice": "zh",
+      "text": "取消费用被写在供应商合同的小字条款里。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hold-harmless",
+      "voice": "en",
+      "text": "hold harmless",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hold-harmless",
+      "voice": "en",
+      "text": "H, O, L, D, hyphen, H, A, R, M, L, E, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hold-harmless",
+      "voice": "zh",
+      "text": "形容词或名词，免责的，免责条款，使不受损害",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hold-harmless",
+      "voice": "en",
+      "text": "Facilities will not admit contractors without a signed hold-harmless agreement.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hold-harmless",
+      "voice": "zh",
+      "text": "设施部门在未签署免责协议前不会允许承包商进场。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "non-compete",
+      "voice": "en",
+      "text": "non compete",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "non-compete",
+      "voice": "en",
+      "text": "N, O, N, hyphen, C, O, M, P, E, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "non-compete",
+      "voice": "zh",
+      "text": "名词或形容词，竞业禁止，竞业限制协议，禁止同业竞争的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "non-compete",
+      "voice": "en",
+      "text": "Her offer letter includes a 12-month non-compete covering the regional market.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "non-compete",
+      "voice": "zh",
+      "text": "她的录用通知书含有覆盖区域市场的十二个月竞业禁止条款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "paper-trail",
+      "voice": "en",
+      "text": "paper trail",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "paper-trail",
+      "voice": "en",
+      "text": "P, A, P, E, R, hyphen, T, R, A, I, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "paper-trail",
+      "voice": "zh",
+      "text": "名词，书面记录链，可追溯文件，证据链条",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "paper-trail",
+      "voice": "en",
+      "text": "Auditors asked for a complete paper trail of every purchase-order approval.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "paper-trail",
+      "voice": "zh",
+      "text": "审计人员要求提供每笔采购订单审批的完整书面记录链。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "zero-tolerance",
+      "voice": "en",
+      "text": "zero tolerance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "zero-tolerance",
+      "voice": "en",
+      "text": "Z, E, R, O, hyphen, T, O, L, E, R, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "zero-tolerance",
+      "voice": "zh",
+      "text": "名词或形容词，零容忍，零容忍政策，绝不姑息",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "zero-tolerance",
+      "voice": "en",
+      "text": "The plant has a zero-tolerance policy for working without a hard hat.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "zero-tolerance",
+      "voice": "zh",
+      "text": "该工厂对未戴安全帽作业实行零容忍政策。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "contingency",
+      "voice": "en",
+      "text": "contingency",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "contingency",
+      "voice": "en",
+      "text": "C, O, N, T, I, N, G, E, N, C, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "contingency",
+      "voice": "zh",
+      "text": "名词，应急预案，偶然事件，或有事项",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "contingency",
+      "voice": "en",
+      "text": "We set aside five percent of the project cost as a contingency.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "contingency",
+      "voice": "zh",
+      "text": "我们预留了项目成本的百分之五作为应急金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "counterparty",
+      "voice": "en",
+      "text": "counterparty",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "counterparty",
+      "voice": "en",
+      "text": "C, O, U, N, T, E, R, P, A, R, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "counterparty",
+      "voice": "zh",
+      "text": "名词，交易对手，合同相对方，对手方",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "counterparty",
+      "voice": "en",
+      "text": "Treasury reviews the credit rating of each new counterparty before settlement.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "counterparty",
+      "voice": "zh",
+      "text": "资金部在结算前会审核每位新交易对手的信用评级。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fiduciary",
+      "voice": "en",
+      "text": "fiduciary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fiduciary",
+      "voice": "en",
+      "text": "F, I, D, U, C, I, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fiduciary",
+      "voice": "zh",
+      "text": "形容词或名词，信托的，受信义务的，受托人",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fiduciary",
+      "voice": "en",
+      "text": "Board members must act in a fiduciary capacity for all shareholders.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fiduciary",
+      "voice": "zh",
+      "text": "董事会成员必须以全体股东的受托人身份行事。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第40轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

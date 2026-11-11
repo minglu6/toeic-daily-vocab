@@ -1,0 +1,1314 @@
+{
+  "id": "048",
+  "track": 48,
+  "title": "第 48 轨",
+  "word_count": 30,
+  "headwords": [
+    "deductible",
+    "certificate-of-insurance",
+    "cyber-insurance",
+    "business-interruption",
+    "coinsurance",
+    "rollback",
+    "multi-factor",
+    "single-sign-on",
+    "disaster-recovery",
+    "on-call",
+    "release-notes",
+    "feature-flag",
+    "mvp",
+    "user-story",
+    "wireframe",
+    "canary",
+    "garnishment",
+    "direct-deposit",
+    "paid-time-off",
+    "benefits-enrollment",
+    "career-ladder",
+    "job-rotation",
+    "counter-offer",
+    "hard-skills",
+    "non-disclosure",
+    "trade-secret",
+    "conflict-check",
+    "matter-number",
+    "billable-hour",
+    "utilization-rate"
+  ],
+  "entries": [
+    {
+      "word": "deductible",
+      "spelling": "D, E, D, U, C, T, I, B, L, E",
+      "spoken_meaning": "名词或形容词，免赔额，起赔线，可扣除的（保险/税务）",
+      "en": "Raising the deductible lowered the annual cyber premium by fifteen percent.",
+      "zh": "提高免赔额使年度网络险保费下降了百分之十五。"
+    },
+    {
+      "word": "certificate-of-insurance",
+      "spelling": "C, E, R, T, I, F, I, C, A, T, E, hyphen, O, F, hyphen, I, N, S, U, R, A, N, C, E",
+      "spoken_meaning": "名词，保险凭证，承保证明，COI投保证明",
+      "en": "The landlord will not issue keys until we submit a certificate-of-insurance.",
+      "zh": "在我们提交保险凭证之前，房东不会发放钥匙。"
+    },
+    {
+      "word": "cyber-insurance",
+      "spelling": "C, Y, B, E, R, hyphen, I, N, S, U, R, A, N, C, E",
+      "spoken_meaning": "名词，网络保险，网络安全险，数据泄露相关保险",
+      "en": "Legal required proof of cyber-insurance before approving the cloud vendor.",
+      "zh": "法务在批准云供应商前要求提供网络保险证明。"
+    },
+    {
+      "word": "business-interruption",
+      "spelling": "B, U, S, I, N, E, S, S, hyphen, I, N, T, E, R, R, U, P, T, I, O, N",
+      "spoken_meaning": "名词，营业中断，经营中断损失，停业损失（保险）",
+      "en": "The flood claim included three months of business-interruption losses.",
+      "zh": "水灾理赔包含了三个月的营业中断损失。"
+    },
+    {
+      "word": "coinsurance",
+      "spelling": "C, O, I, N, S, U, R, A, N, C, E",
+      "spoken_meaning": "名词，共同保险，共保比例，被保险人分担比例",
+      "en": "Under the plan, employees pay twenty percent coinsurance after the deductible.",
+      "zh": "根据该方案，员工在免赔额之后还需支付百分之二十的共保份额。"
+    },
+    {
+      "word": "rollback",
+      "spelling": "R, O, L, L, B, A, C, K",
+      "spoken_meaning": "名词或动词，回滚，版本回退，撤销已发布变更",
+      "en": "The release manager ordered an immediate rollback after error rates spiked.",
+      "zh": "错误率飙升后，发布经理下令立即回滚。"
+    },
+    {
+      "word": "multi-factor",
+      "spelling": "M, U, L, T, I, hyphen, F, A, C, T, O, R",
+      "spoken_meaning": "形容词或名词，多因素（认证），多重验证，MFA多因子",
+      "en": "Finance accounts now require multi-factor before any wire transfer is approved.",
+      "zh": "财务账户在批准任何电汇前现须完成多因素认证。"
+    },
+    {
+      "word": "single-sign-on",
+      "spelling": "S, I, N, G, L, E, hyphen, S, I, G, N, hyphen, O, N",
+      "spoken_meaning": "名词，单点登录，SSO，一次登录访问多系统",
+      "en": "HR rolled out single-sign-on so new hires need only one corporate password.",
+      "zh": "人力资源上线了单点登录，使新员工只需一个公司密码。"
+    },
+    {
+      "word": "disaster-recovery",
+      "spelling": "D, I, S, A, S, T, E, R, hyphen, R, E, C, O, V, E, R, Y",
+      "spoken_meaning": "名词，灾难恢复，灾备，重大故障后系统恢复",
+      "en": "The annual drill proved the disaster-recovery site could take over within an hour.",
+      "zh": "年度演练证明灾备站点可在一小时内接管业务。"
+    },
+    {
+      "word": "on-call",
+      "spelling": "O, N, hyphen, C, A, L, L",
+      "spoken_meaning": "形容词或名词，值班的，待命，轮值响应（运维/医疗）",
+      "en": "She is on-call this weekend and must respond to severity-one alerts within fifteen minutes.",
+      "zh": "她本周末值班，须在十五分钟内响应一级告警。"
+    },
+    {
+      "word": "release-notes",
+      "spelling": "R, E, L, E, A, S, E, hyphen, N, O, T, E, S",
+      "spoken_meaning": "名词，发布说明，版本更新说明，发行注记",
+      "en": "Support asked customers to read the release-notes before upgrading the mobile app.",
+      "zh": "支持团队请客户在升级移动应用前先阅读发布说明。"
+    },
+    {
+      "word": "feature-flag",
+      "spelling": "F, E, A, T, U, R, E, hyphen, F, L, A, G",
+      "spoken_meaning": "名词，功能开关，特性开关，灰度发布开关",
+      "en": "We disabled the checkout feature-flag within minutes of the payment bug report.",
+      "zh": "收到支付故障报告后几分钟内，我们就关闭了结账功能开关。"
+    },
+    {
+      "word": "mvp",
+      "spelling": "M, V, P",
+      "spoken_meaning": "名词，最小可行产品，MVP，验证核心假设的最简版本",
+      "en": "The team shipped an mvp in six weeks to test whether users would pay for alerts.",
+      "zh": "团队在六周内推出最小可行产品，以测试用户是否愿为告警付费。"
+    },
+    {
+      "word": "user-story",
+      "spelling": "U, S, E, R, hyphen, S, T, O, R, Y",
+      "spoken_meaning": "名词，用户故事，需求条目，敏捷需求描述",
+      "en": "Each sprint starts by refining the top user-story with clear acceptance criteria.",
+      "zh": "每个冲刺开始时，都会把优先级最高的用户故事细化并写清验收标准。"
+    },
+    {
+      "word": "wireframe",
+      "spelling": "W, I, R, E, F, R, A, M, E",
+      "spoken_meaning": "名词，线框图，界面骨架图，低保真页面结构稿",
+      "en": "Design shared a wireframe of the settings page before any visual styling began.",
+      "zh": "设计在开始任何视觉样式之前，先分享了设置页的线框图。"
+    },
+    {
+      "word": "canary",
+      "spelling": "C, A, N, A, R, Y",
+      "spoken_meaning": "名词或形容词，金丝雀发布，小流量试发布，灰度探测版本",
+      "en": "The canary showed elevated latency, so we halted the wider rollout.",
+      "zh": "金丝雀发布显示延迟升高，因此我们暂停了更大范围的上线。"
+    },
+    {
+      "word": "garnishment",
+      "spelling": "G, A, R, N, I, S, H, M, E, N, T",
+      "spoken_meaning": "名词，薪资扣押，法院扣款，强制划扣工资",
+      "en": "Payroll must process each garnishment exactly as the court order specifies.",
+      "zh": "薪资团队必须严格按照法院命令处理每笔工资扣押。"
+    },
+    {
+      "word": "direct-deposit",
+      "spelling": "D, I, R, E, C, T, hyphen, D, E, P, O, S, I, T",
+      "spoken_meaning": "名词，银行直存，工资直接入账，电子代发薪",
+      "en": "New hires cannot be paid until they submit a completed direct-deposit form.",
+      "zh": "新员工在提交填妥的银行直存表格之前无法发薪。"
+    },
+    {
+      "word": "paid-time-off",
+      "spelling": "P, A, I, D, hyphen, T, I, M, E, hyphen, O, F, F",
+      "spoken_meaning": "名词，带薪休假，PTO，可带薪的请假额度",
+      "en": "Managers should approve paid-time-off at least one week before the leave starts.",
+      "zh": "经理应在休假开始前至少一周批准带薪假申请。"
+    },
+    {
+      "word": "benefits-enrollment",
+      "spelling": "B, E, N, E, F, I, T, S, hyphen, E, N, R, O, L, L, M, E, N, T",
+      "spoken_meaning": "名词，福利登记，福利参保登记，福利选修窗口",
+      "en": "HR reminded staff that benefits-enrollment closes this Friday at five.",
+      "zh": "人力资源提醒员工，福利登记本周五下午五点截止。"
+    },
+    {
+      "word": "career-ladder",
+      "spelling": "C, A, R, E, E, R, hyphen, L, A, D, D, E, R",
+      "spoken_meaning": "名词，职业阶梯，晋升路径，职级晋升通道",
+      "en": "Mentoring helps junior staff climb the career-ladder faster.",
+      "zh": "导师辅导帮助初级员工更快攀登职业阶梯。"
+    },
+    {
+      "word": "job-rotation",
+      "spelling": "J, O, B, hyphen, R, O, T, A, T, I, O, N",
+      "spoken_meaning": "名词，岗位轮换，轮岗，跨岗位轮训",
+      "en": "The leadership track requires a six-month job-rotation in operations.",
+      "zh": "领导力培养通道要求在运营部门完成六个月岗位轮换。"
+    },
+    {
+      "word": "counter-offer",
+      "spelling": "C, O, U, N, T, E, R, hyphen, O, F, F, E, R",
+      "spoken_meaning": "名词，还盘，反要约，挽留加薪报价",
+      "en": "She declined the counter-offer and joined the new firm in March.",
+      "zh": "她拒绝了挽留报价，并于三月加入新公司。"
+    },
+    {
+      "word": "hard-skills",
+      "spelling": "H, A, R, D, hyphen, S, K, I, L, L, S",
+      "spoken_meaning": "名词，硬技能，可量化专业技能，技术性能力",
+      "en": "The posting lists hard-skills such as SQL and financial modeling.",
+      "zh": "招聘启事列出了 SQL 与财务建模等硬技能要求。"
+    },
+    {
+      "word": "non-disclosure",
+      "spelling": "N, O, N, hyphen, D, I, S, C, L, O, S, U, R, E",
+      "spoken_meaning": "名词，保密，不披露，保密义务（常指NDA）",
+      "en": "Vendors must sign a non-disclosure before reviewing product roadmaps.",
+      "zh": "供应商在查阅产品路线图前必须签署保密协议。"
+    },
+    {
+      "word": "trade-secret",
+      "spelling": "T, R, A, D, E, hyphen, S, E, C, R, E, T",
+      "spoken_meaning": "名词，商业秘密，营业秘密，未公开的商业专有信息",
+      "en": "The formula is treated as a trade-secret under the employment contract.",
+      "zh": "根据劳动合同，该配方被作为商业秘密加以保护。"
+    },
+    {
+      "word": "conflict-check",
+      "spelling": "C, O, N, F, L, I, C, T, hyphen, C, H, E, C, K",
+      "spoken_meaning": "名词，利益冲突审查，利益冲突检索，接案前冲突核查",
+      "en": "We cannot open the matter until the conflict-check comes back clear.",
+      "zh": "在利益冲突审查结果为通过之前，我们不能立案。"
+    },
+    {
+      "word": "matter-number",
+      "spelling": "M, A, T, T, E, R, hyphen, N, U, M, B, E, R",
+      "spoken_meaning": "名词，案件编号，事项编号，律所内部案号",
+      "en": "Please charge all research time to the correct matter-number.",
+      "zh": "请将所有调研工时记入正确的案件编号。"
+    },
+    {
+      "word": "billable-hour",
+      "spelling": "B, I, L, L, A, B, L, E, hyphen, H, O, U, R",
+      "spoken_meaning": "名词，可计费小时，可向客户计费的工时，计费工时",
+      "en": "Associates must record every billable-hour before leaving for the day.",
+      "zh": "律师助理下班前必须登记每一小时可计费工时。"
+    },
+    {
+      "word": "utilization-rate",
+      "spelling": "U, T, I, L, I, Z, A, T, I, O, N, hyphen, R, A, T, E",
+      "spoken_meaning": "名词，利用率，工时利用率，人员产能利用率",
+      "en": "Partner reviews showed the team's utilization-rate fell below sixty percent.",
+      "zh": "合伙人审阅显示团队利用率已降至百分之六十以下。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第48轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "deductible",
+      "voice": "en",
+      "text": "deductible",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deductible",
+      "voice": "en",
+      "text": "D, E, D, U, C, T, I, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deductible",
+      "voice": "zh",
+      "text": "名词或形容词，免赔额，起赔线，可扣除的（保险/税务）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deductible",
+      "voice": "en",
+      "text": "Raising the deductible lowered the annual cyber premium by fifteen percent.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deductible",
+      "voice": "zh",
+      "text": "提高免赔额使年度网络险保费下降了百分之十五。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "certificate-of-insurance",
+      "voice": "en",
+      "text": "certificate of insurance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "certificate-of-insurance",
+      "voice": "en",
+      "text": "C, E, R, T, I, F, I, C, A, T, E, hyphen, O, F, hyphen, I, N, S, U, R, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "certificate-of-insurance",
+      "voice": "zh",
+      "text": "名词，保险凭证，承保证明，COI投保证明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "certificate-of-insurance",
+      "voice": "en",
+      "text": "The landlord will not issue keys until we submit a certificate-of-insurance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "certificate-of-insurance",
+      "voice": "zh",
+      "text": "在我们提交保险凭证之前，房东不会发放钥匙。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cyber-insurance",
+      "voice": "en",
+      "text": "cyber insurance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cyber-insurance",
+      "voice": "en",
+      "text": "C, Y, B, E, R, hyphen, I, N, S, U, R, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cyber-insurance",
+      "voice": "zh",
+      "text": "名词，网络保险，网络安全险，数据泄露相关保险",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cyber-insurance",
+      "voice": "en",
+      "text": "Legal required proof of cyber-insurance before approving the cloud vendor.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cyber-insurance",
+      "voice": "zh",
+      "text": "法务在批准云供应商前要求提供网络保险证明。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "business-interruption",
+      "voice": "en",
+      "text": "business interruption",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "business-interruption",
+      "voice": "en",
+      "text": "B, U, S, I, N, E, S, S, hyphen, I, N, T, E, R, R, U, P, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "business-interruption",
+      "voice": "zh",
+      "text": "名词，营业中断，经营中断损失，停业损失（保险）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "business-interruption",
+      "voice": "en",
+      "text": "The flood claim included three months of business-interruption losses.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "business-interruption",
+      "voice": "zh",
+      "text": "水灾理赔包含了三个月的营业中断损失。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "coinsurance",
+      "voice": "en",
+      "text": "coinsurance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "coinsurance",
+      "voice": "en",
+      "text": "C, O, I, N, S, U, R, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "coinsurance",
+      "voice": "zh",
+      "text": "名词，共同保险，共保比例，被保险人分担比例",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "coinsurance",
+      "voice": "en",
+      "text": "Under the plan, employees pay twenty percent coinsurance after the deductible.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "coinsurance",
+      "voice": "zh",
+      "text": "根据该方案，员工在免赔额之后还需支付百分之二十的共保份额。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "rollback",
+      "voice": "en",
+      "text": "rollback",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rollback",
+      "voice": "en",
+      "text": "R, O, L, L, B, A, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rollback",
+      "voice": "zh",
+      "text": "名词或动词，回滚，版本回退，撤销已发布变更",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rollback",
+      "voice": "en",
+      "text": "The release manager ordered an immediate rollback after error rates spiked.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rollback",
+      "voice": "zh",
+      "text": "错误率飙升后，发布经理下令立即回滚。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "multi-factor",
+      "voice": "en",
+      "text": "multi factor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "multi-factor",
+      "voice": "en",
+      "text": "M, U, L, T, I, hyphen, F, A, C, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "multi-factor",
+      "voice": "zh",
+      "text": "形容词或名词，多因素（认证），多重验证，MFA多因子",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "multi-factor",
+      "voice": "en",
+      "text": "Finance accounts now require multi-factor before any wire transfer is approved.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "multi-factor",
+      "voice": "zh",
+      "text": "财务账户在批准任何电汇前现须完成多因素认证。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "single-sign-on",
+      "voice": "en",
+      "text": "single sign on",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "single-sign-on",
+      "voice": "en",
+      "text": "S, I, N, G, L, E, hyphen, S, I, G, N, hyphen, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "single-sign-on",
+      "voice": "zh",
+      "text": "名词，单点登录，SSO，一次登录访问多系统",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "single-sign-on",
+      "voice": "en",
+      "text": "HR rolled out single-sign-on so new hires need only one corporate password.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "single-sign-on",
+      "voice": "zh",
+      "text": "人力资源上线了单点登录，使新员工只需一个公司密码。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "disaster-recovery",
+      "voice": "en",
+      "text": "disaster recovery",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "disaster-recovery",
+      "voice": "en",
+      "text": "D, I, S, A, S, T, E, R, hyphen, R, E, C, O, V, E, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "disaster-recovery",
+      "voice": "zh",
+      "text": "名词，灾难恢复，灾备，重大故障后系统恢复",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "disaster-recovery",
+      "voice": "en",
+      "text": "The annual drill proved the disaster-recovery site could take over within an hour.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "disaster-recovery",
+      "voice": "zh",
+      "text": "年度演练证明灾备站点可在一小时内接管业务。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "on-call",
+      "voice": "en",
+      "text": "on call",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "on-call",
+      "voice": "en",
+      "text": "O, N, hyphen, C, A, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "on-call",
+      "voice": "zh",
+      "text": "形容词或名词，值班的，待命，轮值响应（运维/医疗）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "on-call",
+      "voice": "en",
+      "text": "She is on-call this weekend and must respond to severity-one alerts within fifteen minutes.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "on-call",
+      "voice": "zh",
+      "text": "她本周末值班，须在十五分钟内响应一级告警。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "release-notes",
+      "voice": "en",
+      "text": "release notes",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "release-notes",
+      "voice": "en",
+      "text": "R, E, L, E, A, S, E, hyphen, N, O, T, E, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "release-notes",
+      "voice": "zh",
+      "text": "名词，发布说明，版本更新说明，发行注记",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "release-notes",
+      "voice": "en",
+      "text": "Support asked customers to read the release-notes before upgrading the mobile app.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "release-notes",
+      "voice": "zh",
+      "text": "支持团队请客户在升级移动应用前先阅读发布说明。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "feature-flag",
+      "voice": "en",
+      "text": "feature flag",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "feature-flag",
+      "voice": "en",
+      "text": "F, E, A, T, U, R, E, hyphen, F, L, A, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "feature-flag",
+      "voice": "zh",
+      "text": "名词，功能开关，特性开关，灰度发布开关",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "feature-flag",
+      "voice": "en",
+      "text": "We disabled the checkout feature-flag within minutes of the payment bug report.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "feature-flag",
+      "voice": "zh",
+      "text": "收到支付故障报告后几分钟内，我们就关闭了结账功能开关。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mvp",
+      "voice": "en",
+      "text": "mvp",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mvp",
+      "voice": "en",
+      "text": "M, V, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mvp",
+      "voice": "zh",
+      "text": "名词，最小可行产品，MVP，验证核心假设的最简版本",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mvp",
+      "voice": "en",
+      "text": "The team shipped an mvp in six weeks to test whether users would pay for alerts.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mvp",
+      "voice": "zh",
+      "text": "团队在六周内推出最小可行产品，以测试用户是否愿为告警付费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "user-story",
+      "voice": "en",
+      "text": "user story",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "user-story",
+      "voice": "en",
+      "text": "U, S, E, R, hyphen, S, T, O, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "user-story",
+      "voice": "zh",
+      "text": "名词，用户故事，需求条目，敏捷需求描述",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "user-story",
+      "voice": "en",
+      "text": "Each sprint starts by refining the top user-story with clear acceptance criteria.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "user-story",
+      "voice": "zh",
+      "text": "每个冲刺开始时，都会把优先级最高的用户故事细化并写清验收标准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "wireframe",
+      "voice": "en",
+      "text": "wireframe",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "wireframe",
+      "voice": "en",
+      "text": "W, I, R, E, F, R, A, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "wireframe",
+      "voice": "zh",
+      "text": "名词，线框图，界面骨架图，低保真页面结构稿",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "wireframe",
+      "voice": "en",
+      "text": "Design shared a wireframe of the settings page before any visual styling began.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "wireframe",
+      "voice": "zh",
+      "text": "设计在开始任何视觉样式之前，先分享了设置页的线框图。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "canary",
+      "voice": "en",
+      "text": "canary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "canary",
+      "voice": "en",
+      "text": "C, A, N, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "canary",
+      "voice": "zh",
+      "text": "名词或形容词，金丝雀发布，小流量试发布，灰度探测版本",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "canary",
+      "voice": "en",
+      "text": "The canary showed elevated latency, so we halted the wider rollout.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "canary",
+      "voice": "zh",
+      "text": "金丝雀发布显示延迟升高，因此我们暂停了更大范围的上线。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "garnishment",
+      "voice": "en",
+      "text": "garnishment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "garnishment",
+      "voice": "en",
+      "text": "G, A, R, N, I, S, H, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "garnishment",
+      "voice": "zh",
+      "text": "名词，薪资扣押，法院扣款，强制划扣工资",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "garnishment",
+      "voice": "en",
+      "text": "Payroll must process each garnishment exactly as the court order specifies.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "garnishment",
+      "voice": "zh",
+      "text": "薪资团队必须严格按照法院命令处理每笔工资扣押。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "direct-deposit",
+      "voice": "en",
+      "text": "direct deposit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "direct-deposit",
+      "voice": "en",
+      "text": "D, I, R, E, C, T, hyphen, D, E, P, O, S, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "direct-deposit",
+      "voice": "zh",
+      "text": "名词，银行直存，工资直接入账，电子代发薪",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "direct-deposit",
+      "voice": "en",
+      "text": "New hires cannot be paid until they submit a completed direct-deposit form.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "direct-deposit",
+      "voice": "zh",
+      "text": "新员工在提交填妥的银行直存表格之前无法发薪。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "paid-time-off",
+      "voice": "en",
+      "text": "paid time off",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "paid-time-off",
+      "voice": "en",
+      "text": "P, A, I, D, hyphen, T, I, M, E, hyphen, O, F, F",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "paid-time-off",
+      "voice": "zh",
+      "text": "名词，带薪休假，PTO，可带薪的请假额度",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "paid-time-off",
+      "voice": "en",
+      "text": "Managers should approve paid-time-off at least one week before the leave starts.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "paid-time-off",
+      "voice": "zh",
+      "text": "经理应在休假开始前至少一周批准带薪假申请。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "benefits-enrollment",
+      "voice": "en",
+      "text": "benefits enrollment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "benefits-enrollment",
+      "voice": "en",
+      "text": "B, E, N, E, F, I, T, S, hyphen, E, N, R, O, L, L, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "benefits-enrollment",
+      "voice": "zh",
+      "text": "名词，福利登记，福利参保登记，福利选修窗口",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "benefits-enrollment",
+      "voice": "en",
+      "text": "HR reminded staff that benefits-enrollment closes this Friday at five.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "benefits-enrollment",
+      "voice": "zh",
+      "text": "人力资源提醒员工，福利登记本周五下午五点截止。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "career-ladder",
+      "voice": "en",
+      "text": "career ladder",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "career-ladder",
+      "voice": "en",
+      "text": "C, A, R, E, E, R, hyphen, L, A, D, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "career-ladder",
+      "voice": "zh",
+      "text": "名词，职业阶梯，晋升路径，职级晋升通道",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "career-ladder",
+      "voice": "en",
+      "text": "Mentoring helps junior staff climb the career-ladder faster.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "career-ladder",
+      "voice": "zh",
+      "text": "导师辅导帮助初级员工更快攀登职业阶梯。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "job-rotation",
+      "voice": "en",
+      "text": "job rotation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "job-rotation",
+      "voice": "en",
+      "text": "J, O, B, hyphen, R, O, T, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "job-rotation",
+      "voice": "zh",
+      "text": "名词，岗位轮换，轮岗，跨岗位轮训",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "job-rotation",
+      "voice": "en",
+      "text": "The leadership track requires a six-month job-rotation in operations.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "job-rotation",
+      "voice": "zh",
+      "text": "领导力培养通道要求在运营部门完成六个月岗位轮换。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "counter-offer",
+      "voice": "en",
+      "text": "counter offer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "counter-offer",
+      "voice": "en",
+      "text": "C, O, U, N, T, E, R, hyphen, O, F, F, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "counter-offer",
+      "voice": "zh",
+      "text": "名词，还盘，反要约，挽留加薪报价",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "counter-offer",
+      "voice": "en",
+      "text": "She declined the counter-offer and joined the new firm in March.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "counter-offer",
+      "voice": "zh",
+      "text": "她拒绝了挽留报价，并于三月加入新公司。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hard-skills",
+      "voice": "en",
+      "text": "hard skills",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hard-skills",
+      "voice": "en",
+      "text": "H, A, R, D, hyphen, S, K, I, L, L, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hard-skills",
+      "voice": "zh",
+      "text": "名词，硬技能，可量化专业技能，技术性能力",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hard-skills",
+      "voice": "en",
+      "text": "The posting lists hard-skills such as SQL and financial modeling.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hard-skills",
+      "voice": "zh",
+      "text": "招聘启事列出了 SQL 与财务建模等硬技能要求。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "non-disclosure",
+      "voice": "en",
+      "text": "non disclosure",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "non-disclosure",
+      "voice": "en",
+      "text": "N, O, N, hyphen, D, I, S, C, L, O, S, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "non-disclosure",
+      "voice": "zh",
+      "text": "名词，保密，不披露，保密义务（常指NDA）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "non-disclosure",
+      "voice": "en",
+      "text": "Vendors must sign a non-disclosure before reviewing product roadmaps.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "non-disclosure",
+      "voice": "zh",
+      "text": "供应商在查阅产品路线图前必须签署保密协议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "trade-secret",
+      "voice": "en",
+      "text": "trade secret",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "trade-secret",
+      "voice": "en",
+      "text": "T, R, A, D, E, hyphen, S, E, C, R, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "trade-secret",
+      "voice": "zh",
+      "text": "名词，商业秘密，营业秘密，未公开的商业专有信息",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "trade-secret",
+      "voice": "en",
+      "text": "The formula is treated as a trade-secret under the employment contract.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "trade-secret",
+      "voice": "zh",
+      "text": "根据劳动合同，该配方被作为商业秘密加以保护。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "conflict-check",
+      "voice": "en",
+      "text": "conflict check",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "conflict-check",
+      "voice": "en",
+      "text": "C, O, N, F, L, I, C, T, hyphen, C, H, E, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "conflict-check",
+      "voice": "zh",
+      "text": "名词，利益冲突审查，利益冲突检索，接案前冲突核查",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "conflict-check",
+      "voice": "en",
+      "text": "We cannot open the matter until the conflict-check comes back clear.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "conflict-check",
+      "voice": "zh",
+      "text": "在利益冲突审查结果为通过之前，我们不能立案。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "matter-number",
+      "voice": "en",
+      "text": "matter number",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "matter-number",
+      "voice": "en",
+      "text": "M, A, T, T, E, R, hyphen, N, U, M, B, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "matter-number",
+      "voice": "zh",
+      "text": "名词，案件编号，事项编号，律所内部案号",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "matter-number",
+      "voice": "en",
+      "text": "Please charge all research time to the correct matter-number.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "matter-number",
+      "voice": "zh",
+      "text": "请将所有调研工时记入正确的案件编号。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "billable-hour",
+      "voice": "en",
+      "text": "billable hour",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "billable-hour",
+      "voice": "en",
+      "text": "B, I, L, L, A, B, L, E, hyphen, H, O, U, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "billable-hour",
+      "voice": "zh",
+      "text": "名词，可计费小时，可向客户计费的工时，计费工时",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "billable-hour",
+      "voice": "en",
+      "text": "Associates must record every billable-hour before leaving for the day.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "billable-hour",
+      "voice": "zh",
+      "text": "律师助理下班前必须登记每一小时可计费工时。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "utilization-rate",
+      "voice": "en",
+      "text": "utilization rate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "utilization-rate",
+      "voice": "en",
+      "text": "U, T, I, L, I, Z, A, T, I, O, N, hyphen, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "utilization-rate",
+      "voice": "zh",
+      "text": "名词，利用率，工时利用率，人员产能利用率",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "utilization-rate",
+      "voice": "en",
+      "text": "Partner reviews showed the team's utilization-rate fell below sixty percent.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "utilization-rate",
+      "voice": "zh",
+      "text": "合伙人审阅显示团队利用率已降至百分之六十以下。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第48轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

@@ -1,0 +1,1314 @@
+{
+  "id": "036",
+  "track": 36,
+  "title": "第 36 轨",
+  "word_count": 30,
+  "headwords": [
+    "verification",
+    "vertical",
+    "visa",
+    "collateral",
+    "endorsement",
+    "payable",
+    "receivable",
+    "retainer",
+    "royalty",
+    "arbitration",
+    "bylaws",
+    "covenant",
+    "indemnify",
+    "affidavit",
+    "briefing",
+    "moderator",
+    "quorum",
+    "reconvene",
+    "spokesperson",
+    "teleconference",
+    "absenteeism",
+    "allotment",
+    "arrears",
+    "furlough",
+    "grievance",
+    "handover",
+    "outplacement",
+    "pipeline",
+    "pushback",
+    "rebrand"
+  ],
+  "entries": [
+    {
+      "word": "verification",
+      "spelling": "V, E, R, I, F, I, C, A, T, I, O, N",
+      "spoken_meaning": "名词，核实，验证，核验",
+      "en": "Account access is locked until identity verification is complete.",
+      "zh": "在身份核验完成前，账户访问将被锁定。"
+    },
+    {
+      "word": "vertical",
+      "spelling": "V, E, R, T, I, C, A, L",
+      "spoken_meaning": "形容词或名词，垂直的，纵向的，（行业）垂直领域",
+      "en": "The startup focuses on one vertical: healthcare logistics software.",
+      "zh": "这家初创公司专注于一个垂直领域：医疗物流软件。"
+    },
+    {
+      "word": "visa",
+      "spelling": "V, I, S, A",
+      "spoken_meaning": "名词，签证",
+      "en": "Staff traveling to the regional office must renew their work visas in advance.",
+      "zh": "前往区域办事处的员工必须提前续签工作签证。"
+    },
+    {
+      "word": "collateral",
+      "spelling": "C, O, L, L, A, T, E, R, A, L",
+      "spoken_meaning": "名词或形容词，抵押品，担保物，附属的",
+      "en": "The borrower offered commercial property as collateral for the expansion loan.",
+      "zh": "借款人以商业地产作为扩建贷款的抵押。"
+    },
+    {
+      "word": "endorsement",
+      "spelling": "E, N, D, O, R, S, E, M, E, N, T",
+      "spoken_meaning": "名词，背书，认可，代言",
+      "en": "The campaign features a celebrity endorsement of the new skincare line.",
+      "zh": "该营销活动以明星代言新品护肤系列为亮点。"
+    },
+    {
+      "word": "payable",
+      "spelling": "P, A, Y, A, B, L, E",
+      "spoken_meaning": "形容词或名词，应付的，应付款",
+      "en": "Please send all supplier invoices to accounts payable by month-end.",
+      "zh": "请在月底前将所有供应商发票寄至应付账款部门。"
+    },
+    {
+      "word": "receivable",
+      "spelling": "R, E, C, E, I, V, A, B, L, E",
+      "spoken_meaning": "形容词或名词，应收的，应收账款",
+      "en": "Cash flow improved after the team accelerated collection of overdue receivables.",
+      "zh": "团队加快催收逾期应收款后，现金流有所改善。"
+    },
+    {
+      "word": "retainer",
+      "spelling": "R, E, T, A, I, N, E, R",
+      "spoken_meaning": "名词，聘用定金，顾问费，保持器",
+      "en": "The firm keeps a tax attorney on retainer for quarterly compliance reviews.",
+      "zh": "公司常年聘用税务律师做季度合规审查。"
+    },
+    {
+      "word": "royalty",
+      "spelling": "R, O, Y, A, L, T, Y",
+      "spoken_meaning": "名词，版税，特许权使用费，皇室",
+      "en": "Authors earn royalties based on each copy sold through the publisher.",
+      "zh": "作者按出版商售出的每册书获得版税。"
+    },
+    {
+      "word": "arbitration",
+      "spelling": "A, R, B, I, T, R, A, T, I, O, N",
+      "spoken_meaning": "名词，仲裁，公断",
+      "en": "Disputes under this contract must first go to binding arbitration.",
+      "zh": "本合同项下争议须首先进入有约束力的仲裁。"
+    },
+    {
+      "word": "bylaws",
+      "spelling": "B, Y, L, A, W, S",
+      "spoken_meaning": "名词，公司章程细则，内部规章",
+      "en": "The board voted to amend the bylaws on director term limits.",
+      "zh": "董事会表决修订了有关董事任期限制的章程细则。"
+    },
+    {
+      "word": "covenant",
+      "spelling": "C, O, V, E, N, A, N, T",
+      "spoken_meaning": "名词或动词，契约条款，承诺，立约",
+      "en": "Failing to meet the debt covenant could trigger an immediate repayment demand.",
+      "zh": "未能满足债务契约条款可能触发立即还款要求。"
+    },
+    {
+      "word": "indemnify",
+      "spelling": "I, N, D, E, M, N, I, F, Y",
+      "spoken_meaning": "动词，赔偿，使免受损失，保障",
+      "en": "The contractor agreed to indemnify the client against third-party claims.",
+      "zh": "承包商同意就第三方索赔向客户作出赔偿。"
+    },
+    {
+      "word": "affidavit",
+      "spelling": "A, F, F, I, D, A, V, I, T",
+      "spoken_meaning": "名词，宣誓书，书面证词",
+      "en": "HR asked the employee to sign an affidavit confirming the expense report.",
+      "zh": "人力资源部要求该员工签署宣誓书以确认费用报销单。"
+    },
+    {
+      "word": "briefing",
+      "spelling": "B, R, I, E, F, I, N, G",
+      "spoken_meaning": "名词，简报，情况通报，行前说明",
+      "en": "The CEO will give a short briefing on Q4 priorities at 9 a.m.",
+      "zh": "首席执行官将在上午九时就第四季度重点做简短通报。"
+    },
+    {
+      "word": "moderator",
+      "spelling": "M, O, D, E, R, A, T, O, R",
+      "spoken_meaning": "名词，主持人，协调人，版主",
+      "en": "Please introduce yourselves briefly when the moderator calls on you.",
+      "zh": "当主持人点到你时，请简短自我介绍。"
+    },
+    {
+      "word": "quorum",
+      "spelling": "Q, U, O, R, U, M",
+      "spoken_meaning": "名词，法定人数，开会最低出席人数",
+      "en": "The vote was postponed because the board lacked a quorum.",
+      "zh": "因董事会未达法定人数，表决被推迟。"
+    },
+    {
+      "word": "reconvene",
+      "spelling": "R, E, C, O, N, V, E, N, E",
+      "spoken_meaning": "动词，重新召开，再集会",
+      "en": "We will recess for fifteen minutes and reconvene at 2:30.",
+      "zh": "我们将休会十五分钟，并在两点半复会。"
+    },
+    {
+      "word": "spokesperson",
+      "spelling": "S, P, O, K, E, S, P, E, R, S, O, N",
+      "spoken_meaning": "名词，发言人，代言人",
+      "en": "A company spokesperson declined to comment on the merger talks.",
+      "zh": "公司发言人拒绝对并购谈判置评。"
+    },
+    {
+      "word": "teleconference",
+      "spelling": "T, E, L, E, C, O, N, F, E, R, E, N, C, E",
+      "spoken_meaning": "名词或动词，电话会议，远程会议",
+      "en": "Regional managers will join the weekly teleconference from their branch offices.",
+      "zh": "区域经理将从各自分公司加入每周电话会议。"
+    },
+    {
+      "word": "absenteeism",
+      "spelling": "A, B, S, E, N, T, E, E, I, S, M",
+      "spoken_meaning": "名词，旷工，缺勤率，经常性缺席",
+      "en": "The HR team launched a wellness program to reduce absenteeism across all departments.",
+      "zh": "人力资源团队推出健康计划，以降低各部门的缺勤率。"
+    },
+    {
+      "word": "allotment",
+      "spelling": "A, L, L, O, T, M, E, N, T",
+      "spoken_meaning": "名词，分配额，配额，拨出份额",
+      "en": "Each department received a travel allotment for the annual conference.",
+      "zh": "每个部门都获得了参加年度会议的差旅配额。"
+    },
+    {
+      "word": "arrears",
+      "spelling": "A, R, R, E, A, R, S",
+      "spoken_meaning": "名词，欠款，拖欠款项，逾期未付款",
+      "en": "The tenant paid three months of rent arrears before renewing the lease.",
+      "zh": "租户在续租前结清了三个月的租金欠款。"
+    },
+    {
+      "word": "furlough",
+      "spelling": "F, U, R, L, O, U, G, H",
+      "spoken_meaning": "名词或动词，强制休假，临时停薪留职，准假",
+      "en": "Due to the seasonal downturn, the factory placed 200 workers on unpaid furlough.",
+      "zh": "因季节性业务下滑，工厂安排 200 名工人无薪强制休假。"
+    },
+    {
+      "word": "grievance",
+      "spelling": "G, R, I, E, V, A, N, C, E",
+      "spoken_meaning": "名词，投诉，不满，劳资申诉",
+      "en": "Employees who feel unfairly treated may file a formal grievance with HR.",
+      "zh": "觉得受到不公对待的员工可向人力资源部门提出正式申诉。"
+    },
+    {
+      "word": "handover",
+      "spelling": "H, A, N, D, O, V, E, R",
+      "spoken_meaning": "名词，交接，移交，职责转交",
+      "en": "The outgoing manager prepared detailed handover notes for her successor.",
+      "zh": "即将离任的经理为继任者准备了详细的交接备注。"
+    },
+    {
+      "word": "outplacement",
+      "spelling": "O, U, T, P, L, A, C, E, M, E, N, T",
+      "spoken_meaning": "名词，再就业安置服务，裁员辅导，转职协助",
+      "en": "Laid-off staff were offered six months of outplacement services at no cost.",
+      "zh": "被裁员工可免费获得六个月的再就业安置服务。"
+    },
+    {
+      "word": "pipeline",
+      "spelling": "P, I, P, E, L, I, N, E",
+      "spoken_meaning": "名词，管道，项目储备，待推进事项流",
+      "en": "Several promising deals are still in the sales pipeline for next quarter.",
+      "zh": "下个季度仍有几笔有前景的交易处于销售储备中。"
+    },
+    {
+      "word": "pushback",
+      "spelling": "P, U, S, H, B, A, C, K",
+      "spoken_meaning": "名词，阻力，反对意见，推回/抵制",
+      "en": "The pricing proposal faced strong pushback from regional sales managers.",
+      "zh": "该定价提案遭到区域销售经理的强烈反对。"
+    },
+    {
+      "word": "rebrand",
+      "spelling": "R, E, B, R, A, N, D",
+      "spoken_meaning": "动词或名词，品牌重塑，更换品牌形象，再品牌化",
+      "en": "The company plans to rebrand its budget line as a premium lifestyle brand.",
+      "zh": "该公司计划将平价产品线重塑为高端生活方式品牌。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第36轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "verification",
+      "voice": "en",
+      "text": "verification",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "verification",
+      "voice": "en",
+      "text": "V, E, R, I, F, I, C, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "verification",
+      "voice": "zh",
+      "text": "名词，核实，验证，核验",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "verification",
+      "voice": "en",
+      "text": "Account access is locked until identity verification is complete.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "verification",
+      "voice": "zh",
+      "text": "在身份核验完成前，账户访问将被锁定。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "vertical",
+      "voice": "en",
+      "text": "vertical",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "vertical",
+      "voice": "en",
+      "text": "V, E, R, T, I, C, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "vertical",
+      "voice": "zh",
+      "text": "形容词或名词，垂直的，纵向的，（行业）垂直领域",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "vertical",
+      "voice": "en",
+      "text": "The startup focuses on one vertical: healthcare logistics software.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "vertical",
+      "voice": "zh",
+      "text": "这家初创公司专注于一个垂直领域：医疗物流软件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "visa",
+      "voice": "en",
+      "text": "visa",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "visa",
+      "voice": "en",
+      "text": "V, I, S, A",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "visa",
+      "voice": "zh",
+      "text": "名词，签证",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "visa",
+      "voice": "en",
+      "text": "Staff traveling to the regional office must renew their work visas in advance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "visa",
+      "voice": "zh",
+      "text": "前往区域办事处的员工必须提前续签工作签证。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "collateral",
+      "voice": "en",
+      "text": "collateral",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "collateral",
+      "voice": "en",
+      "text": "C, O, L, L, A, T, E, R, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "collateral",
+      "voice": "zh",
+      "text": "名词或形容词，抵押品，担保物，附属的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "collateral",
+      "voice": "en",
+      "text": "The borrower offered commercial property as collateral for the expansion loan.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "collateral",
+      "voice": "zh",
+      "text": "借款人以商业地产作为扩建贷款的抵押。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "endorsement",
+      "voice": "en",
+      "text": "endorsement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "endorsement",
+      "voice": "en",
+      "text": "E, N, D, O, R, S, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "endorsement",
+      "voice": "zh",
+      "text": "名词，背书，认可，代言",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "endorsement",
+      "voice": "en",
+      "text": "The campaign features a celebrity endorsement of the new skincare line.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "endorsement",
+      "voice": "zh",
+      "text": "该营销活动以明星代言新品护肤系列为亮点。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "payable",
+      "voice": "en",
+      "text": "payable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "payable",
+      "voice": "en",
+      "text": "P, A, Y, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "payable",
+      "voice": "zh",
+      "text": "形容词或名词，应付的，应付款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "payable",
+      "voice": "en",
+      "text": "Please send all supplier invoices to accounts payable by month-end.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "payable",
+      "voice": "zh",
+      "text": "请在月底前将所有供应商发票寄至应付账款部门。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "receivable",
+      "voice": "en",
+      "text": "receivable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "receivable",
+      "voice": "en",
+      "text": "R, E, C, E, I, V, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "receivable",
+      "voice": "zh",
+      "text": "形容词或名词，应收的，应收账款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "receivable",
+      "voice": "en",
+      "text": "Cash flow improved after the team accelerated collection of overdue receivables.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "receivable",
+      "voice": "zh",
+      "text": "团队加快催收逾期应收款后，现金流有所改善。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "retainer",
+      "voice": "en",
+      "text": "retainer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "retainer",
+      "voice": "en",
+      "text": "R, E, T, A, I, N, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "retainer",
+      "voice": "zh",
+      "text": "名词，聘用定金，顾问费，保持器",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "retainer",
+      "voice": "en",
+      "text": "The firm keeps a tax attorney on retainer for quarterly compliance reviews.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "retainer",
+      "voice": "zh",
+      "text": "公司常年聘用税务律师做季度合规审查。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "royalty",
+      "voice": "en",
+      "text": "royalty",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "royalty",
+      "voice": "en",
+      "text": "R, O, Y, A, L, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "royalty",
+      "voice": "zh",
+      "text": "名词，版税，特许权使用费，皇室",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "royalty",
+      "voice": "en",
+      "text": "Authors earn royalties based on each copy sold through the publisher.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "royalty",
+      "voice": "zh",
+      "text": "作者按出版商售出的每册书获得版税。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "arbitration",
+      "voice": "en",
+      "text": "arbitration",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "arbitration",
+      "voice": "en",
+      "text": "A, R, B, I, T, R, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "arbitration",
+      "voice": "zh",
+      "text": "名词，仲裁，公断",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "arbitration",
+      "voice": "en",
+      "text": "Disputes under this contract must first go to binding arbitration.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "arbitration",
+      "voice": "zh",
+      "text": "本合同项下争议须首先进入有约束力的仲裁。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bylaws",
+      "voice": "en",
+      "text": "bylaws",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bylaws",
+      "voice": "en",
+      "text": "B, Y, L, A, W, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bylaws",
+      "voice": "zh",
+      "text": "名词，公司章程细则，内部规章",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bylaws",
+      "voice": "en",
+      "text": "The board voted to amend the bylaws on director term limits.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bylaws",
+      "voice": "zh",
+      "text": "董事会表决修订了有关董事任期限制的章程细则。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "covenant",
+      "voice": "en",
+      "text": "covenant",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "covenant",
+      "voice": "en",
+      "text": "C, O, V, E, N, A, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "covenant",
+      "voice": "zh",
+      "text": "名词或动词，契约条款，承诺，立约",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "covenant",
+      "voice": "en",
+      "text": "Failing to meet the debt covenant could trigger an immediate repayment demand.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "covenant",
+      "voice": "zh",
+      "text": "未能满足债务契约条款可能触发立即还款要求。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "indemnify",
+      "voice": "en",
+      "text": "indemnify",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "indemnify",
+      "voice": "en",
+      "text": "I, N, D, E, M, N, I, F, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "indemnify",
+      "voice": "zh",
+      "text": "动词，赔偿，使免受损失，保障",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "indemnify",
+      "voice": "en",
+      "text": "The contractor agreed to indemnify the client against third-party claims.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "indemnify",
+      "voice": "zh",
+      "text": "承包商同意就第三方索赔向客户作出赔偿。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "affidavit",
+      "voice": "en",
+      "text": "affidavit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "affidavit",
+      "voice": "en",
+      "text": "A, F, F, I, D, A, V, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "affidavit",
+      "voice": "zh",
+      "text": "名词，宣誓书，书面证词",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "affidavit",
+      "voice": "en",
+      "text": "HR asked the employee to sign an affidavit confirming the expense report.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "affidavit",
+      "voice": "zh",
+      "text": "人力资源部要求该员工签署宣誓书以确认费用报销单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "briefing",
+      "voice": "en",
+      "text": "briefing",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "briefing",
+      "voice": "en",
+      "text": "B, R, I, E, F, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "briefing",
+      "voice": "zh",
+      "text": "名词，简报，情况通报，行前说明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "briefing",
+      "voice": "en",
+      "text": "The CEO will give a short briefing on Q4 priorities at 9 a.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "briefing",
+      "voice": "zh",
+      "text": "首席执行官将在上午九时就第四季度重点做简短通报。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "moderator",
+      "voice": "en",
+      "text": "moderator",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "moderator",
+      "voice": "en",
+      "text": "M, O, D, E, R, A, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "moderator",
+      "voice": "zh",
+      "text": "名词，主持人，协调人，版主",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "moderator",
+      "voice": "en",
+      "text": "Please introduce yourselves briefly when the moderator calls on you.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "moderator",
+      "voice": "zh",
+      "text": "当主持人点到你时，请简短自我介绍。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "quorum",
+      "voice": "en",
+      "text": "quorum",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "quorum",
+      "voice": "en",
+      "text": "Q, U, O, R, U, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "quorum",
+      "voice": "zh",
+      "text": "名词，法定人数，开会最低出席人数",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "quorum",
+      "voice": "en",
+      "text": "The vote was postponed because the board lacked a quorum.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "quorum",
+      "voice": "zh",
+      "text": "因董事会未达法定人数，表决被推迟。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reconvene",
+      "voice": "en",
+      "text": "reconvene",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reconvene",
+      "voice": "en",
+      "text": "R, E, C, O, N, V, E, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reconvene",
+      "voice": "zh",
+      "text": "动词，重新召开，再集会",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reconvene",
+      "voice": "en",
+      "text": "We will recess for fifteen minutes and reconvene at 2:30.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reconvene",
+      "voice": "zh",
+      "text": "我们将休会十五分钟，并在两点半复会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "spokesperson",
+      "voice": "en",
+      "text": "spokesperson",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "spokesperson",
+      "voice": "en",
+      "text": "S, P, O, K, E, S, P, E, R, S, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "spokesperson",
+      "voice": "zh",
+      "text": "名词，发言人，代言人",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "spokesperson",
+      "voice": "en",
+      "text": "A company spokesperson declined to comment on the merger talks.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "spokesperson",
+      "voice": "zh",
+      "text": "公司发言人拒绝对并购谈判置评。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "teleconference",
+      "voice": "en",
+      "text": "teleconference",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "teleconference",
+      "voice": "en",
+      "text": "T, E, L, E, C, O, N, F, E, R, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "teleconference",
+      "voice": "zh",
+      "text": "名词或动词，电话会议，远程会议",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "teleconference",
+      "voice": "en",
+      "text": "Regional managers will join the weekly teleconference from their branch offices.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "teleconference",
+      "voice": "zh",
+      "text": "区域经理将从各自分公司加入每周电话会议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "absenteeism",
+      "voice": "en",
+      "text": "absenteeism",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "absenteeism",
+      "voice": "en",
+      "text": "A, B, S, E, N, T, E, E, I, S, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "absenteeism",
+      "voice": "zh",
+      "text": "名词，旷工，缺勤率，经常性缺席",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "absenteeism",
+      "voice": "en",
+      "text": "The HR team launched a wellness program to reduce absenteeism across all departments.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "absenteeism",
+      "voice": "zh",
+      "text": "人力资源团队推出健康计划，以降低各部门的缺勤率。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "allotment",
+      "voice": "en",
+      "text": "allotment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "allotment",
+      "voice": "en",
+      "text": "A, L, L, O, T, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "allotment",
+      "voice": "zh",
+      "text": "名词，分配额，配额，拨出份额",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "allotment",
+      "voice": "en",
+      "text": "Each department received a travel allotment for the annual conference.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "allotment",
+      "voice": "zh",
+      "text": "每个部门都获得了参加年度会议的差旅配额。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "arrears",
+      "voice": "en",
+      "text": "arrears",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "arrears",
+      "voice": "en",
+      "text": "A, R, R, E, A, R, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "arrears",
+      "voice": "zh",
+      "text": "名词，欠款，拖欠款项，逾期未付款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "arrears",
+      "voice": "en",
+      "text": "The tenant paid three months of rent arrears before renewing the lease.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "arrears",
+      "voice": "zh",
+      "text": "租户在续租前结清了三个月的租金欠款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "furlough",
+      "voice": "en",
+      "text": "furlough",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "furlough",
+      "voice": "en",
+      "text": "F, U, R, L, O, U, G, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "furlough",
+      "voice": "zh",
+      "text": "名词或动词，强制休假，临时停薪留职，准假",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "furlough",
+      "voice": "en",
+      "text": "Due to the seasonal downturn, the factory placed 200 workers on unpaid furlough.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "furlough",
+      "voice": "zh",
+      "text": "因季节性业务下滑，工厂安排 200 名工人无薪强制休假。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "grievance",
+      "voice": "en",
+      "text": "grievance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "grievance",
+      "voice": "en",
+      "text": "G, R, I, E, V, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "grievance",
+      "voice": "zh",
+      "text": "名词，投诉，不满，劳资申诉",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "grievance",
+      "voice": "en",
+      "text": "Employees who feel unfairly treated may file a formal grievance with HR.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "grievance",
+      "voice": "zh",
+      "text": "觉得受到不公对待的员工可向人力资源部门提出正式申诉。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "handover",
+      "voice": "en",
+      "text": "handover",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "handover",
+      "voice": "en",
+      "text": "H, A, N, D, O, V, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "handover",
+      "voice": "zh",
+      "text": "名词，交接，移交，职责转交",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "handover",
+      "voice": "en",
+      "text": "The outgoing manager prepared detailed handover notes for her successor.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "handover",
+      "voice": "zh",
+      "text": "即将离任的经理为继任者准备了详细的交接备注。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "outplacement",
+      "voice": "en",
+      "text": "outplacement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "outplacement",
+      "voice": "en",
+      "text": "O, U, T, P, L, A, C, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "outplacement",
+      "voice": "zh",
+      "text": "名词，再就业安置服务，裁员辅导，转职协助",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "outplacement",
+      "voice": "en",
+      "text": "Laid-off staff were offered six months of outplacement services at no cost.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "outplacement",
+      "voice": "zh",
+      "text": "被裁员工可免费获得六个月的再就业安置服务。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "pipeline",
+      "voice": "en",
+      "text": "pipeline",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "pipeline",
+      "voice": "en",
+      "text": "P, I, P, E, L, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "pipeline",
+      "voice": "zh",
+      "text": "名词，管道，项目储备，待推进事项流",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "pipeline",
+      "voice": "en",
+      "text": "Several promising deals are still in the sales pipeline for next quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "pipeline",
+      "voice": "zh",
+      "text": "下个季度仍有几笔有前景的交易处于销售储备中。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "pushback",
+      "voice": "en",
+      "text": "pushback",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "pushback",
+      "voice": "en",
+      "text": "P, U, S, H, B, A, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "pushback",
+      "voice": "zh",
+      "text": "名词，阻力，反对意见，推回/抵制",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "pushback",
+      "voice": "en",
+      "text": "The pricing proposal faced strong pushback from regional sales managers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "pushback",
+      "voice": "zh",
+      "text": "该定价提案遭到区域销售经理的强烈反对。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "rebrand",
+      "voice": "en",
+      "text": "rebrand",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rebrand",
+      "voice": "en",
+      "text": "R, E, B, R, A, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rebrand",
+      "voice": "zh",
+      "text": "动词或名词，品牌重塑，更换品牌形象，再品牌化",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rebrand",
+      "voice": "en",
+      "text": "The company plans to rebrand its budget line as a premium lifestyle brand.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rebrand",
+      "voice": "zh",
+      "text": "该公司计划将平价产品线重塑为高端生活方式品牌。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第36轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

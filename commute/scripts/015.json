@@ -1,0 +1,1314 @@
+{
+  "id": "015",
+  "track": 15,
+  "title": "第 15 轨",
+  "word_count": 30,
+  "headwords": [
+    "yearly",
+    "access",
+    "accordance",
+    "accordingly",
+    "account",
+    "accurate",
+    "achieve",
+    "acquisition",
+    "adapt",
+    "adequate",
+    "allowance",
+    "alternative",
+    "analyze",
+    "annual",
+    "application",
+    "appreciate",
+    "approach",
+    "appropriate",
+    "approximately",
+    "assist",
+    "associate",
+    "association",
+    "assure",
+    "attach",
+    "attendance",
+    "attorney",
+    "auction",
+    "authority",
+    "available",
+    "average"
+  ],
+  "entries": [
+    {
+      "word": "yearly",
+      "spelling": "Y, E, A, R, L, Y",
+      "spoken_meaning": "形容词或副词，每年的，一年一度，按年地",
+      "en": "The board reviews the yearly budget every December.",
+      "zh": "董事会每年十二月审议年度预算。"
+    },
+    {
+      "word": "access",
+      "spelling": "A, C, C, E, S, S",
+      "spoken_meaning": "名词或动词，进入，使用权，访问",
+      "en": "Only authorized staff have access to the client database.",
+      "zh": "只有授权员工可以访问客户数据库。"
+    },
+    {
+      "word": "accordance",
+      "spelling": "A, C, C, O, R, D, A, N, C, E",
+      "spoken_meaning": "名词，一致，符合，依据",
+      "en": "All shipments must be packed in accordance with safety guidelines.",
+      "zh": "所有货物必须按照安全指南进行包装。"
+    },
+    {
+      "word": "accordingly",
+      "spelling": "A, C, C, O, R, D, I, N, G, L, Y",
+      "spoken_meaning": "副词，相应地，因此，于是",
+      "en": "Demand has risen, so we will increase production accordingly.",
+      "zh": "需求上升了，因此我们将相应增加产量。"
+    },
+    {
+      "word": "account",
+      "spelling": "A, C, C, O, U, N, T",
+      "spoken_meaning": "名词或动词，账户，说明，解释",
+      "en": "Please transfer the deposit to our corporate bank account.",
+      "zh": "请将定金转入我们的公司银行账户。"
+    },
+    {
+      "word": "accurate",
+      "spelling": "A, C, C, U, R, A, T, E",
+      "spoken_meaning": "形容词，准确的，精确的",
+      "en": "We need accurate information before signing the contract.",
+      "zh": "签署合同前我们需要准确的信息。"
+    },
+    {
+      "word": "achieve",
+      "spelling": "A, C, H, I, E, V, E",
+      "spoken_meaning": "动词，实现，达到，取得",
+      "en": "The sales team hopes to achieve its quarterly target early.",
+      "zh": "销售团队希望尽早完成季度目标。"
+    },
+    {
+      "word": "acquisition",
+      "spelling": "A, C, Q, U, I, S, I, T, I, O, N",
+      "spoken_meaning": "名词，收购，收购，获得",
+      "en": "The acquisition of the local chain expanded our market share.",
+      "zh": "收购这家本地连锁店扩大了我们的市场份额。"
+    },
+    {
+      "word": "adapt",
+      "spelling": "A, D, A, P, T",
+      "spoken_meaning": "动词，适应，改编，使适合",
+      "en": "Employees must adapt to the new scheduling software.",
+      "zh": "员工必须适应新的排班软件。"
+    },
+    {
+      "word": "adequate",
+      "spelling": "A, D, E, Q, U, A, T, E",
+      "spoken_meaning": "形容词，足够的，适当的，胜任的",
+      "en": "We lack adequate funding to open a second branch this year.",
+      "zh": "我们缺乏今年开设第二家分店的充足资金。"
+    },
+    {
+      "word": "allowance",
+      "spelling": "A, L, L, O, W, A, N, C, E",
+      "spoken_meaning": "名词，津贴，限额，允许",
+      "en": "Staff on business trips receive a fixed daily allowance.",
+      "zh": "出差员工可领取固定的日津贴。"
+    },
+    {
+      "word": "alternative",
+      "spelling": "A, L, T, E, R, N, A, T, I, V, E",
+      "spoken_meaning": "名词或形容词，替代方案，可供选择的",
+      "en": "If the flight is canceled, we will book an alternative route.",
+      "zh": "如果航班取消，我们将预订替代航线。"
+    },
+    {
+      "word": "analyze",
+      "spelling": "A, N, A, L, Y, Z, E",
+      "spoken_meaning": "动词，分析，解析",
+      "en": "The research team will analyze customer feedback this week.",
+      "zh": "研究团队本周将分析客户反馈。"
+    },
+    {
+      "word": "annual",
+      "spelling": "A, N, N, U, A, L",
+      "spoken_meaning": "形容词，每年的，年度的",
+      "en": "The annual meeting will be held at the downtown conference center.",
+      "zh": "年会将在市中心会议中心举行。"
+    },
+    {
+      "word": "application",
+      "spelling": "A, P, P, L, I, C, A, T, I, O, N",
+      "spoken_meaning": "名词，申请，申请表，应用",
+      "en": "Please complete the application form and return it by Friday.",
+      "zh": "请填写申请表并于周五前交回。"
+    },
+    {
+      "word": "appreciate",
+      "spelling": "A, P, P, R, E, C, I, A, T, E",
+      "spoken_meaning": "动词，感谢，欣赏，领会",
+      "en": "We greatly appreciate your prompt reply to our inquiry.",
+      "zh": "我们非常感谢您对我们询问的及时回复。"
+    },
+    {
+      "word": "approach",
+      "spelling": "A, P, P, R, O, A, C, H",
+      "spoken_meaning": "名词或动词，方法，途径，接近",
+      "en": "The manager suggested a more systematic approach to inventory control.",
+      "zh": "经理建议采用更系统的库存控制方法。"
+    },
+    {
+      "word": "appropriate",
+      "spelling": "A, P, P, R, O, P, R, I, A, T, E",
+      "spoken_meaning": "形容词或动词，适当的，合适的，拨出（款项）",
+      "en": "Please wear appropriate attire for the client presentation.",
+      "zh": "请为客户演示穿着得体的服装。"
+    },
+    {
+      "word": "approximately",
+      "spelling": "A, P, P, R, O, X, I, M, A, T, E, L, Y",
+      "spoken_meaning": "副词，大约，近似地",
+      "en": "The renovation will take approximately six weeks to complete.",
+      "zh": "翻修大约需要六周才能完成。"
+    },
+    {
+      "word": "assist",
+      "spelling": "A, S, S, I, S, T",
+      "spoken_meaning": "动词，协助，帮助",
+      "en": "Our support team is available around the clock to assist customers.",
+      "zh": "我们的支持团队全天候为客户提供协助。"
+    },
+    {
+      "word": "associate",
+      "spelling": "A, S, S, O, C, I, A, T, E",
+      "spoken_meaning": "动词或名词，联系，联想，同事",
+      "en": "Please do not associate this delay with our usual service quality.",
+      "zh": "请勿将此次延误与我们一贯的服务质量联系起来。"
+    },
+    {
+      "word": "association",
+      "spelling": "A, S, S, O, C, I, A, T, I, O, N",
+      "spoken_meaning": "名词，协会，关联，交往",
+      "en": "The trade association issued new guidelines for member firms.",
+      "zh": "该行业协会向会员企业发布了新指南。"
+    },
+    {
+      "word": "assure",
+      "spelling": "A, S, S, U, R, E",
+      "spoken_meaning": "动词，向……保证，使确信",
+      "en": "We assure you that the shipment will arrive by Friday.",
+      "zh": "我们向您保证货物将于周五前送达。"
+    },
+    {
+      "word": "attach",
+      "spelling": "A, T, T, A, C, H",
+      "spoken_meaning": "动词，附上，贴上，使附属",
+      "en": "Please attach the signed contract to your reply.",
+      "zh": "请在回复中附上已签署的合同。"
+    },
+    {
+      "word": "attendance",
+      "spelling": "A, T, T, E, N, D, A, N, C, E",
+      "spoken_meaning": "名词，出席，出勤，到场人数",
+      "en": "Your attendance at tomorrow’s briefing is required.",
+      "zh": "明日简报会要求您必须出席。"
+    },
+    {
+      "word": "attorney",
+      "spelling": "A, T, T, O, R, N, E, Y",
+      "spoken_meaning": "名词，律师，代理人",
+      "en": "Our corporate attorney reviewed the merger agreement.",
+      "zh": "公司法律顾问审阅了并购协议。"
+    },
+    {
+      "word": "auction",
+      "spelling": "A, U, C, T, I, O, N",
+      "spoken_meaning": "名词或动词，拍卖，以拍卖方式出售",
+      "en": "Surplus equipment will be sold at an online auction next month.",
+      "zh": "多余设备将于下月在网上拍卖出售。"
+    },
+    {
+      "word": "authority",
+      "spelling": "A, U, T, H, O, R, I, T, Y",
+      "spoken_meaning": "名词，权威，权力，当局",
+      "en": "Only the CFO has authority to approve expenses over $10,000.",
+      "zh": "只有首席财务官有权批准超过一万美元的开支。"
+    },
+    {
+      "word": "available",
+      "spelling": "A, V, A, I, L, A, B, L, E",
+      "spoken_meaning": "形容词，可获得的，有空的，可用的",
+      "en": "The conference room is available for booking after 3 p.m.",
+      "zh": "该会议室下午三点后可供预订。"
+    },
+    {
+      "word": "average",
+      "spelling": "A, V, E, R, A, G, E",
+      "spoken_meaning": "名词或形容词或动词，平均，平均数，普通的",
+      "en": "On average, response time fell by twenty percent this quarter.",
+      "zh": "本季度平均响应时间下降了百分之二十。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第15轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "yearly",
+      "voice": "en",
+      "text": "yearly",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "yearly",
+      "voice": "en",
+      "text": "Y, E, A, R, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "yearly",
+      "voice": "zh",
+      "text": "形容词或副词，每年的，一年一度，按年地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "yearly",
+      "voice": "en",
+      "text": "The board reviews the yearly budget every December.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "yearly",
+      "voice": "zh",
+      "text": "董事会每年十二月审议年度预算。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "access",
+      "voice": "en",
+      "text": "access",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "access",
+      "voice": "en",
+      "text": "A, C, C, E, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "access",
+      "voice": "zh",
+      "text": "名词或动词，进入，使用权，访问",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "access",
+      "voice": "en",
+      "text": "Only authorized staff have access to the client database.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "access",
+      "voice": "zh",
+      "text": "只有授权员工可以访问客户数据库。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "accordance",
+      "voice": "en",
+      "text": "accordance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "accordance",
+      "voice": "en",
+      "text": "A, C, C, O, R, D, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "accordance",
+      "voice": "zh",
+      "text": "名词，一致，符合，依据",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "accordance",
+      "voice": "en",
+      "text": "All shipments must be packed in accordance with safety guidelines.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "accordance",
+      "voice": "zh",
+      "text": "所有货物必须按照安全指南进行包装。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "accordingly",
+      "voice": "en",
+      "text": "accordingly",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "accordingly",
+      "voice": "en",
+      "text": "A, C, C, O, R, D, I, N, G, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "accordingly",
+      "voice": "zh",
+      "text": "副词，相应地，因此，于是",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "accordingly",
+      "voice": "en",
+      "text": "Demand has risen, so we will increase production accordingly.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "accordingly",
+      "voice": "zh",
+      "text": "需求上升了，因此我们将相应增加产量。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "account",
+      "voice": "en",
+      "text": "account",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "account",
+      "voice": "en",
+      "text": "A, C, C, O, U, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "account",
+      "voice": "zh",
+      "text": "名词或动词，账户，说明，解释",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "account",
+      "voice": "en",
+      "text": "Please transfer the deposit to our corporate bank account.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "account",
+      "voice": "zh",
+      "text": "请将定金转入我们的公司银行账户。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "accurate",
+      "voice": "en",
+      "text": "accurate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "accurate",
+      "voice": "en",
+      "text": "A, C, C, U, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "accurate",
+      "voice": "zh",
+      "text": "形容词，准确的，精确的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "accurate",
+      "voice": "en",
+      "text": "We need accurate information before signing the contract.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "accurate",
+      "voice": "zh",
+      "text": "签署合同前我们需要准确的信息。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "achieve",
+      "voice": "en",
+      "text": "achieve",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "achieve",
+      "voice": "en",
+      "text": "A, C, H, I, E, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "achieve",
+      "voice": "zh",
+      "text": "动词，实现，达到，取得",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "achieve",
+      "voice": "en",
+      "text": "The sales team hopes to achieve its quarterly target early.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "achieve",
+      "voice": "zh",
+      "text": "销售团队希望尽早完成季度目标。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "acquisition",
+      "voice": "en",
+      "text": "acquisition",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "acquisition",
+      "voice": "en",
+      "text": "A, C, Q, U, I, S, I, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "acquisition",
+      "voice": "zh",
+      "text": "名词，收购，收购，获得",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "acquisition",
+      "voice": "en",
+      "text": "The acquisition of the local chain expanded our market share.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "acquisition",
+      "voice": "zh",
+      "text": "收购这家本地连锁店扩大了我们的市场份额。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "adapt",
+      "voice": "en",
+      "text": "adapt",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "adapt",
+      "voice": "en",
+      "text": "A, D, A, P, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "adapt",
+      "voice": "zh",
+      "text": "动词，适应，改编，使适合",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "adapt",
+      "voice": "en",
+      "text": "Employees must adapt to the new scheduling software.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "adapt",
+      "voice": "zh",
+      "text": "员工必须适应新的排班软件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "adequate",
+      "voice": "en",
+      "text": "adequate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "adequate",
+      "voice": "en",
+      "text": "A, D, E, Q, U, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "adequate",
+      "voice": "zh",
+      "text": "形容词，足够的，适当的，胜任的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "adequate",
+      "voice": "en",
+      "text": "We lack adequate funding to open a second branch this year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "adequate",
+      "voice": "zh",
+      "text": "我们缺乏今年开设第二家分店的充足资金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "allowance",
+      "voice": "en",
+      "text": "allowance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "allowance",
+      "voice": "en",
+      "text": "A, L, L, O, W, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "allowance",
+      "voice": "zh",
+      "text": "名词，津贴，限额，允许",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "allowance",
+      "voice": "en",
+      "text": "Staff on business trips receive a fixed daily allowance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "allowance",
+      "voice": "zh",
+      "text": "出差员工可领取固定的日津贴。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "alternative",
+      "voice": "en",
+      "text": "alternative",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "alternative",
+      "voice": "en",
+      "text": "A, L, T, E, R, N, A, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "alternative",
+      "voice": "zh",
+      "text": "名词或形容词，替代方案，可供选择的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "alternative",
+      "voice": "en",
+      "text": "If the flight is canceled, we will book an alternative route.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "alternative",
+      "voice": "zh",
+      "text": "如果航班取消，我们将预订替代航线。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "analyze",
+      "voice": "en",
+      "text": "analyze",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "analyze",
+      "voice": "en",
+      "text": "A, N, A, L, Y, Z, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "analyze",
+      "voice": "zh",
+      "text": "动词，分析，解析",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "analyze",
+      "voice": "en",
+      "text": "The research team will analyze customer feedback this week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "analyze",
+      "voice": "zh",
+      "text": "研究团队本周将分析客户反馈。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "annual",
+      "voice": "en",
+      "text": "annual",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "annual",
+      "voice": "en",
+      "text": "A, N, N, U, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "annual",
+      "voice": "zh",
+      "text": "形容词，每年的，年度的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "annual",
+      "voice": "en",
+      "text": "The annual meeting will be held at the downtown conference center.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "annual",
+      "voice": "zh",
+      "text": "年会将在市中心会议中心举行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "application",
+      "voice": "en",
+      "text": "application",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "application",
+      "voice": "en",
+      "text": "A, P, P, L, I, C, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "application",
+      "voice": "zh",
+      "text": "名词，申请，申请表，应用",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "application",
+      "voice": "en",
+      "text": "Please complete the application form and return it by Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "application",
+      "voice": "zh",
+      "text": "请填写申请表并于周五前交回。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "appreciate",
+      "voice": "en",
+      "text": "appreciate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "appreciate",
+      "voice": "en",
+      "text": "A, P, P, R, E, C, I, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "appreciate",
+      "voice": "zh",
+      "text": "动词，感谢，欣赏，领会",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "appreciate",
+      "voice": "en",
+      "text": "We greatly appreciate your prompt reply to our inquiry.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "appreciate",
+      "voice": "zh",
+      "text": "我们非常感谢您对我们询问的及时回复。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "approach",
+      "voice": "en",
+      "text": "approach",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "approach",
+      "voice": "en",
+      "text": "A, P, P, R, O, A, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "approach",
+      "voice": "zh",
+      "text": "名词或动词，方法，途径，接近",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "approach",
+      "voice": "en",
+      "text": "The manager suggested a more systematic approach to inventory control.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "approach",
+      "voice": "zh",
+      "text": "经理建议采用更系统的库存控制方法。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "appropriate",
+      "voice": "en",
+      "text": "appropriate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "appropriate",
+      "voice": "en",
+      "text": "A, P, P, R, O, P, R, I, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "appropriate",
+      "voice": "zh",
+      "text": "形容词或动词，适当的，合适的，拨出（款项）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "appropriate",
+      "voice": "en",
+      "text": "Please wear appropriate attire for the client presentation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "appropriate",
+      "voice": "zh",
+      "text": "请为客户演示穿着得体的服装。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "approximately",
+      "voice": "en",
+      "text": "approximately",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "approximately",
+      "voice": "en",
+      "text": "A, P, P, R, O, X, I, M, A, T, E, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "approximately",
+      "voice": "zh",
+      "text": "副词，大约，近似地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "approximately",
+      "voice": "en",
+      "text": "The renovation will take approximately six weeks to complete.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "approximately",
+      "voice": "zh",
+      "text": "翻修大约需要六周才能完成。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "assist",
+      "voice": "en",
+      "text": "assist",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "assist",
+      "voice": "en",
+      "text": "A, S, S, I, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "assist",
+      "voice": "zh",
+      "text": "动词，协助，帮助",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "assist",
+      "voice": "en",
+      "text": "Our support team is available around the clock to assist customers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "assist",
+      "voice": "zh",
+      "text": "我们的支持团队全天候为客户提供协助。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "associate",
+      "voice": "en",
+      "text": "associate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "associate",
+      "voice": "en",
+      "text": "A, S, S, O, C, I, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "associate",
+      "voice": "zh",
+      "text": "动词或名词，联系，联想，同事",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "associate",
+      "voice": "en",
+      "text": "Please do not associate this delay with our usual service quality.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "associate",
+      "voice": "zh",
+      "text": "请勿将此次延误与我们一贯的服务质量联系起来。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "association",
+      "voice": "en",
+      "text": "association",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "association",
+      "voice": "en",
+      "text": "A, S, S, O, C, I, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "association",
+      "voice": "zh",
+      "text": "名词，协会，关联，交往",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "association",
+      "voice": "en",
+      "text": "The trade association issued new guidelines for member firms.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "association",
+      "voice": "zh",
+      "text": "该行业协会向会员企业发布了新指南。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "assure",
+      "voice": "en",
+      "text": "assure",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "assure",
+      "voice": "en",
+      "text": "A, S, S, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "assure",
+      "voice": "zh",
+      "text": "动词，向……保证，使确信",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "assure",
+      "voice": "en",
+      "text": "We assure you that the shipment will arrive by Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "assure",
+      "voice": "zh",
+      "text": "我们向您保证货物将于周五前送达。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "attach",
+      "voice": "en",
+      "text": "attach",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "attach",
+      "voice": "en",
+      "text": "A, T, T, A, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "attach",
+      "voice": "zh",
+      "text": "动词，附上，贴上，使附属",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "attach",
+      "voice": "en",
+      "text": "Please attach the signed contract to your reply.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "attach",
+      "voice": "zh",
+      "text": "请在回复中附上已签署的合同。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "attendance",
+      "voice": "en",
+      "text": "attendance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "attendance",
+      "voice": "en",
+      "text": "A, T, T, E, N, D, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "attendance",
+      "voice": "zh",
+      "text": "名词，出席，出勤，到场人数",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "attendance",
+      "voice": "en",
+      "text": "Your attendance at tomorrow’s briefing is required.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "attendance",
+      "voice": "zh",
+      "text": "明日简报会要求您必须出席。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "attorney",
+      "voice": "en",
+      "text": "attorney",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "attorney",
+      "voice": "en",
+      "text": "A, T, T, O, R, N, E, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "attorney",
+      "voice": "zh",
+      "text": "名词，律师，代理人",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "attorney",
+      "voice": "en",
+      "text": "Our corporate attorney reviewed the merger agreement.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "attorney",
+      "voice": "zh",
+      "text": "公司法律顾问审阅了并购协议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "auction",
+      "voice": "en",
+      "text": "auction",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "auction",
+      "voice": "en",
+      "text": "A, U, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "auction",
+      "voice": "zh",
+      "text": "名词或动词，拍卖，以拍卖方式出售",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "auction",
+      "voice": "en",
+      "text": "Surplus equipment will be sold at an online auction next month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "auction",
+      "voice": "zh",
+      "text": "多余设备将于下月在网上拍卖出售。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "authority",
+      "voice": "en",
+      "text": "authority",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "authority",
+      "voice": "en",
+      "text": "A, U, T, H, O, R, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "authority",
+      "voice": "zh",
+      "text": "名词，权威，权力，当局",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "authority",
+      "voice": "en",
+      "text": "Only the CFO has authority to approve expenses over $10,000.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "authority",
+      "voice": "zh",
+      "text": "只有首席财务官有权批准超过一万美元的开支。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "available",
+      "voice": "en",
+      "text": "available",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "available",
+      "voice": "en",
+      "text": "A, V, A, I, L, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "available",
+      "voice": "zh",
+      "text": "形容词，可获得的，有空的，可用的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "available",
+      "voice": "en",
+      "text": "The conference room is available for booking after 3 p.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "available",
+      "voice": "zh",
+      "text": "该会议室下午三点后可供预订。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "average",
+      "voice": "en",
+      "text": "average",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "average",
+      "voice": "en",
+      "text": "A, V, E, R, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "average",
+      "voice": "zh",
+      "text": "名词或形容词或动词，平均，平均数，普通的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "average",
+      "voice": "en",
+      "text": "On average, response time fell by twenty percent this quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "average",
+      "voice": "zh",
+      "text": "本季度平均响应时间下降了百分之二十。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第15轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

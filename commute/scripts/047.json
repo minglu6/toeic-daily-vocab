@@ -1,0 +1,1314 @@
+{
+  "id": "047",
+  "track": 47,
+  "title": "第 47 轨",
+  "word_count": 30,
+  "headwords": [
+    "span-of-control",
+    "dotted-line",
+    "lateral-move",
+    "high-potential",
+    "impairment",
+    "contingent-liability",
+    "cash-conversion-cycle",
+    "runway",
+    "share-repurchase",
+    "capital-call",
+    "travel-advance",
+    "corporate-card",
+    "hotel-folio",
+    "open-jaw",
+    "churn-rate",
+    "attribution",
+    "pipeline-coverage",
+    "win-rate",
+    "limitation-of-liability",
+    "change-of-control",
+    "net-promoter-score",
+    "health-score",
+    "customer-journey",
+    "playbook",
+    "runbook",
+    "hot-desk",
+    "space-utilization",
+    "visitor-pass",
+    "access-control",
+    "wayfinding"
+  ],
+  "entries": [
+    {
+      "word": "span-of-control",
+      "spelling": "S, P, A, N, hyphen, O, F, hyphen, C, O, N, T, R, O, L",
+      "spoken_meaning": "名词，管理幅度，直接下属人数，管控跨度",
+      "en": "After the reorg, each director’s span-of-control rose from six to nine reports.",
+      "zh": "重组后，每位总监的管理幅度从六名直接下属增至九名。"
+    },
+    {
+      "word": "dotted-line",
+      "spelling": "D, O, T, T, E, D, hyphen, L, I, N, E",
+      "spoken_meaning": "名词或形容词，虚线汇报，非正式/矩阵汇报关系，虚线上级",
+      "en": "She has a solid-line manager in Marketing and a dotted-line to the regional CFO.",
+      "zh": "她在市场部有实线经理，同时向区域首席财务官虚线汇报。"
+    },
+    {
+      "word": "lateral-move",
+      "spelling": "L, A, T, E, R, A, L, hyphen, M, O, V, E",
+      "spoken_meaning": "名词，平级调动，横向转岗，同级岗位转换",
+      "en": "He made a lateral-move from sales operations into product marketing.",
+      "zh": "他从销售运营平级调到了产品市场部。"
+    },
+    {
+      "word": "high-potential",
+      "spelling": "H, I, G, H, hyphen, P, O, T, E, N, T, I, A, L",
+      "spoken_meaning": "名词或形容词，高潜人才，高潜力员工，被认定为有快速晋升潜力者",
+      "en": "High-potential employees receive stretch assignments and executive mentoring.",
+      "zh": "高潜员工会获得挑战性任务与高管辅导。"
+    },
+    {
+      "word": "impairment",
+      "spelling": "I, M, P, A, I, R, M, E, N, T",
+      "spoken_meaning": "名词，资产减值，价值减损，减值损失",
+      "en": "The company recorded a $40 million impairment on underperforming store assets.",
+      "zh": "公司对表现不佳的门店资产计提了四千万美元减值。"
+    },
+    {
+      "word": "contingent-liability",
+      "spelling": "C, O, N, T, I, N, G, E, N, T, hyphen, L, I, A, B, I, L, I, T, Y",
+      "spoken_meaning": "名词，或有负债，视未来事件而定的潜在债务",
+      "en": "Auditors asked management to disclose the lawsuit as a contingent-liability.",
+      "zh": "审计师要求管理层将该诉讼作为或有负债予以披露。"
+    },
+    {
+      "word": "cash-conversion-cycle",
+      "spelling": "C, A, S, H, hyphen, C, O, N, V, E, R, S, I, O, N, hyphen, C, Y, C, L, E",
+      "spoken_meaning": "名词，现金转换周期，营运资金周转天数",
+      "en": "Tighter inventory controls shortened the cash-conversion-cycle by twelve days.",
+      "zh": "更严的库存管控使现金转换周期缩短了十二天。"
+    },
+    {
+      "word": "runway",
+      "spelling": "R, U, N, W, A, Y",
+      "spoken_meaning": "名词，现金跑道，剩余可撑月数，烧钱时长",
+      "en": "With the new funding, the startup now has eighteen months of runway.",
+      "zh": "获得新融资后，该初创公司现有十八个月的现金跑道。"
+    },
+    {
+      "word": "share-repurchase",
+      "spelling": "S, H, A, R, E, hyphen, R, E, P, U, R, C, H, A, S, E",
+      "spoken_meaning": "名词，股票回购，股份回购计划，公司买回自身股票",
+      "en": "The board authorized a $500 million share-repurchase over the next year.",
+      "zh": "董事会授权在未来一年内进行五亿美元的股票回购。"
+    },
+    {
+      "word": "capital-call",
+      "spelling": "C, A, P, I, T, A, L, hyphen, C, A, L, L",
+      "spoken_meaning": "名词，缴款通知，资本催缴，要求有限合伙人注资",
+      "en": "Investors have ten business days to fund the capital-call for the new acquisition.",
+      "zh": "投资者须在十个工作日内为本次收购注资以满足缴款通知。"
+    },
+    {
+      "word": "travel-advance",
+      "spelling": "T, R, A, V, E, L, hyphen, A, D, V, A, N, C, E",
+      "spoken_meaning": "名词，差旅预借款，出差备用金，行程前预支款",
+      "en": "Finance approved a $1,200 travel-advance for the three-city client tour.",
+      "zh": "财务批准了 1200 美元差旅预借款，用于三城客户拜访。"
+    },
+    {
+      "word": "corporate-card",
+      "spelling": "C, O, R, P, O, R, A, T, E, hyphen, C, A, R, D",
+      "spoken_meaning": "名词，公司信用卡，商务卡，企业公务卡",
+      "en": "Hotel stays and airfare must be booked on the corporate-card whenever possible.",
+      "zh": "酒店与机票应尽可能使用公司信用卡预订。"
+    },
+    {
+      "word": "hotel-folio",
+      "spelling": "H, O, T, E, L, hyphen, F, O, L, I, O",
+      "spoken_meaning": "名词，酒店账单，住店明细账，退房费用清单",
+      "en": "Expense claims for lodging require the itemized hotel-folio, not just a credit-card slip.",
+      "zh": "住宿报销需提供明细酒店账单，不能仅凭信用卡签单。"
+    },
+    {
+      "word": "open-jaw",
+      "spelling": "O, P, E, N, hyphen, J, A, W",
+      "spoken_meaning": "名词或形容词，缺口程，开口行程，去程与回程城市不同的机票",
+      "en": "We booked an open-jaw: fly into Chicago and return from Dallas after the site visits.",
+      "zh": "我们订了缺口程：飞入芝加哥，完成实地拜访后从达拉斯返回。"
+    },
+    {
+      "word": "churn-rate",
+      "spelling": "C, H, U, R, N, hyphen, R, A, T, E",
+      "spoken_meaning": "名词，流失率，客户流失比率，用户注销/不续约比例",
+      "en": "Customer success cut the monthly churn-rate from 4% to 2.5% after onboarding improvements.",
+      "zh": "改进入门体验后，客户成功团队将月流失率从 4% 降至 2.5%。"
+    },
+    {
+      "word": "attribution",
+      "spelling": "A, T, T, R, I, B, U, T, I, O, N",
+      "spoken_meaning": "名词，归因，效果归因，将转化归功于哪些触点",
+      "en": "Last-click attribution undervalued the webinar that started most enterprise deals.",
+      "zh": "末次点击归因低估了开启多数企业成交的网络研讨会。"
+    },
+    {
+      "word": "pipeline-coverage",
+      "spelling": "P, I, P, E, L, I, N, E, hyphen, C, O, V, E, R, A, G, E",
+      "spoken_meaning": "名词，销售漏斗覆盖倍数，管道覆盖率，商机总额相对配额的倍数",
+      "en": "With only 1.5× pipeline-coverage, the team is unlikely to hit the quarterly quota.",
+      "zh": "管道覆盖仅 1.5 倍，团队不太可能完成季度配额。"
+    },
+    {
+      "word": "win-rate",
+      "spelling": "W, I, N, hyphen, R, A, T, E",
+      "spoken_meaning": "名词，赢单率，成交胜率，赢取商机的比例",
+      "en": "Better discovery calls lifted the enterprise win-rate from 18% to 27%.",
+      "zh": "更好的需求探询将企业客户赢单率从 18% 提升到 27%。"
+    },
+    {
+      "word": "limitation-of-liability",
+      "spelling": "L, I, M, I, T, A, T, I, O, N, hyphen, O, F, hyphen, L, I, A, B, I, L, I, T, Y",
+      "spoken_meaning": "名词，责任限制条款，赔偿责任上限约定",
+      "en": "Counsel insisted on a limitation-of-liability equal to twelve months of fees.",
+      "zh": "法务坚持将责任限制设为十二个月费用金额。"
+    },
+    {
+      "word": "change-of-control",
+      "spelling": "C, H, A, N, G, E, hyphen, O, F, hyphen, C, O, N, T, R, O, L",
+      "spoken_meaning": "名词，控制权变更，控股权易手，公司控制权转移",
+      "en": "The credit agreement accelerates repayment upon a change-of-control.",
+      "zh": "信贷协议规定在发生控制权变更时可加速要求还款。"
+    },
+    {
+      "word": "net-promoter-score",
+      "spelling": "N, E, T, hyphen, P, R, O, M, O, T, E, R, hyphen, S, C, O, R, E",
+      "spoken_meaning": "名词，净推荐值，NPS客户忠诚度指标，净推荐得分",
+      "en": "Customer Success reviews the net-promoter-score every quarter before renewals.",
+      "zh": "客户成功团队在续约前每个季度都会审阅净推荐值。"
+    },
+    {
+      "word": "health-score",
+      "spelling": "H, E, A, L, T, H, hyphen, S, C, O, R, E",
+      "spoken_meaning": "名词，客户健康分，账户健康评分，客户状态综合分",
+      "en": "A sudden drop in health-score triggered an outreach call to the account.",
+      "zh": "健康分突然下降，触发了对该账户的外联电话。"
+    },
+    {
+      "word": "customer-journey",
+      "spelling": "C, U, S, T, O, M, E, R, hyphen, J, O, U, R, N, E, Y",
+      "spoken_meaning": "名词，客户旅程，客户体验路径，从认知到续约的全流程",
+      "en": "We mapped the customer-journey and found most churn happened after onboarding.",
+      "zh": "我们梳理了客户旅程，发现多数流失发生在入职引导之后。"
+    },
+    {
+      "word": "playbook",
+      "spelling": "P, L, A, Y, B, O, O, K",
+      "spoken_meaning": "名词，作战手册，标准作业剧本，可复用的执行指南",
+      "en": "The renewal playbook tells reps when to escalate pricing exceptions.",
+      "zh": "续约作战手册规定销售何时将价格例外向上升级。"
+    },
+    {
+      "word": "runbook",
+      "spelling": "R, U, N, B, O, O, K",
+      "spoken_meaning": "名词，运维手册，故障处置剧本，标准化操作步骤书",
+      "en": "On-call engineers restored service in twelve minutes using the outage runbook.",
+      "zh": "值班工程师按宕机运维手册在十二分钟内恢复了服务。"
+    },
+    {
+      "word": "hot-desk",
+      "spelling": "H, O, T, hyphen, D, E, S, K",
+      "spoken_meaning": "名词或动词，共享工位，轮用办公桌，不固定工位办公",
+      "en": "Hybrid staff must book a hot-desk by 9 a.m. if they come on Tuesdays.",
+      "zh": "混合办公员工若周二到岗，须在上午九点前预订共享工位。"
+    },
+    {
+      "word": "space-utilization",
+      "spelling": "S, P, A, C, E, hyphen, U, T, I, L, I, Z, A, T, I, O, N",
+      "spoken_meaning": "名词，空间利用率，办公面积使用效率，场地占用率",
+      "en": "Facilities cut one floor after space-utilization fell below forty percent.",
+      "zh": "空间利用率降至百分之四十以下后，行政设施缩减了一整层。"
+    },
+    {
+      "word": "visitor-pass",
+      "spelling": "V, I, S, I, T, O, R, hyphen, P, A, S, S",
+      "spoken_meaning": "名词，访客通行证，来宾出入证，访客胸牌",
+      "en": "Reception issues a visitor-pass only after the host confirms the appointment.",
+      "zh": "前台仅在接待人确认预约后才发放访客通行证。"
+    },
+    {
+      "word": "access-control",
+      "spelling": "A, C, C, E, S, S, hyphen, C, O, N, T, R, O, L",
+      "spoken_meaning": "名词，门禁控制，访问控制，出入权限管理",
+      "en": "After the audit, IT tightened access-control on the finance shared drive.",
+      "zh": "审计之后，IT 收紧了财务共享盘的访问控制。"
+    },
+    {
+      "word": "wayfinding",
+      "spelling": "W, A, Y, F, I, N, D, I, N, G",
+      "spoken_meaning": "名词，导视系统，寻路指引，楼内导向标识",
+      "en": "New wayfinding signs cut the time guests need to reach Conference Hall B.",
+      "zh": "新的导视标识缩短了访客到达 B 会议厅所需的时间。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第47轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "span-of-control",
+      "voice": "en",
+      "text": "span of control",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "span-of-control",
+      "voice": "en",
+      "text": "S, P, A, N, hyphen, O, F, hyphen, C, O, N, T, R, O, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "span-of-control",
+      "voice": "zh",
+      "text": "名词，管理幅度，直接下属人数，管控跨度",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "span-of-control",
+      "voice": "en",
+      "text": "After the reorg, each director’s span-of-control rose from six to nine reports.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "span-of-control",
+      "voice": "zh",
+      "text": "重组后，每位总监的管理幅度从六名直接下属增至九名。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "dotted-line",
+      "voice": "en",
+      "text": "dotted line",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "dotted-line",
+      "voice": "en",
+      "text": "D, O, T, T, E, D, hyphen, L, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "dotted-line",
+      "voice": "zh",
+      "text": "名词或形容词，虚线汇报，非正式/矩阵汇报关系，虚线上级",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "dotted-line",
+      "voice": "en",
+      "text": "She has a solid-line manager in Marketing and a dotted-line to the regional CFO.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "dotted-line",
+      "voice": "zh",
+      "text": "她在市场部有实线经理，同时向区域首席财务官虚线汇报。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lateral-move",
+      "voice": "en",
+      "text": "lateral move",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lateral-move",
+      "voice": "en",
+      "text": "L, A, T, E, R, A, L, hyphen, M, O, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lateral-move",
+      "voice": "zh",
+      "text": "名词，平级调动，横向转岗，同级岗位转换",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lateral-move",
+      "voice": "en",
+      "text": "He made a lateral-move from sales operations into product marketing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lateral-move",
+      "voice": "zh",
+      "text": "他从销售运营平级调到了产品市场部。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "high-potential",
+      "voice": "en",
+      "text": "high potential",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "high-potential",
+      "voice": "en",
+      "text": "H, I, G, H, hyphen, P, O, T, E, N, T, I, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "high-potential",
+      "voice": "zh",
+      "text": "名词或形容词，高潜人才，高潜力员工，被认定为有快速晋升潜力者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "high-potential",
+      "voice": "en",
+      "text": "High-potential employees receive stretch assignments and executive mentoring.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "high-potential",
+      "voice": "zh",
+      "text": "高潜员工会获得挑战性任务与高管辅导。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "impairment",
+      "voice": "en",
+      "text": "impairment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "impairment",
+      "voice": "en",
+      "text": "I, M, P, A, I, R, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "impairment",
+      "voice": "zh",
+      "text": "名词，资产减值，价值减损，减值损失",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "impairment",
+      "voice": "en",
+      "text": "The company recorded a $40 million impairment on underperforming store assets.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "impairment",
+      "voice": "zh",
+      "text": "公司对表现不佳的门店资产计提了四千万美元减值。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "contingent-liability",
+      "voice": "en",
+      "text": "contingent liability",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "contingent-liability",
+      "voice": "en",
+      "text": "C, O, N, T, I, N, G, E, N, T, hyphen, L, I, A, B, I, L, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "contingent-liability",
+      "voice": "zh",
+      "text": "名词，或有负债，视未来事件而定的潜在债务",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "contingent-liability",
+      "voice": "en",
+      "text": "Auditors asked management to disclose the lawsuit as a contingent-liability.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "contingent-liability",
+      "voice": "zh",
+      "text": "审计师要求管理层将该诉讼作为或有负债予以披露。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cash-conversion-cycle",
+      "voice": "en",
+      "text": "cash conversion cycle",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cash-conversion-cycle",
+      "voice": "en",
+      "text": "C, A, S, H, hyphen, C, O, N, V, E, R, S, I, O, N, hyphen, C, Y, C, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cash-conversion-cycle",
+      "voice": "zh",
+      "text": "名词，现金转换周期，营运资金周转天数",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cash-conversion-cycle",
+      "voice": "en",
+      "text": "Tighter inventory controls shortened the cash-conversion-cycle by twelve days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cash-conversion-cycle",
+      "voice": "zh",
+      "text": "更严的库存管控使现金转换周期缩短了十二天。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "runway",
+      "voice": "en",
+      "text": "runway",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "runway",
+      "voice": "en",
+      "text": "R, U, N, W, A, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "runway",
+      "voice": "zh",
+      "text": "名词，现金跑道，剩余可撑月数，烧钱时长",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "runway",
+      "voice": "en",
+      "text": "With the new funding, the startup now has eighteen months of runway.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "runway",
+      "voice": "zh",
+      "text": "获得新融资后，该初创公司现有十八个月的现金跑道。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "share-repurchase",
+      "voice": "en",
+      "text": "share repurchase",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "share-repurchase",
+      "voice": "en",
+      "text": "S, H, A, R, E, hyphen, R, E, P, U, R, C, H, A, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "share-repurchase",
+      "voice": "zh",
+      "text": "名词，股票回购，股份回购计划，公司买回自身股票",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "share-repurchase",
+      "voice": "en",
+      "text": "The board authorized a $500 million share-repurchase over the next year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "share-repurchase",
+      "voice": "zh",
+      "text": "董事会授权在未来一年内进行五亿美元的股票回购。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "capital-call",
+      "voice": "en",
+      "text": "capital call",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "capital-call",
+      "voice": "en",
+      "text": "C, A, P, I, T, A, L, hyphen, C, A, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "capital-call",
+      "voice": "zh",
+      "text": "名词，缴款通知，资本催缴，要求有限合伙人注资",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "capital-call",
+      "voice": "en",
+      "text": "Investors have ten business days to fund the capital-call for the new acquisition.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "capital-call",
+      "voice": "zh",
+      "text": "投资者须在十个工作日内为本次收购注资以满足缴款通知。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "travel-advance",
+      "voice": "en",
+      "text": "travel advance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "travel-advance",
+      "voice": "en",
+      "text": "T, R, A, V, E, L, hyphen, A, D, V, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "travel-advance",
+      "voice": "zh",
+      "text": "名词，差旅预借款，出差备用金，行程前预支款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "travel-advance",
+      "voice": "en",
+      "text": "Finance approved a $1,200 travel-advance for the three-city client tour.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "travel-advance",
+      "voice": "zh",
+      "text": "财务批准了 1200 美元差旅预借款，用于三城客户拜访。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "corporate-card",
+      "voice": "en",
+      "text": "corporate card",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "corporate-card",
+      "voice": "en",
+      "text": "C, O, R, P, O, R, A, T, E, hyphen, C, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "corporate-card",
+      "voice": "zh",
+      "text": "名词，公司信用卡，商务卡，企业公务卡",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "corporate-card",
+      "voice": "en",
+      "text": "Hotel stays and airfare must be booked on the corporate-card whenever possible.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "corporate-card",
+      "voice": "zh",
+      "text": "酒店与机票应尽可能使用公司信用卡预订。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hotel-folio",
+      "voice": "en",
+      "text": "hotel folio",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hotel-folio",
+      "voice": "en",
+      "text": "H, O, T, E, L, hyphen, F, O, L, I, O",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hotel-folio",
+      "voice": "zh",
+      "text": "名词，酒店账单，住店明细账，退房费用清单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hotel-folio",
+      "voice": "en",
+      "text": "Expense claims for lodging require the itemized hotel-folio, not just a credit-card slip.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hotel-folio",
+      "voice": "zh",
+      "text": "住宿报销需提供明细酒店账单，不能仅凭信用卡签单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "open-jaw",
+      "voice": "en",
+      "text": "open jaw",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "open-jaw",
+      "voice": "en",
+      "text": "O, P, E, N, hyphen, J, A, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "open-jaw",
+      "voice": "zh",
+      "text": "名词或形容词，缺口程，开口行程，去程与回程城市不同的机票",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "open-jaw",
+      "voice": "en",
+      "text": "We booked an open-jaw: fly into Chicago and return from Dallas after the site visits.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "open-jaw",
+      "voice": "zh",
+      "text": "我们订了缺口程：飞入芝加哥，完成实地拜访后从达拉斯返回。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "churn-rate",
+      "voice": "en",
+      "text": "churn rate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "churn-rate",
+      "voice": "en",
+      "text": "C, H, U, R, N, hyphen, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "churn-rate",
+      "voice": "zh",
+      "text": "名词，流失率，客户流失比率，用户注销/不续约比例",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "churn-rate",
+      "voice": "en",
+      "text": "Customer success cut the monthly churn-rate from 4% to 2.5% after onboarding improvements.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "churn-rate",
+      "voice": "zh",
+      "text": "改进入门体验后，客户成功团队将月流失率从 4% 降至 2.5%。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "attribution",
+      "voice": "en",
+      "text": "attribution",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "attribution",
+      "voice": "en",
+      "text": "A, T, T, R, I, B, U, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "attribution",
+      "voice": "zh",
+      "text": "名词，归因，效果归因，将转化归功于哪些触点",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "attribution",
+      "voice": "en",
+      "text": "Last-click attribution undervalued the webinar that started most enterprise deals.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "attribution",
+      "voice": "zh",
+      "text": "末次点击归因低估了开启多数企业成交的网络研讨会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "pipeline-coverage",
+      "voice": "en",
+      "text": "pipeline coverage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "pipeline-coverage",
+      "voice": "en",
+      "text": "P, I, P, E, L, I, N, E, hyphen, C, O, V, E, R, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "pipeline-coverage",
+      "voice": "zh",
+      "text": "名词，销售漏斗覆盖倍数，管道覆盖率，商机总额相对配额的倍数",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "pipeline-coverage",
+      "voice": "en",
+      "text": "With only 1.5× pipeline-coverage, the team is unlikely to hit the quarterly quota.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "pipeline-coverage",
+      "voice": "zh",
+      "text": "管道覆盖仅 1.5 倍，团队不太可能完成季度配额。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "win-rate",
+      "voice": "en",
+      "text": "win rate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "win-rate",
+      "voice": "en",
+      "text": "W, I, N, hyphen, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "win-rate",
+      "voice": "zh",
+      "text": "名词，赢单率，成交胜率，赢取商机的比例",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "win-rate",
+      "voice": "en",
+      "text": "Better discovery calls lifted the enterprise win-rate from 18% to 27%.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "win-rate",
+      "voice": "zh",
+      "text": "更好的需求探询将企业客户赢单率从 18% 提升到 27%。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "limitation-of-liability",
+      "voice": "en",
+      "text": "limitation of liability",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "limitation-of-liability",
+      "voice": "en",
+      "text": "L, I, M, I, T, A, T, I, O, N, hyphen, O, F, hyphen, L, I, A, B, I, L, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "limitation-of-liability",
+      "voice": "zh",
+      "text": "名词，责任限制条款，赔偿责任上限约定",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "limitation-of-liability",
+      "voice": "en",
+      "text": "Counsel insisted on a limitation-of-liability equal to twelve months of fees.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "limitation-of-liability",
+      "voice": "zh",
+      "text": "法务坚持将责任限制设为十二个月费用金额。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "change-of-control",
+      "voice": "en",
+      "text": "change of control",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "change-of-control",
+      "voice": "en",
+      "text": "C, H, A, N, G, E, hyphen, O, F, hyphen, C, O, N, T, R, O, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "change-of-control",
+      "voice": "zh",
+      "text": "名词，控制权变更，控股权易手，公司控制权转移",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "change-of-control",
+      "voice": "en",
+      "text": "The credit agreement accelerates repayment upon a change-of-control.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "change-of-control",
+      "voice": "zh",
+      "text": "信贷协议规定在发生控制权变更时可加速要求还款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "net-promoter-score",
+      "voice": "en",
+      "text": "net promoter score",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "net-promoter-score",
+      "voice": "en",
+      "text": "N, E, T, hyphen, P, R, O, M, O, T, E, R, hyphen, S, C, O, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "net-promoter-score",
+      "voice": "zh",
+      "text": "名词，净推荐值，NPS客户忠诚度指标，净推荐得分",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "net-promoter-score",
+      "voice": "en",
+      "text": "Customer Success reviews the net-promoter-score every quarter before renewals.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "net-promoter-score",
+      "voice": "zh",
+      "text": "客户成功团队在续约前每个季度都会审阅净推荐值。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "health-score",
+      "voice": "en",
+      "text": "health score",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "health-score",
+      "voice": "en",
+      "text": "H, E, A, L, T, H, hyphen, S, C, O, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "health-score",
+      "voice": "zh",
+      "text": "名词，客户健康分，账户健康评分，客户状态综合分",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "health-score",
+      "voice": "en",
+      "text": "A sudden drop in health-score triggered an outreach call to the account.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "health-score",
+      "voice": "zh",
+      "text": "健康分突然下降，触发了对该账户的外联电话。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "customer-journey",
+      "voice": "en",
+      "text": "customer journey",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "customer-journey",
+      "voice": "en",
+      "text": "C, U, S, T, O, M, E, R, hyphen, J, O, U, R, N, E, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "customer-journey",
+      "voice": "zh",
+      "text": "名词，客户旅程，客户体验路径，从认知到续约的全流程",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "customer-journey",
+      "voice": "en",
+      "text": "We mapped the customer-journey and found most churn happened after onboarding.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "customer-journey",
+      "voice": "zh",
+      "text": "我们梳理了客户旅程，发现多数流失发生在入职引导之后。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "playbook",
+      "voice": "en",
+      "text": "playbook",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "playbook",
+      "voice": "en",
+      "text": "P, L, A, Y, B, O, O, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "playbook",
+      "voice": "zh",
+      "text": "名词，作战手册，标准作业剧本，可复用的执行指南",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "playbook",
+      "voice": "en",
+      "text": "The renewal playbook tells reps when to escalate pricing exceptions.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "playbook",
+      "voice": "zh",
+      "text": "续约作战手册规定销售何时将价格例外向上升级。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "runbook",
+      "voice": "en",
+      "text": "runbook",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "runbook",
+      "voice": "en",
+      "text": "R, U, N, B, O, O, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "runbook",
+      "voice": "zh",
+      "text": "名词，运维手册，故障处置剧本，标准化操作步骤书",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "runbook",
+      "voice": "en",
+      "text": "On-call engineers restored service in twelve minutes using the outage runbook.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "runbook",
+      "voice": "zh",
+      "text": "值班工程师按宕机运维手册在十二分钟内恢复了服务。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hot-desk",
+      "voice": "en",
+      "text": "hot desk",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hot-desk",
+      "voice": "en",
+      "text": "H, O, T, hyphen, D, E, S, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hot-desk",
+      "voice": "zh",
+      "text": "名词或动词，共享工位，轮用办公桌，不固定工位办公",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hot-desk",
+      "voice": "en",
+      "text": "Hybrid staff must book a hot-desk by 9 a.m. if they come on Tuesdays.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hot-desk",
+      "voice": "zh",
+      "text": "混合办公员工若周二到岗，须在上午九点前预订共享工位。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "space-utilization",
+      "voice": "en",
+      "text": "space utilization",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "space-utilization",
+      "voice": "en",
+      "text": "S, P, A, C, E, hyphen, U, T, I, L, I, Z, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "space-utilization",
+      "voice": "zh",
+      "text": "名词，空间利用率，办公面积使用效率，场地占用率",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "space-utilization",
+      "voice": "en",
+      "text": "Facilities cut one floor after space-utilization fell below forty percent.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "space-utilization",
+      "voice": "zh",
+      "text": "空间利用率降至百分之四十以下后，行政设施缩减了一整层。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "visitor-pass",
+      "voice": "en",
+      "text": "visitor pass",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "visitor-pass",
+      "voice": "en",
+      "text": "V, I, S, I, T, O, R, hyphen, P, A, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "visitor-pass",
+      "voice": "zh",
+      "text": "名词，访客通行证，来宾出入证，访客胸牌",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "visitor-pass",
+      "voice": "en",
+      "text": "Reception issues a visitor-pass only after the host confirms the appointment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "visitor-pass",
+      "voice": "zh",
+      "text": "前台仅在接待人确认预约后才发放访客通行证。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "access-control",
+      "voice": "en",
+      "text": "access control",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "access-control",
+      "voice": "en",
+      "text": "A, C, C, E, S, S, hyphen, C, O, N, T, R, O, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "access-control",
+      "voice": "zh",
+      "text": "名词，门禁控制，访问控制，出入权限管理",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "access-control",
+      "voice": "en",
+      "text": "After the audit, IT tightened access-control on the finance shared drive.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "access-control",
+      "voice": "zh",
+      "text": "审计之后，IT 收紧了财务共享盘的访问控制。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "wayfinding",
+      "voice": "en",
+      "text": "wayfinding",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "wayfinding",
+      "voice": "en",
+      "text": "W, A, Y, F, I, N, D, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "wayfinding",
+      "voice": "zh",
+      "text": "名词，导视系统，寻路指引，楼内导向标识",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "wayfinding",
+      "voice": "en",
+      "text": "New wayfinding signs cut the time guests need to reach Conference Hall B.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "wayfinding",
+      "voice": "zh",
+      "text": "新的导视标识缩短了访客到达 B 会议厅所需的时间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第47轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

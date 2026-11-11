@@ -1,0 +1,1314 @@
+{
+  "id": "030",
+  "track": 30,
+  "title": "第 30 轨",
+  "word_count": 30,
+  "headwords": [
+    "eligibility",
+    "embark",
+    "empower",
+    "enable",
+    "encompass",
+    "enrich",
+    "entail",
+    "enumerate",
+    "envision",
+    "equity",
+    "ethics",
+    "evolve",
+    "excel",
+    "exception",
+    "excerpt",
+    "exclusion",
+    "exemplary",
+    "exemption",
+    "expectation",
+    "expedient",
+    "excursion",
+    "exhibition",
+    "explicit",
+    "extensive",
+    "extract",
+    "faculty",
+    "fasten",
+    "feature",
+    "finalize",
+    "financing"
+  ],
+  "entries": [
+    {
+      "word": "eligibility",
+      "spelling": "E, L, I, G, I, B, I, L, I, T, Y",
+      "spoken_meaning": "名词，资格，合格条件，适宜性",
+      "en": "Please review the eligibility criteria before applying for the scholarship.",
+      "zh": "申请奖学金前请先查看资格标准。"
+    },
+    {
+      "word": "embark",
+      "spelling": "E, M, B, A, R, K",
+      "spoken_meaning": "动词，开始，着手，登船/登机",
+      "en": "The firm will embark on a digital transformation next fiscal year.",
+      "zh": "公司将在下一财年启动数字化转型。"
+    },
+    {
+      "word": "empower",
+      "spelling": "E, M, P, O, W, E, R",
+      "spoken_meaning": "动词，授权，赋能，使能够",
+      "en": "Managers should empower frontline staff to resolve customer complaints.",
+      "zh": "经理应授权一线员工处理客户投诉。"
+    },
+    {
+      "word": "enable",
+      "spelling": "E, N, A, B, L, E",
+      "spoken_meaning": "动词，使能够，启用，促成",
+      "en": "The new portal will enable clients to track shipments in real time.",
+      "zh": "新门户将使客户能够实时追踪货运。"
+    },
+    {
+      "word": "encompass",
+      "spelling": "E, N, C, O, M, P, A, S, S",
+      "spoken_meaning": "动词，包含，涵盖，环绕",
+      "en": "The training program encompasses compliance, safety, and customer service.",
+      "zh": "该培训项目涵盖合规、安全与客户服务。"
+    },
+    {
+      "word": "enrich",
+      "spelling": "E, N, R, I, C, H",
+      "spoken_meaning": "动词，丰富，充实，使更有价值",
+      "en": "Cross-department rotations enrich employees' professional experience.",
+      "zh": "跨部门轮岗能丰富员工的专业经验。"
+    },
+    {
+      "word": "entail",
+      "spelling": "E, N, T, A, I, L",
+      "spoken_meaning": "动词，需要，牵涉，导致必须",
+      "en": "Expanding overseas will entail significant legal and logistics costs.",
+      "zh": "拓展海外业务将涉及显著的法律与物流成本。"
+    },
+    {
+      "word": "enumerate",
+      "spelling": "E, N, U, M, E, R, A, T, E",
+      "spoken_meaning": "动词，列举，枚举，逐一说明",
+      "en": "Please enumerate the main risks in your project proposal.",
+      "zh": "请在项目提案中列举主要风险。"
+    },
+    {
+      "word": "envision",
+      "spelling": "E, N, V, I, S, I, O, N",
+      "spoken_meaning": "动词，设想，展望，构想",
+      "en": "Leadership envisions a fully remote customer support team by next year.",
+      "zh": "领导层设想明年建成一支全面远程的客服团队。"
+    },
+    {
+      "word": "equity",
+      "spelling": "E, Q, U, I, T, Y",
+      "spoken_meaning": "名词，公平，股本，权益",
+      "en": "Investors acquired a 15% equity stake in the logistics startup.",
+      "zh": "投资者获得了该物流初创公司 15% 的股权。"
+    },
+    {
+      "word": "ethics",
+      "spelling": "E, T, H, I, C, S",
+      "spoken_meaning": "名词，伦理，道德规范，职业道德",
+      "en": "All new hires must complete business ethics training within 30 days.",
+      "zh": "所有新员工须在 30 天内完成商业伦理培训。"
+    },
+    {
+      "word": "evolve",
+      "spelling": "E, V, O, L, V, E",
+      "spoken_meaning": "动词，演变，发展，逐步进化",
+      "en": "Our pricing model will evolve as we enter new overseas markets.",
+      "zh": "随着进入新的海外市场，我们的定价模式将持续演变。"
+    },
+    {
+      "word": "excel",
+      "spelling": "E, X, C, E, L",
+      "spoken_meaning": "动词，擅长，出色，优于",
+      "en": "She excelled at negotiating vendor contracts under tight deadlines.",
+      "zh": "她在紧张期限内谈判供应商合同方面表现出色。"
+    },
+    {
+      "word": "exception",
+      "spelling": "E, X, C, E, P, T, I, O, N",
+      "spoken_meaning": "名词，例外，除外，破例",
+      "en": "Refunds are not allowed, with the exception of defective products.",
+      "zh": "除残次品外，一律不予退款。"
+    },
+    {
+      "word": "excerpt",
+      "spelling": "E, X, C, E, R, P, T",
+      "spoken_meaning": "名词，摘录，节选，片段",
+      "en": "The memo includes an excerpt from last month's customer survey.",
+      "zh": "备忘录包含上月客户调查的一段摘录。"
+    },
+    {
+      "word": "exclusion",
+      "spelling": "E, X, C, L, U, S, I, O, N",
+      "spoken_meaning": "名词，排除，除外，不予纳入",
+      "en": "Please note the exclusion clause covering natural disasters.",
+      "zh": "请注意涵盖自然灾害的除外条款。"
+    },
+    {
+      "word": "exemplary",
+      "spelling": "E, X, E, M, P, L, A, R, Y",
+      "spoken_meaning": "形容词，模范的，典范的，值得效仿的",
+      "en": "She received an award for exemplary customer service this quarter.",
+      "zh": "她因本季度模范的客户服务而获奖。"
+    },
+    {
+      "word": "exemption",
+      "spelling": "E, X, E, M, P, T, I, O, N",
+      "spoken_meaning": "名词，豁免，免税，免除",
+      "en": "Nonprofits may qualify for a tax exemption on property purchases.",
+      "zh": "非营利组织购买物业或可享受免税。"
+    },
+    {
+      "word": "expectation",
+      "spelling": "E, X, P, E, C, T, A, T, I, O, N",
+      "spoken_meaning": "名词，期望，预期，指望",
+      "en": "The client said the delivery exceeded their expectations.",
+      "zh": "客户表示交付成果超出了他们的期望。"
+    },
+    {
+      "word": "expedient",
+      "spelling": "E, X, P, E, D, I, E, N, T",
+      "spoken_meaning": "形容词，权宜的，便利的，应急实用的",
+      "en": "Hiring temporary staff was an expedient solution during peak season.",
+      "zh": "旺季雇用临时工是一个权宜之计。"
+    },
+    {
+      "word": "excursion",
+      "spelling": "E, X, C, U, R, S, I, O, N",
+      "spoken_meaning": "名词，短途旅行，远足，（团体）参观游览",
+      "en": "Conference attendees may sign up for an optional excursion to the harbor on Friday afternoon.",
+      "zh": "与会者可报名参加周五下午前往港口的自选短途游。"
+    },
+    {
+      "word": "exhibition",
+      "spelling": "E, X, H, I, B, I, T, I, O, N",
+      "spoken_meaning": "名词，展览，展览会，展示",
+      "en": "Our new product line will be on exhibition at the trade fair in Singapore next month.",
+      "zh": "我们的新产品线下个月将在新加坡的贸易展上展出。"
+    },
+    {
+      "word": "explicit",
+      "spelling": "E, X, P, L, I, C, I, T",
+      "spoken_meaning": "形容词，明确的，清楚的，直截了当的",
+      "en": "The contract makes explicit that all changes must be approved in writing.",
+      "zh": "合同明确规定，所有变更必须经书面批准。"
+    },
+    {
+      "word": "extensive",
+      "spelling": "E, X, T, E, N, S, I, V, E",
+      "spoken_meaning": "形容词，广泛的，大量的，大规模的",
+      "en": "Candidates with extensive experience in supply chain management are encouraged to apply.",
+      "zh": "欢迎具有丰富供应链管理经验的候选人申请。"
+    },
+    {
+      "word": "extract",
+      "spelling": "E, X, T, R, A, C, T",
+      "spoken_meaning": "动词，提取，摘录，获得（信息、资金等）",
+      "en": "The analyst extracted the sales figures from the quarterly report for the presentation.",
+      "zh": "分析师从季度报告中提取了销售数据用于演示。"
+    },
+    {
+      "word": "faculty",
+      "spelling": "F, A, C, U, L, T, Y",
+      "spoken_meaning": "名词，（大学）全体教员，院系，能力",
+      "en": "Faculty members will lead the evening workshops at the leadership training program.",
+      "zh": "教职人员将在领导力培训项目中主持晚间工作坊。"
+    },
+    {
+      "word": "fasten",
+      "spelling": "F, A, S, T, E, N",
+      "spoken_meaning": "动词，系牢，扣紧，固定",
+      "en": "Passengers are asked to fasten their seat belts while the sign is illuminated.",
+      "zh": "安全带指示灯亮起期间，请乘客系好安全带。"
+    },
+    {
+      "word": "feature",
+      "spelling": "F, E, A, T, U, R, E",
+      "spoken_meaning": "名词或动词，特色，功能，（报刊）专题/以……为特色",
+      "en": "The upgraded software features a simplified dashboard and faster reporting tools.",
+      "zh": "升级后的软件具有更简洁的仪表板和更快的报表工具。"
+    },
+    {
+      "word": "finalize",
+      "spelling": "F, I, N, A, L, I, Z, E",
+      "spoken_meaning": "动词，最终确定，敲定，完成",
+      "en": "We need to finalize the event schedule by Thursday so the brochures can be printed.",
+      "zh": "我们需要在周四前确定活动日程，以便印制宣传册。"
+    },
+    {
+      "word": "financing",
+      "spelling": "F, I, N, A, N, C, I, N, G",
+      "spoken_meaning": "名词，融资，资金筹措，贷款",
+      "en": "The company secured financing from two banks to build its new distribution center.",
+      "zh": "公司从两家银行获得融资，用于建造新的配送中心。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第30轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "eligibility",
+      "voice": "en",
+      "text": "eligibility",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "eligibility",
+      "voice": "en",
+      "text": "E, L, I, G, I, B, I, L, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "eligibility",
+      "voice": "zh",
+      "text": "名词，资格，合格条件，适宜性",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "eligibility",
+      "voice": "en",
+      "text": "Please review the eligibility criteria before applying for the scholarship.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "eligibility",
+      "voice": "zh",
+      "text": "申请奖学金前请先查看资格标准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "embark",
+      "voice": "en",
+      "text": "embark",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "embark",
+      "voice": "en",
+      "text": "E, M, B, A, R, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "embark",
+      "voice": "zh",
+      "text": "动词，开始，着手，登船/登机",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "embark",
+      "voice": "en",
+      "text": "The firm will embark on a digital transformation next fiscal year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "embark",
+      "voice": "zh",
+      "text": "公司将在下一财年启动数字化转型。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "empower",
+      "voice": "en",
+      "text": "empower",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "empower",
+      "voice": "en",
+      "text": "E, M, P, O, W, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "empower",
+      "voice": "zh",
+      "text": "动词，授权，赋能，使能够",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "empower",
+      "voice": "en",
+      "text": "Managers should empower frontline staff to resolve customer complaints.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "empower",
+      "voice": "zh",
+      "text": "经理应授权一线员工处理客户投诉。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "enable",
+      "voice": "en",
+      "text": "enable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "enable",
+      "voice": "en",
+      "text": "E, N, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "enable",
+      "voice": "zh",
+      "text": "动词，使能够，启用，促成",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "enable",
+      "voice": "en",
+      "text": "The new portal will enable clients to track shipments in real time.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "enable",
+      "voice": "zh",
+      "text": "新门户将使客户能够实时追踪货运。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "encompass",
+      "voice": "en",
+      "text": "encompass",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "encompass",
+      "voice": "en",
+      "text": "E, N, C, O, M, P, A, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "encompass",
+      "voice": "zh",
+      "text": "动词，包含，涵盖，环绕",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "encompass",
+      "voice": "en",
+      "text": "The training program encompasses compliance, safety, and customer service.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "encompass",
+      "voice": "zh",
+      "text": "该培训项目涵盖合规、安全与客户服务。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "enrich",
+      "voice": "en",
+      "text": "enrich",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "enrich",
+      "voice": "en",
+      "text": "E, N, R, I, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "enrich",
+      "voice": "zh",
+      "text": "动词，丰富，充实，使更有价值",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "enrich",
+      "voice": "en",
+      "text": "Cross-department rotations enrich employees' professional experience.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "enrich",
+      "voice": "zh",
+      "text": "跨部门轮岗能丰富员工的专业经验。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "entail",
+      "voice": "en",
+      "text": "entail",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "entail",
+      "voice": "en",
+      "text": "E, N, T, A, I, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "entail",
+      "voice": "zh",
+      "text": "动词，需要，牵涉，导致必须",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "entail",
+      "voice": "en",
+      "text": "Expanding overseas will entail significant legal and logistics costs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "entail",
+      "voice": "zh",
+      "text": "拓展海外业务将涉及显著的法律与物流成本。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "enumerate",
+      "voice": "en",
+      "text": "enumerate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "enumerate",
+      "voice": "en",
+      "text": "E, N, U, M, E, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "enumerate",
+      "voice": "zh",
+      "text": "动词，列举，枚举，逐一说明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "enumerate",
+      "voice": "en",
+      "text": "Please enumerate the main risks in your project proposal.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "enumerate",
+      "voice": "zh",
+      "text": "请在项目提案中列举主要风险。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "envision",
+      "voice": "en",
+      "text": "envision",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "envision",
+      "voice": "en",
+      "text": "E, N, V, I, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "envision",
+      "voice": "zh",
+      "text": "动词，设想，展望，构想",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "envision",
+      "voice": "en",
+      "text": "Leadership envisions a fully remote customer support team by next year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "envision",
+      "voice": "zh",
+      "text": "领导层设想明年建成一支全面远程的客服团队。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "equity",
+      "voice": "en",
+      "text": "equity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "equity",
+      "voice": "en",
+      "text": "E, Q, U, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "equity",
+      "voice": "zh",
+      "text": "名词，公平，股本，权益",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "equity",
+      "voice": "en",
+      "text": "Investors acquired a 15% equity stake in the logistics startup.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "equity",
+      "voice": "zh",
+      "text": "投资者获得了该物流初创公司 15% 的股权。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ethics",
+      "voice": "en",
+      "text": "ethics",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ethics",
+      "voice": "en",
+      "text": "E, T, H, I, C, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ethics",
+      "voice": "zh",
+      "text": "名词，伦理，道德规范，职业道德",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ethics",
+      "voice": "en",
+      "text": "All new hires must complete business ethics training within 30 days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ethics",
+      "voice": "zh",
+      "text": "所有新员工须在 30 天内完成商业伦理培训。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "evolve",
+      "voice": "en",
+      "text": "evolve",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "evolve",
+      "voice": "en",
+      "text": "E, V, O, L, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "evolve",
+      "voice": "zh",
+      "text": "动词，演变，发展，逐步进化",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "evolve",
+      "voice": "en",
+      "text": "Our pricing model will evolve as we enter new overseas markets.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "evolve",
+      "voice": "zh",
+      "text": "随着进入新的海外市场，我们的定价模式将持续演变。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "excel",
+      "voice": "en",
+      "text": "excel",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "excel",
+      "voice": "en",
+      "text": "E, X, C, E, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "excel",
+      "voice": "zh",
+      "text": "动词，擅长，出色，优于",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "excel",
+      "voice": "en",
+      "text": "She excelled at negotiating vendor contracts under tight deadlines.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "excel",
+      "voice": "zh",
+      "text": "她在紧张期限内谈判供应商合同方面表现出色。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "exception",
+      "voice": "en",
+      "text": "exception",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "exception",
+      "voice": "en",
+      "text": "E, X, C, E, P, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "exception",
+      "voice": "zh",
+      "text": "名词，例外，除外，破例",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "exception",
+      "voice": "en",
+      "text": "Refunds are not allowed, with the exception of defective products.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "exception",
+      "voice": "zh",
+      "text": "除残次品外，一律不予退款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "excerpt",
+      "voice": "en",
+      "text": "excerpt",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "excerpt",
+      "voice": "en",
+      "text": "E, X, C, E, R, P, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "excerpt",
+      "voice": "zh",
+      "text": "名词，摘录，节选，片段",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "excerpt",
+      "voice": "en",
+      "text": "The memo includes an excerpt from last month's customer survey.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "excerpt",
+      "voice": "zh",
+      "text": "备忘录包含上月客户调查的一段摘录。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "exclusion",
+      "voice": "en",
+      "text": "exclusion",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "exclusion",
+      "voice": "en",
+      "text": "E, X, C, L, U, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "exclusion",
+      "voice": "zh",
+      "text": "名词，排除，除外，不予纳入",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "exclusion",
+      "voice": "en",
+      "text": "Please note the exclusion clause covering natural disasters.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "exclusion",
+      "voice": "zh",
+      "text": "请注意涵盖自然灾害的除外条款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "exemplary",
+      "voice": "en",
+      "text": "exemplary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "exemplary",
+      "voice": "en",
+      "text": "E, X, E, M, P, L, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "exemplary",
+      "voice": "zh",
+      "text": "形容词，模范的，典范的，值得效仿的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "exemplary",
+      "voice": "en",
+      "text": "She received an award for exemplary customer service this quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "exemplary",
+      "voice": "zh",
+      "text": "她因本季度模范的客户服务而获奖。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "exemption",
+      "voice": "en",
+      "text": "exemption",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "exemption",
+      "voice": "en",
+      "text": "E, X, E, M, P, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "exemption",
+      "voice": "zh",
+      "text": "名词，豁免，免税，免除",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "exemption",
+      "voice": "en",
+      "text": "Nonprofits may qualify for a tax exemption on property purchases.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "exemption",
+      "voice": "zh",
+      "text": "非营利组织购买物业或可享受免税。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "expectation",
+      "voice": "en",
+      "text": "expectation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "expectation",
+      "voice": "en",
+      "text": "E, X, P, E, C, T, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "expectation",
+      "voice": "zh",
+      "text": "名词，期望，预期，指望",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "expectation",
+      "voice": "en",
+      "text": "The client said the delivery exceeded their expectations.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "expectation",
+      "voice": "zh",
+      "text": "客户表示交付成果超出了他们的期望。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "expedient",
+      "voice": "en",
+      "text": "expedient",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "expedient",
+      "voice": "en",
+      "text": "E, X, P, E, D, I, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "expedient",
+      "voice": "zh",
+      "text": "形容词，权宜的，便利的，应急实用的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "expedient",
+      "voice": "en",
+      "text": "Hiring temporary staff was an expedient solution during peak season.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "expedient",
+      "voice": "zh",
+      "text": "旺季雇用临时工是一个权宜之计。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "excursion",
+      "voice": "en",
+      "text": "excursion",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "excursion",
+      "voice": "en",
+      "text": "E, X, C, U, R, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "excursion",
+      "voice": "zh",
+      "text": "名词，短途旅行，远足，（团体）参观游览",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "excursion",
+      "voice": "en",
+      "text": "Conference attendees may sign up for an optional excursion to the harbor on Friday afternoon.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "excursion",
+      "voice": "zh",
+      "text": "与会者可报名参加周五下午前往港口的自选短途游。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "exhibition",
+      "voice": "en",
+      "text": "exhibition",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "exhibition",
+      "voice": "en",
+      "text": "E, X, H, I, B, I, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "exhibition",
+      "voice": "zh",
+      "text": "名词，展览，展览会，展示",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "exhibition",
+      "voice": "en",
+      "text": "Our new product line will be on exhibition at the trade fair in Singapore next month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "exhibition",
+      "voice": "zh",
+      "text": "我们的新产品线下个月将在新加坡的贸易展上展出。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "explicit",
+      "voice": "en",
+      "text": "explicit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "explicit",
+      "voice": "en",
+      "text": "E, X, P, L, I, C, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "explicit",
+      "voice": "zh",
+      "text": "形容词，明确的，清楚的，直截了当的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "explicit",
+      "voice": "en",
+      "text": "The contract makes explicit that all changes must be approved in writing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "explicit",
+      "voice": "zh",
+      "text": "合同明确规定，所有变更必须经书面批准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "extensive",
+      "voice": "en",
+      "text": "extensive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "extensive",
+      "voice": "en",
+      "text": "E, X, T, E, N, S, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "extensive",
+      "voice": "zh",
+      "text": "形容词，广泛的，大量的，大规模的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "extensive",
+      "voice": "en",
+      "text": "Candidates with extensive experience in supply chain management are encouraged to apply.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "extensive",
+      "voice": "zh",
+      "text": "欢迎具有丰富供应链管理经验的候选人申请。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "extract",
+      "voice": "en",
+      "text": "extract",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "extract",
+      "voice": "en",
+      "text": "E, X, T, R, A, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "extract",
+      "voice": "zh",
+      "text": "动词，提取，摘录，获得（信息、资金等）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "extract",
+      "voice": "en",
+      "text": "The analyst extracted the sales figures from the quarterly report for the presentation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "extract",
+      "voice": "zh",
+      "text": "分析师从季度报告中提取了销售数据用于演示。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "faculty",
+      "voice": "en",
+      "text": "faculty",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "faculty",
+      "voice": "en",
+      "text": "F, A, C, U, L, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "faculty",
+      "voice": "zh",
+      "text": "名词，（大学）全体教员，院系，能力",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "faculty",
+      "voice": "en",
+      "text": "Faculty members will lead the evening workshops at the leadership training program.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "faculty",
+      "voice": "zh",
+      "text": "教职人员将在领导力培训项目中主持晚间工作坊。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fasten",
+      "voice": "en",
+      "text": "fasten",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fasten",
+      "voice": "en",
+      "text": "F, A, S, T, E, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fasten",
+      "voice": "zh",
+      "text": "动词，系牢，扣紧，固定",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fasten",
+      "voice": "en",
+      "text": "Passengers are asked to fasten their seat belts while the sign is illuminated.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fasten",
+      "voice": "zh",
+      "text": "安全带指示灯亮起期间，请乘客系好安全带。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "feature",
+      "voice": "en",
+      "text": "feature",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "feature",
+      "voice": "en",
+      "text": "F, E, A, T, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "feature",
+      "voice": "zh",
+      "text": "名词或动词，特色，功能，（报刊）专题/以……为特色",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "feature",
+      "voice": "en",
+      "text": "The upgraded software features a simplified dashboard and faster reporting tools.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "feature",
+      "voice": "zh",
+      "text": "升级后的软件具有更简洁的仪表板和更快的报表工具。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "finalize",
+      "voice": "en",
+      "text": "finalize",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "finalize",
+      "voice": "en",
+      "text": "F, I, N, A, L, I, Z, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "finalize",
+      "voice": "zh",
+      "text": "动词，最终确定，敲定，完成",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "finalize",
+      "voice": "en",
+      "text": "We need to finalize the event schedule by Thursday so the brochures can be printed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "finalize",
+      "voice": "zh",
+      "text": "我们需要在周四前确定活动日程，以便印制宣传册。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "financing",
+      "voice": "en",
+      "text": "financing",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "financing",
+      "voice": "en",
+      "text": "F, I, N, A, N, C, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "financing",
+      "voice": "zh",
+      "text": "名词，融资，资金筹措，贷款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "financing",
+      "voice": "en",
+      "text": "The company secured financing from two banks to build its new distribution center.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "financing",
+      "voice": "zh",
+      "text": "公司从两家银行获得融资，用于建造新的配送中心。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第30轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

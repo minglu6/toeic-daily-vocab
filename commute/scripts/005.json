@@ -1,0 +1,1314 @@
+{
+  "id": "005",
+  "track": 5,
+  "title": "第 5 轨",
+  "word_count": 30,
+  "headwords": [
+    "correspond",
+    "decline",
+    "deliver",
+    "demonstrate",
+    "designate",
+    "enhance",
+    "evaluate",
+    "exceed",
+    "execute",
+    "expire",
+    "fulfill",
+    "generate",
+    "highlight",
+    "initiate",
+    "inspect",
+    "obtain",
+    "participate",
+    "persuade",
+    "proceed",
+    "terminate",
+    "accommodate",
+    "affiliate",
+    "appraisal",
+    "attribute",
+    "cancel",
+    "cargo",
+    "circulate",
+    "commercial",
+    "commit",
+    "compatible"
+  ],
+  "entries": [
+    {
+      "word": "correspond",
+      "spelling": "C, O, R, R, E, S, P, O, N, D",
+      "spoken_meaning": "动词，通信，相符，对应",
+      "en": "Please correspond with the supplier regarding the delayed shipment.",
+      "zh": "请就延误的货件与供应商通信联系。"
+    },
+    {
+      "word": "decline",
+      "spelling": "D, E, C, L, I, N, E",
+      "spoken_meaning": "动词或名词，下降，婉拒",
+      "en": "We regretfully decline the invitation due to a scheduling conflict.",
+      "zh": "因行程冲突，我们遗憾地婉拒此次邀请。"
+    },
+    {
+      "word": "deliver",
+      "spelling": "D, E, L, I, V, E, R",
+      "spoken_meaning": "动词，递送，交付，发表（演讲）",
+      "en": "The courier will deliver the package by Friday afternoon.",
+      "zh": "快递员将于周五下午前送达包裹。"
+    },
+    {
+      "word": "demonstrate",
+      "spelling": "D, E, M, O, N, S, T, R, A, T, E",
+      "spoken_meaning": "动词，演示，证明，展示",
+      "en": "The sales team will demonstrate the prototype to potential buyers.",
+      "zh": "销售团队将向潜在买家演示该原型。"
+    },
+    {
+      "word": "designate",
+      "spelling": "D, E, S, I, G, N, A, T, E",
+      "spoken_meaning": "动词，指定，任命，标明",
+      "en": "Management designated Ms. Lee as the project coordinator.",
+      "zh": "管理层指定李女士为项目协调人。"
+    },
+    {
+      "word": "enhance",
+      "spelling": "E, N, H, A, N, C, E",
+      "spoken_meaning": "动词，提高，增强，改进",
+      "en": "The update is designed to enhance system security.",
+      "zh": "此次更新旨在增强系统安全性。"
+    },
+    {
+      "word": "evaluate",
+      "spelling": "E, V, A, L, U, A, T, E",
+      "spoken_meaning": "动词，评估，评价",
+      "en": "The committee will evaluate all proposals by next Friday.",
+      "zh": "委员会将在下周五前评估所有提案。"
+    },
+    {
+      "word": "exceed",
+      "spelling": "E, X, C, E, E, D",
+      "spoken_meaning": "动词，超过，超出",
+      "en": "Monthly sales exceeded forecasts by nearly 15 percent.",
+      "zh": "月销售额超出预期近15%。"
+    },
+    {
+      "word": "execute",
+      "spelling": "E, X, E, C, U, T, E",
+      "spoken_meaning": "动词，执行，实施，签署生效",
+      "en": "Both sides must execute the agreement before work begins.",
+      "zh": "双方须在开工前签署并执行该协议。"
+    },
+    {
+      "word": "expire",
+      "spelling": "E, X, P, I, R, E",
+      "spoken_meaning": "动词，到期，期满，失效",
+      "en": "Your membership will expire at the end of this month.",
+      "zh": "您的会员资格将于本月底到期。"
+    },
+    {
+      "word": "fulfill",
+      "spelling": "F, U, L, F, I, L, L",
+      "spoken_meaning": "动词，履行，完成，满足（需求）",
+      "en": "We strive to fulfill every customer order within two days.",
+      "zh": "我们力求两天内履行每一笔客户订单。"
+    },
+    {
+      "word": "generate",
+      "spelling": "G, E, N, E, R, A, T, E",
+      "spoken_meaning": "动词，产生，创造，发电",
+      "en": "The campaign is expected to generate significant online traffic.",
+      "zh": "该活动预计将带来大量线上流量。"
+    },
+    {
+      "word": "highlight",
+      "spelling": "H, I, G, H, L, I, G, H, T",
+      "spoken_meaning": "动词或名词，突出，强调，亮点",
+      "en": "The speaker highlighted three risks in the expansion plan.",
+      "zh": "演讲者强调了扩张计划中的三个风险。"
+    },
+    {
+      "word": "initiate",
+      "spelling": "I, N, I, T, I, A, T, E",
+      "spoken_meaning": "动词，发起，开始，启动",
+      "en": "HR will initiate a company-wide skills assessment next month.",
+      "zh": "人力资源部将于下月启动全公司技能评估。"
+    },
+    {
+      "word": "inspect",
+      "spelling": "I, N, S, P, E, C, T",
+      "spoken_meaning": "动词，检查，视察",
+      "en": "Quality control will inspect every batch before shipment.",
+      "zh": "质检部门将在发货前检查每一批次。"
+    },
+    {
+      "word": "obtain",
+      "spelling": "O, B, T, A, I, N",
+      "spoken_meaning": "动词，获得，取得",
+      "en": "You must obtain written approval before changing the budget.",
+      "zh": "更改预算前必须获得书面批准。"
+    },
+    {
+      "word": "participate",
+      "spelling": "P, A, R, T, I, C, I, P, A, T, E",
+      "spoken_meaning": "动词，参加，参与",
+      "en": "All managers are required to participate in the safety training.",
+      "zh": "所有经理都必须参加安全培训。"
+    },
+    {
+      "word": "persuade",
+      "spelling": "P, E, R, S, U, A, D, E",
+      "spoken_meaning": "动词，说服，劝说",
+      "en": "It took weeks to persuade investors to fund the expansion.",
+      "zh": "花了数周才说服投资者为扩张提供资金。"
+    },
+    {
+      "word": "proceed",
+      "spelling": "P, R, O, C, E, E, D",
+      "spoken_meaning": "动词，继续进行，着手",
+      "en": "Once funding is secured, we will proceed with hiring.",
+      "zh": "资金到位后，我们将着手招聘。"
+    },
+    {
+      "word": "terminate",
+      "spelling": "T, E, R, M, I, N, A, T, E",
+      "spoken_meaning": "动词，终止，解雇，结束",
+      "en": "Either party may terminate the agreement with 30 days' notice.",
+      "zh": "任何一方可提前30天通知终止协议。"
+    },
+    {
+      "word": "accommodate",
+      "spelling": "A, C, C, O, M, M, O, D, A, T, E",
+      "spoken_meaning": "动词，容纳，提供住宿，迁就",
+      "en": "The conference hall can accommodate up to 300 attendees.",
+      "zh": "会议厅最多可容纳 300 名与会者。"
+    },
+    {
+      "word": "affiliate",
+      "spelling": "A, F, F, I, L, I, A, T, E",
+      "spoken_meaning": "名词或动词，附属机构，使加盟",
+      "en": "Our local office is an affiliate of a global consulting firm.",
+      "zh": "我们本地办事处是一家全球咨询公司的附属机构。"
+    },
+    {
+      "word": "appraisal",
+      "spelling": "A, P, P, R, A, I, S, A, L",
+      "spoken_meaning": "名词，评估，绩效考核，估价",
+      "en": "Employees receive a written performance appraisal each December.",
+      "zh": "员工每年十二月会收到书面绩效考核。"
+    },
+    {
+      "word": "attribute",
+      "spelling": "A, T, T, R, I, B, U, T, E",
+      "spoken_meaning": "动词或名词，归因于，品质，属性",
+      "en": "Analysts attribute the sales surge to the new marketing campaign.",
+      "zh": "分析师将销售激增归因于新的营销活动。"
+    },
+    {
+      "word": "cancel",
+      "spelling": "C, A, N, C, E, L",
+      "spoken_meaning": "动词，取消，作废",
+      "en": "Please cancel my flight and rebook me on tomorrow’s departure.",
+      "zh": "请取消我的航班，并改订明天的出发班次。"
+    },
+    {
+      "word": "cargo",
+      "spelling": "C, A, R, G, O",
+      "spoken_meaning": "名词，货物，船货",
+      "en": "The cargo will arrive at the port by Friday afternoon.",
+      "zh": "这批货物将于周五下午抵达港口。"
+    },
+    {
+      "word": "circulate",
+      "spelling": "C, I, R, C, U, L, A, T, E",
+      "spoken_meaning": "动词，传阅，流通，循环",
+      "en": "Please circulate the revised agenda to all department heads.",
+      "zh": "请将修订后的议程传阅给各部门主管。"
+    },
+    {
+      "word": "commercial",
+      "spelling": "C, O, M, M, E, R, C, I, A, L",
+      "spoken_meaning": "形容词或名词，商业的，广告片",
+      "en": "The building is zoned for commercial use only.",
+      "zh": "该建筑仅划定为商业用途。"
+    },
+    {
+      "word": "commit",
+      "spelling": "C, O, M, M, I, T",
+      "spoken_meaning": "动词，承诺，投入，犯（罪）",
+      "en": "The vendor has committed to delivering the parts by Monday.",
+      "zh": "供应商已承诺周一前交付零件。"
+    },
+    {
+      "word": "compatible",
+      "spelling": "C, O, M, P, A, T, I, B, L, E",
+      "spoken_meaning": "形容词，兼容的，合得来的",
+      "en": "The new software is compatible with most operating systems.",
+      "zh": "该新软件与大多数操作系统兼容。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第5轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "correspond",
+      "voice": "en",
+      "text": "correspond",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "correspond",
+      "voice": "en",
+      "text": "C, O, R, R, E, S, P, O, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "correspond",
+      "voice": "zh",
+      "text": "动词，通信，相符，对应",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "correspond",
+      "voice": "en",
+      "text": "Please correspond with the supplier regarding the delayed shipment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "correspond",
+      "voice": "zh",
+      "text": "请就延误的货件与供应商通信联系。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "decline",
+      "voice": "en",
+      "text": "decline",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "decline",
+      "voice": "en",
+      "text": "D, E, C, L, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "decline",
+      "voice": "zh",
+      "text": "动词或名词，下降，婉拒",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "decline",
+      "voice": "en",
+      "text": "We regretfully decline the invitation due to a scheduling conflict.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "decline",
+      "voice": "zh",
+      "text": "因行程冲突，我们遗憾地婉拒此次邀请。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "deliver",
+      "voice": "en",
+      "text": "deliver",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deliver",
+      "voice": "en",
+      "text": "D, E, L, I, V, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deliver",
+      "voice": "zh",
+      "text": "动词，递送，交付，发表（演讲）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deliver",
+      "voice": "en",
+      "text": "The courier will deliver the package by Friday afternoon.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deliver",
+      "voice": "zh",
+      "text": "快递员将于周五下午前送达包裹。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "demonstrate",
+      "voice": "en",
+      "text": "demonstrate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "demonstrate",
+      "voice": "en",
+      "text": "D, E, M, O, N, S, T, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "demonstrate",
+      "voice": "zh",
+      "text": "动词，演示，证明，展示",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "demonstrate",
+      "voice": "en",
+      "text": "The sales team will demonstrate the prototype to potential buyers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "demonstrate",
+      "voice": "zh",
+      "text": "销售团队将向潜在买家演示该原型。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "designate",
+      "voice": "en",
+      "text": "designate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "designate",
+      "voice": "en",
+      "text": "D, E, S, I, G, N, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "designate",
+      "voice": "zh",
+      "text": "动词，指定，任命，标明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "designate",
+      "voice": "en",
+      "text": "Management designated Ms. Lee as the project coordinator.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "designate",
+      "voice": "zh",
+      "text": "管理层指定李女士为项目协调人。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "enhance",
+      "voice": "en",
+      "text": "enhance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "enhance",
+      "voice": "en",
+      "text": "E, N, H, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "enhance",
+      "voice": "zh",
+      "text": "动词，提高，增强，改进",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "enhance",
+      "voice": "en",
+      "text": "The update is designed to enhance system security.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "enhance",
+      "voice": "zh",
+      "text": "此次更新旨在增强系统安全性。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "evaluate",
+      "voice": "en",
+      "text": "evaluate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "evaluate",
+      "voice": "en",
+      "text": "E, V, A, L, U, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "evaluate",
+      "voice": "zh",
+      "text": "动词，评估，评价",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "evaluate",
+      "voice": "en",
+      "text": "The committee will evaluate all proposals by next Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "evaluate",
+      "voice": "zh",
+      "text": "委员会将在下周五前评估所有提案。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "exceed",
+      "voice": "en",
+      "text": "exceed",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "exceed",
+      "voice": "en",
+      "text": "E, X, C, E, E, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "exceed",
+      "voice": "zh",
+      "text": "动词，超过，超出",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "exceed",
+      "voice": "en",
+      "text": "Monthly sales exceeded forecasts by nearly 15 percent.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "exceed",
+      "voice": "zh",
+      "text": "月销售额超出预期近15%。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "execute",
+      "voice": "en",
+      "text": "execute",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "execute",
+      "voice": "en",
+      "text": "E, X, E, C, U, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "execute",
+      "voice": "zh",
+      "text": "动词，执行，实施，签署生效",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "execute",
+      "voice": "en",
+      "text": "Both sides must execute the agreement before work begins.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "execute",
+      "voice": "zh",
+      "text": "双方须在开工前签署并执行该协议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "expire",
+      "voice": "en",
+      "text": "expire",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "expire",
+      "voice": "en",
+      "text": "E, X, P, I, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "expire",
+      "voice": "zh",
+      "text": "动词，到期，期满，失效",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "expire",
+      "voice": "en",
+      "text": "Your membership will expire at the end of this month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "expire",
+      "voice": "zh",
+      "text": "您的会员资格将于本月底到期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fulfill",
+      "voice": "en",
+      "text": "fulfill",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fulfill",
+      "voice": "en",
+      "text": "F, U, L, F, I, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fulfill",
+      "voice": "zh",
+      "text": "动词，履行，完成，满足（需求）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fulfill",
+      "voice": "en",
+      "text": "We strive to fulfill every customer order within two days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fulfill",
+      "voice": "zh",
+      "text": "我们力求两天内履行每一笔客户订单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "generate",
+      "voice": "en",
+      "text": "generate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "generate",
+      "voice": "en",
+      "text": "G, E, N, E, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "generate",
+      "voice": "zh",
+      "text": "动词，产生，创造，发电",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "generate",
+      "voice": "en",
+      "text": "The campaign is expected to generate significant online traffic.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "generate",
+      "voice": "zh",
+      "text": "该活动预计将带来大量线上流量。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "highlight",
+      "voice": "en",
+      "text": "highlight",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "highlight",
+      "voice": "en",
+      "text": "H, I, G, H, L, I, G, H, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "highlight",
+      "voice": "zh",
+      "text": "动词或名词，突出，强调，亮点",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "highlight",
+      "voice": "en",
+      "text": "The speaker highlighted three risks in the expansion plan.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "highlight",
+      "voice": "zh",
+      "text": "演讲者强调了扩张计划中的三个风险。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "initiate",
+      "voice": "en",
+      "text": "initiate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "initiate",
+      "voice": "en",
+      "text": "I, N, I, T, I, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "initiate",
+      "voice": "zh",
+      "text": "动词，发起，开始，启动",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "initiate",
+      "voice": "en",
+      "text": "HR will initiate a company-wide skills assessment next month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "initiate",
+      "voice": "zh",
+      "text": "人力资源部将于下月启动全公司技能评估。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "inspect",
+      "voice": "en",
+      "text": "inspect",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "inspect",
+      "voice": "en",
+      "text": "I, N, S, P, E, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "inspect",
+      "voice": "zh",
+      "text": "动词，检查，视察",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "inspect",
+      "voice": "en",
+      "text": "Quality control will inspect every batch before shipment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "inspect",
+      "voice": "zh",
+      "text": "质检部门将在发货前检查每一批次。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "obtain",
+      "voice": "en",
+      "text": "obtain",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "obtain",
+      "voice": "en",
+      "text": "O, B, T, A, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "obtain",
+      "voice": "zh",
+      "text": "动词，获得，取得",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "obtain",
+      "voice": "en",
+      "text": "You must obtain written approval before changing the budget.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "obtain",
+      "voice": "zh",
+      "text": "更改预算前必须获得书面批准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "participate",
+      "voice": "en",
+      "text": "participate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "participate",
+      "voice": "en",
+      "text": "P, A, R, T, I, C, I, P, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "participate",
+      "voice": "zh",
+      "text": "动词，参加，参与",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "participate",
+      "voice": "en",
+      "text": "All managers are required to participate in the safety training.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "participate",
+      "voice": "zh",
+      "text": "所有经理都必须参加安全培训。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "persuade",
+      "voice": "en",
+      "text": "persuade",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "persuade",
+      "voice": "en",
+      "text": "P, E, R, S, U, A, D, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "persuade",
+      "voice": "zh",
+      "text": "动词，说服，劝说",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "persuade",
+      "voice": "en",
+      "text": "It took weeks to persuade investors to fund the expansion.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "persuade",
+      "voice": "zh",
+      "text": "花了数周才说服投资者为扩张提供资金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "proceed",
+      "voice": "en",
+      "text": "proceed",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "proceed",
+      "voice": "en",
+      "text": "P, R, O, C, E, E, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "proceed",
+      "voice": "zh",
+      "text": "动词，继续进行，着手",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "proceed",
+      "voice": "en",
+      "text": "Once funding is secured, we will proceed with hiring.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "proceed",
+      "voice": "zh",
+      "text": "资金到位后，我们将着手招聘。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "terminate",
+      "voice": "en",
+      "text": "terminate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "terminate",
+      "voice": "en",
+      "text": "T, E, R, M, I, N, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "terminate",
+      "voice": "zh",
+      "text": "动词，终止，解雇，结束",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "terminate",
+      "voice": "en",
+      "text": "Either party may terminate the agreement with 30 days' notice.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "terminate",
+      "voice": "zh",
+      "text": "任何一方可提前30天通知终止协议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "accommodate",
+      "voice": "en",
+      "text": "accommodate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "accommodate",
+      "voice": "en",
+      "text": "A, C, C, O, M, M, O, D, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "accommodate",
+      "voice": "zh",
+      "text": "动词，容纳，提供住宿，迁就",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "accommodate",
+      "voice": "en",
+      "text": "The conference hall can accommodate up to 300 attendees.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "accommodate",
+      "voice": "zh",
+      "text": "会议厅最多可容纳 300 名与会者。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "affiliate",
+      "voice": "en",
+      "text": "affiliate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "affiliate",
+      "voice": "en",
+      "text": "A, F, F, I, L, I, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "affiliate",
+      "voice": "zh",
+      "text": "名词或动词，附属机构，使加盟",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "affiliate",
+      "voice": "en",
+      "text": "Our local office is an affiliate of a global consulting firm.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "affiliate",
+      "voice": "zh",
+      "text": "我们本地办事处是一家全球咨询公司的附属机构。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "appraisal",
+      "voice": "en",
+      "text": "appraisal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "appraisal",
+      "voice": "en",
+      "text": "A, P, P, R, A, I, S, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "appraisal",
+      "voice": "zh",
+      "text": "名词，评估，绩效考核，估价",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "appraisal",
+      "voice": "en",
+      "text": "Employees receive a written performance appraisal each December.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "appraisal",
+      "voice": "zh",
+      "text": "员工每年十二月会收到书面绩效考核。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "attribute",
+      "voice": "en",
+      "text": "attribute",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "attribute",
+      "voice": "en",
+      "text": "A, T, T, R, I, B, U, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "attribute",
+      "voice": "zh",
+      "text": "动词或名词，归因于，品质，属性",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "attribute",
+      "voice": "en",
+      "text": "Analysts attribute the sales surge to the new marketing campaign.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "attribute",
+      "voice": "zh",
+      "text": "分析师将销售激增归因于新的营销活动。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cancel",
+      "voice": "en",
+      "text": "cancel",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cancel",
+      "voice": "en",
+      "text": "C, A, N, C, E, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cancel",
+      "voice": "zh",
+      "text": "动词，取消，作废",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cancel",
+      "voice": "en",
+      "text": "Please cancel my flight and rebook me on tomorrow’s departure.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cancel",
+      "voice": "zh",
+      "text": "请取消我的航班，并改订明天的出发班次。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cargo",
+      "voice": "en",
+      "text": "cargo",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cargo",
+      "voice": "en",
+      "text": "C, A, R, G, O",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cargo",
+      "voice": "zh",
+      "text": "名词，货物，船货",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cargo",
+      "voice": "en",
+      "text": "The cargo will arrive at the port by Friday afternoon.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cargo",
+      "voice": "zh",
+      "text": "这批货物将于周五下午抵达港口。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "circulate",
+      "voice": "en",
+      "text": "circulate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "circulate",
+      "voice": "en",
+      "text": "C, I, R, C, U, L, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "circulate",
+      "voice": "zh",
+      "text": "动词，传阅，流通，循环",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "circulate",
+      "voice": "en",
+      "text": "Please circulate the revised agenda to all department heads.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "circulate",
+      "voice": "zh",
+      "text": "请将修订后的议程传阅给各部门主管。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "commercial",
+      "voice": "en",
+      "text": "commercial",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "commercial",
+      "voice": "en",
+      "text": "C, O, M, M, E, R, C, I, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "commercial",
+      "voice": "zh",
+      "text": "形容词或名词，商业的，广告片",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "commercial",
+      "voice": "en",
+      "text": "The building is zoned for commercial use only.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "commercial",
+      "voice": "zh",
+      "text": "该建筑仅划定为商业用途。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "commit",
+      "voice": "en",
+      "text": "commit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "commit",
+      "voice": "en",
+      "text": "C, O, M, M, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "commit",
+      "voice": "zh",
+      "text": "动词，承诺，投入，犯（罪）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "commit",
+      "voice": "en",
+      "text": "The vendor has committed to delivering the parts by Monday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "commit",
+      "voice": "zh",
+      "text": "供应商已承诺周一前交付零件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "compatible",
+      "voice": "en",
+      "text": "compatible",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "compatible",
+      "voice": "en",
+      "text": "C, O, M, P, A, T, I, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "compatible",
+      "voice": "zh",
+      "text": "形容词，兼容的，合得来的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "compatible",
+      "voice": "en",
+      "text": "The new software is compatible with most operating systems.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "compatible",
+      "voice": "zh",
+      "text": "该新软件与大多数操作系统兼容。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第5轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

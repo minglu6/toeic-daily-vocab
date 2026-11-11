@@ -1,0 +1,1314 @@
+{
+  "id": "033",
+  "track": 33,
+  "title": "第 33 轨",
+  "word_count": 30,
+  "headwords": [
+    "marketplace",
+    "mediation",
+    "misplace",
+    "mitigate",
+    "moderate",
+    "momentum",
+    "monetary",
+    "municipal",
+    "mutual",
+    "negligence",
+    "niche",
+    "nominal",
+    "onboarding",
+    "operational",
+    "optimize",
+    "outage",
+    "outset",
+    "overhaul",
+    "oversight",
+    "paperwork",
+    "photocopy",
+    "pilot",
+    "placement",
+    "plummet",
+    "prerequisite",
+    "prospectus",
+    "protocol",
+    "proximity",
+    "publicity",
+    "qualification"
+  ],
+  "entries": [
+    {
+      "word": "marketplace",
+      "spelling": "M, A, R, K, E, T, P, L, A, C, E",
+      "spoken_meaning": "名词，市场，商业竞争领域，交易平台",
+      "en": "To stay competitive in today's marketplace, we must innovate constantly.",
+      "zh": "要在当今市场保持竞争力，我们必须不断创新。"
+    },
+    {
+      "word": "mediation",
+      "spelling": "M, E, D, I, A, T, I, O, N",
+      "spoken_meaning": "名词，调解，斡旋",
+      "en": "Both parties agreed to settle the dispute through mediation.",
+      "zh": "双方同意通过调解解决纠纷。"
+    },
+    {
+      "word": "misplace",
+      "spelling": "M, I, S, P, L, A, C, E",
+      "spoken_meaning": "动词，放错地方，一时找不到",
+      "en": "I seem to have misplaced my security badge; could you let me in?",
+      "zh": "我好像把门禁卡放错地方了，你能帮我开下门吗？"
+    },
+    {
+      "word": "mitigate",
+      "spelling": "M, I, T, I, G, A, T, E",
+      "spoken_meaning": "动词，减轻，缓和（风险、影响）",
+      "en": "The new backup system will help mitigate the risk of data loss.",
+      "zh": "新的备份系统将有助于降低数据丢失的风险。"
+    },
+    {
+      "word": "moderate",
+      "spelling": "M, O, D, E, R, A, T, E",
+      "spoken_meaning": "形容词或动词，适度的，中等的，主持（讨论）",
+      "en": "Dr. Chen will moderate the panel discussion on supply chain trends.",
+      "zh": "陈博士将主持关于供应链趋势的小组讨论。"
+    },
+    {
+      "word": "momentum",
+      "spelling": "M, O, M, E, N, T, U, M",
+      "spoken_meaning": "名词，势头，动力",
+      "en": "The campaign gained momentum after it was featured on social media.",
+      "zh": "该推广活动在社交媒体上被推荐后势头大增。"
+    },
+    {
+      "word": "monetary",
+      "spelling": "M, O, N, E, T, A, R, Y",
+      "spoken_meaning": "形容词，货币的，金钱的",
+      "en": "Employees who submit useful suggestions receive a small monetary reward.",
+      "zh": "提出有用建议的员工可获得一小笔奖金。"
+    },
+    {
+      "word": "municipal",
+      "spelling": "M, U, N, I, C, I, P, A, L",
+      "spoken_meaning": "形容词，市政的，市立的",
+      "en": "The renovation requires approval from the municipal building department.",
+      "zh": "此次翻修须获得市政建筑部门的批准。"
+    },
+    {
+      "word": "mutual",
+      "spelling": "M, U, T, U, A, L",
+      "spoken_meaning": "形容词，相互的，共同的",
+      "en": "The contract can be extended by mutual agreement of both parties.",
+      "zh": "经双方同意，合同可以延期。"
+    },
+    {
+      "word": "negligence",
+      "spelling": "N, E, G, L, I, G, E, N, C, E",
+      "spoken_meaning": "名词，疏忽，过失",
+      "en": "The supplier was held responsible for the damage caused by its negligence.",
+      "zh": "供应商须为其疏忽造成的损失承担责任。"
+    },
+    {
+      "word": "niche",
+      "spelling": "N, I, C, H, E",
+      "spoken_meaning": "名词或形容词，细分市场，适合的位置，小众的",
+      "en": "The startup has found a profitable niche in eco-friendly packaging.",
+      "zh": "这家初创公司在环保包装领域找到了盈利的细分市场。"
+    },
+    {
+      "word": "nominal",
+      "spelling": "N, O, M, I, N, A, L",
+      "spoken_meaning": "形容词，（费用）象征性的，名义上的",
+      "en": "Members can rent the meeting room for a nominal fee.",
+      "zh": "会员只需支付少量费用即可租用会议室。"
+    },
+    {
+      "word": "onboarding",
+      "spelling": "O, N, B, O, A, R, D, I, N, G",
+      "spoken_meaning": "名词，新员工入职培训，入职流程",
+      "en": "All new hires will attend a two-day onboarding session next week.",
+      "zh": "所有新员工下周将参加为期两天的入职培训。"
+    },
+    {
+      "word": "operational",
+      "spelling": "O, P, E, R, A, T, I, O, N, A, L",
+      "spoken_meaning": "形容词，运营的，可使用的，投入运行的",
+      "en": "The new warehouse is expected to be fully operational by March.",
+      "zh": "新仓库预计将于 3 月全面投入运营。"
+    },
+    {
+      "word": "optimize",
+      "spelling": "O, P, T, I, M, I, Z, E",
+      "spoken_meaning": "动词，优化，使最优化",
+      "en": "We redesigned the checkout page to optimize it for mobile users.",
+      "zh": "我们重新设计了结账页面，以优化移动端用户体验。"
+    },
+    {
+      "word": "outage",
+      "spelling": "O, U, T, A, G, E",
+      "spoken_meaning": "名词，停电，（服务）中断",
+      "en": "A brief power outage interrupted production this morning.",
+      "zh": "今天上午的短暂停电打断了生产。"
+    },
+    {
+      "word": "outset",
+      "spelling": "O, U, T, S, E, T",
+      "spoken_meaning": "名词，开始，开端",
+      "en": "It was clear from the outset that the project would need more staff.",
+      "zh": "从一开始就很明显，该项目需要更多人手。"
+    },
+    {
+      "word": "overhaul",
+      "spelling": "O, V, E, R, H, A, U, L",
+      "spoken_meaning": "动词或名词，全面检修，彻底改革",
+      "en": "Management plans to overhaul the company's travel reimbursement policy.",
+      "zh": "管理层计划全面修订公司的差旅报销制度。"
+    },
+    {
+      "word": "oversight",
+      "spelling": "O, V, E, R, S, I, G, H, T",
+      "spoken_meaning": "名词，疏忽，监督",
+      "en": "Due to an oversight, your invoice was sent to the wrong address.",
+      "zh": "由于疏忽，您的发票被寄到了错误的地址。"
+    },
+    {
+      "word": "paperwork",
+      "spelling": "P, A, P, E, R, W, O, R, K",
+      "spoken_meaning": "名词，文书工作，书面材料",
+      "en": "Please complete the paperwork before your first day of work.",
+      "zh": "请在入职第一天之前填好相关文件。"
+    },
+    {
+      "word": "photocopy",
+      "spelling": "P, H, O, T, O, C, O, P, Y",
+      "spoken_meaning": "名词或动词，复印件，复印",
+      "en": "Please bring a photocopy of your passport to the registration desk.",
+      "zh": "请将护照复印件带到登记台。"
+    },
+    {
+      "word": "pilot",
+      "spelling": "P, I, L, O, T",
+      "spoken_meaning": "名词或动词或形容词，飞行员，试点，试行",
+      "en": "The company will pilot a flexible-work policy in two regional offices.",
+      "zh": "公司将在两个区域办事处试行弹性工作政策。"
+    },
+    {
+      "word": "placement",
+      "spelling": "P, L, A, C, E, M, E, N, T",
+      "spoken_meaning": "名词，安置，岗位安排，分班/分位",
+      "en": "The career center offers job placement assistance to recent graduates.",
+      "zh": "就业中心为应届毕业生提供就业安置协助。"
+    },
+    {
+      "word": "plummet",
+      "spelling": "P, L, U, M, M, E, T",
+      "spoken_meaning": "动词，骤降，暴跌",
+      "en": "Share prices plummeted after the firm announced weaker quarterly earnings.",
+      "zh": "公司公布季度业绩疲软后，股价暴跌。"
+    },
+    {
+      "word": "prerequisite",
+      "spelling": "P, R, E, R, E, Q, U, I, S, I, T, E",
+      "spoken_meaning": "名词或形容词，先决条件，必修的，作为前提的",
+      "en": "Two years of sales experience is a prerequisite for this managerial role.",
+      "zh": "两年销售经验是担任该管理职位的先决条件。"
+    },
+    {
+      "word": "prospectus",
+      "spelling": "P, R, O, S, P, E, C, T, U, S",
+      "spoken_meaning": "名词，招股说明书，简介手册，招生简章",
+      "en": "Investors should carefully review the prospectus before buying the shares.",
+      "zh": "投资者在购买股份前应仔细阅读招股说明书。"
+    },
+    {
+      "word": "protocol",
+      "spelling": "P, R, O, T, O, C, O, L",
+      "spoken_meaning": "名词，协议，规程，外交礼仪",
+      "en": "All visitors must follow the building's security protocol.",
+      "zh": "所有访客必须遵守大楼的安保规程。"
+    },
+    {
+      "word": "proximity",
+      "spelling": "P, R, O, X, I, M, I, T, Y",
+      "spoken_meaning": "名词，接近，邻近",
+      "en": "The hotel's proximity to the convention center is a major advantage.",
+      "zh": "酒店紧邻会议中心是其一大优势。"
+    },
+    {
+      "word": "publicity",
+      "spelling": "P, U, B, L, I, C, I, T, Y",
+      "spoken_meaning": "名词，宣传，知名度，媒体关注",
+      "en": "The product launch received extensive publicity in the business press.",
+      "zh": "该产品发布在商业媒体上获得了广泛宣传。"
+    },
+    {
+      "word": "qualification",
+      "spelling": "Q, U, A, L, I, F, I, C, A, T, I, O, N",
+      "spoken_meaning": "名词，资格，资历，学历条件",
+      "en": "Applicants must list their relevant qualifications on the form.",
+      "zh": "申请人必须在表格上列出相关资格。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第33轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "marketplace",
+      "voice": "en",
+      "text": "marketplace",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "marketplace",
+      "voice": "en",
+      "text": "M, A, R, K, E, T, P, L, A, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "marketplace",
+      "voice": "zh",
+      "text": "名词，市场，商业竞争领域，交易平台",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "marketplace",
+      "voice": "en",
+      "text": "To stay competitive in today's marketplace, we must innovate constantly.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "marketplace",
+      "voice": "zh",
+      "text": "要在当今市场保持竞争力，我们必须不断创新。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mediation",
+      "voice": "en",
+      "text": "mediation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mediation",
+      "voice": "en",
+      "text": "M, E, D, I, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mediation",
+      "voice": "zh",
+      "text": "名词，调解，斡旋",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mediation",
+      "voice": "en",
+      "text": "Both parties agreed to settle the dispute through mediation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mediation",
+      "voice": "zh",
+      "text": "双方同意通过调解解决纠纷。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "misplace",
+      "voice": "en",
+      "text": "misplace",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "misplace",
+      "voice": "en",
+      "text": "M, I, S, P, L, A, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "misplace",
+      "voice": "zh",
+      "text": "动词，放错地方，一时找不到",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "misplace",
+      "voice": "en",
+      "text": "I seem to have misplaced my security badge; could you let me in?",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "misplace",
+      "voice": "zh",
+      "text": "我好像把门禁卡放错地方了，你能帮我开下门吗？",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mitigate",
+      "voice": "en",
+      "text": "mitigate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mitigate",
+      "voice": "en",
+      "text": "M, I, T, I, G, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mitigate",
+      "voice": "zh",
+      "text": "动词，减轻，缓和（风险、影响）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mitigate",
+      "voice": "en",
+      "text": "The new backup system will help mitigate the risk of data loss.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mitigate",
+      "voice": "zh",
+      "text": "新的备份系统将有助于降低数据丢失的风险。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "moderate",
+      "voice": "en",
+      "text": "moderate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "moderate",
+      "voice": "en",
+      "text": "M, O, D, E, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "moderate",
+      "voice": "zh",
+      "text": "形容词或动词，适度的，中等的，主持（讨论）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "moderate",
+      "voice": "en",
+      "text": "Dr. Chen will moderate the panel discussion on supply chain trends.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "moderate",
+      "voice": "zh",
+      "text": "陈博士将主持关于供应链趋势的小组讨论。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "momentum",
+      "voice": "en",
+      "text": "momentum",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "momentum",
+      "voice": "en",
+      "text": "M, O, M, E, N, T, U, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "momentum",
+      "voice": "zh",
+      "text": "名词，势头，动力",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "momentum",
+      "voice": "en",
+      "text": "The campaign gained momentum after it was featured on social media.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "momentum",
+      "voice": "zh",
+      "text": "该推广活动在社交媒体上被推荐后势头大增。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "monetary",
+      "voice": "en",
+      "text": "monetary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "monetary",
+      "voice": "en",
+      "text": "M, O, N, E, T, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "monetary",
+      "voice": "zh",
+      "text": "形容词，货币的，金钱的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "monetary",
+      "voice": "en",
+      "text": "Employees who submit useful suggestions receive a small monetary reward.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "monetary",
+      "voice": "zh",
+      "text": "提出有用建议的员工可获得一小笔奖金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "municipal",
+      "voice": "en",
+      "text": "municipal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "municipal",
+      "voice": "en",
+      "text": "M, U, N, I, C, I, P, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "municipal",
+      "voice": "zh",
+      "text": "形容词，市政的，市立的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "municipal",
+      "voice": "en",
+      "text": "The renovation requires approval from the municipal building department.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "municipal",
+      "voice": "zh",
+      "text": "此次翻修须获得市政建筑部门的批准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mutual",
+      "voice": "en",
+      "text": "mutual",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mutual",
+      "voice": "en",
+      "text": "M, U, T, U, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mutual",
+      "voice": "zh",
+      "text": "形容词，相互的，共同的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mutual",
+      "voice": "en",
+      "text": "The contract can be extended by mutual agreement of both parties.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mutual",
+      "voice": "zh",
+      "text": "经双方同意，合同可以延期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "negligence",
+      "voice": "en",
+      "text": "negligence",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "negligence",
+      "voice": "en",
+      "text": "N, E, G, L, I, G, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "negligence",
+      "voice": "zh",
+      "text": "名词，疏忽，过失",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "negligence",
+      "voice": "en",
+      "text": "The supplier was held responsible for the damage caused by its negligence.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "negligence",
+      "voice": "zh",
+      "text": "供应商须为其疏忽造成的损失承担责任。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "niche",
+      "voice": "en",
+      "text": "niche",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "niche",
+      "voice": "en",
+      "text": "N, I, C, H, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "niche",
+      "voice": "zh",
+      "text": "名词或形容词，细分市场，适合的位置，小众的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "niche",
+      "voice": "en",
+      "text": "The startup has found a profitable niche in eco-friendly packaging.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "niche",
+      "voice": "zh",
+      "text": "这家初创公司在环保包装领域找到了盈利的细分市场。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "nominal",
+      "voice": "en",
+      "text": "nominal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "nominal",
+      "voice": "en",
+      "text": "N, O, M, I, N, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "nominal",
+      "voice": "zh",
+      "text": "形容词，（费用）象征性的，名义上的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "nominal",
+      "voice": "en",
+      "text": "Members can rent the meeting room for a nominal fee.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "nominal",
+      "voice": "zh",
+      "text": "会员只需支付少量费用即可租用会议室。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "onboarding",
+      "voice": "en",
+      "text": "onboarding",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "onboarding",
+      "voice": "en",
+      "text": "O, N, B, O, A, R, D, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "onboarding",
+      "voice": "zh",
+      "text": "名词，新员工入职培训，入职流程",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "onboarding",
+      "voice": "en",
+      "text": "All new hires will attend a two-day onboarding session next week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "onboarding",
+      "voice": "zh",
+      "text": "所有新员工下周将参加为期两天的入职培训。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "operational",
+      "voice": "en",
+      "text": "operational",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "operational",
+      "voice": "en",
+      "text": "O, P, E, R, A, T, I, O, N, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "operational",
+      "voice": "zh",
+      "text": "形容词，运营的，可使用的，投入运行的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "operational",
+      "voice": "en",
+      "text": "The new warehouse is expected to be fully operational by March.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "operational",
+      "voice": "zh",
+      "text": "新仓库预计将于 3 月全面投入运营。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "optimize",
+      "voice": "en",
+      "text": "optimize",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "optimize",
+      "voice": "en",
+      "text": "O, P, T, I, M, I, Z, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "optimize",
+      "voice": "zh",
+      "text": "动词，优化，使最优化",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "optimize",
+      "voice": "en",
+      "text": "We redesigned the checkout page to optimize it for mobile users.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "optimize",
+      "voice": "zh",
+      "text": "我们重新设计了结账页面，以优化移动端用户体验。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "outage",
+      "voice": "en",
+      "text": "outage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "outage",
+      "voice": "en",
+      "text": "O, U, T, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "outage",
+      "voice": "zh",
+      "text": "名词，停电，（服务）中断",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "outage",
+      "voice": "en",
+      "text": "A brief power outage interrupted production this morning.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "outage",
+      "voice": "zh",
+      "text": "今天上午的短暂停电打断了生产。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "outset",
+      "voice": "en",
+      "text": "outset",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "outset",
+      "voice": "en",
+      "text": "O, U, T, S, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "outset",
+      "voice": "zh",
+      "text": "名词，开始，开端",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "outset",
+      "voice": "en",
+      "text": "It was clear from the outset that the project would need more staff.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "outset",
+      "voice": "zh",
+      "text": "从一开始就很明显，该项目需要更多人手。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "overhaul",
+      "voice": "en",
+      "text": "overhaul",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "overhaul",
+      "voice": "en",
+      "text": "O, V, E, R, H, A, U, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "overhaul",
+      "voice": "zh",
+      "text": "动词或名词，全面检修，彻底改革",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "overhaul",
+      "voice": "en",
+      "text": "Management plans to overhaul the company's travel reimbursement policy.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "overhaul",
+      "voice": "zh",
+      "text": "管理层计划全面修订公司的差旅报销制度。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "oversight",
+      "voice": "en",
+      "text": "oversight",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "oversight",
+      "voice": "en",
+      "text": "O, V, E, R, S, I, G, H, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "oversight",
+      "voice": "zh",
+      "text": "名词，疏忽，监督",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "oversight",
+      "voice": "en",
+      "text": "Due to an oversight, your invoice was sent to the wrong address.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "oversight",
+      "voice": "zh",
+      "text": "由于疏忽，您的发票被寄到了错误的地址。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "paperwork",
+      "voice": "en",
+      "text": "paperwork",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "paperwork",
+      "voice": "en",
+      "text": "P, A, P, E, R, W, O, R, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "paperwork",
+      "voice": "zh",
+      "text": "名词，文书工作，书面材料",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "paperwork",
+      "voice": "en",
+      "text": "Please complete the paperwork before your first day of work.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "paperwork",
+      "voice": "zh",
+      "text": "请在入职第一天之前填好相关文件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "photocopy",
+      "voice": "en",
+      "text": "photocopy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "photocopy",
+      "voice": "en",
+      "text": "P, H, O, T, O, C, O, P, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "photocopy",
+      "voice": "zh",
+      "text": "名词或动词，复印件，复印",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "photocopy",
+      "voice": "en",
+      "text": "Please bring a photocopy of your passport to the registration desk.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "photocopy",
+      "voice": "zh",
+      "text": "请将护照复印件带到登记台。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "pilot",
+      "voice": "en",
+      "text": "pilot",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "pilot",
+      "voice": "en",
+      "text": "P, I, L, O, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "pilot",
+      "voice": "zh",
+      "text": "名词或动词或形容词，飞行员，试点，试行",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "pilot",
+      "voice": "en",
+      "text": "The company will pilot a flexible-work policy in two regional offices.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "pilot",
+      "voice": "zh",
+      "text": "公司将在两个区域办事处试行弹性工作政策。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "placement",
+      "voice": "en",
+      "text": "placement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "placement",
+      "voice": "en",
+      "text": "P, L, A, C, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "placement",
+      "voice": "zh",
+      "text": "名词，安置，岗位安排，分班/分位",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "placement",
+      "voice": "en",
+      "text": "The career center offers job placement assistance to recent graduates.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "placement",
+      "voice": "zh",
+      "text": "就业中心为应届毕业生提供就业安置协助。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "plummet",
+      "voice": "en",
+      "text": "plummet",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "plummet",
+      "voice": "en",
+      "text": "P, L, U, M, M, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "plummet",
+      "voice": "zh",
+      "text": "动词，骤降，暴跌",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "plummet",
+      "voice": "en",
+      "text": "Share prices plummeted after the firm announced weaker quarterly earnings.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "plummet",
+      "voice": "zh",
+      "text": "公司公布季度业绩疲软后，股价暴跌。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "prerequisite",
+      "voice": "en",
+      "text": "prerequisite",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "prerequisite",
+      "voice": "en",
+      "text": "P, R, E, R, E, Q, U, I, S, I, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "prerequisite",
+      "voice": "zh",
+      "text": "名词或形容词，先决条件，必修的，作为前提的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "prerequisite",
+      "voice": "en",
+      "text": "Two years of sales experience is a prerequisite for this managerial role.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "prerequisite",
+      "voice": "zh",
+      "text": "两年销售经验是担任该管理职位的先决条件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "prospectus",
+      "voice": "en",
+      "text": "prospectus",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "prospectus",
+      "voice": "en",
+      "text": "P, R, O, S, P, E, C, T, U, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "prospectus",
+      "voice": "zh",
+      "text": "名词，招股说明书，简介手册，招生简章",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "prospectus",
+      "voice": "en",
+      "text": "Investors should carefully review the prospectus before buying the shares.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "prospectus",
+      "voice": "zh",
+      "text": "投资者在购买股份前应仔细阅读招股说明书。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "protocol",
+      "voice": "en",
+      "text": "protocol",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "protocol",
+      "voice": "en",
+      "text": "P, R, O, T, O, C, O, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "protocol",
+      "voice": "zh",
+      "text": "名词，协议，规程，外交礼仪",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "protocol",
+      "voice": "en",
+      "text": "All visitors must follow the building's security protocol.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "protocol",
+      "voice": "zh",
+      "text": "所有访客必须遵守大楼的安保规程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "proximity",
+      "voice": "en",
+      "text": "proximity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "proximity",
+      "voice": "en",
+      "text": "P, R, O, X, I, M, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "proximity",
+      "voice": "zh",
+      "text": "名词，接近，邻近",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "proximity",
+      "voice": "en",
+      "text": "The hotel's proximity to the convention center is a major advantage.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "proximity",
+      "voice": "zh",
+      "text": "酒店紧邻会议中心是其一大优势。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "publicity",
+      "voice": "en",
+      "text": "publicity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "publicity",
+      "voice": "en",
+      "text": "P, U, B, L, I, C, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "publicity",
+      "voice": "zh",
+      "text": "名词，宣传，知名度，媒体关注",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "publicity",
+      "voice": "en",
+      "text": "The product launch received extensive publicity in the business press.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "publicity",
+      "voice": "zh",
+      "text": "该产品发布在商业媒体上获得了广泛宣传。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "qualification",
+      "voice": "en",
+      "text": "qualification",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "qualification",
+      "voice": "en",
+      "text": "Q, U, A, L, I, F, I, C, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "qualification",
+      "voice": "zh",
+      "text": "名词，资格，资历，学历条件",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "qualification",
+      "voice": "en",
+      "text": "Applicants must list their relevant qualifications on the form.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "qualification",
+      "voice": "zh",
+      "text": "申请人必须在表格上列出相关资格。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第33轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

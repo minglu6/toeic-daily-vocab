@@ -1,0 +1,1314 @@
+{
+  "id": "026",
+  "track": 26,
+  "title": "第 26 轨",
+  "word_count": 30,
+  "headwords": [
+    "apology",
+    "apparent",
+    "appeal",
+    "applicable",
+    "apply",
+    "appointment",
+    "approximate",
+    "arbitrary",
+    "archive",
+    "argue",
+    "arise",
+    "article",
+    "aspect",
+    "assert",
+    "asset",
+    "assortment",
+    "attempt",
+    "attitude",
+    "attract",
+    "audience",
+    "authentic",
+    "automation",
+    "autonomous",
+    "availability",
+    "avert",
+    "await",
+    "backing",
+    "baggage",
+    "banquet",
+    "barcode"
+  ],
+  "entries": [
+    {
+      "word": "apology",
+      "spelling": "A, P, O, L, O, G, Y",
+      "spoken_meaning": "名词，道歉，致歉，辩解",
+      "en": "We sent a formal apology to the client for the delayed shipment.",
+      "zh": "我们因货运延误向客户发出正式致歉。"
+    },
+    {
+      "word": "apparent",
+      "spelling": "A, P, P, A, R, E, N, T",
+      "spoken_meaning": "形容词，明显的，表面上的，显而易见的",
+      "en": "It soon became apparent that the proposal needed major revisions.",
+      "zh": "很快就很明显，该提案需要大幅修改。"
+    },
+    {
+      "word": "appeal",
+      "spelling": "A, P, P, E, A, L",
+      "spoken_meaning": "名词或动词，上诉，吸引力，呼吁",
+      "en": "The redesigned packaging has greater appeal to younger buyers.",
+      "zh": "重新设计的包装对年轻买家更有吸引力。"
+    },
+    {
+      "word": "applicable",
+      "spelling": "A, P, P, L, I, C, A, B, L, E",
+      "spoken_meaning": "形容词，适用的，可应用的",
+      "en": "Please complete all sections of the form where applicable.",
+      "zh": "请填写表格中所有适用的部分。"
+    },
+    {
+      "word": "apply",
+      "spelling": "A, P, P, L, Y",
+      "spoken_meaning": "动词，申请，应用，适用",
+      "en": "Candidates must apply for the internship online by Friday.",
+      "zh": "申请者须在周五前在线申请该实习职位。"
+    },
+    {
+      "word": "appointment",
+      "spelling": "A, P, P, O, I, N, T, M, E, N, T",
+      "spoken_meaning": "名词，预约，约会，任命",
+      "en": "Please call the receptionist to schedule an appointment with the consultant.",
+      "zh": "请致电前台预约与顾问会面。"
+    },
+    {
+      "word": "approximate",
+      "spelling": "A, P, P, R, O, X, I, M, A, T, E",
+      "spoken_meaning": "形容词或动词，大约的，近似的，接近",
+      "en": "The approximate cost of renovating the lobby is $50,000.",
+      "zh": "翻新大堂的大约费用为五万美元。"
+    },
+    {
+      "word": "arbitrary",
+      "spelling": "A, R, B, I, T, R, A, R, Y",
+      "spoken_meaning": "形容词，任意的，武断的，专断的",
+      "en": "Staff complained that the new dress code seemed arbitrary and unclear.",
+      "zh": "员工抱怨新的着装规定显得武断且不清晰。"
+    },
+    {
+      "word": "archive",
+      "spelling": "A, R, C, H, I, V, E",
+      "spoken_meaning": "名词或动词，档案，归档，存档",
+      "en": "Please archive last year's invoices after the audit is complete.",
+      "zh": "审计完成后请将去年的发票归档。"
+    },
+    {
+      "word": "argue",
+      "spelling": "A, R, G, U, E",
+      "spoken_meaning": "动词，争论，主张，论证",
+      "en": "Several board members argued against cutting the training budget.",
+      "zh": "几位董事主张反对削减培训预算。"
+    },
+    {
+      "word": "arise",
+      "spelling": "A, R, I, S, E",
+      "spoken_meaning": "动词，出现，产生，起身",
+      "en": "Please contact HR if any concerns arise during the probation period.",
+      "zh": "试用期内如有任何疑虑，请联系人力资源部。"
+    },
+    {
+      "word": "article",
+      "spelling": "A, R, T, I, C, L, E",
+      "spoken_meaning": "名词，文章，条款，物品",
+      "en": "Please review Article 5 of the contract before signing.",
+      "zh": "签署前请审阅合同第五条。"
+    },
+    {
+      "word": "aspect",
+      "spelling": "A, S, P, E, C, T",
+      "spoken_meaning": "名词，方面，层面，外观",
+      "en": "We need to consider every aspect of the merger before proceeding.",
+      "zh": "在推进之前，我们需要考虑并购的各个方面。"
+    },
+    {
+      "word": "assert",
+      "spelling": "A, S, S, E, R, T",
+      "spoken_meaning": "动词，断言，主张，维护（权利）",
+      "en": "The supplier asserted that the goods met all quality standards.",
+      "zh": "供应商断言货物符合所有质量标准。"
+    },
+    {
+      "word": "asset",
+      "spelling": "A, S, S, E, T",
+      "spoken_meaning": "名词，资产，有价值的人/物，优点",
+      "en": "Experienced staff are the company's most valuable asset.",
+      "zh": "有经验的员工是公司最宝贵的资产。"
+    },
+    {
+      "word": "assortment",
+      "spelling": "A, S, S, O, R, T, M, E, N, T",
+      "spoken_meaning": "名词，各式各样，分类，组合套装",
+      "en": "The gift shop sells an assortment of souvenirs and office supplies.",
+      "zh": "礼品店出售各种纪念品和办公用品。"
+    },
+    {
+      "word": "attempt",
+      "spelling": "A, T, T, E, M, P, T",
+      "spoken_meaning": "名词或动词，尝试，企图，努力",
+      "en": "The team will attempt to finish the prototype before the deadline.",
+      "zh": "团队将尝试在截止日期前完成原型。"
+    },
+    {
+      "word": "attitude",
+      "spelling": "A, T, T, I, T, U, D, E",
+      "spoken_meaning": "名词，态度，看法，姿势",
+      "en": "A positive attitude toward feedback helps employees grow faster.",
+      "zh": "对反馈持积极态度有助于员工更快成长。"
+    },
+    {
+      "word": "attract",
+      "spelling": "A, T, T, R, A, C, T",
+      "spoken_meaning": "动词，吸引，引起（注意、兴趣）",
+      "en": "The new campaign is designed to attract younger customers.",
+      "zh": "新营销活动旨在吸引更年轻的客户。"
+    },
+    {
+      "word": "audience",
+      "spelling": "A, U, D, I, E, N, C, E",
+      "spoken_meaning": "名词，观众，听众，受众",
+      "en": "The presentation was tailored to a business audience.",
+      "zh": "该演示是针对商务受众定制的。"
+    },
+    {
+      "word": "authentic",
+      "spelling": "A, U, T, H, E, N, T, I, C",
+      "spoken_meaning": "形容词，真实的，正宗的，可靠的",
+      "en": "Customers prefer authentic leather goods over synthetic alternatives.",
+      "zh": "顾客更偏好正宗皮革制品，而非合成替代品。"
+    },
+    {
+      "word": "automation",
+      "spelling": "A, U, T, O, M, A, T, I, O, N",
+      "spoken_meaning": "名词，自动化，自动操作",
+      "en": "The warehouse introduced automation to speed up order fulfillment.",
+      "zh": "仓库引入自动化以加快订单履约速度。"
+    },
+    {
+      "word": "autonomous",
+      "spelling": "A, U, T, O, N, O, M, O, U, S",
+      "spoken_meaning": "形容词，自主的，自治的，独立运作的",
+      "en": "Each regional office remains largely autonomous in hiring decisions.",
+      "zh": "各区域办事处在招聘决策上大体保持自主。"
+    },
+    {
+      "word": "availability",
+      "spelling": "A, V, A, I, L, A, B, I, L, I, T, Y",
+      "spoken_meaning": "名词，可用性，有空，供应情况",
+      "en": "Please confirm room availability before booking the conference venue.",
+      "zh": "预订会议场地前请先确认房间是否有空。"
+    },
+    {
+      "word": "avert",
+      "spelling": "A, V, E, R, T",
+      "spoken_meaning": "动词，避免，防止，转移（目光等）",
+      "en": "Quick negotiations helped avert a costly supply disruption.",
+      "zh": "迅速谈判帮助避免了代价高昂的供应中断。"
+    },
+    {
+      "word": "await",
+      "spelling": "A, W, A, I, T",
+      "spoken_meaning": "动词，等候，期待，即将发生",
+      "en": "We await your confirmation before shipping the order.",
+      "zh": "在发货前，我们等候您的确认。"
+    },
+    {
+      "word": "backing",
+      "spelling": "B, A, C, K, I, N, G",
+      "spoken_meaning": "名词，支持，资助，后盾",
+      "en": "The startup secured backing from two venture capital firms.",
+      "zh": "这家初创公司获得了两家风投公司的资金支持。"
+    },
+    {
+      "word": "baggage",
+      "spelling": "B, A, G, G, A, G, E",
+      "spoken_meaning": "名词，行李，（比喻）包袱",
+      "en": "Please collect your baggage at carousel number three.",
+      "zh": "请到三号行李转盘提取行李。"
+    },
+    {
+      "word": "banquet",
+      "spelling": "B, A, N, Q, U, E, T",
+      "spoken_meaning": "名词，宴会，盛宴",
+      "en": "The annual awards banquet will be held at the Grand Hotel.",
+      "zh": "年度颁奖宴会将在大酒店举行。"
+    },
+    {
+      "word": "barcode",
+      "spelling": "B, A, R, C, O, D, E",
+      "spoken_meaning": "名词，条形码",
+      "en": "Each package is labeled with a unique barcode for tracking.",
+      "zh": "每个包裹都贴有唯一条形码以便追踪。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第26轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "apology",
+      "voice": "en",
+      "text": "apology",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "apology",
+      "voice": "en",
+      "text": "A, P, O, L, O, G, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "apology",
+      "voice": "zh",
+      "text": "名词，道歉，致歉，辩解",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "apology",
+      "voice": "en",
+      "text": "We sent a formal apology to the client for the delayed shipment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "apology",
+      "voice": "zh",
+      "text": "我们因货运延误向客户发出正式致歉。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "apparent",
+      "voice": "en",
+      "text": "apparent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "apparent",
+      "voice": "en",
+      "text": "A, P, P, A, R, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "apparent",
+      "voice": "zh",
+      "text": "形容词，明显的，表面上的，显而易见的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "apparent",
+      "voice": "en",
+      "text": "It soon became apparent that the proposal needed major revisions.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "apparent",
+      "voice": "zh",
+      "text": "很快就很明显，该提案需要大幅修改。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "appeal",
+      "voice": "en",
+      "text": "appeal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "appeal",
+      "voice": "en",
+      "text": "A, P, P, E, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "appeal",
+      "voice": "zh",
+      "text": "名词或动词，上诉，吸引力，呼吁",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "appeal",
+      "voice": "en",
+      "text": "The redesigned packaging has greater appeal to younger buyers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "appeal",
+      "voice": "zh",
+      "text": "重新设计的包装对年轻买家更有吸引力。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "applicable",
+      "voice": "en",
+      "text": "applicable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "applicable",
+      "voice": "en",
+      "text": "A, P, P, L, I, C, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "applicable",
+      "voice": "zh",
+      "text": "形容词，适用的，可应用的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "applicable",
+      "voice": "en",
+      "text": "Please complete all sections of the form where applicable.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "applicable",
+      "voice": "zh",
+      "text": "请填写表格中所有适用的部分。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "apply",
+      "voice": "en",
+      "text": "apply",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "apply",
+      "voice": "en",
+      "text": "A, P, P, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "apply",
+      "voice": "zh",
+      "text": "动词，申请，应用，适用",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "apply",
+      "voice": "en",
+      "text": "Candidates must apply for the internship online by Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "apply",
+      "voice": "zh",
+      "text": "申请者须在周五前在线申请该实习职位。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "appointment",
+      "voice": "en",
+      "text": "appointment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "appointment",
+      "voice": "en",
+      "text": "A, P, P, O, I, N, T, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "appointment",
+      "voice": "zh",
+      "text": "名词，预约，约会，任命",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "appointment",
+      "voice": "en",
+      "text": "Please call the receptionist to schedule an appointment with the consultant.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "appointment",
+      "voice": "zh",
+      "text": "请致电前台预约与顾问会面。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "approximate",
+      "voice": "en",
+      "text": "approximate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "approximate",
+      "voice": "en",
+      "text": "A, P, P, R, O, X, I, M, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "approximate",
+      "voice": "zh",
+      "text": "形容词或动词，大约的，近似的，接近",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "approximate",
+      "voice": "en",
+      "text": "The approximate cost of renovating the lobby is $50,000.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "approximate",
+      "voice": "zh",
+      "text": "翻新大堂的大约费用为五万美元。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "arbitrary",
+      "voice": "en",
+      "text": "arbitrary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "arbitrary",
+      "voice": "en",
+      "text": "A, R, B, I, T, R, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "arbitrary",
+      "voice": "zh",
+      "text": "形容词，任意的，武断的，专断的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "arbitrary",
+      "voice": "en",
+      "text": "Staff complained that the new dress code seemed arbitrary and unclear.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "arbitrary",
+      "voice": "zh",
+      "text": "员工抱怨新的着装规定显得武断且不清晰。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "archive",
+      "voice": "en",
+      "text": "archive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "archive",
+      "voice": "en",
+      "text": "A, R, C, H, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "archive",
+      "voice": "zh",
+      "text": "名词或动词，档案，归档，存档",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "archive",
+      "voice": "en",
+      "text": "Please archive last year's invoices after the audit is complete.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "archive",
+      "voice": "zh",
+      "text": "审计完成后请将去年的发票归档。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "argue",
+      "voice": "en",
+      "text": "argue",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "argue",
+      "voice": "en",
+      "text": "A, R, G, U, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "argue",
+      "voice": "zh",
+      "text": "动词，争论，主张，论证",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "argue",
+      "voice": "en",
+      "text": "Several board members argued against cutting the training budget.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "argue",
+      "voice": "zh",
+      "text": "几位董事主张反对削减培训预算。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "arise",
+      "voice": "en",
+      "text": "arise",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "arise",
+      "voice": "en",
+      "text": "A, R, I, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "arise",
+      "voice": "zh",
+      "text": "动词，出现，产生，起身",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "arise",
+      "voice": "en",
+      "text": "Please contact HR if any concerns arise during the probation period.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "arise",
+      "voice": "zh",
+      "text": "试用期内如有任何疑虑，请联系人力资源部。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "article",
+      "voice": "en",
+      "text": "article",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "article",
+      "voice": "en",
+      "text": "A, R, T, I, C, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "article",
+      "voice": "zh",
+      "text": "名词，文章，条款，物品",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "article",
+      "voice": "en",
+      "text": "Please review Article 5 of the contract before signing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "article",
+      "voice": "zh",
+      "text": "签署前请审阅合同第五条。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "aspect",
+      "voice": "en",
+      "text": "aspect",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "aspect",
+      "voice": "en",
+      "text": "A, S, P, E, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "aspect",
+      "voice": "zh",
+      "text": "名词，方面，层面，外观",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "aspect",
+      "voice": "en",
+      "text": "We need to consider every aspect of the merger before proceeding.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "aspect",
+      "voice": "zh",
+      "text": "在推进之前，我们需要考虑并购的各个方面。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "assert",
+      "voice": "en",
+      "text": "assert",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "assert",
+      "voice": "en",
+      "text": "A, S, S, E, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "assert",
+      "voice": "zh",
+      "text": "动词，断言，主张，维护（权利）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "assert",
+      "voice": "en",
+      "text": "The supplier asserted that the goods met all quality standards.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "assert",
+      "voice": "zh",
+      "text": "供应商断言货物符合所有质量标准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "asset",
+      "voice": "en",
+      "text": "asset",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "asset",
+      "voice": "en",
+      "text": "A, S, S, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "asset",
+      "voice": "zh",
+      "text": "名词，资产，有价值的人/物，优点",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "asset",
+      "voice": "en",
+      "text": "Experienced staff are the company's most valuable asset.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "asset",
+      "voice": "zh",
+      "text": "有经验的员工是公司最宝贵的资产。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "assortment",
+      "voice": "en",
+      "text": "assortment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "assortment",
+      "voice": "en",
+      "text": "A, S, S, O, R, T, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "assortment",
+      "voice": "zh",
+      "text": "名词，各式各样，分类，组合套装",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "assortment",
+      "voice": "en",
+      "text": "The gift shop sells an assortment of souvenirs and office supplies.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "assortment",
+      "voice": "zh",
+      "text": "礼品店出售各种纪念品和办公用品。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "attempt",
+      "voice": "en",
+      "text": "attempt",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "attempt",
+      "voice": "en",
+      "text": "A, T, T, E, M, P, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "attempt",
+      "voice": "zh",
+      "text": "名词或动词，尝试，企图，努力",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "attempt",
+      "voice": "en",
+      "text": "The team will attempt to finish the prototype before the deadline.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "attempt",
+      "voice": "zh",
+      "text": "团队将尝试在截止日期前完成原型。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "attitude",
+      "voice": "en",
+      "text": "attitude",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "attitude",
+      "voice": "en",
+      "text": "A, T, T, I, T, U, D, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "attitude",
+      "voice": "zh",
+      "text": "名词，态度，看法，姿势",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "attitude",
+      "voice": "en",
+      "text": "A positive attitude toward feedback helps employees grow faster.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "attitude",
+      "voice": "zh",
+      "text": "对反馈持积极态度有助于员工更快成长。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "attract",
+      "voice": "en",
+      "text": "attract",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "attract",
+      "voice": "en",
+      "text": "A, T, T, R, A, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "attract",
+      "voice": "zh",
+      "text": "动词，吸引，引起（注意、兴趣）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "attract",
+      "voice": "en",
+      "text": "The new campaign is designed to attract younger customers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "attract",
+      "voice": "zh",
+      "text": "新营销活动旨在吸引更年轻的客户。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "audience",
+      "voice": "en",
+      "text": "audience",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "audience",
+      "voice": "en",
+      "text": "A, U, D, I, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "audience",
+      "voice": "zh",
+      "text": "名词，观众，听众，受众",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "audience",
+      "voice": "en",
+      "text": "The presentation was tailored to a business audience.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "audience",
+      "voice": "zh",
+      "text": "该演示是针对商务受众定制的。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "authentic",
+      "voice": "en",
+      "text": "authentic",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "authentic",
+      "voice": "en",
+      "text": "A, U, T, H, E, N, T, I, C",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "authentic",
+      "voice": "zh",
+      "text": "形容词，真实的，正宗的，可靠的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "authentic",
+      "voice": "en",
+      "text": "Customers prefer authentic leather goods over synthetic alternatives.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "authentic",
+      "voice": "zh",
+      "text": "顾客更偏好正宗皮革制品，而非合成替代品。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "automation",
+      "voice": "en",
+      "text": "automation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "automation",
+      "voice": "en",
+      "text": "A, U, T, O, M, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "automation",
+      "voice": "zh",
+      "text": "名词，自动化，自动操作",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "automation",
+      "voice": "en",
+      "text": "The warehouse introduced automation to speed up order fulfillment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "automation",
+      "voice": "zh",
+      "text": "仓库引入自动化以加快订单履约速度。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "autonomous",
+      "voice": "en",
+      "text": "autonomous",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "autonomous",
+      "voice": "en",
+      "text": "A, U, T, O, N, O, M, O, U, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "autonomous",
+      "voice": "zh",
+      "text": "形容词，自主的，自治的，独立运作的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "autonomous",
+      "voice": "en",
+      "text": "Each regional office remains largely autonomous in hiring decisions.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "autonomous",
+      "voice": "zh",
+      "text": "各区域办事处在招聘决策上大体保持自主。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "availability",
+      "voice": "en",
+      "text": "availability",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "availability",
+      "voice": "en",
+      "text": "A, V, A, I, L, A, B, I, L, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "availability",
+      "voice": "zh",
+      "text": "名词，可用性，有空，供应情况",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "availability",
+      "voice": "en",
+      "text": "Please confirm room availability before booking the conference venue.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "availability",
+      "voice": "zh",
+      "text": "预订会议场地前请先确认房间是否有空。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "avert",
+      "voice": "en",
+      "text": "avert",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "avert",
+      "voice": "en",
+      "text": "A, V, E, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "avert",
+      "voice": "zh",
+      "text": "动词，避免，防止，转移（目光等）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "avert",
+      "voice": "en",
+      "text": "Quick negotiations helped avert a costly supply disruption.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "avert",
+      "voice": "zh",
+      "text": "迅速谈判帮助避免了代价高昂的供应中断。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "await",
+      "voice": "en",
+      "text": "await",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "await",
+      "voice": "en",
+      "text": "A, W, A, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "await",
+      "voice": "zh",
+      "text": "动词，等候，期待，即将发生",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "await",
+      "voice": "en",
+      "text": "We await your confirmation before shipping the order.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "await",
+      "voice": "zh",
+      "text": "在发货前，我们等候您的确认。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "backing",
+      "voice": "en",
+      "text": "backing",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "backing",
+      "voice": "en",
+      "text": "B, A, C, K, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "backing",
+      "voice": "zh",
+      "text": "名词，支持，资助，后盾",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "backing",
+      "voice": "en",
+      "text": "The startup secured backing from two venture capital firms.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "backing",
+      "voice": "zh",
+      "text": "这家初创公司获得了两家风投公司的资金支持。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "baggage",
+      "voice": "en",
+      "text": "baggage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "baggage",
+      "voice": "en",
+      "text": "B, A, G, G, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "baggage",
+      "voice": "zh",
+      "text": "名词，行李，（比喻）包袱",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "baggage",
+      "voice": "en",
+      "text": "Please collect your baggage at carousel number three.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "baggage",
+      "voice": "zh",
+      "text": "请到三号行李转盘提取行李。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "banquet",
+      "voice": "en",
+      "text": "banquet",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "banquet",
+      "voice": "en",
+      "text": "B, A, N, Q, U, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "banquet",
+      "voice": "zh",
+      "text": "名词，宴会，盛宴",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "banquet",
+      "voice": "en",
+      "text": "The annual awards banquet will be held at the Grand Hotel.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "banquet",
+      "voice": "zh",
+      "text": "年度颁奖宴会将在大酒店举行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "barcode",
+      "voice": "en",
+      "text": "barcode",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "barcode",
+      "voice": "en",
+      "text": "B, A, R, C, O, D, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "barcode",
+      "voice": "zh",
+      "text": "名词，条形码",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "barcode",
+      "voice": "en",
+      "text": "Each package is labeled with a unique barcode for tracking.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "barcode",
+      "voice": "zh",
+      "text": "每个包裹都贴有唯一条形码以便追踪。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第26轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

@@ -1,0 +1,1314 @@
+{
+  "id": "014",
+  "track": 14,
+  "title": "第 14 轨",
+  "word_count": 30,
+  "headwords": [
+    "upgrade",
+    "urgent",
+    "utilize",
+    "vacant",
+    "valid",
+    "validate",
+    "valuable",
+    "valuation",
+    "variation",
+    "variety",
+    "vary",
+    "vehicle",
+    "vendor",
+    "verify",
+    "versatile",
+    "version",
+    "versus",
+    "viable",
+    "violate",
+    "volunteer",
+    "wage",
+    "warehouse",
+    "withdraw",
+    "workforce",
+    "workshop",
+    "worthwhile",
+    "yield",
+    "withhold",
+    "wire",
+    "widespread"
+  ],
+  "entries": [
+    {
+      "word": "upgrade",
+      "spelling": "U, P, G, R, A, D, E",
+      "spoken_meaning": "动词或名词，升级，提升，改进",
+      "en": "We plan to upgrade the reservation system next quarter.",
+      "zh": "我们计划下个季度升级预订系统。"
+    },
+    {
+      "word": "urgent",
+      "spelling": "U, R, G, E, N, T",
+      "spoken_meaning": "形容词，紧急的，急迫的",
+      "en": "This is an urgent matter that requires your immediate attention.",
+      "zh": "这是需要您立即关注的紧急事项。"
+    },
+    {
+      "word": "utilize",
+      "spelling": "U, T, I, L, I, Z, E",
+      "spoken_meaning": "动词，利用，使用",
+      "en": "The warehouse will utilize available space for seasonal inventory.",
+      "zh": "仓库将利用可用空间存放季节性库存。"
+    },
+    {
+      "word": "vacant",
+      "spelling": "V, A, C, A, N, T",
+      "spoken_meaning": "形容词，空的，空缺的，无人占用的",
+      "en": "HR is advertising a vacant position in the accounting department.",
+      "zh": "人事部正在招聘会计部门的一个空缺职位。"
+    },
+    {
+      "word": "valid",
+      "spelling": "V, A, L, I, D",
+      "spoken_meaning": "形容词，有效的，合理的，正当的",
+      "en": "Please ensure your passport is valid for at least six months.",
+      "zh": "请确保您的护照有效期至少还有六个月。"
+    },
+    {
+      "word": "validate",
+      "spelling": "V, A, L, I, D, A, T, E",
+      "spoken_meaning": "动词，验证，确认有效，证实",
+      "en": "Please validate the customer data before generating invoices.",
+      "zh": "生成发票前请先验证客户数据。"
+    },
+    {
+      "word": "valuable",
+      "spelling": "V, A, L, U, A, B, L, E",
+      "spoken_meaning": "形容词，有价值的，宝贵的，贵重的",
+      "en": "Customer surveys provide valuable feedback for product design.",
+      "zh": "客户调查为产品设计提供宝贵反馈。"
+    },
+    {
+      "word": "valuation",
+      "spelling": "V, A, L, U, A, T, I, O, N",
+      "spoken_meaning": "名词，估价，估值，评估",
+      "en": "The investor requested an independent valuation of the startup.",
+      "zh": "投资者要求对这家初创公司进行独立估值。"
+    },
+    {
+      "word": "variation",
+      "spelling": "V, A, R, I, A, T, I, O, N",
+      "spoken_meaning": "名词，变化，变异，差异",
+      "en": "There is little variation in shipping rates this quarter.",
+      "zh": "本季度运费几乎没有什么变化。"
+    },
+    {
+      "word": "variety",
+      "spelling": "V, A, R, I, E, T, Y",
+      "spoken_meaning": "名词，多样性，种类，品种",
+      "en": "The catalog offers a wide variety of office supplies.",
+      "zh": "产品目录提供种类繁多的办公用品。"
+    },
+    {
+      "word": "vary",
+      "spelling": "V, A, R, Y",
+      "spoken_meaning": "动词，变化，不同，使多样化",
+      "en": "Delivery times vary depending on the destination.",
+      "zh": "交货时间视目的地而定。"
+    },
+    {
+      "word": "vehicle",
+      "spelling": "V, E, H, I, C, L, E",
+      "spoken_meaning": "名词，车辆，交通工具，媒介",
+      "en": "All company vehicles must undergo annual safety inspections.",
+      "zh": "所有公司车辆必须接受年度安全检查。"
+    },
+    {
+      "word": "vendor",
+      "spelling": "V, E, N, D, O, R",
+      "spoken_meaning": "名词，供应商，卖主，摊贩",
+      "en": "We are evaluating three vendors for the catering service.",
+      "zh": "我们正在评估三家餐饮服务供应商。"
+    },
+    {
+      "word": "verify",
+      "spelling": "V, E, R, I, F, Y",
+      "spoken_meaning": "动词，核实，查证，确认",
+      "en": "Please verify the account details before processing the payment.",
+      "zh": "处理付款前请核实账户信息。"
+    },
+    {
+      "word": "versatile",
+      "spelling": "V, E, R, S, A, T, I, L, E",
+      "spoken_meaning": "形容词，多才多艺的，用途广泛的，灵活的",
+      "en": "We need a versatile designer who can handle print and digital work.",
+      "zh": "我们需要一位能兼顾印刷与数字设计的多面手设计师。"
+    },
+    {
+      "word": "version",
+      "spelling": "V, E, R, S, I, O, N",
+      "spoken_meaning": "名词，版本，说法，改编本",
+      "en": "Please download the latest version of the presentation slides.",
+      "zh": "请下载演示文稿的最新版本。"
+    },
+    {
+      "word": "versus",
+      "spelling": "V, E, R, S, U, S",
+      "spoken_meaning": "介词，对，与……相对，对比",
+      "en": "The memo compares remote work versus office-based schedules.",
+      "zh": "这份备忘录比较了远程办公与坐班制的安排。"
+    },
+    {
+      "word": "viable",
+      "spelling": "V, I, A, B, L, E",
+      "spoken_meaning": "形容词，可行的，能独立发展的",
+      "en": "Outsourcing logistics may be a more viable option this year.",
+      "zh": "今年把物流外包可能是更可行的选择。"
+    },
+    {
+      "word": "violate",
+      "spelling": "V, I, O, L, A, T, E",
+      "spoken_meaning": "动词，违反，侵犯，违背",
+      "en": "Employees who violate the code of conduct face disciplinary action.",
+      "zh": "违反行为准则的员工将面临纪律处分。"
+    },
+    {
+      "word": "volunteer",
+      "spelling": "V, O, L, U, N, T, E, E, R",
+      "spoken_meaning": "名词或动词，志愿者，自愿做，主动提出",
+      "en": "Several staff members volunteered to help at the charity fair.",
+      "zh": "几位员工自愿在慈善集市上帮忙。"
+    },
+    {
+      "word": "wage",
+      "spelling": "W, A, G, E",
+      "spoken_meaning": "名词或动词，工资，报酬，发动（战争/运动）",
+      "en": "The company announced a five percent wage increase for all staff.",
+      "zh": "公司宣布全体员工加薪百分之五。"
+    },
+    {
+      "word": "warehouse",
+      "spelling": "W, A, R, E, H, O, U, S, E",
+      "spoken_meaning": "名词或动词，仓库，货仓，把……存入仓库",
+      "en": "The new warehouse facility will cut delivery times by two days.",
+      "zh": "新仓储设施将使交货时间缩短两天。"
+    },
+    {
+      "word": "withdraw",
+      "spelling": "W, I, T, H, D, R, A, W",
+      "spoken_meaning": "动词，提取，撤回，退出",
+      "en": "Clients can withdraw cash from any branch without a fee.",
+      "zh": "客户可在任一分行免手续费取现。"
+    },
+    {
+      "word": "workforce",
+      "spelling": "W, O, R, K, F, O, R, C, E",
+      "spoken_meaning": "名词，劳动力，全体员工",
+      "en": "Investing in training helps retain a skilled workforce.",
+      "zh": "投资培训有助于留住熟练劳动力。"
+    },
+    {
+      "word": "workshop",
+      "spelling": "W, O, R, K, S, H, O, P",
+      "spoken_meaning": "名词，研讨会，工作坊，车间",
+      "en": "All new hires must attend a safety workshop next Monday.",
+      "zh": "所有新员工必须参加下周一的安全研讨会。"
+    },
+    {
+      "word": "worthwhile",
+      "spelling": "W, O, R, T, H, W, H, I, L, E",
+      "spoken_meaning": "形容词，值得的，有价值的",
+      "en": "The pilot program proved to be a worthwhile investment.",
+      "zh": "该试点项目被证明是一项值得的投资。"
+    },
+    {
+      "word": "yield",
+      "spelling": "Y, I, E, L, D",
+      "spoken_meaning": "动词或名词，产生，屈服，产量",
+      "en": "The revised marketing plan is expected to yield better results.",
+      "zh": "修订后的营销计划有望产生更好的结果。"
+    },
+    {
+      "word": "withhold",
+      "spelling": "W, I, T, H, H, O, L, D",
+      "spoken_meaning": "动词，扣留，拒绝给予，隐瞒",
+      "en": "The payroll office will withhold tax from each paycheck.",
+      "zh": "薪资部门将从每笔工资中代扣税款。"
+    },
+    {
+      "word": "wire",
+      "spelling": "W, I, R, E",
+      "spoken_meaning": "动词或名词，电汇，电线，拍电报",
+      "en": "Please wire the payment to our account by Friday.",
+      "zh": "请在周五前将款项电汇至我们的账户。"
+    },
+    {
+      "word": "widespread",
+      "spelling": "W, I, D, E, S, P, R, E, A, D",
+      "spoken_meaning": "形容词，广泛的，普遍的",
+      "en": "There is widespread support for the flexible work policy.",
+      "zh": "弹性工作政策获得了广泛支持。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第14轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "upgrade",
+      "voice": "en",
+      "text": "upgrade",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "upgrade",
+      "voice": "en",
+      "text": "U, P, G, R, A, D, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "upgrade",
+      "voice": "zh",
+      "text": "动词或名词，升级，提升，改进",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "upgrade",
+      "voice": "en",
+      "text": "We plan to upgrade the reservation system next quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "upgrade",
+      "voice": "zh",
+      "text": "我们计划下个季度升级预订系统。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "urgent",
+      "voice": "en",
+      "text": "urgent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "urgent",
+      "voice": "en",
+      "text": "U, R, G, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "urgent",
+      "voice": "zh",
+      "text": "形容词，紧急的，急迫的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "urgent",
+      "voice": "en",
+      "text": "This is an urgent matter that requires your immediate attention.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "urgent",
+      "voice": "zh",
+      "text": "这是需要您立即关注的紧急事项。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "utilize",
+      "voice": "en",
+      "text": "utilize",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "utilize",
+      "voice": "en",
+      "text": "U, T, I, L, I, Z, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "utilize",
+      "voice": "zh",
+      "text": "动词，利用，使用",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "utilize",
+      "voice": "en",
+      "text": "The warehouse will utilize available space for seasonal inventory.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "utilize",
+      "voice": "zh",
+      "text": "仓库将利用可用空间存放季节性库存。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "vacant",
+      "voice": "en",
+      "text": "vacant",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "vacant",
+      "voice": "en",
+      "text": "V, A, C, A, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "vacant",
+      "voice": "zh",
+      "text": "形容词，空的，空缺的，无人占用的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "vacant",
+      "voice": "en",
+      "text": "HR is advertising a vacant position in the accounting department.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "vacant",
+      "voice": "zh",
+      "text": "人事部正在招聘会计部门的一个空缺职位。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "valid",
+      "voice": "en",
+      "text": "valid",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "valid",
+      "voice": "en",
+      "text": "V, A, L, I, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "valid",
+      "voice": "zh",
+      "text": "形容词，有效的，合理的，正当的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "valid",
+      "voice": "en",
+      "text": "Please ensure your passport is valid for at least six months.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "valid",
+      "voice": "zh",
+      "text": "请确保您的护照有效期至少还有六个月。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "validate",
+      "voice": "en",
+      "text": "validate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "validate",
+      "voice": "en",
+      "text": "V, A, L, I, D, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "validate",
+      "voice": "zh",
+      "text": "动词，验证，确认有效，证实",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "validate",
+      "voice": "en",
+      "text": "Please validate the customer data before generating invoices.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "validate",
+      "voice": "zh",
+      "text": "生成发票前请先验证客户数据。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "valuable",
+      "voice": "en",
+      "text": "valuable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "valuable",
+      "voice": "en",
+      "text": "V, A, L, U, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "valuable",
+      "voice": "zh",
+      "text": "形容词，有价值的，宝贵的，贵重的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "valuable",
+      "voice": "en",
+      "text": "Customer surveys provide valuable feedback for product design.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "valuable",
+      "voice": "zh",
+      "text": "客户调查为产品设计提供宝贵反馈。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "valuation",
+      "voice": "en",
+      "text": "valuation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "valuation",
+      "voice": "en",
+      "text": "V, A, L, U, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "valuation",
+      "voice": "zh",
+      "text": "名词，估价，估值，评估",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "valuation",
+      "voice": "en",
+      "text": "The investor requested an independent valuation of the startup.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "valuation",
+      "voice": "zh",
+      "text": "投资者要求对这家初创公司进行独立估值。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "variation",
+      "voice": "en",
+      "text": "variation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "variation",
+      "voice": "en",
+      "text": "V, A, R, I, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "variation",
+      "voice": "zh",
+      "text": "名词，变化，变异，差异",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "variation",
+      "voice": "en",
+      "text": "There is little variation in shipping rates this quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "variation",
+      "voice": "zh",
+      "text": "本季度运费几乎没有什么变化。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "variety",
+      "voice": "en",
+      "text": "variety",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "variety",
+      "voice": "en",
+      "text": "V, A, R, I, E, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "variety",
+      "voice": "zh",
+      "text": "名词，多样性，种类，品种",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "variety",
+      "voice": "en",
+      "text": "The catalog offers a wide variety of office supplies.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "variety",
+      "voice": "zh",
+      "text": "产品目录提供种类繁多的办公用品。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "vary",
+      "voice": "en",
+      "text": "vary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "vary",
+      "voice": "en",
+      "text": "V, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "vary",
+      "voice": "zh",
+      "text": "动词，变化，不同，使多样化",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "vary",
+      "voice": "en",
+      "text": "Delivery times vary depending on the destination.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "vary",
+      "voice": "zh",
+      "text": "交货时间视目的地而定。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "vehicle",
+      "voice": "en",
+      "text": "vehicle",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "vehicle",
+      "voice": "en",
+      "text": "V, E, H, I, C, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "vehicle",
+      "voice": "zh",
+      "text": "名词，车辆，交通工具，媒介",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "vehicle",
+      "voice": "en",
+      "text": "All company vehicles must undergo annual safety inspections.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "vehicle",
+      "voice": "zh",
+      "text": "所有公司车辆必须接受年度安全检查。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "vendor",
+      "voice": "en",
+      "text": "vendor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "vendor",
+      "voice": "en",
+      "text": "V, E, N, D, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "vendor",
+      "voice": "zh",
+      "text": "名词，供应商，卖主，摊贩",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "vendor",
+      "voice": "en",
+      "text": "We are evaluating three vendors for the catering service.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "vendor",
+      "voice": "zh",
+      "text": "我们正在评估三家餐饮服务供应商。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "verify",
+      "voice": "en",
+      "text": "verify",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "verify",
+      "voice": "en",
+      "text": "V, E, R, I, F, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "verify",
+      "voice": "zh",
+      "text": "动词，核实，查证，确认",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "verify",
+      "voice": "en",
+      "text": "Please verify the account details before processing the payment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "verify",
+      "voice": "zh",
+      "text": "处理付款前请核实账户信息。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "versatile",
+      "voice": "en",
+      "text": "versatile",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "versatile",
+      "voice": "en",
+      "text": "V, E, R, S, A, T, I, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "versatile",
+      "voice": "zh",
+      "text": "形容词，多才多艺的，用途广泛的，灵活的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "versatile",
+      "voice": "en",
+      "text": "We need a versatile designer who can handle print and digital work.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "versatile",
+      "voice": "zh",
+      "text": "我们需要一位能兼顾印刷与数字设计的多面手设计师。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "version",
+      "voice": "en",
+      "text": "version",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "version",
+      "voice": "en",
+      "text": "V, E, R, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "version",
+      "voice": "zh",
+      "text": "名词，版本，说法，改编本",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "version",
+      "voice": "en",
+      "text": "Please download the latest version of the presentation slides.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "version",
+      "voice": "zh",
+      "text": "请下载演示文稿的最新版本。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "versus",
+      "voice": "en",
+      "text": "versus",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "versus",
+      "voice": "en",
+      "text": "V, E, R, S, U, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "versus",
+      "voice": "zh",
+      "text": "介词，对，与……相对，对比",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "versus",
+      "voice": "en",
+      "text": "The memo compares remote work versus office-based schedules.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "versus",
+      "voice": "zh",
+      "text": "这份备忘录比较了远程办公与坐班制的安排。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "viable",
+      "voice": "en",
+      "text": "viable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "viable",
+      "voice": "en",
+      "text": "V, I, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "viable",
+      "voice": "zh",
+      "text": "形容词，可行的，能独立发展的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "viable",
+      "voice": "en",
+      "text": "Outsourcing logistics may be a more viable option this year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "viable",
+      "voice": "zh",
+      "text": "今年把物流外包可能是更可行的选择。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "violate",
+      "voice": "en",
+      "text": "violate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "violate",
+      "voice": "en",
+      "text": "V, I, O, L, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "violate",
+      "voice": "zh",
+      "text": "动词，违反，侵犯，违背",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "violate",
+      "voice": "en",
+      "text": "Employees who violate the code of conduct face disciplinary action.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "violate",
+      "voice": "zh",
+      "text": "违反行为准则的员工将面临纪律处分。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "volunteer",
+      "voice": "en",
+      "text": "volunteer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "volunteer",
+      "voice": "en",
+      "text": "V, O, L, U, N, T, E, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "volunteer",
+      "voice": "zh",
+      "text": "名词或动词，志愿者，自愿做，主动提出",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "volunteer",
+      "voice": "en",
+      "text": "Several staff members volunteered to help at the charity fair.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "volunteer",
+      "voice": "zh",
+      "text": "几位员工自愿在慈善集市上帮忙。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "wage",
+      "voice": "en",
+      "text": "wage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "wage",
+      "voice": "en",
+      "text": "W, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "wage",
+      "voice": "zh",
+      "text": "名词或动词，工资，报酬，发动（战争/运动）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "wage",
+      "voice": "en",
+      "text": "The company announced a five percent wage increase for all staff.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "wage",
+      "voice": "zh",
+      "text": "公司宣布全体员工加薪百分之五。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "warehouse",
+      "voice": "en",
+      "text": "warehouse",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "warehouse",
+      "voice": "en",
+      "text": "W, A, R, E, H, O, U, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "warehouse",
+      "voice": "zh",
+      "text": "名词或动词，仓库，货仓，把……存入仓库",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "warehouse",
+      "voice": "en",
+      "text": "The new warehouse facility will cut delivery times by two days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "warehouse",
+      "voice": "zh",
+      "text": "新仓储设施将使交货时间缩短两天。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "withdraw",
+      "voice": "en",
+      "text": "withdraw",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "withdraw",
+      "voice": "en",
+      "text": "W, I, T, H, D, R, A, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "withdraw",
+      "voice": "zh",
+      "text": "动词，提取，撤回，退出",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "withdraw",
+      "voice": "en",
+      "text": "Clients can withdraw cash from any branch without a fee.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "withdraw",
+      "voice": "zh",
+      "text": "客户可在任一分行免手续费取现。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "workforce",
+      "voice": "en",
+      "text": "workforce",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "workforce",
+      "voice": "en",
+      "text": "W, O, R, K, F, O, R, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "workforce",
+      "voice": "zh",
+      "text": "名词，劳动力，全体员工",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "workforce",
+      "voice": "en",
+      "text": "Investing in training helps retain a skilled workforce.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "workforce",
+      "voice": "zh",
+      "text": "投资培训有助于留住熟练劳动力。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "workshop",
+      "voice": "en",
+      "text": "workshop",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "workshop",
+      "voice": "en",
+      "text": "W, O, R, K, S, H, O, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "workshop",
+      "voice": "zh",
+      "text": "名词，研讨会，工作坊，车间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "workshop",
+      "voice": "en",
+      "text": "All new hires must attend a safety workshop next Monday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "workshop",
+      "voice": "zh",
+      "text": "所有新员工必须参加下周一的安全研讨会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "worthwhile",
+      "voice": "en",
+      "text": "worthwhile",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "worthwhile",
+      "voice": "en",
+      "text": "W, O, R, T, H, W, H, I, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "worthwhile",
+      "voice": "zh",
+      "text": "形容词，值得的，有价值的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "worthwhile",
+      "voice": "en",
+      "text": "The pilot program proved to be a worthwhile investment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "worthwhile",
+      "voice": "zh",
+      "text": "该试点项目被证明是一项值得的投资。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "yield",
+      "voice": "en",
+      "text": "yield",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "yield",
+      "voice": "en",
+      "text": "Y, I, E, L, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "yield",
+      "voice": "zh",
+      "text": "动词或名词，产生，屈服，产量",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "yield",
+      "voice": "en",
+      "text": "The revised marketing plan is expected to yield better results.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "yield",
+      "voice": "zh",
+      "text": "修订后的营销计划有望产生更好的结果。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "withhold",
+      "voice": "en",
+      "text": "withhold",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "withhold",
+      "voice": "en",
+      "text": "W, I, T, H, H, O, L, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "withhold",
+      "voice": "zh",
+      "text": "动词，扣留，拒绝给予，隐瞒",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "withhold",
+      "voice": "en",
+      "text": "The payroll office will withhold tax from each paycheck.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "withhold",
+      "voice": "zh",
+      "text": "薪资部门将从每笔工资中代扣税款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "wire",
+      "voice": "en",
+      "text": "wire",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "wire",
+      "voice": "en",
+      "text": "W, I, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "wire",
+      "voice": "zh",
+      "text": "动词或名词，电汇，电线，拍电报",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "wire",
+      "voice": "en",
+      "text": "Please wire the payment to our account by Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "wire",
+      "voice": "zh",
+      "text": "请在周五前将款项电汇至我们的账户。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "widespread",
+      "voice": "en",
+      "text": "widespread",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "widespread",
+      "voice": "en",
+      "text": "W, I, D, E, S, P, R, E, A, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "widespread",
+      "voice": "zh",
+      "text": "形容词，广泛的，普遍的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "widespread",
+      "voice": "en",
+      "text": "There is widespread support for the flexible work policy.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "widespread",
+      "voice": "zh",
+      "text": "弹性工作政策获得了广泛支持。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第14轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

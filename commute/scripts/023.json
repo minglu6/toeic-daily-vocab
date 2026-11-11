@@ -1,0 +1,1314 @@
+{
+  "id": "023",
+  "track": 23,
+  "title": "第 23 轨",
+  "word_count": 30,
+  "headwords": [
+    "prevail",
+    "proceeds",
+    "profitable",
+    "prohibit",
+    "projection",
+    "prominent",
+    "promotion",
+    "proofread",
+    "prospective",
+    "punctual",
+    "reception",
+    "reimburse",
+    "relocate",
+    "remit",
+    "remuneration",
+    "rental",
+    "representative",
+    "requisition",
+    "rotate",
+    "routine",
+    "recession",
+    "refreshments",
+    "refurbish",
+    "registration",
+    "reliable",
+    "remainder",
+    "reminder",
+    "renewal",
+    "reputation",
+    "reschedule"
+  ],
+  "entries": [
+    {
+      "word": "prevail",
+      "spelling": "P, R, E, V, A, I, L",
+      "spoken_meaning": "动词，盛行，占上风",
+      "en": "Salaries will be adjusted to reflect prevailing market rates.",
+      "zh": "薪资将根据现行市场水平进行调整。"
+    },
+    {
+      "word": "proceeds",
+      "spelling": "P, R, O, C, E, E, D, S",
+      "spoken_meaning": "名词，收益，（活动）所得款项",
+      "en": "All proceeds from the charity run will be donated to the local children's hospital.",
+      "zh": "慈善跑的所有收益将捐给当地儿童医院。"
+    },
+    {
+      "word": "profitable",
+      "spelling": "P, R, O, F, I, T, A, B, L, E",
+      "spoken_meaning": "形容词，有利可图的，盈利的",
+      "en": "The new product line became profitable within its first year on the market.",
+      "zh": "新产品线上市第一年就实现了盈利。"
+    },
+    {
+      "word": "prohibit",
+      "spelling": "P, R, O, H, I, B, I, T",
+      "spoken_meaning": "动词，禁止",
+      "en": "Company policy prohibits employees from sharing client data outside the firm.",
+      "zh": "公司规定禁止员工将客户数据泄露到公司以外。"
+    },
+    {
+      "word": "projection",
+      "spelling": "P, R, O, J, E, C, T, I, O, N",
+      "spoken_meaning": "名词，预测，预估，投影",
+      "en": "Third-quarter revenue exceeded our projections by nearly ten percent.",
+      "zh": "第三季度营收比我们的预测高出近百分之十。"
+    },
+    {
+      "word": "prominent",
+      "spelling": "P, R, O, M, I, N, E, N, T",
+      "spoken_meaning": "形容词，著名的，显眼的",
+      "en": "The keynote speech will be given by a prominent economist from Harvard.",
+      "zh": "主题演讲将由一位来自哈佛的知名经济学家发表。"
+    },
+    {
+      "word": "promotion",
+      "spelling": "P, R, O, M, O, T, I, O, N",
+      "spoken_meaning": "名词，晋升，促销",
+      "en": "After five years in sales, Mr. Ortiz received a promotion to regional manager.",
+      "zh": "在销售岗位工作五年后，奥尔蒂斯先生晋升为区域经理。"
+    },
+    {
+      "word": "proofread",
+      "spelling": "P, R, O, O, F, R, E, A, D",
+      "spoken_meaning": "动词，校对",
+      "en": "Please proofread the brochure carefully before it goes to the printer.",
+      "zh": "宣传册付印前请仔细校对。"
+    },
+    {
+      "word": "prospective",
+      "spelling": "P, R, O, S, P, E, C, T, I, V, E",
+      "spoken_meaning": "形容词，潜在的，未来的",
+      "en": "The sales team will give a product demonstration to several prospective clients next week.",
+      "zh": "销售团队下周将向几位潜在客户进行产品演示。"
+    },
+    {
+      "word": "punctual",
+      "spelling": "P, U, N, C, T, U, A, L",
+      "spoken_meaning": "形容词，准时的，守时的",
+      "en": "Employees are expected to be punctual for all client meetings.",
+      "zh": "员工参加所有客户会议都应准时。"
+    },
+    {
+      "word": "reception",
+      "spelling": "R, E, C, E, P, T, I, O, N",
+      "spoken_meaning": "名词，接待处，招待会，接收",
+      "en": "A welcome reception for new staff will be held in the lobby at 5 P.M.",
+      "zh": "新员工欢迎招待会将于下午 5 点在大堂举行。"
+    },
+    {
+      "word": "reimburse",
+      "spelling": "R, E, I, M, B, U, R, S, E",
+      "spoken_meaning": "动词，报销，偿还",
+      "en": "The company will reimburse you for all reasonable travel expenses.",
+      "zh": "公司将为您报销所有合理的差旅费用。"
+    },
+    {
+      "word": "relocate",
+      "spelling": "R, E, L, O, C, A, T, E",
+      "spoken_meaning": "动词，搬迁，调动（工作地点）",
+      "en": "The firm plans to relocate its headquarters to a larger building downtown.",
+      "zh": "该公司计划将总部迁往市中心一栋更大的大楼。"
+    },
+    {
+      "word": "remit",
+      "spelling": "R, E, M, I, T",
+      "spoken_meaning": "动词，汇款，汇付",
+      "en": "Please remit payment within thirty days of the invoice date.",
+      "zh": "请于发票开具之日起三十天内付款。"
+    },
+    {
+      "word": "remuneration",
+      "spelling": "R, E, M, U, N, E, R, A, T, I, O, N",
+      "spoken_meaning": "名词，报酬，薪酬",
+      "en": "We offer competitive remuneration and opportunities for career growth.",
+      "zh": "我们提供有竞争力的薪酬和职业发展机会。"
+    },
+    {
+      "word": "rental",
+      "spelling": "R, E, N, T, A, L",
+      "spoken_meaning": "名词或形容词，租赁，租金，出租的",
+      "en": "The rental fee includes insurance and unlimited mileage.",
+      "zh": "租金包含保险和不限里程。"
+    },
+    {
+      "word": "representative",
+      "spelling": "R, E, P, R, E, S, E, N, T, A, T, I, V, E",
+      "spoken_meaning": "名词，代表，销售代表",
+      "en": "A customer service representative will contact you within 24 hours.",
+      "zh": "客服代表将在 24 小时内与您联系。"
+    },
+    {
+      "word": "requisition",
+      "spelling": "R, E, Q, U, I, S, I, T, I, O, N",
+      "spoken_meaning": "名词或动词，（正式）申请单，请购",
+      "en": "Office supplies can be ordered by submitting a requisition form to the purchasing department.",
+      "zh": "办公用品可通过向采购部提交申领表来订购。"
+    },
+    {
+      "word": "rotate",
+      "spelling": "R, O, T, A, T, E",
+      "spoken_meaning": "动词，轮换，轮流，旋转",
+      "en": "Team members rotate the responsibility of taking meeting minutes each week.",
+      "zh": "团队成员每周轮流负责做会议记录。"
+    },
+    {
+      "word": "routine",
+      "spelling": "R, O, U, T, I, N, E",
+      "spoken_meaning": "名词或形容词，例行程序，常规的",
+      "en": "The elevators will be out of service on Saturday for routine maintenance.",
+      "zh": "电梯将于周六因例行维护停止使用。"
+    },
+    {
+      "word": "recession",
+      "spelling": "R, E, C, E, S, S, I, O, N",
+      "spoken_meaning": "名词，经济衰退，萧条",
+      "en": "Many retailers cut back on hiring during the recession.",
+      "zh": "经济衰退期间，许多零售商缩减了招聘。"
+    },
+    {
+      "word": "refreshments",
+      "spelling": "R, E, F, R, E, S, H, M, E, N, T, S",
+      "spoken_meaning": "名词，茶点，点心饮料",
+      "en": "Light refreshments will be served in the lobby after the keynote speech.",
+      "zh": "主题演讲结束后，大厅将提供简单茶点。"
+    },
+    {
+      "word": "refurbish",
+      "spelling": "R, E, F, U, R, B, I, S, H",
+      "spoken_meaning": "动词，翻新，整修",
+      "en": "The hotel will refurbish all guest rooms before the peak travel season.",
+      "zh": "酒店将在旅游旺季前翻新所有客房。"
+    },
+    {
+      "word": "registration",
+      "spelling": "R, E, G, I, S, T, R, A, T, I, O, N",
+      "spoken_meaning": "名词，注册，登记，报名",
+      "en": "Early registration for the conference ends on Friday.",
+      "zh": "会议的提前报名将于周五截止。"
+    },
+    {
+      "word": "reliable",
+      "spelling": "R, E, L, I, A, B, L, E",
+      "spoken_meaning": "形容词，可靠的，可信赖的",
+      "en": "We chose this courier because its delivery service is fast and reliable.",
+      "zh": "我们选择这家快递公司，是因为它的送货服务快速又可靠。"
+    },
+    {
+      "word": "remainder",
+      "spelling": "R, E, M, A, I, N, D, E, R",
+      "spoken_meaning": "名词，剩余部分，余款",
+      "en": "A deposit is required now, and the remainder is due upon delivery.",
+      "zh": "现在需支付订金，余款于交货时付清。"
+    },
+    {
+      "word": "reminder",
+      "spelling": "R, E, M, I, N, D, E, R",
+      "spoken_meaning": "名词，提醒，提示函，催款单",
+      "en": "This is a friendly reminder that your membership expires next week.",
+      "zh": "温馨提醒：您的会员资格将于下周到期。"
+    },
+    {
+      "word": "renewal",
+      "spelling": "R, E, N, E, W, A, L",
+      "spoken_meaning": "名词，续约，续订，更新",
+      "en": "Your lease is due for renewal at the end of March.",
+      "zh": "您的租约将于三月底到期需续签。"
+    },
+    {
+      "word": "reputation",
+      "spelling": "R, E, P, U, T, A, T, I, O, N",
+      "spoken_meaning": "名词，名声，声誉",
+      "en": "The firm has a strong reputation for excellent customer service.",
+      "zh": "这家公司以卓越的客户服务享有盛誉。"
+    },
+    {
+      "word": "reschedule",
+      "spelling": "R, E, S, C, H, E, D, U, L, E",
+      "spoken_meaning": "动词，重新安排时间，改期",
+      "en": "Could we reschedule our call for Thursday afternoon?",
+      "zh": "我们能把电话会议改到周四下午吗？"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第23轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "prevail",
+      "voice": "en",
+      "text": "prevail",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "prevail",
+      "voice": "en",
+      "text": "P, R, E, V, A, I, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "prevail",
+      "voice": "zh",
+      "text": "动词，盛行，占上风",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "prevail",
+      "voice": "en",
+      "text": "Salaries will be adjusted to reflect prevailing market rates.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "prevail",
+      "voice": "zh",
+      "text": "薪资将根据现行市场水平进行调整。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "proceeds",
+      "voice": "en",
+      "text": "proceeds",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "proceeds",
+      "voice": "en",
+      "text": "P, R, O, C, E, E, D, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "proceeds",
+      "voice": "zh",
+      "text": "名词，收益，（活动）所得款项",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "proceeds",
+      "voice": "en",
+      "text": "All proceeds from the charity run will be donated to the local children's hospital.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "proceeds",
+      "voice": "zh",
+      "text": "慈善跑的所有收益将捐给当地儿童医院。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "profitable",
+      "voice": "en",
+      "text": "profitable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "profitable",
+      "voice": "en",
+      "text": "P, R, O, F, I, T, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "profitable",
+      "voice": "zh",
+      "text": "形容词，有利可图的，盈利的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "profitable",
+      "voice": "en",
+      "text": "The new product line became profitable within its first year on the market.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "profitable",
+      "voice": "zh",
+      "text": "新产品线上市第一年就实现了盈利。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "prohibit",
+      "voice": "en",
+      "text": "prohibit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "prohibit",
+      "voice": "en",
+      "text": "P, R, O, H, I, B, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "prohibit",
+      "voice": "zh",
+      "text": "动词，禁止",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "prohibit",
+      "voice": "en",
+      "text": "Company policy prohibits employees from sharing client data outside the firm.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "prohibit",
+      "voice": "zh",
+      "text": "公司规定禁止员工将客户数据泄露到公司以外。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "projection",
+      "voice": "en",
+      "text": "projection",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "projection",
+      "voice": "en",
+      "text": "P, R, O, J, E, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "projection",
+      "voice": "zh",
+      "text": "名词，预测，预估，投影",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "projection",
+      "voice": "en",
+      "text": "Third-quarter revenue exceeded our projections by nearly ten percent.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "projection",
+      "voice": "zh",
+      "text": "第三季度营收比我们的预测高出近百分之十。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "prominent",
+      "voice": "en",
+      "text": "prominent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "prominent",
+      "voice": "en",
+      "text": "P, R, O, M, I, N, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "prominent",
+      "voice": "zh",
+      "text": "形容词，著名的，显眼的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "prominent",
+      "voice": "en",
+      "text": "The keynote speech will be given by a prominent economist from Harvard.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "prominent",
+      "voice": "zh",
+      "text": "主题演讲将由一位来自哈佛的知名经济学家发表。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "promotion",
+      "voice": "en",
+      "text": "promotion",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "promotion",
+      "voice": "en",
+      "text": "P, R, O, M, O, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "promotion",
+      "voice": "zh",
+      "text": "名词，晋升，促销",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "promotion",
+      "voice": "en",
+      "text": "After five years in sales, Mr. Ortiz received a promotion to regional manager.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "promotion",
+      "voice": "zh",
+      "text": "在销售岗位工作五年后，奥尔蒂斯先生晋升为区域经理。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "proofread",
+      "voice": "en",
+      "text": "proofread",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "proofread",
+      "voice": "en",
+      "text": "P, R, O, O, F, R, E, A, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "proofread",
+      "voice": "zh",
+      "text": "动词，校对",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "proofread",
+      "voice": "en",
+      "text": "Please proofread the brochure carefully before it goes to the printer.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "proofread",
+      "voice": "zh",
+      "text": "宣传册付印前请仔细校对。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "prospective",
+      "voice": "en",
+      "text": "prospective",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "prospective",
+      "voice": "en",
+      "text": "P, R, O, S, P, E, C, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "prospective",
+      "voice": "zh",
+      "text": "形容词，潜在的，未来的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "prospective",
+      "voice": "en",
+      "text": "The sales team will give a product demonstration to several prospective clients next week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "prospective",
+      "voice": "zh",
+      "text": "销售团队下周将向几位潜在客户进行产品演示。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "punctual",
+      "voice": "en",
+      "text": "punctual",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "punctual",
+      "voice": "en",
+      "text": "P, U, N, C, T, U, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "punctual",
+      "voice": "zh",
+      "text": "形容词，准时的，守时的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "punctual",
+      "voice": "en",
+      "text": "Employees are expected to be punctual for all client meetings.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "punctual",
+      "voice": "zh",
+      "text": "员工参加所有客户会议都应准时。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reception",
+      "voice": "en",
+      "text": "reception",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reception",
+      "voice": "en",
+      "text": "R, E, C, E, P, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reception",
+      "voice": "zh",
+      "text": "名词，接待处，招待会，接收",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reception",
+      "voice": "en",
+      "text": "A welcome reception for new staff will be held in the lobby at 5 P.M.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reception",
+      "voice": "zh",
+      "text": "新员工欢迎招待会将于下午 5 点在大堂举行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reimburse",
+      "voice": "en",
+      "text": "reimburse",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reimburse",
+      "voice": "en",
+      "text": "R, E, I, M, B, U, R, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reimburse",
+      "voice": "zh",
+      "text": "动词，报销，偿还",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reimburse",
+      "voice": "en",
+      "text": "The company will reimburse you for all reasonable travel expenses.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reimburse",
+      "voice": "zh",
+      "text": "公司将为您报销所有合理的差旅费用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "relocate",
+      "voice": "en",
+      "text": "relocate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "relocate",
+      "voice": "en",
+      "text": "R, E, L, O, C, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "relocate",
+      "voice": "zh",
+      "text": "动词，搬迁，调动（工作地点）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "relocate",
+      "voice": "en",
+      "text": "The firm plans to relocate its headquarters to a larger building downtown.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "relocate",
+      "voice": "zh",
+      "text": "该公司计划将总部迁往市中心一栋更大的大楼。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "remit",
+      "voice": "en",
+      "text": "remit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "remit",
+      "voice": "en",
+      "text": "R, E, M, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "remit",
+      "voice": "zh",
+      "text": "动词，汇款，汇付",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "remit",
+      "voice": "en",
+      "text": "Please remit payment within thirty days of the invoice date.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "remit",
+      "voice": "zh",
+      "text": "请于发票开具之日起三十天内付款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "remuneration",
+      "voice": "en",
+      "text": "remuneration",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "remuneration",
+      "voice": "en",
+      "text": "R, E, M, U, N, E, R, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "remuneration",
+      "voice": "zh",
+      "text": "名词，报酬，薪酬",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "remuneration",
+      "voice": "en",
+      "text": "We offer competitive remuneration and opportunities for career growth.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "remuneration",
+      "voice": "zh",
+      "text": "我们提供有竞争力的薪酬和职业发展机会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "rental",
+      "voice": "en",
+      "text": "rental",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rental",
+      "voice": "en",
+      "text": "R, E, N, T, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rental",
+      "voice": "zh",
+      "text": "名词或形容词，租赁，租金，出租的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rental",
+      "voice": "en",
+      "text": "The rental fee includes insurance and unlimited mileage.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rental",
+      "voice": "zh",
+      "text": "租金包含保险和不限里程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "representative",
+      "voice": "en",
+      "text": "representative",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "representative",
+      "voice": "en",
+      "text": "R, E, P, R, E, S, E, N, T, A, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "representative",
+      "voice": "zh",
+      "text": "名词，代表，销售代表",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "representative",
+      "voice": "en",
+      "text": "A customer service representative will contact you within 24 hours.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "representative",
+      "voice": "zh",
+      "text": "客服代表将在 24 小时内与您联系。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "requisition",
+      "voice": "en",
+      "text": "requisition",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "requisition",
+      "voice": "en",
+      "text": "R, E, Q, U, I, S, I, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "requisition",
+      "voice": "zh",
+      "text": "名词或动词，（正式）申请单，请购",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "requisition",
+      "voice": "en",
+      "text": "Office supplies can be ordered by submitting a requisition form to the purchasing department.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "requisition",
+      "voice": "zh",
+      "text": "办公用品可通过向采购部提交申领表来订购。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "rotate",
+      "voice": "en",
+      "text": "rotate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rotate",
+      "voice": "en",
+      "text": "R, O, T, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rotate",
+      "voice": "zh",
+      "text": "动词，轮换，轮流，旋转",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rotate",
+      "voice": "en",
+      "text": "Team members rotate the responsibility of taking meeting minutes each week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rotate",
+      "voice": "zh",
+      "text": "团队成员每周轮流负责做会议记录。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "routine",
+      "voice": "en",
+      "text": "routine",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "routine",
+      "voice": "en",
+      "text": "R, O, U, T, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "routine",
+      "voice": "zh",
+      "text": "名词或形容词，例行程序，常规的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "routine",
+      "voice": "en",
+      "text": "The elevators will be out of service on Saturday for routine maintenance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "routine",
+      "voice": "zh",
+      "text": "电梯将于周六因例行维护停止使用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "recession",
+      "voice": "en",
+      "text": "recession",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "recession",
+      "voice": "en",
+      "text": "R, E, C, E, S, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "recession",
+      "voice": "zh",
+      "text": "名词，经济衰退，萧条",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "recession",
+      "voice": "en",
+      "text": "Many retailers cut back on hiring during the recession.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "recession",
+      "voice": "zh",
+      "text": "经济衰退期间，许多零售商缩减了招聘。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "refreshments",
+      "voice": "en",
+      "text": "refreshments",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "refreshments",
+      "voice": "en",
+      "text": "R, E, F, R, E, S, H, M, E, N, T, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "refreshments",
+      "voice": "zh",
+      "text": "名词，茶点，点心饮料",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "refreshments",
+      "voice": "en",
+      "text": "Light refreshments will be served in the lobby after the keynote speech.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "refreshments",
+      "voice": "zh",
+      "text": "主题演讲结束后，大厅将提供简单茶点。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "refurbish",
+      "voice": "en",
+      "text": "refurbish",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "refurbish",
+      "voice": "en",
+      "text": "R, E, F, U, R, B, I, S, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "refurbish",
+      "voice": "zh",
+      "text": "动词，翻新，整修",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "refurbish",
+      "voice": "en",
+      "text": "The hotel will refurbish all guest rooms before the peak travel season.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "refurbish",
+      "voice": "zh",
+      "text": "酒店将在旅游旺季前翻新所有客房。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "registration",
+      "voice": "en",
+      "text": "registration",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "registration",
+      "voice": "en",
+      "text": "R, E, G, I, S, T, R, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "registration",
+      "voice": "zh",
+      "text": "名词，注册，登记，报名",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "registration",
+      "voice": "en",
+      "text": "Early registration for the conference ends on Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "registration",
+      "voice": "zh",
+      "text": "会议的提前报名将于周五截止。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reliable",
+      "voice": "en",
+      "text": "reliable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reliable",
+      "voice": "en",
+      "text": "R, E, L, I, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reliable",
+      "voice": "zh",
+      "text": "形容词，可靠的，可信赖的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reliable",
+      "voice": "en",
+      "text": "We chose this courier because its delivery service is fast and reliable.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reliable",
+      "voice": "zh",
+      "text": "我们选择这家快递公司，是因为它的送货服务快速又可靠。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "remainder",
+      "voice": "en",
+      "text": "remainder",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "remainder",
+      "voice": "en",
+      "text": "R, E, M, A, I, N, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "remainder",
+      "voice": "zh",
+      "text": "名词，剩余部分，余款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "remainder",
+      "voice": "en",
+      "text": "A deposit is required now, and the remainder is due upon delivery.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "remainder",
+      "voice": "zh",
+      "text": "现在需支付订金，余款于交货时付清。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reminder",
+      "voice": "en",
+      "text": "reminder",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reminder",
+      "voice": "en",
+      "text": "R, E, M, I, N, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reminder",
+      "voice": "zh",
+      "text": "名词，提醒，提示函，催款单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reminder",
+      "voice": "en",
+      "text": "This is a friendly reminder that your membership expires next week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reminder",
+      "voice": "zh",
+      "text": "温馨提醒：您的会员资格将于下周到期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "renewal",
+      "voice": "en",
+      "text": "renewal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "renewal",
+      "voice": "en",
+      "text": "R, E, N, E, W, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "renewal",
+      "voice": "zh",
+      "text": "名词，续约，续订，更新",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "renewal",
+      "voice": "en",
+      "text": "Your lease is due for renewal at the end of March.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "renewal",
+      "voice": "zh",
+      "text": "您的租约将于三月底到期需续签。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reputation",
+      "voice": "en",
+      "text": "reputation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reputation",
+      "voice": "en",
+      "text": "R, E, P, U, T, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reputation",
+      "voice": "zh",
+      "text": "名词，名声，声誉",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reputation",
+      "voice": "en",
+      "text": "The firm has a strong reputation for excellent customer service.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reputation",
+      "voice": "zh",
+      "text": "这家公司以卓越的客户服务享有盛誉。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reschedule",
+      "voice": "en",
+      "text": "reschedule",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reschedule",
+      "voice": "en",
+      "text": "R, E, S, C, H, E, D, U, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reschedule",
+      "voice": "zh",
+      "text": "动词，重新安排时间，改期",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reschedule",
+      "voice": "en",
+      "text": "Could we reschedule our call for Thursday afternoon?",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reschedule",
+      "voice": "zh",
+      "text": "我们能把电话会议改到周四下午吗？",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第23轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

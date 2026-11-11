@@ -1,0 +1,1314 @@
+{
+  "id": "016",
+  "track": 16,
+  "title": "第 16 轨",
+  "word_count": 30,
+  "headwords": [
+    "avoid",
+    "award",
+    "aware",
+    "balance",
+    "bankrupt",
+    "barrier",
+    "basis",
+    "behalf",
+    "benchmark",
+    "beneficiary",
+    "bid",
+    "bill",
+    "board",
+    "bond",
+    "bonus",
+    "booking",
+    "borrow",
+    "brand",
+    "breakthrough",
+    "brief",
+    "browse",
+    "bulk",
+    "campaign",
+    "cater",
+    "caution",
+    "cease",
+    "chairman",
+    "challenge",
+    "charter",
+    "clause"
+  ],
+  "entries": [
+    {
+      "word": "avoid",
+      "spelling": "A, V, O, I, D",
+      "spoken_meaning": "动词，避免，避开",
+      "en": "Submit forms early to avoid unnecessary delay.",
+      "zh": "请尽早提交表格，以免不必要的延误。"
+    },
+    {
+      "word": "award",
+      "spelling": "A, W, A, R, D",
+      "spoken_meaning": "名词或动词，奖项，授予，裁决给予",
+      "en": "The board will award the construction contract next week.",
+      "zh": "董事会将于下周授予该施工合同。"
+    },
+    {
+      "word": "aware",
+      "spelling": "A, W, A, R, E",
+      "spoken_meaning": "形容词，意识到的，知道的",
+      "en": "Please be aware of the updated privacy policy.",
+      "zh": "请留意更新后的隐私政策。"
+    },
+    {
+      "word": "balance",
+      "spelling": "B, A, L, A, N, C, E",
+      "spoken_meaning": "名词或动词，余额，平衡，使平衡",
+      "en": "Please check your account balance before placing the order.",
+      "zh": "下单前请先核对账户余额。"
+    },
+    {
+      "word": "bankrupt",
+      "spelling": "B, A, N, K, R, U, P, T",
+      "spoken_meaning": "形容词或名词或动词，破产的，破产者，使破产",
+      "en": "Several suppliers went bankrupt during the downturn.",
+      "zh": "几家供应商在经济低迷期间破产。"
+    },
+    {
+      "word": "barrier",
+      "spelling": "B, A, R, R, I, E, R",
+      "spoken_meaning": "名词，障碍，壁垒，屏障",
+      "en": "High tariffs remain a major trade barrier for exporters.",
+      "zh": "高关税仍是出口商面临的主要贸易壁垒。"
+    },
+    {
+      "word": "basis",
+      "spelling": "B, A, S, I, S",
+      "spoken_meaning": "名词，基础，依据，基准",
+      "en": "Staff reviews are conducted on a regular basis.",
+      "zh": "员工考核定期进行。"
+    },
+    {
+      "word": "behalf",
+      "spelling": "B, E, H, A, L, F",
+      "spoken_meaning": "名词，利益，方面（多用于onbehalfof）",
+      "en": "I am writing on behalf of the marketing department.",
+      "zh": "我谨代表市场部致函。"
+    },
+    {
+      "word": "benchmark",
+      "spelling": "B, E, N, C, H, M, A, R, K",
+      "spoken_meaning": "名词或动词，基准，标杆，以……为基准比较",
+      "en": "We benchmark our delivery times against industry leaders.",
+      "zh": "我们将交货时间与行业领先者进行对标。"
+    },
+    {
+      "word": "beneficiary",
+      "spelling": "B, E, N, E, F, I, C, I, A, R, Y",
+      "spoken_meaning": "名词，受益人，受惠者",
+      "en": "Please update the primary beneficiary on your policy.",
+      "zh": "请更新保单上的主要受益人。"
+    },
+    {
+      "word": "bid",
+      "spelling": "B, I, D",
+      "spoken_meaning": "名词或动词，投标，出价，竞标",
+      "en": "Three vendors submitted a bid for the renovation project.",
+      "zh": "三家供应商为翻新项目提交了投标。"
+    },
+    {
+      "word": "bill",
+      "spelling": "B, I, L, L",
+      "spoken_meaning": "名词或动词，账单，票据，给……开账单",
+      "en": "Accounts payable will bill the client at the end of the month.",
+      "zh": "应付账款部门将在月底向客户开具账单。"
+    },
+    {
+      "word": "board",
+      "spelling": "B, O, A, R, D",
+      "spoken_meaning": "名词或动词，董事会，板，登机/上船",
+      "en": "The board of directors approved the annual budget.",
+      "zh": "董事会批准了年度预算。"
+    },
+    {
+      "word": "bond",
+      "spelling": "B, O, N, D",
+      "spoken_meaning": "名词或动词，债券，纽带，保证金",
+      "en": "The firm invested surplus cash in corporate bonds.",
+      "zh": "该公司将闲置资金投资于公司债。"
+    },
+    {
+      "word": "bonus",
+      "spelling": "B, O, N, U, S",
+      "spoken_meaning": "名词，奖金，红利，额外好处",
+      "en": "Eligible staff will receive a performance bonus in March.",
+      "zh": "符合条件的员工将在三月获得绩效奖金。"
+    },
+    {
+      "word": "booking",
+      "spelling": "B, O, O, K, I, N, G",
+      "spoken_meaning": "名词，预订，预约，登记",
+      "en": "Please confirm your hotel booking before Friday.",
+      "zh": "请在周五前确认酒店预订。"
+    },
+    {
+      "word": "borrow",
+      "spelling": "B, O, R, R, O, W",
+      "spoken_meaning": "动词，借入，借用",
+      "en": "Start-ups often borrow funds from commercial banks.",
+      "zh": "初创公司常常向商业银行借入资金。"
+    },
+    {
+      "word": "brand",
+      "spelling": "B, R, A, N, D",
+      "spoken_meaning": "名词或动词，品牌，商标，打上烙印",
+      "en": "The campaign aims to raise brand awareness among young buyers.",
+      "zh": "该活动旨在提升年轻买家中的品牌认知度。"
+    },
+    {
+      "word": "breakthrough",
+      "spelling": "B, R, E, A, K, T, H, R, O, U, G, H",
+      "spoken_meaning": "名词，突破，重大进展",
+      "en": "The lab reported a major breakthrough in battery research.",
+      "zh": "实验室报告了电池研究方面的重大突破。"
+    },
+    {
+      "word": "brief",
+      "spelling": "B, R, I, E, F",
+      "spoken_meaning": "形容词或名词或动词，简短的，简报，向……简要说明",
+      "en": "Please brief the team on the client’s new requirements.",
+      "zh": "请就客户的新要求向团队作简要说明。"
+    },
+    {
+      "word": "browse",
+      "spelling": "B, R, O, W, S, E",
+      "spoken_meaning": "动词，浏览，随意翻看，逛",
+      "en": "Customers can browse the catalog before placing an order.",
+      "zh": "客户下单前可先浏览产品目录。"
+    },
+    {
+      "word": "bulk",
+      "spelling": "B, U, L, K",
+      "spoken_meaning": "名词或形容词，大量，散装，主体",
+      "en": "Ordering in bulk can significantly reduce unit costs.",
+      "zh": "大批量订购可显著降低单位成本。"
+    },
+    {
+      "word": "campaign",
+      "spelling": "C, A, M, P, A, I, G, N",
+      "spoken_meaning": "名词或动词，活动，战役，开展运动",
+      "en": "The company launched a new marketing campaign last Monday.",
+      "zh": "该公司上周一发起了新的营销活动。"
+    },
+    {
+      "word": "cater",
+      "spelling": "C, A, T, E, R",
+      "spoken_meaning": "动词，承办宴席，迎合，提供餐饮",
+      "en": "The hotel can cater for conferences of up to 200 people.",
+      "zh": "该酒店可为多达 200 人的会议提供餐饮。"
+    },
+    {
+      "word": "caution",
+      "spelling": "C, A, U, T, I, O, N",
+      "spoken_meaning": "名词或动词，谨慎，警告，提醒注意",
+      "en": "Please exercise caution when handling confidential files.",
+      "zh": "处理机密文件时请务必谨慎。"
+    },
+    {
+      "word": "cease",
+      "spelling": "C, E, A, S, E",
+      "spoken_meaning": "动词，停止，终止，结束",
+      "en": "The factory will cease operations at the end of this month.",
+      "zh": "该工厂将于本月底停止运营。"
+    },
+    {
+      "word": "chairman",
+      "spelling": "C, H, A, I, R, M, A, N",
+      "spoken_meaning": "名词，主席，董事长，会议主持人",
+      "en": "The chairman of the board opened the annual meeting.",
+      "zh": "董事长宣布年度会议开始。"
+    },
+    {
+      "word": "challenge",
+      "spelling": "C, H, A, L, L, E, N, G, E",
+      "spoken_meaning": "名词或动词，挑战，质疑，难题",
+      "en": "Meeting the new deadline will be a major challenge.",
+      "zh": "赶上下一个截止日期将是一项重大挑战。"
+    },
+    {
+      "word": "charter",
+      "spelling": "C, H, A, R, T, E, R",
+      "spoken_meaning": "名词或动词，特许状，章程，包租",
+      "en": "The sales team will charter a flight to the trade show.",
+      "zh": "销售团队将包机前往展会。"
+    },
+    {
+      "word": "clause",
+      "spelling": "C, L, A, U, S, E",
+      "spoken_meaning": "名词，条款，从句，条文",
+      "en": "Please review the confidentiality clause before signing.",
+      "zh": "签署前请审阅保密条款。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第16轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "avoid",
+      "voice": "en",
+      "text": "avoid",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "avoid",
+      "voice": "en",
+      "text": "A, V, O, I, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "avoid",
+      "voice": "zh",
+      "text": "动词，避免，避开",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "avoid",
+      "voice": "en",
+      "text": "Submit forms early to avoid unnecessary delay.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "avoid",
+      "voice": "zh",
+      "text": "请尽早提交表格，以免不必要的延误。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "award",
+      "voice": "en",
+      "text": "award",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "award",
+      "voice": "en",
+      "text": "A, W, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "award",
+      "voice": "zh",
+      "text": "名词或动词，奖项，授予，裁决给予",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "award",
+      "voice": "en",
+      "text": "The board will award the construction contract next week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "award",
+      "voice": "zh",
+      "text": "董事会将于下周授予该施工合同。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "aware",
+      "voice": "en",
+      "text": "aware",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "aware",
+      "voice": "en",
+      "text": "A, W, A, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "aware",
+      "voice": "zh",
+      "text": "形容词，意识到的，知道的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "aware",
+      "voice": "en",
+      "text": "Please be aware of the updated privacy policy.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "aware",
+      "voice": "zh",
+      "text": "请留意更新后的隐私政策。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "balance",
+      "voice": "en",
+      "text": "balance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "balance",
+      "voice": "en",
+      "text": "B, A, L, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "balance",
+      "voice": "zh",
+      "text": "名词或动词，余额，平衡，使平衡",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "balance",
+      "voice": "en",
+      "text": "Please check your account balance before placing the order.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "balance",
+      "voice": "zh",
+      "text": "下单前请先核对账户余额。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bankrupt",
+      "voice": "en",
+      "text": "bankrupt",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bankrupt",
+      "voice": "en",
+      "text": "B, A, N, K, R, U, P, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bankrupt",
+      "voice": "zh",
+      "text": "形容词或名词或动词，破产的，破产者，使破产",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bankrupt",
+      "voice": "en",
+      "text": "Several suppliers went bankrupt during the downturn.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bankrupt",
+      "voice": "zh",
+      "text": "几家供应商在经济低迷期间破产。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "barrier",
+      "voice": "en",
+      "text": "barrier",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "barrier",
+      "voice": "en",
+      "text": "B, A, R, R, I, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "barrier",
+      "voice": "zh",
+      "text": "名词，障碍，壁垒，屏障",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "barrier",
+      "voice": "en",
+      "text": "High tariffs remain a major trade barrier for exporters.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "barrier",
+      "voice": "zh",
+      "text": "高关税仍是出口商面临的主要贸易壁垒。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "basis",
+      "voice": "en",
+      "text": "basis",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "basis",
+      "voice": "en",
+      "text": "B, A, S, I, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "basis",
+      "voice": "zh",
+      "text": "名词，基础，依据，基准",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "basis",
+      "voice": "en",
+      "text": "Staff reviews are conducted on a regular basis.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "basis",
+      "voice": "zh",
+      "text": "员工考核定期进行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "behalf",
+      "voice": "en",
+      "text": "behalf",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "behalf",
+      "voice": "en",
+      "text": "B, E, H, A, L, F",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "behalf",
+      "voice": "zh",
+      "text": "名词，利益，方面（多用于onbehalfof）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "behalf",
+      "voice": "en",
+      "text": "I am writing on behalf of the marketing department.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "behalf",
+      "voice": "zh",
+      "text": "我谨代表市场部致函。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "benchmark",
+      "voice": "en",
+      "text": "benchmark",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "benchmark",
+      "voice": "en",
+      "text": "B, E, N, C, H, M, A, R, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "benchmark",
+      "voice": "zh",
+      "text": "名词或动词，基准，标杆，以……为基准比较",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "benchmark",
+      "voice": "en",
+      "text": "We benchmark our delivery times against industry leaders.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "benchmark",
+      "voice": "zh",
+      "text": "我们将交货时间与行业领先者进行对标。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "beneficiary",
+      "voice": "en",
+      "text": "beneficiary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "beneficiary",
+      "voice": "en",
+      "text": "B, E, N, E, F, I, C, I, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "beneficiary",
+      "voice": "zh",
+      "text": "名词，受益人，受惠者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "beneficiary",
+      "voice": "en",
+      "text": "Please update the primary beneficiary on your policy.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "beneficiary",
+      "voice": "zh",
+      "text": "请更新保单上的主要受益人。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bid",
+      "voice": "en",
+      "text": "bid",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bid",
+      "voice": "en",
+      "text": "B, I, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bid",
+      "voice": "zh",
+      "text": "名词或动词，投标，出价，竞标",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bid",
+      "voice": "en",
+      "text": "Three vendors submitted a bid for the renovation project.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bid",
+      "voice": "zh",
+      "text": "三家供应商为翻新项目提交了投标。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bill",
+      "voice": "en",
+      "text": "bill",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bill",
+      "voice": "en",
+      "text": "B, I, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bill",
+      "voice": "zh",
+      "text": "名词或动词，账单，票据，给……开账单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bill",
+      "voice": "en",
+      "text": "Accounts payable will bill the client at the end of the month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bill",
+      "voice": "zh",
+      "text": "应付账款部门将在月底向客户开具账单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "board",
+      "voice": "en",
+      "text": "board",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "board",
+      "voice": "en",
+      "text": "B, O, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "board",
+      "voice": "zh",
+      "text": "名词或动词，董事会，板，登机/上船",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "board",
+      "voice": "en",
+      "text": "The board of directors approved the annual budget.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "board",
+      "voice": "zh",
+      "text": "董事会批准了年度预算。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bond",
+      "voice": "en",
+      "text": "bond",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bond",
+      "voice": "en",
+      "text": "B, O, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bond",
+      "voice": "zh",
+      "text": "名词或动词，债券，纽带，保证金",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bond",
+      "voice": "en",
+      "text": "The firm invested surplus cash in corporate bonds.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bond",
+      "voice": "zh",
+      "text": "该公司将闲置资金投资于公司债。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bonus",
+      "voice": "en",
+      "text": "bonus",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bonus",
+      "voice": "en",
+      "text": "B, O, N, U, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bonus",
+      "voice": "zh",
+      "text": "名词，奖金，红利，额外好处",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bonus",
+      "voice": "en",
+      "text": "Eligible staff will receive a performance bonus in March.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bonus",
+      "voice": "zh",
+      "text": "符合条件的员工将在三月获得绩效奖金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "booking",
+      "voice": "en",
+      "text": "booking",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "booking",
+      "voice": "en",
+      "text": "B, O, O, K, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "booking",
+      "voice": "zh",
+      "text": "名词，预订，预约，登记",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "booking",
+      "voice": "en",
+      "text": "Please confirm your hotel booking before Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "booking",
+      "voice": "zh",
+      "text": "请在周五前确认酒店预订。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "borrow",
+      "voice": "en",
+      "text": "borrow",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "borrow",
+      "voice": "en",
+      "text": "B, O, R, R, O, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "borrow",
+      "voice": "zh",
+      "text": "动词，借入，借用",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "borrow",
+      "voice": "en",
+      "text": "Start-ups often borrow funds from commercial banks.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "borrow",
+      "voice": "zh",
+      "text": "初创公司常常向商业银行借入资金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "brand",
+      "voice": "en",
+      "text": "brand",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "brand",
+      "voice": "en",
+      "text": "B, R, A, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "brand",
+      "voice": "zh",
+      "text": "名词或动词，品牌，商标，打上烙印",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "brand",
+      "voice": "en",
+      "text": "The campaign aims to raise brand awareness among young buyers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "brand",
+      "voice": "zh",
+      "text": "该活动旨在提升年轻买家中的品牌认知度。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "breakthrough",
+      "voice": "en",
+      "text": "breakthrough",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "breakthrough",
+      "voice": "en",
+      "text": "B, R, E, A, K, T, H, R, O, U, G, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "breakthrough",
+      "voice": "zh",
+      "text": "名词，突破，重大进展",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "breakthrough",
+      "voice": "en",
+      "text": "The lab reported a major breakthrough in battery research.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "breakthrough",
+      "voice": "zh",
+      "text": "实验室报告了电池研究方面的重大突破。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "brief",
+      "voice": "en",
+      "text": "brief",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "brief",
+      "voice": "en",
+      "text": "B, R, I, E, F",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "brief",
+      "voice": "zh",
+      "text": "形容词或名词或动词，简短的，简报，向……简要说明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "brief",
+      "voice": "en",
+      "text": "Please brief the team on the client’s new requirements.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "brief",
+      "voice": "zh",
+      "text": "请就客户的新要求向团队作简要说明。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "browse",
+      "voice": "en",
+      "text": "browse",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "browse",
+      "voice": "en",
+      "text": "B, R, O, W, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "browse",
+      "voice": "zh",
+      "text": "动词，浏览，随意翻看，逛",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "browse",
+      "voice": "en",
+      "text": "Customers can browse the catalog before placing an order.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "browse",
+      "voice": "zh",
+      "text": "客户下单前可先浏览产品目录。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bulk",
+      "voice": "en",
+      "text": "bulk",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bulk",
+      "voice": "en",
+      "text": "B, U, L, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bulk",
+      "voice": "zh",
+      "text": "名词或形容词，大量，散装，主体",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bulk",
+      "voice": "en",
+      "text": "Ordering in bulk can significantly reduce unit costs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bulk",
+      "voice": "zh",
+      "text": "大批量订购可显著降低单位成本。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "campaign",
+      "voice": "en",
+      "text": "campaign",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "campaign",
+      "voice": "en",
+      "text": "C, A, M, P, A, I, G, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "campaign",
+      "voice": "zh",
+      "text": "名词或动词，活动，战役，开展运动",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "campaign",
+      "voice": "en",
+      "text": "The company launched a new marketing campaign last Monday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "campaign",
+      "voice": "zh",
+      "text": "该公司上周一发起了新的营销活动。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cater",
+      "voice": "en",
+      "text": "cater",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cater",
+      "voice": "en",
+      "text": "C, A, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cater",
+      "voice": "zh",
+      "text": "动词，承办宴席，迎合，提供餐饮",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cater",
+      "voice": "en",
+      "text": "The hotel can cater for conferences of up to 200 people.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cater",
+      "voice": "zh",
+      "text": "该酒店可为多达 200 人的会议提供餐饮。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "caution",
+      "voice": "en",
+      "text": "caution",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "caution",
+      "voice": "en",
+      "text": "C, A, U, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "caution",
+      "voice": "zh",
+      "text": "名词或动词，谨慎，警告，提醒注意",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "caution",
+      "voice": "en",
+      "text": "Please exercise caution when handling confidential files.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "caution",
+      "voice": "zh",
+      "text": "处理机密文件时请务必谨慎。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cease",
+      "voice": "en",
+      "text": "cease",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cease",
+      "voice": "en",
+      "text": "C, E, A, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cease",
+      "voice": "zh",
+      "text": "动词，停止，终止，结束",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cease",
+      "voice": "en",
+      "text": "The factory will cease operations at the end of this month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cease",
+      "voice": "zh",
+      "text": "该工厂将于本月底停止运营。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "chairman",
+      "voice": "en",
+      "text": "chairman",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "chairman",
+      "voice": "en",
+      "text": "C, H, A, I, R, M, A, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "chairman",
+      "voice": "zh",
+      "text": "名词，主席，董事长，会议主持人",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "chairman",
+      "voice": "en",
+      "text": "The chairman of the board opened the annual meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "chairman",
+      "voice": "zh",
+      "text": "董事长宣布年度会议开始。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "challenge",
+      "voice": "en",
+      "text": "challenge",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "challenge",
+      "voice": "en",
+      "text": "C, H, A, L, L, E, N, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "challenge",
+      "voice": "zh",
+      "text": "名词或动词，挑战，质疑，难题",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "challenge",
+      "voice": "en",
+      "text": "Meeting the new deadline will be a major challenge.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "challenge",
+      "voice": "zh",
+      "text": "赶上下一个截止日期将是一项重大挑战。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "charter",
+      "voice": "en",
+      "text": "charter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "charter",
+      "voice": "en",
+      "text": "C, H, A, R, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "charter",
+      "voice": "zh",
+      "text": "名词或动词，特许状，章程，包租",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "charter",
+      "voice": "en",
+      "text": "The sales team will charter a flight to the trade show.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "charter",
+      "voice": "zh",
+      "text": "销售团队将包机前往展会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "clause",
+      "voice": "en",
+      "text": "clause",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "clause",
+      "voice": "en",
+      "text": "C, L, A, U, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "clause",
+      "voice": "zh",
+      "text": "名词，条款，从句，条文",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "clause",
+      "voice": "en",
+      "text": "Please review the confidentiality clause before signing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "clause",
+      "voice": "zh",
+      "text": "签署前请审阅保密条款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第16轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

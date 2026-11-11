@@ -1,0 +1,884 @@
+{
+  "id": "054",
+  "track": 54,
+  "title": "第 54 轨",
+  "word_count": 20,
+  "headwords": [
+    "general-ledger",
+    "late-payment",
+    "sales-tax",
+    "credit-memo",
+    "payment-reminder",
+    "delayed-flight",
+    "cancellation-policy",
+    "corporate-rate",
+    "business-visa",
+    "missed-connection",
+    "business-hours",
+    "front-desk",
+    "distribution-list",
+    "lunch-break",
+    "press-conference",
+    "customer-satisfaction",
+    "sales-pipeline",
+    "open-rate",
+    "breach-of-contract",
+    "contract-renewal"
+  ],
+  "entries": [
+    {
+      "word": "general-ledger",
+      "spelling": "G, E, N, E, R, A, L, hyphen, L, E, D, G, E, R",
+      "spoken_meaning": "名词，总账，总分类账，汇总全部会计科目的主账簿",
+      "en": "All invoice payments must be posted to the general-ledger by the monthly close.",
+      "zh": "所有发票付款必须在月结前过账到总账。"
+    },
+    {
+      "word": "late-payment",
+      "spelling": "L, A, T, E, hyphen, P, A, Y, M, E, N, T",
+      "spoken_meaning": "名词，逾期付款，迟付，逾期未付的款项",
+      "en": "A late-payment fee will be added if the invoice is not settled within 15 days.",
+      "zh": "若发票未在15天内结清，将加收一笔逾期付款手续费。"
+    },
+    {
+      "word": "sales-tax",
+      "spelling": "S, A, L, E, S, hyphen, T, A, X",
+      "spoken_meaning": "名词，销售税，对商品或服务销售额征收的税",
+      "en": "The quoted price does not include sales-tax, which will appear as a separate line on the invoice.",
+      "zh": "报价不含销售税，该税项将作为单独一行列在发票上。"
+    },
+    {
+      "word": "credit-memo",
+      "spelling": "C, R, E, D, I, T, hyphen, M, E, M, O",
+      "spoken_meaning": "名词，贷记通知单，贷项凭单，用于冲减应付账款的书面凭证",
+      "en": "Please issue a credit-memo for the damaged goods so we can adjust the outstanding balance.",
+      "zh": "请就损坏的货物开具贷记通知单，以便我们调整未结余额。"
+    },
+    {
+      "word": "payment-reminder",
+      "spelling": "P, A, Y, M, E, N, T, hyphen, R, E, M, I, N, D, E, R",
+      "spoken_meaning": "名词，催款提醒，付款提醒函，到期付款通知",
+      "en": "Accounts receivable will send a payment-reminder three days before the invoice due date.",
+      "zh": "应收账款部门将在发票到期日前三天发送催款提醒。"
+    },
+    {
+      "word": "delayed-flight",
+      "spelling": "D, E, L, A, Y, E, D, hyphen, F, L, I, G, H, T",
+      "spoken_meaning": "名词，延误航班，推迟起飞或到达的航班",
+      "en": "Because of a delayed-flight, the sales director will arrive two hours later than planned.",
+      "zh": "由于航班延误，销售总监将比原计划晚到两个小时。"
+    },
+    {
+      "word": "cancellation-policy",
+      "spelling": "C, A, N, C, E, L, L, A, T, I, O, N, hyphen, P, O, L, I, C, Y",
+      "spoken_meaning": "名词，取消政策，取消与退改规则",
+      "en": "Please check the cancellation-policy before booking, as late cancellations are nonrefundable.",
+      "zh": "预订前请查看取消政策，因为逾期取消不予退款。"
+    },
+    {
+      "word": "corporate-rate",
+      "spelling": "C, O, R, P, O, R, A, T, E, hyphen, R, A, T, E",
+      "spoken_meaning": "名词，协议价，企业优惠价，公司合同房价或票价",
+      "en": "Employees must use the corporate-rate when reserving rooms at the conference hotel.",
+      "zh": "员工在会议酒店订房时必须使用企业协议价。"
+    },
+    {
+      "word": "business-visa",
+      "spelling": "B, U, S, I, N, E, S, S, hyphen, V, I, S, A",
+      "spoken_meaning": "名词，商务签证，因公务短期入境的签证",
+      "en": "The legal team will provide an invitation letter to support your business-visa application.",
+      "zh": "法务团队将提供邀请函，以支持你的商务签证申请。"
+    },
+    {
+      "word": "missed-connection",
+      "spelling": "M, I, S, S, E, D, hyphen, C, O, N, N, E, C, T, I, O, N",
+      "spoken_meaning": "名词，误机转机，错过衔接航班，未能赶上中转航班",
+      "en": "After a missed-connection in Chicago, the airline rebooked her on the next available flight.",
+      "zh": "在芝加哥误接后，航空公司把她改签到下一班有空位的航班。"
+    },
+    {
+      "word": "business-hours",
+      "spelling": "B, U, S, I, N, E, S, S, hyphen, H, O, U, R, S",
+      "spoken_meaning": "名词，营业时间，办公时间，对外服务时段",
+      "en": "The help desk takes calls only during business-hours, from 9 a.m. to 6 p.m.",
+      "zh": "服务台只在营业时间接听电话，即上午9点至下午6点。"
+    },
+    {
+      "word": "front-desk",
+      "spelling": "F, R, O, N, T, hyphen, D, E, S, K",
+      "spoken_meaning": "名词，前台，接待处，酒店或办公楼的接待柜台",
+      "en": "Visitors must collect a temporary badge at the front-desk before entering the offices.",
+      "zh": "访客进入办公区前，必须在前台领取临时徽章。"
+    },
+    {
+      "word": "distribution-list",
+      "spelling": "D, I, S, T, R, I, B, U, T, I, O, N, hyphen, L, I, S, T",
+      "spoken_meaning": "名词，分发名单，邮件组，信息送达对象清单",
+      "en": "Please add the new hires to the department distribution-list before Monday's announcement.",
+      "zh": "请在周一公告发出前，把新员工加入部门分发名单。"
+    },
+    {
+      "word": "lunch-break",
+      "spelling": "L, U, N, C, H, hyphen, B, R, E, A, K",
+      "spoken_meaning": "名词，午休，午餐时间，午餐休息时段",
+      "en": "The cafeteria is often crowded, so some teams take a later lunch-break at 1:00 p.m.",
+      "zh": "食堂常常拥挤，因此有些团队把午休推迟到下午1点。"
+    },
+    {
+      "word": "press-conference",
+      "spelling": "P, R, E, S, S, hyphen, C, O, N, F, E, R, E, N, C, E",
+      "spoken_meaning": "名词，新闻发布会，记者招待会",
+      "en": "The CEO will hold a press-conference at 10 a.m. to announce the merger.",
+      "zh": "首席执行官将于上午10点召开新闻发布会，宣布这起并购。"
+    },
+    {
+      "word": "customer-satisfaction",
+      "spelling": "C, U, S, T, O, M, E, R, hyphen, S, A, T, I, S, F, A, C, T, I, O, N",
+      "spoken_meaning": "名词，客户满意度，顾客对产品或服务的满意程度",
+      "en": "The support team reviews customer-satisfaction scores every quarter and adjusts its response times.",
+      "zh": "支持团队每个季度复核客户满意度分数，并据此调整响应时间。"
+    },
+    {
+      "word": "sales-pipeline",
+      "spelling": "S, A, L, E, S, hyphen, P, I, P, E, L, I, N, E",
+      "spoken_meaning": "名词，销售管道，销售漏斗中的潜在交易清单，销售机会储备",
+      "en": "The regional director asked each rep to update the sales-pipeline before Friday's forecast meeting.",
+      "zh": "区域总监要求每位销售代表在周五的预测会前更新销售管道。"
+    },
+    {
+      "word": "open-rate",
+      "spelling": "O, P, E, N, hyphen, R, A, T, E",
+      "spoken_meaning": "名词，打开率，收件人打开邮件的比例",
+      "en": "Changing the subject line raised the newsletter's open-rate from 18 percent to 24 percent.",
+      "zh": "更换主题行后，通讯邮件的打开率从18%提高到24%。"
+    },
+    {
+      "word": "breach-of-contract",
+      "spelling": "B, R, E, A, C, H, hyphen, O, F, hyphen, C, O, N, T, R, A, C, T",
+      "spoken_meaning": "名词，违约，违反合同条款的行为",
+      "en": "The supplier's repeated late deliveries may constitute a breach-of-contract under the supply agreement.",
+      "zh": "根据供货协议，供应商屡次延迟交货可能构成违约。"
+    },
+    {
+      "word": "contract-renewal",
+      "spelling": "C, O, N, T, R, A, C, T, hyphen, R, E, N, E, W, A, L",
+      "spoken_meaning": "名词，合同续约，合同续期，合同展期",
+      "en": "Please return the contract-renewal form at least 30 days before the agreement expires.",
+      "zh": "请至少在协议到期前30天交回合同续约表格。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第54轨，共20个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "general-ledger",
+      "voice": "en",
+      "text": "general ledger",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "general-ledger",
+      "voice": "en",
+      "text": "G, E, N, E, R, A, L, hyphen, L, E, D, G, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "general-ledger",
+      "voice": "zh",
+      "text": "名词，总账，总分类账，汇总全部会计科目的主账簿",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "general-ledger",
+      "voice": "en",
+      "text": "All invoice payments must be posted to the general-ledger by the monthly close.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "general-ledger",
+      "voice": "zh",
+      "text": "所有发票付款必须在月结前过账到总账。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "late-payment",
+      "voice": "en",
+      "text": "late payment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "late-payment",
+      "voice": "en",
+      "text": "L, A, T, E, hyphen, P, A, Y, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "late-payment",
+      "voice": "zh",
+      "text": "名词，逾期付款，迟付，逾期未付的款项",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "late-payment",
+      "voice": "en",
+      "text": "A late-payment fee will be added if the invoice is not settled within 15 days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "late-payment",
+      "voice": "zh",
+      "text": "若发票未在15天内结清，将加收一笔逾期付款手续费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sales-tax",
+      "voice": "en",
+      "text": "sales tax",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sales-tax",
+      "voice": "en",
+      "text": "S, A, L, E, S, hyphen, T, A, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sales-tax",
+      "voice": "zh",
+      "text": "名词，销售税，对商品或服务销售额征收的税",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sales-tax",
+      "voice": "en",
+      "text": "The quoted price does not include sales-tax, which will appear as a separate line on the invoice.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sales-tax",
+      "voice": "zh",
+      "text": "报价不含销售税，该税项将作为单独一行列在发票上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "credit-memo",
+      "voice": "en",
+      "text": "credit memo",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "credit-memo",
+      "voice": "en",
+      "text": "C, R, E, D, I, T, hyphen, M, E, M, O",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "credit-memo",
+      "voice": "zh",
+      "text": "名词，贷记通知单，贷项凭单，用于冲减应付账款的书面凭证",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "credit-memo",
+      "voice": "en",
+      "text": "Please issue a credit-memo for the damaged goods so we can adjust the outstanding balance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "credit-memo",
+      "voice": "zh",
+      "text": "请就损坏的货物开具贷记通知单，以便我们调整未结余额。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "payment-reminder",
+      "voice": "en",
+      "text": "payment reminder",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "payment-reminder",
+      "voice": "en",
+      "text": "P, A, Y, M, E, N, T, hyphen, R, E, M, I, N, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "payment-reminder",
+      "voice": "zh",
+      "text": "名词，催款提醒，付款提醒函，到期付款通知",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "payment-reminder",
+      "voice": "en",
+      "text": "Accounts receivable will send a payment-reminder three days before the invoice due date.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "payment-reminder",
+      "voice": "zh",
+      "text": "应收账款部门将在发票到期日前三天发送催款提醒。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "delayed-flight",
+      "voice": "en",
+      "text": "delayed flight",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "delayed-flight",
+      "voice": "en",
+      "text": "D, E, L, A, Y, E, D, hyphen, F, L, I, G, H, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "delayed-flight",
+      "voice": "zh",
+      "text": "名词，延误航班，推迟起飞或到达的航班",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "delayed-flight",
+      "voice": "en",
+      "text": "Because of a delayed-flight, the sales director will arrive two hours later than planned.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "delayed-flight",
+      "voice": "zh",
+      "text": "由于航班延误，销售总监将比原计划晚到两个小时。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cancellation-policy",
+      "voice": "en",
+      "text": "cancellation policy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cancellation-policy",
+      "voice": "en",
+      "text": "C, A, N, C, E, L, L, A, T, I, O, N, hyphen, P, O, L, I, C, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cancellation-policy",
+      "voice": "zh",
+      "text": "名词，取消政策，取消与退改规则",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cancellation-policy",
+      "voice": "en",
+      "text": "Please check the cancellation-policy before booking, as late cancellations are nonrefundable.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cancellation-policy",
+      "voice": "zh",
+      "text": "预订前请查看取消政策，因为逾期取消不予退款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "corporate-rate",
+      "voice": "en",
+      "text": "corporate rate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "corporate-rate",
+      "voice": "en",
+      "text": "C, O, R, P, O, R, A, T, E, hyphen, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "corporate-rate",
+      "voice": "zh",
+      "text": "名词，协议价，企业优惠价，公司合同房价或票价",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "corporate-rate",
+      "voice": "en",
+      "text": "Employees must use the corporate-rate when reserving rooms at the conference hotel.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "corporate-rate",
+      "voice": "zh",
+      "text": "员工在会议酒店订房时必须使用企业协议价。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "business-visa",
+      "voice": "en",
+      "text": "business visa",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "business-visa",
+      "voice": "en",
+      "text": "B, U, S, I, N, E, S, S, hyphen, V, I, S, A",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "business-visa",
+      "voice": "zh",
+      "text": "名词，商务签证，因公务短期入境的签证",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "business-visa",
+      "voice": "en",
+      "text": "The legal team will provide an invitation letter to support your business-visa application.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "business-visa",
+      "voice": "zh",
+      "text": "法务团队将提供邀请函，以支持你的商务签证申请。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "missed-connection",
+      "voice": "en",
+      "text": "missed connection",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "missed-connection",
+      "voice": "en",
+      "text": "M, I, S, S, E, D, hyphen, C, O, N, N, E, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "missed-connection",
+      "voice": "zh",
+      "text": "名词，误机转机，错过衔接航班，未能赶上中转航班",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "missed-connection",
+      "voice": "en",
+      "text": "After a missed-connection in Chicago, the airline rebooked her on the next available flight.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "missed-connection",
+      "voice": "zh",
+      "text": "在芝加哥误接后，航空公司把她改签到下一班有空位的航班。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "business-hours",
+      "voice": "en",
+      "text": "business hours",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "business-hours",
+      "voice": "en",
+      "text": "B, U, S, I, N, E, S, S, hyphen, H, O, U, R, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "business-hours",
+      "voice": "zh",
+      "text": "名词，营业时间，办公时间，对外服务时段",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "business-hours",
+      "voice": "en",
+      "text": "The help desk takes calls only during business-hours, from 9 a.m. to 6 p.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "business-hours",
+      "voice": "zh",
+      "text": "服务台只在营业时间接听电话，即上午9点至下午6点。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "front-desk",
+      "voice": "en",
+      "text": "front desk",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "front-desk",
+      "voice": "en",
+      "text": "F, R, O, N, T, hyphen, D, E, S, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "front-desk",
+      "voice": "zh",
+      "text": "名词，前台，接待处，酒店或办公楼的接待柜台",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "front-desk",
+      "voice": "en",
+      "text": "Visitors must collect a temporary badge at the front-desk before entering the offices.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "front-desk",
+      "voice": "zh",
+      "text": "访客进入办公区前，必须在前台领取临时徽章。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "distribution-list",
+      "voice": "en",
+      "text": "distribution list",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "distribution-list",
+      "voice": "en",
+      "text": "D, I, S, T, R, I, B, U, T, I, O, N, hyphen, L, I, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "distribution-list",
+      "voice": "zh",
+      "text": "名词，分发名单，邮件组，信息送达对象清单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "distribution-list",
+      "voice": "en",
+      "text": "Please add the new hires to the department distribution-list before Monday's announcement.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "distribution-list",
+      "voice": "zh",
+      "text": "请在周一公告发出前，把新员工加入部门分发名单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lunch-break",
+      "voice": "en",
+      "text": "lunch break",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lunch-break",
+      "voice": "en",
+      "text": "L, U, N, C, H, hyphen, B, R, E, A, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lunch-break",
+      "voice": "zh",
+      "text": "名词，午休，午餐时间，午餐休息时段",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lunch-break",
+      "voice": "en",
+      "text": "The cafeteria is often crowded, so some teams take a later lunch-break at 1:00 p.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lunch-break",
+      "voice": "zh",
+      "text": "食堂常常拥挤，因此有些团队把午休推迟到下午1点。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "press-conference",
+      "voice": "en",
+      "text": "press conference",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "press-conference",
+      "voice": "en",
+      "text": "P, R, E, S, S, hyphen, C, O, N, F, E, R, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "press-conference",
+      "voice": "zh",
+      "text": "名词，新闻发布会，记者招待会",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "press-conference",
+      "voice": "en",
+      "text": "The CEO will hold a press-conference at 10 a.m. to announce the merger.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "press-conference",
+      "voice": "zh",
+      "text": "首席执行官将于上午10点召开新闻发布会，宣布这起并购。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "customer-satisfaction",
+      "voice": "en",
+      "text": "customer satisfaction",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "customer-satisfaction",
+      "voice": "en",
+      "text": "C, U, S, T, O, M, E, R, hyphen, S, A, T, I, S, F, A, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "customer-satisfaction",
+      "voice": "zh",
+      "text": "名词，客户满意度，顾客对产品或服务的满意程度",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "customer-satisfaction",
+      "voice": "en",
+      "text": "The support team reviews customer-satisfaction scores every quarter and adjusts its response times.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "customer-satisfaction",
+      "voice": "zh",
+      "text": "支持团队每个季度复核客户满意度分数，并据此调整响应时间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sales-pipeline",
+      "voice": "en",
+      "text": "sales pipeline",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sales-pipeline",
+      "voice": "en",
+      "text": "S, A, L, E, S, hyphen, P, I, P, E, L, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sales-pipeline",
+      "voice": "zh",
+      "text": "名词，销售管道，销售漏斗中的潜在交易清单，销售机会储备",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sales-pipeline",
+      "voice": "en",
+      "text": "The regional director asked each rep to update the sales-pipeline before Friday's forecast meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sales-pipeline",
+      "voice": "zh",
+      "text": "区域总监要求每位销售代表在周五的预测会前更新销售管道。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "open-rate",
+      "voice": "en",
+      "text": "open rate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "open-rate",
+      "voice": "en",
+      "text": "O, P, E, N, hyphen, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "open-rate",
+      "voice": "zh",
+      "text": "名词，打开率，收件人打开邮件的比例",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "open-rate",
+      "voice": "en",
+      "text": "Changing the subject line raised the newsletter's open-rate from 18 percent to 24 percent.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "open-rate",
+      "voice": "zh",
+      "text": "更换主题行后，通讯邮件的打开率从18%提高到24%。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "breach-of-contract",
+      "voice": "en",
+      "text": "breach of contract",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "breach-of-contract",
+      "voice": "en",
+      "text": "B, R, E, A, C, H, hyphen, O, F, hyphen, C, O, N, T, R, A, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "breach-of-contract",
+      "voice": "zh",
+      "text": "名词，违约，违反合同条款的行为",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "breach-of-contract",
+      "voice": "en",
+      "text": "The supplier's repeated late deliveries may constitute a breach-of-contract under the supply agreement.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "breach-of-contract",
+      "voice": "zh",
+      "text": "根据供货协议，供应商屡次延迟交货可能构成违约。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "contract-renewal",
+      "voice": "en",
+      "text": "contract renewal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "contract-renewal",
+      "voice": "en",
+      "text": "C, O, N, T, R, A, C, T, hyphen, R, E, N, E, W, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "contract-renewal",
+      "voice": "zh",
+      "text": "名词，合同续约，合同续期，合同展期",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "contract-renewal",
+      "voice": "en",
+      "text": "Please return the contract-renewal form at least 30 days before the agreement expires.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "contract-renewal",
+      "voice": "zh",
+      "text": "请至少在协议到期前30天交回合同续约表格。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第54轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

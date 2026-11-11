@@ -1,0 +1,1314 @@
+{
+  "id": "038",
+  "track": 38,
+  "title": "第 38 轨",
+  "word_count": 30,
+  "headwords": [
+    "billboard",
+    "soft-launch",
+    "cross-sell",
+    "upsell",
+    "flagship",
+    "accrual",
+    "overdraft",
+    "exchange-rate",
+    "solvency",
+    "working-capital",
+    "maturity",
+    "probation",
+    "secondment",
+    "sabbatical",
+    "flextime",
+    "burnout",
+    "succession",
+    "force-majeure",
+    "boilerplate",
+    "action-item",
+    "cold-call",
+    "churn",
+    "escrow",
+    "nondisclosure",
+    "headhunter",
+    "offboarding",
+    "backfill",
+    "bandwidth",
+    "synergy",
+    "deep-dive"
+  ],
+  "entries": [
+    {
+      "word": "billboard",
+      "spelling": "B, I, L, L, B, O, A, R, D",
+      "spoken_meaning": "名词，广告牌，大型户外广告板，看板",
+      "en": "The launch campaign featured billboards near major transit hubs.",
+      "zh": "发布活动在主要交通枢纽附近投放了广告牌。"
+    },
+    {
+      "word": "soft-launch",
+      "spelling": "S, O, F, T, hyphen, L, A, U, N, C, H",
+      "spoken_meaning": "名词或动词，软启动，小范围试发布，低调上线",
+      "en": "We will soft-launch the app in two cities before a nationwide release.",
+      "zh": "我们将在全国上线前，先在两个城市对应用进行软启动。"
+    },
+    {
+      "word": "cross-sell",
+      "spelling": "C, R, O, S, S, hyphen, S, E, L, L",
+      "spoken_meaning": "动词或名词，交叉销售，搭售相关产品，交叉推销",
+      "en": "Bank tellers are trained to cross-sell savings products to checking customers.",
+      "zh": "银行柜员会接受培训，向支票账户客户交叉销售储蓄产品。"
+    },
+    {
+      "word": "upsell",
+      "spelling": "U, P, S, E, L, L",
+      "spoken_meaning": "动词或名词，向上销售，推销更高档版本，加售升级",
+      "en": "The agent tried to upsell me from the basic package to the unlimited plan.",
+      "zh": "客服试图把我从基础套餐向上销售到无限量方案。"
+    },
+    {
+      "word": "flagship",
+      "spelling": "F, L, A, G, S, H, I, P",
+      "spoken_meaning": "名词或形容词，旗舰，旗舰店/产品，代表性主打",
+      "en": "The company opened a flagship store on Fifth Avenue last month.",
+      "zh": "该公司上个月在第五大道开设了一家旗舰店。"
+    },
+    {
+      "word": "accrual",
+      "spelling": "A, C, C, R, U, A, L",
+      "spoken_meaning": "名词，应计，权责发生，应计项目",
+      "en": "The controller recorded an accrual for unpaid contractor invoices.",
+      "zh": "财务总监为尚未支付的承包商发票做了应计入账。"
+    },
+    {
+      "word": "overdraft",
+      "spelling": "O, V, E, R, D, R, A, F, T",
+      "spoken_meaning": "名词，透支，账户透支额，透支额度",
+      "en": "The account incurred a $35 overdraft fee after the automatic payment cleared.",
+      "zh": "自动扣款入账后，该账户产生了 35 美元的透支手续费。"
+    },
+    {
+      "word": "exchange-rate",
+      "spelling": "E, X, C, H, A, N, G, E, hyphen, R, A, T, E",
+      "spoken_meaning": "名词，汇率，外汇兑换率，汇价",
+      "en": "A weaker yen raised our import costs because of the exchange-rate shift.",
+      "zh": "日元走弱导致汇率变动，推高了我们的进口成本。"
+    },
+    {
+      "word": "solvency",
+      "spelling": "S, O, L, V, E, N, C, Y",
+      "spoken_meaning": "名词，偿付能力，清偿能力，资能抵债状态",
+      "en": "Lenders reviewed the firm's solvency before approving the expansion loan.",
+      "zh": "贷款方在批准扩张贷款前审查了该公司的偿付能力。"
+    },
+    {
+      "word": "working-capital",
+      "spelling": "W, O, R, K, I, N, G, hyphen, C, A, P, I, T, A, L",
+      "spoken_meaning": "名词，营运资金，流动资金，周转资本",
+      "en": "Delayed customer payments have tightened our working-capital this quarter.",
+      "zh": "客户回款延迟使本季度营运资金趋紧。"
+    },
+    {
+      "word": "maturity",
+      "spelling": "M, A, T, U, R, I, T, Y",
+      "spoken_meaning": "名词，到期，到期日，期限届满",
+      "en": "The bond pays the principal in full at maturity.",
+      "zh": "该债券在到期时全额偿付本金。"
+    },
+    {
+      "word": "probation",
+      "spelling": "P, R, O, B, A, T, I, O, N",
+      "spoken_meaning": "名词，试用期，见习期，考察期",
+      "en": "New employees remain on probation for the first three months.",
+      "zh": "新员工在最初三个月处于试用期。"
+    },
+    {
+      "word": "secondment",
+      "spelling": "S, E, C, O, N, D, M, E, N, T",
+      "spoken_meaning": "名词，借调，临时调派，外派支援",
+      "en": "She is on a six-month secondment to the regional office in Osaka.",
+      "zh": "她正在大阪区域办公室进行为期六个月的借调。"
+    },
+    {
+      "word": "sabbatical",
+      "spelling": "S, A, B, B, A, T, I, C, A, L",
+      "spoken_meaning": "名词或形容词，休假研修，学术年假，长期公休",
+      "en": "After ten years of service, professors may apply for a paid sabbatical.",
+      "zh": "服务满十年后，教授可申请带薪研修假。"
+    },
+    {
+      "word": "flextime",
+      "spelling": "F, L, E, X, T, I, M, E",
+      "spoken_meaning": "名词，弹性工时，弹性上班制，弹性工作时间",
+      "en": "Parents of young children often prefer flextime so they can handle school drop-offs.",
+      "zh": "有年幼子女的家长通常更喜欢弹性工时，以便接送孩子上学。"
+    },
+    {
+      "word": "burnout",
+      "spelling": "B, U, R, N, O, U, T",
+      "spoken_meaning": "名词，职业倦怠，过劳耗竭，精力燃尽",
+      "en": "Heavy overtime without rest days led to widespread burnout in the team.",
+      "zh": "长时间加班且缺少休息日，导致团队普遍出现职业倦怠。"
+    },
+    {
+      "word": "succession",
+      "spelling": "S, U, C, C, E, S, S, I, O, N",
+      "spoken_meaning": "名词，继任，接班，职位继承安排",
+      "en": "The board accelerated succession planning after the CEO announced retirement.",
+      "zh": "首席执行官宣布退休后，董事会加快了继任规划。"
+    },
+    {
+      "word": "force-majeure",
+      "spelling": "F, O, R, C, E, hyphen, M, A, J, E, U, R, E",
+      "spoken_meaning": "名词，不可抗力，不可抗力条款，免责事由",
+      "en": "The supplier invoked the force-majeure clause after the port was closed by the storm.",
+      "zh": "港口因风暴关闭后，供应商援引了不可抗力条款。"
+    },
+    {
+      "word": "boilerplate",
+      "spelling": "B, O, I, L, E, R, P, L, A, T, E",
+      "spoken_meaning": "名词，套用条款，标准模板文本，样板条款",
+      "en": "Most of the agreement is boilerplate, but the payment terms were heavily negotiated.",
+      "zh": "协议大部分是套用条款，但付款条款经过了充分协商。"
+    },
+    {
+      "word": "action-item",
+      "spelling": "A, C, T, I, O, N, hyphen, I, T, E, M",
+      "spoken_meaning": "名词，待办事项，行动项，会议落实任务",
+      "en": "Each action-item in the minutes names an owner and a due date.",
+      "zh": "会议纪要中的每一项待办事项都写明了负责人和截止日期。"
+    },
+    {
+      "word": "cold-call",
+      "spelling": "C, O, L, D, hyphen, C, A, L, L",
+      "spoken_meaning": "动词或名词，陌生拜访电话，冷电话推销，主动外呼潜在客户",
+      "en": "New sales reps spend the first month learning how to cold-call enterprise prospects.",
+      "zh": "新销售代表会用第一个月学习如何向企业潜在客户打陌生推销电话。"
+    },
+    {
+      "word": "churn",
+      "spelling": "C, H, U, R, N",
+      "spoken_meaning": "名词或动词，客户流失，用户流失率，流失（客户）",
+      "en": "The product team is redesigning onboarding to reduce monthly customer churn.",
+      "zh": "产品团队正在重新设计入职引导流程，以降低每月客户流失。"
+    },
+    {
+      "word": "escrow",
+      "spelling": "E, S, C, R, O, W",
+      "spoken_meaning": "名词，托管，第三方保管，托管账户",
+      "en": "The deposit will be held in escrow until both parties sign the closing documents.",
+      "zh": "定金将托管保管，直至双方签署交割文件。"
+    },
+    {
+      "word": "nondisclosure",
+      "spelling": "N, O, N, D, I, S, C, L, O, S, U, R, E",
+      "spoken_meaning": "名词，保密，不披露，保密义务（常指NDA）",
+      "en": "Vendors must sign a nondisclosure before reviewing the proprietary technical specs.",
+      "zh": "供应商在查阅专有技术规格前必须签署保密协议。"
+    },
+    {
+      "word": "headhunter",
+      "spelling": "H, E, A, D, H, U, N, T, E, R",
+      "spoken_meaning": "名词，猎头，猎头顾问，人才招聘中介",
+      "en": "A headhunter approached her about the regional director role at a competitor.",
+      "zh": "一位猎头就竞争对手的区域总监职位联系了她。"
+    },
+    {
+      "word": "offboarding",
+      "spelling": "O, F, F, B, O, A, R, D, I, N, G",
+      "spoken_meaning": "名词，离职交接，员工离任流程，退出流程",
+      "en": "IT begins offboarding by revoking system access on the employee's last day.",
+      "zh": "IT 部门在员工最后一天通过撤销系统权限开始离任流程。"
+    },
+    {
+      "word": "backfill",
+      "spelling": "B, A, C, K, F, I, L, L",
+      "spoken_meaning": "动词或名词，补缺，填补空缺职位，替补人员",
+      "en": "We need to backfill the analyst role before the quarter-end reporting cycle.",
+      "zh": "我们需要在季末报告周期开始前填补分析师职位空缺。"
+    },
+    {
+      "word": "bandwidth",
+      "spelling": "B, A, N, D, W, I, D, T, H",
+      "spoken_meaning": "名词，带宽，可用精力/时间，处理能力（比喻）",
+      "en": "I don't have the bandwidth to take on another project this month.",
+      "zh": "这个月我没有余力再接另一个项目。"
+    },
+    {
+      "word": "synergy",
+      "spelling": "S, Y, N, E, R, G, Y",
+      "spoken_meaning": "名词，协同效应，合力，优势互补",
+      "en": "Management expects significant cost synergies within a year of the merger.",
+      "zh": "管理层预计合并后一年内会出现显著的成本协同效应。"
+    },
+    {
+      "word": "deep-dive",
+      "spelling": "D, E, E, P, hyphen, D, I, V, E",
+      "spoken_meaning": "名词或动词，深入分析，专题深挖，详细研讨",
+      "en": "Let's schedule a deep-dive into the Q3 attrition numbers next Tuesday.",
+      "zh": "我们下周二安排一次对第三季度流失数据的深度研讨吧。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第38轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "billboard",
+      "voice": "en",
+      "text": "billboard",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "billboard",
+      "voice": "en",
+      "text": "B, I, L, L, B, O, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "billboard",
+      "voice": "zh",
+      "text": "名词，广告牌，大型户外广告板，看板",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "billboard",
+      "voice": "en",
+      "text": "The launch campaign featured billboards near major transit hubs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "billboard",
+      "voice": "zh",
+      "text": "发布活动在主要交通枢纽附近投放了广告牌。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "soft-launch",
+      "voice": "en",
+      "text": "soft launch",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "soft-launch",
+      "voice": "en",
+      "text": "S, O, F, T, hyphen, L, A, U, N, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "soft-launch",
+      "voice": "zh",
+      "text": "名词或动词，软启动，小范围试发布，低调上线",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "soft-launch",
+      "voice": "en",
+      "text": "We will soft-launch the app in two cities before a nationwide release.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "soft-launch",
+      "voice": "zh",
+      "text": "我们将在全国上线前，先在两个城市对应用进行软启动。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cross-sell",
+      "voice": "en",
+      "text": "cross sell",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cross-sell",
+      "voice": "en",
+      "text": "C, R, O, S, S, hyphen, S, E, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cross-sell",
+      "voice": "zh",
+      "text": "动词或名词，交叉销售，搭售相关产品，交叉推销",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cross-sell",
+      "voice": "en",
+      "text": "Bank tellers are trained to cross-sell savings products to checking customers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cross-sell",
+      "voice": "zh",
+      "text": "银行柜员会接受培训，向支票账户客户交叉销售储蓄产品。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "upsell",
+      "voice": "en",
+      "text": "upsell",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "upsell",
+      "voice": "en",
+      "text": "U, P, S, E, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "upsell",
+      "voice": "zh",
+      "text": "动词或名词，向上销售，推销更高档版本，加售升级",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "upsell",
+      "voice": "en",
+      "text": "The agent tried to upsell me from the basic package to the unlimited plan.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "upsell",
+      "voice": "zh",
+      "text": "客服试图把我从基础套餐向上销售到无限量方案。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "flagship",
+      "voice": "en",
+      "text": "flagship",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "flagship",
+      "voice": "en",
+      "text": "F, L, A, G, S, H, I, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "flagship",
+      "voice": "zh",
+      "text": "名词或形容词，旗舰，旗舰店/产品，代表性主打",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "flagship",
+      "voice": "en",
+      "text": "The company opened a flagship store on Fifth Avenue last month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "flagship",
+      "voice": "zh",
+      "text": "该公司上个月在第五大道开设了一家旗舰店。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "accrual",
+      "voice": "en",
+      "text": "accrual",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "accrual",
+      "voice": "en",
+      "text": "A, C, C, R, U, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "accrual",
+      "voice": "zh",
+      "text": "名词，应计，权责发生，应计项目",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "accrual",
+      "voice": "en",
+      "text": "The controller recorded an accrual for unpaid contractor invoices.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "accrual",
+      "voice": "zh",
+      "text": "财务总监为尚未支付的承包商发票做了应计入账。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "overdraft",
+      "voice": "en",
+      "text": "overdraft",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "overdraft",
+      "voice": "en",
+      "text": "O, V, E, R, D, R, A, F, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "overdraft",
+      "voice": "zh",
+      "text": "名词，透支，账户透支额，透支额度",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "overdraft",
+      "voice": "en",
+      "text": "The account incurred a $35 overdraft fee after the automatic payment cleared.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "overdraft",
+      "voice": "zh",
+      "text": "自动扣款入账后，该账户产生了 35 美元的透支手续费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "exchange-rate",
+      "voice": "en",
+      "text": "exchange rate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "exchange-rate",
+      "voice": "en",
+      "text": "E, X, C, H, A, N, G, E, hyphen, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "exchange-rate",
+      "voice": "zh",
+      "text": "名词，汇率，外汇兑换率，汇价",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "exchange-rate",
+      "voice": "en",
+      "text": "A weaker yen raised our import costs because of the exchange-rate shift.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "exchange-rate",
+      "voice": "zh",
+      "text": "日元走弱导致汇率变动，推高了我们的进口成本。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "solvency",
+      "voice": "en",
+      "text": "solvency",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "solvency",
+      "voice": "en",
+      "text": "S, O, L, V, E, N, C, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "solvency",
+      "voice": "zh",
+      "text": "名词，偿付能力，清偿能力，资能抵债状态",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "solvency",
+      "voice": "en",
+      "text": "Lenders reviewed the firm's solvency before approving the expansion loan.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "solvency",
+      "voice": "zh",
+      "text": "贷款方在批准扩张贷款前审查了该公司的偿付能力。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "working-capital",
+      "voice": "en",
+      "text": "working capital",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "working-capital",
+      "voice": "en",
+      "text": "W, O, R, K, I, N, G, hyphen, C, A, P, I, T, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "working-capital",
+      "voice": "zh",
+      "text": "名词，营运资金，流动资金，周转资本",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "working-capital",
+      "voice": "en",
+      "text": "Delayed customer payments have tightened our working-capital this quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "working-capital",
+      "voice": "zh",
+      "text": "客户回款延迟使本季度营运资金趋紧。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "maturity",
+      "voice": "en",
+      "text": "maturity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "maturity",
+      "voice": "en",
+      "text": "M, A, T, U, R, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "maturity",
+      "voice": "zh",
+      "text": "名词，到期，到期日，期限届满",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "maturity",
+      "voice": "en",
+      "text": "The bond pays the principal in full at maturity.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "maturity",
+      "voice": "zh",
+      "text": "该债券在到期时全额偿付本金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "probation",
+      "voice": "en",
+      "text": "probation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "probation",
+      "voice": "en",
+      "text": "P, R, O, B, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "probation",
+      "voice": "zh",
+      "text": "名词，试用期，见习期，考察期",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "probation",
+      "voice": "en",
+      "text": "New employees remain on probation for the first three months.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "probation",
+      "voice": "zh",
+      "text": "新员工在最初三个月处于试用期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "secondment",
+      "voice": "en",
+      "text": "secondment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "secondment",
+      "voice": "en",
+      "text": "S, E, C, O, N, D, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "secondment",
+      "voice": "zh",
+      "text": "名词，借调，临时调派，外派支援",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "secondment",
+      "voice": "en",
+      "text": "She is on a six-month secondment to the regional office in Osaka.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "secondment",
+      "voice": "zh",
+      "text": "她正在大阪区域办公室进行为期六个月的借调。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sabbatical",
+      "voice": "en",
+      "text": "sabbatical",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sabbatical",
+      "voice": "en",
+      "text": "S, A, B, B, A, T, I, C, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sabbatical",
+      "voice": "zh",
+      "text": "名词或形容词，休假研修，学术年假，长期公休",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sabbatical",
+      "voice": "en",
+      "text": "After ten years of service, professors may apply for a paid sabbatical.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sabbatical",
+      "voice": "zh",
+      "text": "服务满十年后，教授可申请带薪研修假。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "flextime",
+      "voice": "en",
+      "text": "flextime",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "flextime",
+      "voice": "en",
+      "text": "F, L, E, X, T, I, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "flextime",
+      "voice": "zh",
+      "text": "名词，弹性工时，弹性上班制，弹性工作时间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "flextime",
+      "voice": "en",
+      "text": "Parents of young children often prefer flextime so they can handle school drop-offs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "flextime",
+      "voice": "zh",
+      "text": "有年幼子女的家长通常更喜欢弹性工时，以便接送孩子上学。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "burnout",
+      "voice": "en",
+      "text": "burnout",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "burnout",
+      "voice": "en",
+      "text": "B, U, R, N, O, U, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "burnout",
+      "voice": "zh",
+      "text": "名词，职业倦怠，过劳耗竭，精力燃尽",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "burnout",
+      "voice": "en",
+      "text": "Heavy overtime without rest days led to widespread burnout in the team.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "burnout",
+      "voice": "zh",
+      "text": "长时间加班且缺少休息日，导致团队普遍出现职业倦怠。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "succession",
+      "voice": "en",
+      "text": "succession",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "succession",
+      "voice": "en",
+      "text": "S, U, C, C, E, S, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "succession",
+      "voice": "zh",
+      "text": "名词，继任，接班，职位继承安排",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "succession",
+      "voice": "en",
+      "text": "The board accelerated succession planning after the CEO announced retirement.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "succession",
+      "voice": "zh",
+      "text": "首席执行官宣布退休后，董事会加快了继任规划。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "force-majeure",
+      "voice": "en",
+      "text": "force majeure",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "force-majeure",
+      "voice": "en",
+      "text": "F, O, R, C, E, hyphen, M, A, J, E, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "force-majeure",
+      "voice": "zh",
+      "text": "名词，不可抗力，不可抗力条款，免责事由",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "force-majeure",
+      "voice": "en",
+      "text": "The supplier invoked the force-majeure clause after the port was closed by the storm.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "force-majeure",
+      "voice": "zh",
+      "text": "港口因风暴关闭后，供应商援引了不可抗力条款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "boilerplate",
+      "voice": "en",
+      "text": "boilerplate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "boilerplate",
+      "voice": "en",
+      "text": "B, O, I, L, E, R, P, L, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "boilerplate",
+      "voice": "zh",
+      "text": "名词，套用条款，标准模板文本，样板条款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "boilerplate",
+      "voice": "en",
+      "text": "Most of the agreement is boilerplate, but the payment terms were heavily negotiated.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "boilerplate",
+      "voice": "zh",
+      "text": "协议大部分是套用条款，但付款条款经过了充分协商。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "action-item",
+      "voice": "en",
+      "text": "action item",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "action-item",
+      "voice": "en",
+      "text": "A, C, T, I, O, N, hyphen, I, T, E, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "action-item",
+      "voice": "zh",
+      "text": "名词，待办事项，行动项，会议落实任务",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "action-item",
+      "voice": "en",
+      "text": "Each action-item in the minutes names an owner and a due date.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "action-item",
+      "voice": "zh",
+      "text": "会议纪要中的每一项待办事项都写明了负责人和截止日期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cold-call",
+      "voice": "en",
+      "text": "cold call",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cold-call",
+      "voice": "en",
+      "text": "C, O, L, D, hyphen, C, A, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cold-call",
+      "voice": "zh",
+      "text": "动词或名词，陌生拜访电话，冷电话推销，主动外呼潜在客户",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cold-call",
+      "voice": "en",
+      "text": "New sales reps spend the first month learning how to cold-call enterprise prospects.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cold-call",
+      "voice": "zh",
+      "text": "新销售代表会用第一个月学习如何向企业潜在客户打陌生推销电话。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "churn",
+      "voice": "en",
+      "text": "churn",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "churn",
+      "voice": "en",
+      "text": "C, H, U, R, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "churn",
+      "voice": "zh",
+      "text": "名词或动词，客户流失，用户流失率，流失（客户）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "churn",
+      "voice": "en",
+      "text": "The product team is redesigning onboarding to reduce monthly customer churn.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "churn",
+      "voice": "zh",
+      "text": "产品团队正在重新设计入职引导流程，以降低每月客户流失。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "escrow",
+      "voice": "en",
+      "text": "escrow",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "escrow",
+      "voice": "en",
+      "text": "E, S, C, R, O, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "escrow",
+      "voice": "zh",
+      "text": "名词，托管，第三方保管，托管账户",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "escrow",
+      "voice": "en",
+      "text": "The deposit will be held in escrow until both parties sign the closing documents.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "escrow",
+      "voice": "zh",
+      "text": "定金将托管保管，直至双方签署交割文件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "nondisclosure",
+      "voice": "en",
+      "text": "nondisclosure",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "nondisclosure",
+      "voice": "en",
+      "text": "N, O, N, D, I, S, C, L, O, S, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "nondisclosure",
+      "voice": "zh",
+      "text": "名词，保密，不披露，保密义务（常指NDA）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "nondisclosure",
+      "voice": "en",
+      "text": "Vendors must sign a nondisclosure before reviewing the proprietary technical specs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "nondisclosure",
+      "voice": "zh",
+      "text": "供应商在查阅专有技术规格前必须签署保密协议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "headhunter",
+      "voice": "en",
+      "text": "headhunter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "headhunter",
+      "voice": "en",
+      "text": "H, E, A, D, H, U, N, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "headhunter",
+      "voice": "zh",
+      "text": "名词，猎头，猎头顾问，人才招聘中介",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "headhunter",
+      "voice": "en",
+      "text": "A headhunter approached her about the regional director role at a competitor.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "headhunter",
+      "voice": "zh",
+      "text": "一位猎头就竞争对手的区域总监职位联系了她。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "offboarding",
+      "voice": "en",
+      "text": "offboarding",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "offboarding",
+      "voice": "en",
+      "text": "O, F, F, B, O, A, R, D, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "offboarding",
+      "voice": "zh",
+      "text": "名词，离职交接，员工离任流程，退出流程",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "offboarding",
+      "voice": "en",
+      "text": "IT begins offboarding by revoking system access on the employee's last day.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "offboarding",
+      "voice": "zh",
+      "text": "IT 部门在员工最后一天通过撤销系统权限开始离任流程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "backfill",
+      "voice": "en",
+      "text": "backfill",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "backfill",
+      "voice": "en",
+      "text": "B, A, C, K, F, I, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "backfill",
+      "voice": "zh",
+      "text": "动词或名词，补缺，填补空缺职位，替补人员",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "backfill",
+      "voice": "en",
+      "text": "We need to backfill the analyst role before the quarter-end reporting cycle.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "backfill",
+      "voice": "zh",
+      "text": "我们需要在季末报告周期开始前填补分析师职位空缺。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bandwidth",
+      "voice": "en",
+      "text": "bandwidth",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bandwidth",
+      "voice": "en",
+      "text": "B, A, N, D, W, I, D, T, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bandwidth",
+      "voice": "zh",
+      "text": "名词，带宽，可用精力/时间，处理能力（比喻）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bandwidth",
+      "voice": "en",
+      "text": "I don't have the bandwidth to take on another project this month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bandwidth",
+      "voice": "zh",
+      "text": "这个月我没有余力再接另一个项目。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "synergy",
+      "voice": "en",
+      "text": "synergy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "synergy",
+      "voice": "en",
+      "text": "S, Y, N, E, R, G, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "synergy",
+      "voice": "zh",
+      "text": "名词，协同效应，合力，优势互补",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "synergy",
+      "voice": "en",
+      "text": "Management expects significant cost synergies within a year of the merger.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "synergy",
+      "voice": "zh",
+      "text": "管理层预计合并后一年内会出现显著的成本协同效应。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "deep-dive",
+      "voice": "en",
+      "text": "deep dive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deep-dive",
+      "voice": "en",
+      "text": "D, E, E, P, hyphen, D, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deep-dive",
+      "voice": "zh",
+      "text": "名词或动词，深入分析，专题深挖，详细研讨",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deep-dive",
+      "voice": "en",
+      "text": "Let's schedule a deep-dive into the Q3 attrition numbers next Tuesday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deep-dive",
+      "voice": "zh",
+      "text": "我们下周二安排一次对第三季度流失数据的深度研讨吧。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第38轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

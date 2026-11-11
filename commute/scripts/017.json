@@ -1,0 +1,1314 @@
+{
+  "id": "017",
+  "track": 17,
+  "title": "第 17 轨",
+  "word_count": 30,
+  "headwords": [
+    "commerce",
+    "compete",
+    "complaint",
+    "compose",
+    "comprise",
+    "compromise",
+    "compulsory",
+    "concentrate",
+    "concept",
+    "concern",
+    "concession",
+    "concise",
+    "confident",
+    "confidential",
+    "contact",
+    "corporate",
+    "correspondence",
+    "criterion",
+    "crucial",
+    "customer",
+    "damage",
+    "debt",
+    "defect",
+    "delegate",
+    "dependable",
+    "depreciation",
+    "deputy",
+    "description",
+    "destination",
+    "detach"
+  ],
+  "entries": [
+    {
+      "word": "commerce",
+      "spelling": "C, O, M, M, E, R, C, E",
+      "spoken_meaning": "名词，商业，贸易，商务",
+      "en": "E-commerce has transformed the way small firms sell products.",
+      "zh": "电子商务改变了小企业销售产品的方式。"
+    },
+    {
+      "word": "compete",
+      "spelling": "C, O, M, P, E, T, E",
+      "spoken_meaning": "动词，竞争，参赛，争夺",
+      "en": "Local stores must compete with large online retailers.",
+      "zh": "本地商店必须与大型线上零售商竞争。"
+    },
+    {
+      "word": "complaint",
+      "spelling": "C, O, M, P, L, A, I, N, T",
+      "spoken_meaning": "名词，投诉，抱怨，控告",
+      "en": "The service desk received several complaints about delayed deliveries.",
+      "zh": "客服台收到若干关于延误交货的投诉。"
+    },
+    {
+      "word": "compose",
+      "spelling": "C, O, M, P, O, S, E",
+      "spoken_meaning": "动词，组成，撰写，作曲",
+      "en": "Please compose a brief reply to the client’s inquiry.",
+      "zh": "请就客户的询问撰写一封简短回复。"
+    },
+    {
+      "word": "comprise",
+      "spelling": "C, O, M, P, R, I, S, E",
+      "spoken_meaning": "动词，包含，由……组成，构成",
+      "en": "The new division will comprise five regional offices.",
+      "zh": "新事业部将包含五个区域办事处。"
+    },
+    {
+      "word": "compromise",
+      "spelling": "C, O, M, P, R, O, M, I, S, E",
+      "spoken_meaning": "名词或动词，妥协，和解，损害",
+      "en": "Both parties finally reached a compromise on the delivery schedule.",
+      "zh": "双方最终就交货时间表达成妥协。"
+    },
+    {
+      "word": "compulsory",
+      "spelling": "C, O, M, P, U, L, S, O, R, Y",
+      "spoken_meaning": "形容词，强制的，义务的，必修的",
+      "en": "Safety training is compulsory for all new employees.",
+      "zh": "所有新员工都必须参加安全培训。"
+    },
+    {
+      "word": "concentrate",
+      "spelling": "C, O, N, C, E, N, T, R, A, T, E",
+      "spoken_meaning": "动词，集中，专注，浓缩",
+      "en": "Please concentrate on completing the quarterly report first.",
+      "zh": "请先专注于完成季度报告。"
+    },
+    {
+      "word": "concept",
+      "spelling": "C, O, N, C, E, P, T",
+      "spoken_meaning": "名词，概念，观念，构思",
+      "en": "The design team presented a new product concept yesterday.",
+      "zh": "设计团队昨天展示了一个新的产品概念。"
+    },
+    {
+      "word": "concern",
+      "spelling": "C, O, N, C, E, R, N",
+      "spoken_meaning": "名词或动词，关心，担忧，涉及",
+      "en": "Our primary concern is meeting the client’s quality standards.",
+      "zh": "我们的首要关切是达到客户的质量标准。"
+    },
+    {
+      "word": "concession",
+      "spelling": "C, O, N, C, E, S, S, I, O, N",
+      "spoken_meaning": "名词，让步，特许，concessionstand摊位",
+      "en": "The supplier offered a small price concession on the bulk order.",
+      "zh": "供应商对大宗订单给出了小幅价格让步。"
+    },
+    {
+      "word": "concise",
+      "spelling": "C, O, N, C, I, S, E",
+      "spoken_meaning": "形容词，简洁的，简明的，精练的",
+      "en": "Please keep your presentation clear and concise.",
+      "zh": "请保持演示清晰简洁。"
+    },
+    {
+      "word": "confident",
+      "spelling": "C, O, N, F, I, D, E, N, T",
+      "spoken_meaning": "形容词，自信的，有把握的，确信的",
+      "en": "We are confident that sales will improve next quarter.",
+      "zh": "我们确信下季度销售额会有所提升。"
+    },
+    {
+      "word": "confidential",
+      "spelling": "C, O, N, F, I, D, E, N, T, I, A, L",
+      "spoken_meaning": "形容词，机密的，保密的，亲信的",
+      "en": "Please treat this document as strictly confidential.",
+      "zh": "请将此文件视为严格保密。"
+    },
+    {
+      "word": "contact",
+      "spelling": "C, O, N, T, A, C, T",
+      "spoken_meaning": "名词或动词，联系，接触，联络人",
+      "en": "Please contact our sales team for a customized quote.",
+      "zh": "如需定制报价，请联系我们的销售团队。"
+    },
+    {
+      "word": "corporate",
+      "spelling": "C, O, R, P, O, R, A, T, E",
+      "spoken_meaning": "形容词，公司的，法人的，团体的",
+      "en": "The firm is revising its corporate culture guidelines.",
+      "zh": "该公司正在修订企业文化准则。"
+    },
+    {
+      "word": "correspondence",
+      "spelling": "C, O, R, R, E, S, P, O, N, D, E, N, C, E",
+      "spoken_meaning": "名词，通信，往来信件，对应关系",
+      "en": "All business correspondence should be filed by date.",
+      "zh": "所有商务信函应按日期归档。"
+    },
+    {
+      "word": "criterion",
+      "spelling": "C, R, I, T, E, R, I, O, N",
+      "spoken_meaning": "名词，标准，准则，尺度（复criteria）",
+      "en": "Price is not the only criterion for choosing a supplier.",
+      "zh": "价格并非选择供应商的唯一标准。"
+    },
+    {
+      "word": "crucial",
+      "spelling": "C, R, U, C, I, A, L",
+      "spoken_meaning": "形容词，至关重要的，关键的，决定性的",
+      "en": "Timely communication is crucial to project success.",
+      "zh": "及时沟通对项目成功至关重要。"
+    },
+    {
+      "word": "customer",
+      "spelling": "C, U, S, T, O, M, E, R",
+      "spoken_meaning": "名词，顾客，客户，主顾",
+      "en": "Customer satisfaction remains our top performance metric.",
+      "zh": "客户满意度仍是我们的首要业绩指标。"
+    },
+    {
+      "word": "damage",
+      "spelling": "D, A, M, A, G, E",
+      "spoken_meaning": "名词或动词，损坏，损害，损失",
+      "en": "Please report any items that were damaged in transit within 48 hours.",
+      "zh": "运输途中受损的物品请在 48 小时内报告。"
+    },
+    {
+      "word": "debt",
+      "spelling": "D, E, B, T",
+      "spoken_meaning": "名词，债务，欠款",
+      "en": "The company used the proceeds from the sale to pay off its debt.",
+      "zh": "公司用出售所得款项还清了债务。"
+    },
+    {
+      "word": "defect",
+      "spelling": "D, E, F, E, C, T",
+      "spoken_meaning": "名词，缺陷，瑕疵",
+      "en": "The warranty covers any manufacturing defect for two years.",
+      "zh": "保修涵盖两年内的任何制造缺陷。"
+    },
+    {
+      "word": "delegate",
+      "spelling": "D, E, L, E, G, A, T, E",
+      "spoken_meaning": "动词或名词，委派，授权，代表",
+      "en": "Good managers know how to delegate tasks to their team members.",
+      "zh": "好的经理懂得把任务委派给团队成员。"
+    },
+    {
+      "word": "dependable",
+      "spelling": "D, E, P, E, N, D, A, B, L, E",
+      "spoken_meaning": "形容词，可靠的，可信赖的",
+      "en": "We chose the vendor because of its dependable delivery record.",
+      "zh": "我们选择这家供应商是因为其交货记录可靠。"
+    },
+    {
+      "word": "depreciation",
+      "spelling": "D, E, P, R, E, C, I, A, T, I, O, N",
+      "spoken_meaning": "名词，折旧，贬值",
+      "en": "The accountant calculated the depreciation of the company's vehicles.",
+      "zh": "会计计算了公司车辆的折旧。"
+    },
+    {
+      "word": "deputy",
+      "spelling": "D, E, P, U, T, Y",
+      "spoken_meaning": "名词或形容词，副手，代理人，副的",
+      "en": "The deputy manager will chair the meeting in Ms. Chen's absence.",
+      "zh": "陈女士不在时，由副经理主持会议。"
+    },
+    {
+      "word": "description",
+      "spelling": "D, E, S, C, R, I, P, T, I, O, N",
+      "spoken_meaning": "名词，描述，说明",
+      "en": "Please read the job description carefully before applying.",
+      "zh": "申请前请仔细阅读职位描述。"
+    },
+    {
+      "word": "destination",
+      "spelling": "D, E, S, T, I, N, A, T, I, O, N",
+      "spoken_meaning": "名词，目的地，终点",
+      "en": "Your luggage will be checked through to your final destination.",
+      "zh": "您的行李将直接托运至最终目的地。"
+    },
+    {
+      "word": "detach",
+      "spelling": "D, E, T, A, C, H",
+      "spoken_meaning": "动词，拆下，分离，撕下",
+      "en": "Please detach the bottom portion and return it with your payment.",
+      "zh": "请撕下底部回执，连同付款一并寄回。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第17轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "commerce",
+      "voice": "en",
+      "text": "commerce",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "commerce",
+      "voice": "en",
+      "text": "C, O, M, M, E, R, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "commerce",
+      "voice": "zh",
+      "text": "名词，商业，贸易，商务",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "commerce",
+      "voice": "en",
+      "text": "E-commerce has transformed the way small firms sell products.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "commerce",
+      "voice": "zh",
+      "text": "电子商务改变了小企业销售产品的方式。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "compete",
+      "voice": "en",
+      "text": "compete",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "compete",
+      "voice": "en",
+      "text": "C, O, M, P, E, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "compete",
+      "voice": "zh",
+      "text": "动词，竞争，参赛，争夺",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "compete",
+      "voice": "en",
+      "text": "Local stores must compete with large online retailers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "compete",
+      "voice": "zh",
+      "text": "本地商店必须与大型线上零售商竞争。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "complaint",
+      "voice": "en",
+      "text": "complaint",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "complaint",
+      "voice": "en",
+      "text": "C, O, M, P, L, A, I, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "complaint",
+      "voice": "zh",
+      "text": "名词，投诉，抱怨，控告",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "complaint",
+      "voice": "en",
+      "text": "The service desk received several complaints about delayed deliveries.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "complaint",
+      "voice": "zh",
+      "text": "客服台收到若干关于延误交货的投诉。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "compose",
+      "voice": "en",
+      "text": "compose",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "compose",
+      "voice": "en",
+      "text": "C, O, M, P, O, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "compose",
+      "voice": "zh",
+      "text": "动词，组成，撰写，作曲",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "compose",
+      "voice": "en",
+      "text": "Please compose a brief reply to the client’s inquiry.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "compose",
+      "voice": "zh",
+      "text": "请就客户的询问撰写一封简短回复。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "comprise",
+      "voice": "en",
+      "text": "comprise",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "comprise",
+      "voice": "en",
+      "text": "C, O, M, P, R, I, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "comprise",
+      "voice": "zh",
+      "text": "动词，包含，由……组成，构成",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "comprise",
+      "voice": "en",
+      "text": "The new division will comprise five regional offices.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "comprise",
+      "voice": "zh",
+      "text": "新事业部将包含五个区域办事处。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "compromise",
+      "voice": "en",
+      "text": "compromise",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "compromise",
+      "voice": "en",
+      "text": "C, O, M, P, R, O, M, I, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "compromise",
+      "voice": "zh",
+      "text": "名词或动词，妥协，和解，损害",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "compromise",
+      "voice": "en",
+      "text": "Both parties finally reached a compromise on the delivery schedule.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "compromise",
+      "voice": "zh",
+      "text": "双方最终就交货时间表达成妥协。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "compulsory",
+      "voice": "en",
+      "text": "compulsory",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "compulsory",
+      "voice": "en",
+      "text": "C, O, M, P, U, L, S, O, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "compulsory",
+      "voice": "zh",
+      "text": "形容词，强制的，义务的，必修的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "compulsory",
+      "voice": "en",
+      "text": "Safety training is compulsory for all new employees.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "compulsory",
+      "voice": "zh",
+      "text": "所有新员工都必须参加安全培训。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "concentrate",
+      "voice": "en",
+      "text": "concentrate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "concentrate",
+      "voice": "en",
+      "text": "C, O, N, C, E, N, T, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "concentrate",
+      "voice": "zh",
+      "text": "动词，集中，专注，浓缩",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "concentrate",
+      "voice": "en",
+      "text": "Please concentrate on completing the quarterly report first.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "concentrate",
+      "voice": "zh",
+      "text": "请先专注于完成季度报告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "concept",
+      "voice": "en",
+      "text": "concept",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "concept",
+      "voice": "en",
+      "text": "C, O, N, C, E, P, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "concept",
+      "voice": "zh",
+      "text": "名词，概念，观念，构思",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "concept",
+      "voice": "en",
+      "text": "The design team presented a new product concept yesterday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "concept",
+      "voice": "zh",
+      "text": "设计团队昨天展示了一个新的产品概念。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "concern",
+      "voice": "en",
+      "text": "concern",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "concern",
+      "voice": "en",
+      "text": "C, O, N, C, E, R, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "concern",
+      "voice": "zh",
+      "text": "名词或动词，关心，担忧，涉及",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "concern",
+      "voice": "en",
+      "text": "Our primary concern is meeting the client’s quality standards.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "concern",
+      "voice": "zh",
+      "text": "我们的首要关切是达到客户的质量标准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "concession",
+      "voice": "en",
+      "text": "concession",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "concession",
+      "voice": "en",
+      "text": "C, O, N, C, E, S, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "concession",
+      "voice": "zh",
+      "text": "名词，让步，特许，concessionstand摊位",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "concession",
+      "voice": "en",
+      "text": "The supplier offered a small price concession on the bulk order.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "concession",
+      "voice": "zh",
+      "text": "供应商对大宗订单给出了小幅价格让步。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "concise",
+      "voice": "en",
+      "text": "concise",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "concise",
+      "voice": "en",
+      "text": "C, O, N, C, I, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "concise",
+      "voice": "zh",
+      "text": "形容词，简洁的，简明的，精练的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "concise",
+      "voice": "en",
+      "text": "Please keep your presentation clear and concise.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "concise",
+      "voice": "zh",
+      "text": "请保持演示清晰简洁。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "confident",
+      "voice": "en",
+      "text": "confident",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "confident",
+      "voice": "en",
+      "text": "C, O, N, F, I, D, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "confident",
+      "voice": "zh",
+      "text": "形容词，自信的，有把握的，确信的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "confident",
+      "voice": "en",
+      "text": "We are confident that sales will improve next quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "confident",
+      "voice": "zh",
+      "text": "我们确信下季度销售额会有所提升。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "confidential",
+      "voice": "en",
+      "text": "confidential",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "confidential",
+      "voice": "en",
+      "text": "C, O, N, F, I, D, E, N, T, I, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "confidential",
+      "voice": "zh",
+      "text": "形容词，机密的，保密的，亲信的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "confidential",
+      "voice": "en",
+      "text": "Please treat this document as strictly confidential.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "confidential",
+      "voice": "zh",
+      "text": "请将此文件视为严格保密。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "contact",
+      "voice": "en",
+      "text": "contact",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "contact",
+      "voice": "en",
+      "text": "C, O, N, T, A, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "contact",
+      "voice": "zh",
+      "text": "名词或动词，联系，接触，联络人",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "contact",
+      "voice": "en",
+      "text": "Please contact our sales team for a customized quote.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "contact",
+      "voice": "zh",
+      "text": "如需定制报价，请联系我们的销售团队。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "corporate",
+      "voice": "en",
+      "text": "corporate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "corporate",
+      "voice": "en",
+      "text": "C, O, R, P, O, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "corporate",
+      "voice": "zh",
+      "text": "形容词，公司的，法人的，团体的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "corporate",
+      "voice": "en",
+      "text": "The firm is revising its corporate culture guidelines.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "corporate",
+      "voice": "zh",
+      "text": "该公司正在修订企业文化准则。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "correspondence",
+      "voice": "en",
+      "text": "correspondence",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "correspondence",
+      "voice": "en",
+      "text": "C, O, R, R, E, S, P, O, N, D, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "correspondence",
+      "voice": "zh",
+      "text": "名词，通信，往来信件，对应关系",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "correspondence",
+      "voice": "en",
+      "text": "All business correspondence should be filed by date.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "correspondence",
+      "voice": "zh",
+      "text": "所有商务信函应按日期归档。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "criterion",
+      "voice": "en",
+      "text": "criterion",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "criterion",
+      "voice": "en",
+      "text": "C, R, I, T, E, R, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "criterion",
+      "voice": "zh",
+      "text": "名词，标准，准则，尺度（复criteria）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "criterion",
+      "voice": "en",
+      "text": "Price is not the only criterion for choosing a supplier.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "criterion",
+      "voice": "zh",
+      "text": "价格并非选择供应商的唯一标准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "crucial",
+      "voice": "en",
+      "text": "crucial",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "crucial",
+      "voice": "en",
+      "text": "C, R, U, C, I, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "crucial",
+      "voice": "zh",
+      "text": "形容词，至关重要的，关键的，决定性的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "crucial",
+      "voice": "en",
+      "text": "Timely communication is crucial to project success.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "crucial",
+      "voice": "zh",
+      "text": "及时沟通对项目成功至关重要。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "customer",
+      "voice": "en",
+      "text": "customer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "customer",
+      "voice": "en",
+      "text": "C, U, S, T, O, M, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "customer",
+      "voice": "zh",
+      "text": "名词，顾客，客户，主顾",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "customer",
+      "voice": "en",
+      "text": "Customer satisfaction remains our top performance metric.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "customer",
+      "voice": "zh",
+      "text": "客户满意度仍是我们的首要业绩指标。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "damage",
+      "voice": "en",
+      "text": "damage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "damage",
+      "voice": "en",
+      "text": "D, A, M, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "damage",
+      "voice": "zh",
+      "text": "名词或动词，损坏，损害，损失",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "damage",
+      "voice": "en",
+      "text": "Please report any items that were damaged in transit within 48 hours.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "damage",
+      "voice": "zh",
+      "text": "运输途中受损的物品请在 48 小时内报告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "debt",
+      "voice": "en",
+      "text": "debt",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "debt",
+      "voice": "en",
+      "text": "D, E, B, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "debt",
+      "voice": "zh",
+      "text": "名词，债务，欠款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "debt",
+      "voice": "en",
+      "text": "The company used the proceeds from the sale to pay off its debt.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "debt",
+      "voice": "zh",
+      "text": "公司用出售所得款项还清了债务。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "defect",
+      "voice": "en",
+      "text": "defect",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "defect",
+      "voice": "en",
+      "text": "D, E, F, E, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "defect",
+      "voice": "zh",
+      "text": "名词，缺陷，瑕疵",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "defect",
+      "voice": "en",
+      "text": "The warranty covers any manufacturing defect for two years.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "defect",
+      "voice": "zh",
+      "text": "保修涵盖两年内的任何制造缺陷。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "delegate",
+      "voice": "en",
+      "text": "delegate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "delegate",
+      "voice": "en",
+      "text": "D, E, L, E, G, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "delegate",
+      "voice": "zh",
+      "text": "动词或名词，委派，授权，代表",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "delegate",
+      "voice": "en",
+      "text": "Good managers know how to delegate tasks to their team members.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "delegate",
+      "voice": "zh",
+      "text": "好的经理懂得把任务委派给团队成员。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "dependable",
+      "voice": "en",
+      "text": "dependable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "dependable",
+      "voice": "en",
+      "text": "D, E, P, E, N, D, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "dependable",
+      "voice": "zh",
+      "text": "形容词，可靠的，可信赖的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "dependable",
+      "voice": "en",
+      "text": "We chose the vendor because of its dependable delivery record.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "dependable",
+      "voice": "zh",
+      "text": "我们选择这家供应商是因为其交货记录可靠。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "depreciation",
+      "voice": "en",
+      "text": "depreciation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "depreciation",
+      "voice": "en",
+      "text": "D, E, P, R, E, C, I, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "depreciation",
+      "voice": "zh",
+      "text": "名词，折旧，贬值",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "depreciation",
+      "voice": "en",
+      "text": "The accountant calculated the depreciation of the company's vehicles.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "depreciation",
+      "voice": "zh",
+      "text": "会计计算了公司车辆的折旧。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "deputy",
+      "voice": "en",
+      "text": "deputy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deputy",
+      "voice": "en",
+      "text": "D, E, P, U, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deputy",
+      "voice": "zh",
+      "text": "名词或形容词，副手，代理人，副的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deputy",
+      "voice": "en",
+      "text": "The deputy manager will chair the meeting in Ms. Chen's absence.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deputy",
+      "voice": "zh",
+      "text": "陈女士不在时，由副经理主持会议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "description",
+      "voice": "en",
+      "text": "description",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "description",
+      "voice": "en",
+      "text": "D, E, S, C, R, I, P, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "description",
+      "voice": "zh",
+      "text": "名词，描述，说明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "description",
+      "voice": "en",
+      "text": "Please read the job description carefully before applying.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "description",
+      "voice": "zh",
+      "text": "申请前请仔细阅读职位描述。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "destination",
+      "voice": "en",
+      "text": "destination",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "destination",
+      "voice": "en",
+      "text": "D, E, S, T, I, N, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "destination",
+      "voice": "zh",
+      "text": "名词，目的地，终点",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "destination",
+      "voice": "en",
+      "text": "Your luggage will be checked through to your final destination.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "destination",
+      "voice": "zh",
+      "text": "您的行李将直接托运至最终目的地。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "detach",
+      "voice": "en",
+      "text": "detach",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "detach",
+      "voice": "en",
+      "text": "D, E, T, A, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "detach",
+      "voice": "zh",
+      "text": "动词，拆下，分离，撕下",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "detach",
+      "voice": "en",
+      "text": "Please detach the bottom portion and return it with your payment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "detach",
+      "voice": "zh",
+      "text": "请撕下底部回执，连同付款一并寄回。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第17轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

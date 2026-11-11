@@ -1,0 +1,1314 @@
+{
+  "id": "021",
+  "track": 21,
+  "title": "第 21 轨",
+  "word_count": 30,
+  "headwords": [
+    "layoff",
+    "ledger",
+    "legislation",
+    "liability",
+    "license",
+    "liquidate",
+    "loan",
+    "locate",
+    "lodging",
+    "logistics",
+    "loyalty",
+    "lucrative",
+    "luggage",
+    "maintain",
+    "malfunction",
+    "mandatory",
+    "manual",
+    "markup",
+    "merger",
+    "milestone",
+    "mediate",
+    "memorandum",
+    "mentor",
+    "minimize",
+    "minutes",
+    "modify",
+    "morale",
+    "mortgage",
+    "net",
+    "nominate"
+  ],
+  "entries": [
+    {
+      "word": "layoff",
+      "spelling": "L, A, Y, O, F, F",
+      "spoken_meaning": "名词，裁员，解雇",
+      "en": "Management assured staff that the merger would not result in layoffs.",
+      "zh": "管理层向员工保证，这次合并不会导致裁员。"
+    },
+    {
+      "word": "ledger",
+      "spelling": "L, E, D, G, E, R",
+      "spoken_meaning": "名词，分类账，总账",
+      "en": "All expenses must be recorded in the ledger by the end of each quarter.",
+      "zh": "所有开支必须在每季度末之前记入分类账。"
+    },
+    {
+      "word": "legislation",
+      "spelling": "L, E, G, I, S, L, A, T, I, O, N",
+      "spoken_meaning": "名词，立法，法规",
+      "en": "The factory upgraded its filters to comply with new environmental legislation.",
+      "zh": "工厂升级了过滤设备，以符合新的环保法规。"
+    },
+    {
+      "word": "liability",
+      "spelling": "L, I, A, B, I, L, I, T, Y",
+      "spoken_meaning": "名词，（法律）责任，负债",
+      "en": "The hotel accepts no liability for items left in guest rooms.",
+      "zh": "酒店对客人遗留在客房内的物品不承担责任。"
+    },
+    {
+      "word": "license",
+      "spelling": "L, I, C, E, N, S, E",
+      "spoken_meaning": "名词或动词，执照，许可证，授权",
+      "en": "Only licensed electricians may perform repairs in the building.",
+      "zh": "只有持证电工才能在大楼内进行维修。"
+    },
+    {
+      "word": "liquidate",
+      "spelling": "L, I, Q, U, I, D, A, T, E",
+      "spoken_meaning": "动词，清算，变卖（资产），清偿",
+      "en": "The store plans to liquidate its remaining stock before relocating.",
+      "zh": "这家店计划在搬迁前清空剩余库存。"
+    },
+    {
+      "word": "loan",
+      "spelling": "L, O, A, N",
+      "spoken_meaning": "名词或动词，贷款，借出",
+      "en": "The bakery applied for a small-business loan to buy new ovens.",
+      "zh": "这家面包店申请了一笔小企业贷款来购买新烤箱。"
+    },
+    {
+      "word": "locate",
+      "spelling": "L, O, C, A, T, E",
+      "spoken_meaning": "动词，找到…的位置，使坐落于",
+      "en": "Our new branch is conveniently located near the central train station.",
+      "zh": "我们的新分店位置便利，就在中央火车站附近。"
+    },
+    {
+      "word": "lodging",
+      "spelling": "L, O, D, G, I, N, G",
+      "spoken_meaning": "名词，住宿，寄宿处",
+      "en": "The company will reimburse lodging and meals for all conference attendees.",
+      "zh": "公司将为所有与会者报销住宿和餐费。"
+    },
+    {
+      "word": "logistics",
+      "spelling": "L, O, G, I, S, T, I, C, S",
+      "spoken_meaning": "名词，物流，（活动的）后勤安排",
+      "en": "Ms. Kim will handle the logistics for next month's sales retreat.",
+      "zh": "金女士将负责下个月销售团建的后勤安排。"
+    },
+    {
+      "word": "loyalty",
+      "spelling": "L, O, Y, A, L, T, Y",
+      "spoken_meaning": "名词，忠诚，（顾客的）忠诚度",
+      "en": "Members of our loyalty program earn points on every purchase.",
+      "zh": "会员积分计划的成员每次购物都能获得积分。"
+    },
+    {
+      "word": "lucrative",
+      "spelling": "L, U, C, R, A, T, I, V, E",
+      "spoken_meaning": "形容词，赚钱的，有利可图的",
+      "en": "The firm won a lucrative contract to supply uniforms to the airline.",
+      "zh": "该公司赢得了一份为航空公司供应制服的丰厚合同。"
+    },
+    {
+      "word": "luggage",
+      "spelling": "L, U, G, G, A, G, E",
+      "spoken_meaning": "名词，行李",
+      "en": "Each passenger may bring one piece of carry-on luggage.",
+      "zh": "每位乘客可携带一件随身行李。"
+    },
+    {
+      "word": "maintain",
+      "spelling": "M, A, I, N, T, A, I, N",
+      "spoken_meaning": "动词，维持，保持，维护，坚称",
+      "en": "Technicians maintain the printers every Friday afternoon.",
+      "zh": "技术人员每周五下午维护打印机。"
+    },
+    {
+      "word": "malfunction",
+      "spelling": "M, A, L, F, U, N, C, T, I, O, N",
+      "spoken_meaning": "名词或动词，故障，出故障",
+      "en": "Due to a projector malfunction, the presentation was moved to Room 204.",
+      "zh": "由于投影仪故障，演示改到 204 室进行。"
+    },
+    {
+      "word": "mandatory",
+      "spelling": "M, A, N, D, A, T, O, R, Y",
+      "spoken_meaning": "形容词，强制的，必须的",
+      "en": "Attendance at Thursday's safety workshop is mandatory for all warehouse staff.",
+      "zh": "所有仓库员工都必须参加周四的安全研讨会。"
+    },
+    {
+      "word": "manual",
+      "spelling": "M, A, N, U, A, L",
+      "spoken_meaning": "名词或形容词，手册，说明书，手工的，体力的",
+      "en": "Please refer to the user manual before contacting technical support.",
+      "zh": "联系技术支持前，请先查阅用户手册。"
+    },
+    {
+      "word": "markup",
+      "spelling": "M, A, R, K, U, P",
+      "spoken_meaning": "名词，加价，加成（售价高于成本的部分）",
+      "en": "Most retailers apply a markup of about 50 percent on clothing.",
+      "zh": "大多数零售商对服装的加价约为 50%。"
+    },
+    {
+      "word": "merger",
+      "spelling": "M, E, R, G, E, R",
+      "spoken_meaning": "名词，（公司的）合并",
+      "en": "The merger between the two banks is expected to be completed in March.",
+      "zh": "两家银行的合并预计将于三月完成。"
+    },
+    {
+      "word": "milestone",
+      "spelling": "M, I, L, E, S, T, O, N, E",
+      "spoken_meaning": "名词，里程碑，重大事件",
+      "en": "Reaching one million customers was an important milestone for the company.",
+      "zh": "客户数达到一百万是公司的一个重要里程碑。"
+    },
+    {
+      "word": "mediate",
+      "spelling": "M, E, D, I, A, T, E",
+      "spoken_meaning": "动词，调解，斡旋",
+      "en": "An outside consultant was hired to mediate the dispute between management and the union.",
+      "zh": "公司聘请了一位外部顾问来调解管理层与工会之间的纠纷。"
+    },
+    {
+      "word": "memorandum",
+      "spelling": "M, E, M, O, R, A, N, D, U, M",
+      "spoken_meaning": "名词，备忘录，（公司内部）通知",
+      "en": "According to the memorandum, all staff must complete safety training by Friday.",
+      "zh": "根据这份备忘录，全体员工必须在周五前完成安全培训。"
+    },
+    {
+      "word": "mentor",
+      "spelling": "M, E, N, T, O, R",
+      "spoken_meaning": "名词或动词，导师，指导（新人）",
+      "en": "Each new hire is paired with a senior employee who will mentor them for six months.",
+      "zh": "每位新员工都会与一位资深员工配对，由其指导六个月。"
+    },
+    {
+      "word": "minimize",
+      "spelling": "M, I, N, I, M, I, Z, E",
+      "spoken_meaning": "动词，把…减到最少，最小化",
+      "en": "To minimize delays, passengers are asked to have their boarding passes ready.",
+      "zh": "为尽量减少延误，请乘客提前准备好登机牌。"
+    },
+    {
+      "word": "minutes",
+      "spelling": "M, I, N, U, T, E, S",
+      "spoken_meaning": "名词，会议记录，会议纪要",
+      "en": "Ms. Ortiz will take the minutes and circulate them to everyone after the meeting.",
+      "zh": "奥尔蒂斯女士会做会议记录，并在会后分发给每个人。"
+    },
+    {
+      "word": "modify",
+      "spelling": "M, O, D, I, F, Y",
+      "spoken_meaning": "动词，修改，调整",
+      "en": "The engineers modified the design so the device would be easier to assemble.",
+      "zh": "工程师修改了设计，使这款设备更容易组装。"
+    },
+    {
+      "word": "morale",
+      "spelling": "M, O, R, A, L, E",
+      "spoken_meaning": "名词，士气，（员工的）精神面貌",
+      "en": "The flexible work policy has significantly improved employee morale.",
+      "zh": "弹性工作制度显著改善了员工士气。"
+    },
+    {
+      "word": "mortgage",
+      "spelling": "M, O, R, T, G, A, G, E",
+      "spoken_meaning": "名词或动词，抵押贷款，房贷，抵押",
+      "en": "The bank offers lower mortgage rates to first-time home buyers.",
+      "zh": "银行为首次购房者提供更低的房贷利率。"
+    },
+    {
+      "word": "net",
+      "spelling": "N, E, T",
+      "spoken_meaning": "形容词或动词，净的（扣除后），净赚",
+      "en": "The company's net profit rose by 12 percent in the third quarter.",
+      "zh": "公司第三季度的净利润增长了12%。"
+    },
+    {
+      "word": "nominate",
+      "spelling": "N, O, M, I, N, A, T, E",
+      "spoken_meaning": "动词，提名，任命",
+      "en": "Ms. Chen was nominated for the Employee of the Year award.",
+      "zh": "陈女士获得了年度最佳员工奖的提名。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第21轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "layoff",
+      "voice": "en",
+      "text": "layoff",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "layoff",
+      "voice": "en",
+      "text": "L, A, Y, O, F, F",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "layoff",
+      "voice": "zh",
+      "text": "名词，裁员，解雇",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "layoff",
+      "voice": "en",
+      "text": "Management assured staff that the merger would not result in layoffs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "layoff",
+      "voice": "zh",
+      "text": "管理层向员工保证，这次合并不会导致裁员。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ledger",
+      "voice": "en",
+      "text": "ledger",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ledger",
+      "voice": "en",
+      "text": "L, E, D, G, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ledger",
+      "voice": "zh",
+      "text": "名词，分类账，总账",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ledger",
+      "voice": "en",
+      "text": "All expenses must be recorded in the ledger by the end of each quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ledger",
+      "voice": "zh",
+      "text": "所有开支必须在每季度末之前记入分类账。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "legislation",
+      "voice": "en",
+      "text": "legislation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "legislation",
+      "voice": "en",
+      "text": "L, E, G, I, S, L, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "legislation",
+      "voice": "zh",
+      "text": "名词，立法，法规",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "legislation",
+      "voice": "en",
+      "text": "The factory upgraded its filters to comply with new environmental legislation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "legislation",
+      "voice": "zh",
+      "text": "工厂升级了过滤设备，以符合新的环保法规。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "liability",
+      "voice": "en",
+      "text": "liability",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "liability",
+      "voice": "en",
+      "text": "L, I, A, B, I, L, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "liability",
+      "voice": "zh",
+      "text": "名词，（法律）责任，负债",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "liability",
+      "voice": "en",
+      "text": "The hotel accepts no liability for items left in guest rooms.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "liability",
+      "voice": "zh",
+      "text": "酒店对客人遗留在客房内的物品不承担责任。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "license",
+      "voice": "en",
+      "text": "license",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "license",
+      "voice": "en",
+      "text": "L, I, C, E, N, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "license",
+      "voice": "zh",
+      "text": "名词或动词，执照，许可证，授权",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "license",
+      "voice": "en",
+      "text": "Only licensed electricians may perform repairs in the building.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "license",
+      "voice": "zh",
+      "text": "只有持证电工才能在大楼内进行维修。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "liquidate",
+      "voice": "en",
+      "text": "liquidate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "liquidate",
+      "voice": "en",
+      "text": "L, I, Q, U, I, D, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "liquidate",
+      "voice": "zh",
+      "text": "动词，清算，变卖（资产），清偿",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "liquidate",
+      "voice": "en",
+      "text": "The store plans to liquidate its remaining stock before relocating.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "liquidate",
+      "voice": "zh",
+      "text": "这家店计划在搬迁前清空剩余库存。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "loan",
+      "voice": "en",
+      "text": "loan",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "loan",
+      "voice": "en",
+      "text": "L, O, A, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "loan",
+      "voice": "zh",
+      "text": "名词或动词，贷款，借出",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "loan",
+      "voice": "en",
+      "text": "The bakery applied for a small-business loan to buy new ovens.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "loan",
+      "voice": "zh",
+      "text": "这家面包店申请了一笔小企业贷款来购买新烤箱。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "locate",
+      "voice": "en",
+      "text": "locate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "locate",
+      "voice": "en",
+      "text": "L, O, C, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "locate",
+      "voice": "zh",
+      "text": "动词，找到…的位置，使坐落于",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "locate",
+      "voice": "en",
+      "text": "Our new branch is conveniently located near the central train station.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "locate",
+      "voice": "zh",
+      "text": "我们的新分店位置便利，就在中央火车站附近。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lodging",
+      "voice": "en",
+      "text": "lodging",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lodging",
+      "voice": "en",
+      "text": "L, O, D, G, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lodging",
+      "voice": "zh",
+      "text": "名词，住宿，寄宿处",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lodging",
+      "voice": "en",
+      "text": "The company will reimburse lodging and meals for all conference attendees.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lodging",
+      "voice": "zh",
+      "text": "公司将为所有与会者报销住宿和餐费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "logistics",
+      "voice": "en",
+      "text": "logistics",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "logistics",
+      "voice": "en",
+      "text": "L, O, G, I, S, T, I, C, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "logistics",
+      "voice": "zh",
+      "text": "名词，物流，（活动的）后勤安排",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "logistics",
+      "voice": "en",
+      "text": "Ms. Kim will handle the logistics for next month's sales retreat.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "logistics",
+      "voice": "zh",
+      "text": "金女士将负责下个月销售团建的后勤安排。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "loyalty",
+      "voice": "en",
+      "text": "loyalty",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "loyalty",
+      "voice": "en",
+      "text": "L, O, Y, A, L, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "loyalty",
+      "voice": "zh",
+      "text": "名词，忠诚，（顾客的）忠诚度",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "loyalty",
+      "voice": "en",
+      "text": "Members of our loyalty program earn points on every purchase.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "loyalty",
+      "voice": "zh",
+      "text": "会员积分计划的成员每次购物都能获得积分。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lucrative",
+      "voice": "en",
+      "text": "lucrative",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lucrative",
+      "voice": "en",
+      "text": "L, U, C, R, A, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lucrative",
+      "voice": "zh",
+      "text": "形容词，赚钱的，有利可图的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lucrative",
+      "voice": "en",
+      "text": "The firm won a lucrative contract to supply uniforms to the airline.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lucrative",
+      "voice": "zh",
+      "text": "该公司赢得了一份为航空公司供应制服的丰厚合同。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "luggage",
+      "voice": "en",
+      "text": "luggage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "luggage",
+      "voice": "en",
+      "text": "L, U, G, G, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "luggage",
+      "voice": "zh",
+      "text": "名词，行李",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "luggage",
+      "voice": "en",
+      "text": "Each passenger may bring one piece of carry-on luggage.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "luggage",
+      "voice": "zh",
+      "text": "每位乘客可携带一件随身行李。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "maintain",
+      "voice": "en",
+      "text": "maintain",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "maintain",
+      "voice": "en",
+      "text": "M, A, I, N, T, A, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "maintain",
+      "voice": "zh",
+      "text": "动词，维持，保持，维护，坚称",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "maintain",
+      "voice": "en",
+      "text": "Technicians maintain the printers every Friday afternoon.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "maintain",
+      "voice": "zh",
+      "text": "技术人员每周五下午维护打印机。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "malfunction",
+      "voice": "en",
+      "text": "malfunction",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "malfunction",
+      "voice": "en",
+      "text": "M, A, L, F, U, N, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "malfunction",
+      "voice": "zh",
+      "text": "名词或动词，故障，出故障",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "malfunction",
+      "voice": "en",
+      "text": "Due to a projector malfunction, the presentation was moved to Room 204.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "malfunction",
+      "voice": "zh",
+      "text": "由于投影仪故障，演示改到 204 室进行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mandatory",
+      "voice": "en",
+      "text": "mandatory",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mandatory",
+      "voice": "en",
+      "text": "M, A, N, D, A, T, O, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mandatory",
+      "voice": "zh",
+      "text": "形容词，强制的，必须的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mandatory",
+      "voice": "en",
+      "text": "Attendance at Thursday's safety workshop is mandatory for all warehouse staff.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mandatory",
+      "voice": "zh",
+      "text": "所有仓库员工都必须参加周四的安全研讨会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "manual",
+      "voice": "en",
+      "text": "manual",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "manual",
+      "voice": "en",
+      "text": "M, A, N, U, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "manual",
+      "voice": "zh",
+      "text": "名词或形容词，手册，说明书，手工的，体力的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "manual",
+      "voice": "en",
+      "text": "Please refer to the user manual before contacting technical support.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "manual",
+      "voice": "zh",
+      "text": "联系技术支持前，请先查阅用户手册。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "markup",
+      "voice": "en",
+      "text": "markup",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "markup",
+      "voice": "en",
+      "text": "M, A, R, K, U, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "markup",
+      "voice": "zh",
+      "text": "名词，加价，加成（售价高于成本的部分）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "markup",
+      "voice": "en",
+      "text": "Most retailers apply a markup of about 50 percent on clothing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "markup",
+      "voice": "zh",
+      "text": "大多数零售商对服装的加价约为 50%。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "merger",
+      "voice": "en",
+      "text": "merger",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "merger",
+      "voice": "en",
+      "text": "M, E, R, G, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "merger",
+      "voice": "zh",
+      "text": "名词，（公司的）合并",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "merger",
+      "voice": "en",
+      "text": "The merger between the two banks is expected to be completed in March.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "merger",
+      "voice": "zh",
+      "text": "两家银行的合并预计将于三月完成。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "milestone",
+      "voice": "en",
+      "text": "milestone",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "milestone",
+      "voice": "en",
+      "text": "M, I, L, E, S, T, O, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "milestone",
+      "voice": "zh",
+      "text": "名词，里程碑，重大事件",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "milestone",
+      "voice": "en",
+      "text": "Reaching one million customers was an important milestone for the company.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "milestone",
+      "voice": "zh",
+      "text": "客户数达到一百万是公司的一个重要里程碑。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mediate",
+      "voice": "en",
+      "text": "mediate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mediate",
+      "voice": "en",
+      "text": "M, E, D, I, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mediate",
+      "voice": "zh",
+      "text": "动词，调解，斡旋",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mediate",
+      "voice": "en",
+      "text": "An outside consultant was hired to mediate the dispute between management and the union.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mediate",
+      "voice": "zh",
+      "text": "公司聘请了一位外部顾问来调解管理层与工会之间的纠纷。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "memorandum",
+      "voice": "en",
+      "text": "memorandum",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "memorandum",
+      "voice": "en",
+      "text": "M, E, M, O, R, A, N, D, U, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "memorandum",
+      "voice": "zh",
+      "text": "名词，备忘录，（公司内部）通知",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "memorandum",
+      "voice": "en",
+      "text": "According to the memorandum, all staff must complete safety training by Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "memorandum",
+      "voice": "zh",
+      "text": "根据这份备忘录，全体员工必须在周五前完成安全培训。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mentor",
+      "voice": "en",
+      "text": "mentor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mentor",
+      "voice": "en",
+      "text": "M, E, N, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mentor",
+      "voice": "zh",
+      "text": "名词或动词，导师，指导（新人）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mentor",
+      "voice": "en",
+      "text": "Each new hire is paired with a senior employee who will mentor them for six months.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mentor",
+      "voice": "zh",
+      "text": "每位新员工都会与一位资深员工配对，由其指导六个月。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "minimize",
+      "voice": "en",
+      "text": "minimize",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "minimize",
+      "voice": "en",
+      "text": "M, I, N, I, M, I, Z, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "minimize",
+      "voice": "zh",
+      "text": "动词，把…减到最少，最小化",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "minimize",
+      "voice": "en",
+      "text": "To minimize delays, passengers are asked to have their boarding passes ready.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "minimize",
+      "voice": "zh",
+      "text": "为尽量减少延误，请乘客提前准备好登机牌。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "minutes",
+      "voice": "en",
+      "text": "minutes",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "minutes",
+      "voice": "en",
+      "text": "M, I, N, U, T, E, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "minutes",
+      "voice": "zh",
+      "text": "名词，会议记录，会议纪要",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "minutes",
+      "voice": "en",
+      "text": "Ms. Ortiz will take the minutes and circulate them to everyone after the meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "minutes",
+      "voice": "zh",
+      "text": "奥尔蒂斯女士会做会议记录，并在会后分发给每个人。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "modify",
+      "voice": "en",
+      "text": "modify",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "modify",
+      "voice": "en",
+      "text": "M, O, D, I, F, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "modify",
+      "voice": "zh",
+      "text": "动词，修改，调整",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "modify",
+      "voice": "en",
+      "text": "The engineers modified the design so the device would be easier to assemble.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "modify",
+      "voice": "zh",
+      "text": "工程师修改了设计，使这款设备更容易组装。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "morale",
+      "voice": "en",
+      "text": "morale",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "morale",
+      "voice": "en",
+      "text": "M, O, R, A, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "morale",
+      "voice": "zh",
+      "text": "名词，士气，（员工的）精神面貌",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "morale",
+      "voice": "en",
+      "text": "The flexible work policy has significantly improved employee morale.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "morale",
+      "voice": "zh",
+      "text": "弹性工作制度显著改善了员工士气。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mortgage",
+      "voice": "en",
+      "text": "mortgage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mortgage",
+      "voice": "en",
+      "text": "M, O, R, T, G, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mortgage",
+      "voice": "zh",
+      "text": "名词或动词，抵押贷款，房贷，抵押",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mortgage",
+      "voice": "en",
+      "text": "The bank offers lower mortgage rates to first-time home buyers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mortgage",
+      "voice": "zh",
+      "text": "银行为首次购房者提供更低的房贷利率。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "net",
+      "voice": "en",
+      "text": "net",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "net",
+      "voice": "en",
+      "text": "N, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "net",
+      "voice": "zh",
+      "text": "形容词或动词，净的（扣除后），净赚",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "net",
+      "voice": "en",
+      "text": "The company's net profit rose by 12 percent in the third quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "net",
+      "voice": "zh",
+      "text": "公司第三季度的净利润增长了12%。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "nominate",
+      "voice": "en",
+      "text": "nominate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "nominate",
+      "voice": "en",
+      "text": "N, O, M, I, N, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "nominate",
+      "voice": "zh",
+      "text": "动词，提名，任命",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "nominate",
+      "voice": "en",
+      "text": "Ms. Chen was nominated for the Employee of the Year award.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "nominate",
+      "voice": "zh",
+      "text": "陈女士获得了年度最佳员工奖的提名。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第21轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

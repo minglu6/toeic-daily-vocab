@@ -1,0 +1,1314 @@
+{
+  "id": "019",
+  "track": 19,
+  "title": "第 19 轨",
+  "word_count": 30,
+  "headwords": [
+    "entry",
+    "equipment",
+    "equivalent",
+    "errand",
+    "essential",
+    "evaluation",
+    "excess",
+    "executive",
+    "expansion",
+    "expedite",
+    "extension",
+    "exposure",
+    "fare",
+    "fee",
+    "figure",
+    "finance",
+    "fiscal",
+    "fragile",
+    "fund",
+    "grant",
+    "gather",
+    "gauge",
+    "gratuity",
+    "gross",
+    "guideline",
+    "handout",
+    "hazard",
+    "hesitate",
+    "hinder",
+    "host"
+  ],
+  "entries": [
+    {
+      "word": "entry",
+      "spelling": "E, N, T, R, Y",
+      "spoken_meaning": "名词，进入，参赛作品，条目",
+      "en": "All contest entries must be submitted by March 31.",
+      "zh": "所有参赛作品须在 3 月 31 日前提交。"
+    },
+    {
+      "word": "equipment",
+      "spelling": "E, Q, U, I, P, M, E, N, T",
+      "spoken_meaning": "名词，设备，器材",
+      "en": "The new equipment will be installed in the lab next week.",
+      "zh": "新设备将于下周安装在实验室。"
+    },
+    {
+      "word": "equivalent",
+      "spelling": "E, Q, U, I, V, A, L, E, N, T",
+      "spoken_meaning": "形容词或名词，相等的，等价物",
+      "en": "Applicants need a bachelor's degree or equivalent work experience.",
+      "zh": "申请人须具备学士学位或同等工作经验。"
+    },
+    {
+      "word": "errand",
+      "spelling": "E, R, R, A, N, D",
+      "spoken_meaning": "名词，差事，跑腿",
+      "en": "I need to run a few errands during my lunch break.",
+      "zh": "午休时我得去办几件杂事。"
+    },
+    {
+      "word": "essential",
+      "spelling": "E, S, S, E, N, T, I, A, L",
+      "spoken_meaning": "形容词，必不可少的，基本的",
+      "en": "Strong communication skills are essential for this position.",
+      "zh": "良好的沟通能力是该职位的必备条件。"
+    },
+    {
+      "word": "evaluation",
+      "spelling": "E, V, A, L, U, A, T, I, O, N",
+      "spoken_meaning": "名词，评估，评价",
+      "en": "Annual performance evaluations will take place in December.",
+      "zh": "年度绩效考评将于 12 月进行。"
+    },
+    {
+      "word": "excess",
+      "spelling": "E, X, C, E, S, S",
+      "spoken_meaning": "名词或形容词，超过，过量（的）",
+      "en": "Passengers must pay a fee for excess baggage.",
+      "zh": "乘客须为超重行李支付费用。"
+    },
+    {
+      "word": "executive",
+      "spelling": "E, X, E, C, U, T, I, V, E",
+      "spoken_meaning": "名词或形容词，主管，高管，执行的",
+      "en": "The executive committee will meet to approve the budget.",
+      "zh": "执行委员会将开会审批预算。"
+    },
+    {
+      "word": "expansion",
+      "spelling": "E, X, P, A, N, S, I, O, N",
+      "spoken_meaning": "名词，扩张，扩展",
+      "en": "The expansion of the factory will create 200 new jobs.",
+      "zh": "工厂扩建将创造 200 个新岗位。"
+    },
+    {
+      "word": "expedite",
+      "spelling": "E, X, P, E, D, I, T, E",
+      "spoken_meaning": "动词，加快，促进（处理）",
+      "en": "For an additional fee, we can expedite your order.",
+      "zh": "支付额外费用后，我们可加急处理您的订单。"
+    },
+    {
+      "word": "extension",
+      "spelling": "E, X, T, E, N, S, I, O, N",
+      "spoken_meaning": "名词，延期，分机，扩建",
+      "en": "Please call me at extension 214 if you have any questions.",
+      "zh": "如有疑问，请拨打分机 214 联系我。"
+    },
+    {
+      "word": "exposure",
+      "spelling": "E, X, P, O, S, U, R, E",
+      "spoken_meaning": "名词，曝光，接触，风险暴露",
+      "en": "The trade fair gave our brand valuable exposure.",
+      "zh": "这次商展为我们的品牌带来了宝贵的曝光。"
+    },
+    {
+      "word": "fare",
+      "spelling": "F, A, R, E",
+      "spoken_meaning": "名词，（交通）票价，车费",
+      "en": "Train fares will increase by 3 percent next month.",
+      "zh": "下个月火车票价将上涨 3%。"
+    },
+    {
+      "word": "fee",
+      "spelling": "F, E, E",
+      "spoken_meaning": "名词，费用，酬金",
+      "en": "The registration fee includes lunch and conference materials.",
+      "zh": "报名费包含午餐和会议资料。"
+    },
+    {
+      "word": "figure",
+      "spelling": "F, I, G, U, R, E",
+      "spoken_meaning": "名词或动词，数字，人物，认为",
+      "en": "Third-quarter sales figures exceeded our expectations.",
+      "zh": "第三季度的销售数据超出了我们的预期。"
+    },
+    {
+      "word": "finance",
+      "spelling": "F, I, N, A, N, C, E",
+      "spoken_meaning": "名词或动词，财务，金融，为…提供资金",
+      "en": "Please submit your expense reports to the finance department.",
+      "zh": "请将报销单提交至财务部。"
+    },
+    {
+      "word": "fiscal",
+      "spelling": "F, I, S, C, A, L",
+      "spoken_meaning": "形容词，财政的，会计年度的",
+      "en": "Profits rose sharply in the last fiscal year.",
+      "zh": "上一财年利润大幅增长。"
+    },
+    {
+      "word": "fragile",
+      "spelling": "F, R, A, G, I, L, E",
+      "spoken_meaning": "形容词，易碎的，脆弱的",
+      "en": "Fragile items should be wrapped carefully before shipping.",
+      "zh": "易碎物品在寄送前应仔细包装。"
+    },
+    {
+      "word": "fund",
+      "spelling": "F, U, N, D",
+      "spoken_meaning": "名词或动词，资金，基金，为…提供资金",
+      "en": "The research project is funded by a government grant.",
+      "zh": "这项研究由政府补助金资助。"
+    },
+    {
+      "word": "grant",
+      "spelling": "G, R, A, N, T",
+      "spoken_meaning": "动词或名词，授予，准许，补助金",
+      "en": "The city granted the company permission to build a new store.",
+      "zh": "市政府批准该公司新建一家门店。"
+    },
+    {
+      "word": "gather",
+      "spelling": "G, A, T, H, E, R",
+      "spoken_meaning": "动词，收集，聚集，推断",
+      "en": "Please gather in the main lobby at 8:30 A.M. for the factory tour.",
+      "zh": "请于上午 8:30 在主大厅集合参加工厂参观。"
+    },
+    {
+      "word": "gauge",
+      "spelling": "G, A, U, G, E",
+      "spoken_meaning": "动词或名词，估计，衡量，量具",
+      "en": "The survey was designed to gauge employee interest in a flexible schedule.",
+      "zh": "这项调查旨在了解员工对弹性工作时间的兴趣。"
+    },
+    {
+      "word": "gratuity",
+      "spelling": "G, R, A, T, U, I, T, Y",
+      "spoken_meaning": "名词，小费，（离职）赏金",
+      "en": "A 15 percent gratuity will be added to bills for groups of eight or more.",
+      "zh": "八人及以上的团体账单将加收 15% 的小费。"
+    },
+    {
+      "word": "gross",
+      "spelling": "G, R, O, S, S",
+      "spoken_meaning": "形容词或动词，总的，毛的（未扣除的），获得…毛收入",
+      "en": "The firm's gross revenue rose by 12 percent in the third quarter.",
+      "zh": "公司第三季度的总营收增长了 12%。"
+    },
+    {
+      "word": "guideline",
+      "spelling": "G, U, I, D, E, L, I, N, E",
+      "spoken_meaning": "名词，指导方针，准则",
+      "en": "All staff must follow the updated guidelines for submitting expense reports.",
+      "zh": "全体员工必须遵守提交报销单的新规定。"
+    },
+    {
+      "word": "handout",
+      "spelling": "H, A, N, D, O, U, T",
+      "spoken_meaning": "名词，讲义，发放的资料，救济品",
+      "en": "Copies of the handout will be distributed at the start of the seminar.",
+      "zh": "讲义将在研讨会开始时分发。"
+    },
+    {
+      "word": "hazard",
+      "spelling": "H, A, Z, A, R, D",
+      "spoken_meaning": "名词或动词，危险，危害，冒险提出",
+      "en": "Boxes left in the hallway pose a fire hazard and must be removed.",
+      "zh": "堆在走廊的箱子构成火灾隐患，必须移走。"
+    },
+    {
+      "word": "hesitate",
+      "spelling": "H, E, S, I, T, A, T, E",
+      "spoken_meaning": "动词，犹豫，迟疑",
+      "en": "If you have any questions, please do not hesitate to contact our help desk.",
+      "zh": "如有任何问题，请随时联系我们的服务台。"
+    },
+    {
+      "word": "hinder",
+      "spelling": "H, I, N, D, E, R",
+      "spoken_meaning": "动词，阻碍，妨碍",
+      "en": "Frequent system outages have hindered the team's progress on the project.",
+      "zh": "频繁的系统故障阻碍了团队的项目进展。"
+    },
+    {
+      "word": "host",
+      "spelling": "H, O, S, T",
+      "spoken_meaning": "动词或名词，主办，主持，主人",
+      "en": "Our branch will host the regional sales conference next spring.",
+      "zh": "我们分公司将于明年春季主办区域销售会议。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第19轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "entry",
+      "voice": "en",
+      "text": "entry",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "entry",
+      "voice": "en",
+      "text": "E, N, T, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "entry",
+      "voice": "zh",
+      "text": "名词，进入，参赛作品，条目",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "entry",
+      "voice": "en",
+      "text": "All contest entries must be submitted by March 31.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "entry",
+      "voice": "zh",
+      "text": "所有参赛作品须在 3 月 31 日前提交。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "equipment",
+      "voice": "en",
+      "text": "equipment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "equipment",
+      "voice": "en",
+      "text": "E, Q, U, I, P, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "equipment",
+      "voice": "zh",
+      "text": "名词，设备，器材",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "equipment",
+      "voice": "en",
+      "text": "The new equipment will be installed in the lab next week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "equipment",
+      "voice": "zh",
+      "text": "新设备将于下周安装在实验室。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "equivalent",
+      "voice": "en",
+      "text": "equivalent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "equivalent",
+      "voice": "en",
+      "text": "E, Q, U, I, V, A, L, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "equivalent",
+      "voice": "zh",
+      "text": "形容词或名词，相等的，等价物",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "equivalent",
+      "voice": "en",
+      "text": "Applicants need a bachelor's degree or equivalent work experience.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "equivalent",
+      "voice": "zh",
+      "text": "申请人须具备学士学位或同等工作经验。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "errand",
+      "voice": "en",
+      "text": "errand",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "errand",
+      "voice": "en",
+      "text": "E, R, R, A, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "errand",
+      "voice": "zh",
+      "text": "名词，差事，跑腿",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "errand",
+      "voice": "en",
+      "text": "I need to run a few errands during my lunch break.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "errand",
+      "voice": "zh",
+      "text": "午休时我得去办几件杂事。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "essential",
+      "voice": "en",
+      "text": "essential",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "essential",
+      "voice": "en",
+      "text": "E, S, S, E, N, T, I, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "essential",
+      "voice": "zh",
+      "text": "形容词，必不可少的，基本的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "essential",
+      "voice": "en",
+      "text": "Strong communication skills are essential for this position.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "essential",
+      "voice": "zh",
+      "text": "良好的沟通能力是该职位的必备条件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "evaluation",
+      "voice": "en",
+      "text": "evaluation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "evaluation",
+      "voice": "en",
+      "text": "E, V, A, L, U, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "evaluation",
+      "voice": "zh",
+      "text": "名词，评估，评价",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "evaluation",
+      "voice": "en",
+      "text": "Annual performance evaluations will take place in December.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "evaluation",
+      "voice": "zh",
+      "text": "年度绩效考评将于 12 月进行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "excess",
+      "voice": "en",
+      "text": "excess",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "excess",
+      "voice": "en",
+      "text": "E, X, C, E, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "excess",
+      "voice": "zh",
+      "text": "名词或形容词，超过，过量（的）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "excess",
+      "voice": "en",
+      "text": "Passengers must pay a fee for excess baggage.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "excess",
+      "voice": "zh",
+      "text": "乘客须为超重行李支付费用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "executive",
+      "voice": "en",
+      "text": "executive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "executive",
+      "voice": "en",
+      "text": "E, X, E, C, U, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "executive",
+      "voice": "zh",
+      "text": "名词或形容词，主管，高管，执行的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "executive",
+      "voice": "en",
+      "text": "The executive committee will meet to approve the budget.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "executive",
+      "voice": "zh",
+      "text": "执行委员会将开会审批预算。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "expansion",
+      "voice": "en",
+      "text": "expansion",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "expansion",
+      "voice": "en",
+      "text": "E, X, P, A, N, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "expansion",
+      "voice": "zh",
+      "text": "名词，扩张，扩展",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "expansion",
+      "voice": "en",
+      "text": "The expansion of the factory will create 200 new jobs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "expansion",
+      "voice": "zh",
+      "text": "工厂扩建将创造 200 个新岗位。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "expedite",
+      "voice": "en",
+      "text": "expedite",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "expedite",
+      "voice": "en",
+      "text": "E, X, P, E, D, I, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "expedite",
+      "voice": "zh",
+      "text": "动词，加快，促进（处理）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "expedite",
+      "voice": "en",
+      "text": "For an additional fee, we can expedite your order.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "expedite",
+      "voice": "zh",
+      "text": "支付额外费用后，我们可加急处理您的订单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "extension",
+      "voice": "en",
+      "text": "extension",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "extension",
+      "voice": "en",
+      "text": "E, X, T, E, N, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "extension",
+      "voice": "zh",
+      "text": "名词，延期，分机，扩建",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "extension",
+      "voice": "en",
+      "text": "Please call me at extension 214 if you have any questions.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "extension",
+      "voice": "zh",
+      "text": "如有疑问，请拨打分机 214 联系我。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "exposure",
+      "voice": "en",
+      "text": "exposure",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "exposure",
+      "voice": "en",
+      "text": "E, X, P, O, S, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "exposure",
+      "voice": "zh",
+      "text": "名词，曝光，接触，风险暴露",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "exposure",
+      "voice": "en",
+      "text": "The trade fair gave our brand valuable exposure.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "exposure",
+      "voice": "zh",
+      "text": "这次商展为我们的品牌带来了宝贵的曝光。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fare",
+      "voice": "en",
+      "text": "fare",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fare",
+      "voice": "en",
+      "text": "F, A, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fare",
+      "voice": "zh",
+      "text": "名词，（交通）票价，车费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fare",
+      "voice": "en",
+      "text": "Train fares will increase by 3 percent next month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fare",
+      "voice": "zh",
+      "text": "下个月火车票价将上涨 3%。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fee",
+      "voice": "en",
+      "text": "fee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fee",
+      "voice": "en",
+      "text": "F, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fee",
+      "voice": "zh",
+      "text": "名词，费用，酬金",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fee",
+      "voice": "en",
+      "text": "The registration fee includes lunch and conference materials.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fee",
+      "voice": "zh",
+      "text": "报名费包含午餐和会议资料。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "figure",
+      "voice": "en",
+      "text": "figure",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "figure",
+      "voice": "en",
+      "text": "F, I, G, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "figure",
+      "voice": "zh",
+      "text": "名词或动词，数字，人物，认为",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "figure",
+      "voice": "en",
+      "text": "Third-quarter sales figures exceeded our expectations.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "figure",
+      "voice": "zh",
+      "text": "第三季度的销售数据超出了我们的预期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "finance",
+      "voice": "en",
+      "text": "finance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "finance",
+      "voice": "en",
+      "text": "F, I, N, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "finance",
+      "voice": "zh",
+      "text": "名词或动词，财务，金融，为…提供资金",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "finance",
+      "voice": "en",
+      "text": "Please submit your expense reports to the finance department.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "finance",
+      "voice": "zh",
+      "text": "请将报销单提交至财务部。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fiscal",
+      "voice": "en",
+      "text": "fiscal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fiscal",
+      "voice": "en",
+      "text": "F, I, S, C, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fiscal",
+      "voice": "zh",
+      "text": "形容词，财政的，会计年度的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fiscal",
+      "voice": "en",
+      "text": "Profits rose sharply in the last fiscal year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fiscal",
+      "voice": "zh",
+      "text": "上一财年利润大幅增长。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fragile",
+      "voice": "en",
+      "text": "fragile",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fragile",
+      "voice": "en",
+      "text": "F, R, A, G, I, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fragile",
+      "voice": "zh",
+      "text": "形容词，易碎的，脆弱的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fragile",
+      "voice": "en",
+      "text": "Fragile items should be wrapped carefully before shipping.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fragile",
+      "voice": "zh",
+      "text": "易碎物品在寄送前应仔细包装。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fund",
+      "voice": "en",
+      "text": "fund",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fund",
+      "voice": "en",
+      "text": "F, U, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fund",
+      "voice": "zh",
+      "text": "名词或动词，资金，基金，为…提供资金",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fund",
+      "voice": "en",
+      "text": "The research project is funded by a government grant.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fund",
+      "voice": "zh",
+      "text": "这项研究由政府补助金资助。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "grant",
+      "voice": "en",
+      "text": "grant",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "grant",
+      "voice": "en",
+      "text": "G, R, A, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "grant",
+      "voice": "zh",
+      "text": "动词或名词，授予，准许，补助金",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "grant",
+      "voice": "en",
+      "text": "The city granted the company permission to build a new store.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "grant",
+      "voice": "zh",
+      "text": "市政府批准该公司新建一家门店。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "gather",
+      "voice": "en",
+      "text": "gather",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "gather",
+      "voice": "en",
+      "text": "G, A, T, H, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "gather",
+      "voice": "zh",
+      "text": "动词，收集，聚集，推断",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "gather",
+      "voice": "en",
+      "text": "Please gather in the main lobby at 8:30 A.M. for the factory tour.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "gather",
+      "voice": "zh",
+      "text": "请于上午 8:30 在主大厅集合参加工厂参观。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "gauge",
+      "voice": "en",
+      "text": "gauge",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "gauge",
+      "voice": "en",
+      "text": "G, A, U, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "gauge",
+      "voice": "zh",
+      "text": "动词或名词，估计，衡量，量具",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "gauge",
+      "voice": "en",
+      "text": "The survey was designed to gauge employee interest in a flexible schedule.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "gauge",
+      "voice": "zh",
+      "text": "这项调查旨在了解员工对弹性工作时间的兴趣。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "gratuity",
+      "voice": "en",
+      "text": "gratuity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "gratuity",
+      "voice": "en",
+      "text": "G, R, A, T, U, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "gratuity",
+      "voice": "zh",
+      "text": "名词，小费，（离职）赏金",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "gratuity",
+      "voice": "en",
+      "text": "A 15 percent gratuity will be added to bills for groups of eight or more.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "gratuity",
+      "voice": "zh",
+      "text": "八人及以上的团体账单将加收 15% 的小费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "gross",
+      "voice": "en",
+      "text": "gross",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "gross",
+      "voice": "en",
+      "text": "G, R, O, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "gross",
+      "voice": "zh",
+      "text": "形容词或动词，总的，毛的（未扣除的），获得…毛收入",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "gross",
+      "voice": "en",
+      "text": "The firm's gross revenue rose by 12 percent in the third quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "gross",
+      "voice": "zh",
+      "text": "公司第三季度的总营收增长了 12%。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "guideline",
+      "voice": "en",
+      "text": "guideline",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "guideline",
+      "voice": "en",
+      "text": "G, U, I, D, E, L, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "guideline",
+      "voice": "zh",
+      "text": "名词，指导方针，准则",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "guideline",
+      "voice": "en",
+      "text": "All staff must follow the updated guidelines for submitting expense reports.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "guideline",
+      "voice": "zh",
+      "text": "全体员工必须遵守提交报销单的新规定。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "handout",
+      "voice": "en",
+      "text": "handout",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "handout",
+      "voice": "en",
+      "text": "H, A, N, D, O, U, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "handout",
+      "voice": "zh",
+      "text": "名词，讲义，发放的资料，救济品",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "handout",
+      "voice": "en",
+      "text": "Copies of the handout will be distributed at the start of the seminar.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "handout",
+      "voice": "zh",
+      "text": "讲义将在研讨会开始时分发。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hazard",
+      "voice": "en",
+      "text": "hazard",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hazard",
+      "voice": "en",
+      "text": "H, A, Z, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hazard",
+      "voice": "zh",
+      "text": "名词或动词，危险，危害，冒险提出",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hazard",
+      "voice": "en",
+      "text": "Boxes left in the hallway pose a fire hazard and must be removed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hazard",
+      "voice": "zh",
+      "text": "堆在走廊的箱子构成火灾隐患，必须移走。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hesitate",
+      "voice": "en",
+      "text": "hesitate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hesitate",
+      "voice": "en",
+      "text": "H, E, S, I, T, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hesitate",
+      "voice": "zh",
+      "text": "动词，犹豫，迟疑",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hesitate",
+      "voice": "en",
+      "text": "If you have any questions, please do not hesitate to contact our help desk.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hesitate",
+      "voice": "zh",
+      "text": "如有任何问题，请随时联系我们的服务台。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hinder",
+      "voice": "en",
+      "text": "hinder",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hinder",
+      "voice": "en",
+      "text": "H, I, N, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hinder",
+      "voice": "zh",
+      "text": "动词，阻碍，妨碍",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hinder",
+      "voice": "en",
+      "text": "Frequent system outages have hindered the team's progress on the project.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hinder",
+      "voice": "zh",
+      "text": "频繁的系统故障阻碍了团队的项目进展。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "host",
+      "voice": "en",
+      "text": "host",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "host",
+      "voice": "en",
+      "text": "H, O, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "host",
+      "voice": "zh",
+      "text": "动词或名词，主办，主持，主人",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "host",
+      "voice": "en",
+      "text": "Our branch will host the regional sales conference next spring.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "host",
+      "voice": "zh",
+      "text": "我们分公司将于明年春季主办区域销售会议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第19轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

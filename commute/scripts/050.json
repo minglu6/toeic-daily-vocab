@@ -1,0 +1,1314 @@
+{
+  "id": "050",
+  "track": 50,
+  "title": "第 50 轨",
+  "word_count": 30,
+  "headwords": [
+    "sustainability-report",
+    "green-procurement",
+    "vendor-scorecard",
+    "key-account",
+    "account-manager",
+    "price-list",
+    "markdown",
+    "inbound-logistics",
+    "outbound-logistics",
+    "reverse-logistics",
+    "change-management",
+    "process-mapping",
+    "expense-cap",
+    "mileage-reimbursement",
+    "soft-close",
+    "hard-close",
+    "audit-trail",
+    "connecting-flight",
+    "travel-voucher",
+    "steering-committee",
+    "ground-rules",
+    "recap",
+    "wrap-up",
+    "roundtable",
+    "screen-sharing",
+    "employee-handbook",
+    "performance-improvement-plan",
+    "employee-referral",
+    "merit-increase",
+    "hiring-manager"
+  ],
+  "entries": [
+    {
+      "word": "sustainability-report",
+      "spelling": "S, U, S, T, A, I, N, A, B, I, L, I, T, Y, hyphen, R, E, P, O, R, T",
+      "spoken_meaning": "名词，可持续发展报告，ESG报告，永续报告",
+      "en": "Investors asked for clearer Scope 3 data in the next sustainability-report.",
+      "zh": "投资者要求下一份可持续发展报告提供更清晰的范围三数据。"
+    },
+    {
+      "word": "green-procurement",
+      "spelling": "G, R, E, E, N, hyphen, P, R, O, C, U, R, E, M, E, N, T",
+      "spoken_meaning": "名词，绿色采购，环保采购，可持续采购政策",
+      "en": "Under green-procurement rules, recycled paper is the default office supply.",
+      "zh": "按绿色采购规定，再生纸为默认办公用品。"
+    },
+    {
+      "word": "vendor-scorecard",
+      "spelling": "V, E, N, D, O, R, hyphen, S, C, O, R, E, C, A, R, D",
+      "spoken_meaning": "名词，供应商记分卡，供应商绩效评分表",
+      "en": "Two suppliers fell below the quality line on this quarter's vendor-scorecard.",
+      "zh": "两家供应商在本季度供应商记分卡上的质量分低于标准线。"
+    },
+    {
+      "word": "key-account",
+      "spelling": "K, E, Y, hyphen, A, C, C, O, U, N, T",
+      "spoken_meaning": "名词，关键客户，重点客户，大客户账户",
+      "en": "Our top ten key-account clients generate nearly half of annual revenue.",
+      "zh": "前十大关键客户贡献了近一半的年收入。"
+    },
+    {
+      "word": "account-manager",
+      "spelling": "A, C, C, O, U, N, T, hyphen, M, A, N, A, G, E, R",
+      "spoken_meaning": "名词，客户经理，客户成功/客户关系经理，客户负责人",
+      "en": "Please escalate billing questions to your assigned account-manager.",
+      "zh": "账单问题请上报给你指定的客户经理。"
+    },
+    {
+      "word": "price-list",
+      "spelling": "P, R, I, C, E, hyphen, L, I, S, T",
+      "spoken_meaning": "名词，价目表，价格清单，报价目录",
+      "en": "Effective Monday, please quote from the revised price-list only.",
+      "zh": "自周一生效，请仅按修订后的价目表报价。"
+    },
+    {
+      "word": "markdown",
+      "spelling": "M, A, R, K, D, O, W, N",
+      "spoken_meaning": "名词或动词，降价，减价幅度，标低售价",
+      "en": "The buyer authorized a twenty-percent markdown on last season's inventory.",
+      "zh": "采购批准对上季库存实施百分之二十的降价。"
+    },
+    {
+      "word": "inbound-logistics",
+      "spelling": "I, N, B, O, U, N, D, hyphen, L, O, G, I, S, T, I, C, S",
+      "spoken_meaning": "名词，入库物流，入向物流，原材料/进货物流",
+      "en": "Customs holds have slowed inbound-logistics for electronic components.",
+      "zh": "海关扣留拖慢了电子元件的入库物流。"
+    },
+    {
+      "word": "outbound-logistics",
+      "spelling": "O, U, T, B, O, U, N, D, hyphen, L, O, G, I, S, T, I, C, S",
+      "spoken_meaning": "名词，出库物流，出向物流，成品配送物流",
+      "en": "Peak season stretched outbound-logistics capacity at every regional hub.",
+      "zh": "旺季让每个区域枢纽的出库物流运力都吃紧。"
+    },
+    {
+      "word": "reverse-logistics",
+      "spelling": "R, E, V, E, R, S, E, hyphen, L, O, G, I, S, T, I, C, S",
+      "spoken_meaning": "名词，逆向物流，退货回流物流，回收物流",
+      "en": "The warehouse added a dedicated bay for reverse-logistics returns.",
+      "zh": "仓库增设了专用于逆向物流退货的装卸区。"
+    },
+    {
+      "word": "change-management",
+      "spelling": "C, H, A, N, G, E, hyphen, M, A, N, A, G, E, M, E, N, T",
+      "spoken_meaning": "名词，变革管理，组织变更管理，转型落地管理",
+      "en": "The ERP rollout failed without strong change-management for frontline staff.",
+      "zh": "若缺少面向一线员工的有力变革管理，ERP 上线就会失败。"
+    },
+    {
+      "word": "process-mapping",
+      "spelling": "P, R, O, C, E, S, S, hyphen, M, A, P, P, I, N, G",
+      "spoken_meaning": "名词，流程梳理/流程图绘制，流程地图绘制",
+      "en": "The lean team finished process-mapping for order-to-cash last Friday.",
+      "zh": "精益团队上周五完成了订单到收款的流程梳理。"
+    },
+    {
+      "word": "expense-cap",
+      "spelling": "E, X, P, E, N, S, E, hyphen, C, A, P",
+      "spoken_meaning": "名词，费用上限，开支封顶额，报销额度上限",
+      "en": "Hotel stays above the city expense-cap need director approval.",
+      "zh": "超过该城市费用上限的酒店住宿需总监批准。"
+    },
+    {
+      "word": "mileage-reimbursement",
+      "spelling": "M, I, L, E, A, G, E, hyphen, R, E, I, M, B, U, R, S, E, M, E, N, T",
+      "spoken_meaning": "名词，里程报销，按里程补贴，公务用车里程补偿",
+      "en": "Sales reps should attach map logs when filing mileage-reimbursement.",
+      "zh": "销售代表申请里程报销时应附上路线记录。"
+    },
+    {
+      "word": "soft-close",
+      "spelling": "S, O, F, T, hyphen, C, L, O, S, E",
+      "spoken_meaning": "名词，软关账，初步关账，非正式月结截止",
+      "en": "All expense reports must be in before Friday's soft-close.",
+      "zh": "所有费用报销须在周五软关账前提交。"
+    },
+    {
+      "word": "hard-close",
+      "spelling": "H, A, R, D, hyphen, C, L, O, S, E",
+      "spoken_meaning": "名词，硬关账，最终关账，正式月结锁定",
+      "en": "No journal entries are accepted after the monthly hard-close.",
+      "zh": "月度硬关账之后不再接受任何会计分录。"
+    },
+    {
+      "word": "audit-trail",
+      "spelling": "A, U, D, I, T, hyphen, T, R, A, I, L",
+      "spoken_meaning": "名词，审计轨迹，操作留痕，审计跟踪记录",
+      "en": "Every price override must leave a complete audit-trail in the system.",
+      "zh": "每一次价格覆盖都必须在系统中留下完整的审计轨迹。"
+    },
+    {
+      "word": "connecting-flight",
+      "spelling": "C, O, N, N, E, C, T, I, N, G, hyphen, F, L, I, G, H, T",
+      "spoken_meaning": "名词，转机航班，联程航班，衔接航班",
+      "en": "Please allow at least ninety minutes for the Chicago connecting-flight.",
+      "zh": "芝加哥的转机航班请至少预留九十分钟衔接时间。"
+    },
+    {
+      "word": "travel-voucher",
+      "spelling": "T, R, A, V, E, L, hyphen, V, O, U, C, H, E, R",
+      "spoken_meaning": "名词，旅行凭证/代金券，航司补偿券，差旅抵用券",
+      "en": "Passengers affected by the cancellation received a two-hundred-dollar travel-voucher.",
+      "zh": "受取消航班影响的旅客获得了二百美元旅行代金券。"
+    },
+    {
+      "word": "steering-committee",
+      "spelling": "S, T, E, E, R, I, N, G, hyphen, C, O, M, M, I, T, T, E, E",
+      "spoken_meaning": "名词，指导委员会，督导委员会，项目决策委员会",
+      "en": "The steering-committee postponed go-live until security testing is complete.",
+      "zh": "指导委员会将上线推迟到安全测试完成之后。"
+    },
+    {
+      "word": "ground-rules",
+      "spelling": "G, R, O, U, N, D, hyphen, R, U, L, E, S",
+      "spoken_meaning": "名词，基本规则，会议守则，讨论底线",
+      "en": "Please review the ground-rules before we open the floor to comments.",
+      "zh": "在开放自由发言之前，请先审阅本次会议的基本规则。"
+    },
+    {
+      "word": "recap",
+      "spelling": "R, E, C, A, P",
+      "spoken_meaning": "名词，回顾，要点复述，会议小结",
+      "en": "I will send a recap of today's decisions to all attendees by noon.",
+      "zh": "我会在中午前把今天决议的要点回顾发给全体与会者。"
+    },
+    {
+      "word": "wrap-up",
+      "spelling": "W, R, A, P, hyphen, U, P",
+      "spoken_meaning": "名词，收尾，总结收束，会议结束阶段",
+      "en": "The last fifteen minutes are reserved for a wrap-up and next steps.",
+      "zh": "最后十五分钟留给收尾总结与下一步安排。"
+    },
+    {
+      "word": "roundtable",
+      "spelling": "R, O, U, N, D, T, A, B, L, E",
+      "spoken_meaning": "名词，圆桌讨论，圆桌会议，多方座谈",
+      "en": "Procurement will host a vendor roundtable on sustainable packaging next Thursday.",
+      "zh": "采购部将于下周四主办一场关于可持续包装的供应商圆桌讨论。"
+    },
+    {
+      "word": "screen-sharing",
+      "spelling": "S, C, R, E, E, N, hyphen, S, H, A, R, I, N, G",
+      "spoken_meaning": "名词，屏幕共享，投屏分享，远程演示画面共享",
+      "en": "Please start screen-sharing so everyone can follow the revised budget sheet.",
+      "zh": "请开始屏幕共享，以便大家都能跟上修订后的预算表。"
+    },
+    {
+      "word": "employee-handbook",
+      "spelling": "E, M, P, L, O, Y, E, E, hyphen, H, A, N, D, B, O, O, K",
+      "spoken_meaning": "名词，员工手册，雇员指南，内部人事政策汇编",
+      "en": "New hires must acknowledge the employee-handbook in the HR portal by Friday.",
+      "zh": "新员工须在周五前于人力资源门户确认已阅读员工手册。"
+    },
+    {
+      "word": "performance-improvement-plan",
+      "spelling": "P, E, R, F, O, R, M, A, N, C, E, hyphen, I, M, P, R, O, V, E, M, E, N, T, hyphen, P, L, A, N",
+      "spoken_meaning": "名词，绩效改进计划，业绩提升方案（常称PIP）",
+      "en": "After two missed quarters, she was placed on a ninety-day performance-improvement-plan.",
+      "zh": "连续两个季度未达标后，她被纳入为期九十天的绩效改进计划。"
+    },
+    {
+      "word": "employee-referral",
+      "spelling": "E, M, P, L, O, Y, E, E, hyphen, R, E, F, E, R, R, A, L",
+      "spoken_meaning": "名词，员工内推，员工推荐，内部推荐人选",
+      "en": "The opening was filled through an employee-referral from the design team.",
+      "zh": "该空缺通过设计团队的一次员工内推完成了招聘。"
+    },
+    {
+      "word": "merit-increase",
+      "spelling": "M, E, R, I, T, hyphen, I, N, C, R, E, A, S, E",
+      "spoken_meaning": "名词，绩效加薪，功绩调薪，按表现上调的薪酬",
+      "en": "High performers will receive a three-percent merit-increase effective March 1.",
+      "zh": "高绩效员工将自三月一日起获得百分之三的绩效加薪。"
+    },
+    {
+      "word": "hiring-manager",
+      "spelling": "H, I, R, I, N, G, hyphen, M, A, N, A, G, E, R",
+      "spoken_meaning": "名词，用人经理，招聘负责人，需求部门的招聘决策人",
+      "en": "Please schedule a second interview once the hiring-manager reviews the short list.",
+      "zh": "用人经理审阅短名单后，请安排第二轮面试。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第50轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "sustainability-report",
+      "voice": "en",
+      "text": "sustainability report",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sustainability-report",
+      "voice": "en",
+      "text": "S, U, S, T, A, I, N, A, B, I, L, I, T, Y, hyphen, R, E, P, O, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sustainability-report",
+      "voice": "zh",
+      "text": "名词，可持续发展报告，ESG报告，永续报告",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sustainability-report",
+      "voice": "en",
+      "text": "Investors asked for clearer Scope 3 data in the next sustainability-report.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sustainability-report",
+      "voice": "zh",
+      "text": "投资者要求下一份可持续发展报告提供更清晰的范围三数据。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "green-procurement",
+      "voice": "en",
+      "text": "green procurement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "green-procurement",
+      "voice": "en",
+      "text": "G, R, E, E, N, hyphen, P, R, O, C, U, R, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "green-procurement",
+      "voice": "zh",
+      "text": "名词，绿色采购，环保采购，可持续采购政策",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "green-procurement",
+      "voice": "en",
+      "text": "Under green-procurement rules, recycled paper is the default office supply.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "green-procurement",
+      "voice": "zh",
+      "text": "按绿色采购规定，再生纸为默认办公用品。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "vendor-scorecard",
+      "voice": "en",
+      "text": "vendor scorecard",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "vendor-scorecard",
+      "voice": "en",
+      "text": "V, E, N, D, O, R, hyphen, S, C, O, R, E, C, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "vendor-scorecard",
+      "voice": "zh",
+      "text": "名词，供应商记分卡，供应商绩效评分表",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "vendor-scorecard",
+      "voice": "en",
+      "text": "Two suppliers fell below the quality line on this quarter's vendor-scorecard.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "vendor-scorecard",
+      "voice": "zh",
+      "text": "两家供应商在本季度供应商记分卡上的质量分低于标准线。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "key-account",
+      "voice": "en",
+      "text": "key account",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "key-account",
+      "voice": "en",
+      "text": "K, E, Y, hyphen, A, C, C, O, U, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "key-account",
+      "voice": "zh",
+      "text": "名词，关键客户，重点客户，大客户账户",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "key-account",
+      "voice": "en",
+      "text": "Our top ten key-account clients generate nearly half of annual revenue.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "key-account",
+      "voice": "zh",
+      "text": "前十大关键客户贡献了近一半的年收入。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "account-manager",
+      "voice": "en",
+      "text": "account manager",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "account-manager",
+      "voice": "en",
+      "text": "A, C, C, O, U, N, T, hyphen, M, A, N, A, G, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "account-manager",
+      "voice": "zh",
+      "text": "名词，客户经理，客户成功/客户关系经理，客户负责人",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "account-manager",
+      "voice": "en",
+      "text": "Please escalate billing questions to your assigned account-manager.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "account-manager",
+      "voice": "zh",
+      "text": "账单问题请上报给你指定的客户经理。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "price-list",
+      "voice": "en",
+      "text": "price list",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "price-list",
+      "voice": "en",
+      "text": "P, R, I, C, E, hyphen, L, I, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "price-list",
+      "voice": "zh",
+      "text": "名词，价目表，价格清单，报价目录",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "price-list",
+      "voice": "en",
+      "text": "Effective Monday, please quote from the revised price-list only.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "price-list",
+      "voice": "zh",
+      "text": "自周一生效，请仅按修订后的价目表报价。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "markdown",
+      "voice": "en",
+      "text": "markdown",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "markdown",
+      "voice": "en",
+      "text": "M, A, R, K, D, O, W, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "markdown",
+      "voice": "zh",
+      "text": "名词或动词，降价，减价幅度，标低售价",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "markdown",
+      "voice": "en",
+      "text": "The buyer authorized a twenty-percent markdown on last season's inventory.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "markdown",
+      "voice": "zh",
+      "text": "采购批准对上季库存实施百分之二十的降价。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "inbound-logistics",
+      "voice": "en",
+      "text": "inbound logistics",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "inbound-logistics",
+      "voice": "en",
+      "text": "I, N, B, O, U, N, D, hyphen, L, O, G, I, S, T, I, C, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "inbound-logistics",
+      "voice": "zh",
+      "text": "名词，入库物流，入向物流，原材料/进货物流",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "inbound-logistics",
+      "voice": "en",
+      "text": "Customs holds have slowed inbound-logistics for electronic components.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "inbound-logistics",
+      "voice": "zh",
+      "text": "海关扣留拖慢了电子元件的入库物流。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "outbound-logistics",
+      "voice": "en",
+      "text": "outbound logistics",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "outbound-logistics",
+      "voice": "en",
+      "text": "O, U, T, B, O, U, N, D, hyphen, L, O, G, I, S, T, I, C, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "outbound-logistics",
+      "voice": "zh",
+      "text": "名词，出库物流，出向物流，成品配送物流",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "outbound-logistics",
+      "voice": "en",
+      "text": "Peak season stretched outbound-logistics capacity at every regional hub.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "outbound-logistics",
+      "voice": "zh",
+      "text": "旺季让每个区域枢纽的出库物流运力都吃紧。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reverse-logistics",
+      "voice": "en",
+      "text": "reverse logistics",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reverse-logistics",
+      "voice": "en",
+      "text": "R, E, V, E, R, S, E, hyphen, L, O, G, I, S, T, I, C, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reverse-logistics",
+      "voice": "zh",
+      "text": "名词，逆向物流，退货回流物流，回收物流",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reverse-logistics",
+      "voice": "en",
+      "text": "The warehouse added a dedicated bay for reverse-logistics returns.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reverse-logistics",
+      "voice": "zh",
+      "text": "仓库增设了专用于逆向物流退货的装卸区。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "change-management",
+      "voice": "en",
+      "text": "change management",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "change-management",
+      "voice": "en",
+      "text": "C, H, A, N, G, E, hyphen, M, A, N, A, G, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "change-management",
+      "voice": "zh",
+      "text": "名词，变革管理，组织变更管理，转型落地管理",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "change-management",
+      "voice": "en",
+      "text": "The ERP rollout failed without strong change-management for frontline staff.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "change-management",
+      "voice": "zh",
+      "text": "若缺少面向一线员工的有力变革管理，ERP 上线就会失败。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "process-mapping",
+      "voice": "en",
+      "text": "process mapping",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "process-mapping",
+      "voice": "en",
+      "text": "P, R, O, C, E, S, S, hyphen, M, A, P, P, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "process-mapping",
+      "voice": "zh",
+      "text": "名词，流程梳理/流程图绘制，流程地图绘制",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "process-mapping",
+      "voice": "en",
+      "text": "The lean team finished process-mapping for order-to-cash last Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "process-mapping",
+      "voice": "zh",
+      "text": "精益团队上周五完成了订单到收款的流程梳理。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "expense-cap",
+      "voice": "en",
+      "text": "expense cap",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "expense-cap",
+      "voice": "en",
+      "text": "E, X, P, E, N, S, E, hyphen, C, A, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "expense-cap",
+      "voice": "zh",
+      "text": "名词，费用上限，开支封顶额，报销额度上限",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "expense-cap",
+      "voice": "en",
+      "text": "Hotel stays above the city expense-cap need director approval.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "expense-cap",
+      "voice": "zh",
+      "text": "超过该城市费用上限的酒店住宿需总监批准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mileage-reimbursement",
+      "voice": "en",
+      "text": "mileage reimbursement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mileage-reimbursement",
+      "voice": "en",
+      "text": "M, I, L, E, A, G, E, hyphen, R, E, I, M, B, U, R, S, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mileage-reimbursement",
+      "voice": "zh",
+      "text": "名词，里程报销，按里程补贴，公务用车里程补偿",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mileage-reimbursement",
+      "voice": "en",
+      "text": "Sales reps should attach map logs when filing mileage-reimbursement.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mileage-reimbursement",
+      "voice": "zh",
+      "text": "销售代表申请里程报销时应附上路线记录。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "soft-close",
+      "voice": "en",
+      "text": "soft close",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "soft-close",
+      "voice": "en",
+      "text": "S, O, F, T, hyphen, C, L, O, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "soft-close",
+      "voice": "zh",
+      "text": "名词，软关账，初步关账，非正式月结截止",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "soft-close",
+      "voice": "en",
+      "text": "All expense reports must be in before Friday's soft-close.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "soft-close",
+      "voice": "zh",
+      "text": "所有费用报销须在周五软关账前提交。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hard-close",
+      "voice": "en",
+      "text": "hard close",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hard-close",
+      "voice": "en",
+      "text": "H, A, R, D, hyphen, C, L, O, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hard-close",
+      "voice": "zh",
+      "text": "名词，硬关账，最终关账，正式月结锁定",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hard-close",
+      "voice": "en",
+      "text": "No journal entries are accepted after the monthly hard-close.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hard-close",
+      "voice": "zh",
+      "text": "月度硬关账之后不再接受任何会计分录。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "audit-trail",
+      "voice": "en",
+      "text": "audit trail",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "audit-trail",
+      "voice": "en",
+      "text": "A, U, D, I, T, hyphen, T, R, A, I, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "audit-trail",
+      "voice": "zh",
+      "text": "名词，审计轨迹，操作留痕，审计跟踪记录",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "audit-trail",
+      "voice": "en",
+      "text": "Every price override must leave a complete audit-trail in the system.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "audit-trail",
+      "voice": "zh",
+      "text": "每一次价格覆盖都必须在系统中留下完整的审计轨迹。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "connecting-flight",
+      "voice": "en",
+      "text": "connecting flight",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "connecting-flight",
+      "voice": "en",
+      "text": "C, O, N, N, E, C, T, I, N, G, hyphen, F, L, I, G, H, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "connecting-flight",
+      "voice": "zh",
+      "text": "名词，转机航班，联程航班，衔接航班",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "connecting-flight",
+      "voice": "en",
+      "text": "Please allow at least ninety minutes for the Chicago connecting-flight.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "connecting-flight",
+      "voice": "zh",
+      "text": "芝加哥的转机航班请至少预留九十分钟衔接时间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "travel-voucher",
+      "voice": "en",
+      "text": "travel voucher",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "travel-voucher",
+      "voice": "en",
+      "text": "T, R, A, V, E, L, hyphen, V, O, U, C, H, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "travel-voucher",
+      "voice": "zh",
+      "text": "名词，旅行凭证/代金券，航司补偿券，差旅抵用券",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "travel-voucher",
+      "voice": "en",
+      "text": "Passengers affected by the cancellation received a two-hundred-dollar travel-voucher.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "travel-voucher",
+      "voice": "zh",
+      "text": "受取消航班影响的旅客获得了二百美元旅行代金券。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "steering-committee",
+      "voice": "en",
+      "text": "steering committee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "steering-committee",
+      "voice": "en",
+      "text": "S, T, E, E, R, I, N, G, hyphen, C, O, M, M, I, T, T, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "steering-committee",
+      "voice": "zh",
+      "text": "名词，指导委员会，督导委员会，项目决策委员会",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "steering-committee",
+      "voice": "en",
+      "text": "The steering-committee postponed go-live until security testing is complete.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "steering-committee",
+      "voice": "zh",
+      "text": "指导委员会将上线推迟到安全测试完成之后。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ground-rules",
+      "voice": "en",
+      "text": "ground rules",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ground-rules",
+      "voice": "en",
+      "text": "G, R, O, U, N, D, hyphen, R, U, L, E, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ground-rules",
+      "voice": "zh",
+      "text": "名词，基本规则，会议守则，讨论底线",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ground-rules",
+      "voice": "en",
+      "text": "Please review the ground-rules before we open the floor to comments.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ground-rules",
+      "voice": "zh",
+      "text": "在开放自由发言之前，请先审阅本次会议的基本规则。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "recap",
+      "voice": "en",
+      "text": "recap",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "recap",
+      "voice": "en",
+      "text": "R, E, C, A, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "recap",
+      "voice": "zh",
+      "text": "名词，回顾，要点复述，会议小结",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "recap",
+      "voice": "en",
+      "text": "I will send a recap of today's decisions to all attendees by noon.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "recap",
+      "voice": "zh",
+      "text": "我会在中午前把今天决议的要点回顾发给全体与会者。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "wrap-up",
+      "voice": "en",
+      "text": "wrap up",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "wrap-up",
+      "voice": "en",
+      "text": "W, R, A, P, hyphen, U, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "wrap-up",
+      "voice": "zh",
+      "text": "名词，收尾，总结收束，会议结束阶段",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "wrap-up",
+      "voice": "en",
+      "text": "The last fifteen minutes are reserved for a wrap-up and next steps.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "wrap-up",
+      "voice": "zh",
+      "text": "最后十五分钟留给收尾总结与下一步安排。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "roundtable",
+      "voice": "en",
+      "text": "roundtable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "roundtable",
+      "voice": "en",
+      "text": "R, O, U, N, D, T, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "roundtable",
+      "voice": "zh",
+      "text": "名词，圆桌讨论，圆桌会议，多方座谈",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "roundtable",
+      "voice": "en",
+      "text": "Procurement will host a vendor roundtable on sustainable packaging next Thursday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "roundtable",
+      "voice": "zh",
+      "text": "采购部将于下周四主办一场关于可持续包装的供应商圆桌讨论。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "screen-sharing",
+      "voice": "en",
+      "text": "screen sharing",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "screen-sharing",
+      "voice": "en",
+      "text": "S, C, R, E, E, N, hyphen, S, H, A, R, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "screen-sharing",
+      "voice": "zh",
+      "text": "名词，屏幕共享，投屏分享，远程演示画面共享",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "screen-sharing",
+      "voice": "en",
+      "text": "Please start screen-sharing so everyone can follow the revised budget sheet.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "screen-sharing",
+      "voice": "zh",
+      "text": "请开始屏幕共享，以便大家都能跟上修订后的预算表。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "employee-handbook",
+      "voice": "en",
+      "text": "employee handbook",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "employee-handbook",
+      "voice": "en",
+      "text": "E, M, P, L, O, Y, E, E, hyphen, H, A, N, D, B, O, O, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "employee-handbook",
+      "voice": "zh",
+      "text": "名词，员工手册，雇员指南，内部人事政策汇编",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "employee-handbook",
+      "voice": "en",
+      "text": "New hires must acknowledge the employee-handbook in the HR portal by Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "employee-handbook",
+      "voice": "zh",
+      "text": "新员工须在周五前于人力资源门户确认已阅读员工手册。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "performance-improvement-plan",
+      "voice": "en",
+      "text": "performance improvement plan",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "performance-improvement-plan",
+      "voice": "en",
+      "text": "P, E, R, F, O, R, M, A, N, C, E, hyphen, I, M, P, R, O, V, E, M, E, N, T, hyphen, P, L, A, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "performance-improvement-plan",
+      "voice": "zh",
+      "text": "名词，绩效改进计划，业绩提升方案（常称PIP）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "performance-improvement-plan",
+      "voice": "en",
+      "text": "After two missed quarters, she was placed on a ninety-day performance-improvement-plan.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "performance-improvement-plan",
+      "voice": "zh",
+      "text": "连续两个季度未达标后，她被纳入为期九十天的绩效改进计划。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "employee-referral",
+      "voice": "en",
+      "text": "employee referral",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "employee-referral",
+      "voice": "en",
+      "text": "E, M, P, L, O, Y, E, E, hyphen, R, E, F, E, R, R, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "employee-referral",
+      "voice": "zh",
+      "text": "名词，员工内推，员工推荐，内部推荐人选",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "employee-referral",
+      "voice": "en",
+      "text": "The opening was filled through an employee-referral from the design team.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "employee-referral",
+      "voice": "zh",
+      "text": "该空缺通过设计团队的一次员工内推完成了招聘。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "merit-increase",
+      "voice": "en",
+      "text": "merit increase",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "merit-increase",
+      "voice": "en",
+      "text": "M, E, R, I, T, hyphen, I, N, C, R, E, A, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "merit-increase",
+      "voice": "zh",
+      "text": "名词，绩效加薪，功绩调薪，按表现上调的薪酬",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "merit-increase",
+      "voice": "en",
+      "text": "High performers will receive a three-percent merit-increase effective March 1.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "merit-increase",
+      "voice": "zh",
+      "text": "高绩效员工将自三月一日起获得百分之三的绩效加薪。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hiring-manager",
+      "voice": "en",
+      "text": "hiring manager",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hiring-manager",
+      "voice": "en",
+      "text": "H, I, R, I, N, G, hyphen, M, A, N, A, G, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hiring-manager",
+      "voice": "zh",
+      "text": "名词，用人经理，招聘负责人，需求部门的招聘决策人",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hiring-manager",
+      "voice": "en",
+      "text": "Please schedule a second interview once the hiring-manager reviews the short list.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hiring-manager",
+      "voice": "zh",
+      "text": "用人经理审阅短名单后，请安排第二轮面试。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第50轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

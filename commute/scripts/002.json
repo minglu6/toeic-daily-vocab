@@ -1,0 +1,1314 @@
+{
+  "id": "002",
+  "track": 2,
+  "title": "第 2 轨",
+  "word_count": 30,
+  "headwords": [
+    "merge",
+    "acquire",
+    "resign",
+    "surplus",
+    "deficit",
+    "warranty",
+    "maintenance",
+    "headquarters",
+    "retail",
+    "wholesale",
+    "freight",
+    "occupancy",
+    "applicant",
+    "orientation",
+    "reimbursement",
+    "quota",
+    "survey",
+    "feedback",
+    "renovate",
+    "implement",
+    "allocate",
+    "audit",
+    "benefit",
+    "commission",
+    "comply",
+    "consensus",
+    "consult",
+    "coordinate",
+    "criteria",
+    "deduct"
+  ],
+  "entries": [
+    {
+      "word": "merge",
+      "spelling": "M, E, R, G, E",
+      "spoken_meaning": "动词，合并，融合",
+      "en": "The two departments will merge next quarter to cut costs.",
+      "zh": "两部门将于下季度合并以削减成本。"
+    },
+    {
+      "word": "acquire",
+      "spelling": "A, C, Q, U, I, R, E",
+      "spoken_meaning": "动词，收购，收购，学得",
+      "en": "Our firm plans to acquire a regional logistics company.",
+      "zh": "本公司计划收购一家区域物流公司。"
+    },
+    {
+      "word": "resign",
+      "spelling": "R, E, S, I, G, N",
+      "spoken_meaning": "动词，辞职，放弃",
+      "en": "She decided to resign from her post effective Friday.",
+      "zh": "她决定于周五起辞去现职。"
+    },
+    {
+      "word": "surplus",
+      "spelling": "S, U, R, P, L, U, S",
+      "spoken_meaning": "名词或形容词，盈余，过剩的",
+      "en": "The division reported a surplus after cutting travel expenses.",
+      "zh": "该部门削减差旅费后出现盈余。"
+    },
+    {
+      "word": "deficit",
+      "spelling": "D, E, F, I, C, I, T",
+      "spoken_meaning": "名词，赤字，不足额",
+      "en": "The project is facing a deficit due to unexpected shipping fees.",
+      "zh": "因意外运费，该项目出现赤字。"
+    },
+    {
+      "word": "warranty",
+      "spelling": "W, A, R, R, A, N, T, Y",
+      "spoken_meaning": "名词，保修，质保",
+      "en": "This laptop is still under warranty for another six months.",
+      "zh": "这台笔记本电脑保修期还有六个月。"
+    },
+    {
+      "word": "maintenance",
+      "spelling": "M, A, I, N, T, E, N, A, N, C, E",
+      "spoken_meaning": "名词，维护，保养，维持",
+      "en": "The elevators will be out of service during weekend maintenance.",
+      "zh": "周末维护期间电梯将暂停使用。"
+    },
+    {
+      "word": "headquarters",
+      "spelling": "H, E, A, D, Q, U, A, R, T, E, R, S",
+      "spoken_meaning": "名词，总部，总公司",
+      "en": "The company moved its headquarters to Singapore last year.",
+      "zh": "该公司去年将总部迁至新加坡。"
+    },
+    {
+      "word": "retail",
+      "spelling": "R, E, T, A, I, L",
+      "spoken_meaning": "名词或动词或形容词，零售，以零售方式卖",
+      "en": "The product is available at major retail outlets nationwide.",
+      "zh": "该产品在全国主要零售门店有售。"
+    },
+    {
+      "word": "wholesale",
+      "spelling": "W, H, O, L, E, S, A, L, E",
+      "spoken_meaning": "名词或形容词或副词，批发，批发的",
+      "en": "Restaurants often purchase ingredients at wholesale prices.",
+      "zh": "餐厅常以批发价采购食材。"
+    },
+    {
+      "word": "freight",
+      "spelling": "F, R, E, I, G, H, T",
+      "spoken_meaning": "名词或动词，货运，运费，装运",
+      "en": "Please confirm whether freight is included in the quote.",
+      "zh": "请确认报价是否含运费。"
+    },
+    {
+      "word": "occupancy",
+      "spelling": "O, C, C, U, P, A, N, C, Y",
+      "spoken_meaning": "名词，入住率，占用，占有",
+      "en": "Hotel occupancy rose sharply during the conference week.",
+      "zh": "会议周酒店入住率大幅上升。"
+    },
+    {
+      "word": "applicant",
+      "spelling": "A, P, P, L, I, C, A, N, T",
+      "spoken_meaning": "名词，申请人，求职者",
+      "en": "All applicants must submit a résumé by Friday.",
+      "zh": "所有申请人须于周五前提交简历。"
+    },
+    {
+      "word": "orientation",
+      "spelling": "O, R, I, E, N, T, A, T, I, O, N",
+      "spoken_meaning": "名词，入职培训，迎新，方向",
+      "en": "New employees must attend orientation on Monday morning.",
+      "zh": "新员工须于周一上午参加入职培训。"
+    },
+    {
+      "word": "reimbursement",
+      "spelling": "R, E, I, M, B, U, R, S, E, M, E, N, T",
+      "spoken_meaning": "名词，报销，偿付",
+      "en": "Submit your receipts to receive reimbursement within 10 days.",
+      "zh": "请提交收据，以便在 10 天内获得报销。"
+    },
+    {
+      "word": "quota",
+      "spelling": "Q, U, O, T, A",
+      "spoken_meaning": "名词，配额，定额，指标",
+      "en": "The sales team exceeded its quarterly quota by 12%.",
+      "zh": "销售团队超额完成季度指标 12%。"
+    },
+    {
+      "word": "survey",
+      "spelling": "S, U, R, V, E, Y",
+      "spoken_meaning": "名词或动词，调查，问卷，测量",
+      "en": "Please complete the customer satisfaction survey online.",
+      "zh": "请在线完成客户满意度调查。"
+    },
+    {
+      "word": "feedback",
+      "spelling": "F, E, E, D, B, A, C, K",
+      "spoken_meaning": "名词，反馈，意见回馈",
+      "en": "Managers are asked to give written feedback after each review.",
+      "zh": "经理须在每次评估后给出书面反馈。"
+    },
+    {
+      "word": "renovate",
+      "spelling": "R, E, N, O, V, A, T, E",
+      "spoken_meaning": "动词，翻新，整修",
+      "en": "The lobby will close next month while we renovate the floors.",
+      "zh": "下月大厅将关闭以便翻新地板。"
+    },
+    {
+      "word": "implement",
+      "spelling": "I, M, P, L, E, M, E, N, T",
+      "spoken_meaning": "动词或名词，实施，执行，工具（n.）",
+      "en": "IT will implement the new booking system next Monday.",
+      "zh": "IT 部门将于下周一启用新的预订系统。"
+    },
+    {
+      "word": "allocate",
+      "spelling": "A, L, L, O, C, A, T, E",
+      "spoken_meaning": "动词，分配，划拨（资源/资金）",
+      "en": "The board will allocate additional funds to the marketing team.",
+      "zh": "董事会将向市场团队划拨额外资金。"
+    },
+    {
+      "word": "audit",
+      "spelling": "A, U, D, I, T",
+      "spoken_meaning": "名词或动词，审计，查账",
+      "en": "An external firm will audit our expense reports next month.",
+      "zh": "下月一家外部公司将审计我们的报销报表。"
+    },
+    {
+      "word": "benefit",
+      "spelling": "B, E, N, E, F, I, T",
+      "spoken_meaning": "名词或动词，福利，益处，受益",
+      "en": "Full-time staff receive medical and dental benefits.",
+      "zh": "全职员工享有医疗和牙科福利。"
+    },
+    {
+      "word": "commission",
+      "spelling": "C, O, M, M, I, S, S, I, O, N",
+      "spoken_meaning": "名词或动词，佣金，委员会，委托",
+      "en": "Sales representatives earn a 5% commission on each deal.",
+      "zh": "销售代表每笔成交可获 5% 佣金。"
+    },
+    {
+      "word": "comply",
+      "spelling": "C, O, M, P, L, Y",
+      "spoken_meaning": "动词，遵守，遵从（法规/要求）",
+      "en": "All vendors must comply with the new safety regulations.",
+      "zh": "所有供应商必须遵守新的安全规定。"
+    },
+    {
+      "word": "consensus",
+      "spelling": "C, O, N, S, E, N, S, U, S",
+      "spoken_meaning": "名词，共识，一致意见",
+      "en": "The committee finally reached a consensus on the budget cut.",
+      "zh": "委员会终于就预算削减达成共识。"
+    },
+    {
+      "word": "consult",
+      "spelling": "C, O, N, S, U, L, T",
+      "spoken_meaning": "动词，咨询，请教，商议",
+      "en": "Please consult with Legal before signing the agreement.",
+      "zh": "签署协议前请先咨询法务部门。"
+    },
+    {
+      "word": "coordinate",
+      "spelling": "C, O, O, R, D, I, N, A, T, E",
+      "spoken_meaning": "动词或名词，协调，配合，坐标",
+      "en": "She will coordinate the launch event with the PR team.",
+      "zh": "她将与公关团队协调发布会事宜。"
+    },
+    {
+      "word": "criteria",
+      "spelling": "C, R, I, T, E, R, I, A",
+      "spoken_meaning": "名词，标准，准则（复数）",
+      "en": "Applicants must meet all the selection criteria listed below.",
+      "zh": "申请人必须符合下列全部选拔标准。"
+    },
+    {
+      "word": "deduct",
+      "spelling": "D, E, D, U, C, T",
+      "spoken_meaning": "动词，扣除，减除",
+      "en": "The company will deduct insurance premiums from your paycheck.",
+      "zh": "公司将从你的工资中扣除保险费。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第2轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "merge",
+      "voice": "en",
+      "text": "merge",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "merge",
+      "voice": "en",
+      "text": "M, E, R, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "merge",
+      "voice": "zh",
+      "text": "动词，合并，融合",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "merge",
+      "voice": "en",
+      "text": "The two departments will merge next quarter to cut costs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "merge",
+      "voice": "zh",
+      "text": "两部门将于下季度合并以削减成本。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "acquire",
+      "voice": "en",
+      "text": "acquire",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "acquire",
+      "voice": "en",
+      "text": "A, C, Q, U, I, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "acquire",
+      "voice": "zh",
+      "text": "动词，收购，收购，学得",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "acquire",
+      "voice": "en",
+      "text": "Our firm plans to acquire a regional logistics company.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "acquire",
+      "voice": "zh",
+      "text": "本公司计划收购一家区域物流公司。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "resign",
+      "voice": "en",
+      "text": "resign",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "resign",
+      "voice": "en",
+      "text": "R, E, S, I, G, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "resign",
+      "voice": "zh",
+      "text": "动词，辞职，放弃",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "resign",
+      "voice": "en",
+      "text": "She decided to resign from her post effective Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "resign",
+      "voice": "zh",
+      "text": "她决定于周五起辞去现职。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "surplus",
+      "voice": "en",
+      "text": "surplus",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "surplus",
+      "voice": "en",
+      "text": "S, U, R, P, L, U, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "surplus",
+      "voice": "zh",
+      "text": "名词或形容词，盈余，过剩的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "surplus",
+      "voice": "en",
+      "text": "The division reported a surplus after cutting travel expenses.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "surplus",
+      "voice": "zh",
+      "text": "该部门削减差旅费后出现盈余。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "deficit",
+      "voice": "en",
+      "text": "deficit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deficit",
+      "voice": "en",
+      "text": "D, E, F, I, C, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deficit",
+      "voice": "zh",
+      "text": "名词，赤字，不足额",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deficit",
+      "voice": "en",
+      "text": "The project is facing a deficit due to unexpected shipping fees.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deficit",
+      "voice": "zh",
+      "text": "因意外运费，该项目出现赤字。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "warranty",
+      "voice": "en",
+      "text": "warranty",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "warranty",
+      "voice": "en",
+      "text": "W, A, R, R, A, N, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "warranty",
+      "voice": "zh",
+      "text": "名词，保修，质保",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "warranty",
+      "voice": "en",
+      "text": "This laptop is still under warranty for another six months.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "warranty",
+      "voice": "zh",
+      "text": "这台笔记本电脑保修期还有六个月。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "maintenance",
+      "voice": "en",
+      "text": "maintenance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "maintenance",
+      "voice": "en",
+      "text": "M, A, I, N, T, E, N, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "maintenance",
+      "voice": "zh",
+      "text": "名词，维护，保养，维持",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "maintenance",
+      "voice": "en",
+      "text": "The elevators will be out of service during weekend maintenance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "maintenance",
+      "voice": "zh",
+      "text": "周末维护期间电梯将暂停使用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "headquarters",
+      "voice": "en",
+      "text": "headquarters",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "headquarters",
+      "voice": "en",
+      "text": "H, E, A, D, Q, U, A, R, T, E, R, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "headquarters",
+      "voice": "zh",
+      "text": "名词，总部，总公司",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "headquarters",
+      "voice": "en",
+      "text": "The company moved its headquarters to Singapore last year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "headquarters",
+      "voice": "zh",
+      "text": "该公司去年将总部迁至新加坡。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "retail",
+      "voice": "en",
+      "text": "retail",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "retail",
+      "voice": "en",
+      "text": "R, E, T, A, I, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "retail",
+      "voice": "zh",
+      "text": "名词或动词或形容词，零售，以零售方式卖",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "retail",
+      "voice": "en",
+      "text": "The product is available at major retail outlets nationwide.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "retail",
+      "voice": "zh",
+      "text": "该产品在全国主要零售门店有售。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "wholesale",
+      "voice": "en",
+      "text": "wholesale",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "wholesale",
+      "voice": "en",
+      "text": "W, H, O, L, E, S, A, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "wholesale",
+      "voice": "zh",
+      "text": "名词或形容词或副词，批发，批发的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "wholesale",
+      "voice": "en",
+      "text": "Restaurants often purchase ingredients at wholesale prices.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "wholesale",
+      "voice": "zh",
+      "text": "餐厅常以批发价采购食材。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "freight",
+      "voice": "en",
+      "text": "freight",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "freight",
+      "voice": "en",
+      "text": "F, R, E, I, G, H, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "freight",
+      "voice": "zh",
+      "text": "名词或动词，货运，运费，装运",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "freight",
+      "voice": "en",
+      "text": "Please confirm whether freight is included in the quote.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "freight",
+      "voice": "zh",
+      "text": "请确认报价是否含运费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "occupancy",
+      "voice": "en",
+      "text": "occupancy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "occupancy",
+      "voice": "en",
+      "text": "O, C, C, U, P, A, N, C, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "occupancy",
+      "voice": "zh",
+      "text": "名词，入住率，占用，占有",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "occupancy",
+      "voice": "en",
+      "text": "Hotel occupancy rose sharply during the conference week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "occupancy",
+      "voice": "zh",
+      "text": "会议周酒店入住率大幅上升。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "applicant",
+      "voice": "en",
+      "text": "applicant",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "applicant",
+      "voice": "en",
+      "text": "A, P, P, L, I, C, A, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "applicant",
+      "voice": "zh",
+      "text": "名词，申请人，求职者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "applicant",
+      "voice": "en",
+      "text": "All applicants must submit a résumé by Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "applicant",
+      "voice": "zh",
+      "text": "所有申请人须于周五前提交简历。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "orientation",
+      "voice": "en",
+      "text": "orientation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "orientation",
+      "voice": "en",
+      "text": "O, R, I, E, N, T, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "orientation",
+      "voice": "zh",
+      "text": "名词，入职培训，迎新，方向",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "orientation",
+      "voice": "en",
+      "text": "New employees must attend orientation on Monday morning.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "orientation",
+      "voice": "zh",
+      "text": "新员工须于周一上午参加入职培训。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reimbursement",
+      "voice": "en",
+      "text": "reimbursement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reimbursement",
+      "voice": "en",
+      "text": "R, E, I, M, B, U, R, S, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reimbursement",
+      "voice": "zh",
+      "text": "名词，报销，偿付",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reimbursement",
+      "voice": "en",
+      "text": "Submit your receipts to receive reimbursement within 10 days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reimbursement",
+      "voice": "zh",
+      "text": "请提交收据，以便在 10 天内获得报销。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "quota",
+      "voice": "en",
+      "text": "quota",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "quota",
+      "voice": "en",
+      "text": "Q, U, O, T, A",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "quota",
+      "voice": "zh",
+      "text": "名词，配额，定额，指标",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "quota",
+      "voice": "en",
+      "text": "The sales team exceeded its quarterly quota by 12%.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "quota",
+      "voice": "zh",
+      "text": "销售团队超额完成季度指标 12%。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "survey",
+      "voice": "en",
+      "text": "survey",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "survey",
+      "voice": "en",
+      "text": "S, U, R, V, E, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "survey",
+      "voice": "zh",
+      "text": "名词或动词，调查，问卷，测量",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "survey",
+      "voice": "en",
+      "text": "Please complete the customer satisfaction survey online.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "survey",
+      "voice": "zh",
+      "text": "请在线完成客户满意度调查。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "feedback",
+      "voice": "en",
+      "text": "feedback",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "feedback",
+      "voice": "en",
+      "text": "F, E, E, D, B, A, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "feedback",
+      "voice": "zh",
+      "text": "名词，反馈，意见回馈",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "feedback",
+      "voice": "en",
+      "text": "Managers are asked to give written feedback after each review.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "feedback",
+      "voice": "zh",
+      "text": "经理须在每次评估后给出书面反馈。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "renovate",
+      "voice": "en",
+      "text": "renovate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "renovate",
+      "voice": "en",
+      "text": "R, E, N, O, V, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "renovate",
+      "voice": "zh",
+      "text": "动词，翻新，整修",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "renovate",
+      "voice": "en",
+      "text": "The lobby will close next month while we renovate the floors.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "renovate",
+      "voice": "zh",
+      "text": "下月大厅将关闭以便翻新地板。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "implement",
+      "voice": "en",
+      "text": "implement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "implement",
+      "voice": "en",
+      "text": "I, M, P, L, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "implement",
+      "voice": "zh",
+      "text": "动词或名词，实施，执行，工具（n.）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "implement",
+      "voice": "en",
+      "text": "IT will implement the new booking system next Monday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "implement",
+      "voice": "zh",
+      "text": "IT 部门将于下周一启用新的预订系统。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "allocate",
+      "voice": "en",
+      "text": "allocate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "allocate",
+      "voice": "en",
+      "text": "A, L, L, O, C, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "allocate",
+      "voice": "zh",
+      "text": "动词，分配，划拨（资源/资金）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "allocate",
+      "voice": "en",
+      "text": "The board will allocate additional funds to the marketing team.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "allocate",
+      "voice": "zh",
+      "text": "董事会将向市场团队划拨额外资金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "audit",
+      "voice": "en",
+      "text": "audit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "audit",
+      "voice": "en",
+      "text": "A, U, D, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "audit",
+      "voice": "zh",
+      "text": "名词或动词，审计，查账",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "audit",
+      "voice": "en",
+      "text": "An external firm will audit our expense reports next month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "audit",
+      "voice": "zh",
+      "text": "下月一家外部公司将审计我们的报销报表。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "benefit",
+      "voice": "en",
+      "text": "benefit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "benefit",
+      "voice": "en",
+      "text": "B, E, N, E, F, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "benefit",
+      "voice": "zh",
+      "text": "名词或动词，福利，益处，受益",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "benefit",
+      "voice": "en",
+      "text": "Full-time staff receive medical and dental benefits.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "benefit",
+      "voice": "zh",
+      "text": "全职员工享有医疗和牙科福利。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "commission",
+      "voice": "en",
+      "text": "commission",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "commission",
+      "voice": "en",
+      "text": "C, O, M, M, I, S, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "commission",
+      "voice": "zh",
+      "text": "名词或动词，佣金，委员会，委托",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "commission",
+      "voice": "en",
+      "text": "Sales representatives earn a 5% commission on each deal.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "commission",
+      "voice": "zh",
+      "text": "销售代表每笔成交可获 5% 佣金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "comply",
+      "voice": "en",
+      "text": "comply",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "comply",
+      "voice": "en",
+      "text": "C, O, M, P, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "comply",
+      "voice": "zh",
+      "text": "动词，遵守，遵从（法规/要求）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "comply",
+      "voice": "en",
+      "text": "All vendors must comply with the new safety regulations.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "comply",
+      "voice": "zh",
+      "text": "所有供应商必须遵守新的安全规定。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "consensus",
+      "voice": "en",
+      "text": "consensus",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "consensus",
+      "voice": "en",
+      "text": "C, O, N, S, E, N, S, U, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "consensus",
+      "voice": "zh",
+      "text": "名词，共识，一致意见",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "consensus",
+      "voice": "en",
+      "text": "The committee finally reached a consensus on the budget cut.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "consensus",
+      "voice": "zh",
+      "text": "委员会终于就预算削减达成共识。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "consult",
+      "voice": "en",
+      "text": "consult",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "consult",
+      "voice": "en",
+      "text": "C, O, N, S, U, L, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "consult",
+      "voice": "zh",
+      "text": "动词，咨询，请教，商议",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "consult",
+      "voice": "en",
+      "text": "Please consult with Legal before signing the agreement.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "consult",
+      "voice": "zh",
+      "text": "签署协议前请先咨询法务部门。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "coordinate",
+      "voice": "en",
+      "text": "coordinate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "coordinate",
+      "voice": "en",
+      "text": "C, O, O, R, D, I, N, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "coordinate",
+      "voice": "zh",
+      "text": "动词或名词，协调，配合，坐标",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "coordinate",
+      "voice": "en",
+      "text": "She will coordinate the launch event with the PR team.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "coordinate",
+      "voice": "zh",
+      "text": "她将与公关团队协调发布会事宜。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "criteria",
+      "voice": "en",
+      "text": "criteria",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "criteria",
+      "voice": "en",
+      "text": "C, R, I, T, E, R, I, A",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "criteria",
+      "voice": "zh",
+      "text": "名词，标准，准则（复数）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "criteria",
+      "voice": "en",
+      "text": "Applicants must meet all the selection criteria listed below.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "criteria",
+      "voice": "zh",
+      "text": "申请人必须符合下列全部选拔标准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "deduct",
+      "voice": "en",
+      "text": "deduct",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deduct",
+      "voice": "en",
+      "text": "D, E, D, U, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deduct",
+      "voice": "zh",
+      "text": "动词，扣除，减除",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deduct",
+      "voice": "en",
+      "text": "The company will deduct insurance premiums from your paycheck.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deduct",
+      "voice": "zh",
+      "text": "公司将从你的工资中扣除保险费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第2轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

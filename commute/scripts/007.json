@@ -1,0 +1,1314 @@
+{
+  "id": "007",
+  "track": 7,
+  "title": "第 7 轨",
+  "word_count": 30,
+  "headwords": [
+    "consume",
+    "convert",
+    "convey",
+    "cooperate",
+    "courtesy",
+    "credit",
+    "critical",
+    "currency",
+    "declare",
+    "decrease",
+    "defer",
+    "demand",
+    "determine",
+    "disrupt",
+    "dissolve",
+    "diverse",
+    "document",
+    "domestic",
+    "dominate",
+    "downsize",
+    "enforce",
+    "escalate",
+    "exclusive",
+    "exhibit",
+    "expenditure",
+    "expertise",
+    "facility",
+    "feasible",
+    "flexible",
+    "foundation"
+  ],
+  "entries": [
+    {
+      "word": "consume",
+      "spelling": "C, O, N, S, U, M, E",
+      "spoken_meaning": "动词，消耗，消费，吃喝",
+      "en": "The new servers consume less electricity than the previous models.",
+      "zh": "新服务器比旧型号耗电更少。"
+    },
+    {
+      "word": "convert",
+      "spelling": "C, O, N, V, E, R, T",
+      "spoken_meaning": "动词，转换，兑换，改建",
+      "en": "Please convert all figures into US dollars before submitting the report.",
+      "zh": "提交报告前请将所有数字换算成美元。"
+    },
+    {
+      "word": "convey",
+      "spelling": "C, O, N, V, E, Y",
+      "spoken_meaning": "动词，传达，运送，表达",
+      "en": "Please convey our apologies to the client for the delayed shipment.",
+      "zh": "请向客户转达我们对延误发货的歉意。"
+    },
+    {
+      "word": "cooperate",
+      "spelling": "C, O, O, P, E, R, A, T, E",
+      "spoken_meaning": "动词，合作，配合",
+      "en": "All departments must cooperate with the auditors during the review.",
+      "zh": "审查期间各部门必须配合审计人员。"
+    },
+    {
+      "word": "courtesy",
+      "spelling": "C, O, U, R, T, E, S, Y",
+      "spoken_meaning": "名词，礼貌，优待，礼节性举动",
+      "en": "As a courtesy, we will extend the warranty by an additional year.",
+      "zh": "作为一项礼遇，我们将保修期再延长一年。"
+    },
+    {
+      "word": "credit",
+      "spelling": "C, R, E, D, I, T",
+      "spoken_meaning": "名词或动词，信用，赊购，赞扬",
+      "en": "Suppliers may allow established clients to purchase goods on credit.",
+      "zh": "供应商可允许老客户赊购商品。"
+    },
+    {
+      "word": "critical",
+      "spelling": "C, R, I, T, I, C, A, L",
+      "spoken_meaning": "形容词，关键的，批评的，危急的",
+      "en": "Timely delivery is critical to maintaining customer satisfaction.",
+      "zh": "准时交货对维持客户满意度至关重要。"
+    },
+    {
+      "word": "currency",
+      "spelling": "C, U, R, R, E, N, C, Y",
+      "spoken_meaning": "名词，货币，流通，通用",
+      "en": "Travelers should exchange foreign currency at the airport bank.",
+      "zh": "旅客应在机场银行兑换外币。"
+    },
+    {
+      "word": "declare",
+      "spelling": "D, E, C, L, A, R, E",
+      "spoken_meaning": "动词，申报，宣布，声明",
+      "en": "Passengers must declare all items purchased overseas at customs.",
+      "zh": "旅客必须在海关申报所有海外购买的物品。"
+    },
+    {
+      "word": "decrease",
+      "spelling": "D, E, C, R, E, A, S, E",
+      "spoken_meaning": "动词或名词，减少，降低",
+      "en": "Operating costs decreased by 12% after the process upgrade.",
+      "zh": "流程升级后运营成本下降了 12%。"
+    },
+    {
+      "word": "defer",
+      "spelling": "D, E, F, E, R",
+      "spoken_meaning": "动词，推迟，延期，遵从",
+      "en": "Management decided to defer the product launch until next quarter.",
+      "zh": "管理层决定将产品发布推迟到下个季度。"
+    },
+    {
+      "word": "demand",
+      "spelling": "D, E, M, A, N, D",
+      "spoken_meaning": "名词或动词，需求，要求，查问",
+      "en": "Strong demand for electric vehicles boosted sales last month.",
+      "zh": "电动车的强劲需求推动了上个月的销售。"
+    },
+    {
+      "word": "determine",
+      "spelling": "D, E, T, E, R, M, I, N, E",
+      "spoken_meaning": "动词，确定，决定，测定",
+      "en": "Investigators are still trying to determine the cause of the outage.",
+      "zh": "调查人员仍在设法确定停电原因。"
+    },
+    {
+      "word": "disrupt",
+      "spelling": "D, I, S, R, U, P, T",
+      "spoken_meaning": "动词，扰乱，中断，颠覆",
+      "en": "The storm disrupted flights and delayed thousands of passengers.",
+      "zh": "暴风雨扰乱了航班，延误了数千名旅客。"
+    },
+    {
+      "word": "dissolve",
+      "spelling": "D, I, S, S, O, L, V, E",
+      "spoken_meaning": "动词，解散，溶解，解除",
+      "en": "The two founders agreed to dissolve the partnership amicably.",
+      "zh": "两位创始人同意友好地解散合伙关系。"
+    },
+    {
+      "word": "diverse",
+      "spelling": "D, I, V, E, R, S, E",
+      "spoken_meaning": "形容词，多样的，不同的",
+      "en": "We seek candidates from diverse professional backgrounds.",
+      "zh": "我们寻求来自不同专业背景的候选人。"
+    },
+    {
+      "word": "document",
+      "spelling": "D, O, C, U, M, E, N, T",
+      "spoken_meaning": "名词或动词，文件，文档，记录在案",
+      "en": "Please attach all supporting documents to your expense report.",
+      "zh": "请将所有证明文件附在报销单上。"
+    },
+    {
+      "word": "domestic",
+      "spelling": "D, O, M, E, S, T, I, C",
+      "spoken_meaning": "形容词，国内的，家用的，本国的",
+      "en": "Domestic sales grew faster than exports this fiscal year.",
+      "zh": "本财年国内销售增速快于出口。"
+    },
+    {
+      "word": "dominate",
+      "spelling": "D, O, M, I, N, A, T, E",
+      "spoken_meaning": "动词，主导，支配，占优势",
+      "en": "Three major brands still dominate the smartphone market.",
+      "zh": "三大品牌仍主导智能手机市场。"
+    },
+    {
+      "word": "downsize",
+      "spelling": "D, O, W, N, S, I, Z, E",
+      "spoken_meaning": "动词，裁员缩编，缩小规模",
+      "en": "The firm plans to downsize its workforce by 8% next year.",
+      "zh": "该公司计划明年将员工编制缩减 8%。"
+    },
+    {
+      "word": "enforce",
+      "spelling": "E, N, F, O, R, C, E",
+      "spoken_meaning": "动词，强制执行，实施（法规/政策）",
+      "en": "The security team will enforce the new visitor policy starting Monday.",
+      "zh": "安保团队将从周一开始强制执行新的访客政策。"
+    },
+    {
+      "word": "escalate",
+      "spelling": "E, S, C, A, L, A, T, E",
+      "spoken_meaning": "动词，升级，逐步扩大（冲突/问题）",
+      "en": "If the error continues, please escalate the issue to technical support.",
+      "zh": "若错误持续出现，请将问题升级给技术支持。"
+    },
+    {
+      "word": "exclusive",
+      "spelling": "E, X, C, L, U, S, I, V, E",
+      "spoken_meaning": "形容词，独家的，排他的，专用的",
+      "en": "Members receive an exclusive offer on early-bird tickets.",
+      "zh": "会员可获得早鸟票的独家优惠。"
+    },
+    {
+      "word": "exhibit",
+      "spelling": "E, X, H, I, B, I, T",
+      "spoken_meaning": "名词或动词，展览，展品，展示",
+      "en": "Our company will exhibit new software at the industry fair.",
+      "zh": "我们公司将在行业展会上展出新软件。"
+    },
+    {
+      "word": "expenditure",
+      "spelling": "E, X, P, E, N, D, I, T, U, R, E",
+      "spoken_meaning": "名词，支出，开支，经费",
+      "en": "The finance team plans to reduce expenditure on overseas travel.",
+      "zh": "财务团队计划削减海外差旅支出。"
+    },
+    {
+      "word": "expertise",
+      "spelling": "E, X, P, E, R, T, I, S, E",
+      "spoken_meaning": "名词，专业知识，专长",
+      "en": "We hired a consultant with expertise in supply-chain logistics.",
+      "zh": "我们聘请了一位擅长供应链物流的顾问。"
+    },
+    {
+      "word": "facility",
+      "spelling": "F, A, C, I, L, I, T, Y",
+      "spoken_meaning": "名词，设施，场所，（复数）设备",
+      "en": "The new research facility will open near the airport next spring.",
+      "zh": "新的研究设施将于明年春天在机场附近启用。"
+    },
+    {
+      "word": "feasible",
+      "spelling": "F, E, A, S, I, B, L, E",
+      "spoken_meaning": "形容词，可行的，行得通的",
+      "en": "Moving the warehouse downtown is not financially feasible this year.",
+      "zh": "今年把仓库迁到市中心在财务上并不可行。"
+    },
+    {
+      "word": "flexible",
+      "spelling": "F, L, E, X, I, B, L, E",
+      "spoken_meaning": "形容词，灵活的，可变通的",
+      "en": "The company offers flexible working hours for remote staff.",
+      "zh": "公司为远程员工提供灵活的工作时间。"
+    },
+    {
+      "word": "foundation",
+      "spelling": "F, O, U, N, D, A, T, I, O, N",
+      "spoken_meaning": "名词，基础，基金会，创立",
+      "en": "Strong training lays the foundation for long-term customer service.",
+      "zh": "扎实的培训为长期客户服务打下基础。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第7轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "consume",
+      "voice": "en",
+      "text": "consume",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "consume",
+      "voice": "en",
+      "text": "C, O, N, S, U, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "consume",
+      "voice": "zh",
+      "text": "动词，消耗，消费，吃喝",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "consume",
+      "voice": "en",
+      "text": "The new servers consume less electricity than the previous models.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "consume",
+      "voice": "zh",
+      "text": "新服务器比旧型号耗电更少。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "convert",
+      "voice": "en",
+      "text": "convert",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "convert",
+      "voice": "en",
+      "text": "C, O, N, V, E, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "convert",
+      "voice": "zh",
+      "text": "动词，转换，兑换，改建",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "convert",
+      "voice": "en",
+      "text": "Please convert all figures into US dollars before submitting the report.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "convert",
+      "voice": "zh",
+      "text": "提交报告前请将所有数字换算成美元。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "convey",
+      "voice": "en",
+      "text": "convey",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "convey",
+      "voice": "en",
+      "text": "C, O, N, V, E, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "convey",
+      "voice": "zh",
+      "text": "动词，传达，运送，表达",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "convey",
+      "voice": "en",
+      "text": "Please convey our apologies to the client for the delayed shipment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "convey",
+      "voice": "zh",
+      "text": "请向客户转达我们对延误发货的歉意。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cooperate",
+      "voice": "en",
+      "text": "cooperate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cooperate",
+      "voice": "en",
+      "text": "C, O, O, P, E, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cooperate",
+      "voice": "zh",
+      "text": "动词，合作，配合",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cooperate",
+      "voice": "en",
+      "text": "All departments must cooperate with the auditors during the review.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cooperate",
+      "voice": "zh",
+      "text": "审查期间各部门必须配合审计人员。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "courtesy",
+      "voice": "en",
+      "text": "courtesy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "courtesy",
+      "voice": "en",
+      "text": "C, O, U, R, T, E, S, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "courtesy",
+      "voice": "zh",
+      "text": "名词，礼貌，优待，礼节性举动",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "courtesy",
+      "voice": "en",
+      "text": "As a courtesy, we will extend the warranty by an additional year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "courtesy",
+      "voice": "zh",
+      "text": "作为一项礼遇，我们将保修期再延长一年。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "credit",
+      "voice": "en",
+      "text": "credit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "credit",
+      "voice": "en",
+      "text": "C, R, E, D, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "credit",
+      "voice": "zh",
+      "text": "名词或动词，信用，赊购，赞扬",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "credit",
+      "voice": "en",
+      "text": "Suppliers may allow established clients to purchase goods on credit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "credit",
+      "voice": "zh",
+      "text": "供应商可允许老客户赊购商品。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "critical",
+      "voice": "en",
+      "text": "critical",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "critical",
+      "voice": "en",
+      "text": "C, R, I, T, I, C, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "critical",
+      "voice": "zh",
+      "text": "形容词，关键的，批评的，危急的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "critical",
+      "voice": "en",
+      "text": "Timely delivery is critical to maintaining customer satisfaction.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "critical",
+      "voice": "zh",
+      "text": "准时交货对维持客户满意度至关重要。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "currency",
+      "voice": "en",
+      "text": "currency",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "currency",
+      "voice": "en",
+      "text": "C, U, R, R, E, N, C, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "currency",
+      "voice": "zh",
+      "text": "名词，货币，流通，通用",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "currency",
+      "voice": "en",
+      "text": "Travelers should exchange foreign currency at the airport bank.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "currency",
+      "voice": "zh",
+      "text": "旅客应在机场银行兑换外币。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "declare",
+      "voice": "en",
+      "text": "declare",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "declare",
+      "voice": "en",
+      "text": "D, E, C, L, A, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "declare",
+      "voice": "zh",
+      "text": "动词，申报，宣布，声明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "declare",
+      "voice": "en",
+      "text": "Passengers must declare all items purchased overseas at customs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "declare",
+      "voice": "zh",
+      "text": "旅客必须在海关申报所有海外购买的物品。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "decrease",
+      "voice": "en",
+      "text": "decrease",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "decrease",
+      "voice": "en",
+      "text": "D, E, C, R, E, A, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "decrease",
+      "voice": "zh",
+      "text": "动词或名词，减少，降低",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "decrease",
+      "voice": "en",
+      "text": "Operating costs decreased by 12% after the process upgrade.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "decrease",
+      "voice": "zh",
+      "text": "流程升级后运营成本下降了 12%。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "defer",
+      "voice": "en",
+      "text": "defer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "defer",
+      "voice": "en",
+      "text": "D, E, F, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "defer",
+      "voice": "zh",
+      "text": "动词，推迟，延期，遵从",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "defer",
+      "voice": "en",
+      "text": "Management decided to defer the product launch until next quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "defer",
+      "voice": "zh",
+      "text": "管理层决定将产品发布推迟到下个季度。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "demand",
+      "voice": "en",
+      "text": "demand",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "demand",
+      "voice": "en",
+      "text": "D, E, M, A, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "demand",
+      "voice": "zh",
+      "text": "名词或动词，需求，要求，查问",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "demand",
+      "voice": "en",
+      "text": "Strong demand for electric vehicles boosted sales last month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "demand",
+      "voice": "zh",
+      "text": "电动车的强劲需求推动了上个月的销售。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "determine",
+      "voice": "en",
+      "text": "determine",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "determine",
+      "voice": "en",
+      "text": "D, E, T, E, R, M, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "determine",
+      "voice": "zh",
+      "text": "动词，确定，决定，测定",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "determine",
+      "voice": "en",
+      "text": "Investigators are still trying to determine the cause of the outage.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "determine",
+      "voice": "zh",
+      "text": "调查人员仍在设法确定停电原因。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "disrupt",
+      "voice": "en",
+      "text": "disrupt",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "disrupt",
+      "voice": "en",
+      "text": "D, I, S, R, U, P, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "disrupt",
+      "voice": "zh",
+      "text": "动词，扰乱，中断，颠覆",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "disrupt",
+      "voice": "en",
+      "text": "The storm disrupted flights and delayed thousands of passengers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "disrupt",
+      "voice": "zh",
+      "text": "暴风雨扰乱了航班，延误了数千名旅客。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "dissolve",
+      "voice": "en",
+      "text": "dissolve",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "dissolve",
+      "voice": "en",
+      "text": "D, I, S, S, O, L, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "dissolve",
+      "voice": "zh",
+      "text": "动词，解散，溶解，解除",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "dissolve",
+      "voice": "en",
+      "text": "The two founders agreed to dissolve the partnership amicably.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "dissolve",
+      "voice": "zh",
+      "text": "两位创始人同意友好地解散合伙关系。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "diverse",
+      "voice": "en",
+      "text": "diverse",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "diverse",
+      "voice": "en",
+      "text": "D, I, V, E, R, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "diverse",
+      "voice": "zh",
+      "text": "形容词，多样的，不同的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "diverse",
+      "voice": "en",
+      "text": "We seek candidates from diverse professional backgrounds.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "diverse",
+      "voice": "zh",
+      "text": "我们寻求来自不同专业背景的候选人。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "document",
+      "voice": "en",
+      "text": "document",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "document",
+      "voice": "en",
+      "text": "D, O, C, U, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "document",
+      "voice": "zh",
+      "text": "名词或动词，文件，文档，记录在案",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "document",
+      "voice": "en",
+      "text": "Please attach all supporting documents to your expense report.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "document",
+      "voice": "zh",
+      "text": "请将所有证明文件附在报销单上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "domestic",
+      "voice": "en",
+      "text": "domestic",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "domestic",
+      "voice": "en",
+      "text": "D, O, M, E, S, T, I, C",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "domestic",
+      "voice": "zh",
+      "text": "形容词，国内的，家用的，本国的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "domestic",
+      "voice": "en",
+      "text": "Domestic sales grew faster than exports this fiscal year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "domestic",
+      "voice": "zh",
+      "text": "本财年国内销售增速快于出口。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "dominate",
+      "voice": "en",
+      "text": "dominate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "dominate",
+      "voice": "en",
+      "text": "D, O, M, I, N, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "dominate",
+      "voice": "zh",
+      "text": "动词，主导，支配，占优势",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "dominate",
+      "voice": "en",
+      "text": "Three major brands still dominate the smartphone market.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "dominate",
+      "voice": "zh",
+      "text": "三大品牌仍主导智能手机市场。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "downsize",
+      "voice": "en",
+      "text": "downsize",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "downsize",
+      "voice": "en",
+      "text": "D, O, W, N, S, I, Z, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "downsize",
+      "voice": "zh",
+      "text": "动词，裁员缩编，缩小规模",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "downsize",
+      "voice": "en",
+      "text": "The firm plans to downsize its workforce by 8% next year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "downsize",
+      "voice": "zh",
+      "text": "该公司计划明年将员工编制缩减 8%。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "enforce",
+      "voice": "en",
+      "text": "enforce",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "enforce",
+      "voice": "en",
+      "text": "E, N, F, O, R, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "enforce",
+      "voice": "zh",
+      "text": "动词，强制执行，实施（法规/政策）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "enforce",
+      "voice": "en",
+      "text": "The security team will enforce the new visitor policy starting Monday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "enforce",
+      "voice": "zh",
+      "text": "安保团队将从周一开始强制执行新的访客政策。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "escalate",
+      "voice": "en",
+      "text": "escalate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "escalate",
+      "voice": "en",
+      "text": "E, S, C, A, L, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "escalate",
+      "voice": "zh",
+      "text": "动词，升级，逐步扩大（冲突/问题）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "escalate",
+      "voice": "en",
+      "text": "If the error continues, please escalate the issue to technical support.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "escalate",
+      "voice": "zh",
+      "text": "若错误持续出现，请将问题升级给技术支持。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "exclusive",
+      "voice": "en",
+      "text": "exclusive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "exclusive",
+      "voice": "en",
+      "text": "E, X, C, L, U, S, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "exclusive",
+      "voice": "zh",
+      "text": "形容词，独家的，排他的，专用的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "exclusive",
+      "voice": "en",
+      "text": "Members receive an exclusive offer on early-bird tickets.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "exclusive",
+      "voice": "zh",
+      "text": "会员可获得早鸟票的独家优惠。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "exhibit",
+      "voice": "en",
+      "text": "exhibit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "exhibit",
+      "voice": "en",
+      "text": "E, X, H, I, B, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "exhibit",
+      "voice": "zh",
+      "text": "名词或动词，展览，展品，展示",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "exhibit",
+      "voice": "en",
+      "text": "Our company will exhibit new software at the industry fair.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "exhibit",
+      "voice": "zh",
+      "text": "我们公司将在行业展会上展出新软件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "expenditure",
+      "voice": "en",
+      "text": "expenditure",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "expenditure",
+      "voice": "en",
+      "text": "E, X, P, E, N, D, I, T, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "expenditure",
+      "voice": "zh",
+      "text": "名词，支出，开支，经费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "expenditure",
+      "voice": "en",
+      "text": "The finance team plans to reduce expenditure on overseas travel.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "expenditure",
+      "voice": "zh",
+      "text": "财务团队计划削减海外差旅支出。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "expertise",
+      "voice": "en",
+      "text": "expertise",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "expertise",
+      "voice": "en",
+      "text": "E, X, P, E, R, T, I, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "expertise",
+      "voice": "zh",
+      "text": "名词，专业知识，专长",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "expertise",
+      "voice": "en",
+      "text": "We hired a consultant with expertise in supply-chain logistics.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "expertise",
+      "voice": "zh",
+      "text": "我们聘请了一位擅长供应链物流的顾问。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "facility",
+      "voice": "en",
+      "text": "facility",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "facility",
+      "voice": "en",
+      "text": "F, A, C, I, L, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "facility",
+      "voice": "zh",
+      "text": "名词，设施，场所，（复数）设备",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "facility",
+      "voice": "en",
+      "text": "The new research facility will open near the airport next spring.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "facility",
+      "voice": "zh",
+      "text": "新的研究设施将于明年春天在机场附近启用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "feasible",
+      "voice": "en",
+      "text": "feasible",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "feasible",
+      "voice": "en",
+      "text": "F, E, A, S, I, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "feasible",
+      "voice": "zh",
+      "text": "形容词，可行的，行得通的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "feasible",
+      "voice": "en",
+      "text": "Moving the warehouse downtown is not financially feasible this year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "feasible",
+      "voice": "zh",
+      "text": "今年把仓库迁到市中心在财务上并不可行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "flexible",
+      "voice": "en",
+      "text": "flexible",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "flexible",
+      "voice": "en",
+      "text": "F, L, E, X, I, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "flexible",
+      "voice": "zh",
+      "text": "形容词，灵活的，可变通的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "flexible",
+      "voice": "en",
+      "text": "The company offers flexible working hours for remote staff.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "flexible",
+      "voice": "zh",
+      "text": "公司为远程员工提供灵活的工作时间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "foundation",
+      "voice": "en",
+      "text": "foundation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "foundation",
+      "voice": "en",
+      "text": "F, O, U, N, D, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "foundation",
+      "voice": "zh",
+      "text": "名词，基础，基金会，创立",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "foundation",
+      "voice": "en",
+      "text": "Strong training lays the foundation for long-term customer service.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "foundation",
+      "voice": "zh",
+      "text": "扎实的培训为长期客户服务打下基础。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第7轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

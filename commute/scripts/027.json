@@ -1,0 +1,1314 @@
+{
+  "id": "027",
+  "track": 27,
+  "title": "第 27 轨",
+  "word_count": 30,
+  "headwords": [
+    "baseline",
+    "batch",
+    "beforehand",
+    "beverage",
+    "bias",
+    "bilateral",
+    "blueprint",
+    "bookkeeping",
+    "booth",
+    "bottleneck",
+    "bounce",
+    "branch",
+    "breach",
+    "breakdown",
+    "broker",
+    "budgetary",
+    "bureaucracy",
+    "buyer",
+    "bypass",
+    "binder",
+    "cafeteria",
+    "calendar",
+    "capable",
+    "career",
+    "carrier",
+    "carton",
+    "cash",
+    "category",
+    "ceiling",
+    "celebrate"
+  ],
+  "entries": [
+    {
+      "word": "baseline",
+      "spelling": "B, A, S, E, L, I, N, E",
+      "spoken_meaning": "名词，基线，基准，起点水平",
+      "en": "We will use last year's sales as a baseline for the forecast.",
+      "zh": "我们将以去年销售额作为预测的基线。"
+    },
+    {
+      "word": "batch",
+      "spelling": "B, A, T, C, H",
+      "spoken_meaning": "名词，一批，一批次（生产/处理）",
+      "en": "The factory will ship the next batch of parts on Friday.",
+      "zh": "工厂将于周五发出下一批零件。"
+    },
+    {
+      "word": "beforehand",
+      "spelling": "B, E, F, O, R, E, H, A, N, D",
+      "spoken_meaning": "副词，事先，提前",
+      "en": "Please submit the expense forms beforehand so payroll can process them.",
+      "zh": "请事先提交报销单，以便薪资部门处理。"
+    },
+    {
+      "word": "beverage",
+      "spelling": "B, E, V, E, R, A, G, E",
+      "spoken_meaning": "名词，饮料（尤指非水类）",
+      "en": "Complimentary beverages will be served during the networking break.",
+      "zh": "交流茶歇期间将提供免费饮料。"
+    },
+    {
+      "word": "bias",
+      "spelling": "B, I, A, S",
+      "spoken_meaning": "名词或动词，偏见，偏向，使有偏见",
+      "en": "The hiring panel received training to reduce unconscious bias.",
+      "zh": "招聘委员会接受了减少无意识偏见的培训。"
+    },
+    {
+      "word": "bilateral",
+      "spelling": "B, I, L, A, T, E, R, A, L",
+      "spoken_meaning": "形容词，双边的，双方的",
+      "en": "The two countries signed a bilateral trade agreement last month.",
+      "zh": "两国上个月签署了双边贸易协定。"
+    },
+    {
+      "word": "blueprint",
+      "spelling": "B, L, U, E, P, R, I, N, T",
+      "spoken_meaning": "名词，蓝图，详细计划，设计图",
+      "en": "Management presented a blueprint for expanding into Asian markets.",
+      "zh": "管理层提出了进军亚洲市场的蓝图。"
+    },
+    {
+      "word": "bookkeeping",
+      "spelling": "B, O, O, K, K, E, E, P, I, N, G",
+      "spoken_meaning": "名词，簿记，记账",
+      "en": "Accurate bookkeeping is essential for the annual tax audit.",
+      "zh": "准确的簿记对年度税务审计至关重要。"
+    },
+    {
+      "word": "booth",
+      "spelling": "B, O, O, T, H",
+      "spoken_meaning": "名词，展位，摊位，隔间",
+      "en": "Our company reserved a booth at the international trade fair.",
+      "zh": "本公司在国际贸展上预订了一个展位。"
+    },
+    {
+      "word": "bottleneck",
+      "spelling": "B, O, T, T, L, E, N, E, C, K",
+      "spoken_meaning": "名词，瓶颈，卡点，制约因素",
+      "en": "Customs clearance has become a bottleneck for overseas shipments.",
+      "zh": "清关已成为海外发货的瓶颈。"
+    },
+    {
+      "word": "bounce",
+      "spelling": "B, O, U, N, C, E",
+      "spoken_meaning": "动词或名词，弹回，（支票）遭拒付，反弹",
+      "en": "The payment failed because the customer's check bounced.",
+      "zh": "由于客户支票遭拒付，这笔付款失败了。"
+    },
+    {
+      "word": "branch",
+      "spelling": "B, R, A, N, C, H",
+      "spoken_meaning": "名词或动词，分支，分行，分公司",
+      "en": "The bank plans to open a new branch near the business district.",
+      "zh": "该银行计划在商业区附近开设一家新分行。"
+    },
+    {
+      "word": "breach",
+      "spelling": "B, R, E, A, C, H",
+      "spoken_meaning": "名词或动词，违反，破坏，缺口",
+      "en": "Late delivery may constitute a breach of contract.",
+      "zh": "延迟交货可能构成违约。"
+    },
+    {
+      "word": "breakdown",
+      "spelling": "B, R, E, A, K, D, O, W, N",
+      "spoken_meaning": "名词，故障，明细，崩溃",
+      "en": "Please send a cost breakdown for each phase of the project.",
+      "zh": "请发送项目各阶段的费用明细。"
+    },
+    {
+      "word": "broker",
+      "spelling": "B, R, O, K, E, R",
+      "spoken_meaning": "名词或动词，经纪人，中间人，促成（交易）",
+      "en": "An insurance broker helped us compare coverage options.",
+      "zh": "一位保险经纪人帮我们比较了保障方案。"
+    },
+    {
+      "word": "budgetary",
+      "spelling": "B, U, D, G, E, T, A, R, Y",
+      "spoken_meaning": "形容词，预算的，财政预算方面的",
+      "en": "Hiring was delayed due to strict budgetary constraints.",
+      "zh": "由于严格的预算限制，招聘被推迟了。"
+    },
+    {
+      "word": "bureaucracy",
+      "spelling": "B, U, R, E, A, U, C, R, A, C, Y",
+      "spoken_meaning": "名词，官僚作风，官僚机构，繁文缛节",
+      "en": "Excessive bureaucracy slowed down the permit application.",
+      "zh": "过度的官僚作风拖慢了许可证申请。"
+    },
+    {
+      "word": "buyer",
+      "spelling": "B, U, Y, E, R",
+      "spoken_meaning": "名词，买方，采购员，买家",
+      "en": "Our sales team will meet with key buyers at the trade show.",
+      "zh": "我们的销售团队将在展会上会见主要采购商。"
+    },
+    {
+      "word": "bypass",
+      "spelling": "B, Y, P, A, S, S",
+      "spoken_meaning": "动词或名词，绕过，避开，旁路",
+      "en": "Do not bypass the approval procedure for large purchases.",
+      "zh": "大额采购请勿绕过审批程序。"
+    },
+    {
+      "word": "binder",
+      "spelling": "B, I, N, D, E, R",
+      "spoken_meaning": "名词，活页夹，装订物，（保险）暂保单",
+      "en": "Please file the signed contracts in the blue binder.",
+      "zh": "请将已签署的合同放入蓝色活页夹。"
+    },
+    {
+      "word": "cafeteria",
+      "spelling": "C, A, F, E, T, E, R, I, A",
+      "spoken_meaning": "名词，自助食堂，员工餐厅",
+      "en": "The new headquarters includes a spacious staff cafeteria on the second floor.",
+      "zh": "新总部二楼设有宽敞的员工食堂。"
+    },
+    {
+      "word": "calendar",
+      "spelling": "C, A, L, E, N, D, A, R",
+      "spoken_meaning": "名词，日历，日程表，活动安排",
+      "en": "Please check your calendar before we schedule the next board meeting.",
+      "zh": "安排下次董事会会议前，请先查看你的日程。"
+    },
+    {
+      "word": "capable",
+      "spelling": "C, A, P, A, B, L, E",
+      "spoken_meaning": "形容词，有能力的，能干的，能胜任的",
+      "en": "She is capable of managing multiple client accounts at once.",
+      "zh": "她能够同时管理多个客户账户。"
+    },
+    {
+      "word": "career",
+      "spelling": "C, A, R, E, E, R",
+      "spoken_meaning": "名词，职业，生涯，事业",
+      "en": "The mentoring program helps junior staff plan a clear career path.",
+      "zh": "导师计划帮助初级员工规划清晰的职业路径。"
+    },
+    {
+      "word": "carrier",
+      "spelling": "C, A, R, R, I, E, R",
+      "spoken_meaning": "名词，承运人，运输公司，航空公司",
+      "en": "We switched to a more reliable shipping carrier to reduce delays.",
+      "zh": "我们改用更可靠的货运承运商以减少延误。"
+    },
+    {
+      "word": "carton",
+      "spelling": "C, A, R, T, O, N",
+      "spoken_meaning": "名词，纸箱，纸板盒",
+      "en": "Each carton must be labeled with the destination warehouse code.",
+      "zh": "每个纸箱都必须标注目的仓库代码。"
+    },
+    {
+      "word": "cash",
+      "spelling": "C, A, S, H",
+      "spoken_meaning": "名词，现金，现款",
+      "en": "Positive cash flow is essential for covering short-term operating costs.",
+      "zh": "正现金流对覆盖短期运营成本至关重要。"
+    },
+    {
+      "word": "category",
+      "spelling": "C, A, T, E, G, O, R, Y",
+      "spoken_meaning": "名词，类别，分类，范畴",
+      "en": "This item belongs in the electronics product category.",
+      "zh": "该商品属于电子产品类别。"
+    },
+    {
+      "word": "ceiling",
+      "spelling": "C, E, I, L, I, N, G",
+      "spoken_meaning": "名词，天花板，上限，最高限度",
+      "en": "Regulators imposed a price ceiling on essential medicines.",
+      "zh": "监管机构对基本药品设定了价格上限。"
+    },
+    {
+      "word": "celebrate",
+      "spelling": "C, E, L, E, B, R, A, T, E",
+      "spoken_meaning": "动词，庆祝，庆贺，颂扬",
+      "en": "The team gathered to celebrate a record quarter in sales.",
+      "zh": "团队聚在一起庆祝创纪录的销售季度。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第27轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "baseline",
+      "voice": "en",
+      "text": "baseline",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "baseline",
+      "voice": "en",
+      "text": "B, A, S, E, L, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "baseline",
+      "voice": "zh",
+      "text": "名词，基线，基准，起点水平",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "baseline",
+      "voice": "en",
+      "text": "We will use last year's sales as a baseline for the forecast.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "baseline",
+      "voice": "zh",
+      "text": "我们将以去年销售额作为预测的基线。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "batch",
+      "voice": "en",
+      "text": "batch",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "batch",
+      "voice": "en",
+      "text": "B, A, T, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "batch",
+      "voice": "zh",
+      "text": "名词，一批，一批次（生产/处理）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "batch",
+      "voice": "en",
+      "text": "The factory will ship the next batch of parts on Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "batch",
+      "voice": "zh",
+      "text": "工厂将于周五发出下一批零件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "beforehand",
+      "voice": "en",
+      "text": "beforehand",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "beforehand",
+      "voice": "en",
+      "text": "B, E, F, O, R, E, H, A, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "beforehand",
+      "voice": "zh",
+      "text": "副词，事先，提前",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "beforehand",
+      "voice": "en",
+      "text": "Please submit the expense forms beforehand so payroll can process them.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "beforehand",
+      "voice": "zh",
+      "text": "请事先提交报销单，以便薪资部门处理。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "beverage",
+      "voice": "en",
+      "text": "beverage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "beverage",
+      "voice": "en",
+      "text": "B, E, V, E, R, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "beverage",
+      "voice": "zh",
+      "text": "名词，饮料（尤指非水类）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "beverage",
+      "voice": "en",
+      "text": "Complimentary beverages will be served during the networking break.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "beverage",
+      "voice": "zh",
+      "text": "交流茶歇期间将提供免费饮料。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bias",
+      "voice": "en",
+      "text": "bias",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bias",
+      "voice": "en",
+      "text": "B, I, A, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bias",
+      "voice": "zh",
+      "text": "名词或动词，偏见，偏向，使有偏见",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bias",
+      "voice": "en",
+      "text": "The hiring panel received training to reduce unconscious bias.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bias",
+      "voice": "zh",
+      "text": "招聘委员会接受了减少无意识偏见的培训。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bilateral",
+      "voice": "en",
+      "text": "bilateral",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bilateral",
+      "voice": "en",
+      "text": "B, I, L, A, T, E, R, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bilateral",
+      "voice": "zh",
+      "text": "形容词，双边的，双方的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bilateral",
+      "voice": "en",
+      "text": "The two countries signed a bilateral trade agreement last month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bilateral",
+      "voice": "zh",
+      "text": "两国上个月签署了双边贸易协定。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "blueprint",
+      "voice": "en",
+      "text": "blueprint",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "blueprint",
+      "voice": "en",
+      "text": "B, L, U, E, P, R, I, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "blueprint",
+      "voice": "zh",
+      "text": "名词，蓝图，详细计划，设计图",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "blueprint",
+      "voice": "en",
+      "text": "Management presented a blueprint for expanding into Asian markets.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "blueprint",
+      "voice": "zh",
+      "text": "管理层提出了进军亚洲市场的蓝图。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bookkeeping",
+      "voice": "en",
+      "text": "bookkeeping",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bookkeeping",
+      "voice": "en",
+      "text": "B, O, O, K, K, E, E, P, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bookkeeping",
+      "voice": "zh",
+      "text": "名词，簿记，记账",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bookkeeping",
+      "voice": "en",
+      "text": "Accurate bookkeeping is essential for the annual tax audit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bookkeeping",
+      "voice": "zh",
+      "text": "准确的簿记对年度税务审计至关重要。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "booth",
+      "voice": "en",
+      "text": "booth",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "booth",
+      "voice": "en",
+      "text": "B, O, O, T, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "booth",
+      "voice": "zh",
+      "text": "名词，展位，摊位，隔间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "booth",
+      "voice": "en",
+      "text": "Our company reserved a booth at the international trade fair.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "booth",
+      "voice": "zh",
+      "text": "本公司在国际贸展上预订了一个展位。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bottleneck",
+      "voice": "en",
+      "text": "bottleneck",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bottleneck",
+      "voice": "en",
+      "text": "B, O, T, T, L, E, N, E, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bottleneck",
+      "voice": "zh",
+      "text": "名词，瓶颈，卡点，制约因素",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bottleneck",
+      "voice": "en",
+      "text": "Customs clearance has become a bottleneck for overseas shipments.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bottleneck",
+      "voice": "zh",
+      "text": "清关已成为海外发货的瓶颈。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bounce",
+      "voice": "en",
+      "text": "bounce",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bounce",
+      "voice": "en",
+      "text": "B, O, U, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bounce",
+      "voice": "zh",
+      "text": "动词或名词，弹回，（支票）遭拒付，反弹",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bounce",
+      "voice": "en",
+      "text": "The payment failed because the customer's check bounced.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bounce",
+      "voice": "zh",
+      "text": "由于客户支票遭拒付，这笔付款失败了。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "branch",
+      "voice": "en",
+      "text": "branch",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "branch",
+      "voice": "en",
+      "text": "B, R, A, N, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "branch",
+      "voice": "zh",
+      "text": "名词或动词，分支，分行，分公司",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "branch",
+      "voice": "en",
+      "text": "The bank plans to open a new branch near the business district.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "branch",
+      "voice": "zh",
+      "text": "该银行计划在商业区附近开设一家新分行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "breach",
+      "voice": "en",
+      "text": "breach",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "breach",
+      "voice": "en",
+      "text": "B, R, E, A, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "breach",
+      "voice": "zh",
+      "text": "名词或动词，违反，破坏，缺口",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "breach",
+      "voice": "en",
+      "text": "Late delivery may constitute a breach of contract.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "breach",
+      "voice": "zh",
+      "text": "延迟交货可能构成违约。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "breakdown",
+      "voice": "en",
+      "text": "breakdown",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "breakdown",
+      "voice": "en",
+      "text": "B, R, E, A, K, D, O, W, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "breakdown",
+      "voice": "zh",
+      "text": "名词，故障，明细，崩溃",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "breakdown",
+      "voice": "en",
+      "text": "Please send a cost breakdown for each phase of the project.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "breakdown",
+      "voice": "zh",
+      "text": "请发送项目各阶段的费用明细。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "broker",
+      "voice": "en",
+      "text": "broker",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "broker",
+      "voice": "en",
+      "text": "B, R, O, K, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "broker",
+      "voice": "zh",
+      "text": "名词或动词，经纪人，中间人，促成（交易）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "broker",
+      "voice": "en",
+      "text": "An insurance broker helped us compare coverage options.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "broker",
+      "voice": "zh",
+      "text": "一位保险经纪人帮我们比较了保障方案。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "budgetary",
+      "voice": "en",
+      "text": "budgetary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "budgetary",
+      "voice": "en",
+      "text": "B, U, D, G, E, T, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "budgetary",
+      "voice": "zh",
+      "text": "形容词，预算的，财政预算方面的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "budgetary",
+      "voice": "en",
+      "text": "Hiring was delayed due to strict budgetary constraints.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "budgetary",
+      "voice": "zh",
+      "text": "由于严格的预算限制，招聘被推迟了。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bureaucracy",
+      "voice": "en",
+      "text": "bureaucracy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bureaucracy",
+      "voice": "en",
+      "text": "B, U, R, E, A, U, C, R, A, C, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bureaucracy",
+      "voice": "zh",
+      "text": "名词，官僚作风，官僚机构，繁文缛节",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bureaucracy",
+      "voice": "en",
+      "text": "Excessive bureaucracy slowed down the permit application.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bureaucracy",
+      "voice": "zh",
+      "text": "过度的官僚作风拖慢了许可证申请。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "buyer",
+      "voice": "en",
+      "text": "buyer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "buyer",
+      "voice": "en",
+      "text": "B, U, Y, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "buyer",
+      "voice": "zh",
+      "text": "名词，买方，采购员，买家",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "buyer",
+      "voice": "en",
+      "text": "Our sales team will meet with key buyers at the trade show.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "buyer",
+      "voice": "zh",
+      "text": "我们的销售团队将在展会上会见主要采购商。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bypass",
+      "voice": "en",
+      "text": "bypass",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bypass",
+      "voice": "en",
+      "text": "B, Y, P, A, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bypass",
+      "voice": "zh",
+      "text": "动词或名词，绕过，避开，旁路",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bypass",
+      "voice": "en",
+      "text": "Do not bypass the approval procedure for large purchases.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bypass",
+      "voice": "zh",
+      "text": "大额采购请勿绕过审批程序。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "binder",
+      "voice": "en",
+      "text": "binder",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "binder",
+      "voice": "en",
+      "text": "B, I, N, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "binder",
+      "voice": "zh",
+      "text": "名词，活页夹，装订物，（保险）暂保单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "binder",
+      "voice": "en",
+      "text": "Please file the signed contracts in the blue binder.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "binder",
+      "voice": "zh",
+      "text": "请将已签署的合同放入蓝色活页夹。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cafeteria",
+      "voice": "en",
+      "text": "cafeteria",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cafeteria",
+      "voice": "en",
+      "text": "C, A, F, E, T, E, R, I, A",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cafeteria",
+      "voice": "zh",
+      "text": "名词，自助食堂，员工餐厅",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cafeteria",
+      "voice": "en",
+      "text": "The new headquarters includes a spacious staff cafeteria on the second floor.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cafeteria",
+      "voice": "zh",
+      "text": "新总部二楼设有宽敞的员工食堂。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "calendar",
+      "voice": "en",
+      "text": "calendar",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "calendar",
+      "voice": "en",
+      "text": "C, A, L, E, N, D, A, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "calendar",
+      "voice": "zh",
+      "text": "名词，日历，日程表，活动安排",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "calendar",
+      "voice": "en",
+      "text": "Please check your calendar before we schedule the next board meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "calendar",
+      "voice": "zh",
+      "text": "安排下次董事会会议前，请先查看你的日程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "capable",
+      "voice": "en",
+      "text": "capable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "capable",
+      "voice": "en",
+      "text": "C, A, P, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "capable",
+      "voice": "zh",
+      "text": "形容词，有能力的，能干的，能胜任的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "capable",
+      "voice": "en",
+      "text": "She is capable of managing multiple client accounts at once.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "capable",
+      "voice": "zh",
+      "text": "她能够同时管理多个客户账户。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "career",
+      "voice": "en",
+      "text": "career",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "career",
+      "voice": "en",
+      "text": "C, A, R, E, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "career",
+      "voice": "zh",
+      "text": "名词，职业，生涯，事业",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "career",
+      "voice": "en",
+      "text": "The mentoring program helps junior staff plan a clear career path.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "career",
+      "voice": "zh",
+      "text": "导师计划帮助初级员工规划清晰的职业路径。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "carrier",
+      "voice": "en",
+      "text": "carrier",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "carrier",
+      "voice": "en",
+      "text": "C, A, R, R, I, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "carrier",
+      "voice": "zh",
+      "text": "名词，承运人，运输公司，航空公司",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "carrier",
+      "voice": "en",
+      "text": "We switched to a more reliable shipping carrier to reduce delays.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "carrier",
+      "voice": "zh",
+      "text": "我们改用更可靠的货运承运商以减少延误。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "carton",
+      "voice": "en",
+      "text": "carton",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "carton",
+      "voice": "en",
+      "text": "C, A, R, T, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "carton",
+      "voice": "zh",
+      "text": "名词，纸箱，纸板盒",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "carton",
+      "voice": "en",
+      "text": "Each carton must be labeled with the destination warehouse code.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "carton",
+      "voice": "zh",
+      "text": "每个纸箱都必须标注目的仓库代码。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cash",
+      "voice": "en",
+      "text": "cash",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cash",
+      "voice": "en",
+      "text": "C, A, S, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cash",
+      "voice": "zh",
+      "text": "名词，现金，现款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cash",
+      "voice": "en",
+      "text": "Positive cash flow is essential for covering short-term operating costs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cash",
+      "voice": "zh",
+      "text": "正现金流对覆盖短期运营成本至关重要。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "category",
+      "voice": "en",
+      "text": "category",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "category",
+      "voice": "en",
+      "text": "C, A, T, E, G, O, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "category",
+      "voice": "zh",
+      "text": "名词，类别，分类，范畴",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "category",
+      "voice": "en",
+      "text": "This item belongs in the electronics product category.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "category",
+      "voice": "zh",
+      "text": "该商品属于电子产品类别。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ceiling",
+      "voice": "en",
+      "text": "ceiling",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ceiling",
+      "voice": "en",
+      "text": "C, E, I, L, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ceiling",
+      "voice": "zh",
+      "text": "名词，天花板，上限，最高限度",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ceiling",
+      "voice": "en",
+      "text": "Regulators imposed a price ceiling on essential medicines.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ceiling",
+      "voice": "zh",
+      "text": "监管机构对基本药品设定了价格上限。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "celebrate",
+      "voice": "en",
+      "text": "celebrate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "celebrate",
+      "voice": "en",
+      "text": "C, E, L, E, B, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "celebrate",
+      "voice": "zh",
+      "text": "动词，庆祝，庆贺，颂扬",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "celebrate",
+      "voice": "en",
+      "text": "The team gathered to celebrate a record quarter in sales.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "celebrate",
+      "voice": "zh",
+      "text": "团队聚在一起庆祝创纪录的销售季度。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第27轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

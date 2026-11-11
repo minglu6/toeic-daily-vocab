@@ -1,0 +1,1314 @@
+{
+  "id": "052",
+  "track": 52,
+  "title": "第 52 轨",
+  "word_count": 30,
+  "headwords": [
+    "invoice",
+    "balance-sheet",
+    "fiscal-year",
+    "profit-center",
+    "income-statement",
+    "itinerary",
+    "round-trip",
+    "hotel-reservation",
+    "e-ticket",
+    "check-in",
+    "return-to-office",
+    "out-of-office",
+    "calendar-invite",
+    "remote-work",
+    "email-campaign",
+    "click-through-rate",
+    "case-study",
+    "competitive-advantage",
+    "termination-clause",
+    "time-and-materials",
+    "all-hands",
+    "brainstorming",
+    "conference-call",
+    "rsvp",
+    "unpaid-leave",
+    "start-date",
+    "job-posting",
+    "tuition-reimbursement",
+    "year-to-date",
+    "fiscal-quarter"
+  ],
+  "entries": [
+    {
+      "word": "invoice",
+      "spelling": "I, N, V, O, I, C, E",
+      "spoken_meaning": "名词，发票，账单，付款通知单",
+      "en": "Please send the signed invoice to accounts payable by the end of the day.",
+      "zh": "请在今天结束前把已签署的发票发给应付账款部门。"
+    },
+    {
+      "word": "balance-sheet",
+      "spelling": "B, A, L, A, N, C, E, hyphen, S, H, E, E, T",
+      "spoken_meaning": "名词，资产负债表，财务状况表，平衡表",
+      "en": "The draft balance-sheet shows a decline in cash and a rise in short-term debt.",
+      "zh": "资产负债表草稿显示现金下降，同时短期债务上升。"
+    },
+    {
+      "word": "fiscal-year",
+      "spelling": "F, I, S, C, A, L, hyphen, Y, E, A, R",
+      "spoken_meaning": "名词，财政年度，会计年度，财年",
+      "en": "All unused training budgets must be spent before the fiscal-year closes on March 31.",
+      "zh": "所有未使用的培训预算必须在3月31日财政年度结束前用完。"
+    },
+    {
+      "word": "profit-center",
+      "spelling": "P, R, O, F, I, T, hyphen, C, E, N, T, E, R",
+      "spoken_meaning": "名词，利润中心，创收单位，独立核算的盈利部门",
+      "en": "The after-sales unit will be reported as a separate profit-center starting next quarter.",
+      "zh": "售后部门将从下季度起作为单独的利润中心进行汇报。"
+    },
+    {
+      "word": "income-statement",
+      "spelling": "I, N, C, O, M, E, hyphen, S, T, A, T, E, M, E, N, T",
+      "spoken_meaning": "名词，利润表，损益表，收益表",
+      "en": "Revenue on the income-statement exceeded the forecast, but operating expenses also rose.",
+      "zh": "利润表上的收入超出了预测，但营业费用也有所上升。"
+    },
+    {
+      "word": "itinerary",
+      "spelling": "I, T, I, N, E, R, A, R, Y",
+      "spoken_meaning": "名词，行程，旅行计划，行程安排表",
+      "en": "I have attached your itinerary, including flight times and the hotel address.",
+      "zh": "我已附上你的行程单，其中包括航班时间与酒店地址。"
+    },
+    {
+      "word": "round-trip",
+      "spelling": "R, O, U, N, D, hyphen, T, R, I, P",
+      "spoken_meaning": "名词，往返行程，来回票，双程旅行",
+      "en": "Please book a round-trip to Chicago leaving Monday and returning Thursday evening.",
+      "zh": "请预订周一出发、周四晚返回芝加哥的往返行程。"
+    },
+    {
+      "word": "hotel-reservation",
+      "spelling": "H, O, T, E, L, hyphen, R, E, S, E, R, V, A, T, I, O, N",
+      "spoken_meaning": "名词，酒店预订，饭店订房，住宿预约",
+      "en": "Could you confirm the hotel-reservation under the company name for three nights?",
+      "zh": "能否确认以公司名义预订的三晚酒店？"
+    },
+    {
+      "word": "e-ticket",
+      "spelling": "E, hyphen, T, I, C, K, E, T",
+      "spoken_meaning": "名词，电子票，电子机票，电子乘机凭证",
+      "en": "Your e-ticket has been issued; please download it before you leave for the airport.",
+      "zh": "你的电子票已经出具，请在出发去机场前下载。"
+    },
+    {
+      "word": "check-in",
+      "spelling": "C, H, E, C, K, hyphen, I, N",
+      "spoken_meaning": "名词，值机，办理登机手续，酒店入住登记",
+      "en": "Online check-in opens twenty-four hours before departure.",
+      "zh": "网上值机在起飞前二十四小时开放。"
+    },
+    {
+      "word": "return-to-office",
+      "spelling": "R, E, T, U, R, N, hyphen, T, O, hyphen, O, F, F, I, C, E",
+      "spoken_meaning": "名词，返岗办公，回到办公室办公，重新到岗（常称RTO）",
+      "en": "The return-to-office policy requires teams to be on site three days a week.",
+      "zh": "返岗办公政策要求各团队每周到岗三天。"
+    },
+    {
+      "word": "out-of-office",
+      "spelling": "O, U, T, hyphen, O, F, hyphen, O, F, F, I, C, E",
+      "spoken_meaning": "名词，不在办公室自动回复，离岗留言，外出/休假不在岗状态",
+      "en": "I will set an out-of-office while I am at the client workshop next week.",
+      "zh": "我下周参加客户研讨会期间会设置不在办公室自动回复。"
+    },
+    {
+      "word": "calendar-invite",
+      "spelling": "C, A, L, E, N, D, A, R, hyphen, I, N, V, I, T, E",
+      "spoken_meaning": "名词，日历邀请，会议邀请，电子日程邀请",
+      "en": "I just sent a calendar-invite for a thirty-minute review at 3 p.m.",
+      "zh": "我刚发了一封下午三点、时长三十分钟的审阅会议日历邀请。"
+    },
+    {
+      "word": "remote-work",
+      "spelling": "R, E, M, O, T, E, hyphen, W, O, R, K",
+      "spoken_meaning": "名词，远程办公，异地办公，不在公司现场的工作安排",
+      "en": "The engineering team will continue remote-work through the end of the quarter.",
+      "zh": "工程团队将继续远程办公直至本季度结束。"
+    },
+    {
+      "word": "email-campaign",
+      "spelling": "E, M, A, I, L, hyphen, C, A, M, P, A, I, G, N",
+      "spoken_meaning": "名词，邮件营销活动，电子邮件推广，批量营销邮件计划",
+      "en": "The email-campaign for the spring promotion will go out to existing customers on Monday.",
+      "zh": "春季促销的邮件营销活动将于周一发给现有客户。"
+    },
+    {
+      "word": "click-through-rate",
+      "spelling": "C, L, I, C, K, hyphen, T, H, R, O, U, G, H, hyphen, R, A, T, E",
+      "spoken_meaning": "名词，点击率，点进率，链接点击比率（常称CTR）",
+      "en": "The redesigned subject line lifted the click-through-rate from 2.1 percent to 3.4 percent.",
+      "zh": "重新设计的主题行把点击率从2.1%提升到了3.4%。"
+    },
+    {
+      "word": "case-study",
+      "spelling": "C, A, S, E, hyphen, S, T, U, D, Y",
+      "spoken_meaning": "名词，案例研究，成功案例，客户案例",
+      "en": "Marketing asked the client for permission to publish a case-study on the rollout.",
+      "zh": "市场部已请求客户允许就本次上线发布一篇案例研究。"
+    },
+    {
+      "word": "competitive-advantage",
+      "spelling": "C, O, M, P, E, T, I, T, I, V, E, hyphen, A, D, V, A, N, T, A, G, E",
+      "spoken_meaning": "名词，竞争优势，相对优势，竞争有利条件",
+      "en": "Faster delivery remains our main competitive-advantage in the mid-market segment.",
+      "zh": "更快的交付速度仍然是我们在中端市场的主要竞争优势。"
+    },
+    {
+      "word": "termination-clause",
+      "spelling": "T, E, R, M, I, N, A, T, I, O, N, hyphen, C, L, A, U, S, E",
+      "spoken_meaning": "名词，终止条款，解约条款，合同解除条款",
+      "en": "Legal wants to shorten the termination-clause from ninety days' notice to thirty.",
+      "zh": "法务希望把终止条款中的通知期从九十天缩短为三十天。"
+    },
+    {
+      "word": "time-and-materials",
+      "spelling": "T, I, M, E, hyphen, A, N, D, hyphen, M, A, T, E, R, I, A, L, S",
+      "spoken_meaning": "名词，工料计费，按工时与材料计价，实报实销式合同（常称T&M）",
+      "en": "Because the scope is still unclear, we proposed a time-and-materials contract rather than a fixed fee.",
+      "zh": "由于范围仍不明确，我们建议采用工料计费合同，而不是固定费用。"
+    },
+    {
+      "word": "all-hands",
+      "spelling": "A, L, L, hyphen, H, A, N, D, S",
+      "spoken_meaning": "名词，全员大会，全员会议，要求全体员工参加的内部通报会",
+      "en": "Please join Friday's all-hands, where the CEO will outline next year's priorities.",
+      "zh": "请参加周五的全员大会，首席执行官将在会上说明明年的优先事项。"
+    },
+    {
+      "word": "brainstorming",
+      "spelling": "B, R, A, I, N, S, T, O, R, M, I, N, G",
+      "spoken_meaning": "名词，头脑风暴，集思广益，创意研讨",
+      "en": "Marketing will hold a brainstorming session tomorrow to generate taglines for the spring launch.",
+      "zh": "市场部明天将召开一场头脑风暴会，为春季上市活动构思宣传语。"
+    },
+    {
+      "word": "conference-call",
+      "spelling": "C, O, N, F, E, R, E, N, C, E, hyphen, C, A, L, L",
+      "spoken_meaning": "名词，电话会议，多方通话，远程会议电话",
+      "en": "Please join the conference-call at 10:00 a.m. to review the shipment delay with the supplier.",
+      "zh": "请于上午10点加入电话会议，与供应商一起复核此次发货延误。"
+    },
+    {
+      "word": "rsvp",
+      "spelling": "R, S, V, P",
+      "spoken_meaning": "名词或动词，请回复，出席回执，确认是否参加的回复",
+      "en": "Please rsvp by Wednesday so we can finalize the headcount for the client dinner.",
+      "zh": "请在周三前回复是否出席，以便我们确定客户晚宴的人数。"
+    },
+    {
+      "word": "unpaid-leave",
+      "spelling": "U, N, P, A, I, D, hyphen, L, E, A, V, E",
+      "spoken_meaning": "名词，无薪假，停薪留职假，不带薪休假",
+      "en": "She requested two weeks of unpaid-leave to handle a family matter abroad.",
+      "zh": "她申请了两周无薪假，以便处理国外的家事。"
+    },
+    {
+      "word": "start-date",
+      "spelling": "S, T, A, R, T, hyphen, D, A, T, E",
+      "spoken_meaning": "名词，入职日期，到岗日，任职起始日",
+      "en": "Your offer letter confirms a start-date of April 6, subject to a completed background check.",
+      "zh": "录用通知确认入职日期为4月6日，前提是背景调查已完成。"
+    },
+    {
+      "word": "job-posting",
+      "spelling": "J, O, B, hyphen, P, O, S, T, I, N, G",
+      "spoken_meaning": "名词，招聘启事，职位发布，岗位招聘公告",
+      "en": "HR will publish the job-posting on the careers page after the hiring manager approves the requirements.",
+      "zh": "在用人经理批准任职要求后，人力资源部将把招聘启事发布到招聘网页上。"
+    },
+    {
+      "word": "tuition-reimbursement",
+      "spelling": "T, U, I, T, I, O, N, hyphen, R, E, I, M, B, U, R, S, E, M, E, N, T",
+      "spoken_meaning": "名词，学费报销，教育资助报销，公司代报学费",
+      "en": "Employees may apply for tuition-reimbursement after completing an approved course with a grade of B or higher.",
+      "zh": "员工在完成经批准的课程且成绩达到B或以上后，可申请学费报销。"
+    },
+    {
+      "word": "year-to-date",
+      "spelling": "Y, E, A, R, hyphen, T, O, hyphen, D, A, T, E",
+      "spoken_meaning": "名词或形容词，年初至今，本年累计，年迄今（常称YTD）",
+      "en": "Year-to-date sales are 12 percent above the same period last year.",
+      "zh": "年初至今的销售额较去年同期高出12%。"
+    },
+    {
+      "word": "fiscal-quarter",
+      "spelling": "F, I, S, C, A, L, hyphen, Q, U, A, R, T, E, R",
+      "spoken_meaning": "名词，财季，会计季度，财政季度",
+      "en": "We will publish fiscal-quarter results on May 8 after the books are closed.",
+      "zh": "账目结清后，我们将于5月8日公布本财季业绩。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第52轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "invoice",
+      "voice": "en",
+      "text": "invoice",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "invoice",
+      "voice": "en",
+      "text": "I, N, V, O, I, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "invoice",
+      "voice": "zh",
+      "text": "名词，发票，账单，付款通知单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "invoice",
+      "voice": "en",
+      "text": "Please send the signed invoice to accounts payable by the end of the day.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "invoice",
+      "voice": "zh",
+      "text": "请在今天结束前把已签署的发票发给应付账款部门。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "balance-sheet",
+      "voice": "en",
+      "text": "balance sheet",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "balance-sheet",
+      "voice": "en",
+      "text": "B, A, L, A, N, C, E, hyphen, S, H, E, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "balance-sheet",
+      "voice": "zh",
+      "text": "名词，资产负债表，财务状况表，平衡表",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "balance-sheet",
+      "voice": "en",
+      "text": "The draft balance-sheet shows a decline in cash and a rise in short-term debt.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "balance-sheet",
+      "voice": "zh",
+      "text": "资产负债表草稿显示现金下降，同时短期债务上升。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fiscal-year",
+      "voice": "en",
+      "text": "fiscal year",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fiscal-year",
+      "voice": "en",
+      "text": "F, I, S, C, A, L, hyphen, Y, E, A, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fiscal-year",
+      "voice": "zh",
+      "text": "名词，财政年度，会计年度，财年",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fiscal-year",
+      "voice": "en",
+      "text": "All unused training budgets must be spent before the fiscal-year closes on March 31.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fiscal-year",
+      "voice": "zh",
+      "text": "所有未使用的培训预算必须在3月31日财政年度结束前用完。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "profit-center",
+      "voice": "en",
+      "text": "profit center",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "profit-center",
+      "voice": "en",
+      "text": "P, R, O, F, I, T, hyphen, C, E, N, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "profit-center",
+      "voice": "zh",
+      "text": "名词，利润中心，创收单位，独立核算的盈利部门",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "profit-center",
+      "voice": "en",
+      "text": "The after-sales unit will be reported as a separate profit-center starting next quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "profit-center",
+      "voice": "zh",
+      "text": "售后部门将从下季度起作为单独的利润中心进行汇报。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "income-statement",
+      "voice": "en",
+      "text": "income statement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "income-statement",
+      "voice": "en",
+      "text": "I, N, C, O, M, E, hyphen, S, T, A, T, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "income-statement",
+      "voice": "zh",
+      "text": "名词，利润表，损益表，收益表",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "income-statement",
+      "voice": "en",
+      "text": "Revenue on the income-statement exceeded the forecast, but operating expenses also rose.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "income-statement",
+      "voice": "zh",
+      "text": "利润表上的收入超出了预测，但营业费用也有所上升。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "itinerary",
+      "voice": "en",
+      "text": "itinerary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "itinerary",
+      "voice": "en",
+      "text": "I, T, I, N, E, R, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "itinerary",
+      "voice": "zh",
+      "text": "名词，行程，旅行计划，行程安排表",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "itinerary",
+      "voice": "en",
+      "text": "I have attached your itinerary, including flight times and the hotel address.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "itinerary",
+      "voice": "zh",
+      "text": "我已附上你的行程单，其中包括航班时间与酒店地址。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "round-trip",
+      "voice": "en",
+      "text": "round trip",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "round-trip",
+      "voice": "en",
+      "text": "R, O, U, N, D, hyphen, T, R, I, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "round-trip",
+      "voice": "zh",
+      "text": "名词，往返行程，来回票，双程旅行",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "round-trip",
+      "voice": "en",
+      "text": "Please book a round-trip to Chicago leaving Monday and returning Thursday evening.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "round-trip",
+      "voice": "zh",
+      "text": "请预订周一出发、周四晚返回芝加哥的往返行程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hotel-reservation",
+      "voice": "en",
+      "text": "hotel reservation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hotel-reservation",
+      "voice": "en",
+      "text": "H, O, T, E, L, hyphen, R, E, S, E, R, V, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hotel-reservation",
+      "voice": "zh",
+      "text": "名词，酒店预订，饭店订房，住宿预约",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hotel-reservation",
+      "voice": "en",
+      "text": "Could you confirm the hotel-reservation under the company name for three nights?",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hotel-reservation",
+      "voice": "zh",
+      "text": "能否确认以公司名义预订的三晚酒店？",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "e-ticket",
+      "voice": "en",
+      "text": "e ticket",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "e-ticket",
+      "voice": "en",
+      "text": "E, hyphen, T, I, C, K, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "e-ticket",
+      "voice": "zh",
+      "text": "名词，电子票，电子机票，电子乘机凭证",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "e-ticket",
+      "voice": "en",
+      "text": "Your e-ticket has been issued; please download it before you leave for the airport.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "e-ticket",
+      "voice": "zh",
+      "text": "你的电子票已经出具，请在出发去机场前下载。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "check-in",
+      "voice": "en",
+      "text": "check in",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "check-in",
+      "voice": "en",
+      "text": "C, H, E, C, K, hyphen, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "check-in",
+      "voice": "zh",
+      "text": "名词，值机，办理登机手续，酒店入住登记",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "check-in",
+      "voice": "en",
+      "text": "Online check-in opens twenty-four hours before departure.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "check-in",
+      "voice": "zh",
+      "text": "网上值机在起飞前二十四小时开放。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "return-to-office",
+      "voice": "en",
+      "text": "return to office",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "return-to-office",
+      "voice": "en",
+      "text": "R, E, T, U, R, N, hyphen, T, O, hyphen, O, F, F, I, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "return-to-office",
+      "voice": "zh",
+      "text": "名词，返岗办公，回到办公室办公，重新到岗（常称RTO）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "return-to-office",
+      "voice": "en",
+      "text": "The return-to-office policy requires teams to be on site three days a week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "return-to-office",
+      "voice": "zh",
+      "text": "返岗办公政策要求各团队每周到岗三天。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "out-of-office",
+      "voice": "en",
+      "text": "out of office",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "out-of-office",
+      "voice": "en",
+      "text": "O, U, T, hyphen, O, F, hyphen, O, F, F, I, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "out-of-office",
+      "voice": "zh",
+      "text": "名词，不在办公室自动回复，离岗留言，外出/休假不在岗状态",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "out-of-office",
+      "voice": "en",
+      "text": "I will set an out-of-office while I am at the client workshop next week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "out-of-office",
+      "voice": "zh",
+      "text": "我下周参加客户研讨会期间会设置不在办公室自动回复。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "calendar-invite",
+      "voice": "en",
+      "text": "calendar invite",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "calendar-invite",
+      "voice": "en",
+      "text": "C, A, L, E, N, D, A, R, hyphen, I, N, V, I, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "calendar-invite",
+      "voice": "zh",
+      "text": "名词，日历邀请，会议邀请，电子日程邀请",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "calendar-invite",
+      "voice": "en",
+      "text": "I just sent a calendar-invite for a thirty-minute review at 3 p.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "calendar-invite",
+      "voice": "zh",
+      "text": "我刚发了一封下午三点、时长三十分钟的审阅会议日历邀请。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "remote-work",
+      "voice": "en",
+      "text": "remote work",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "remote-work",
+      "voice": "en",
+      "text": "R, E, M, O, T, E, hyphen, W, O, R, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "remote-work",
+      "voice": "zh",
+      "text": "名词，远程办公，异地办公，不在公司现场的工作安排",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "remote-work",
+      "voice": "en",
+      "text": "The engineering team will continue remote-work through the end of the quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "remote-work",
+      "voice": "zh",
+      "text": "工程团队将继续远程办公直至本季度结束。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "email-campaign",
+      "voice": "en",
+      "text": "email campaign",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "email-campaign",
+      "voice": "en",
+      "text": "E, M, A, I, L, hyphen, C, A, M, P, A, I, G, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "email-campaign",
+      "voice": "zh",
+      "text": "名词，邮件营销活动，电子邮件推广，批量营销邮件计划",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "email-campaign",
+      "voice": "en",
+      "text": "The email-campaign for the spring promotion will go out to existing customers on Monday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "email-campaign",
+      "voice": "zh",
+      "text": "春季促销的邮件营销活动将于周一发给现有客户。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "click-through-rate",
+      "voice": "en",
+      "text": "click through rate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "click-through-rate",
+      "voice": "en",
+      "text": "C, L, I, C, K, hyphen, T, H, R, O, U, G, H, hyphen, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "click-through-rate",
+      "voice": "zh",
+      "text": "名词，点击率，点进率，链接点击比率（常称CTR）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "click-through-rate",
+      "voice": "en",
+      "text": "The redesigned subject line lifted the click-through-rate from 2.1 percent to 3.4 percent.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "click-through-rate",
+      "voice": "zh",
+      "text": "重新设计的主题行把点击率从2.1%提升到了3.4%。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "case-study",
+      "voice": "en",
+      "text": "case study",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "case-study",
+      "voice": "en",
+      "text": "C, A, S, E, hyphen, S, T, U, D, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "case-study",
+      "voice": "zh",
+      "text": "名词，案例研究，成功案例，客户案例",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "case-study",
+      "voice": "en",
+      "text": "Marketing asked the client for permission to publish a case-study on the rollout.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "case-study",
+      "voice": "zh",
+      "text": "市场部已请求客户允许就本次上线发布一篇案例研究。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "competitive-advantage",
+      "voice": "en",
+      "text": "competitive advantage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "competitive-advantage",
+      "voice": "en",
+      "text": "C, O, M, P, E, T, I, T, I, V, E, hyphen, A, D, V, A, N, T, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "competitive-advantage",
+      "voice": "zh",
+      "text": "名词，竞争优势，相对优势，竞争有利条件",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "competitive-advantage",
+      "voice": "en",
+      "text": "Faster delivery remains our main competitive-advantage in the mid-market segment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "competitive-advantage",
+      "voice": "zh",
+      "text": "更快的交付速度仍然是我们在中端市场的主要竞争优势。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "termination-clause",
+      "voice": "en",
+      "text": "termination clause",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "termination-clause",
+      "voice": "en",
+      "text": "T, E, R, M, I, N, A, T, I, O, N, hyphen, C, L, A, U, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "termination-clause",
+      "voice": "zh",
+      "text": "名词，终止条款，解约条款，合同解除条款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "termination-clause",
+      "voice": "en",
+      "text": "Legal wants to shorten the termination-clause from ninety days' notice to thirty.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "termination-clause",
+      "voice": "zh",
+      "text": "法务希望把终止条款中的通知期从九十天缩短为三十天。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "time-and-materials",
+      "voice": "en",
+      "text": "time and materials",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "time-and-materials",
+      "voice": "en",
+      "text": "T, I, M, E, hyphen, A, N, D, hyphen, M, A, T, E, R, I, A, L, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "time-and-materials",
+      "voice": "zh",
+      "text": "名词，工料计费，按工时与材料计价，实报实销式合同（常称T&M）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "time-and-materials",
+      "voice": "en",
+      "text": "Because the scope is still unclear, we proposed a time-and-materials contract rather than a fixed fee.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "time-and-materials",
+      "voice": "zh",
+      "text": "由于范围仍不明确，我们建议采用工料计费合同，而不是固定费用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "all-hands",
+      "voice": "en",
+      "text": "all hands",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "all-hands",
+      "voice": "en",
+      "text": "A, L, L, hyphen, H, A, N, D, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "all-hands",
+      "voice": "zh",
+      "text": "名词，全员大会，全员会议，要求全体员工参加的内部通报会",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "all-hands",
+      "voice": "en",
+      "text": "Please join Friday's all-hands, where the CEO will outline next year's priorities.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "all-hands",
+      "voice": "zh",
+      "text": "请参加周五的全员大会，首席执行官将在会上说明明年的优先事项。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "brainstorming",
+      "voice": "en",
+      "text": "brainstorming",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "brainstorming",
+      "voice": "en",
+      "text": "B, R, A, I, N, S, T, O, R, M, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "brainstorming",
+      "voice": "zh",
+      "text": "名词，头脑风暴，集思广益，创意研讨",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "brainstorming",
+      "voice": "en",
+      "text": "Marketing will hold a brainstorming session tomorrow to generate taglines for the spring launch.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "brainstorming",
+      "voice": "zh",
+      "text": "市场部明天将召开一场头脑风暴会，为春季上市活动构思宣传语。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "conference-call",
+      "voice": "en",
+      "text": "conference call",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "conference-call",
+      "voice": "en",
+      "text": "C, O, N, F, E, R, E, N, C, E, hyphen, C, A, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "conference-call",
+      "voice": "zh",
+      "text": "名词，电话会议，多方通话，远程会议电话",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "conference-call",
+      "voice": "en",
+      "text": "Please join the conference-call at 10:00 a.m. to review the shipment delay with the supplier.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "conference-call",
+      "voice": "zh",
+      "text": "请于上午10点加入电话会议，与供应商一起复核此次发货延误。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "rsvp",
+      "voice": "en",
+      "text": "rsvp",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rsvp",
+      "voice": "en",
+      "text": "R, S, V, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rsvp",
+      "voice": "zh",
+      "text": "名词或动词，请回复，出席回执，确认是否参加的回复",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rsvp",
+      "voice": "en",
+      "text": "Please rsvp by Wednesday so we can finalize the headcount for the client dinner.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rsvp",
+      "voice": "zh",
+      "text": "请在周三前回复是否出席，以便我们确定客户晚宴的人数。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "unpaid-leave",
+      "voice": "en",
+      "text": "unpaid leave",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "unpaid-leave",
+      "voice": "en",
+      "text": "U, N, P, A, I, D, hyphen, L, E, A, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "unpaid-leave",
+      "voice": "zh",
+      "text": "名词，无薪假，停薪留职假，不带薪休假",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "unpaid-leave",
+      "voice": "en",
+      "text": "She requested two weeks of unpaid-leave to handle a family matter abroad.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "unpaid-leave",
+      "voice": "zh",
+      "text": "她申请了两周无薪假，以便处理国外的家事。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "start-date",
+      "voice": "en",
+      "text": "start date",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "start-date",
+      "voice": "en",
+      "text": "S, T, A, R, T, hyphen, D, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "start-date",
+      "voice": "zh",
+      "text": "名词，入职日期，到岗日，任职起始日",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "start-date",
+      "voice": "en",
+      "text": "Your offer letter confirms a start-date of April 6, subject to a completed background check.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "start-date",
+      "voice": "zh",
+      "text": "录用通知确认入职日期为4月6日，前提是背景调查已完成。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "job-posting",
+      "voice": "en",
+      "text": "job posting",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "job-posting",
+      "voice": "en",
+      "text": "J, O, B, hyphen, P, O, S, T, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "job-posting",
+      "voice": "zh",
+      "text": "名词，招聘启事，职位发布，岗位招聘公告",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "job-posting",
+      "voice": "en",
+      "text": "HR will publish the job-posting on the careers page after the hiring manager approves the requirements.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "job-posting",
+      "voice": "zh",
+      "text": "在用人经理批准任职要求后，人力资源部将把招聘启事发布到招聘网页上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tuition-reimbursement",
+      "voice": "en",
+      "text": "tuition reimbursement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tuition-reimbursement",
+      "voice": "en",
+      "text": "T, U, I, T, I, O, N, hyphen, R, E, I, M, B, U, R, S, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tuition-reimbursement",
+      "voice": "zh",
+      "text": "名词，学费报销，教育资助报销，公司代报学费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tuition-reimbursement",
+      "voice": "en",
+      "text": "Employees may apply for tuition-reimbursement after completing an approved course with a grade of B or higher.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tuition-reimbursement",
+      "voice": "zh",
+      "text": "员工在完成经批准的课程且成绩达到B或以上后，可申请学费报销。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "year-to-date",
+      "voice": "en",
+      "text": "year to date",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "year-to-date",
+      "voice": "en",
+      "text": "Y, E, A, R, hyphen, T, O, hyphen, D, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "year-to-date",
+      "voice": "zh",
+      "text": "名词或形容词，年初至今，本年累计，年迄今（常称YTD）",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "year-to-date",
+      "voice": "en",
+      "text": "Year-to-date sales are 12 percent above the same period last year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "year-to-date",
+      "voice": "zh",
+      "text": "年初至今的销售额较去年同期高出12%。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fiscal-quarter",
+      "voice": "en",
+      "text": "fiscal quarter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fiscal-quarter",
+      "voice": "en",
+      "text": "F, I, S, C, A, L, hyphen, Q, U, A, R, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fiscal-quarter",
+      "voice": "zh",
+      "text": "名词，财季，会计季度，财政季度",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fiscal-quarter",
+      "voice": "en",
+      "text": "We will publish fiscal-quarter results on May 8 after the books are closed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fiscal-quarter",
+      "voice": "zh",
+      "text": "账目结清后，我们将于5月8日公布本财季业绩。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第52轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

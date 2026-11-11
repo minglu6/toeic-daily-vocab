@@ -1,0 +1,1314 @@
+{
+  "id": "029",
+  "track": 29,
+  "title": "第 29 轨",
+  "word_count": 30,
+  "headwords": [
+    "compliance",
+    "constraint",
+    "contractor",
+    "controversy",
+    "cooperation",
+    "creativity",
+    "creditor",
+    "curriculum",
+    "cybersecurity",
+    "debit",
+    "default",
+    "deferral",
+    "deficiency",
+    "definitive",
+    "delegation",
+    "demotion",
+    "deployment",
+    "deregulation",
+    "designation",
+    "deterrent",
+    "diagnose",
+    "diligent",
+    "directive",
+    "disclaimer",
+    "disclosure",
+    "disposal",
+    "disseminate",
+    "division",
+    "downtime",
+    "earmark"
+  ],
+  "entries": [
+    {
+      "word": "compliance",
+      "spelling": "C, O, M, P, L, I, A, N, C, E",
+      "spoken_meaning": "名词，合规，遵守，顺从",
+      "en": "All vendors must operate in compliance with local labor laws.",
+      "zh": "所有供应商必须遵守当地劳动法。"
+    },
+    {
+      "word": "constraint",
+      "spelling": "C, O, N, S, T, R, A, I, N, T",
+      "spoken_meaning": "名词，限制，约束，制约因素",
+      "en": "We redesigned the campaign under tight budget constraints.",
+      "zh": "我们在严格的预算限制下重新设计了营销活动。"
+    },
+    {
+      "word": "contractor",
+      "spelling": "C, O, N, T, R, A, C, T, O, R",
+      "spoken_meaning": "名词，承包商，承包人，合同工",
+      "en": "The general contractor will submit progress reports every Friday.",
+      "zh": "总承包商将于每周五提交进度报告。"
+    },
+    {
+      "word": "controversy",
+      "spelling": "C, O, N, T, R, O, V, E, R, S, Y",
+      "spoken_meaning": "名词，争议，争论，论战",
+      "en": "The advertising slogan sparked controversy among local customers.",
+      "zh": "这句广告语在当地客户中引发了争议。"
+    },
+    {
+      "word": "cooperation",
+      "spelling": "C, O, O, P, E, R, A, T, I, O, N",
+      "spoken_meaning": "名词，合作，协作，配合",
+      "en": "The launch was completed in cooperation with our regional partners.",
+      "zh": "本次发布是在与区域合作伙伴的协作下完成的。"
+    },
+    {
+      "word": "creativity",
+      "spelling": "C, R, E, A, T, I, V, I, T, Y",
+      "spoken_meaning": "名词，创造力，创意，独创性",
+      "en": "The workshop aims to foster creativity among junior designers.",
+      "zh": "该工作坊旨在培养初级设计师的创造力。"
+    },
+    {
+      "word": "creditor",
+      "spelling": "C, R, E, D, I, T, O, R",
+      "spoken_meaning": "名词，债权人，贷方",
+      "en": "The company agreed to pay its major creditors within 30 days.",
+      "zh": "公司同意在 30 天内偿还主要债权人。"
+    },
+    {
+      "word": "curriculum",
+      "spelling": "C, U, R, R, I, C, U, L, U, M",
+      "spoken_meaning": "名词，课程，课程体系，教学大纲",
+      "en": "HR is revising the training curriculum for new managers.",
+      "zh": "人力资源部正在修订新任经理的培训课程。"
+    },
+    {
+      "word": "cybersecurity",
+      "spelling": "C, Y, B, E, R, S, E, C, U, R, I, T, Y",
+      "spoken_meaning": "名词，网络安全，信息安全防护",
+      "en": "All employees must complete cybersecurity training this quarter.",
+      "zh": "所有员工本季度必须完成网络安全培训。"
+    },
+    {
+      "word": "debit",
+      "spelling": "D, E, B, I, T",
+      "spoken_meaning": "名词，借方，借记，扣款",
+      "en": "The fee will appear as a debit on your corporate account.",
+      "zh": "该费用将作为一笔扣款显示在您的公司账户上。"
+    },
+    {
+      "word": "default",
+      "spelling": "D, E, F, A, U, L, T",
+      "spoken_meaning": "名词，违约，拖欠，默认值",
+      "en": "The borrower was declared in default after missing three payments.",
+      "zh": "借款人连续三期未付款后被宣布违约。"
+    },
+    {
+      "word": "deferral",
+      "spelling": "D, E, F, E, R, R, A, L",
+      "spoken_meaning": "名词，延期，推迟，递延",
+      "en": "The client requested a payment deferral until the next quarter.",
+      "zh": "客户申请将付款延期至下一季度。"
+    },
+    {
+      "word": "deficiency",
+      "spelling": "D, E, F, I, C, I, E, N, C, Y",
+      "spoken_meaning": "名词，不足，缺陷，亏空",
+      "en": "The audit identified a deficiency in inventory controls.",
+      "zh": "审计发现库存管控存在缺陷。"
+    },
+    {
+      "word": "definitive",
+      "spelling": "D, E, F, I, N, I, T, I, V, E",
+      "spoken_meaning": "形容词，最终的，决定性的，权威的",
+      "en": "We need a definitive answer from legal before signing the deal.",
+      "zh": "签约前我们需要法务给出明确答复。"
+    },
+    {
+      "word": "delegation",
+      "spelling": "D, E, L, E, G, A, T, I, O, N",
+      "spoken_meaning": "名词，代表团，授权，委派",
+      "en": "A trade delegation from Singapore will visit our factory next week.",
+      "zh": "新加坡贸易代表团将于下周参观我们的工厂。"
+    },
+    {
+      "word": "demotion",
+      "spelling": "D, E, M, O, T, I, O, N",
+      "spoken_meaning": "名词，降职，降级",
+      "en": "Repeated policy violations may lead to demotion or dismissal.",
+      "zh": "屡次违反政策可能导致降职或解雇。"
+    },
+    {
+      "word": "deployment",
+      "spelling": "D, E, P, L, O, Y, M, E, N, T",
+      "spoken_meaning": "名词，部署，调配，投放",
+      "en": "The software deployment is scheduled for this weekend.",
+      "zh": "软件部署定于本周末进行。"
+    },
+    {
+      "word": "deregulation",
+      "spelling": "D, E, R, E, G, U, L, A, T, I, O, N",
+      "spoken_meaning": "名词，放松管制，解除规制",
+      "en": "Airline deregulation increased competition and lowered ticket prices.",
+      "zh": "航空业放松管制加剧了竞争并降低了票价。"
+    },
+    {
+      "word": "designation",
+      "spelling": "D, E, S, I, G, N, A, T, I, O, N",
+      "spoken_meaning": "名词，指定，称谓，头衔",
+      "en": "Please update your job designation on the internal directory.",
+      "zh": "请在内部通讯录中更新你的职务名称。"
+    },
+    {
+      "word": "deterrent",
+      "spelling": "D, E, T, E, R, R, E, N, T",
+      "spoken_meaning": "名词，威慑因素，抑制物，阻止手段",
+      "en": "Strict penalties serve as a deterrent to workplace fraud.",
+      "zh": "严厉处罚对职场欺诈起到威慑作用。"
+    },
+    {
+      "word": "diagnose",
+      "spelling": "D, I, A, G, N, O, S, E",
+      "spoken_meaning": "动词，诊断，找出原因，判断问题",
+      "en": "The IT team will diagnose the network outage before the morning briefing.",
+      "zh": "IT 团队将在早会前诊断网络中断原因。"
+    },
+    {
+      "word": "diligent",
+      "spelling": "D, I, L, I, G, E, N, T",
+      "spoken_meaning": "形容词，勤奋的，认真细致的，尽职的",
+      "en": "Her diligent preparation helped the audit finish ahead of schedule.",
+      "zh": "她认真细致的准备让审计提前完成。"
+    },
+    {
+      "word": "directive",
+      "spelling": "D, I, R, E, C, T, I, V, E",
+      "spoken_meaning": "名词，指令，指示，官方规定",
+      "en": "All branch managers must comply with the new safety directive.",
+      "zh": "所有分公司经理必须遵守新的安全指令。"
+    },
+    {
+      "word": "disclaimer",
+      "spelling": "D, I, S, C, L, A, I, M, E, R",
+      "spoken_meaning": "名词，免责声明，否认声明",
+      "en": "Please read the disclaimer at the bottom of the product brochure.",
+      "zh": "请阅读产品手册底部的免责声明。"
+    },
+    {
+      "word": "disclosure",
+      "spelling": "D, I, S, C, L, O, S, U, R, E",
+      "spoken_meaning": "名词，披露，公开，透露",
+      "en": "The contract requires full disclosure of any related-party transactions.",
+      "zh": "合同要求充分披露任何关联方交易。"
+    },
+    {
+      "word": "disposal",
+      "spelling": "D, I, S, P, O, S, A, L",
+      "spoken_meaning": "名词，处理，处置，清理",
+      "en": "The factory updated its waste disposal procedures last quarter.",
+      "zh": "工厂上季度更新了废物处理流程。"
+    },
+    {
+      "word": "disseminate",
+      "spelling": "D, I, S, S, E, M, I, N, A, T, E",
+      "spoken_meaning": "动词，传播，散布，发布",
+      "en": "HR will disseminate the updated leave policy to all staff tomorrow.",
+      "zh": "人力资源部明天将向全体员工发布更新后的休假政策。"
+    },
+    {
+      "word": "division",
+      "spelling": "D, I, V, I, S, I, O, N",
+      "spoken_meaning": "名词，部门，分部，划分",
+      "en": "The marketing division will present its quarterly results on Friday.",
+      "zh": "市场部将于周五汇报季度业绩。"
+    },
+    {
+      "word": "downtime",
+      "spelling": "D, O, W, N, T, I, M, E",
+      "spoken_meaning": "名词，停机时间，故障时间，停工",
+      "en": "We scheduled overnight downtime to upgrade the payment servers.",
+      "zh": "我们安排了夜间停机以升级支付服务器。"
+    },
+    {
+      "word": "earmark",
+      "spelling": "E, A, R, M, A, R, K",
+      "spoken_meaning": "动词，指定用途，拨出，预留",
+      "en": "The board earmarked $200,000 for employee wellness programs.",
+      "zh": "董事会拨出 20 万美元用于员工健康项目。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第29轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "compliance",
+      "voice": "en",
+      "text": "compliance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "compliance",
+      "voice": "en",
+      "text": "C, O, M, P, L, I, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "compliance",
+      "voice": "zh",
+      "text": "名词，合规，遵守，顺从",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "compliance",
+      "voice": "en",
+      "text": "All vendors must operate in compliance with local labor laws.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "compliance",
+      "voice": "zh",
+      "text": "所有供应商必须遵守当地劳动法。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "constraint",
+      "voice": "en",
+      "text": "constraint",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "constraint",
+      "voice": "en",
+      "text": "C, O, N, S, T, R, A, I, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "constraint",
+      "voice": "zh",
+      "text": "名词，限制，约束，制约因素",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "constraint",
+      "voice": "en",
+      "text": "We redesigned the campaign under tight budget constraints.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "constraint",
+      "voice": "zh",
+      "text": "我们在严格的预算限制下重新设计了营销活动。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "contractor",
+      "voice": "en",
+      "text": "contractor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "contractor",
+      "voice": "en",
+      "text": "C, O, N, T, R, A, C, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "contractor",
+      "voice": "zh",
+      "text": "名词，承包商，承包人，合同工",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "contractor",
+      "voice": "en",
+      "text": "The general contractor will submit progress reports every Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "contractor",
+      "voice": "zh",
+      "text": "总承包商将于每周五提交进度报告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "controversy",
+      "voice": "en",
+      "text": "controversy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "controversy",
+      "voice": "en",
+      "text": "C, O, N, T, R, O, V, E, R, S, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "controversy",
+      "voice": "zh",
+      "text": "名词，争议，争论，论战",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "controversy",
+      "voice": "en",
+      "text": "The advertising slogan sparked controversy among local customers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "controversy",
+      "voice": "zh",
+      "text": "这句广告语在当地客户中引发了争议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cooperation",
+      "voice": "en",
+      "text": "cooperation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cooperation",
+      "voice": "en",
+      "text": "C, O, O, P, E, R, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cooperation",
+      "voice": "zh",
+      "text": "名词，合作，协作，配合",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cooperation",
+      "voice": "en",
+      "text": "The launch was completed in cooperation with our regional partners.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cooperation",
+      "voice": "zh",
+      "text": "本次发布是在与区域合作伙伴的协作下完成的。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "creativity",
+      "voice": "en",
+      "text": "creativity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "creativity",
+      "voice": "en",
+      "text": "C, R, E, A, T, I, V, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "creativity",
+      "voice": "zh",
+      "text": "名词，创造力，创意，独创性",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "creativity",
+      "voice": "en",
+      "text": "The workshop aims to foster creativity among junior designers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "creativity",
+      "voice": "zh",
+      "text": "该工作坊旨在培养初级设计师的创造力。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "creditor",
+      "voice": "en",
+      "text": "creditor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "creditor",
+      "voice": "en",
+      "text": "C, R, E, D, I, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "creditor",
+      "voice": "zh",
+      "text": "名词，债权人，贷方",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "creditor",
+      "voice": "en",
+      "text": "The company agreed to pay its major creditors within 30 days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "creditor",
+      "voice": "zh",
+      "text": "公司同意在 30 天内偿还主要债权人。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "curriculum",
+      "voice": "en",
+      "text": "curriculum",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "curriculum",
+      "voice": "en",
+      "text": "C, U, R, R, I, C, U, L, U, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "curriculum",
+      "voice": "zh",
+      "text": "名词，课程，课程体系，教学大纲",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "curriculum",
+      "voice": "en",
+      "text": "HR is revising the training curriculum for new managers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "curriculum",
+      "voice": "zh",
+      "text": "人力资源部正在修订新任经理的培训课程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cybersecurity",
+      "voice": "en",
+      "text": "cybersecurity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cybersecurity",
+      "voice": "en",
+      "text": "C, Y, B, E, R, S, E, C, U, R, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cybersecurity",
+      "voice": "zh",
+      "text": "名词，网络安全，信息安全防护",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cybersecurity",
+      "voice": "en",
+      "text": "All employees must complete cybersecurity training this quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cybersecurity",
+      "voice": "zh",
+      "text": "所有员工本季度必须完成网络安全培训。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "debit",
+      "voice": "en",
+      "text": "debit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "debit",
+      "voice": "en",
+      "text": "D, E, B, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "debit",
+      "voice": "zh",
+      "text": "名词，借方，借记，扣款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "debit",
+      "voice": "en",
+      "text": "The fee will appear as a debit on your corporate account.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "debit",
+      "voice": "zh",
+      "text": "该费用将作为一笔扣款显示在您的公司账户上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "default",
+      "voice": "en",
+      "text": "default",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "default",
+      "voice": "en",
+      "text": "D, E, F, A, U, L, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "default",
+      "voice": "zh",
+      "text": "名词，违约，拖欠，默认值",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "default",
+      "voice": "en",
+      "text": "The borrower was declared in default after missing three payments.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "default",
+      "voice": "zh",
+      "text": "借款人连续三期未付款后被宣布违约。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "deferral",
+      "voice": "en",
+      "text": "deferral",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deferral",
+      "voice": "en",
+      "text": "D, E, F, E, R, R, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deferral",
+      "voice": "zh",
+      "text": "名词，延期，推迟，递延",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deferral",
+      "voice": "en",
+      "text": "The client requested a payment deferral until the next quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deferral",
+      "voice": "zh",
+      "text": "客户申请将付款延期至下一季度。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "deficiency",
+      "voice": "en",
+      "text": "deficiency",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deficiency",
+      "voice": "en",
+      "text": "D, E, F, I, C, I, E, N, C, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deficiency",
+      "voice": "zh",
+      "text": "名词，不足，缺陷，亏空",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deficiency",
+      "voice": "en",
+      "text": "The audit identified a deficiency in inventory controls.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deficiency",
+      "voice": "zh",
+      "text": "审计发现库存管控存在缺陷。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "definitive",
+      "voice": "en",
+      "text": "definitive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "definitive",
+      "voice": "en",
+      "text": "D, E, F, I, N, I, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "definitive",
+      "voice": "zh",
+      "text": "形容词，最终的，决定性的，权威的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "definitive",
+      "voice": "en",
+      "text": "We need a definitive answer from legal before signing the deal.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "definitive",
+      "voice": "zh",
+      "text": "签约前我们需要法务给出明确答复。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "delegation",
+      "voice": "en",
+      "text": "delegation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "delegation",
+      "voice": "en",
+      "text": "D, E, L, E, G, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "delegation",
+      "voice": "zh",
+      "text": "名词，代表团，授权，委派",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "delegation",
+      "voice": "en",
+      "text": "A trade delegation from Singapore will visit our factory next week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "delegation",
+      "voice": "zh",
+      "text": "新加坡贸易代表团将于下周参观我们的工厂。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "demotion",
+      "voice": "en",
+      "text": "demotion",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "demotion",
+      "voice": "en",
+      "text": "D, E, M, O, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "demotion",
+      "voice": "zh",
+      "text": "名词，降职，降级",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "demotion",
+      "voice": "en",
+      "text": "Repeated policy violations may lead to demotion or dismissal.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "demotion",
+      "voice": "zh",
+      "text": "屡次违反政策可能导致降职或解雇。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "deployment",
+      "voice": "en",
+      "text": "deployment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deployment",
+      "voice": "en",
+      "text": "D, E, P, L, O, Y, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deployment",
+      "voice": "zh",
+      "text": "名词，部署，调配，投放",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deployment",
+      "voice": "en",
+      "text": "The software deployment is scheduled for this weekend.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deployment",
+      "voice": "zh",
+      "text": "软件部署定于本周末进行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "deregulation",
+      "voice": "en",
+      "text": "deregulation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deregulation",
+      "voice": "en",
+      "text": "D, E, R, E, G, U, L, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deregulation",
+      "voice": "zh",
+      "text": "名词，放松管制，解除规制",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deregulation",
+      "voice": "en",
+      "text": "Airline deregulation increased competition and lowered ticket prices.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deregulation",
+      "voice": "zh",
+      "text": "航空业放松管制加剧了竞争并降低了票价。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "designation",
+      "voice": "en",
+      "text": "designation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "designation",
+      "voice": "en",
+      "text": "D, E, S, I, G, N, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "designation",
+      "voice": "zh",
+      "text": "名词，指定，称谓，头衔",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "designation",
+      "voice": "en",
+      "text": "Please update your job designation on the internal directory.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "designation",
+      "voice": "zh",
+      "text": "请在内部通讯录中更新你的职务名称。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "deterrent",
+      "voice": "en",
+      "text": "deterrent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deterrent",
+      "voice": "en",
+      "text": "D, E, T, E, R, R, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deterrent",
+      "voice": "zh",
+      "text": "名词，威慑因素，抑制物，阻止手段",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deterrent",
+      "voice": "en",
+      "text": "Strict penalties serve as a deterrent to workplace fraud.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deterrent",
+      "voice": "zh",
+      "text": "严厉处罚对职场欺诈起到威慑作用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "diagnose",
+      "voice": "en",
+      "text": "diagnose",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "diagnose",
+      "voice": "en",
+      "text": "D, I, A, G, N, O, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "diagnose",
+      "voice": "zh",
+      "text": "动词，诊断，找出原因，判断问题",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "diagnose",
+      "voice": "en",
+      "text": "The IT team will diagnose the network outage before the morning briefing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "diagnose",
+      "voice": "zh",
+      "text": "IT 团队将在早会前诊断网络中断原因。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "diligent",
+      "voice": "en",
+      "text": "diligent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "diligent",
+      "voice": "en",
+      "text": "D, I, L, I, G, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "diligent",
+      "voice": "zh",
+      "text": "形容词，勤奋的，认真细致的，尽职的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "diligent",
+      "voice": "en",
+      "text": "Her diligent preparation helped the audit finish ahead of schedule.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "diligent",
+      "voice": "zh",
+      "text": "她认真细致的准备让审计提前完成。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "directive",
+      "voice": "en",
+      "text": "directive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "directive",
+      "voice": "en",
+      "text": "D, I, R, E, C, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "directive",
+      "voice": "zh",
+      "text": "名词，指令，指示，官方规定",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "directive",
+      "voice": "en",
+      "text": "All branch managers must comply with the new safety directive.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "directive",
+      "voice": "zh",
+      "text": "所有分公司经理必须遵守新的安全指令。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "disclaimer",
+      "voice": "en",
+      "text": "disclaimer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "disclaimer",
+      "voice": "en",
+      "text": "D, I, S, C, L, A, I, M, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "disclaimer",
+      "voice": "zh",
+      "text": "名词，免责声明，否认声明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "disclaimer",
+      "voice": "en",
+      "text": "Please read the disclaimer at the bottom of the product brochure.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "disclaimer",
+      "voice": "zh",
+      "text": "请阅读产品手册底部的免责声明。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "disclosure",
+      "voice": "en",
+      "text": "disclosure",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "disclosure",
+      "voice": "en",
+      "text": "D, I, S, C, L, O, S, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "disclosure",
+      "voice": "zh",
+      "text": "名词，披露，公开，透露",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "disclosure",
+      "voice": "en",
+      "text": "The contract requires full disclosure of any related-party transactions.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "disclosure",
+      "voice": "zh",
+      "text": "合同要求充分披露任何关联方交易。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "disposal",
+      "voice": "en",
+      "text": "disposal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "disposal",
+      "voice": "en",
+      "text": "D, I, S, P, O, S, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "disposal",
+      "voice": "zh",
+      "text": "名词，处理，处置，清理",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "disposal",
+      "voice": "en",
+      "text": "The factory updated its waste disposal procedures last quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "disposal",
+      "voice": "zh",
+      "text": "工厂上季度更新了废物处理流程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "disseminate",
+      "voice": "en",
+      "text": "disseminate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "disseminate",
+      "voice": "en",
+      "text": "D, I, S, S, E, M, I, N, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "disseminate",
+      "voice": "zh",
+      "text": "动词，传播，散布，发布",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "disseminate",
+      "voice": "en",
+      "text": "HR will disseminate the updated leave policy to all staff tomorrow.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "disseminate",
+      "voice": "zh",
+      "text": "人力资源部明天将向全体员工发布更新后的休假政策。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "division",
+      "voice": "en",
+      "text": "division",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "division",
+      "voice": "en",
+      "text": "D, I, V, I, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "division",
+      "voice": "zh",
+      "text": "名词，部门，分部，划分",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "division",
+      "voice": "en",
+      "text": "The marketing division will present its quarterly results on Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "division",
+      "voice": "zh",
+      "text": "市场部将于周五汇报季度业绩。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "downtime",
+      "voice": "en",
+      "text": "downtime",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "downtime",
+      "voice": "en",
+      "text": "D, O, W, N, T, I, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "downtime",
+      "voice": "zh",
+      "text": "名词，停机时间，故障时间，停工",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "downtime",
+      "voice": "en",
+      "text": "We scheduled overnight downtime to upgrade the payment servers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "downtime",
+      "voice": "zh",
+      "text": "我们安排了夜间停机以升级支付服务器。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "earmark",
+      "voice": "en",
+      "text": "earmark",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "earmark",
+      "voice": "en",
+      "text": "E, A, R, M, A, R, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "earmark",
+      "voice": "zh",
+      "text": "动词，指定用途，拨出，预留",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "earmark",
+      "voice": "en",
+      "text": "The board earmarked $200,000 for employee wellness programs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "earmark",
+      "voice": "zh",
+      "text": "董事会拨出 20 万美元用于员工健康项目。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第29轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}
