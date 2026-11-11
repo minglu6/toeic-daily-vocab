@@ -1,0 +1,1314 @@
+{
+  "id": "069",
+  "track": 69,
+  "title": "第 69 轨",
+  "word_count": 30,
+  "headwords": [
+    "consular-invoice",
+    "bunker-adjustment",
+    "currency-adjustment",
+    "upgrade-list",
+    "red-eye-flight",
+    "packing-cube",
+    "control-tower",
+    "king-bed",
+    "twin-bed",
+    "ironing-board",
+    "hair-dryer",
+    "shoe-shine",
+    "QR-code",
+    "stock-keeping-unit",
+    "shelf-talker",
+    "statement-of-cash-flows",
+    "restricted-stock",
+    "social-security",
+    "unemployment-tax",
+    "tax-haven",
+    "stock-grant",
+    "option-grant",
+    "individual-development-plan",
+    "auditorium",
+    "calculation",
+    "catalogue",
+    "chef",
+    "current",
+    "dental",
+    "diagram"
+  ],
+  "entries": [
+    {
+      "word": "consular-invoice",
+      "spelling": "C, O, N, S, U, L, A, R, hyphen, I, N, V, O, I, C, E",
+      "spoken_meaning": "名词，领事发票",
+      "en": "A consular-invoice is required for this destination and must be stamped at the embassy.",
+      "zh": "该目的地需要领事发票，并须在使馆盖章。"
+    },
+    {
+      "word": "bunker-adjustment",
+      "spelling": "B, U, N, K, E, R, hyphen, A, D, J, U, S, T, M, E, N, T",
+      "spoken_meaning": "名词，燃油附加费调整",
+      "en": "The new bunker-adjustment will appear on ocean-freight invoices from July.",
+      "zh": "新的燃油附加费调整将从七月起体现在海运发票上。"
+    },
+    {
+      "word": "currency-adjustment",
+      "spelling": "C, U, R, R, E, N, C, Y, hyphen, A, D, J, U, S, T, M, E, N, T",
+      "spoken_meaning": "名词，货币调整附加费",
+      "en": "A currency-adjustment was added after the dollar weakened.",
+      "zh": "美元走弱后加收了货币调整附加费。"
+    },
+    {
+      "word": "upgrade-list",
+      "spelling": "U, P, G, R, A, D, E, hyphen, L, I, S, T",
+      "spoken_meaning": "名词，升舱候补名单",
+      "en": "I have added your name to the upgrade-list for the evening flight.",
+      "zh": "我已把你的名字加入晚班航班的升舱候补名单。"
+    },
+    {
+      "word": "red-eye-flight",
+      "spelling": "R, E, D, hyphen, E, Y, E, hyphen, F, L, I, G, H, T",
+      "spoken_meaning": "名词，红眼航班，夜间航班",
+      "en": "A red-eye-flight would get the team to the site before the morning inspection.",
+      "zh": "乘坐红眼航班可以让团队在上午检查前到达现场。"
+    },
+    {
+      "word": "packing-cube",
+      "spelling": "P, A, C, K, I, N, G, hyphen, C, U, B, E",
+      "spoken_meaning": "名词，旅行收纳袋，打包立方",
+      "en": "Packing-cubes are useful when several colleagues share one sample case.",
+      "zh": "几位同事共用一个样品箱时，收纳袋很有用。"
+    },
+    {
+      "word": "control-tower",
+      "spelling": "C, O, N, T, R, O, L, hyphen, T, O, W, E, R",
+      "spoken_meaning": "名词，控制塔，指挥塔台",
+      "en": "The delay was caused by congestion reported by the control-tower.",
+      "zh": "延误是由于塔台报告的拥堵造成的。"
+    },
+    {
+      "word": "king-bed",
+      "spelling": "K, I, N, G, hyphen, B, E, D",
+      "spoken_meaning": "名词，特大号床",
+      "en": "Please confirm that the suite has a king-bed, not two twins.",
+      "zh": "请确认套房是特大号床，而不是两张单人床。"
+    },
+    {
+      "word": "twin-bed",
+      "spelling": "T, W, I, N, hyphen, B, E, D",
+      "spoken_meaning": "名词，单人床，成对单人床",
+      "en": "The training rooms should be set up with twin-bed arrangements for the inspectors.",
+      "zh": "培训客房应为检查人员安排两张单人床。"
+    },
+    {
+      "word": "ironing-board",
+      "spelling": "I, R, O, N, I, N, G, hyphen, B, O, A, R, D",
+      "spoken_meaning": "名词，熨衣板",
+      "en": "An ironing-board and an iron are in the closet of each guest room.",
+      "zh": "每间客房的壁柜里都有熨衣板和熨斗。"
+    },
+    {
+      "word": "hair-dryer",
+      "spelling": "H, A, I, R, hyphen, D, R, Y, E, R",
+      "spoken_meaning": "名词，吹风机",
+      "en": "Please do not remove the hair-dryer from the bathroom wall bracket.",
+      "zh": "请不要把吹风机从卫生间壁架上取走带走。"
+    },
+    {
+      "word": "shoe-shine",
+      "spelling": "S, H, O, E, hyphen, S, H, I, N, E",
+      "spoken_meaning": "名词，擦鞋服务",
+      "en": "Shoe-shine is available at the lobby from 7 a.m.",
+      "zh": "大厅从早上7点起提供擦鞋服务。"
+    },
+    {
+      "word": "QR-code",
+      "spelling": "Q, R, hyphen, C, O, D, E",
+      "spoken_meaning": "名词，二维码",
+      "en": "Scan the QR-code on your badge to record attendance.",
+      "zh": "扫描胸牌上的二维码即可记录出勤。"
+    },
+    {
+      "word": "stock-keeping-unit",
+      "spelling": "S, T, O, C, K, hyphen, K, E, E, P, I, N, G, hyphen, U, N, I, T",
+      "spoken_meaning": "名词，库存量单位，SKU",
+      "en": "Each color and size has a separate stock-keeping-unit.",
+      "zh": "每种颜色和尺码都有单独的库存量单位。"
+    },
+    {
+      "word": "shelf-talker",
+      "spelling": "S, H, E, L, F, hyphen, T, A, L, K, E, R",
+      "spoken_meaning": "名词，货架插卡，货架广告牌",
+      "en": "Please put a shelf-talker next to the new product display.",
+      "zh": "请在新产品陈列处放置货架插卡。"
+    },
+    {
+      "word": "statement-of-cash-flows",
+      "spelling": "S, T, A, T, E, M, E, N, T, hyphen, O, F, hyphen, C, A, S, H, hyphen, F, L, O, W, S",
+      "spoken_meaning": "名词，现金流量表",
+      "en": "Investors asked for the statement-of-cash-flows for the past three years.",
+      "zh": "投资者要求提供过去三年的现金流量表。"
+    },
+    {
+      "word": "restricted-stock",
+      "spelling": "R, E, S, T, R, I, C, T, E, D, hyphen, S, T, O, C, K",
+      "spoken_meaning": "名词，限制性股票",
+      "en": "Restricted-stock vests over three years if performance targets are met.",
+      "zh": "若达到业绩目标，限制性股票将在三年内归属。"
+    },
+    {
+      "word": "social-security",
+      "spelling": "S, O, C, I, A, L, hyphen, S, E, C, U, R, I, T, Y",
+      "spoken_meaning": "名词，社会保障，社保",
+      "en": "Social-security contributions are shared by the employee and the employer.",
+      "zh": "社会保障缴款由员工和雇主共同承担。"
+    },
+    {
+      "word": "unemployment-tax",
+      "spelling": "U, N, E, M, P, L, O, Y, M, E, N, T, hyphen, T, A, X",
+      "spoken_meaning": "名词，失业税",
+      "en": "Unemployment-tax is calculated on a portion of each employee's wages.",
+      "zh": "失业税按每位员工部分工资计算。"
+    },
+    {
+      "word": "tax-haven",
+      "spelling": "T, A, X, hyphen, H, A, V, E, N",
+      "spoken_meaning": "名词，避税地",
+      "en": "The policy forbids routing payments through a tax-haven without legal review.",
+      "zh": "未经法务审查，政策禁止经避税地安排付款。"
+    },
+    {
+      "word": "stock-grant",
+      "spelling": "S, T, O, C, K, hyphen, G, R, A, N, T",
+      "spoken_meaning": "名词，股票授予",
+      "en": "A stock-grant will be awarded after the probation period.",
+      "zh": "试用期结束后将授予股票。"
+    },
+    {
+      "word": "option-grant",
+      "spelling": "O, P, T, I, O, N, hyphen, G, R, A, N, T",
+      "spoken_meaning": "名词，期权授予",
+      "en": "The option-grant expires if it is not exercised within seven years.",
+      "zh": "期权若在七年内未行权即告失效。"
+    },
+    {
+      "word": "individual-development-plan",
+      "spelling": "I, N, D, I, V, I, D, U, A, L, hyphen, D, E, V, E, L, O, P, M, E, N, T, hyphen, P, L, A, N",
+      "spoken_meaning": "名词，个人发展计划",
+      "en": "Please draft an individual-development-plan before the mid-year review.",
+      "zh": "请在年中评估前起草个人发展计划。"
+    },
+    {
+      "word": "auditorium",
+      "spelling": "A, U, D, I, T, O, R, I, U, M",
+      "spoken_meaning": "名词，礼堂，会堂",
+      "en": "The product launch will be held in the main auditorium.",
+      "zh": "产品发布会将在主礼堂举行。"
+    },
+    {
+      "word": "calculation",
+      "spelling": "C, A, L, C, U, L, A, T, I, O, N",
+      "spoken_meaning": "名词，计算",
+      "en": "Please double-check the overtime calculation before payroll is run.",
+      "zh": "在发放工资前，请再核对一遍加班计算。"
+    },
+    {
+      "word": "catalogue",
+      "spelling": "C, A, T, A, L, O, G, U, E",
+      "spoken_meaning": "名词，目录，图册",
+      "en": "The autumn catalogue will be sent to retailers next week.",
+      "zh": "秋季目录将于下周寄给零售商。"
+    },
+    {
+      "word": "chef",
+      "spelling": "C, H, E, F",
+      "spoken_meaning": "名词，厨师，主厨",
+      "en": "The hotel chef will design a menu for the awards dinner.",
+      "zh": "酒店主厨将为颁奖晚宴设计菜单。"
+    },
+    {
+      "word": "current",
+      "spelling": "C, U, R, R, E, N, T",
+      "spoken_meaning": "形容词或名词，当前的，现有的，电流",
+      "en": "Please use the current price list, not last year's version.",
+      "zh": "请使用当前价目表，不要用去年的版本。"
+    },
+    {
+      "word": "dental",
+      "spelling": "D, E, N, T, A, L",
+      "spoken_meaning": "形容词，牙科的",
+      "en": "Dental coverage begins after 90 days of employment.",
+      "zh": "牙科保障在入职90天后生效。"
+    },
+    {
+      "word": "diagram",
+      "spelling": "D, I, A, G, R, A, M",
+      "spoken_meaning": "名词，图表，示意图",
+      "en": "A wiring diagram is included in the installation guide.",
+      "zh": "安装指南中附有接线图。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第69轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "consular-invoice",
+      "voice": "en",
+      "text": "consular invoice",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "consular-invoice",
+      "voice": "en",
+      "text": "C, O, N, S, U, L, A, R, hyphen, I, N, V, O, I, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "consular-invoice",
+      "voice": "zh",
+      "text": "名词，领事发票",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "consular-invoice",
+      "voice": "en",
+      "text": "A consular-invoice is required for this destination and must be stamped at the embassy.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "consular-invoice",
+      "voice": "zh",
+      "text": "该目的地需要领事发票，并须在使馆盖章。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bunker-adjustment",
+      "voice": "en",
+      "text": "bunker adjustment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bunker-adjustment",
+      "voice": "en",
+      "text": "B, U, N, K, E, R, hyphen, A, D, J, U, S, T, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bunker-adjustment",
+      "voice": "zh",
+      "text": "名词，燃油附加费调整",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bunker-adjustment",
+      "voice": "en",
+      "text": "The new bunker-adjustment will appear on ocean-freight invoices from July.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bunker-adjustment",
+      "voice": "zh",
+      "text": "新的燃油附加费调整将从七月起体现在海运发票上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "currency-adjustment",
+      "voice": "en",
+      "text": "currency adjustment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "currency-adjustment",
+      "voice": "en",
+      "text": "C, U, R, R, E, N, C, Y, hyphen, A, D, J, U, S, T, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "currency-adjustment",
+      "voice": "zh",
+      "text": "名词，货币调整附加费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "currency-adjustment",
+      "voice": "en",
+      "text": "A currency-adjustment was added after the dollar weakened.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "currency-adjustment",
+      "voice": "zh",
+      "text": "美元走弱后加收了货币调整附加费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "upgrade-list",
+      "voice": "en",
+      "text": "upgrade list",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "upgrade-list",
+      "voice": "en",
+      "text": "U, P, G, R, A, D, E, hyphen, L, I, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "upgrade-list",
+      "voice": "zh",
+      "text": "名词，升舱候补名单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "upgrade-list",
+      "voice": "en",
+      "text": "I have added your name to the upgrade-list for the evening flight.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "upgrade-list",
+      "voice": "zh",
+      "text": "我已把你的名字加入晚班航班的升舱候补名单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "red-eye-flight",
+      "voice": "en",
+      "text": "red eye flight",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "red-eye-flight",
+      "voice": "en",
+      "text": "R, E, D, hyphen, E, Y, E, hyphen, F, L, I, G, H, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "red-eye-flight",
+      "voice": "zh",
+      "text": "名词，红眼航班，夜间航班",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "red-eye-flight",
+      "voice": "en",
+      "text": "A red-eye-flight would get the team to the site before the morning inspection.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "red-eye-flight",
+      "voice": "zh",
+      "text": "乘坐红眼航班可以让团队在上午检查前到达现场。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "packing-cube",
+      "voice": "en",
+      "text": "packing cube",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "packing-cube",
+      "voice": "en",
+      "text": "P, A, C, K, I, N, G, hyphen, C, U, B, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "packing-cube",
+      "voice": "zh",
+      "text": "名词，旅行收纳袋，打包立方",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "packing-cube",
+      "voice": "en",
+      "text": "Packing-cubes are useful when several colleagues share one sample case.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "packing-cube",
+      "voice": "zh",
+      "text": "几位同事共用一个样品箱时，收纳袋很有用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "control-tower",
+      "voice": "en",
+      "text": "control tower",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "control-tower",
+      "voice": "en",
+      "text": "C, O, N, T, R, O, L, hyphen, T, O, W, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "control-tower",
+      "voice": "zh",
+      "text": "名词，控制塔，指挥塔台",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "control-tower",
+      "voice": "en",
+      "text": "The delay was caused by congestion reported by the control-tower.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "control-tower",
+      "voice": "zh",
+      "text": "延误是由于塔台报告的拥堵造成的。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "king-bed",
+      "voice": "en",
+      "text": "king bed",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "king-bed",
+      "voice": "en",
+      "text": "K, I, N, G, hyphen, B, E, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "king-bed",
+      "voice": "zh",
+      "text": "名词，特大号床",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "king-bed",
+      "voice": "en",
+      "text": "Please confirm that the suite has a king-bed, not two twins.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "king-bed",
+      "voice": "zh",
+      "text": "请确认套房是特大号床，而不是两张单人床。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "twin-bed",
+      "voice": "en",
+      "text": "twin bed",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "twin-bed",
+      "voice": "en",
+      "text": "T, W, I, N, hyphen, B, E, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "twin-bed",
+      "voice": "zh",
+      "text": "名词，单人床，成对单人床",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "twin-bed",
+      "voice": "en",
+      "text": "The training rooms should be set up with twin-bed arrangements for the inspectors.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "twin-bed",
+      "voice": "zh",
+      "text": "培训客房应为检查人员安排两张单人床。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ironing-board",
+      "voice": "en",
+      "text": "ironing board",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ironing-board",
+      "voice": "en",
+      "text": "I, R, O, N, I, N, G, hyphen, B, O, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ironing-board",
+      "voice": "zh",
+      "text": "名词，熨衣板",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ironing-board",
+      "voice": "en",
+      "text": "An ironing-board and an iron are in the closet of each guest room.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ironing-board",
+      "voice": "zh",
+      "text": "每间客房的壁柜里都有熨衣板和熨斗。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hair-dryer",
+      "voice": "en",
+      "text": "hair dryer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hair-dryer",
+      "voice": "en",
+      "text": "H, A, I, R, hyphen, D, R, Y, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hair-dryer",
+      "voice": "zh",
+      "text": "名词，吹风机",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hair-dryer",
+      "voice": "en",
+      "text": "Please do not remove the hair-dryer from the bathroom wall bracket.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hair-dryer",
+      "voice": "zh",
+      "text": "请不要把吹风机从卫生间壁架上取走带走。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "shoe-shine",
+      "voice": "en",
+      "text": "shoe shine",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "shoe-shine",
+      "voice": "en",
+      "text": "S, H, O, E, hyphen, S, H, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "shoe-shine",
+      "voice": "zh",
+      "text": "名词，擦鞋服务",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "shoe-shine",
+      "voice": "en",
+      "text": "Shoe-shine is available at the lobby from 7 a.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "shoe-shine",
+      "voice": "zh",
+      "text": "大厅从早上7点起提供擦鞋服务。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "QR-code",
+      "voice": "en",
+      "text": "QR code",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "QR-code",
+      "voice": "en",
+      "text": "Q, R, hyphen, C, O, D, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "QR-code",
+      "voice": "zh",
+      "text": "名词，二维码",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "QR-code",
+      "voice": "en",
+      "text": "Scan the QR-code on your badge to record attendance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "QR-code",
+      "voice": "zh",
+      "text": "扫描胸牌上的二维码即可记录出勤。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stock-keeping-unit",
+      "voice": "en",
+      "text": "stock keeping unit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stock-keeping-unit",
+      "voice": "en",
+      "text": "S, T, O, C, K, hyphen, K, E, E, P, I, N, G, hyphen, U, N, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stock-keeping-unit",
+      "voice": "zh",
+      "text": "名词，库存量单位，SKU",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stock-keeping-unit",
+      "voice": "en",
+      "text": "Each color and size has a separate stock-keeping-unit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stock-keeping-unit",
+      "voice": "zh",
+      "text": "每种颜色和尺码都有单独的库存量单位。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "shelf-talker",
+      "voice": "en",
+      "text": "shelf talker",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "shelf-talker",
+      "voice": "en",
+      "text": "S, H, E, L, F, hyphen, T, A, L, K, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "shelf-talker",
+      "voice": "zh",
+      "text": "名词，货架插卡，货架广告牌",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "shelf-talker",
+      "voice": "en",
+      "text": "Please put a shelf-talker next to the new product display.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "shelf-talker",
+      "voice": "zh",
+      "text": "请在新产品陈列处放置货架插卡。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "statement-of-cash-flows",
+      "voice": "en",
+      "text": "statement of cash flows",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "statement-of-cash-flows",
+      "voice": "en",
+      "text": "S, T, A, T, E, M, E, N, T, hyphen, O, F, hyphen, C, A, S, H, hyphen, F, L, O, W, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "statement-of-cash-flows",
+      "voice": "zh",
+      "text": "名词，现金流量表",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "statement-of-cash-flows",
+      "voice": "en",
+      "text": "Investors asked for the statement-of-cash-flows for the past three years.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "statement-of-cash-flows",
+      "voice": "zh",
+      "text": "投资者要求提供过去三年的现金流量表。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "restricted-stock",
+      "voice": "en",
+      "text": "restricted stock",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "restricted-stock",
+      "voice": "en",
+      "text": "R, E, S, T, R, I, C, T, E, D, hyphen, S, T, O, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "restricted-stock",
+      "voice": "zh",
+      "text": "名词，限制性股票",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "restricted-stock",
+      "voice": "en",
+      "text": "Restricted-stock vests over three years if performance targets are met.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "restricted-stock",
+      "voice": "zh",
+      "text": "若达到业绩目标，限制性股票将在三年内归属。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "social-security",
+      "voice": "en",
+      "text": "social security",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "social-security",
+      "voice": "en",
+      "text": "S, O, C, I, A, L, hyphen, S, E, C, U, R, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "social-security",
+      "voice": "zh",
+      "text": "名词，社会保障，社保",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "social-security",
+      "voice": "en",
+      "text": "Social-security contributions are shared by the employee and the employer.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "social-security",
+      "voice": "zh",
+      "text": "社会保障缴款由员工和雇主共同承担。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "unemployment-tax",
+      "voice": "en",
+      "text": "unemployment tax",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "unemployment-tax",
+      "voice": "en",
+      "text": "U, N, E, M, P, L, O, Y, M, E, N, T, hyphen, T, A, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "unemployment-tax",
+      "voice": "zh",
+      "text": "名词，失业税",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "unemployment-tax",
+      "voice": "en",
+      "text": "Unemployment-tax is calculated on a portion of each employee's wages.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "unemployment-tax",
+      "voice": "zh",
+      "text": "失业税按每位员工部分工资计算。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tax-haven",
+      "voice": "en",
+      "text": "tax haven",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tax-haven",
+      "voice": "en",
+      "text": "T, A, X, hyphen, H, A, V, E, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tax-haven",
+      "voice": "zh",
+      "text": "名词，避税地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tax-haven",
+      "voice": "en",
+      "text": "The policy forbids routing payments through a tax-haven without legal review.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tax-haven",
+      "voice": "zh",
+      "text": "未经法务审查，政策禁止经避税地安排付款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stock-grant",
+      "voice": "en",
+      "text": "stock grant",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stock-grant",
+      "voice": "en",
+      "text": "S, T, O, C, K, hyphen, G, R, A, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stock-grant",
+      "voice": "zh",
+      "text": "名词，股票授予",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stock-grant",
+      "voice": "en",
+      "text": "A stock-grant will be awarded after the probation period.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stock-grant",
+      "voice": "zh",
+      "text": "试用期结束后将授予股票。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "option-grant",
+      "voice": "en",
+      "text": "option grant",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "option-grant",
+      "voice": "en",
+      "text": "O, P, T, I, O, N, hyphen, G, R, A, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "option-grant",
+      "voice": "zh",
+      "text": "名词，期权授予",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "option-grant",
+      "voice": "en",
+      "text": "The option-grant expires if it is not exercised within seven years.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "option-grant",
+      "voice": "zh",
+      "text": "期权若在七年内未行权即告失效。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "individual-development-plan",
+      "voice": "en",
+      "text": "individual development plan",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "individual-development-plan",
+      "voice": "en",
+      "text": "I, N, D, I, V, I, D, U, A, L, hyphen, D, E, V, E, L, O, P, M, E, N, T, hyphen, P, L, A, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "individual-development-plan",
+      "voice": "zh",
+      "text": "名词，个人发展计划",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "individual-development-plan",
+      "voice": "en",
+      "text": "Please draft an individual-development-plan before the mid-year review.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "individual-development-plan",
+      "voice": "zh",
+      "text": "请在年中评估前起草个人发展计划。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "auditorium",
+      "voice": "en",
+      "text": "auditorium",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "auditorium",
+      "voice": "en",
+      "text": "A, U, D, I, T, O, R, I, U, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "auditorium",
+      "voice": "zh",
+      "text": "名词，礼堂，会堂",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "auditorium",
+      "voice": "en",
+      "text": "The product launch will be held in the main auditorium.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "auditorium",
+      "voice": "zh",
+      "text": "产品发布会将在主礼堂举行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "calculation",
+      "voice": "en",
+      "text": "calculation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "calculation",
+      "voice": "en",
+      "text": "C, A, L, C, U, L, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "calculation",
+      "voice": "zh",
+      "text": "名词，计算",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "calculation",
+      "voice": "en",
+      "text": "Please double-check the overtime calculation before payroll is run.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "calculation",
+      "voice": "zh",
+      "text": "在发放工资前，请再核对一遍加班计算。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "catalogue",
+      "voice": "en",
+      "text": "catalogue",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "catalogue",
+      "voice": "en",
+      "text": "C, A, T, A, L, O, G, U, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "catalogue",
+      "voice": "zh",
+      "text": "名词，目录，图册",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "catalogue",
+      "voice": "en",
+      "text": "The autumn catalogue will be sent to retailers next week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "catalogue",
+      "voice": "zh",
+      "text": "秋季目录将于下周寄给零售商。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "chef",
+      "voice": "en",
+      "text": "chef",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "chef",
+      "voice": "en",
+      "text": "C, H, E, F",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "chef",
+      "voice": "zh",
+      "text": "名词，厨师，主厨",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "chef",
+      "voice": "en",
+      "text": "The hotel chef will design a menu for the awards dinner.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "chef",
+      "voice": "zh",
+      "text": "酒店主厨将为颁奖晚宴设计菜单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "current",
+      "voice": "en",
+      "text": "current",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "current",
+      "voice": "en",
+      "text": "C, U, R, R, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "current",
+      "voice": "zh",
+      "text": "形容词或名词，当前的，现有的，电流",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "current",
+      "voice": "en",
+      "text": "Please use the current price list, not last year's version.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "current",
+      "voice": "zh",
+      "text": "请使用当前价目表，不要用去年的版本。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "dental",
+      "voice": "en",
+      "text": "dental",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "dental",
+      "voice": "en",
+      "text": "D, E, N, T, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "dental",
+      "voice": "zh",
+      "text": "形容词，牙科的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "dental",
+      "voice": "en",
+      "text": "Dental coverage begins after 90 days of employment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "dental",
+      "voice": "zh",
+      "text": "牙科保障在入职90天后生效。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "diagram",
+      "voice": "en",
+      "text": "diagram",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "diagram",
+      "voice": "en",
+      "text": "D, I, A, G, R, A, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "diagram",
+      "voice": "zh",
+      "text": "名词，图表，示意图",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "diagram",
+      "voice": "en",
+      "text": "A wiring diagram is included in the installation guide.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "diagram",
+      "voice": "zh",
+      "text": "安装指南中附有接线图。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第69轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

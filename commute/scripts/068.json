@@ -1,0 +1,1314 @@
+{
+  "id": "068",
+  "track": 68,
+  "title": "第 68 轨",
+  "word_count": 30,
+  "headwords": [
+    "engineer",
+    "engineering",
+    "enrollment",
+    "entrepreneur",
+    "environment",
+    "environmental",
+    "establishment",
+    "estate",
+    "exceptional",
+    "exchange",
+    "exit",
+    "expert",
+    "export",
+    "factory",
+    "farewell",
+    "favorable",
+    "ferry",
+    "financial",
+    "flight",
+    "fluctuation",
+    "founder",
+    "framework",
+    "fraud",
+    "frequency",
+    "garage",
+    "generation",
+    "terms-of-reference",
+    "stop-order",
+    "standing-order",
+    "money-order"
+  ],
+  "entries": [
+    {
+      "word": "engineer",
+      "spelling": "E, N, G, I, N, E, E, R",
+      "spoken_meaning": "名词或动词，工程师，设计建造",
+      "en": "A service engineer will be on site at 9 a.m.",
+      "zh": "维修工程师将于上午9点到现场。"
+    },
+    {
+      "word": "engineering",
+      "spelling": "E, N, G, I, N, E, E, R, I, N, G",
+      "spoken_meaning": "名词，工程，工程学",
+      "en": "The engineering team has signed off on the design change.",
+      "zh": "工程团队已签字批准这项设计变更。"
+    },
+    {
+      "word": "enrollment",
+      "spelling": "E, N, R, O, L, L, M, E, N, T",
+      "spoken_meaning": "名词，注册，入学人数",
+      "en": "Enrollment in the evening language course closes on Friday.",
+      "zh": "晚间语言课程的报名于周五截止。"
+    },
+    {
+      "word": "entrepreneur",
+      "spelling": "E, N, T, R, E, P, R, E, N, E, U, R",
+      "spoken_meaning": "名词，企业家，创业者",
+      "en": "The incubator supports entrepreneurs who are launching export businesses.",
+      "zh": "该孵化器支持正在开展出口业务的创业者。"
+    },
+    {
+      "word": "environment",
+      "spelling": "E, N, V, I, R, O, N, M, E, N, T",
+      "spoken_meaning": "名词，环境",
+      "en": "The new plant was designed to reduce its impact on the environment.",
+      "zh": "新工厂的设计旨在减少对环境的影响。"
+    },
+    {
+      "word": "environmental",
+      "spelling": "E, N, V, I, R, O, N, M, E, N, T, A, L",
+      "spoken_meaning": "形容词，环境的",
+      "en": "An environmental permit is required before construction can start.",
+      "zh": "施工开始前必须获得环境许可。"
+    },
+    {
+      "word": "establishment",
+      "spelling": "E, S, T, A, B, L, I, S, H, M, E, N, T",
+      "spoken_meaning": "名词，机构，设立",
+      "en": "The establishment of a local office will help us serve regional clients.",
+      "zh": "设立当地办事处将有助于服务区域客户。"
+    },
+    {
+      "word": "estate",
+      "spelling": "E, S, T, A, T, E",
+      "spoken_meaning": "名词，地产，产业",
+      "en": "The industrial estate has two remaining lots for sale.",
+      "zh": "该工业园区还剩两块地出售。"
+    },
+    {
+      "word": "exceptional",
+      "spelling": "E, X, C, E, P, T, I, O, N, A, L",
+      "spoken_meaning": "形容词，例外的，杰出的",
+      "en": "Exceptional performance this quarter will be recognized at the all-hands.",
+      "zh": "本季度的杰出表现将在全员大会上表彰。"
+    },
+    {
+      "word": "exchange",
+      "spelling": "E, X, C, H, A, N, G, E",
+      "spoken_meaning": "名词或动词，交换，兑换，交易所",
+      "en": "You may exchange unsold merchandise within 14 days with a receipt.",
+      "zh": "未售出的商品可在14天内凭收据兑换。"
+    },
+    {
+      "word": "exit",
+      "spelling": "E, X, I, T",
+      "spoken_meaning": "名词或动词，出口，退出",
+      "en": "Please keep the emergency exit clear of boxes.",
+      "zh": "请勿在紧急出口堆放纸箱。"
+    },
+    {
+      "word": "expert",
+      "spelling": "E, X, P, E, R, T",
+      "spoken_meaning": "名词或形容词，专家，专业的",
+      "en": "An expert in food safety will inspect the kitchen tomorrow.",
+      "zh": "食品安全专家明天将来检查厨房。"
+    },
+    {
+      "word": "export",
+      "spelling": "E, X, P, O, R, T",
+      "spoken_meaning": "名词或动词，出口",
+      "en": "Export licenses are required for some of the testing equipment.",
+      "zh": "部分测试设备需要出口许可证。"
+    },
+    {
+      "word": "factory",
+      "spelling": "F, A, C, T, O, R, Y",
+      "spoken_meaning": "名词，工厂",
+      "en": "A tour of the factory is included in the customer visit.",
+      "zh": "客户来访行程包含参观工厂。"
+    },
+    {
+      "word": "farewell",
+      "spelling": "F, A, R, E, W, E, L, L",
+      "spoken_meaning": "名词或形容词，送别，告别的",
+      "en": "A farewell lunch will be held for colleagues who are transferring.",
+      "zh": "将为调职的同事举行送别午餐。"
+    },
+    {
+      "word": "favorable",
+      "spelling": "F, A, V, O, R, A, B, L, E",
+      "spoken_meaning": "形容词，有利的，赞成的",
+      "en": "We received a favorable inspection report from the buyer.",
+      "zh": "我们收到了买方出具的有利检验报告。"
+    },
+    {
+      "word": "ferry",
+      "spelling": "F, E, R, R, Y",
+      "spoken_meaning": "名词或动词，渡轮，渡运",
+      "en": "The samples will go by ferry if the afternoon flight is full.",
+      "zh": "如果下午的航班已满，样品将改搭渡轮。"
+    },
+    {
+      "word": "financial",
+      "spelling": "F, I, N, A, N, C, I, A, L",
+      "spoken_meaning": "形容词，财务的，金融的",
+      "en": "A financial summary is included on the last page of the proposal.",
+      "zh": "提案最后一页附有财务摘要。"
+    },
+    {
+      "word": "flight",
+      "spelling": "F, L, I, G, H, T",
+      "spoken_meaning": "名词，航班，飞行",
+      "en": "Please reconfirm your flight 24 hours before departure.",
+      "zh": "请在出发前24小时重新确认航班。"
+    },
+    {
+      "word": "fluctuation",
+      "spelling": "F, L, U, C, T, U, A, T, I, O, N",
+      "spoken_meaning": "名词，波动",
+      "en": "Currency fluctuation has affected our import costs.",
+      "zh": "汇率波动影响了我们的进口成本。"
+    },
+    {
+      "word": "founder",
+      "spelling": "F, O, U, N, D, E, R",
+      "spoken_meaning": "名词，创始人",
+      "en": "The founder will open the new branch on Monday.",
+      "zh": "创始人将于周一为新分店开业。"
+    },
+    {
+      "word": "framework",
+      "spelling": "F, R, A, M, E, W, O, R, K",
+      "spoken_meaning": "名词，框架，准则",
+      "en": "The new ethics framework will apply to all suppliers.",
+      "zh": "新的道德准则将适用于所有供应商。"
+    },
+    {
+      "word": "fraud",
+      "spelling": "F, R, A, U, D",
+      "spoken_meaning": "名词，欺诈，诈骗",
+      "en": "Any suspected fraud should be reported to the compliance office.",
+      "zh": "任何可疑欺诈行为都应向合规部门报告。"
+    },
+    {
+      "word": "frequency",
+      "spelling": "F, R, E, Q, U, E, N, C, Y",
+      "spoken_meaning": "名词，频率",
+      "en": "Bus frequency to the airport increases during the morning peak.",
+      "zh": "早高峰前往机场的巴士班次会增加。"
+    },
+    {
+      "word": "garage",
+      "spelling": "G, A, R, A, G, E",
+      "spoken_meaning": "名词，车库，修车厂",
+      "en": "Visitor parking is in the garage behind the lobby.",
+      "zh": "访客停车位在大厅后方的车库。"
+    },
+    {
+      "word": "generation",
+      "spelling": "G, E, N, E, R, A, T, I, O, N",
+      "spoken_meaning": "名词，一代，产生",
+      "en": "The next generation of the device will be lighter and quieter.",
+      "zh": "下一代产品将更轻、更安静。"
+    },
+    {
+      "word": "terms-of-reference",
+      "spelling": "T, E, R, M, S, hyphen, O, F, hyphen, R, E, F, E, R, E, N, C, E",
+      "spoken_meaning": "名词，职责范围，委托条款",
+      "en": "The consultant's terms-of-reference are attached to the engagement letter.",
+      "zh": "顾问的职责范围已附在聘用函中。"
+    },
+    {
+      "word": "stop-order",
+      "spelling": "S, T, O, P, hyphen, O, R, D, E, R",
+      "spoken_meaning": "名词，停损单，停止订购单",
+      "en": "Please issue a stop-order on further shipments until the quality issue is fixed.",
+      "zh": "在质量问题解决前，请下达停止继续发货的指令。"
+    },
+    {
+      "word": "standing-order",
+      "spelling": "S, T, A, N, D, I, N, G, hyphen, O, R, D, E, R",
+      "spoken_meaning": "名词，定期付款指令，长期订单",
+      "en": "A standing-order pays the office rent on the first of each month.",
+      "zh": "定期付款指令会在每月1日支付办公室租金。"
+    },
+    {
+      "word": "money-order",
+      "spelling": "M, O, N, E, Y, hyphen, O, R, D, E, R",
+      "spoken_meaning": "名词，汇票，汇款单",
+      "en": "The refund will be sent as a money-order if you do not have a bank account.",
+      "zh": "若你没有银行账户，退款将以汇票形式寄出。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第68轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "engineer",
+      "voice": "en",
+      "text": "engineer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "engineer",
+      "voice": "en",
+      "text": "E, N, G, I, N, E, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "engineer",
+      "voice": "zh",
+      "text": "名词或动词，工程师，设计建造",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "engineer",
+      "voice": "en",
+      "text": "A service engineer will be on site at 9 a.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "engineer",
+      "voice": "zh",
+      "text": "维修工程师将于上午9点到现场。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "engineering",
+      "voice": "en",
+      "text": "engineering",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "engineering",
+      "voice": "en",
+      "text": "E, N, G, I, N, E, E, R, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "engineering",
+      "voice": "zh",
+      "text": "名词，工程，工程学",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "engineering",
+      "voice": "en",
+      "text": "The engineering team has signed off on the design change.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "engineering",
+      "voice": "zh",
+      "text": "工程团队已签字批准这项设计变更。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "enrollment",
+      "voice": "en",
+      "text": "enrollment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "enrollment",
+      "voice": "en",
+      "text": "E, N, R, O, L, L, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "enrollment",
+      "voice": "zh",
+      "text": "名词，注册，入学人数",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "enrollment",
+      "voice": "en",
+      "text": "Enrollment in the evening language course closes on Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "enrollment",
+      "voice": "zh",
+      "text": "晚间语言课程的报名于周五截止。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "entrepreneur",
+      "voice": "en",
+      "text": "entrepreneur",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "entrepreneur",
+      "voice": "en",
+      "text": "E, N, T, R, E, P, R, E, N, E, U, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "entrepreneur",
+      "voice": "zh",
+      "text": "名词，企业家，创业者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "entrepreneur",
+      "voice": "en",
+      "text": "The incubator supports entrepreneurs who are launching export businesses.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "entrepreneur",
+      "voice": "zh",
+      "text": "该孵化器支持正在开展出口业务的创业者。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "environment",
+      "voice": "en",
+      "text": "environment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "environment",
+      "voice": "en",
+      "text": "E, N, V, I, R, O, N, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "environment",
+      "voice": "zh",
+      "text": "名词，环境",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "environment",
+      "voice": "en",
+      "text": "The new plant was designed to reduce its impact on the environment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "environment",
+      "voice": "zh",
+      "text": "新工厂的设计旨在减少对环境的影响。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "environmental",
+      "voice": "en",
+      "text": "environmental",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "environmental",
+      "voice": "en",
+      "text": "E, N, V, I, R, O, N, M, E, N, T, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "environmental",
+      "voice": "zh",
+      "text": "形容词，环境的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "environmental",
+      "voice": "en",
+      "text": "An environmental permit is required before construction can start.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "environmental",
+      "voice": "zh",
+      "text": "施工开始前必须获得环境许可。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "establishment",
+      "voice": "en",
+      "text": "establishment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "establishment",
+      "voice": "en",
+      "text": "E, S, T, A, B, L, I, S, H, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "establishment",
+      "voice": "zh",
+      "text": "名词，机构，设立",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "establishment",
+      "voice": "en",
+      "text": "The establishment of a local office will help us serve regional clients.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "establishment",
+      "voice": "zh",
+      "text": "设立当地办事处将有助于服务区域客户。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "estate",
+      "voice": "en",
+      "text": "estate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "estate",
+      "voice": "en",
+      "text": "E, S, T, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "estate",
+      "voice": "zh",
+      "text": "名词，地产，产业",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "estate",
+      "voice": "en",
+      "text": "The industrial estate has two remaining lots for sale.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "estate",
+      "voice": "zh",
+      "text": "该工业园区还剩两块地出售。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "exceptional",
+      "voice": "en",
+      "text": "exceptional",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "exceptional",
+      "voice": "en",
+      "text": "E, X, C, E, P, T, I, O, N, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "exceptional",
+      "voice": "zh",
+      "text": "形容词，例外的，杰出的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "exceptional",
+      "voice": "en",
+      "text": "Exceptional performance this quarter will be recognized at the all-hands.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "exceptional",
+      "voice": "zh",
+      "text": "本季度的杰出表现将在全员大会上表彰。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "exchange",
+      "voice": "en",
+      "text": "exchange",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "exchange",
+      "voice": "en",
+      "text": "E, X, C, H, A, N, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "exchange",
+      "voice": "zh",
+      "text": "名词或动词，交换，兑换，交易所",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "exchange",
+      "voice": "en",
+      "text": "You may exchange unsold merchandise within 14 days with a receipt.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "exchange",
+      "voice": "zh",
+      "text": "未售出的商品可在14天内凭收据兑换。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "exit",
+      "voice": "en",
+      "text": "exit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "exit",
+      "voice": "en",
+      "text": "E, X, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "exit",
+      "voice": "zh",
+      "text": "名词或动词，出口，退出",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "exit",
+      "voice": "en",
+      "text": "Please keep the emergency exit clear of boxes.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "exit",
+      "voice": "zh",
+      "text": "请勿在紧急出口堆放纸箱。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "expert",
+      "voice": "en",
+      "text": "expert",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "expert",
+      "voice": "en",
+      "text": "E, X, P, E, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "expert",
+      "voice": "zh",
+      "text": "名词或形容词，专家，专业的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "expert",
+      "voice": "en",
+      "text": "An expert in food safety will inspect the kitchen tomorrow.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "expert",
+      "voice": "zh",
+      "text": "食品安全专家明天将来检查厨房。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "export",
+      "voice": "en",
+      "text": "export",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "export",
+      "voice": "en",
+      "text": "E, X, P, O, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "export",
+      "voice": "zh",
+      "text": "名词或动词，出口",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "export",
+      "voice": "en",
+      "text": "Export licenses are required for some of the testing equipment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "export",
+      "voice": "zh",
+      "text": "部分测试设备需要出口许可证。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "factory",
+      "voice": "en",
+      "text": "factory",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "factory",
+      "voice": "en",
+      "text": "F, A, C, T, O, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "factory",
+      "voice": "zh",
+      "text": "名词，工厂",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "factory",
+      "voice": "en",
+      "text": "A tour of the factory is included in the customer visit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "factory",
+      "voice": "zh",
+      "text": "客户来访行程包含参观工厂。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "farewell",
+      "voice": "en",
+      "text": "farewell",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "farewell",
+      "voice": "en",
+      "text": "F, A, R, E, W, E, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "farewell",
+      "voice": "zh",
+      "text": "名词或形容词，送别，告别的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "farewell",
+      "voice": "en",
+      "text": "A farewell lunch will be held for colleagues who are transferring.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "farewell",
+      "voice": "zh",
+      "text": "将为调职的同事举行送别午餐。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "favorable",
+      "voice": "en",
+      "text": "favorable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "favorable",
+      "voice": "en",
+      "text": "F, A, V, O, R, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "favorable",
+      "voice": "zh",
+      "text": "形容词，有利的，赞成的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "favorable",
+      "voice": "en",
+      "text": "We received a favorable inspection report from the buyer.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "favorable",
+      "voice": "zh",
+      "text": "我们收到了买方出具的有利检验报告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ferry",
+      "voice": "en",
+      "text": "ferry",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ferry",
+      "voice": "en",
+      "text": "F, E, R, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ferry",
+      "voice": "zh",
+      "text": "名词或动词，渡轮，渡运",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ferry",
+      "voice": "en",
+      "text": "The samples will go by ferry if the afternoon flight is full.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ferry",
+      "voice": "zh",
+      "text": "如果下午的航班已满，样品将改搭渡轮。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "financial",
+      "voice": "en",
+      "text": "financial",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "financial",
+      "voice": "en",
+      "text": "F, I, N, A, N, C, I, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "financial",
+      "voice": "zh",
+      "text": "形容词，财务的，金融的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "financial",
+      "voice": "en",
+      "text": "A financial summary is included on the last page of the proposal.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "financial",
+      "voice": "zh",
+      "text": "提案最后一页附有财务摘要。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "flight",
+      "voice": "en",
+      "text": "flight",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "flight",
+      "voice": "en",
+      "text": "F, L, I, G, H, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "flight",
+      "voice": "zh",
+      "text": "名词，航班，飞行",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "flight",
+      "voice": "en",
+      "text": "Please reconfirm your flight 24 hours before departure.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "flight",
+      "voice": "zh",
+      "text": "请在出发前24小时重新确认航班。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fluctuation",
+      "voice": "en",
+      "text": "fluctuation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fluctuation",
+      "voice": "en",
+      "text": "F, L, U, C, T, U, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fluctuation",
+      "voice": "zh",
+      "text": "名词，波动",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fluctuation",
+      "voice": "en",
+      "text": "Currency fluctuation has affected our import costs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fluctuation",
+      "voice": "zh",
+      "text": "汇率波动影响了我们的进口成本。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "founder",
+      "voice": "en",
+      "text": "founder",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "founder",
+      "voice": "en",
+      "text": "F, O, U, N, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "founder",
+      "voice": "zh",
+      "text": "名词，创始人",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "founder",
+      "voice": "en",
+      "text": "The founder will open the new branch on Monday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "founder",
+      "voice": "zh",
+      "text": "创始人将于周一为新分店开业。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "framework",
+      "voice": "en",
+      "text": "framework",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "framework",
+      "voice": "en",
+      "text": "F, R, A, M, E, W, O, R, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "framework",
+      "voice": "zh",
+      "text": "名词，框架，准则",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "framework",
+      "voice": "en",
+      "text": "The new ethics framework will apply to all suppliers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "framework",
+      "voice": "zh",
+      "text": "新的道德准则将适用于所有供应商。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fraud",
+      "voice": "en",
+      "text": "fraud",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fraud",
+      "voice": "en",
+      "text": "F, R, A, U, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fraud",
+      "voice": "zh",
+      "text": "名词，欺诈，诈骗",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fraud",
+      "voice": "en",
+      "text": "Any suspected fraud should be reported to the compliance office.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fraud",
+      "voice": "zh",
+      "text": "任何可疑欺诈行为都应向合规部门报告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "frequency",
+      "voice": "en",
+      "text": "frequency",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "frequency",
+      "voice": "en",
+      "text": "F, R, E, Q, U, E, N, C, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "frequency",
+      "voice": "zh",
+      "text": "名词，频率",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "frequency",
+      "voice": "en",
+      "text": "Bus frequency to the airport increases during the morning peak.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "frequency",
+      "voice": "zh",
+      "text": "早高峰前往机场的巴士班次会增加。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "garage",
+      "voice": "en",
+      "text": "garage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "garage",
+      "voice": "en",
+      "text": "G, A, R, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "garage",
+      "voice": "zh",
+      "text": "名词，车库，修车厂",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "garage",
+      "voice": "en",
+      "text": "Visitor parking is in the garage behind the lobby.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "garage",
+      "voice": "zh",
+      "text": "访客停车位在大厅后方的车库。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "generation",
+      "voice": "en",
+      "text": "generation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "generation",
+      "voice": "en",
+      "text": "G, E, N, E, R, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "generation",
+      "voice": "zh",
+      "text": "名词，一代，产生",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "generation",
+      "voice": "en",
+      "text": "The next generation of the device will be lighter and quieter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "generation",
+      "voice": "zh",
+      "text": "下一代产品将更轻、更安静。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "terms-of-reference",
+      "voice": "en",
+      "text": "terms of reference",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "terms-of-reference",
+      "voice": "en",
+      "text": "T, E, R, M, S, hyphen, O, F, hyphen, R, E, F, E, R, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "terms-of-reference",
+      "voice": "zh",
+      "text": "名词，职责范围，委托条款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "terms-of-reference",
+      "voice": "en",
+      "text": "The consultant's terms-of-reference are attached to the engagement letter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "terms-of-reference",
+      "voice": "zh",
+      "text": "顾问的职责范围已附在聘用函中。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stop-order",
+      "voice": "en",
+      "text": "stop order",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stop-order",
+      "voice": "en",
+      "text": "S, T, O, P, hyphen, O, R, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stop-order",
+      "voice": "zh",
+      "text": "名词，停损单，停止订购单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stop-order",
+      "voice": "en",
+      "text": "Please issue a stop-order on further shipments until the quality issue is fixed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stop-order",
+      "voice": "zh",
+      "text": "在质量问题解决前，请下达停止继续发货的指令。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "standing-order",
+      "voice": "en",
+      "text": "standing order",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "standing-order",
+      "voice": "en",
+      "text": "S, T, A, N, D, I, N, G, hyphen, O, R, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "standing-order",
+      "voice": "zh",
+      "text": "名词，定期付款指令，长期订单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "standing-order",
+      "voice": "en",
+      "text": "A standing-order pays the office rent on the first of each month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "standing-order",
+      "voice": "zh",
+      "text": "定期付款指令会在每月1日支付办公室租金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "money-order",
+      "voice": "en",
+      "text": "money order",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "money-order",
+      "voice": "en",
+      "text": "M, O, N, E, Y, hyphen, O, R, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "money-order",
+      "voice": "zh",
+      "text": "名词，汇票，汇款单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "money-order",
+      "voice": "en",
+      "text": "The refund will be sent as a money-order if you do not have a bank account.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "money-order",
+      "voice": "zh",
+      "text": "若你没有银行账户，退款将以汇票形式寄出。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第68轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

@@ -1,0 +1,1314 @@
+{
+  "id": "071",
+  "track": 71,
+  "title": "第 71 轨",
+  "word_count": 30,
+  "headwords": [
+    "encourage",
+    "engine",
+    "enter",
+    "entrance",
+    "equal",
+    "equality",
+    "error",
+    "event",
+    "eventually",
+    "evidence",
+    "excellent",
+    "excessive",
+    "exclude",
+    "exercise",
+    "exhaust",
+    "expect",
+    "expensive",
+    "experience",
+    "explain",
+    "explanation",
+    "express",
+    "extent",
+    "external",
+    "extra",
+    "factor",
+    "fail",
+    "failure",
+    "fair",
+    "fairly",
+    "familiar"
+  ],
+  "entries": [
+    {
+      "word": "encourage",
+      "spelling": "E, N, C, O, U, R, A, G, E",
+      "spoken_meaning": "动词，鼓励，促进",
+      "en": "Managers are encouraged to hold weekly one-to-one meetings.",
+      "zh": "鼓励经理每周与下属进行一对一会面。"
+    },
+    {
+      "word": "engine",
+      "spelling": "E, N, G, I, N, E",
+      "spoken_meaning": "名词，引擎，发动机",
+      "en": "The service bulletin applies only to machines with the new engine.",
+      "zh": "该服务通告仅适用于配备新发动机的机器。"
+    },
+    {
+      "word": "enter",
+      "spelling": "E, N, T, E, R",
+      "spoken_meaning": "动词，进入，输入",
+      "en": "Please enter the invoice number in the payment system.",
+      "zh": "请在付款系统中输入发票号。"
+    },
+    {
+      "word": "entrance",
+      "spelling": "E, N, T, R, A, N, C, E",
+      "spoken_meaning": "名词，入口",
+      "en": "Visitor parking is to the left of the main entrance.",
+      "zh": "访客停车位在正门左侧。"
+    },
+    {
+      "word": "equal",
+      "spelling": "E, Q, U, A, L",
+      "spoken_meaning": "形容词或动词，相等的，等于",
+      "en": "All branch staff have equal access to the training portal.",
+      "zh": "所有分店员工都可以平等使用培训平台。"
+    },
+    {
+      "word": "equality",
+      "spelling": "E, Q, U, A, L, I, T, Y",
+      "spoken_meaning": "名词，平等",
+      "en": "The policy promotes equality of opportunity in hiring and promotion.",
+      "zh": "该政策促进招聘和晋升中的机会平等。"
+    },
+    {
+      "word": "error",
+      "spelling": "E, R, R, O, R",
+      "spoken_meaning": "名词，错误",
+      "en": "A typing error in the account number delayed the transfer.",
+      "zh": "账号输入错误导致转账延误。"
+    },
+    {
+      "word": "event",
+      "spelling": "E, V, E, N, T",
+      "spoken_meaning": "名词，活动，事件",
+      "en": "Please arrive an hour early to help set up for the event.",
+      "zh": "请提前一小时到达，协助布置活动现场。"
+    },
+    {
+      "word": "eventually",
+      "spelling": "E, V, E, N, T, U, A, L, L, Y",
+      "spoken_meaning": "副词，最终，终于",
+      "en": "The delayed parts eventually arrived on Thursday afternoon.",
+      "zh": "延误的零件最终在周四下午到达。"
+    },
+    {
+      "word": "evidence",
+      "spelling": "E, V, I, D, E, N, C, E",
+      "spoken_meaning": "名词，证据，证明",
+      "en": "Please keep the receipts as evidence of the expense.",
+      "zh": "请保留收据作为这笔费用的证明。"
+    },
+    {
+      "word": "excellent",
+      "spelling": "E, X, C, E, L, L, E, N, T",
+      "spoken_meaning": "形容词，优秀的，极好的",
+      "en": "The hotel received excellent scores for cleanliness and service.",
+      "zh": "该酒店在清洁和服务方面获得了优秀评分。"
+    },
+    {
+      "word": "excessive",
+      "spelling": "E, X, C, E, S, S, I, V, E",
+      "spoken_meaning": "形容词，过多的，过度的",
+      "en": "Excessive overtime must be approved by a department head.",
+      "zh": "过多加班必须由部门负责人批准。"
+    },
+    {
+      "word": "exclude",
+      "spelling": "E, X, C, L, U, D, E",
+      "spoken_meaning": "动词，排除，不包括",
+      "en": "The quote excludes installation and on-site training.",
+      "zh": "该报价不包括安装和现场培训。"
+    },
+    {
+      "word": "exercise",
+      "spelling": "E, X, E, R, C, I, S, E",
+      "spoken_meaning": "动词或名词，行使，练习，演习",
+      "en": "You may exercise the option after the first anniversary of the grant.",
+      "zh": "授予满一周年后，你可以行使该期权。"
+    },
+    {
+      "word": "exhaust",
+      "spelling": "E, X, H, A, U, S, T",
+      "spoken_meaning": "动词或名词，耗尽，废气",
+      "en": "Please do not exhaust the spare-parts stock before the shipment arrives.",
+      "zh": "在货物到达前，请不要把备件库存用尽。"
+    },
+    {
+      "word": "expect",
+      "spelling": "E, X, P, E, C, T",
+      "spoken_meaning": "动词，预期，期待",
+      "en": "We expect the revised drawings by Wednesday.",
+      "zh": "我们预计周三能收到修订后的图纸。"
+    },
+    {
+      "word": "expensive",
+      "spelling": "E, X, P, E, N, S, I, V, E",
+      "spoken_meaning": "形容词，昂贵的",
+      "en": "Overnight courier is expensive, so please use it only for urgent documents.",
+      "zh": "隔夜快递很贵，请仅用于紧急文件。"
+    },
+    {
+      "word": "experience",
+      "spelling": "E, X, P, E, R, I, E, N, C, E",
+      "spoken_meaning": "名词或动词，经验，经历",
+      "en": "Previous retail experience is preferred for this position.",
+      "zh": "该职位优先考虑有零售经验的人选。"
+    },
+    {
+      "word": "explain",
+      "spelling": "E, X, P, L, A, I, N",
+      "spoken_meaning": "动词，解释，说明",
+      "en": "A footnote should explain any unusual items on the invoice.",
+      "zh": "发票上的异常项目应用脚注说明。"
+    },
+    {
+      "word": "explanation",
+      "spelling": "E, X, P, L, A, N, A, T, I, O, N",
+      "spoken_meaning": "名词，解释，说明",
+      "en": "Please provide a short explanation for the budget overrun.",
+      "zh": "请对预算超支作简短说明。"
+    },
+    {
+      "word": "express",
+      "spelling": "E, X, P, R, E, S, S",
+      "spoken_meaning": "动词或形容词或名词，表达，快递的，特快",
+      "en": "The contract was sent by express courier this morning.",
+      "zh": "合同已于今天上午用特快专递寄出。"
+    },
+    {
+      "word": "extent",
+      "spelling": "E, X, T, E, N, T",
+      "spoken_meaning": "名词，程度，范围",
+      "en": "To some extent, the delay was caused by customs inspections.",
+      "zh": "在一定程度上，延误是由海关检查造成的。"
+    },
+    {
+      "word": "external",
+      "spelling": "E, X, T, E, R, N, A, L",
+      "spoken_meaning": "形容词，外部的",
+      "en": "An external auditor will review the inventory process.",
+      "zh": "外部审计师将审查库存流程。"
+    },
+    {
+      "word": "extra",
+      "spelling": "E, X, T, R, A",
+      "spoken_meaning": "形容词或名词，额外的",
+      "en": "Please schedule an extra shuttle for the evening session.",
+      "zh": "请为晚间场次加开一班接驳车。"
+    },
+    {
+      "word": "factor",
+      "spelling": "F, A, C, T, O, R",
+      "spoken_meaning": "名词，因素，系数",
+      "en": "Weather is the main factor behind this week's shipping delays.",
+      "zh": "天气是本周货运延误的主要因素。"
+    },
+    {
+      "word": "fail",
+      "spelling": "F, A, I, L",
+      "spoken_meaning": "动词，失败，未能",
+      "en": "The first sample failed the drop test and must be redesigned.",
+      "zh": "首件样品未通过跌落测试，必须重新设计。"
+    },
+    {
+      "word": "failure",
+      "spelling": "F, A, I, L, U, R, E",
+      "spoken_meaning": "名词，失败，故障",
+      "en": "A power failure stopped the line for forty minutes.",
+      "zh": "一次停电使生产线停了四十分钟。"
+    },
+    {
+      "word": "fair",
+      "spelling": "F, A, I, R",
+      "spoken_meaning": "形容词或名词，公平的，展会",
+      "en": "All bidders will receive a fair chance to revise their quotes.",
+      "zh": "所有投标人都会获得公平的改价机会。"
+    },
+    {
+      "word": "fairly",
+      "spelling": "F, A, I, R, L, Y",
+      "spoken_meaning": "副词，相当，公平地",
+      "en": "The work was fairly evenly divided among the three offices.",
+      "zh": "工作在三个办事处之间分配得相当均匀。"
+    },
+    {
+      "word": "familiar",
+      "spelling": "F, A, M, I, L, I, A, R",
+      "spoken_meaning": "形容词，熟悉的",
+      "en": "New cashiers should become familiar with the refund procedure.",
+      "zh": "新收银员应熟悉退款流程。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第71轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "encourage",
+      "voice": "en",
+      "text": "encourage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "encourage",
+      "voice": "en",
+      "text": "E, N, C, O, U, R, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "encourage",
+      "voice": "zh",
+      "text": "动词，鼓励，促进",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "encourage",
+      "voice": "en",
+      "text": "Managers are encouraged to hold weekly one-to-one meetings.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "encourage",
+      "voice": "zh",
+      "text": "鼓励经理每周与下属进行一对一会面。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "engine",
+      "voice": "en",
+      "text": "engine",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "engine",
+      "voice": "en",
+      "text": "E, N, G, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "engine",
+      "voice": "zh",
+      "text": "名词，引擎，发动机",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "engine",
+      "voice": "en",
+      "text": "The service bulletin applies only to machines with the new engine.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "engine",
+      "voice": "zh",
+      "text": "该服务通告仅适用于配备新发动机的机器。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "enter",
+      "voice": "en",
+      "text": "enter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "enter",
+      "voice": "en",
+      "text": "E, N, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "enter",
+      "voice": "zh",
+      "text": "动词，进入，输入",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "enter",
+      "voice": "en",
+      "text": "Please enter the invoice number in the payment system.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "enter",
+      "voice": "zh",
+      "text": "请在付款系统中输入发票号。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "entrance",
+      "voice": "en",
+      "text": "entrance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "entrance",
+      "voice": "en",
+      "text": "E, N, T, R, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "entrance",
+      "voice": "zh",
+      "text": "名词，入口",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "entrance",
+      "voice": "en",
+      "text": "Visitor parking is to the left of the main entrance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "entrance",
+      "voice": "zh",
+      "text": "访客停车位在正门左侧。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "equal",
+      "voice": "en",
+      "text": "equal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "equal",
+      "voice": "en",
+      "text": "E, Q, U, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "equal",
+      "voice": "zh",
+      "text": "形容词或动词，相等的，等于",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "equal",
+      "voice": "en",
+      "text": "All branch staff have equal access to the training portal.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "equal",
+      "voice": "zh",
+      "text": "所有分店员工都可以平等使用培训平台。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "equality",
+      "voice": "en",
+      "text": "equality",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "equality",
+      "voice": "en",
+      "text": "E, Q, U, A, L, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "equality",
+      "voice": "zh",
+      "text": "名词，平等",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "equality",
+      "voice": "en",
+      "text": "The policy promotes equality of opportunity in hiring and promotion.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "equality",
+      "voice": "zh",
+      "text": "该政策促进招聘和晋升中的机会平等。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "error",
+      "voice": "en",
+      "text": "error",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "error",
+      "voice": "en",
+      "text": "E, R, R, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "error",
+      "voice": "zh",
+      "text": "名词，错误",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "error",
+      "voice": "en",
+      "text": "A typing error in the account number delayed the transfer.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "error",
+      "voice": "zh",
+      "text": "账号输入错误导致转账延误。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "event",
+      "voice": "en",
+      "text": "event",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "event",
+      "voice": "en",
+      "text": "E, V, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "event",
+      "voice": "zh",
+      "text": "名词，活动，事件",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "event",
+      "voice": "en",
+      "text": "Please arrive an hour early to help set up for the event.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "event",
+      "voice": "zh",
+      "text": "请提前一小时到达，协助布置活动现场。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "eventually",
+      "voice": "en",
+      "text": "eventually",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "eventually",
+      "voice": "en",
+      "text": "E, V, E, N, T, U, A, L, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "eventually",
+      "voice": "zh",
+      "text": "副词，最终，终于",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "eventually",
+      "voice": "en",
+      "text": "The delayed parts eventually arrived on Thursday afternoon.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "eventually",
+      "voice": "zh",
+      "text": "延误的零件最终在周四下午到达。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "evidence",
+      "voice": "en",
+      "text": "evidence",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "evidence",
+      "voice": "en",
+      "text": "E, V, I, D, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "evidence",
+      "voice": "zh",
+      "text": "名词，证据，证明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "evidence",
+      "voice": "en",
+      "text": "Please keep the receipts as evidence of the expense.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "evidence",
+      "voice": "zh",
+      "text": "请保留收据作为这笔费用的证明。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "excellent",
+      "voice": "en",
+      "text": "excellent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "excellent",
+      "voice": "en",
+      "text": "E, X, C, E, L, L, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "excellent",
+      "voice": "zh",
+      "text": "形容词，优秀的，极好的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "excellent",
+      "voice": "en",
+      "text": "The hotel received excellent scores for cleanliness and service.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "excellent",
+      "voice": "zh",
+      "text": "该酒店在清洁和服务方面获得了优秀评分。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "excessive",
+      "voice": "en",
+      "text": "excessive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "excessive",
+      "voice": "en",
+      "text": "E, X, C, E, S, S, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "excessive",
+      "voice": "zh",
+      "text": "形容词，过多的，过度的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "excessive",
+      "voice": "en",
+      "text": "Excessive overtime must be approved by a department head.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "excessive",
+      "voice": "zh",
+      "text": "过多加班必须由部门负责人批准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "exclude",
+      "voice": "en",
+      "text": "exclude",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "exclude",
+      "voice": "en",
+      "text": "E, X, C, L, U, D, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "exclude",
+      "voice": "zh",
+      "text": "动词，排除，不包括",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "exclude",
+      "voice": "en",
+      "text": "The quote excludes installation and on-site training.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "exclude",
+      "voice": "zh",
+      "text": "该报价不包括安装和现场培训。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "exercise",
+      "voice": "en",
+      "text": "exercise",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "exercise",
+      "voice": "en",
+      "text": "E, X, E, R, C, I, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "exercise",
+      "voice": "zh",
+      "text": "动词或名词，行使，练习，演习",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "exercise",
+      "voice": "en",
+      "text": "You may exercise the option after the first anniversary of the grant.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "exercise",
+      "voice": "zh",
+      "text": "授予满一周年后，你可以行使该期权。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "exhaust",
+      "voice": "en",
+      "text": "exhaust",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "exhaust",
+      "voice": "en",
+      "text": "E, X, H, A, U, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "exhaust",
+      "voice": "zh",
+      "text": "动词或名词，耗尽，废气",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "exhaust",
+      "voice": "en",
+      "text": "Please do not exhaust the spare-parts stock before the shipment arrives.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "exhaust",
+      "voice": "zh",
+      "text": "在货物到达前，请不要把备件库存用尽。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "expect",
+      "voice": "en",
+      "text": "expect",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "expect",
+      "voice": "en",
+      "text": "E, X, P, E, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "expect",
+      "voice": "zh",
+      "text": "动词，预期，期待",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "expect",
+      "voice": "en",
+      "text": "We expect the revised drawings by Wednesday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "expect",
+      "voice": "zh",
+      "text": "我们预计周三能收到修订后的图纸。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "expensive",
+      "voice": "en",
+      "text": "expensive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "expensive",
+      "voice": "en",
+      "text": "E, X, P, E, N, S, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "expensive",
+      "voice": "zh",
+      "text": "形容词，昂贵的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "expensive",
+      "voice": "en",
+      "text": "Overnight courier is expensive, so please use it only for urgent documents.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "expensive",
+      "voice": "zh",
+      "text": "隔夜快递很贵，请仅用于紧急文件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "experience",
+      "voice": "en",
+      "text": "experience",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "experience",
+      "voice": "en",
+      "text": "E, X, P, E, R, I, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "experience",
+      "voice": "zh",
+      "text": "名词或动词，经验，经历",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "experience",
+      "voice": "en",
+      "text": "Previous retail experience is preferred for this position.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "experience",
+      "voice": "zh",
+      "text": "该职位优先考虑有零售经验的人选。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "explain",
+      "voice": "en",
+      "text": "explain",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "explain",
+      "voice": "en",
+      "text": "E, X, P, L, A, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "explain",
+      "voice": "zh",
+      "text": "动词，解释，说明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "explain",
+      "voice": "en",
+      "text": "A footnote should explain any unusual items on the invoice.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "explain",
+      "voice": "zh",
+      "text": "发票上的异常项目应用脚注说明。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "explanation",
+      "voice": "en",
+      "text": "explanation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "explanation",
+      "voice": "en",
+      "text": "E, X, P, L, A, N, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "explanation",
+      "voice": "zh",
+      "text": "名词，解释，说明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "explanation",
+      "voice": "en",
+      "text": "Please provide a short explanation for the budget overrun.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "explanation",
+      "voice": "zh",
+      "text": "请对预算超支作简短说明。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "express",
+      "voice": "en",
+      "text": "express",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "express",
+      "voice": "en",
+      "text": "E, X, P, R, E, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "express",
+      "voice": "zh",
+      "text": "动词或形容词或名词，表达，快递的，特快",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "express",
+      "voice": "en",
+      "text": "The contract was sent by express courier this morning.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "express",
+      "voice": "zh",
+      "text": "合同已于今天上午用特快专递寄出。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "extent",
+      "voice": "en",
+      "text": "extent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "extent",
+      "voice": "en",
+      "text": "E, X, T, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "extent",
+      "voice": "zh",
+      "text": "名词，程度，范围",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "extent",
+      "voice": "en",
+      "text": "To some extent, the delay was caused by customs inspections.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "extent",
+      "voice": "zh",
+      "text": "在一定程度上，延误是由海关检查造成的。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "external",
+      "voice": "en",
+      "text": "external",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "external",
+      "voice": "en",
+      "text": "E, X, T, E, R, N, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "external",
+      "voice": "zh",
+      "text": "形容词，外部的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "external",
+      "voice": "en",
+      "text": "An external auditor will review the inventory process.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "external",
+      "voice": "zh",
+      "text": "外部审计师将审查库存流程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "extra",
+      "voice": "en",
+      "text": "extra",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "extra",
+      "voice": "en",
+      "text": "E, X, T, R, A",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "extra",
+      "voice": "zh",
+      "text": "形容词或名词，额外的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "extra",
+      "voice": "en",
+      "text": "Please schedule an extra shuttle for the evening session.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "extra",
+      "voice": "zh",
+      "text": "请为晚间场次加开一班接驳车。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "factor",
+      "voice": "en",
+      "text": "factor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "factor",
+      "voice": "en",
+      "text": "F, A, C, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "factor",
+      "voice": "zh",
+      "text": "名词，因素，系数",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "factor",
+      "voice": "en",
+      "text": "Weather is the main factor behind this week's shipping delays.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "factor",
+      "voice": "zh",
+      "text": "天气是本周货运延误的主要因素。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fail",
+      "voice": "en",
+      "text": "fail",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fail",
+      "voice": "en",
+      "text": "F, A, I, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fail",
+      "voice": "zh",
+      "text": "动词，失败，未能",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fail",
+      "voice": "en",
+      "text": "The first sample failed the drop test and must be redesigned.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fail",
+      "voice": "zh",
+      "text": "首件样品未通过跌落测试，必须重新设计。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "failure",
+      "voice": "en",
+      "text": "failure",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "failure",
+      "voice": "en",
+      "text": "F, A, I, L, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "failure",
+      "voice": "zh",
+      "text": "名词，失败，故障",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "failure",
+      "voice": "en",
+      "text": "A power failure stopped the line for forty minutes.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "failure",
+      "voice": "zh",
+      "text": "一次停电使生产线停了四十分钟。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fair",
+      "voice": "en",
+      "text": "fair",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fair",
+      "voice": "en",
+      "text": "F, A, I, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fair",
+      "voice": "zh",
+      "text": "形容词或名词，公平的，展会",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fair",
+      "voice": "en",
+      "text": "All bidders will receive a fair chance to revise their quotes.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fair",
+      "voice": "zh",
+      "text": "所有投标人都会获得公平的改价机会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fairly",
+      "voice": "en",
+      "text": "fairly",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fairly",
+      "voice": "en",
+      "text": "F, A, I, R, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fairly",
+      "voice": "zh",
+      "text": "副词，相当，公平地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fairly",
+      "voice": "en",
+      "text": "The work was fairly evenly divided among the three offices.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fairly",
+      "voice": "zh",
+      "text": "工作在三个办事处之间分配得相当均匀。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "familiar",
+      "voice": "en",
+      "text": "familiar",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "familiar",
+      "voice": "en",
+      "text": "F, A, M, I, L, I, A, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "familiar",
+      "voice": "zh",
+      "text": "形容词，熟悉的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "familiar",
+      "voice": "en",
+      "text": "New cashiers should become familiar with the refund procedure.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "familiar",
+      "voice": "zh",
+      "text": "新收银员应熟悉退款流程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第71轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

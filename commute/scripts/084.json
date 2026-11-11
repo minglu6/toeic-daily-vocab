@@ -1,0 +1,1314 @@
+{
+  "id": "084",
+  "track": 84,
+  "title": "第 84 轨",
+  "word_count": 30,
+  "headwords": [
+    "query",
+    "queue",
+    "quit",
+    "random",
+    "rapid",
+    "rapidly",
+    "rare",
+    "rarely",
+    "raw",
+    "react",
+    "reaction",
+    "readily",
+    "realistic",
+    "reality",
+    "realize",
+    "reasonable",
+    "reasonably",
+    "rebuild",
+    "recognition",
+    "recognize",
+    "recommendation",
+    "recovery",
+    "recruit",
+    "recruitment",
+    "recycle",
+    "reduction",
+    "reflect",
+    "reform",
+    "refrigerator",
+    "refuse"
+  ],
+  "entries": [
+    {
+      "word": "query",
+      "spelling": "Q, U, E, R, Y",
+      "spoken_meaning": "名词或动词，询问，疑问",
+      "en": "If you have a query about the invoice, please email accounts.",
+      "zh": "如对发票有疑问，请发邮件给会计部门。"
+    },
+    {
+      "word": "queue",
+      "spelling": "Q, U, E, U, E",
+      "spoken_meaning": "名词或动词，排队，队列",
+      "en": "Please do not join the staff queue at the cafeteria if you are a visitor.",
+      "zh": "访客请不要排员工食堂的队伍。"
+    },
+    {
+      "word": "quit",
+      "spelling": "Q, U, I, T",
+      "spoken_meaning": "动词，辞职，停止",
+      "en": "She will quit at the end of the month to start a new job.",
+      "zh": "她将于月底辞职并开始新工作。"
+    },
+    {
+      "word": "random",
+      "spelling": "R, A, N, D, O, M",
+      "spoken_meaning": "形容词，随机的",
+      "en": "Random bag checks are conducted at the staff entrance.",
+      "zh": "员工入口会进行随机包袋检查。"
+    },
+    {
+      "word": "rapid",
+      "spelling": "R, A, P, I, D",
+      "spoken_meaning": "形容词，迅速的",
+      "en": "The rapid growth in orders has created a packing backlog.",
+      "zh": "订单迅速增长造成了打包积压。"
+    },
+    {
+      "word": "rapidly",
+      "spelling": "R, A, P, I, D, L, Y",
+      "spoken_meaning": "副词，迅速地",
+      "en": "Demand for the compact model is growing rapidly.",
+      "zh": "对紧凑型产品的需求正在迅速增长。"
+    },
+    {
+      "word": "rare",
+      "spelling": "R, A, R, E",
+      "spoken_meaning": "形容词，罕见的，稀有的",
+      "en": "Late shipments are rare once the new checklist is used.",
+      "zh": "使用新检查清单后，迟发货很少见。"
+    },
+    {
+      "word": "rarely",
+      "spelling": "R, A, R, E, L, Y",
+      "spoken_meaning": "副词，很少，难得",
+      "en": "The ferry is rarely cancelled in summer.",
+      "zh": "夏天渡轮很少取消。"
+    },
+    {
+      "word": "raw",
+      "spelling": "R, A, W",
+      "spoken_meaning": "形容词，未加工的，生的",
+      "en": "Raw data from the survey will be stored on the secure server.",
+      "zh": "调查的原始数据将存储在安全服务器上。"
+    },
+    {
+      "word": "react",
+      "spelling": "R, E, A, C, T",
+      "spoken_meaning": "动词，反应",
+      "en": "The team must react quickly if a customer reports a defect.",
+      "zh": "如果客户报告缺陷，团队必须迅速反应。"
+    },
+    {
+      "word": "reaction",
+      "spelling": "R, E, A, C, T, I, O, N",
+      "spoken_meaning": "名词，反应",
+      "en": "The initial reaction to the new layout has been positive.",
+      "zh": "对新布局的初步反应是积极的。"
+    },
+    {
+      "word": "readily",
+      "spelling": "R, E, A, D, I, L, Y",
+      "spoken_meaning": "副词，容易地，乐意地",
+      "en": "Replacement parts are readily available from the local dealer.",
+      "zh": "当地经销商可以很容易地提供替换零件。"
+    },
+    {
+      "word": "realistic",
+      "spelling": "R, E, A, L, I, S, T, I, C",
+      "spoken_meaning": "形容词，现实的，切合实际的",
+      "en": "Please give a realistic estimate of the completion date.",
+      "zh": "请给出切合实际的完工日期估计。"
+    },
+    {
+      "word": "reality",
+      "spelling": "R, E, A, L, I, T, Y",
+      "spoken_meaning": "名词，现实",
+      "en": "In reality, the renovation will take longer than four weeks.",
+      "zh": "实际上，翻修会超过四周。"
+    },
+    {
+      "word": "realize",
+      "spelling": "R, E, A, L, I, Z, E",
+      "spoken_meaning": "动词，意识到，实现",
+      "en": "We did not realize the customs form was missing until the cargo was held.",
+      "zh": "直到货物被扣，我们才意识到海关表格缺失。"
+    },
+    {
+      "word": "reasonable",
+      "spelling": "R, E, A, S, O, N, A, B, L, E",
+      "spoken_meaning": "形容词，合理的",
+      "en": "The supplier offered a reasonable explanation for the delay.",
+      "zh": "供应商对延误给出了合理的解释。"
+    },
+    {
+      "word": "reasonably",
+      "spelling": "R, E, A, S, O, N, A, B, L, Y",
+      "spoken_meaning": "副词，合理地，相当地",
+      "en": "The work was completed reasonably close to the original budget.",
+      "zh": "工程完成情况与原预算相当接近。"
+    },
+    {
+      "word": "rebuild",
+      "spelling": "R, E, B, U, I, L, D",
+      "spoken_meaning": "动词，重建，改建",
+      "en": "The company will rebuild the loading dock during the shutdown.",
+      "zh": "公司将在停工期间重建装卸台。"
+    },
+    {
+      "word": "recognition",
+      "spelling": "R, E, C, O, G, N, I, T, I, O, N",
+      "spoken_meaning": "名词，表彰，认出，承认",
+      "en": "Years of service will be acknowledged at the recognition ceremony.",
+      "zh": "工龄将在表彰仪式上予以肯定。"
+    },
+    {
+      "word": "recognize",
+      "spelling": "R, E, C, O, G, N, I, Z, E",
+      "spoken_meaning": "动词，认出，承认，表彰",
+      "en": "The firm will recognize outstanding teams at the annual dinner.",
+      "zh": "公司将在年度晚宴上表彰优秀团队。"
+    },
+    {
+      "word": "recommendation",
+      "spelling": "R, E, C, O, M, M, E, N, D, A, T, I, O, N",
+      "spoken_meaning": "名词，建议，推荐",
+      "en": "The consultant's main recommendation is to add a second shift.",
+      "zh": "顾问的主要建议是增加一个班次。"
+    },
+    {
+      "word": "recovery",
+      "spelling": "R, E, C, O, V, E, R, Y",
+      "spoken_meaning": "名词，恢复，回收",
+      "en": "A recovery in tourist arrivals is expected in the spring.",
+      "zh": "预计春季游客人数将恢复。"
+    },
+    {
+      "word": "recruit",
+      "spelling": "R, E, C, R, U, I, T",
+      "spoken_meaning": "动词或名词，招聘，新员工",
+      "en": "We need to recruit two more technicians before June.",
+      "zh": "我们需要在六月前再招聘两名技术员。"
+    },
+    {
+      "word": "recruitment",
+      "spelling": "R, E, C, R, U, I, T, M, E, N, T",
+      "spoken_meaning": "名词，招聘",
+      "en": "The recruitment process for the manager role will take six weeks.",
+      "zh": "经理职位的招聘流程将耗时六周。"
+    },
+    {
+      "word": "recycle",
+      "spelling": "R, E, C, Y, C, L, E",
+      "spoken_meaning": "动词，回收利用",
+      "en": "Please recycle cardboard in the bin next to the loading dock.",
+      "zh": "请把纸板放入装卸台旁的回收箱。"
+    },
+    {
+      "word": "reduction",
+      "spelling": "R, E, D, U, C, T, I, O, N",
+      "spoken_meaning": "名词，减少，降价",
+      "en": "A price reduction will be offered on last season's models.",
+      "zh": "上季型号将实行降价。"
+    },
+    {
+      "word": "reflect",
+      "spelling": "R, E, F, L, E, C, T",
+      "spoken_meaning": "动词，反映，反射",
+      "en": "The new figures reflect stronger sales in the north.",
+      "zh": "新数据反映出北部销售更为强劲。"
+    },
+    {
+      "word": "reform",
+      "spelling": "R, E, F, O, R, M",
+      "spoken_meaning": "名词或动词，改革",
+      "en": "A reform of the booking process will take effect in May.",
+      "zh": "预订流程改革将于五月生效。"
+    },
+    {
+      "word": "refrigerator",
+      "spelling": "R, E, F, R, I, G, E, R, A, T, O, R",
+      "spoken_meaning": "名词，冰箱",
+      "en": "Please do not leave samples in the staff refrigerator overnight.",
+      "zh": "请不要把样品隔夜放在员工冰箱里。"
+    },
+    {
+      "word": "refuse",
+      "spelling": "R, E, F, U, S, E",
+      "spoken_meaning": "动词或名词，拒绝，废物",
+      "en": "The warehouse may refuse a delivery that arrives without a packing list.",
+      "zh": "没有装箱单的货物，仓库可以拒收。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第84轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "query",
+      "voice": "en",
+      "text": "query",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "query",
+      "voice": "en",
+      "text": "Q, U, E, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "query",
+      "voice": "zh",
+      "text": "名词或动词，询问，疑问",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "query",
+      "voice": "en",
+      "text": "If you have a query about the invoice, please email accounts.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "query",
+      "voice": "zh",
+      "text": "如对发票有疑问，请发邮件给会计部门。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "queue",
+      "voice": "en",
+      "text": "queue",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "queue",
+      "voice": "en",
+      "text": "Q, U, E, U, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "queue",
+      "voice": "zh",
+      "text": "名词或动词，排队，队列",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "queue",
+      "voice": "en",
+      "text": "Please do not join the staff queue at the cafeteria if you are a visitor.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "queue",
+      "voice": "zh",
+      "text": "访客请不要排员工食堂的队伍。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "quit",
+      "voice": "en",
+      "text": "quit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "quit",
+      "voice": "en",
+      "text": "Q, U, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "quit",
+      "voice": "zh",
+      "text": "动词，辞职，停止",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "quit",
+      "voice": "en",
+      "text": "She will quit at the end of the month to start a new job.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "quit",
+      "voice": "zh",
+      "text": "她将于月底辞职并开始新工作。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "random",
+      "voice": "en",
+      "text": "random",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "random",
+      "voice": "en",
+      "text": "R, A, N, D, O, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "random",
+      "voice": "zh",
+      "text": "形容词，随机的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "random",
+      "voice": "en",
+      "text": "Random bag checks are conducted at the staff entrance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "random",
+      "voice": "zh",
+      "text": "员工入口会进行随机包袋检查。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "rapid",
+      "voice": "en",
+      "text": "rapid",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rapid",
+      "voice": "en",
+      "text": "R, A, P, I, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rapid",
+      "voice": "zh",
+      "text": "形容词，迅速的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rapid",
+      "voice": "en",
+      "text": "The rapid growth in orders has created a packing backlog.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rapid",
+      "voice": "zh",
+      "text": "订单迅速增长造成了打包积压。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "rapidly",
+      "voice": "en",
+      "text": "rapidly",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rapidly",
+      "voice": "en",
+      "text": "R, A, P, I, D, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rapidly",
+      "voice": "zh",
+      "text": "副词，迅速地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rapidly",
+      "voice": "en",
+      "text": "Demand for the compact model is growing rapidly.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rapidly",
+      "voice": "zh",
+      "text": "对紧凑型产品的需求正在迅速增长。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "rare",
+      "voice": "en",
+      "text": "rare",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rare",
+      "voice": "en",
+      "text": "R, A, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rare",
+      "voice": "zh",
+      "text": "形容词，罕见的，稀有的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rare",
+      "voice": "en",
+      "text": "Late shipments are rare once the new checklist is used.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rare",
+      "voice": "zh",
+      "text": "使用新检查清单后，迟发货很少见。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "rarely",
+      "voice": "en",
+      "text": "rarely",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rarely",
+      "voice": "en",
+      "text": "R, A, R, E, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rarely",
+      "voice": "zh",
+      "text": "副词，很少，难得",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rarely",
+      "voice": "en",
+      "text": "The ferry is rarely cancelled in summer.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rarely",
+      "voice": "zh",
+      "text": "夏天渡轮很少取消。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "raw",
+      "voice": "en",
+      "text": "raw",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "raw",
+      "voice": "en",
+      "text": "R, A, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "raw",
+      "voice": "zh",
+      "text": "形容词，未加工的，生的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "raw",
+      "voice": "en",
+      "text": "Raw data from the survey will be stored on the secure server.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "raw",
+      "voice": "zh",
+      "text": "调查的原始数据将存储在安全服务器上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "react",
+      "voice": "en",
+      "text": "react",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "react",
+      "voice": "en",
+      "text": "R, E, A, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "react",
+      "voice": "zh",
+      "text": "动词，反应",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "react",
+      "voice": "en",
+      "text": "The team must react quickly if a customer reports a defect.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "react",
+      "voice": "zh",
+      "text": "如果客户报告缺陷，团队必须迅速反应。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reaction",
+      "voice": "en",
+      "text": "reaction",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reaction",
+      "voice": "en",
+      "text": "R, E, A, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reaction",
+      "voice": "zh",
+      "text": "名词，反应",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reaction",
+      "voice": "en",
+      "text": "The initial reaction to the new layout has been positive.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reaction",
+      "voice": "zh",
+      "text": "对新布局的初步反应是积极的。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "readily",
+      "voice": "en",
+      "text": "readily",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "readily",
+      "voice": "en",
+      "text": "R, E, A, D, I, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "readily",
+      "voice": "zh",
+      "text": "副词，容易地，乐意地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "readily",
+      "voice": "en",
+      "text": "Replacement parts are readily available from the local dealer.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "readily",
+      "voice": "zh",
+      "text": "当地经销商可以很容易地提供替换零件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "realistic",
+      "voice": "en",
+      "text": "realistic",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "realistic",
+      "voice": "en",
+      "text": "R, E, A, L, I, S, T, I, C",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "realistic",
+      "voice": "zh",
+      "text": "形容词，现实的，切合实际的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "realistic",
+      "voice": "en",
+      "text": "Please give a realistic estimate of the completion date.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "realistic",
+      "voice": "zh",
+      "text": "请给出切合实际的完工日期估计。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reality",
+      "voice": "en",
+      "text": "reality",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reality",
+      "voice": "en",
+      "text": "R, E, A, L, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reality",
+      "voice": "zh",
+      "text": "名词，现实",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reality",
+      "voice": "en",
+      "text": "In reality, the renovation will take longer than four weeks.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reality",
+      "voice": "zh",
+      "text": "实际上，翻修会超过四周。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "realize",
+      "voice": "en",
+      "text": "realize",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "realize",
+      "voice": "en",
+      "text": "R, E, A, L, I, Z, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "realize",
+      "voice": "zh",
+      "text": "动词，意识到，实现",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "realize",
+      "voice": "en",
+      "text": "We did not realize the customs form was missing until the cargo was held.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "realize",
+      "voice": "zh",
+      "text": "直到货物被扣，我们才意识到海关表格缺失。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reasonable",
+      "voice": "en",
+      "text": "reasonable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reasonable",
+      "voice": "en",
+      "text": "R, E, A, S, O, N, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reasonable",
+      "voice": "zh",
+      "text": "形容词，合理的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reasonable",
+      "voice": "en",
+      "text": "The supplier offered a reasonable explanation for the delay.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reasonable",
+      "voice": "zh",
+      "text": "供应商对延误给出了合理的解释。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reasonably",
+      "voice": "en",
+      "text": "reasonably",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reasonably",
+      "voice": "en",
+      "text": "R, E, A, S, O, N, A, B, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reasonably",
+      "voice": "zh",
+      "text": "副词，合理地，相当地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reasonably",
+      "voice": "en",
+      "text": "The work was completed reasonably close to the original budget.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reasonably",
+      "voice": "zh",
+      "text": "工程完成情况与原预算相当接近。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "rebuild",
+      "voice": "en",
+      "text": "rebuild",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rebuild",
+      "voice": "en",
+      "text": "R, E, B, U, I, L, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rebuild",
+      "voice": "zh",
+      "text": "动词，重建，改建",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rebuild",
+      "voice": "en",
+      "text": "The company will rebuild the loading dock during the shutdown.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rebuild",
+      "voice": "zh",
+      "text": "公司将在停工期间重建装卸台。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "recognition",
+      "voice": "en",
+      "text": "recognition",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "recognition",
+      "voice": "en",
+      "text": "R, E, C, O, G, N, I, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "recognition",
+      "voice": "zh",
+      "text": "名词，表彰，认出，承认",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "recognition",
+      "voice": "en",
+      "text": "Years of service will be acknowledged at the recognition ceremony.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "recognition",
+      "voice": "zh",
+      "text": "工龄将在表彰仪式上予以肯定。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "recognize",
+      "voice": "en",
+      "text": "recognize",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "recognize",
+      "voice": "en",
+      "text": "R, E, C, O, G, N, I, Z, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "recognize",
+      "voice": "zh",
+      "text": "动词，认出，承认，表彰",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "recognize",
+      "voice": "en",
+      "text": "The firm will recognize outstanding teams at the annual dinner.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "recognize",
+      "voice": "zh",
+      "text": "公司将在年度晚宴上表彰优秀团队。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "recommendation",
+      "voice": "en",
+      "text": "recommendation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "recommendation",
+      "voice": "en",
+      "text": "R, E, C, O, M, M, E, N, D, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "recommendation",
+      "voice": "zh",
+      "text": "名词，建议，推荐",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "recommendation",
+      "voice": "en",
+      "text": "The consultant's main recommendation is to add a second shift.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "recommendation",
+      "voice": "zh",
+      "text": "顾问的主要建议是增加一个班次。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "recovery",
+      "voice": "en",
+      "text": "recovery",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "recovery",
+      "voice": "en",
+      "text": "R, E, C, O, V, E, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "recovery",
+      "voice": "zh",
+      "text": "名词，恢复，回收",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "recovery",
+      "voice": "en",
+      "text": "A recovery in tourist arrivals is expected in the spring.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "recovery",
+      "voice": "zh",
+      "text": "预计春季游客人数将恢复。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "recruit",
+      "voice": "en",
+      "text": "recruit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "recruit",
+      "voice": "en",
+      "text": "R, E, C, R, U, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "recruit",
+      "voice": "zh",
+      "text": "动词或名词，招聘，新员工",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "recruit",
+      "voice": "en",
+      "text": "We need to recruit two more technicians before June.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "recruit",
+      "voice": "zh",
+      "text": "我们需要在六月前再招聘两名技术员。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "recruitment",
+      "voice": "en",
+      "text": "recruitment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "recruitment",
+      "voice": "en",
+      "text": "R, E, C, R, U, I, T, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "recruitment",
+      "voice": "zh",
+      "text": "名词，招聘",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "recruitment",
+      "voice": "en",
+      "text": "The recruitment process for the manager role will take six weeks.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "recruitment",
+      "voice": "zh",
+      "text": "经理职位的招聘流程将耗时六周。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "recycle",
+      "voice": "en",
+      "text": "recycle",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "recycle",
+      "voice": "en",
+      "text": "R, E, C, Y, C, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "recycle",
+      "voice": "zh",
+      "text": "动词，回收利用",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "recycle",
+      "voice": "en",
+      "text": "Please recycle cardboard in the bin next to the loading dock.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "recycle",
+      "voice": "zh",
+      "text": "请把纸板放入装卸台旁的回收箱。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reduction",
+      "voice": "en",
+      "text": "reduction",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reduction",
+      "voice": "en",
+      "text": "R, E, D, U, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reduction",
+      "voice": "zh",
+      "text": "名词，减少，降价",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reduction",
+      "voice": "en",
+      "text": "A price reduction will be offered on last season's models.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reduction",
+      "voice": "zh",
+      "text": "上季型号将实行降价。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reflect",
+      "voice": "en",
+      "text": "reflect",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reflect",
+      "voice": "en",
+      "text": "R, E, F, L, E, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reflect",
+      "voice": "zh",
+      "text": "动词，反映，反射",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reflect",
+      "voice": "en",
+      "text": "The new figures reflect stronger sales in the north.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reflect",
+      "voice": "zh",
+      "text": "新数据反映出北部销售更为强劲。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reform",
+      "voice": "en",
+      "text": "reform",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reform",
+      "voice": "en",
+      "text": "R, E, F, O, R, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reform",
+      "voice": "zh",
+      "text": "名词或动词，改革",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reform",
+      "voice": "en",
+      "text": "A reform of the booking process will take effect in May.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reform",
+      "voice": "zh",
+      "text": "预订流程改革将于五月生效。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "refrigerator",
+      "voice": "en",
+      "text": "refrigerator",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "refrigerator",
+      "voice": "en",
+      "text": "R, E, F, R, I, G, E, R, A, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "refrigerator",
+      "voice": "zh",
+      "text": "名词，冰箱",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "refrigerator",
+      "voice": "en",
+      "text": "Please do not leave samples in the staff refrigerator overnight.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "refrigerator",
+      "voice": "zh",
+      "text": "请不要把样品隔夜放在员工冰箱里。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "refuse",
+      "voice": "en",
+      "text": "refuse",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "refuse",
+      "voice": "en",
+      "text": "R, E, F, U, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "refuse",
+      "voice": "zh",
+      "text": "动词或名词，拒绝，废物",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "refuse",
+      "voice": "en",
+      "text": "The warehouse may refuse a delivery that arrives without a packing list.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "refuse",
+      "voice": "zh",
+      "text": "没有装箱单的货物，仓库可以拒收。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第84轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

@@ -1,0 +1,1314 @@
+{
+  "id": "078",
+  "track": 78,
+  "title": "第 78 轨",
+  "word_count": 30,
+  "headwords": [
+    "minority",
+    "mislead",
+    "mission",
+    "mistake",
+    "mobile",
+    "model",
+    "modern",
+    "modest",
+    "monopoly",
+    "monthly",
+    "motel",
+    "motivation",
+    "motive",
+    "motor",
+    "multiple",
+    "nationwide",
+    "necessary",
+    "necessity",
+    "negative",
+    "neglect",
+    "negotiate",
+    "negotiation",
+    "neighborhood",
+    "network",
+    "neutral",
+    "newspaper",
+    "nomination",
+    "normally",
+    "notebook",
+    "notice"
+  ],
+  "entries": [
+    {
+      "word": "minority",
+      "spelling": "M, I, N, O, R, I, T, Y",
+      "spoken_meaning": "名词，少数，少数股权",
+      "en": "A minority of shareholders opposed the merger.",
+      "zh": "少数股东反对这项合并。"
+    },
+    {
+      "word": "mislead",
+      "spelling": "M, I, S, L, E, A, D",
+      "spoken_meaning": "动词，误导",
+      "en": "The advertisement must not mislead customers about the warranty.",
+      "zh": "广告不得在保修方面误导顾客。"
+    },
+    {
+      "word": "mission",
+      "spelling": "M, I, S, S, I, O, N",
+      "spoken_meaning": "名词，使命，任务",
+      "en": "The trade mission will visit three factories in two days.",
+      "zh": "此次商务考察将在两天内参观三家工厂。"
+    },
+    {
+      "word": "mistake",
+      "spelling": "M, I, S, T, A, K, E",
+      "spoken_meaning": "名词，错误",
+      "en": "Please correct the address mistake before the labels are printed.",
+      "zh": "在打印标签前请更正地址错误。"
+    },
+    {
+      "word": "mobile",
+      "spelling": "M, O, B, I, L, E",
+      "spoken_meaning": "形容词或名词，可移动的，手机",
+      "en": "A mobile payment terminal will be used at the outdoor stall.",
+      "zh": "户外摊位将使用移动支付终端。"
+    },
+    {
+      "word": "model",
+      "spelling": "M, O, D, E, L",
+      "spoken_meaning": "名词，型号，模型，模特",
+      "en": "The latest model is lighter than the previous version.",
+      "zh": "最新型号比上一版更轻。"
+    },
+    {
+      "word": "modern",
+      "spelling": "M, O, D, E, R, N",
+      "spoken_meaning": "形容词，现代的",
+      "en": "The modern booking system lets guests change dates online.",
+      "zh": "现代预订系统允许客人在线更改日期。"
+    },
+    {
+      "word": "modest",
+      "spelling": "M, O, D, E, S, T",
+      "spoken_meaning": "形容词，不大的，谦虚的",
+      "en": "We expect a modest increase in bookings this spring.",
+      "zh": "我们预计今年春季预订量会有小幅增长。"
+    },
+    {
+      "word": "monopoly",
+      "spelling": "M, O, N, O, P, O, L, Y",
+      "spoken_meaning": "名词，垄断",
+      "en": "The regulator is reviewing whether the merger would create a monopoly.",
+      "zh": "监管机构正在审查此次合并是否会形成垄断。"
+    },
+    {
+      "word": "monthly",
+      "spelling": "M, O, N, T, H, L, Y",
+      "spoken_meaning": "形容词或副词，每月的，每月",
+      "en": "A monthly statement is emailed to every account holder.",
+      "zh": "每月对账单会通过电子邮件发给每位账户持有人。"
+    },
+    {
+      "word": "motel",
+      "spelling": "M, O, T, E, L",
+      "spoken_meaning": "名词，汽车旅馆",
+      "en": "A motel near the highway is reserved for the driving team.",
+      "zh": "已为驾驶小组在公路附近预订了汽车旅馆。"
+    },
+    {
+      "word": "motivation",
+      "spelling": "M, O, T, I, V, A, T, I, O, N",
+      "spoken_meaning": "名词，动机，积极性",
+      "en": "Recognition awards are meant to maintain motivation during a long project.",
+      "zh": "表彰奖旨在在长期项目中保持积极性。"
+    },
+    {
+      "word": "motive",
+      "spelling": "M, O, T, I, V, E",
+      "spoken_meaning": "名词，动机",
+      "en": "The survey asks about the main motive for switching suppliers.",
+      "zh": "调查询问更换供应商的主要动机。"
+    },
+    {
+      "word": "motor",
+      "spelling": "M, O, T, O, R",
+      "spoken_meaning": "名词，发动机，电动机",
+      "en": "The motor on conveyor three needs to be replaced this weekend.",
+      "zh": "三号输送带的电机需在本周末更换。"
+    },
+    {
+      "word": "multiple",
+      "spelling": "M, U, L, T, I, P, L, E",
+      "spoken_meaning": "形容词，多个的",
+      "en": "The form allows you to select multiple delivery dates.",
+      "zh": "该表格允许选择多个送货日期。"
+    },
+    {
+      "word": "nationwide",
+      "spelling": "N, A, T, I, O, N, W, I, D, E",
+      "spoken_meaning": "形容词或副词，全国的，全国范围内",
+      "en": "The recall applies to nationwide sales of this batch.",
+      "zh": "此次召回适用于该批次在全国的销售。"
+    },
+    {
+      "word": "necessary",
+      "spelling": "N, E, C, E, S, S, A, R, Y",
+      "spoken_meaning": "形容词，必要的",
+      "en": "A passport photo is necessary for the security badge.",
+      "zh": "办理安保胸牌必须提供护照照片。"
+    },
+    {
+      "word": "necessity",
+      "spelling": "N, E, C, E, S, S, I, T, Y",
+      "spoken_meaning": "名词，必要，必需品",
+      "en": "Early booking is a necessity during the conference week.",
+      "zh": "会议周期间有必要提前预订。"
+    },
+    {
+      "word": "negative",
+      "spelling": "N, E, G, A, T, I, V, E",
+      "spoken_meaning": "形容词，负面的，否定的",
+      "en": "Customer comments were negative about the long checkout line.",
+      "zh": "顾客对过长的结账队伍评价负面。"
+    },
+    {
+      "word": "neglect",
+      "spelling": "N, E, G, L, E, C, T",
+      "spoken_meaning": "动词或名词，疏忽，忽略",
+      "en": "Please do not neglect to sign the visitor log.",
+      "zh": "请不要忘了在访客登记簿上签字。"
+    },
+    {
+      "word": "negotiate",
+      "spelling": "N, E, G, O, T, I, A, T, E",
+      "spoken_meaning": "动词，谈判，协商",
+      "en": "We will negotiate the delivery schedule with the supplier tomorrow.",
+      "zh": "我们明天将与供应商协商交货时间表。"
+    },
+    {
+      "word": "negotiation",
+      "spelling": "N, E, G, O, T, I, A, T, I, O, N",
+      "spoken_meaning": "名词，谈判，协商",
+      "en": "Price negotiations are expected to last two days.",
+      "zh": "价格谈判预计将持续两天。"
+    },
+    {
+      "word": "neighborhood",
+      "spelling": "N, E, I, G, H, B, O, R, H, O, O, D",
+      "spoken_meaning": "名词，街区，附近地区",
+      "en": "The new clinic will serve businesses in the neighborhood.",
+      "zh": "新诊所将服务附近街区的企业。"
+    },
+    {
+      "word": "network",
+      "spelling": "N, E, T, W, O, R, K",
+      "spoken_meaning": "名词或动词，网络，建立联系",
+      "en": "The printer is not connected to the office network.",
+      "zh": "打印机未连接到办公网络。"
+    },
+    {
+      "word": "neutral",
+      "spelling": "N, E, U, T, R, A, L",
+      "spoken_meaning": "形容词，中立的，中性的",
+      "en": "Please keep the announcement in a neutral tone.",
+      "zh": "请用中立的语气撰写该公告。"
+    },
+    {
+      "word": "newspaper",
+      "spelling": "N, E, W, S, P, A, P, E, R",
+      "spoken_meaning": "名词，报纸",
+      "en": "The job ad will appear in the Sunday newspaper.",
+      "zh": "招聘广告将刊登在周日的报纸上。"
+    },
+    {
+      "word": "nomination",
+      "spelling": "N, O, M, I, N, A, T, I, O, N",
+      "spoken_meaning": "名词，提名",
+      "en": "Nominations for the service award close on Friday.",
+      "zh": "服务奖的提名于周五截止。"
+    },
+    {
+      "word": "normally",
+      "spelling": "N, O, R, M, A, L, L, Y",
+      "spoken_meaning": "副词，通常，按常规",
+      "en": "The cafeteria is normally open until 7 p.m. on weekdays.",
+      "zh": "食堂工作日通常开放到晚上7点。"
+    },
+    {
+      "word": "notebook",
+      "spelling": "N, O, T, E, B, O, O, K",
+      "spoken_meaning": "名词，笔记本",
+      "en": "Please bring a notebook to the workshop.",
+      "zh": "请带一本笔记本参加研讨。"
+    },
+    {
+      "word": "notice",
+      "spelling": "N, O, T, I, C, E",
+      "spoken_meaning": "名词或动词，通知，注意到",
+      "en": "Written notice of a price change will be sent 30 days in advance.",
+      "zh": "价格变更的书面通知将提前30天发出。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第78轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "minority",
+      "voice": "en",
+      "text": "minority",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "minority",
+      "voice": "en",
+      "text": "M, I, N, O, R, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "minority",
+      "voice": "zh",
+      "text": "名词，少数，少数股权",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "minority",
+      "voice": "en",
+      "text": "A minority of shareholders opposed the merger.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "minority",
+      "voice": "zh",
+      "text": "少数股东反对这项合并。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mislead",
+      "voice": "en",
+      "text": "mislead",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mislead",
+      "voice": "en",
+      "text": "M, I, S, L, E, A, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mislead",
+      "voice": "zh",
+      "text": "动词，误导",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mislead",
+      "voice": "en",
+      "text": "The advertisement must not mislead customers about the warranty.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mislead",
+      "voice": "zh",
+      "text": "广告不得在保修方面误导顾客。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mission",
+      "voice": "en",
+      "text": "mission",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mission",
+      "voice": "en",
+      "text": "M, I, S, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mission",
+      "voice": "zh",
+      "text": "名词，使命，任务",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mission",
+      "voice": "en",
+      "text": "The trade mission will visit three factories in two days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mission",
+      "voice": "zh",
+      "text": "此次商务考察将在两天内参观三家工厂。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mistake",
+      "voice": "en",
+      "text": "mistake",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mistake",
+      "voice": "en",
+      "text": "M, I, S, T, A, K, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mistake",
+      "voice": "zh",
+      "text": "名词，错误",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mistake",
+      "voice": "en",
+      "text": "Please correct the address mistake before the labels are printed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mistake",
+      "voice": "zh",
+      "text": "在打印标签前请更正地址错误。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mobile",
+      "voice": "en",
+      "text": "mobile",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mobile",
+      "voice": "en",
+      "text": "M, O, B, I, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mobile",
+      "voice": "zh",
+      "text": "形容词或名词，可移动的，手机",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mobile",
+      "voice": "en",
+      "text": "A mobile payment terminal will be used at the outdoor stall.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mobile",
+      "voice": "zh",
+      "text": "户外摊位将使用移动支付终端。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "model",
+      "voice": "en",
+      "text": "model",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "model",
+      "voice": "en",
+      "text": "M, O, D, E, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "model",
+      "voice": "zh",
+      "text": "名词，型号，模型，模特",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "model",
+      "voice": "en",
+      "text": "The latest model is lighter than the previous version.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "model",
+      "voice": "zh",
+      "text": "最新型号比上一版更轻。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "modern",
+      "voice": "en",
+      "text": "modern",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "modern",
+      "voice": "en",
+      "text": "M, O, D, E, R, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "modern",
+      "voice": "zh",
+      "text": "形容词，现代的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "modern",
+      "voice": "en",
+      "text": "The modern booking system lets guests change dates online.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "modern",
+      "voice": "zh",
+      "text": "现代预订系统允许客人在线更改日期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "modest",
+      "voice": "en",
+      "text": "modest",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "modest",
+      "voice": "en",
+      "text": "M, O, D, E, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "modest",
+      "voice": "zh",
+      "text": "形容词，不大的，谦虚的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "modest",
+      "voice": "en",
+      "text": "We expect a modest increase in bookings this spring.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "modest",
+      "voice": "zh",
+      "text": "我们预计今年春季预订量会有小幅增长。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "monopoly",
+      "voice": "en",
+      "text": "monopoly",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "monopoly",
+      "voice": "en",
+      "text": "M, O, N, O, P, O, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "monopoly",
+      "voice": "zh",
+      "text": "名词，垄断",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "monopoly",
+      "voice": "en",
+      "text": "The regulator is reviewing whether the merger would create a monopoly.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "monopoly",
+      "voice": "zh",
+      "text": "监管机构正在审查此次合并是否会形成垄断。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "monthly",
+      "voice": "en",
+      "text": "monthly",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "monthly",
+      "voice": "en",
+      "text": "M, O, N, T, H, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "monthly",
+      "voice": "zh",
+      "text": "形容词或副词，每月的，每月",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "monthly",
+      "voice": "en",
+      "text": "A monthly statement is emailed to every account holder.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "monthly",
+      "voice": "zh",
+      "text": "每月对账单会通过电子邮件发给每位账户持有人。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "motel",
+      "voice": "en",
+      "text": "motel",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "motel",
+      "voice": "en",
+      "text": "M, O, T, E, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "motel",
+      "voice": "zh",
+      "text": "名词，汽车旅馆",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "motel",
+      "voice": "en",
+      "text": "A motel near the highway is reserved for the driving team.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "motel",
+      "voice": "zh",
+      "text": "已为驾驶小组在公路附近预订了汽车旅馆。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "motivation",
+      "voice": "en",
+      "text": "motivation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "motivation",
+      "voice": "en",
+      "text": "M, O, T, I, V, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "motivation",
+      "voice": "zh",
+      "text": "名词，动机，积极性",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "motivation",
+      "voice": "en",
+      "text": "Recognition awards are meant to maintain motivation during a long project.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "motivation",
+      "voice": "zh",
+      "text": "表彰奖旨在在长期项目中保持积极性。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "motive",
+      "voice": "en",
+      "text": "motive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "motive",
+      "voice": "en",
+      "text": "M, O, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "motive",
+      "voice": "zh",
+      "text": "名词，动机",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "motive",
+      "voice": "en",
+      "text": "The survey asks about the main motive for switching suppliers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "motive",
+      "voice": "zh",
+      "text": "调查询问更换供应商的主要动机。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "motor",
+      "voice": "en",
+      "text": "motor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "motor",
+      "voice": "en",
+      "text": "M, O, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "motor",
+      "voice": "zh",
+      "text": "名词，发动机，电动机",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "motor",
+      "voice": "en",
+      "text": "The motor on conveyor three needs to be replaced this weekend.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "motor",
+      "voice": "zh",
+      "text": "三号输送带的电机需在本周末更换。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "multiple",
+      "voice": "en",
+      "text": "multiple",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "multiple",
+      "voice": "en",
+      "text": "M, U, L, T, I, P, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "multiple",
+      "voice": "zh",
+      "text": "形容词，多个的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "multiple",
+      "voice": "en",
+      "text": "The form allows you to select multiple delivery dates.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "multiple",
+      "voice": "zh",
+      "text": "该表格允许选择多个送货日期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "nationwide",
+      "voice": "en",
+      "text": "nationwide",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "nationwide",
+      "voice": "en",
+      "text": "N, A, T, I, O, N, W, I, D, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "nationwide",
+      "voice": "zh",
+      "text": "形容词或副词，全国的，全国范围内",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "nationwide",
+      "voice": "en",
+      "text": "The recall applies to nationwide sales of this batch.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "nationwide",
+      "voice": "zh",
+      "text": "此次召回适用于该批次在全国的销售。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "necessary",
+      "voice": "en",
+      "text": "necessary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "necessary",
+      "voice": "en",
+      "text": "N, E, C, E, S, S, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "necessary",
+      "voice": "zh",
+      "text": "形容词，必要的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "necessary",
+      "voice": "en",
+      "text": "A passport photo is necessary for the security badge.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "necessary",
+      "voice": "zh",
+      "text": "办理安保胸牌必须提供护照照片。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "necessity",
+      "voice": "en",
+      "text": "necessity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "necessity",
+      "voice": "en",
+      "text": "N, E, C, E, S, S, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "necessity",
+      "voice": "zh",
+      "text": "名词，必要，必需品",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "necessity",
+      "voice": "en",
+      "text": "Early booking is a necessity during the conference week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "necessity",
+      "voice": "zh",
+      "text": "会议周期间有必要提前预订。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "negative",
+      "voice": "en",
+      "text": "negative",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "negative",
+      "voice": "en",
+      "text": "N, E, G, A, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "negative",
+      "voice": "zh",
+      "text": "形容词，负面的，否定的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "negative",
+      "voice": "en",
+      "text": "Customer comments were negative about the long checkout line.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "negative",
+      "voice": "zh",
+      "text": "顾客对过长的结账队伍评价负面。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "neglect",
+      "voice": "en",
+      "text": "neglect",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "neglect",
+      "voice": "en",
+      "text": "N, E, G, L, E, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "neglect",
+      "voice": "zh",
+      "text": "动词或名词，疏忽，忽略",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "neglect",
+      "voice": "en",
+      "text": "Please do not neglect to sign the visitor log.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "neglect",
+      "voice": "zh",
+      "text": "请不要忘了在访客登记簿上签字。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "negotiate",
+      "voice": "en",
+      "text": "negotiate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "negotiate",
+      "voice": "en",
+      "text": "N, E, G, O, T, I, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "negotiate",
+      "voice": "zh",
+      "text": "动词，谈判，协商",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "negotiate",
+      "voice": "en",
+      "text": "We will negotiate the delivery schedule with the supplier tomorrow.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "negotiate",
+      "voice": "zh",
+      "text": "我们明天将与供应商协商交货时间表。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "negotiation",
+      "voice": "en",
+      "text": "negotiation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "negotiation",
+      "voice": "en",
+      "text": "N, E, G, O, T, I, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "negotiation",
+      "voice": "zh",
+      "text": "名词，谈判，协商",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "negotiation",
+      "voice": "en",
+      "text": "Price negotiations are expected to last two days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "negotiation",
+      "voice": "zh",
+      "text": "价格谈判预计将持续两天。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "neighborhood",
+      "voice": "en",
+      "text": "neighborhood",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "neighborhood",
+      "voice": "en",
+      "text": "N, E, I, G, H, B, O, R, H, O, O, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "neighborhood",
+      "voice": "zh",
+      "text": "名词，街区，附近地区",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "neighborhood",
+      "voice": "en",
+      "text": "The new clinic will serve businesses in the neighborhood.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "neighborhood",
+      "voice": "zh",
+      "text": "新诊所将服务附近街区的企业。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "network",
+      "voice": "en",
+      "text": "network",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "network",
+      "voice": "en",
+      "text": "N, E, T, W, O, R, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "network",
+      "voice": "zh",
+      "text": "名词或动词，网络，建立联系",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "network",
+      "voice": "en",
+      "text": "The printer is not connected to the office network.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "network",
+      "voice": "zh",
+      "text": "打印机未连接到办公网络。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "neutral",
+      "voice": "en",
+      "text": "neutral",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "neutral",
+      "voice": "en",
+      "text": "N, E, U, T, R, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "neutral",
+      "voice": "zh",
+      "text": "形容词，中立的，中性的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "neutral",
+      "voice": "en",
+      "text": "Please keep the announcement in a neutral tone.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "neutral",
+      "voice": "zh",
+      "text": "请用中立的语气撰写该公告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "newspaper",
+      "voice": "en",
+      "text": "newspaper",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "newspaper",
+      "voice": "en",
+      "text": "N, E, W, S, P, A, P, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "newspaper",
+      "voice": "zh",
+      "text": "名词，报纸",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "newspaper",
+      "voice": "en",
+      "text": "The job ad will appear in the Sunday newspaper.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "newspaper",
+      "voice": "zh",
+      "text": "招聘广告将刊登在周日的报纸上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "nomination",
+      "voice": "en",
+      "text": "nomination",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "nomination",
+      "voice": "en",
+      "text": "N, O, M, I, N, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "nomination",
+      "voice": "zh",
+      "text": "名词，提名",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "nomination",
+      "voice": "en",
+      "text": "Nominations for the service award close on Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "nomination",
+      "voice": "zh",
+      "text": "服务奖的提名于周五截止。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "normally",
+      "voice": "en",
+      "text": "normally",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "normally",
+      "voice": "en",
+      "text": "N, O, R, M, A, L, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "normally",
+      "voice": "zh",
+      "text": "副词，通常，按常规",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "normally",
+      "voice": "en",
+      "text": "The cafeteria is normally open until 7 p.m. on weekdays.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "normally",
+      "voice": "zh",
+      "text": "食堂工作日通常开放到晚上7点。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "notebook",
+      "voice": "en",
+      "text": "notebook",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "notebook",
+      "voice": "en",
+      "text": "N, O, T, E, B, O, O, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "notebook",
+      "voice": "zh",
+      "text": "名词，笔记本",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "notebook",
+      "voice": "en",
+      "text": "Please bring a notebook to the workshop.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "notebook",
+      "voice": "zh",
+      "text": "请带一本笔记本参加研讨。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "notice",
+      "voice": "en",
+      "text": "notice",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "notice",
+      "voice": "en",
+      "text": "N, O, T, I, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "notice",
+      "voice": "zh",
+      "text": "名词或动词，通知，注意到",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "notice",
+      "voice": "en",
+      "text": "Written notice of a price change will be sent 30 days in advance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "notice",
+      "voice": "zh",
+      "text": "价格变更的书面通知将提前30天发出。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第78轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

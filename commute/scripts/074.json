@@ -1,0 +1,1314 @@
+{
+  "id": "074",
+  "track": 74,
+  "title": "第 74 轨",
+  "word_count": 30,
+  "headwords": [
+    "important",
+    "impress",
+    "impressive",
+    "improve",
+    "improvement",
+    "incident",
+    "include",
+    "increase",
+    "increasingly",
+    "independent",
+    "index",
+    "indication",
+    "individual",
+    "indoor",
+    "industrial",
+    "industry",
+    "inexpensive",
+    "influence",
+    "inform",
+    "informal",
+    "information",
+    "initial",
+    "initially",
+    "injury",
+    "input",
+    "insert",
+    "inspector",
+    "inspire",
+    "installation",
+    "instance"
+  ],
+  "entries": [
+    {
+      "word": "important",
+      "spelling": "I, M, P, O, R, T, A, N, T",
+      "spoken_meaning": "形容词，重要的",
+      "en": "It is important to save the confirmation number.",
+      "zh": "保存确认号很重要。"
+    },
+    {
+      "word": "impress",
+      "spelling": "I, M, P, R, E, S, S",
+      "spoken_meaning": "动词，给…留下印象，使佩服",
+      "en": "The plant tour impressed the visiting buyers.",
+      "zh": "工厂参观给来访的买方留下了深刻印象。"
+    },
+    {
+      "word": "impressive",
+      "spelling": "I, M, P, R, E, S, S, I, V, E",
+      "spoken_meaning": "形容词，令人印象深刻的",
+      "en": "The team made impressive progress on the backlog this week.",
+      "zh": "团队本周在清理积压订单上取得了令人印象深刻的进展。"
+    },
+    {
+      "word": "improve",
+      "spelling": "I, M, P, R, O, V, E",
+      "spoken_meaning": "动词，改进，改善",
+      "en": "A new checklist should improve accuracy during the stock count.",
+      "zh": "新的检查清单应能提高盘点准确性。"
+    },
+    {
+      "word": "improvement",
+      "spelling": "I, M, P, R, O, V, E, M, E, N, T",
+      "spoken_meaning": "名词，改进，改善",
+      "en": "Customer scores showed a clear improvement after the training.",
+      "zh": "培训后客户评分有明显改善。"
+    },
+    {
+      "word": "incident",
+      "spelling": "I, N, C, I, D, E, N, T",
+      "spoken_meaning": "名词，事件，事故",
+      "en": "Please record the incident in the safety log before the end of the shift.",
+      "zh": "请在本班次结束前把该事件记入安全日志。"
+    },
+    {
+      "word": "include",
+      "spelling": "I, N, C, L, U, D, E",
+      "spoken_meaning": "动词，包括",
+      "en": "The conference fee includes lunch and printed materials.",
+      "zh": "会议费用包括午餐和印刷资料。"
+    },
+    {
+      "word": "increase",
+      "spelling": "I, N, C, R, E, A, S, E",
+      "spoken_meaning": "动词或名词，增加",
+      "en": "We expect an increase in orders after the trade show.",
+      "zh": "我们预计展会后订单会增加。"
+    },
+    {
+      "word": "increasingly",
+      "spelling": "I, N, C, R, E, A, S, I, N, G, L, Y",
+      "spoken_meaning": "副词，越来越，日益",
+      "en": "Customers are increasingly asking for same-day delivery.",
+      "zh": "客户越来越多地要求当日送达。"
+    },
+    {
+      "word": "independent",
+      "spelling": "I, N, D, E, P, E, N, D, E, N, T",
+      "spoken_meaning": "形容词，独立的",
+      "en": "An independent inspector will test the equipment before handover.",
+      "zh": "独立检查员将在交接前测试设备。"
+    },
+    {
+      "word": "index",
+      "spelling": "I, N, D, E, X",
+      "spoken_meaning": "名词或动词，指数，索引",
+      "en": "Salaries are indexed to inflation once a year.",
+      "zh": "薪资每年按通胀指数调整一次。"
+    },
+    {
+      "word": "indication",
+      "spelling": "I, N, D, I, C, A, T, I, O, N",
+      "spoken_meaning": "名词，迹象，指示",
+      "en": "There is no indication that the shipment was damaged in transit.",
+      "zh": "没有迹象表明货物在运输途中受损。"
+    },
+    {
+      "word": "individual",
+      "spelling": "I, N, D, I, V, I, D, U, A, L",
+      "spoken_meaning": "名词或形容词，个人，单独的",
+      "en": "Each individual participant will receive a certificate.",
+      "zh": "每位参加者都将获得一份证书。"
+    },
+    {
+      "word": "indoor",
+      "spelling": "I, N, D, O, O, R",
+      "spoken_meaning": "形容词，室内的",
+      "en": "The indoor exhibition hall is located behind the registration desk.",
+      "zh": "室内展厅位于报到处后面。"
+    },
+    {
+      "word": "industrial",
+      "spelling": "I, N, D, U, S, T, R, I, A, L",
+      "spoken_meaning": "形容词，工业的",
+      "en": "The industrial park has a shuttle to the commuter rail station.",
+      "zh": "工业园有班车前往通勤铁路车站。"
+    },
+    {
+      "word": "industry",
+      "spelling": "I, N, D, U, S, T, R, Y",
+      "spoken_meaning": "名词，行业，工业",
+      "en": "Safety standards in this industry were updated last year.",
+      "zh": "该行业的安全标准已于去年更新。"
+    },
+    {
+      "word": "inexpensive",
+      "spelling": "I, N, E, X, P, E, N, S, I, V, E",
+      "spoken_meaning": "形容词，便宜的，不昂贵的",
+      "en": "An inexpensive bus transfer is available from the airport.",
+      "zh": "从机场有便宜的巴士接驳。"
+    },
+    {
+      "word": "influence",
+      "spelling": "I, N, F, L, U, E, N, C, E",
+      "spoken_meaning": "名词或动词，影响",
+      "en": "Weather may influence the outdoor section of the exhibition.",
+      "zh": "天气可能影响展览的室外部分。"
+    },
+    {
+      "word": "inform",
+      "spelling": "I, N, F, O, R, M",
+      "spoken_meaning": "动词，通知，告知",
+      "en": "Please inform reception if your meeting runs past six o'clock.",
+      "zh": "如果会议开到六点以后，请通知前台。"
+    },
+    {
+      "word": "informal",
+      "spelling": "I, N, F, O, R, M, A, L",
+      "spoken_meaning": "形容词，非正式的",
+      "en": "An informal briefing will be held in the staff kitchen at 4 p.m.",
+      "zh": "下午4点将在员工厨房举行非正式情况说明。"
+    },
+    {
+      "word": "information",
+      "spelling": "I, N, F, O, R, M, A, T, I, O, N",
+      "spoken_meaning": "名词，信息，资料",
+      "en": "Further information about the benefits plan is on the intranet.",
+      "zh": "有关福利计划的更多信息可在内网上查阅。"
+    },
+    {
+      "word": "initial",
+      "spelling": "I, N, I, T, I, A, L",
+      "spoken_meaning": "形容词或名词，最初的，首字母",
+      "en": "The initial shipment will be smaller while we test demand.",
+      "zh": "在测试需求期间，首批货物数量会较少。"
+    },
+    {
+      "word": "initially",
+      "spelling": "I, N, I, T, I, A, L, L, Y",
+      "spoken_meaning": "副词，最初，起初",
+      "en": "The help desk will initially operate only during office hours.",
+      "zh": "服务台起初仅在办公时间运作。"
+    },
+    {
+      "word": "injury",
+      "spelling": "I, N, J, U, R, Y",
+      "spoken_meaning": "名词，受伤，伤害",
+      "en": "Any injury in the warehouse must be reported the same day.",
+      "zh": "仓库内的任何受伤都必须在当天报告。"
+    },
+    {
+      "word": "input",
+      "spelling": "I, N, P, U, T",
+      "spoken_meaning": "名词或动词，输入，投入",
+      "en": "Please input the new vendor details before Friday.",
+      "zh": "请在周五前输入新供应商的资料。"
+    },
+    {
+      "word": "insert",
+      "spelling": "I, N, S, E, R, T",
+      "spoken_meaning": "动词或名词，插入，插页",
+      "en": "Please insert the updated price sheet into every catalogue.",
+      "zh": "请把更新后的价目表插入每本目录。"
+    },
+    {
+      "word": "inspector",
+      "spelling": "I, N, S, P, E, C, T, O, R",
+      "spoken_meaning": "名词，检查员，督察",
+      "en": "A safety inspector will walk the floor at 10 a.m.",
+      "zh": "安全检查员将于上午10点巡视现场。"
+    },
+    {
+      "word": "inspire",
+      "spelling": "I, N, S, P, I, R, E",
+      "spoken_meaning": "动词，激励，启发",
+      "en": "The award is meant to inspire other teams to share good practices.",
+      "zh": "该奖项旨在激励其他团队分享好做法。"
+    },
+    {
+      "word": "installation",
+      "spelling": "I, N, S, T, A, L, L, A, T, I, O, N",
+      "spoken_meaning": "名词，安装",
+      "en": "Installation of the new scanners will take place after closing time.",
+      "zh": "新扫描器的安装将在打烊后进行。"
+    },
+    {
+      "word": "instance",
+      "spelling": "I, N, S, T, A, N, C, E",
+      "spoken_meaning": "名词，例子，情况",
+      "en": "In this instance, the customer is entitled to a full refund.",
+      "zh": "在这种情况下，客户有权获得全额退款。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第74轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "important",
+      "voice": "en",
+      "text": "important",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "important",
+      "voice": "en",
+      "text": "I, M, P, O, R, T, A, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "important",
+      "voice": "zh",
+      "text": "形容词，重要的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "important",
+      "voice": "en",
+      "text": "It is important to save the confirmation number.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "important",
+      "voice": "zh",
+      "text": "保存确认号很重要。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "impress",
+      "voice": "en",
+      "text": "impress",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "impress",
+      "voice": "en",
+      "text": "I, M, P, R, E, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "impress",
+      "voice": "zh",
+      "text": "动词，给…留下印象，使佩服",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "impress",
+      "voice": "en",
+      "text": "The plant tour impressed the visiting buyers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "impress",
+      "voice": "zh",
+      "text": "工厂参观给来访的买方留下了深刻印象。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "impressive",
+      "voice": "en",
+      "text": "impressive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "impressive",
+      "voice": "en",
+      "text": "I, M, P, R, E, S, S, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "impressive",
+      "voice": "zh",
+      "text": "形容词，令人印象深刻的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "impressive",
+      "voice": "en",
+      "text": "The team made impressive progress on the backlog this week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "impressive",
+      "voice": "zh",
+      "text": "团队本周在清理积压订单上取得了令人印象深刻的进展。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "improve",
+      "voice": "en",
+      "text": "improve",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "improve",
+      "voice": "en",
+      "text": "I, M, P, R, O, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "improve",
+      "voice": "zh",
+      "text": "动词，改进，改善",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "improve",
+      "voice": "en",
+      "text": "A new checklist should improve accuracy during the stock count.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "improve",
+      "voice": "zh",
+      "text": "新的检查清单应能提高盘点准确性。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "improvement",
+      "voice": "en",
+      "text": "improvement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "improvement",
+      "voice": "en",
+      "text": "I, M, P, R, O, V, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "improvement",
+      "voice": "zh",
+      "text": "名词，改进，改善",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "improvement",
+      "voice": "en",
+      "text": "Customer scores showed a clear improvement after the training.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "improvement",
+      "voice": "zh",
+      "text": "培训后客户评分有明显改善。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "incident",
+      "voice": "en",
+      "text": "incident",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "incident",
+      "voice": "en",
+      "text": "I, N, C, I, D, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "incident",
+      "voice": "zh",
+      "text": "名词，事件，事故",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "incident",
+      "voice": "en",
+      "text": "Please record the incident in the safety log before the end of the shift.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "incident",
+      "voice": "zh",
+      "text": "请在本班次结束前把该事件记入安全日志。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "include",
+      "voice": "en",
+      "text": "include",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "include",
+      "voice": "en",
+      "text": "I, N, C, L, U, D, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "include",
+      "voice": "zh",
+      "text": "动词，包括",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "include",
+      "voice": "en",
+      "text": "The conference fee includes lunch and printed materials.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "include",
+      "voice": "zh",
+      "text": "会议费用包括午餐和印刷资料。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "increase",
+      "voice": "en",
+      "text": "increase",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "increase",
+      "voice": "en",
+      "text": "I, N, C, R, E, A, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "increase",
+      "voice": "zh",
+      "text": "动词或名词，增加",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "increase",
+      "voice": "en",
+      "text": "We expect an increase in orders after the trade show.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "increase",
+      "voice": "zh",
+      "text": "我们预计展会后订单会增加。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "increasingly",
+      "voice": "en",
+      "text": "increasingly",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "increasingly",
+      "voice": "en",
+      "text": "I, N, C, R, E, A, S, I, N, G, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "increasingly",
+      "voice": "zh",
+      "text": "副词，越来越，日益",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "increasingly",
+      "voice": "en",
+      "text": "Customers are increasingly asking for same-day delivery.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "increasingly",
+      "voice": "zh",
+      "text": "客户越来越多地要求当日送达。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "independent",
+      "voice": "en",
+      "text": "independent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "independent",
+      "voice": "en",
+      "text": "I, N, D, E, P, E, N, D, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "independent",
+      "voice": "zh",
+      "text": "形容词，独立的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "independent",
+      "voice": "en",
+      "text": "An independent inspector will test the equipment before handover.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "independent",
+      "voice": "zh",
+      "text": "独立检查员将在交接前测试设备。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "index",
+      "voice": "en",
+      "text": "index",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "index",
+      "voice": "en",
+      "text": "I, N, D, E, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "index",
+      "voice": "zh",
+      "text": "名词或动词，指数，索引",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "index",
+      "voice": "en",
+      "text": "Salaries are indexed to inflation once a year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "index",
+      "voice": "zh",
+      "text": "薪资每年按通胀指数调整一次。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "indication",
+      "voice": "en",
+      "text": "indication",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "indication",
+      "voice": "en",
+      "text": "I, N, D, I, C, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "indication",
+      "voice": "zh",
+      "text": "名词，迹象，指示",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "indication",
+      "voice": "en",
+      "text": "There is no indication that the shipment was damaged in transit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "indication",
+      "voice": "zh",
+      "text": "没有迹象表明货物在运输途中受损。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "individual",
+      "voice": "en",
+      "text": "individual",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "individual",
+      "voice": "en",
+      "text": "I, N, D, I, V, I, D, U, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "individual",
+      "voice": "zh",
+      "text": "名词或形容词，个人，单独的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "individual",
+      "voice": "en",
+      "text": "Each individual participant will receive a certificate.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "individual",
+      "voice": "zh",
+      "text": "每位参加者都将获得一份证书。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "indoor",
+      "voice": "en",
+      "text": "indoor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "indoor",
+      "voice": "en",
+      "text": "I, N, D, O, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "indoor",
+      "voice": "zh",
+      "text": "形容词，室内的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "indoor",
+      "voice": "en",
+      "text": "The indoor exhibition hall is located behind the registration desk.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "indoor",
+      "voice": "zh",
+      "text": "室内展厅位于报到处后面。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "industrial",
+      "voice": "en",
+      "text": "industrial",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "industrial",
+      "voice": "en",
+      "text": "I, N, D, U, S, T, R, I, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "industrial",
+      "voice": "zh",
+      "text": "形容词，工业的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "industrial",
+      "voice": "en",
+      "text": "The industrial park has a shuttle to the commuter rail station.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "industrial",
+      "voice": "zh",
+      "text": "工业园有班车前往通勤铁路车站。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "industry",
+      "voice": "en",
+      "text": "industry",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "industry",
+      "voice": "en",
+      "text": "I, N, D, U, S, T, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "industry",
+      "voice": "zh",
+      "text": "名词，行业，工业",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "industry",
+      "voice": "en",
+      "text": "Safety standards in this industry were updated last year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "industry",
+      "voice": "zh",
+      "text": "该行业的安全标准已于去年更新。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "inexpensive",
+      "voice": "en",
+      "text": "inexpensive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "inexpensive",
+      "voice": "en",
+      "text": "I, N, E, X, P, E, N, S, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "inexpensive",
+      "voice": "zh",
+      "text": "形容词，便宜的，不昂贵的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "inexpensive",
+      "voice": "en",
+      "text": "An inexpensive bus transfer is available from the airport.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "inexpensive",
+      "voice": "zh",
+      "text": "从机场有便宜的巴士接驳。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "influence",
+      "voice": "en",
+      "text": "influence",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "influence",
+      "voice": "en",
+      "text": "I, N, F, L, U, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "influence",
+      "voice": "zh",
+      "text": "名词或动词，影响",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "influence",
+      "voice": "en",
+      "text": "Weather may influence the outdoor section of the exhibition.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "influence",
+      "voice": "zh",
+      "text": "天气可能影响展览的室外部分。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "inform",
+      "voice": "en",
+      "text": "inform",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "inform",
+      "voice": "en",
+      "text": "I, N, F, O, R, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "inform",
+      "voice": "zh",
+      "text": "动词，通知，告知",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "inform",
+      "voice": "en",
+      "text": "Please inform reception if your meeting runs past six o'clock.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "inform",
+      "voice": "zh",
+      "text": "如果会议开到六点以后，请通知前台。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "informal",
+      "voice": "en",
+      "text": "informal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "informal",
+      "voice": "en",
+      "text": "I, N, F, O, R, M, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "informal",
+      "voice": "zh",
+      "text": "形容词，非正式的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "informal",
+      "voice": "en",
+      "text": "An informal briefing will be held in the staff kitchen at 4 p.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "informal",
+      "voice": "zh",
+      "text": "下午4点将在员工厨房举行非正式情况说明。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "information",
+      "voice": "en",
+      "text": "information",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "information",
+      "voice": "en",
+      "text": "I, N, F, O, R, M, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "information",
+      "voice": "zh",
+      "text": "名词，信息，资料",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "information",
+      "voice": "en",
+      "text": "Further information about the benefits plan is on the intranet.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "information",
+      "voice": "zh",
+      "text": "有关福利计划的更多信息可在内网上查阅。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "initial",
+      "voice": "en",
+      "text": "initial",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "initial",
+      "voice": "en",
+      "text": "I, N, I, T, I, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "initial",
+      "voice": "zh",
+      "text": "形容词或名词，最初的，首字母",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "initial",
+      "voice": "en",
+      "text": "The initial shipment will be smaller while we test demand.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "initial",
+      "voice": "zh",
+      "text": "在测试需求期间，首批货物数量会较少。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "initially",
+      "voice": "en",
+      "text": "initially",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "initially",
+      "voice": "en",
+      "text": "I, N, I, T, I, A, L, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "initially",
+      "voice": "zh",
+      "text": "副词，最初，起初",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "initially",
+      "voice": "en",
+      "text": "The help desk will initially operate only during office hours.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "initially",
+      "voice": "zh",
+      "text": "服务台起初仅在办公时间运作。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "injury",
+      "voice": "en",
+      "text": "injury",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "injury",
+      "voice": "en",
+      "text": "I, N, J, U, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "injury",
+      "voice": "zh",
+      "text": "名词，受伤，伤害",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "injury",
+      "voice": "en",
+      "text": "Any injury in the warehouse must be reported the same day.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "injury",
+      "voice": "zh",
+      "text": "仓库内的任何受伤都必须在当天报告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "input",
+      "voice": "en",
+      "text": "input",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "input",
+      "voice": "en",
+      "text": "I, N, P, U, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "input",
+      "voice": "zh",
+      "text": "名词或动词，输入，投入",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "input",
+      "voice": "en",
+      "text": "Please input the new vendor details before Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "input",
+      "voice": "zh",
+      "text": "请在周五前输入新供应商的资料。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "insert",
+      "voice": "en",
+      "text": "insert",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "insert",
+      "voice": "en",
+      "text": "I, N, S, E, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "insert",
+      "voice": "zh",
+      "text": "动词或名词，插入，插页",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "insert",
+      "voice": "en",
+      "text": "Please insert the updated price sheet into every catalogue.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "insert",
+      "voice": "zh",
+      "text": "请把更新后的价目表插入每本目录。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "inspector",
+      "voice": "en",
+      "text": "inspector",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "inspector",
+      "voice": "en",
+      "text": "I, N, S, P, E, C, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "inspector",
+      "voice": "zh",
+      "text": "名词，检查员，督察",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "inspector",
+      "voice": "en",
+      "text": "A safety inspector will walk the floor at 10 a.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "inspector",
+      "voice": "zh",
+      "text": "安全检查员将于上午10点巡视现场。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "inspire",
+      "voice": "en",
+      "text": "inspire",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "inspire",
+      "voice": "en",
+      "text": "I, N, S, P, I, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "inspire",
+      "voice": "zh",
+      "text": "动词，激励，启发",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "inspire",
+      "voice": "en",
+      "text": "The award is meant to inspire other teams to share good practices.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "inspire",
+      "voice": "zh",
+      "text": "该奖项旨在激励其他团队分享好做法。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "installation",
+      "voice": "en",
+      "text": "installation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "installation",
+      "voice": "en",
+      "text": "I, N, S, T, A, L, L, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "installation",
+      "voice": "zh",
+      "text": "名词，安装",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "installation",
+      "voice": "en",
+      "text": "Installation of the new scanners will take place after closing time.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "installation",
+      "voice": "zh",
+      "text": "新扫描器的安装将在打烊后进行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "instance",
+      "voice": "en",
+      "text": "instance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "instance",
+      "voice": "en",
+      "text": "I, N, S, T, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "instance",
+      "voice": "zh",
+      "text": "名词，例子，情况",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "instance",
+      "voice": "en",
+      "text": "In this instance, the customer is entitled to a full refund.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "instance",
+      "voice": "zh",
+      "text": "在这种情况下，客户有权获得全额退款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第74轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

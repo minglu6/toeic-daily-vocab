@@ -1,0 +1,1314 @@
+{
+  "id": "077",
+  "track": 77,
+  "title": "第 77 轨",
+  "word_count": 30,
+  "headwords": [
+    "machine",
+    "machinery",
+    "magazine",
+    "mail",
+    "majority",
+    "manufacturer",
+    "manufacturing",
+    "marketing",
+    "material",
+    "mature",
+    "maximum",
+    "measure",
+    "measurement",
+    "mechanic",
+    "mechanical",
+    "mechanism",
+    "media",
+    "medical",
+    "medicine",
+    "membership",
+    "mention",
+    "menu",
+    "merchant",
+    "merit",
+    "message",
+    "method",
+    "minimum",
+    "minister",
+    "ministry",
+    "minor"
+  ],
+  "entries": [
+    {
+      "word": "machine",
+      "spelling": "M, A, C, H, I, N, E",
+      "spoken_meaning": "名词，机器",
+      "en": "The packing machine will be offline for servicing on Sunday.",
+      "zh": "包装机周日将停机检修。"
+    },
+    {
+      "word": "machinery",
+      "spelling": "M, A, C, H, I, N, E, R, Y",
+      "spoken_meaning": "名词，机器，机械",
+      "en": "Used machinery must be inspected before it is put back into service.",
+      "zh": "二手机械重新投入使用前必须检查。"
+    },
+    {
+      "word": "magazine",
+      "spelling": "M, A, G, A, Z, I, N, E",
+      "spoken_meaning": "名词，杂志，弹仓",
+      "en": "An advertisement will run in the trade magazine next month.",
+      "zh": "下月将在行业杂志上刊登广告。"
+    },
+    {
+      "word": "mail",
+      "spelling": "M, A, I, L",
+      "spoken_meaning": "名词或动词，邮件，邮寄",
+      "en": "Please mail the original certificates rather than sending copies.",
+      "zh": "请邮寄证书原件，不要只寄复印件。"
+    },
+    {
+      "word": "majority",
+      "spelling": "M, A, J, O, R, I, T, Y",
+      "spoken_meaning": "名词，大多数，多数股权",
+      "en": "A majority of staff voted for the new shift pattern.",
+      "zh": "多数员工投票支持新的排班方式。"
+    },
+    {
+      "word": "manufacturer",
+      "spelling": "M, A, N, U, F, A, C, T, U, R, E, R",
+      "spoken_meaning": "名词，制造商",
+      "en": "The manufacturer has issued a service bulletin for this model.",
+      "zh": "制造商已针对该型号发布了服务通告。"
+    },
+    {
+      "word": "manufacturing",
+      "spelling": "M, A, N, U, F, A, C, T, U, R, I, N, G",
+      "spoken_meaning": "名词，制造业，生产",
+      "en": "Manufacturing will move to the new plant in September.",
+      "zh": "生产将于九月转移到新工厂。"
+    },
+    {
+      "word": "marketing",
+      "spelling": "M, A, R, K, E, T, I, N, G",
+      "spoken_meaning": "名词，市场营销",
+      "en": "The marketing team is preparing a campaign for the spring collection.",
+      "zh": "市场团队正在为春季系列准备宣传活动。"
+    },
+    {
+      "word": "material",
+      "spelling": "M, A, T, E, R, I, A, L",
+      "spoken_meaning": "名词，材料，资料",
+      "en": "Training materials will be uploaded the day before the course.",
+      "zh": "培训资料将在课程前一天上传。"
+    },
+    {
+      "word": "mature",
+      "spelling": "M, A, T, U, R, E",
+      "spoken_meaning": "形容词或动词，到期的，成熟的",
+      "en": "The bond will mature at the end of next year.",
+      "zh": "该债券将于明年年底到期。"
+    },
+    {
+      "word": "maximum",
+      "spelling": "M, A, X, I, M, U, M",
+      "spoken_meaning": "名词或形容词，最大值，最高的",
+      "en": "The elevator has a maximum load of 1,000 kilograms.",
+      "zh": "电梯最大载重为1000公斤。"
+    },
+    {
+      "word": "measure",
+      "spelling": "M, E, A, S, U, R, E",
+      "spoken_meaning": "名词或动词，措施，测量",
+      "en": "New safety measures will take effect on Monday.",
+      "zh": "新的安全措施将于星期一生效。"
+    },
+    {
+      "word": "measurement",
+      "spelling": "M, E, A, S, U, R, E, M, E, N, T",
+      "spoken_meaning": "名词，测量，尺寸",
+      "en": "Please take a second measurement before cutting the panels.",
+      "zh": "切割板材前请再测量一次。"
+    },
+    {
+      "word": "mechanic",
+      "spelling": "M, E, C, H, A, N, I, C",
+      "spoken_meaning": "名词，机械师，技工",
+      "en": "A mechanic will inspect the delivery vans before the trip.",
+      "zh": "机械师将在出发前检查送货车。"
+    },
+    {
+      "word": "mechanical",
+      "spelling": "M, E, C, H, A, N, I, C, A, L",
+      "spoken_meaning": "形容词，机械的",
+      "en": "The delay was caused by a mechanical fault on the packing line.",
+      "zh": "延误是由包装线上的机械故障引起的。"
+    },
+    {
+      "word": "mechanism",
+      "spelling": "M, E, C, H, A, N, I, S, M",
+      "spoken_meaning": "名词，机制，机械装置",
+      "en": "A feedback mechanism has been added to the customer portal.",
+      "zh": "客户门户已增加反馈机制。"
+    },
+    {
+      "word": "media",
+      "spelling": "M, E, D, I, A",
+      "spoken_meaning": "名词，媒体，介质",
+      "en": "Please do not speak to the media without approval from communications.",
+      "zh": "未经传播部门批准，请勿接受媒体采访。"
+    },
+    {
+      "word": "medical",
+      "spelling": "M, E, D, I, C, A, L",
+      "spoken_meaning": "形容词，医疗的",
+      "en": "A medical certificate is required for absences longer than two days.",
+      "zh": "缺勤超过两天须提供医疗证明。"
+    },
+    {
+      "word": "medicine",
+      "spelling": "M, E, D, I, C, I, N, E",
+      "spoken_meaning": "名词，药物，医学",
+      "en": "Prescription medicine should be declared at customs.",
+      "zh": "处方药物应在海关申报。"
+    },
+    {
+      "word": "membership",
+      "spelling": "M, E, M, B, E, R, S, H, I, P",
+      "spoken_meaning": "名词，会员资格，会员人数",
+      "en": "Gym membership is included in the employee benefits package.",
+      "zh": "健身房会员资格包含在员工福利中。"
+    },
+    {
+      "word": "mention",
+      "spelling": "M, E, N, T, I, O, N",
+      "spoken_meaning": "动词或名词，提及",
+      "en": "Please mention the promotion code when you place the order.",
+      "zh": "下单时请提及促销代码。"
+    },
+    {
+      "word": "menu",
+      "spelling": "M, E, N, U",
+      "spoken_meaning": "名词，菜单，目录",
+      "en": "A vegetarian menu is available if requested 48 hours in advance.",
+      "zh": "若提前48小时提出，可提供素食菜单。"
+    },
+    {
+      "word": "merchant",
+      "spelling": "M, E, R, C, H, A, N, T",
+      "spoken_meaning": "名词，商人，商户",
+      "en": "Online merchants must display the return policy clearly.",
+      "zh": "网上商户必须清楚展示退货政策。"
+    },
+    {
+      "word": "merit",
+      "spelling": "M, E, R, I, T",
+      "spoken_meaning": "名词或动词，优点，值得",
+      "en": "The proposal has merit, but the budget needs more detail.",
+      "zh": "该提案有可取之处，但预算还需要更详细。"
+    },
+    {
+      "word": "message",
+      "spelling": "M, E, S, S, A, G, E",
+      "spoken_meaning": "名词，消息，留言",
+      "en": "Please leave a message with the receptionist if I am in a meeting.",
+      "zh": "如果我在开会，请给前台留言。"
+    },
+    {
+      "word": "method",
+      "spelling": "M, E, T, H, O, D",
+      "spoken_meaning": "名词，方法",
+      "en": "A safer method of lifting the crates is described in the manual.",
+      "zh": "手册中说明了更安全的搬箱方法。"
+    },
+    {
+      "word": "minimum",
+      "spelling": "M, I, N, I, M, U, M",
+      "spoken_meaning": "名词或形容词，最小值，最低的",
+      "en": "The minimum order is 50 units for this product.",
+      "zh": "该产品的最低起订量是50件。"
+    },
+    {
+      "word": "minister",
+      "spelling": "M, I, N, I, S, T, E, R",
+      "spoken_meaning": "名词，部长，大臣",
+      "en": "The trade minister will visit the exhibition on the opening day.",
+      "zh": "贸易部长将在开幕日参观展览。"
+    },
+    {
+      "word": "ministry",
+      "spelling": "M, I, N, I, S, T, R, Y",
+      "spoken_meaning": "名词，部，政府部门",
+      "en": "The ministry has issued new rules for food labeling.",
+      "zh": "该部已发布新的食品标签规定。"
+    },
+    {
+      "word": "minor",
+      "spelling": "M, I, N, O, R",
+      "spoken_meaning": "形容词，较小的，次要的",
+      "en": "Only minor changes were made to the seating plan.",
+      "zh": "座位安排只做了较小的改动。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第77轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "machine",
+      "voice": "en",
+      "text": "machine",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "machine",
+      "voice": "en",
+      "text": "M, A, C, H, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "machine",
+      "voice": "zh",
+      "text": "名词，机器",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "machine",
+      "voice": "en",
+      "text": "The packing machine will be offline for servicing on Sunday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "machine",
+      "voice": "zh",
+      "text": "包装机周日将停机检修。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "machinery",
+      "voice": "en",
+      "text": "machinery",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "machinery",
+      "voice": "en",
+      "text": "M, A, C, H, I, N, E, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "machinery",
+      "voice": "zh",
+      "text": "名词，机器，机械",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "machinery",
+      "voice": "en",
+      "text": "Used machinery must be inspected before it is put back into service.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "machinery",
+      "voice": "zh",
+      "text": "二手机械重新投入使用前必须检查。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "magazine",
+      "voice": "en",
+      "text": "magazine",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "magazine",
+      "voice": "en",
+      "text": "M, A, G, A, Z, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "magazine",
+      "voice": "zh",
+      "text": "名词，杂志，弹仓",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "magazine",
+      "voice": "en",
+      "text": "An advertisement will run in the trade magazine next month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "magazine",
+      "voice": "zh",
+      "text": "下月将在行业杂志上刊登广告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mail",
+      "voice": "en",
+      "text": "mail",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mail",
+      "voice": "en",
+      "text": "M, A, I, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mail",
+      "voice": "zh",
+      "text": "名词或动词，邮件，邮寄",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mail",
+      "voice": "en",
+      "text": "Please mail the original certificates rather than sending copies.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mail",
+      "voice": "zh",
+      "text": "请邮寄证书原件，不要只寄复印件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "majority",
+      "voice": "en",
+      "text": "majority",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "majority",
+      "voice": "en",
+      "text": "M, A, J, O, R, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "majority",
+      "voice": "zh",
+      "text": "名词，大多数，多数股权",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "majority",
+      "voice": "en",
+      "text": "A majority of staff voted for the new shift pattern.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "majority",
+      "voice": "zh",
+      "text": "多数员工投票支持新的排班方式。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "manufacturer",
+      "voice": "en",
+      "text": "manufacturer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "manufacturer",
+      "voice": "en",
+      "text": "M, A, N, U, F, A, C, T, U, R, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "manufacturer",
+      "voice": "zh",
+      "text": "名词，制造商",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "manufacturer",
+      "voice": "en",
+      "text": "The manufacturer has issued a service bulletin for this model.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "manufacturer",
+      "voice": "zh",
+      "text": "制造商已针对该型号发布了服务通告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "manufacturing",
+      "voice": "en",
+      "text": "manufacturing",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "manufacturing",
+      "voice": "en",
+      "text": "M, A, N, U, F, A, C, T, U, R, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "manufacturing",
+      "voice": "zh",
+      "text": "名词，制造业，生产",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "manufacturing",
+      "voice": "en",
+      "text": "Manufacturing will move to the new plant in September.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "manufacturing",
+      "voice": "zh",
+      "text": "生产将于九月转移到新工厂。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "marketing",
+      "voice": "en",
+      "text": "marketing",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "marketing",
+      "voice": "en",
+      "text": "M, A, R, K, E, T, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "marketing",
+      "voice": "zh",
+      "text": "名词，市场营销",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "marketing",
+      "voice": "en",
+      "text": "The marketing team is preparing a campaign for the spring collection.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "marketing",
+      "voice": "zh",
+      "text": "市场团队正在为春季系列准备宣传活动。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "material",
+      "voice": "en",
+      "text": "material",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "material",
+      "voice": "en",
+      "text": "M, A, T, E, R, I, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "material",
+      "voice": "zh",
+      "text": "名词，材料，资料",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "material",
+      "voice": "en",
+      "text": "Training materials will be uploaded the day before the course.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "material",
+      "voice": "zh",
+      "text": "培训资料将在课程前一天上传。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mature",
+      "voice": "en",
+      "text": "mature",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mature",
+      "voice": "en",
+      "text": "M, A, T, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mature",
+      "voice": "zh",
+      "text": "形容词或动词，到期的，成熟的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mature",
+      "voice": "en",
+      "text": "The bond will mature at the end of next year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mature",
+      "voice": "zh",
+      "text": "该债券将于明年年底到期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "maximum",
+      "voice": "en",
+      "text": "maximum",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "maximum",
+      "voice": "en",
+      "text": "M, A, X, I, M, U, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "maximum",
+      "voice": "zh",
+      "text": "名词或形容词，最大值，最高的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "maximum",
+      "voice": "en",
+      "text": "The elevator has a maximum load of 1,000 kilograms.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "maximum",
+      "voice": "zh",
+      "text": "电梯最大载重为1000公斤。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "measure",
+      "voice": "en",
+      "text": "measure",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "measure",
+      "voice": "en",
+      "text": "M, E, A, S, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "measure",
+      "voice": "zh",
+      "text": "名词或动词，措施，测量",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "measure",
+      "voice": "en",
+      "text": "New safety measures will take effect on Monday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "measure",
+      "voice": "zh",
+      "text": "新的安全措施将于星期一生效。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "measurement",
+      "voice": "en",
+      "text": "measurement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "measurement",
+      "voice": "en",
+      "text": "M, E, A, S, U, R, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "measurement",
+      "voice": "zh",
+      "text": "名词，测量，尺寸",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "measurement",
+      "voice": "en",
+      "text": "Please take a second measurement before cutting the panels.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "measurement",
+      "voice": "zh",
+      "text": "切割板材前请再测量一次。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mechanic",
+      "voice": "en",
+      "text": "mechanic",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mechanic",
+      "voice": "en",
+      "text": "M, E, C, H, A, N, I, C",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mechanic",
+      "voice": "zh",
+      "text": "名词，机械师，技工",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mechanic",
+      "voice": "en",
+      "text": "A mechanic will inspect the delivery vans before the trip.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mechanic",
+      "voice": "zh",
+      "text": "机械师将在出发前检查送货车。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mechanical",
+      "voice": "en",
+      "text": "mechanical",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mechanical",
+      "voice": "en",
+      "text": "M, E, C, H, A, N, I, C, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mechanical",
+      "voice": "zh",
+      "text": "形容词，机械的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mechanical",
+      "voice": "en",
+      "text": "The delay was caused by a mechanical fault on the packing line.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mechanical",
+      "voice": "zh",
+      "text": "延误是由包装线上的机械故障引起的。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mechanism",
+      "voice": "en",
+      "text": "mechanism",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mechanism",
+      "voice": "en",
+      "text": "M, E, C, H, A, N, I, S, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mechanism",
+      "voice": "zh",
+      "text": "名词，机制，机械装置",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mechanism",
+      "voice": "en",
+      "text": "A feedback mechanism has been added to the customer portal.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mechanism",
+      "voice": "zh",
+      "text": "客户门户已增加反馈机制。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "media",
+      "voice": "en",
+      "text": "media",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "media",
+      "voice": "en",
+      "text": "M, E, D, I, A",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "media",
+      "voice": "zh",
+      "text": "名词，媒体，介质",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "media",
+      "voice": "en",
+      "text": "Please do not speak to the media without approval from communications.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "media",
+      "voice": "zh",
+      "text": "未经传播部门批准，请勿接受媒体采访。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "medical",
+      "voice": "en",
+      "text": "medical",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "medical",
+      "voice": "en",
+      "text": "M, E, D, I, C, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "medical",
+      "voice": "zh",
+      "text": "形容词，医疗的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "medical",
+      "voice": "en",
+      "text": "A medical certificate is required for absences longer than two days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "medical",
+      "voice": "zh",
+      "text": "缺勤超过两天须提供医疗证明。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "medicine",
+      "voice": "en",
+      "text": "medicine",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "medicine",
+      "voice": "en",
+      "text": "M, E, D, I, C, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "medicine",
+      "voice": "zh",
+      "text": "名词，药物，医学",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "medicine",
+      "voice": "en",
+      "text": "Prescription medicine should be declared at customs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "medicine",
+      "voice": "zh",
+      "text": "处方药物应在海关申报。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "membership",
+      "voice": "en",
+      "text": "membership",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "membership",
+      "voice": "en",
+      "text": "M, E, M, B, E, R, S, H, I, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "membership",
+      "voice": "zh",
+      "text": "名词，会员资格，会员人数",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "membership",
+      "voice": "en",
+      "text": "Gym membership is included in the employee benefits package.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "membership",
+      "voice": "zh",
+      "text": "健身房会员资格包含在员工福利中。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mention",
+      "voice": "en",
+      "text": "mention",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mention",
+      "voice": "en",
+      "text": "M, E, N, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mention",
+      "voice": "zh",
+      "text": "动词或名词，提及",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mention",
+      "voice": "en",
+      "text": "Please mention the promotion code when you place the order.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mention",
+      "voice": "zh",
+      "text": "下单时请提及促销代码。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "menu",
+      "voice": "en",
+      "text": "menu",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "menu",
+      "voice": "en",
+      "text": "M, E, N, U",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "menu",
+      "voice": "zh",
+      "text": "名词，菜单，目录",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "menu",
+      "voice": "en",
+      "text": "A vegetarian menu is available if requested 48 hours in advance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "menu",
+      "voice": "zh",
+      "text": "若提前48小时提出，可提供素食菜单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "merchant",
+      "voice": "en",
+      "text": "merchant",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "merchant",
+      "voice": "en",
+      "text": "M, E, R, C, H, A, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "merchant",
+      "voice": "zh",
+      "text": "名词，商人，商户",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "merchant",
+      "voice": "en",
+      "text": "Online merchants must display the return policy clearly.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "merchant",
+      "voice": "zh",
+      "text": "网上商户必须清楚展示退货政策。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "merit",
+      "voice": "en",
+      "text": "merit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "merit",
+      "voice": "en",
+      "text": "M, E, R, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "merit",
+      "voice": "zh",
+      "text": "名词或动词，优点，值得",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "merit",
+      "voice": "en",
+      "text": "The proposal has merit, but the budget needs more detail.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "merit",
+      "voice": "zh",
+      "text": "该提案有可取之处，但预算还需要更详细。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "message",
+      "voice": "en",
+      "text": "message",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "message",
+      "voice": "en",
+      "text": "M, E, S, S, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "message",
+      "voice": "zh",
+      "text": "名词，消息，留言",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "message",
+      "voice": "en",
+      "text": "Please leave a message with the receptionist if I am in a meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "message",
+      "voice": "zh",
+      "text": "如果我在开会，请给前台留言。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "method",
+      "voice": "en",
+      "text": "method",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "method",
+      "voice": "en",
+      "text": "M, E, T, H, O, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "method",
+      "voice": "zh",
+      "text": "名词，方法",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "method",
+      "voice": "en",
+      "text": "A safer method of lifting the crates is described in the manual.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "method",
+      "voice": "zh",
+      "text": "手册中说明了更安全的搬箱方法。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "minimum",
+      "voice": "en",
+      "text": "minimum",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "minimum",
+      "voice": "en",
+      "text": "M, I, N, I, M, U, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "minimum",
+      "voice": "zh",
+      "text": "名词或形容词，最小值，最低的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "minimum",
+      "voice": "en",
+      "text": "The minimum order is 50 units for this product.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "minimum",
+      "voice": "zh",
+      "text": "该产品的最低起订量是50件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "minister",
+      "voice": "en",
+      "text": "minister",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "minister",
+      "voice": "en",
+      "text": "M, I, N, I, S, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "minister",
+      "voice": "zh",
+      "text": "名词，部长，大臣",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "minister",
+      "voice": "en",
+      "text": "The trade minister will visit the exhibition on the opening day.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "minister",
+      "voice": "zh",
+      "text": "贸易部长将在开幕日参观展览。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ministry",
+      "voice": "en",
+      "text": "ministry",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ministry",
+      "voice": "en",
+      "text": "M, I, N, I, S, T, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ministry",
+      "voice": "zh",
+      "text": "名词，部，政府部门",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ministry",
+      "voice": "en",
+      "text": "The ministry has issued new rules for food labeling.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ministry",
+      "voice": "zh",
+      "text": "该部已发布新的食品标签规定。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "minor",
+      "voice": "en",
+      "text": "minor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "minor",
+      "voice": "en",
+      "text": "M, I, N, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "minor",
+      "voice": "zh",
+      "text": "形容词，较小的，次要的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "minor",
+      "voice": "en",
+      "text": "Only minor changes were made to the seating plan.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "minor",
+      "voice": "zh",
+      "text": "座位安排只做了较小的改动。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第77轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

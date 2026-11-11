@@ -1,0 +1,1314 @@
+{
+  "id": "090",
+  "track": 90,
+  "title": "第 90 轨",
+  "word_count": 30,
+  "headwords": [
+    "successfully",
+    "suggestion",
+    "suit",
+    "suitcase",
+    "suite",
+    "summary",
+    "summit",
+    "supermarket",
+    "supervision",
+    "supervisor",
+    "supply",
+    "surface",
+    "survive",
+    "suspect",
+    "suspend",
+    "suspension",
+    "suspicious",
+    "switch",
+    "system",
+    "systematic",
+    "tackle",
+    "tactic",
+    "tailor",
+    "talent",
+    "talented",
+    "tape",
+    "tax",
+    "taxi",
+    "technical",
+    "technique"
+  ],
+  "entries": [
+    {
+      "word": "successfully",
+      "spelling": "S, U, C, C, E, S, S, F, U, L, L, Y",
+      "spoken_meaning": "副词，成功地",
+      "en": "The system was successfully upgraded over the weekend.",
+      "zh": "系统已在周末成功升级。"
+    },
+    {
+      "word": "suggestion",
+      "spelling": "S, U, G, G, E, S, T, I, O, N",
+      "spoken_meaning": "名词，建议",
+      "en": "Any suggestion for improving the checkout process is welcome.",
+      "zh": "欢迎提出改进结账流程的建议。"
+    },
+    {
+      "word": "suit",
+      "spelling": "S, U, I, T",
+      "spoken_meaning": "名词或动词，套装，适合",
+      "en": "Please wear a dark suit for the client meeting.",
+      "zh": "客户会议请穿深色套装。"
+    },
+    {
+      "word": "suitcase",
+      "spelling": "S, U, I, T, C, A, S, E",
+      "spoken_meaning": "名词，手提箱",
+      "en": "Oversized suitcases must be checked at the oversize counter.",
+      "zh": "超大手提箱须在超大行李柜台托运。"
+    },
+    {
+      "word": "suite",
+      "spelling": "S, U, I, T, E",
+      "spoken_meaning": "名词，套房，套件",
+      "en": "A meeting suite on the second floor has been reserved for the board.",
+      "zh": "已为董事会预订了二楼的会议套房。"
+    },
+    {
+      "word": "summary",
+      "spelling": "S, U, M, M, A, R, Y",
+      "spoken_meaning": "名词，摘要，总结",
+      "en": "A one-page summary is attached for busy readers.",
+      "zh": "为方便繁忙的读者，附上一页摘要。"
+    },
+    {
+      "word": "summit",
+      "spelling": "S, U, M, M, I, T",
+      "spoken_meaning": "名词，峰会，顶点",
+      "en": "The industry summit will be held in Singapore this year.",
+      "zh": "今年的行业峰会将在新加坡举行。"
+    },
+    {
+      "word": "supermarket",
+      "spelling": "S, U, P, E, R, M, A, R, K, E, T",
+      "spoken_meaning": "名词，超级市场",
+      "en": "The supermarket has asked for twice-weekly deliveries.",
+      "zh": "超市要求改为每周送货两次。"
+    },
+    {
+      "word": "supervision",
+      "spelling": "S, U, P, E, R, V, I, S, I, O, N",
+      "spoken_meaning": "名词，监督，管理",
+      "en": "Trainees may operate the machine only under supervision.",
+      "zh": "培训生只有在监督下才能操作这台机器。"
+    },
+    {
+      "word": "supervisor",
+      "spelling": "S, U, P, E, R, V, I, S, O, R",
+      "spoken_meaning": "名词，主管",
+      "en": "Please report the spill to the shift supervisor immediately.",
+      "zh": "请立即向当班主管报告泄漏情况。"
+    },
+    {
+      "word": "supply",
+      "spelling": "S, U, P, P, L, Y",
+      "spoken_meaning": "名词或动词，供应，供给",
+      "en": "A second company will supply packing cartons if demand rises.",
+      "zh": "如果需求上升，第二家公司将供应包装纸箱。"
+    },
+    {
+      "word": "surface",
+      "spelling": "S, U, R, F, A, C, E",
+      "spoken_meaning": "名词或动词，表面，浮现",
+      "en": "A scratch on the surface of the panel is not covered by the warranty.",
+      "zh": "面板表面的划痕不在保修范围内。"
+    },
+    {
+      "word": "survive",
+      "spelling": "S, U, R, V, I, V, E",
+      "spoken_meaning": "动词，幸存，挺过",
+      "en": "Small shops may not survive a long road closure.",
+      "zh": "长期封路可能让小店难以维持。"
+    },
+    {
+      "word": "suspect",
+      "spelling": "S, U, S, P, E, C, T",
+      "spoken_meaning": "动词或名词，怀疑，嫌疑人",
+      "en": "If you suspect a billing error, please contact accounts the same day.",
+      "zh": "如果怀疑账单有误，请在当天联系会计部门。"
+    },
+    {
+      "word": "suspend",
+      "spelling": "S, U, S, P, E, N, D",
+      "spoken_meaning": "动词，暂停，悬挂",
+      "en": "We may suspend deliveries if the invoice remains unpaid.",
+      "zh": "如果发票仍未支付，我们可能暂停送货。"
+    },
+    {
+      "word": "suspension",
+      "spelling": "S, U, S, P, E, N, S, I, O, N",
+      "spoken_meaning": "名词，暂停，悬挂，停职",
+      "en": "A temporary suspension of the shuttle is planned during the road work.",
+      "zh": "道路施工期间计划暂时停开班车。"
+    },
+    {
+      "word": "suspicious",
+      "spelling": "S, U, S, P, I, C, I, O, U, S",
+      "spoken_meaning": "形容词，可疑的",
+      "en": "Please report any suspicious packages to security.",
+      "zh": "如发现任何可疑包裹，请向安保报告。"
+    },
+    {
+      "word": "switch",
+      "spelling": "S, W, I, T, C, H",
+      "spoken_meaning": "动词或名词，切换，开关",
+      "en": "We will switch to the backup generator if the power fails.",
+      "zh": "如果停电，我们将切换到备用发电机。"
+    },
+    {
+      "word": "system",
+      "spelling": "S, Y, S, T, E, M",
+      "spoken_meaning": "名词，系统",
+      "en": "The booking system will be offline for an hour tonight.",
+      "zh": "预订系统今晚将离线一小时。"
+    },
+    {
+      "word": "systematic",
+      "spelling": "S, Y, S, T, E, M, A, T, I, C",
+      "spoken_meaning": "形容词，系统的，有条理的",
+      "en": "A systematic review of safety procedures will begin in May.",
+      "zh": "将于五月开始对安全程序进行系统审查。"
+    },
+    {
+      "word": "tackle",
+      "spelling": "T, A, C, K, L, E",
+      "spoken_meaning": "动词或名词，处理，应对",
+      "en": "A task force was formed to tackle the packing backlog.",
+      "zh": "已成立专项小组来处理打包积压。"
+    },
+    {
+      "word": "tactic",
+      "spelling": "T, A, C, T, I, C",
+      "spoken_meaning": "名词，策略，战术",
+      "en": "A common tactic is to offer a discount for early payment.",
+      "zh": "常用策略是为提前付款提供折扣。"
+    },
+    {
+      "word": "tailor",
+      "spelling": "T, A, I, L, O, R",
+      "spoken_meaning": "动词或名词，专门定制，裁缝",
+      "en": "We can tailor the training program to each department's needs.",
+      "zh": "我们可以按各部门的需求定制培训计划。"
+    },
+    {
+      "word": "talent",
+      "spelling": "T, A, L, E, N, T",
+      "spoken_meaning": "名词，人才，才能",
+      "en": "The firm is trying to retain talent in the engineering team.",
+      "zh": "公司正努力留住工程团队中的人才。"
+    },
+    {
+      "word": "talented",
+      "spelling": "T, A, L, E, N, T, E, D",
+      "spoken_meaning": "形容词，有才能的",
+      "en": "A talented designer has joined the packaging team.",
+      "zh": "一位有才能的设计师已加入包装团队。"
+    },
+    {
+      "word": "tape",
+      "spelling": "T, A, P, E",
+      "spoken_meaning": "名词或动词，胶带，录音带，录下",
+      "en": "Please tape the cartons securely before they are stacked.",
+      "zh": "堆放前请把纸箱用胶带封牢。"
+    },
+    {
+      "word": "tax",
+      "spelling": "T, A, X",
+      "spoken_meaning": "名词或动词，税，征税",
+      "en": "Please add the local tax as a separate line on the invoice.",
+      "zh": "请在发票上把地方税单独列为一行。"
+    },
+    {
+      "word": "taxi",
+      "spelling": "T, A, X, I",
+      "spoken_meaning": "名词，出租车",
+      "en": "A taxi stand is located just outside the hotel entrance.",
+      "zh": "酒店门口就有出租车站。"
+    },
+    {
+      "word": "technical",
+      "spelling": "T, E, C, H, N, I, C, A, L",
+      "spoken_meaning": "形容词，技术的",
+      "en": "A technical fault delayed the start of the online session.",
+      "zh": "技术故障推迟了在线会议的开始。"
+    },
+    {
+      "word": "technique",
+      "spelling": "T, E, C, H, N, I, Q, U, E",
+      "spoken_meaning": "名词，技巧，技术",
+      "en": "The manual describes a safer lifting technique.",
+      "zh": "手册介绍了一种更安全的搬运技巧。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第90轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "successfully",
+      "voice": "en",
+      "text": "successfully",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "successfully",
+      "voice": "en",
+      "text": "S, U, C, C, E, S, S, F, U, L, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "successfully",
+      "voice": "zh",
+      "text": "副词，成功地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "successfully",
+      "voice": "en",
+      "text": "The system was successfully upgraded over the weekend.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "successfully",
+      "voice": "zh",
+      "text": "系统已在周末成功升级。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "suggestion",
+      "voice": "en",
+      "text": "suggestion",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "suggestion",
+      "voice": "en",
+      "text": "S, U, G, G, E, S, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "suggestion",
+      "voice": "zh",
+      "text": "名词，建议",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "suggestion",
+      "voice": "en",
+      "text": "Any suggestion for improving the checkout process is welcome.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "suggestion",
+      "voice": "zh",
+      "text": "欢迎提出改进结账流程的建议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "suit",
+      "voice": "en",
+      "text": "suit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "suit",
+      "voice": "en",
+      "text": "S, U, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "suit",
+      "voice": "zh",
+      "text": "名词或动词，套装，适合",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "suit",
+      "voice": "en",
+      "text": "Please wear a dark suit for the client meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "suit",
+      "voice": "zh",
+      "text": "客户会议请穿深色套装。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "suitcase",
+      "voice": "en",
+      "text": "suitcase",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "suitcase",
+      "voice": "en",
+      "text": "S, U, I, T, C, A, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "suitcase",
+      "voice": "zh",
+      "text": "名词，手提箱",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "suitcase",
+      "voice": "en",
+      "text": "Oversized suitcases must be checked at the oversize counter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "suitcase",
+      "voice": "zh",
+      "text": "超大手提箱须在超大行李柜台托运。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "suite",
+      "voice": "en",
+      "text": "suite",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "suite",
+      "voice": "en",
+      "text": "S, U, I, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "suite",
+      "voice": "zh",
+      "text": "名词，套房，套件",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "suite",
+      "voice": "en",
+      "text": "A meeting suite on the second floor has been reserved for the board.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "suite",
+      "voice": "zh",
+      "text": "已为董事会预订了二楼的会议套房。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "summary",
+      "voice": "en",
+      "text": "summary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "summary",
+      "voice": "en",
+      "text": "S, U, M, M, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "summary",
+      "voice": "zh",
+      "text": "名词，摘要，总结",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "summary",
+      "voice": "en",
+      "text": "A one-page summary is attached for busy readers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "summary",
+      "voice": "zh",
+      "text": "为方便繁忙的读者，附上一页摘要。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "summit",
+      "voice": "en",
+      "text": "summit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "summit",
+      "voice": "en",
+      "text": "S, U, M, M, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "summit",
+      "voice": "zh",
+      "text": "名词，峰会，顶点",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "summit",
+      "voice": "en",
+      "text": "The industry summit will be held in Singapore this year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "summit",
+      "voice": "zh",
+      "text": "今年的行业峰会将在新加坡举行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "supermarket",
+      "voice": "en",
+      "text": "supermarket",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "supermarket",
+      "voice": "en",
+      "text": "S, U, P, E, R, M, A, R, K, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "supermarket",
+      "voice": "zh",
+      "text": "名词，超级市场",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "supermarket",
+      "voice": "en",
+      "text": "The supermarket has asked for twice-weekly deliveries.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "supermarket",
+      "voice": "zh",
+      "text": "超市要求改为每周送货两次。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "supervision",
+      "voice": "en",
+      "text": "supervision",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "supervision",
+      "voice": "en",
+      "text": "S, U, P, E, R, V, I, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "supervision",
+      "voice": "zh",
+      "text": "名词，监督，管理",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "supervision",
+      "voice": "en",
+      "text": "Trainees may operate the machine only under supervision.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "supervision",
+      "voice": "zh",
+      "text": "培训生只有在监督下才能操作这台机器。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "supervisor",
+      "voice": "en",
+      "text": "supervisor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "supervisor",
+      "voice": "en",
+      "text": "S, U, P, E, R, V, I, S, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "supervisor",
+      "voice": "zh",
+      "text": "名词，主管",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "supervisor",
+      "voice": "en",
+      "text": "Please report the spill to the shift supervisor immediately.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "supervisor",
+      "voice": "zh",
+      "text": "请立即向当班主管报告泄漏情况。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "supply",
+      "voice": "en",
+      "text": "supply",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "supply",
+      "voice": "en",
+      "text": "S, U, P, P, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "supply",
+      "voice": "zh",
+      "text": "名词或动词，供应，供给",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "supply",
+      "voice": "en",
+      "text": "A second company will supply packing cartons if demand rises.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "supply",
+      "voice": "zh",
+      "text": "如果需求上升，第二家公司将供应包装纸箱。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "surface",
+      "voice": "en",
+      "text": "surface",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "surface",
+      "voice": "en",
+      "text": "S, U, R, F, A, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "surface",
+      "voice": "zh",
+      "text": "名词或动词，表面，浮现",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "surface",
+      "voice": "en",
+      "text": "A scratch on the surface of the panel is not covered by the warranty.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "surface",
+      "voice": "zh",
+      "text": "面板表面的划痕不在保修范围内。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "survive",
+      "voice": "en",
+      "text": "survive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "survive",
+      "voice": "en",
+      "text": "S, U, R, V, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "survive",
+      "voice": "zh",
+      "text": "动词，幸存，挺过",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "survive",
+      "voice": "en",
+      "text": "Small shops may not survive a long road closure.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "survive",
+      "voice": "zh",
+      "text": "长期封路可能让小店难以维持。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "suspect",
+      "voice": "en",
+      "text": "suspect",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "suspect",
+      "voice": "en",
+      "text": "S, U, S, P, E, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "suspect",
+      "voice": "zh",
+      "text": "动词或名词，怀疑，嫌疑人",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "suspect",
+      "voice": "en",
+      "text": "If you suspect a billing error, please contact accounts the same day.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "suspect",
+      "voice": "zh",
+      "text": "如果怀疑账单有误，请在当天联系会计部门。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "suspend",
+      "voice": "en",
+      "text": "suspend",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "suspend",
+      "voice": "en",
+      "text": "S, U, S, P, E, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "suspend",
+      "voice": "zh",
+      "text": "动词，暂停，悬挂",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "suspend",
+      "voice": "en",
+      "text": "We may suspend deliveries if the invoice remains unpaid.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "suspend",
+      "voice": "zh",
+      "text": "如果发票仍未支付，我们可能暂停送货。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "suspension",
+      "voice": "en",
+      "text": "suspension",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "suspension",
+      "voice": "en",
+      "text": "S, U, S, P, E, N, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "suspension",
+      "voice": "zh",
+      "text": "名词，暂停，悬挂，停职",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "suspension",
+      "voice": "en",
+      "text": "A temporary suspension of the shuttle is planned during the road work.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "suspension",
+      "voice": "zh",
+      "text": "道路施工期间计划暂时停开班车。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "suspicious",
+      "voice": "en",
+      "text": "suspicious",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "suspicious",
+      "voice": "en",
+      "text": "S, U, S, P, I, C, I, O, U, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "suspicious",
+      "voice": "zh",
+      "text": "形容词，可疑的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "suspicious",
+      "voice": "en",
+      "text": "Please report any suspicious packages to security.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "suspicious",
+      "voice": "zh",
+      "text": "如发现任何可疑包裹，请向安保报告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "switch",
+      "voice": "en",
+      "text": "switch",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "switch",
+      "voice": "en",
+      "text": "S, W, I, T, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "switch",
+      "voice": "zh",
+      "text": "动词或名词，切换，开关",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "switch",
+      "voice": "en",
+      "text": "We will switch to the backup generator if the power fails.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "switch",
+      "voice": "zh",
+      "text": "如果停电，我们将切换到备用发电机。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "system",
+      "voice": "en",
+      "text": "system",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "system",
+      "voice": "en",
+      "text": "S, Y, S, T, E, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "system",
+      "voice": "zh",
+      "text": "名词，系统",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "system",
+      "voice": "en",
+      "text": "The booking system will be offline for an hour tonight.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "system",
+      "voice": "zh",
+      "text": "预订系统今晚将离线一小时。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "systematic",
+      "voice": "en",
+      "text": "systematic",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "systematic",
+      "voice": "en",
+      "text": "S, Y, S, T, E, M, A, T, I, C",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "systematic",
+      "voice": "zh",
+      "text": "形容词，系统的，有条理的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "systematic",
+      "voice": "en",
+      "text": "A systematic review of safety procedures will begin in May.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "systematic",
+      "voice": "zh",
+      "text": "将于五月开始对安全程序进行系统审查。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tackle",
+      "voice": "en",
+      "text": "tackle",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tackle",
+      "voice": "en",
+      "text": "T, A, C, K, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tackle",
+      "voice": "zh",
+      "text": "动词或名词，处理，应对",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tackle",
+      "voice": "en",
+      "text": "A task force was formed to tackle the packing backlog.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tackle",
+      "voice": "zh",
+      "text": "已成立专项小组来处理打包积压。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tactic",
+      "voice": "en",
+      "text": "tactic",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tactic",
+      "voice": "en",
+      "text": "T, A, C, T, I, C",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tactic",
+      "voice": "zh",
+      "text": "名词，策略，战术",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tactic",
+      "voice": "en",
+      "text": "A common tactic is to offer a discount for early payment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tactic",
+      "voice": "zh",
+      "text": "常用策略是为提前付款提供折扣。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tailor",
+      "voice": "en",
+      "text": "tailor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tailor",
+      "voice": "en",
+      "text": "T, A, I, L, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tailor",
+      "voice": "zh",
+      "text": "动词或名词，专门定制，裁缝",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tailor",
+      "voice": "en",
+      "text": "We can tailor the training program to each department's needs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tailor",
+      "voice": "zh",
+      "text": "我们可以按各部门的需求定制培训计划。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "talent",
+      "voice": "en",
+      "text": "talent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "talent",
+      "voice": "en",
+      "text": "T, A, L, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "talent",
+      "voice": "zh",
+      "text": "名词，人才，才能",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "talent",
+      "voice": "en",
+      "text": "The firm is trying to retain talent in the engineering team.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "talent",
+      "voice": "zh",
+      "text": "公司正努力留住工程团队中的人才。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "talented",
+      "voice": "en",
+      "text": "talented",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "talented",
+      "voice": "en",
+      "text": "T, A, L, E, N, T, E, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "talented",
+      "voice": "zh",
+      "text": "形容词，有才能的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "talented",
+      "voice": "en",
+      "text": "A talented designer has joined the packaging team.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "talented",
+      "voice": "zh",
+      "text": "一位有才能的设计师已加入包装团队。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tape",
+      "voice": "en",
+      "text": "tape",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tape",
+      "voice": "en",
+      "text": "T, A, P, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tape",
+      "voice": "zh",
+      "text": "名词或动词，胶带，录音带，录下",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tape",
+      "voice": "en",
+      "text": "Please tape the cartons securely before they are stacked.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tape",
+      "voice": "zh",
+      "text": "堆放前请把纸箱用胶带封牢。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tax",
+      "voice": "en",
+      "text": "tax",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tax",
+      "voice": "en",
+      "text": "T, A, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tax",
+      "voice": "zh",
+      "text": "名词或动词，税，征税",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tax",
+      "voice": "en",
+      "text": "Please add the local tax as a separate line on the invoice.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tax",
+      "voice": "zh",
+      "text": "请在发票上把地方税单独列为一行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "taxi",
+      "voice": "en",
+      "text": "taxi",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "taxi",
+      "voice": "en",
+      "text": "T, A, X, I",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "taxi",
+      "voice": "zh",
+      "text": "名词，出租车",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "taxi",
+      "voice": "en",
+      "text": "A taxi stand is located just outside the hotel entrance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "taxi",
+      "voice": "zh",
+      "text": "酒店门口就有出租车站。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "technical",
+      "voice": "en",
+      "text": "technical",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "technical",
+      "voice": "en",
+      "text": "T, E, C, H, N, I, C, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "technical",
+      "voice": "zh",
+      "text": "形容词，技术的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "technical",
+      "voice": "en",
+      "text": "A technical fault delayed the start of the online session.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "technical",
+      "voice": "zh",
+      "text": "技术故障推迟了在线会议的开始。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "technique",
+      "voice": "en",
+      "text": "technique",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "technique",
+      "voice": "en",
+      "text": "T, E, C, H, N, I, Q, U, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "technique",
+      "voice": "zh",
+      "text": "名词，技巧，技术",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "technique",
+      "voice": "en",
+      "text": "The manual describes a safer lifting technique.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "technique",
+      "voice": "zh",
+      "text": "手册介绍了一种更安全的搬运技巧。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第90轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

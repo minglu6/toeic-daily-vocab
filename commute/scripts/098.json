@@ -1,0 +1,1314 @@
+{
+  "id": "098",
+  "track": 98,
+  "title": "第 98 轨",
+  "word_count": 30,
+  "headwords": [
+    "name-plate",
+    "fire-extinguisher",
+    "first-aid-kit",
+    "emergency-exit",
+    "smoke-detector",
+    "assembly-point",
+    "time-clock",
+    "punch-in",
+    "punch-out",
+    "badge-reader",
+    "access-card",
+    "key-card",
+    "master-key",
+    "lost-and-found",
+    "area-code",
+    "broadband",
+    "ethernet",
+    "server",
+    "database",
+    "whiteboard-marker",
+    "staple-remover",
+    "hanging-folder",
+    "door-sign",
+    "sprinkler",
+    "roll-call",
+    "turnstile",
+    "security-camera",
+    "spare-key",
+    "coffee-machine",
+    "water-cooler"
+  ],
+  "entries": [
+    {
+      "word": "name-plate",
+      "spelling": "N, A, M, E, hyphen, P, L, A, T, E",
+      "spoken_meaning": "名词，姓名牌，门牌",
+      "en": "A new name-plate will be placed on the door after the move.",
+      "zh": "搬迁后会在门上安装新的姓名牌。"
+    },
+    {
+      "word": "fire-extinguisher",
+      "spelling": "F, I, R, E, hyphen, E, X, T, I, N, G, U, I, S, H, E, R",
+      "spoken_meaning": "名词，灭火器",
+      "en": "A fire-extinguisher is located next to each stairwell.",
+      "zh": "每个楼梯间旁边都有灭火器。"
+    },
+    {
+      "word": "first-aid-kit",
+      "spelling": "F, I, R, S, T, hyphen, A, I, D, hyphen, K, I, T",
+      "spoken_meaning": "名词，急救箱",
+      "en": "The first-aid-kit is on the wall behind the reception desk.",
+      "zh": "急救箱挂在前台后面的墙上。"
+    },
+    {
+      "word": "emergency-exit",
+      "spelling": "E, M, E, R, G, E, N, C, Y, hyphen, E, X, I, T",
+      "spoken_meaning": "名词，紧急出口",
+      "en": "Boxes must never be stored in front of an emergency-exit.",
+      "zh": "紧急出口前不得堆放箱子。"
+    },
+    {
+      "word": "smoke-detector",
+      "spelling": "S, M, O, K, E, hyphen, D, E, T, E, C, T, O, R",
+      "spoken_meaning": "名词，烟雾探测器",
+      "en": "The smoke-detector in the kitchen will be tested on Sunday.",
+      "zh": "厨房的烟雾探测器将于周日测试。"
+    },
+    {
+      "word": "assembly-point",
+      "spelling": "A, S, S, E, M, B, L, Y, hyphen, P, O, I, N, T",
+      "spoken_meaning": "名词，集合点，疏散集合处",
+      "en": "After the alarm, please go to the assembly-point in the north parking lot.",
+      "zh": "警报响起后，请到北停车场的集合点。"
+    },
+    {
+      "word": "time-clock",
+      "spelling": "T, I, M, E, hyphen, C, L, O, C, K",
+      "spoken_meaning": "名词，考勤钟，打卡钟",
+      "en": "Please use the time-clock at the staff entrance, not the visitor gate.",
+      "zh": "请在员工入口的考勤钟打卡，不要在访客门。"
+    },
+    {
+      "word": "punch-in",
+      "spelling": "P, U, N, C, H, hyphen, I, N",
+      "spoken_meaning": "动词或名词，上班打卡",
+      "en": "Don't forget to punch-in before you start your shift.",
+      "zh": "开始上班前别忘了打卡。"
+    },
+    {
+      "word": "punch-out",
+      "spelling": "P, U, N, C, H, hyphen, O, U, T",
+      "spoken_meaning": "动词或名词，下班打卡",
+      "en": "You should punch-out only after the handover is complete.",
+      "zh": "交接完成后再下班打卡。"
+    },
+    {
+      "word": "badge-reader",
+      "spelling": "B, A, D, G, E, hyphen, R, E, A, D, E, R",
+      "spoken_meaning": "名词，门禁读卡器",
+      "en": "The badge-reader at the side door is out of order; please use the main entrance.",
+      "zh": "侧门的门禁读卡器出了故障，请走正门。"
+    },
+    {
+      "word": "access-card",
+      "spelling": "A, C, C, E, S, S, hyphen, C, A, R, D",
+      "spoken_meaning": "名词，门禁卡",
+      "en": "A replacement access-card can be issued by security on the same day.",
+      "zh": "安保可以在当天补发门禁卡。"
+    },
+    {
+      "word": "key-card",
+      "spelling": "K, E, Y, hyphen, C, A, R, D",
+      "spoken_meaning": "名词，房卡，门卡",
+      "en": "If your key-card does not work, please return to the front desk.",
+      "zh": "如果房卡刷不开，请回前台。"
+    },
+    {
+      "word": "master-key",
+      "spelling": "M, A, S, T, E, R, hyphen, K, E, Y",
+      "spoken_meaning": "名词，万能钥匙，总钥匙",
+      "en": "Only the duty manager may use the master-key.",
+      "zh": "只有值班经理可以使用总钥匙。"
+    },
+    {
+      "word": "lost-and-found",
+      "spelling": "L, O, S, T, hyphen, A, N, D, hyphen, F, O, U, N, D",
+      "spoken_meaning": "名词，失物招领处",
+      "en": "A pair of glasses was handed in at the lost-and-found.",
+      "zh": "有一副眼镜被交到了失物招领处。"
+    },
+    {
+      "word": "area-code",
+      "spelling": "A, R, E, A, hyphen, C, O, D, E",
+      "spoken_meaning": "名词，区号",
+      "en": "Please include the area-code when you write the contact number.",
+      "zh": "填写联系电话时请加上区号。"
+    },
+    {
+      "word": "broadband",
+      "spelling": "B, R, O, A, D, B, A, N, D",
+      "spoken_meaning": "名词，宽带",
+      "en": "Broadband in the meeting rooms will be upgraded this month.",
+      "zh": "会议室的宽带将于本月升级。"
+    },
+    {
+      "word": "ethernet",
+      "spelling": "E, T, H, E, R, N, E, T",
+      "spoken_meaning": "名词，以太网",
+      "en": "If the wireless signal is weak, please use the ethernet cable on the table.",
+      "zh": "如果无线信号弱，请使用桌上的以太网线。"
+    },
+    {
+      "word": "server",
+      "spelling": "S, E, R, V, E, R",
+      "spoken_meaning": "名词，服务器，服务员",
+      "en": "The email server will be offline for maintenance at midnight.",
+      "zh": "邮件服务器将于午夜停机维护。"
+    },
+    {
+      "word": "database",
+      "spelling": "D, A, T, A, B, A, S, E",
+      "spoken_meaning": "名词，数据库",
+      "en": "Customer records are stored in a secure database.",
+      "zh": "客户记录储存在安全数据库中。"
+    },
+    {
+      "word": "whiteboard-marker",
+      "spelling": "W, H, I, T, E, B, O, A, R, D, hyphen, M, A, R, K, E, R",
+      "spoken_meaning": "名词，白板笔",
+      "en": "Please put the cap back on the whiteboard-marker after the meeting.",
+      "zh": "会后请把白板笔的笔帽盖上。"
+    },
+    {
+      "word": "staple-remover",
+      "spelling": "S, T, A, P, L, E, hyphen, R, E, M, O, V, E, R",
+      "spoken_meaning": "名词，起钉器",
+      "en": "A staple-remover is in the top drawer of the copy room.",
+      "zh": "起钉器在复印室最上面的抽屉里。"
+    },
+    {
+      "word": "hanging-folder",
+      "spelling": "H, A, N, G, I, N, G, hyphen, F, O, L, D, E, R",
+      "spoken_meaning": "名词，悬挂文件夹",
+      "en": "Please file the invoices in the hanging-folder marked 'October'.",
+      "zh": "请把发票归入标有“十月”的悬挂文件夹。"
+    },
+    {
+      "word": "door-sign",
+      "spelling": "D, O, O, R, hyphen, S, I, G, N",
+      "spoken_meaning": "名词，门牌，门上标示",
+      "en": "A 'meeting in progress' door-sign should be used during interviews.",
+      "zh": "面试期间应使用“会议进行中”的门上标示。"
+    },
+    {
+      "word": "sprinkler",
+      "spelling": "S, P, R, I, N, K, L, E, R",
+      "spoken_meaning": "名词，喷淋装置，喷头",
+      "en": "The sprinkler system will be inspected by the fire officer.",
+      "zh": "消防官员将检查喷淋系统。"
+    },
+    {
+      "word": "roll-call",
+      "spelling": "R, O, L, L, hyphen, C, A, L, L",
+      "spoken_meaning": "名词，点名",
+      "en": "A roll-call will be taken at the assembly-point after the drill.",
+      "zh": "演练后将在集合点点名。"
+    },
+    {
+      "word": "turnstile",
+      "spelling": "T, U, R, N, S, T, I, L, E",
+      "spoken_meaning": "名词，旋转闸门",
+      "en": "Your access-card is needed to pass the turnstile.",
+      "zh": "通过旋转闸门需要门禁卡。"
+    },
+    {
+      "word": "security-camera",
+      "spelling": "S, E, C, U, R, I, T, Y, hyphen, C, A, M, E, R, A",
+      "spoken_meaning": "名词，监控摄像头",
+      "en": "A security-camera covers the loading dock at all times.",
+      "zh": "装卸台全天都有监控摄像头覆盖。"
+    },
+    {
+      "word": "spare-key",
+      "spelling": "S, P, A, R, E, hyphen, K, E, Y",
+      "spoken_meaning": "名词，备用钥匙",
+      "en": "A spare-key for the storeroom is held by the duty manager.",
+      "zh": "储藏室的备用钥匙由值班经理保管。"
+    },
+    {
+      "word": "coffee-machine",
+      "spelling": "C, O, F, F, E, E, hyphen, M, A, C, H, I, N, E",
+      "spoken_meaning": "名词，咖啡机",
+      "en": "The coffee-machine in the break room will be serviced tomorrow.",
+      "zh": "休息室的咖啡机明天将检修。"
+    },
+    {
+      "word": "water-cooler",
+      "spelling": "W, A, T, E, R, hyphen, C, O, O, L, E, R",
+      "spoken_meaning": "名词，饮水机",
+      "en": "A notice about the staff picnic is posted by the water-cooler.",
+      "zh": "饮水机旁贴有员工野餐通知。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第98轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "name-plate",
+      "voice": "en",
+      "text": "name plate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "name-plate",
+      "voice": "en",
+      "text": "N, A, M, E, hyphen, P, L, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "name-plate",
+      "voice": "zh",
+      "text": "名词，姓名牌，门牌",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "name-plate",
+      "voice": "en",
+      "text": "A new name-plate will be placed on the door after the move.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "name-plate",
+      "voice": "zh",
+      "text": "搬迁后会在门上安装新的姓名牌。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fire-extinguisher",
+      "voice": "en",
+      "text": "fire extinguisher",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fire-extinguisher",
+      "voice": "en",
+      "text": "F, I, R, E, hyphen, E, X, T, I, N, G, U, I, S, H, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fire-extinguisher",
+      "voice": "zh",
+      "text": "名词，灭火器",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fire-extinguisher",
+      "voice": "en",
+      "text": "A fire-extinguisher is located next to each stairwell.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fire-extinguisher",
+      "voice": "zh",
+      "text": "每个楼梯间旁边都有灭火器。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "first-aid-kit",
+      "voice": "en",
+      "text": "first aid kit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "first-aid-kit",
+      "voice": "en",
+      "text": "F, I, R, S, T, hyphen, A, I, D, hyphen, K, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "first-aid-kit",
+      "voice": "zh",
+      "text": "名词，急救箱",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "first-aid-kit",
+      "voice": "en",
+      "text": "The first-aid-kit is on the wall behind the reception desk.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "first-aid-kit",
+      "voice": "zh",
+      "text": "急救箱挂在前台后面的墙上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "emergency-exit",
+      "voice": "en",
+      "text": "emergency exit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "emergency-exit",
+      "voice": "en",
+      "text": "E, M, E, R, G, E, N, C, Y, hyphen, E, X, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "emergency-exit",
+      "voice": "zh",
+      "text": "名词，紧急出口",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "emergency-exit",
+      "voice": "en",
+      "text": "Boxes must never be stored in front of an emergency-exit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "emergency-exit",
+      "voice": "zh",
+      "text": "紧急出口前不得堆放箱子。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "smoke-detector",
+      "voice": "en",
+      "text": "smoke detector",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "smoke-detector",
+      "voice": "en",
+      "text": "S, M, O, K, E, hyphen, D, E, T, E, C, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "smoke-detector",
+      "voice": "zh",
+      "text": "名词，烟雾探测器",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "smoke-detector",
+      "voice": "en",
+      "text": "The smoke-detector in the kitchen will be tested on Sunday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "smoke-detector",
+      "voice": "zh",
+      "text": "厨房的烟雾探测器将于周日测试。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "assembly-point",
+      "voice": "en",
+      "text": "assembly point",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "assembly-point",
+      "voice": "en",
+      "text": "A, S, S, E, M, B, L, Y, hyphen, P, O, I, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "assembly-point",
+      "voice": "zh",
+      "text": "名词，集合点，疏散集合处",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "assembly-point",
+      "voice": "en",
+      "text": "After the alarm, please go to the assembly-point in the north parking lot.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "assembly-point",
+      "voice": "zh",
+      "text": "警报响起后，请到北停车场的集合点。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "time-clock",
+      "voice": "en",
+      "text": "time clock",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "time-clock",
+      "voice": "en",
+      "text": "T, I, M, E, hyphen, C, L, O, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "time-clock",
+      "voice": "zh",
+      "text": "名词，考勤钟，打卡钟",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "time-clock",
+      "voice": "en",
+      "text": "Please use the time-clock at the staff entrance, not the visitor gate.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "time-clock",
+      "voice": "zh",
+      "text": "请在员工入口的考勤钟打卡，不要在访客门。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "punch-in",
+      "voice": "en",
+      "text": "punch in",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "punch-in",
+      "voice": "en",
+      "text": "P, U, N, C, H, hyphen, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "punch-in",
+      "voice": "zh",
+      "text": "动词或名词，上班打卡",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "punch-in",
+      "voice": "en",
+      "text": "Don't forget to punch-in before you start your shift.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "punch-in",
+      "voice": "zh",
+      "text": "开始上班前别忘了打卡。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "punch-out",
+      "voice": "en",
+      "text": "punch out",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "punch-out",
+      "voice": "en",
+      "text": "P, U, N, C, H, hyphen, O, U, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "punch-out",
+      "voice": "zh",
+      "text": "动词或名词，下班打卡",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "punch-out",
+      "voice": "en",
+      "text": "You should punch-out only after the handover is complete.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "punch-out",
+      "voice": "zh",
+      "text": "交接完成后再下班打卡。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "badge-reader",
+      "voice": "en",
+      "text": "badge reader",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "badge-reader",
+      "voice": "en",
+      "text": "B, A, D, G, E, hyphen, R, E, A, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "badge-reader",
+      "voice": "zh",
+      "text": "名词，门禁读卡器",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "badge-reader",
+      "voice": "en",
+      "text": "The badge-reader at the side door is out of order; please use the main entrance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "badge-reader",
+      "voice": "zh",
+      "text": "侧门的门禁读卡器出了故障，请走正门。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "access-card",
+      "voice": "en",
+      "text": "access card",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "access-card",
+      "voice": "en",
+      "text": "A, C, C, E, S, S, hyphen, C, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "access-card",
+      "voice": "zh",
+      "text": "名词，门禁卡",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "access-card",
+      "voice": "en",
+      "text": "A replacement access-card can be issued by security on the same day.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "access-card",
+      "voice": "zh",
+      "text": "安保可以在当天补发门禁卡。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "key-card",
+      "voice": "en",
+      "text": "key card",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "key-card",
+      "voice": "en",
+      "text": "K, E, Y, hyphen, C, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "key-card",
+      "voice": "zh",
+      "text": "名词，房卡，门卡",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "key-card",
+      "voice": "en",
+      "text": "If your key-card does not work, please return to the front desk.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "key-card",
+      "voice": "zh",
+      "text": "如果房卡刷不开，请回前台。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "master-key",
+      "voice": "en",
+      "text": "master key",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "master-key",
+      "voice": "en",
+      "text": "M, A, S, T, E, R, hyphen, K, E, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "master-key",
+      "voice": "zh",
+      "text": "名词，万能钥匙，总钥匙",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "master-key",
+      "voice": "en",
+      "text": "Only the duty manager may use the master-key.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "master-key",
+      "voice": "zh",
+      "text": "只有值班经理可以使用总钥匙。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lost-and-found",
+      "voice": "en",
+      "text": "lost and found",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lost-and-found",
+      "voice": "en",
+      "text": "L, O, S, T, hyphen, A, N, D, hyphen, F, O, U, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lost-and-found",
+      "voice": "zh",
+      "text": "名词，失物招领处",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lost-and-found",
+      "voice": "en",
+      "text": "A pair of glasses was handed in at the lost-and-found.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lost-and-found",
+      "voice": "zh",
+      "text": "有一副眼镜被交到了失物招领处。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "area-code",
+      "voice": "en",
+      "text": "area code",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "area-code",
+      "voice": "en",
+      "text": "A, R, E, A, hyphen, C, O, D, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "area-code",
+      "voice": "zh",
+      "text": "名词，区号",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "area-code",
+      "voice": "en",
+      "text": "Please include the area-code when you write the contact number.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "area-code",
+      "voice": "zh",
+      "text": "填写联系电话时请加上区号。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "broadband",
+      "voice": "en",
+      "text": "broadband",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "broadband",
+      "voice": "en",
+      "text": "B, R, O, A, D, B, A, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "broadband",
+      "voice": "zh",
+      "text": "名词，宽带",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "broadband",
+      "voice": "en",
+      "text": "Broadband in the meeting rooms will be upgraded this month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "broadband",
+      "voice": "zh",
+      "text": "会议室的宽带将于本月升级。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ethernet",
+      "voice": "en",
+      "text": "ethernet",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ethernet",
+      "voice": "en",
+      "text": "E, T, H, E, R, N, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ethernet",
+      "voice": "zh",
+      "text": "名词，以太网",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ethernet",
+      "voice": "en",
+      "text": "If the wireless signal is weak, please use the ethernet cable on the table.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ethernet",
+      "voice": "zh",
+      "text": "如果无线信号弱，请使用桌上的以太网线。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "server",
+      "voice": "en",
+      "text": "server",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "server",
+      "voice": "en",
+      "text": "S, E, R, V, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "server",
+      "voice": "zh",
+      "text": "名词，服务器，服务员",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "server",
+      "voice": "en",
+      "text": "The email server will be offline for maintenance at midnight.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "server",
+      "voice": "zh",
+      "text": "邮件服务器将于午夜停机维护。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "database",
+      "voice": "en",
+      "text": "database",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "database",
+      "voice": "en",
+      "text": "D, A, T, A, B, A, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "database",
+      "voice": "zh",
+      "text": "名词，数据库",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "database",
+      "voice": "en",
+      "text": "Customer records are stored in a secure database.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "database",
+      "voice": "zh",
+      "text": "客户记录储存在安全数据库中。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "whiteboard-marker",
+      "voice": "en",
+      "text": "whiteboard marker",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "whiteboard-marker",
+      "voice": "en",
+      "text": "W, H, I, T, E, B, O, A, R, D, hyphen, M, A, R, K, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "whiteboard-marker",
+      "voice": "zh",
+      "text": "名词，白板笔",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "whiteboard-marker",
+      "voice": "en",
+      "text": "Please put the cap back on the whiteboard-marker after the meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "whiteboard-marker",
+      "voice": "zh",
+      "text": "会后请把白板笔的笔帽盖上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "staple-remover",
+      "voice": "en",
+      "text": "staple remover",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "staple-remover",
+      "voice": "en",
+      "text": "S, T, A, P, L, E, hyphen, R, E, M, O, V, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "staple-remover",
+      "voice": "zh",
+      "text": "名词，起钉器",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "staple-remover",
+      "voice": "en",
+      "text": "A staple-remover is in the top drawer of the copy room.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "staple-remover",
+      "voice": "zh",
+      "text": "起钉器在复印室最上面的抽屉里。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hanging-folder",
+      "voice": "en",
+      "text": "hanging folder",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hanging-folder",
+      "voice": "en",
+      "text": "H, A, N, G, I, N, G, hyphen, F, O, L, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hanging-folder",
+      "voice": "zh",
+      "text": "名词，悬挂文件夹",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hanging-folder",
+      "voice": "en",
+      "text": "Please file the invoices in the hanging-folder marked 'October'.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hanging-folder",
+      "voice": "zh",
+      "text": "请把发票归入标有“十月”的悬挂文件夹。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "door-sign",
+      "voice": "en",
+      "text": "door sign",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "door-sign",
+      "voice": "en",
+      "text": "D, O, O, R, hyphen, S, I, G, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "door-sign",
+      "voice": "zh",
+      "text": "名词，门牌，门上标示",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "door-sign",
+      "voice": "en",
+      "text": "A 'meeting in progress' door-sign should be used during interviews.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "door-sign",
+      "voice": "zh",
+      "text": "面试期间应使用“会议进行中”的门上标示。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sprinkler",
+      "voice": "en",
+      "text": "sprinkler",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sprinkler",
+      "voice": "en",
+      "text": "S, P, R, I, N, K, L, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sprinkler",
+      "voice": "zh",
+      "text": "名词，喷淋装置，喷头",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sprinkler",
+      "voice": "en",
+      "text": "The sprinkler system will be inspected by the fire officer.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sprinkler",
+      "voice": "zh",
+      "text": "消防官员将检查喷淋系统。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "roll-call",
+      "voice": "en",
+      "text": "roll call",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "roll-call",
+      "voice": "en",
+      "text": "R, O, L, L, hyphen, C, A, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "roll-call",
+      "voice": "zh",
+      "text": "名词，点名",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "roll-call",
+      "voice": "en",
+      "text": "A roll-call will be taken at the assembly-point after the drill.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "roll-call",
+      "voice": "zh",
+      "text": "演练后将在集合点点名。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "turnstile",
+      "voice": "en",
+      "text": "turnstile",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "turnstile",
+      "voice": "en",
+      "text": "T, U, R, N, S, T, I, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "turnstile",
+      "voice": "zh",
+      "text": "名词，旋转闸门",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "turnstile",
+      "voice": "en",
+      "text": "Your access-card is needed to pass the turnstile.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "turnstile",
+      "voice": "zh",
+      "text": "通过旋转闸门需要门禁卡。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "security-camera",
+      "voice": "en",
+      "text": "security camera",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "security-camera",
+      "voice": "en",
+      "text": "S, E, C, U, R, I, T, Y, hyphen, C, A, M, E, R, A",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "security-camera",
+      "voice": "zh",
+      "text": "名词，监控摄像头",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "security-camera",
+      "voice": "en",
+      "text": "A security-camera covers the loading dock at all times.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "security-camera",
+      "voice": "zh",
+      "text": "装卸台全天都有监控摄像头覆盖。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "spare-key",
+      "voice": "en",
+      "text": "spare key",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "spare-key",
+      "voice": "en",
+      "text": "S, P, A, R, E, hyphen, K, E, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "spare-key",
+      "voice": "zh",
+      "text": "名词，备用钥匙",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "spare-key",
+      "voice": "en",
+      "text": "A spare-key for the storeroom is held by the duty manager.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "spare-key",
+      "voice": "zh",
+      "text": "储藏室的备用钥匙由值班经理保管。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "coffee-machine",
+      "voice": "en",
+      "text": "coffee machine",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "coffee-machine",
+      "voice": "en",
+      "text": "C, O, F, F, E, E, hyphen, M, A, C, H, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "coffee-machine",
+      "voice": "zh",
+      "text": "名词，咖啡机",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "coffee-machine",
+      "voice": "en",
+      "text": "The coffee-machine in the break room will be serviced tomorrow.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "coffee-machine",
+      "voice": "zh",
+      "text": "休息室的咖啡机明天将检修。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "water-cooler",
+      "voice": "en",
+      "text": "water cooler",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "water-cooler",
+      "voice": "en",
+      "text": "W, A, T, E, R, hyphen, C, O, O, L, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "water-cooler",
+      "voice": "zh",
+      "text": "名词，饮水机",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "water-cooler",
+      "voice": "en",
+      "text": "A notice about the staff picnic is posted by the water-cooler.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "water-cooler",
+      "voice": "zh",
+      "text": "饮水机旁贴有员工野餐通知。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第98轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

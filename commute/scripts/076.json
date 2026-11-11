@@ -1,0 +1,1314 @@
+{
+  "id": "076",
+  "track": 76,
+  "title": "第 76 轨",
+  "word_count": 30,
+  "headwords": [
+    "investigation",
+    "investigator",
+    "investor",
+    "invitation",
+    "invite",
+    "lawsuit",
+    "lawyer",
+    "layout",
+    "leadership",
+    "lecture",
+    "legal",
+    "laboratory",
+    "laptop",
+    "laundry",
+    "lengthy",
+    "lend",
+    "limit",
+    "limited",
+    "load",
+    "local",
+    "location",
+    "lock",
+    "lodge",
+    "log",
+    "logical",
+    "logo",
+    "lose",
+    "loss",
+    "loyal",
+    "lunch"
+  ],
+  "entries": [
+    {
+      "word": "investigation",
+      "spelling": "I, N, V, E, S, T, I, G, A, T, I, O, N",
+      "spoken_meaning": "名词，调查",
+      "en": "An investigation into the missed delivery will be completed this week.",
+      "zh": "对这次漏送的调查将于本周完成。"
+    },
+    {
+      "word": "investigator",
+      "spelling": "I, N, V, E, S, T, I, G, A, T, O, R",
+      "spoken_meaning": "名词，调查人员",
+      "en": "An insurance investigator will visit the warehouse on Thursday.",
+      "zh": "保险调查人员将于周四到仓库。"
+    },
+    {
+      "word": "investor",
+      "spelling": "I, N, V, E, S, T, O, R",
+      "spoken_meaning": "名词，投资者",
+      "en": "Investors will receive the quarterly report by email.",
+      "zh": "投资者将通过电子邮件收到季报。"
+    },
+    {
+      "word": "invitation",
+      "spelling": "I, N, V, I, T, A, T, I, O, N",
+      "spoken_meaning": "名词，邀请，请柬",
+      "en": "An invitation to the open house was mailed to all nearby businesses.",
+      "zh": "开放日请柬已寄给附近所有企业。"
+    },
+    {
+      "word": "invite",
+      "spelling": "I, N, V, I, T, E",
+      "spoken_meaning": "动词，邀请",
+      "en": "Please invite the contractor to Friday's site meeting.",
+      "zh": "请邀请承包商参加周五的现场会议。"
+    },
+    {
+      "word": "lawsuit",
+      "spelling": "L, A, W, S, U, I, T",
+      "spoken_meaning": "名词，诉讼",
+      "en": "The two companies settled the lawsuit before it went to trial.",
+      "zh": "两家公司在开庭前就诉讼达成了和解。"
+    },
+    {
+      "word": "lawyer",
+      "spelling": "L, A, W, Y, E, R",
+      "spoken_meaning": "名词，律师",
+      "en": "A company lawyer will review the lease this afternoon.",
+      "zh": "公司律师将于今天下午审阅租约。"
+    },
+    {
+      "word": "layout",
+      "spelling": "L, A, Y, O, U, T",
+      "spoken_meaning": "名词，布局，版面",
+      "en": "The new warehouse layout shortens the path from packing to dispatch.",
+      "zh": "新的仓库布局缩短了从打包到发货的路径。"
+    },
+    {
+      "word": "leadership",
+      "spelling": "L, E, A, D, E, R, S, H, I, P",
+      "spoken_meaning": "名词，领导力，领导层",
+      "en": "The leadership team will meet off-site to set next year's targets.",
+      "zh": "领导层将在场外开会确定明年目标。"
+    },
+    {
+      "word": "lecture",
+      "spelling": "L, E, C, T, U, R, E",
+      "spoken_meaning": "名词或动词，讲座，讲课",
+      "en": "A guest lecture on workplace safety is scheduled for Tuesday.",
+      "zh": "周二安排了一场关于工作场所安全的讲座。"
+    },
+    {
+      "word": "legal",
+      "spelling": "L, E, G, A, L",
+      "spoken_meaning": "形容词，法律的，合法的",
+      "en": "Please send the draft to the legal team before it is signed.",
+      "zh": "在签字前，请把草稿送交法务团队。"
+    },
+    {
+      "word": "laboratory",
+      "spelling": "L, A, B, O, R, A, T, O, R, Y",
+      "spoken_meaning": "名词，实验室",
+      "en": "The laboratory will test the first production samples tomorrow.",
+      "zh": "实验室明天将检测首批生产样品。"
+    },
+    {
+      "word": "laptop",
+      "spelling": "L, A, P, T, O, P",
+      "spoken_meaning": "名词，笔记本电脑",
+      "en": "Please lock your laptop in a drawer if you leave your desk.",
+      "zh": "离开座位时请把笔记本电脑锁进抽屉。"
+    },
+    {
+      "word": "laundry",
+      "spelling": "L, A, U, N, D, R, Y",
+      "spoken_meaning": "名词，洗衣店，待洗衣物",
+      "en": "Guest laundry should be placed in the bag before 9 a.m.",
+      "zh": "客人待洗衣物请在上午9点前放入袋子。"
+    },
+    {
+      "word": "lengthy",
+      "spelling": "L, E, N, G, T, H, Y",
+      "spoken_meaning": "形容词，冗长的，漫长的",
+      "en": "We should avoid a lengthy introduction and start with the key figures.",
+      "zh": "我们应避免冗长的开场，直接从关键数据讲起。"
+    },
+    {
+      "word": "lend",
+      "spelling": "L, E, N, D",
+      "spoken_meaning": "动词，借出",
+      "en": "The media room can lend adapters to visiting presenters.",
+      "zh": "媒体室可以向来访的演讲人出借转接头。"
+    },
+    {
+      "word": "limit",
+      "spelling": "L, I, M, I, T",
+      "spoken_meaning": "名词或动词，限制，上限",
+      "en": "There is a 20-kilogram limit on checked bags for this fare.",
+      "zh": "此票价的托运行李限重20公斤。"
+    },
+    {
+      "word": "limited",
+      "spelling": "L, I, M, I, T, E, D",
+      "spoken_meaning": "形容词，有限的",
+      "en": "Seating is limited, so please confirm your attendance early.",
+      "zh": "座位有限，请尽早确认出席。"
+    },
+    {
+      "word": "load",
+      "spelling": "L, O, A, D",
+      "spoken_meaning": "名词或动词，装载，负荷",
+      "en": "Please do not load the elevator with more than eight crates.",
+      "zh": "请不要在电梯里装超过八个板条箱。"
+    },
+    {
+      "word": "local",
+      "spelling": "L, O, C, A, L",
+      "spoken_meaning": "形容词，当地的，本地的",
+      "en": "A local courier can deliver the samples before noon.",
+      "zh": "当地快递员可在中午前送达样品。"
+    },
+    {
+      "word": "location",
+      "spelling": "L, O, C, A, T, I, O, N",
+      "spoken_meaning": "名词，地点，位置",
+      "en": "The training will be held at a location near the airport.",
+      "zh": "培训将在机场附近的一处地点举行。"
+    },
+    {
+      "word": "lock",
+      "spelling": "L, O, C, K",
+      "spoken_meaning": "名词或动词，锁，上锁",
+      "en": "Please lock the storeroom whenever it is unattended.",
+      "zh": "储藏室无人看管时请上锁。"
+    },
+    {
+      "word": "lodge",
+      "spelling": "L, O, D, G, E",
+      "spoken_meaning": "动词或名词，提出（投诉），住宿",
+      "en": "Guests may lodge a complaint at the duty manager's desk.",
+      "zh": "客人可向值班经理台提出投诉。"
+    },
+    {
+      "word": "log",
+      "spelling": "L, O, G",
+      "spoken_meaning": "名词或动词，日志，记录",
+      "en": "Please log every visitor in the reception book.",
+      "zh": "请在前台登记簿上记录每位访客。"
+    },
+    {
+      "word": "logical",
+      "spelling": "L, O, G, I, C, A, L",
+      "spoken_meaning": "形容词，合理的，合乎逻辑的",
+      "en": "A more logical filing system would save time at month end.",
+      "zh": "更合理的归档系统能在月末节省时间。"
+    },
+    {
+      "word": "logo",
+      "spelling": "L, O, G, O",
+      "spoken_meaning": "名词，标识，商标",
+      "en": "Please use the updated logo on all new stationery.",
+      "zh": "所有新文具请使用更新后的标识。"
+    },
+    {
+      "word": "lose",
+      "spelling": "L, O, S, E",
+      "spoken_meaning": "动词，丢失，亏损",
+      "en": "If we lose this client, the sales target will be hard to meet.",
+      "zh": "如果失去这个客户，销售目标将很难完成。"
+    },
+    {
+      "word": "loss",
+      "spelling": "L, O, S, S",
+      "spoken_meaning": "名词，损失，亏损",
+      "en": "The damaged shipment resulted in a small loss for the quarter.",
+      "zh": "这批受损货物导致本季度出现小额亏损。"
+    },
+    {
+      "word": "loyal",
+      "spelling": "L, O, Y, A, L",
+      "spoken_meaning": "形容词，忠诚的",
+      "en": "A discount will be offered to loyal customers during the anniversary sale.",
+      "zh": "周年促销期间将向忠实客户提供折扣。"
+    },
+    {
+      "word": "lunch",
+      "spelling": "L, U, N, C, H",
+      "spoken_meaning": "名词，午餐",
+      "en": "A working lunch will be served in the meeting room at 12:30.",
+      "zh": "12:30将在会议室提供工作午餐。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第76轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "investigation",
+      "voice": "en",
+      "text": "investigation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "investigation",
+      "voice": "en",
+      "text": "I, N, V, E, S, T, I, G, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "investigation",
+      "voice": "zh",
+      "text": "名词，调查",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "investigation",
+      "voice": "en",
+      "text": "An investigation into the missed delivery will be completed this week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "investigation",
+      "voice": "zh",
+      "text": "对这次漏送的调查将于本周完成。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "investigator",
+      "voice": "en",
+      "text": "investigator",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "investigator",
+      "voice": "en",
+      "text": "I, N, V, E, S, T, I, G, A, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "investigator",
+      "voice": "zh",
+      "text": "名词，调查人员",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "investigator",
+      "voice": "en",
+      "text": "An insurance investigator will visit the warehouse on Thursday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "investigator",
+      "voice": "zh",
+      "text": "保险调查人员将于周四到仓库。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "investor",
+      "voice": "en",
+      "text": "investor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "investor",
+      "voice": "en",
+      "text": "I, N, V, E, S, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "investor",
+      "voice": "zh",
+      "text": "名词，投资者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "investor",
+      "voice": "en",
+      "text": "Investors will receive the quarterly report by email.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "investor",
+      "voice": "zh",
+      "text": "投资者将通过电子邮件收到季报。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "invitation",
+      "voice": "en",
+      "text": "invitation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "invitation",
+      "voice": "en",
+      "text": "I, N, V, I, T, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "invitation",
+      "voice": "zh",
+      "text": "名词，邀请，请柬",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "invitation",
+      "voice": "en",
+      "text": "An invitation to the open house was mailed to all nearby businesses.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "invitation",
+      "voice": "zh",
+      "text": "开放日请柬已寄给附近所有企业。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "invite",
+      "voice": "en",
+      "text": "invite",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "invite",
+      "voice": "en",
+      "text": "I, N, V, I, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "invite",
+      "voice": "zh",
+      "text": "动词，邀请",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "invite",
+      "voice": "en",
+      "text": "Please invite the contractor to Friday's site meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "invite",
+      "voice": "zh",
+      "text": "请邀请承包商参加周五的现场会议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lawsuit",
+      "voice": "en",
+      "text": "lawsuit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lawsuit",
+      "voice": "en",
+      "text": "L, A, W, S, U, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lawsuit",
+      "voice": "zh",
+      "text": "名词，诉讼",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lawsuit",
+      "voice": "en",
+      "text": "The two companies settled the lawsuit before it went to trial.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lawsuit",
+      "voice": "zh",
+      "text": "两家公司在开庭前就诉讼达成了和解。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lawyer",
+      "voice": "en",
+      "text": "lawyer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lawyer",
+      "voice": "en",
+      "text": "L, A, W, Y, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lawyer",
+      "voice": "zh",
+      "text": "名词，律师",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lawyer",
+      "voice": "en",
+      "text": "A company lawyer will review the lease this afternoon.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lawyer",
+      "voice": "zh",
+      "text": "公司律师将于今天下午审阅租约。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "layout",
+      "voice": "en",
+      "text": "layout",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "layout",
+      "voice": "en",
+      "text": "L, A, Y, O, U, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "layout",
+      "voice": "zh",
+      "text": "名词，布局，版面",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "layout",
+      "voice": "en",
+      "text": "The new warehouse layout shortens the path from packing to dispatch.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "layout",
+      "voice": "zh",
+      "text": "新的仓库布局缩短了从打包到发货的路径。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "leadership",
+      "voice": "en",
+      "text": "leadership",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "leadership",
+      "voice": "en",
+      "text": "L, E, A, D, E, R, S, H, I, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "leadership",
+      "voice": "zh",
+      "text": "名词，领导力，领导层",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "leadership",
+      "voice": "en",
+      "text": "The leadership team will meet off-site to set next year's targets.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "leadership",
+      "voice": "zh",
+      "text": "领导层将在场外开会确定明年目标。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lecture",
+      "voice": "en",
+      "text": "lecture",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lecture",
+      "voice": "en",
+      "text": "L, E, C, T, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lecture",
+      "voice": "zh",
+      "text": "名词或动词，讲座，讲课",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lecture",
+      "voice": "en",
+      "text": "A guest lecture on workplace safety is scheduled for Tuesday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lecture",
+      "voice": "zh",
+      "text": "周二安排了一场关于工作场所安全的讲座。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "legal",
+      "voice": "en",
+      "text": "legal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "legal",
+      "voice": "en",
+      "text": "L, E, G, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "legal",
+      "voice": "zh",
+      "text": "形容词，法律的，合法的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "legal",
+      "voice": "en",
+      "text": "Please send the draft to the legal team before it is signed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "legal",
+      "voice": "zh",
+      "text": "在签字前，请把草稿送交法务团队。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "laboratory",
+      "voice": "en",
+      "text": "laboratory",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "laboratory",
+      "voice": "en",
+      "text": "L, A, B, O, R, A, T, O, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "laboratory",
+      "voice": "zh",
+      "text": "名词，实验室",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "laboratory",
+      "voice": "en",
+      "text": "The laboratory will test the first production samples tomorrow.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "laboratory",
+      "voice": "zh",
+      "text": "实验室明天将检测首批生产样品。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "laptop",
+      "voice": "en",
+      "text": "laptop",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "laptop",
+      "voice": "en",
+      "text": "L, A, P, T, O, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "laptop",
+      "voice": "zh",
+      "text": "名词，笔记本电脑",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "laptop",
+      "voice": "en",
+      "text": "Please lock your laptop in a drawer if you leave your desk.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "laptop",
+      "voice": "zh",
+      "text": "离开座位时请把笔记本电脑锁进抽屉。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "laundry",
+      "voice": "en",
+      "text": "laundry",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "laundry",
+      "voice": "en",
+      "text": "L, A, U, N, D, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "laundry",
+      "voice": "zh",
+      "text": "名词，洗衣店，待洗衣物",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "laundry",
+      "voice": "en",
+      "text": "Guest laundry should be placed in the bag before 9 a.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "laundry",
+      "voice": "zh",
+      "text": "客人待洗衣物请在上午9点前放入袋子。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lengthy",
+      "voice": "en",
+      "text": "lengthy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lengthy",
+      "voice": "en",
+      "text": "L, E, N, G, T, H, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lengthy",
+      "voice": "zh",
+      "text": "形容词，冗长的，漫长的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lengthy",
+      "voice": "en",
+      "text": "We should avoid a lengthy introduction and start with the key figures.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lengthy",
+      "voice": "zh",
+      "text": "我们应避免冗长的开场，直接从关键数据讲起。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lend",
+      "voice": "en",
+      "text": "lend",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lend",
+      "voice": "en",
+      "text": "L, E, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lend",
+      "voice": "zh",
+      "text": "动词，借出",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lend",
+      "voice": "en",
+      "text": "The media room can lend adapters to visiting presenters.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lend",
+      "voice": "zh",
+      "text": "媒体室可以向来访的演讲人出借转接头。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "limit",
+      "voice": "en",
+      "text": "limit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "limit",
+      "voice": "en",
+      "text": "L, I, M, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "limit",
+      "voice": "zh",
+      "text": "名词或动词，限制，上限",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "limit",
+      "voice": "en",
+      "text": "There is a 20-kilogram limit on checked bags for this fare.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "limit",
+      "voice": "zh",
+      "text": "此票价的托运行李限重20公斤。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "limited",
+      "voice": "en",
+      "text": "limited",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "limited",
+      "voice": "en",
+      "text": "L, I, M, I, T, E, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "limited",
+      "voice": "zh",
+      "text": "形容词，有限的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "limited",
+      "voice": "en",
+      "text": "Seating is limited, so please confirm your attendance early.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "limited",
+      "voice": "zh",
+      "text": "座位有限，请尽早确认出席。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "load",
+      "voice": "en",
+      "text": "load",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "load",
+      "voice": "en",
+      "text": "L, O, A, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "load",
+      "voice": "zh",
+      "text": "名词或动词，装载，负荷",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "load",
+      "voice": "en",
+      "text": "Please do not load the elevator with more than eight crates.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "load",
+      "voice": "zh",
+      "text": "请不要在电梯里装超过八个板条箱。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "local",
+      "voice": "en",
+      "text": "local",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "local",
+      "voice": "en",
+      "text": "L, O, C, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "local",
+      "voice": "zh",
+      "text": "形容词，当地的，本地的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "local",
+      "voice": "en",
+      "text": "A local courier can deliver the samples before noon.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "local",
+      "voice": "zh",
+      "text": "当地快递员可在中午前送达样品。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "location",
+      "voice": "en",
+      "text": "location",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "location",
+      "voice": "en",
+      "text": "L, O, C, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "location",
+      "voice": "zh",
+      "text": "名词，地点，位置",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "location",
+      "voice": "en",
+      "text": "The training will be held at a location near the airport.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "location",
+      "voice": "zh",
+      "text": "培训将在机场附近的一处地点举行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lock",
+      "voice": "en",
+      "text": "lock",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lock",
+      "voice": "en",
+      "text": "L, O, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lock",
+      "voice": "zh",
+      "text": "名词或动词，锁，上锁",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lock",
+      "voice": "en",
+      "text": "Please lock the storeroom whenever it is unattended.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lock",
+      "voice": "zh",
+      "text": "储藏室无人看管时请上锁。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lodge",
+      "voice": "en",
+      "text": "lodge",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lodge",
+      "voice": "en",
+      "text": "L, O, D, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lodge",
+      "voice": "zh",
+      "text": "动词或名词，提出（投诉），住宿",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lodge",
+      "voice": "en",
+      "text": "Guests may lodge a complaint at the duty manager's desk.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lodge",
+      "voice": "zh",
+      "text": "客人可向值班经理台提出投诉。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "log",
+      "voice": "en",
+      "text": "log",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "log",
+      "voice": "en",
+      "text": "L, O, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "log",
+      "voice": "zh",
+      "text": "名词或动词，日志，记录",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "log",
+      "voice": "en",
+      "text": "Please log every visitor in the reception book.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "log",
+      "voice": "zh",
+      "text": "请在前台登记簿上记录每位访客。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "logical",
+      "voice": "en",
+      "text": "logical",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "logical",
+      "voice": "en",
+      "text": "L, O, G, I, C, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "logical",
+      "voice": "zh",
+      "text": "形容词，合理的，合乎逻辑的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "logical",
+      "voice": "en",
+      "text": "A more logical filing system would save time at month end.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "logical",
+      "voice": "zh",
+      "text": "更合理的归档系统能在月末节省时间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "logo",
+      "voice": "en",
+      "text": "logo",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "logo",
+      "voice": "en",
+      "text": "L, O, G, O",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "logo",
+      "voice": "zh",
+      "text": "名词，标识，商标",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "logo",
+      "voice": "en",
+      "text": "Please use the updated logo on all new stationery.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "logo",
+      "voice": "zh",
+      "text": "所有新文具请使用更新后的标识。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lose",
+      "voice": "en",
+      "text": "lose",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lose",
+      "voice": "en",
+      "text": "L, O, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lose",
+      "voice": "zh",
+      "text": "动词，丢失，亏损",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lose",
+      "voice": "en",
+      "text": "If we lose this client, the sales target will be hard to meet.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lose",
+      "voice": "zh",
+      "text": "如果失去这个客户，销售目标将很难完成。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "loss",
+      "voice": "en",
+      "text": "loss",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "loss",
+      "voice": "en",
+      "text": "L, O, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "loss",
+      "voice": "zh",
+      "text": "名词，损失，亏损",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "loss",
+      "voice": "en",
+      "text": "The damaged shipment resulted in a small loss for the quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "loss",
+      "voice": "zh",
+      "text": "这批受损货物导致本季度出现小额亏损。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "loyal",
+      "voice": "en",
+      "text": "loyal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "loyal",
+      "voice": "en",
+      "text": "L, O, Y, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "loyal",
+      "voice": "zh",
+      "text": "形容词，忠诚的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "loyal",
+      "voice": "en",
+      "text": "A discount will be offered to loyal customers during the anniversary sale.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "loyal",
+      "voice": "zh",
+      "text": "周年促销期间将向忠实客户提供折扣。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lunch",
+      "voice": "en",
+      "text": "lunch",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lunch",
+      "voice": "en",
+      "text": "L, U, N, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lunch",
+      "voice": "zh",
+      "text": "名词，午餐",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lunch",
+      "voice": "en",
+      "text": "A working lunch will be served in the meeting room at 12:30.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lunch",
+      "voice": "zh",
+      "text": "12:30将在会议室提供工作午餐。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第76轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

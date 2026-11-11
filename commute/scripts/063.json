@@ -1,0 +1,1314 @@
+{
+  "id": "063",
+  "track": 63,
+  "title": "第 63 轨",
+  "word_count": 30,
+  "headwords": [
+    "commuter-flight",
+    "cancelled-flight",
+    "denied-boarding",
+    "gate-check",
+    "excess-baggage",
+    "lost-luggage",
+    "delayed-luggage",
+    "baggage-tag",
+    "claim-check",
+    "travel-adapter",
+    "voltage-converter",
+    "duty-free",
+    "immigration-counter",
+    "customs-declaration",
+    "landing-card",
+    "departure-card",
+    "arrival-card",
+    "visa-on-arrival",
+    "transit-visa",
+    "tourist-visa",
+    "work-permit",
+    "residence-permit",
+    "exit-permit",
+    "reentry-permit",
+    "room-service",
+    "wake-up-call",
+    "early-check-in",
+    "walk-in",
+    "adjoining-room",
+    "connecting-room"
+  ],
+  "entries": [
+    {
+      "word": "commuter-flight",
+      "spelling": "C, O, M, M, U, T, E, R, hyphen, F, L, I, G, H, T",
+      "spoken_meaning": "名词，通勤航班，短途班机",
+      "en": "The commuter-flight from the regional airport takes only 40 minutes.",
+      "zh": "从支线机场出发的通勤航班只需40分钟。"
+    },
+    {
+      "word": "cancelled-flight",
+      "spelling": "C, A, N, C, E, L, L, E, D, hyphen, F, L, I, G, H, T",
+      "spoken_meaning": "名词，取消的航班",
+      "en": "The airline rebooked us after the cancelled-flight was announced.",
+      "zh": "航班取消公布后，航空公司为我们重新订位。"
+    },
+    {
+      "word": "denied-boarding",
+      "spelling": "D, E, N, I, E, D, hyphen, B, O, A, R, D, I, N, G",
+      "spoken_meaning": "名词，拒绝登机，超售拒载",
+      "en": "Compensation for denied-boarding is explained at the ticket counter.",
+      "zh": "关于拒绝登机的赔偿说明可在售票柜台查询。"
+    },
+    {
+      "word": "gate-check",
+      "spelling": "G, A, T, E, hyphen, C, H, E, C, K",
+      "spoken_meaning": "动词或名词，登机口托运",
+      "en": "You may gate-check the stroller just before you board.",
+      "zh": "你可以在登机前在登机口托运婴儿车。"
+    },
+    {
+      "word": "excess-baggage",
+      "spelling": "E, X, C, E, S, S, hyphen, B, A, G, G, A, G, E",
+      "spoken_meaning": "名词，超重行李，逾重行李",
+      "en": "Excess-baggage fees can be paid at the oversize counter.",
+      "zh": "超重行李费可在超大行李柜台支付。"
+    },
+    {
+      "word": "lost-luggage",
+      "spelling": "L, O, S, T, hyphen, L, U, G, G, A, G, E",
+      "spoken_meaning": "名词，丢失的行李",
+      "en": "Please complete a lost-luggage form before leaving the baggage hall.",
+      "zh": "离开行李大厅前请填写行李丢失登记表。"
+    },
+    {
+      "word": "delayed-luggage",
+      "spelling": "D, E, L, A, Y, E, D, hyphen, L, U, G, G, A, G, E",
+      "spoken_meaning": "名词，延误的行李",
+      "en": "Toiletry kits are available if your delayed-luggage has not arrived.",
+      "zh": "如果延误的行李尚未到达，可领取洗漱包。"
+    },
+    {
+      "word": "baggage-tag",
+      "spelling": "B, A, G, G, A, G, E, hyphen, T, A, G",
+      "spoken_meaning": "名词，行李牌",
+      "en": "Keep the baggage-tag until you collect your suitcase.",
+      "zh": "领取行李箱之前请保管好行李牌。"
+    },
+    {
+      "word": "claim-check",
+      "spelling": "C, L, A, I, M, hyphen, C, H, E, C, K",
+      "spoken_meaning": "名词，取物凭证，行李领取单",
+      "en": "Present your claim-check at the counter to collect the repaired laptop.",
+      "zh": "请在柜台出示取物凭证以领取修好的笔记本电脑。"
+    },
+    {
+      "word": "travel-adapter",
+      "spelling": "T, R, A, V, E, L, hyphen, A, D, A, P, T, E, R",
+      "spoken_meaning": "名词，旅行转换插头",
+      "en": "A travel-adapter is provided in each executive room.",
+      "zh": "每间行政客房都提供旅行转换插头。"
+    },
+    {
+      "word": "voltage-converter",
+      "spelling": "V, O, L, T, A, G, E, hyphen, C, O, N, V, E, R, T, E, R",
+      "spoken_meaning": "名词，电压转换器",
+      "en": "Do not use a hair dryer abroad without a voltage-converter.",
+      "zh": "在国外使用吹风机时请配电压转换器。"
+    },
+    {
+      "word": "duty-free",
+      "spelling": "D, U, T, Y, hyphen, F, R, E, E",
+      "spoken_meaning": "形容词或名词，免税的，免税店",
+      "en": "Duty-free allowances are posted near the customs channel.",
+      "zh": "免税额度公示在海关通道附近。"
+    },
+    {
+      "word": "immigration-counter",
+      "spelling": "I, M, M, I, G, R, A, T, I, O, N, hyphen, C, O, U, N, T, E, R",
+      "spoken_meaning": "名词，入境检查台",
+      "en": "Please have your passport ready at the immigration-counter.",
+      "zh": "到达入境检查台时请准备好护照。"
+    },
+    {
+      "word": "customs-declaration",
+      "spelling": "C, U, S, T, O, M, S, hyphen, D, E, C, L, A, R, A, T, I, O, N",
+      "spoken_meaning": "名词，海关申报单",
+      "en": "A customs-declaration must be completed for commercial samples.",
+      "zh": "携带商业样品必须填写海关申报单。"
+    },
+    {
+      "word": "landing-card",
+      "spelling": "L, A, N, D, I, N, G, hyphen, C, A, R, D",
+      "spoken_meaning": "名词，入境卡",
+      "en": "Cabin crew will collect the landing-card before we land.",
+      "zh": "着陆前乘务组将收回入境卡。"
+    },
+    {
+      "word": "departure-card",
+      "spelling": "D, E, P, A, R, T, U, R, E, hyphen, C, A, R, D",
+      "spoken_meaning": "名词，出境卡",
+      "en": "Remember to keep the departure-card until you pass immigration.",
+      "zh": "在通过出入境检查前请保留出境卡。"
+    },
+    {
+      "word": "arrival-card",
+      "spelling": "A, R, R, I, V, A, L, hyphen, C, A, R, D",
+      "spoken_meaning": "名词，入境登记卡",
+      "en": "An arrival-card will be distributed during the flight.",
+      "zh": "飞行途中将分发入境登记卡。"
+    },
+    {
+      "word": "visa-on-arrival",
+      "spelling": "V, I, S, A, hyphen, O, N, hyphen, A, R, R, I, V, A, L",
+      "spoken_meaning": "名词，落地签证",
+      "en": "Visa-on-arrival is available only to travelers with a confirmed hotel booking.",
+      "zh": "只有已确认酒店预订的旅客才能办理落地签证。"
+    },
+    {
+      "word": "transit-visa",
+      "spelling": "T, R, A, N, S, I, T, hyphen, V, I, S, A",
+      "spoken_meaning": "名词，过境签证",
+      "en": "A transit-visa is required if you leave the airport during the layover.",
+      "zh": "若在中转期间离开机场，需要过境签证。"
+    },
+    {
+      "word": "tourist-visa",
+      "spelling": "T, O, U, R, I, S, T, hyphen, V, I, S, A",
+      "spoken_meaning": "名词，旅游签证",
+      "en": "The tourist-visa does not permit paid work during the stay.",
+      "zh": "旅游签证不允许在停留期间从事有偿工作。"
+    },
+    {
+      "word": "work-permit",
+      "spelling": "W, O, R, K, hyphen, P, E, R, M, I, T",
+      "spoken_meaning": "名词，工作许可",
+      "en": "The new engineer cannot start until the work-permit is issued.",
+      "zh": "在工作许可签发前，新工程师不能上岗。"
+    },
+    {
+      "word": "residence-permit",
+      "spelling": "R, E, S, I, D, E, N, C, E, hyphen, P, E, R, M, I, T",
+      "spoken_meaning": "名词，居留许可",
+      "en": "A residence-permit is required for assignments longer than 90 days.",
+      "zh": "超过90天的派驻需要居留许可。"
+    },
+    {
+      "word": "exit-permit",
+      "spelling": "E, X, I, T, hyphen, P, E, R, M, I, T",
+      "spoken_meaning": "名词，出境许可",
+      "en": "Some assignments require an exit-permit before staff can leave the country.",
+      "zh": "部分派驻在员工离境前需要出境许可。"
+    },
+    {
+      "word": "reentry-permit",
+      "spelling": "R, E, E, N, T, R, Y, hyphen, P, E, R, M, I, T",
+      "spoken_meaning": "名词，再入境许可",
+      "en": "Apply for a reentry-permit if you will travel home during the posting.",
+      "zh": "若在派驻期间回国，请申请再入境许可。"
+    },
+    {
+      "word": "room-service",
+      "spelling": "R, O, O, M, hyphen, S, E, R, V, I, C, E",
+      "spoken_meaning": "名词，客房服务",
+      "en": "Room-service is available until midnight on weekdays.",
+      "zh": "工作日的客房服务营业至午夜。"
+    },
+    {
+      "word": "wake-up-call",
+      "spelling": "W, A, K, E, hyphen, U, P, hyphen, C, A, L, L",
+      "spoken_meaning": "名词，唤醒电话，叫早服务",
+      "en": "Please arrange a wake-up-call for 5:30 a.m.",
+      "zh": "请安排早上5:30的叫早服务。"
+    },
+    {
+      "word": "early-check-in",
+      "spelling": "E, A, R, L, Y, hyphen, C, H, E, C, K, hyphen, I, N",
+      "spoken_meaning": "名词，提前入住",
+      "en": "Early-check-in depends on whether the room is ready.",
+      "zh": "能否提前入住取决于房间是否已打扫好。"
+    },
+    {
+      "word": "walk-in",
+      "spelling": "W, A, L, K, hyphen, I, N",
+      "spoken_meaning": "名词或形容词，未经预约的访客，上门客",
+      "en": "The clinic accepts walk-in patients after 3 p.m.",
+      "zh": "该诊所下午3点后接受未经预约的患者。"
+    },
+    {
+      "word": "adjoining-room",
+      "spelling": "A, D, J, O, I, N, I, N, G, hyphen, R, O, O, M",
+      "spoken_meaning": "名词，相邻房间",
+      "en": "Please reserve an adjoining-room for the visiting auditor.",
+      "zh": "请为来访的审计人员预订一间相邻客房。"
+    },
+    {
+      "word": "connecting-room",
+      "spelling": "C, O, N, N, E, C, T, I, N, G, hyphen, R, O, O, M",
+      "spoken_meaning": "名词，连通房",
+      "en": "A connecting-room is needed so the team can work in the sitting area.",
+      "zh": "需要一间连通房，方便团队在起居区工作。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第63轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "commuter-flight",
+      "voice": "en",
+      "text": "commuter flight",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "commuter-flight",
+      "voice": "en",
+      "text": "C, O, M, M, U, T, E, R, hyphen, F, L, I, G, H, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "commuter-flight",
+      "voice": "zh",
+      "text": "名词，通勤航班，短途班机",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "commuter-flight",
+      "voice": "en",
+      "text": "The commuter-flight from the regional airport takes only 40 minutes.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "commuter-flight",
+      "voice": "zh",
+      "text": "从支线机场出发的通勤航班只需40分钟。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cancelled-flight",
+      "voice": "en",
+      "text": "cancelled flight",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cancelled-flight",
+      "voice": "en",
+      "text": "C, A, N, C, E, L, L, E, D, hyphen, F, L, I, G, H, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cancelled-flight",
+      "voice": "zh",
+      "text": "名词，取消的航班",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cancelled-flight",
+      "voice": "en",
+      "text": "The airline rebooked us after the cancelled-flight was announced.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cancelled-flight",
+      "voice": "zh",
+      "text": "航班取消公布后，航空公司为我们重新订位。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "denied-boarding",
+      "voice": "en",
+      "text": "denied boarding",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "denied-boarding",
+      "voice": "en",
+      "text": "D, E, N, I, E, D, hyphen, B, O, A, R, D, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "denied-boarding",
+      "voice": "zh",
+      "text": "名词，拒绝登机，超售拒载",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "denied-boarding",
+      "voice": "en",
+      "text": "Compensation for denied-boarding is explained at the ticket counter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "denied-boarding",
+      "voice": "zh",
+      "text": "关于拒绝登机的赔偿说明可在售票柜台查询。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "gate-check",
+      "voice": "en",
+      "text": "gate check",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "gate-check",
+      "voice": "en",
+      "text": "G, A, T, E, hyphen, C, H, E, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "gate-check",
+      "voice": "zh",
+      "text": "动词或名词，登机口托运",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "gate-check",
+      "voice": "en",
+      "text": "You may gate-check the stroller just before you board.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "gate-check",
+      "voice": "zh",
+      "text": "你可以在登机前在登机口托运婴儿车。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "excess-baggage",
+      "voice": "en",
+      "text": "excess baggage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "excess-baggage",
+      "voice": "en",
+      "text": "E, X, C, E, S, S, hyphen, B, A, G, G, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "excess-baggage",
+      "voice": "zh",
+      "text": "名词，超重行李，逾重行李",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "excess-baggage",
+      "voice": "en",
+      "text": "Excess-baggage fees can be paid at the oversize counter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "excess-baggage",
+      "voice": "zh",
+      "text": "超重行李费可在超大行李柜台支付。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lost-luggage",
+      "voice": "en",
+      "text": "lost luggage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lost-luggage",
+      "voice": "en",
+      "text": "L, O, S, T, hyphen, L, U, G, G, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lost-luggage",
+      "voice": "zh",
+      "text": "名词，丢失的行李",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lost-luggage",
+      "voice": "en",
+      "text": "Please complete a lost-luggage form before leaving the baggage hall.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lost-luggage",
+      "voice": "zh",
+      "text": "离开行李大厅前请填写行李丢失登记表。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "delayed-luggage",
+      "voice": "en",
+      "text": "delayed luggage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "delayed-luggage",
+      "voice": "en",
+      "text": "D, E, L, A, Y, E, D, hyphen, L, U, G, G, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "delayed-luggage",
+      "voice": "zh",
+      "text": "名词，延误的行李",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "delayed-luggage",
+      "voice": "en",
+      "text": "Toiletry kits are available if your delayed-luggage has not arrived.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "delayed-luggage",
+      "voice": "zh",
+      "text": "如果延误的行李尚未到达，可领取洗漱包。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "baggage-tag",
+      "voice": "en",
+      "text": "baggage tag",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "baggage-tag",
+      "voice": "en",
+      "text": "B, A, G, G, A, G, E, hyphen, T, A, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "baggage-tag",
+      "voice": "zh",
+      "text": "名词，行李牌",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "baggage-tag",
+      "voice": "en",
+      "text": "Keep the baggage-tag until you collect your suitcase.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "baggage-tag",
+      "voice": "zh",
+      "text": "领取行李箱之前请保管好行李牌。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "claim-check",
+      "voice": "en",
+      "text": "claim check",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "claim-check",
+      "voice": "en",
+      "text": "C, L, A, I, M, hyphen, C, H, E, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "claim-check",
+      "voice": "zh",
+      "text": "名词，取物凭证，行李领取单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "claim-check",
+      "voice": "en",
+      "text": "Present your claim-check at the counter to collect the repaired laptop.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "claim-check",
+      "voice": "zh",
+      "text": "请在柜台出示取物凭证以领取修好的笔记本电脑。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "travel-adapter",
+      "voice": "en",
+      "text": "travel adapter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "travel-adapter",
+      "voice": "en",
+      "text": "T, R, A, V, E, L, hyphen, A, D, A, P, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "travel-adapter",
+      "voice": "zh",
+      "text": "名词，旅行转换插头",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "travel-adapter",
+      "voice": "en",
+      "text": "A travel-adapter is provided in each executive room.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "travel-adapter",
+      "voice": "zh",
+      "text": "每间行政客房都提供旅行转换插头。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "voltage-converter",
+      "voice": "en",
+      "text": "voltage converter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "voltage-converter",
+      "voice": "en",
+      "text": "V, O, L, T, A, G, E, hyphen, C, O, N, V, E, R, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "voltage-converter",
+      "voice": "zh",
+      "text": "名词，电压转换器",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "voltage-converter",
+      "voice": "en",
+      "text": "Do not use a hair dryer abroad without a voltage-converter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "voltage-converter",
+      "voice": "zh",
+      "text": "在国外使用吹风机时请配电压转换器。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "duty-free",
+      "voice": "en",
+      "text": "duty free",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "duty-free",
+      "voice": "en",
+      "text": "D, U, T, Y, hyphen, F, R, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "duty-free",
+      "voice": "zh",
+      "text": "形容词或名词，免税的，免税店",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "duty-free",
+      "voice": "en",
+      "text": "Duty-free allowances are posted near the customs channel.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "duty-free",
+      "voice": "zh",
+      "text": "免税额度公示在海关通道附近。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "immigration-counter",
+      "voice": "en",
+      "text": "immigration counter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "immigration-counter",
+      "voice": "en",
+      "text": "I, M, M, I, G, R, A, T, I, O, N, hyphen, C, O, U, N, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "immigration-counter",
+      "voice": "zh",
+      "text": "名词，入境检查台",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "immigration-counter",
+      "voice": "en",
+      "text": "Please have your passport ready at the immigration-counter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "immigration-counter",
+      "voice": "zh",
+      "text": "到达入境检查台时请准备好护照。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "customs-declaration",
+      "voice": "en",
+      "text": "customs declaration",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "customs-declaration",
+      "voice": "en",
+      "text": "C, U, S, T, O, M, S, hyphen, D, E, C, L, A, R, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "customs-declaration",
+      "voice": "zh",
+      "text": "名词，海关申报单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "customs-declaration",
+      "voice": "en",
+      "text": "A customs-declaration must be completed for commercial samples.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "customs-declaration",
+      "voice": "zh",
+      "text": "携带商业样品必须填写海关申报单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "landing-card",
+      "voice": "en",
+      "text": "landing card",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "landing-card",
+      "voice": "en",
+      "text": "L, A, N, D, I, N, G, hyphen, C, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "landing-card",
+      "voice": "zh",
+      "text": "名词，入境卡",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "landing-card",
+      "voice": "en",
+      "text": "Cabin crew will collect the landing-card before we land.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "landing-card",
+      "voice": "zh",
+      "text": "着陆前乘务组将收回入境卡。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "departure-card",
+      "voice": "en",
+      "text": "departure card",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "departure-card",
+      "voice": "en",
+      "text": "D, E, P, A, R, T, U, R, E, hyphen, C, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "departure-card",
+      "voice": "zh",
+      "text": "名词，出境卡",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "departure-card",
+      "voice": "en",
+      "text": "Remember to keep the departure-card until you pass immigration.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "departure-card",
+      "voice": "zh",
+      "text": "在通过出入境检查前请保留出境卡。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "arrival-card",
+      "voice": "en",
+      "text": "arrival card",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "arrival-card",
+      "voice": "en",
+      "text": "A, R, R, I, V, A, L, hyphen, C, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "arrival-card",
+      "voice": "zh",
+      "text": "名词，入境登记卡",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "arrival-card",
+      "voice": "en",
+      "text": "An arrival-card will be distributed during the flight.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "arrival-card",
+      "voice": "zh",
+      "text": "飞行途中将分发入境登记卡。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "visa-on-arrival",
+      "voice": "en",
+      "text": "visa on arrival",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "visa-on-arrival",
+      "voice": "en",
+      "text": "V, I, S, A, hyphen, O, N, hyphen, A, R, R, I, V, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "visa-on-arrival",
+      "voice": "zh",
+      "text": "名词，落地签证",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "visa-on-arrival",
+      "voice": "en",
+      "text": "Visa-on-arrival is available only to travelers with a confirmed hotel booking.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "visa-on-arrival",
+      "voice": "zh",
+      "text": "只有已确认酒店预订的旅客才能办理落地签证。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "transit-visa",
+      "voice": "en",
+      "text": "transit visa",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "transit-visa",
+      "voice": "en",
+      "text": "T, R, A, N, S, I, T, hyphen, V, I, S, A",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "transit-visa",
+      "voice": "zh",
+      "text": "名词，过境签证",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "transit-visa",
+      "voice": "en",
+      "text": "A transit-visa is required if you leave the airport during the layover.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "transit-visa",
+      "voice": "zh",
+      "text": "若在中转期间离开机场，需要过境签证。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tourist-visa",
+      "voice": "en",
+      "text": "tourist visa",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tourist-visa",
+      "voice": "en",
+      "text": "T, O, U, R, I, S, T, hyphen, V, I, S, A",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tourist-visa",
+      "voice": "zh",
+      "text": "名词，旅游签证",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tourist-visa",
+      "voice": "en",
+      "text": "The tourist-visa does not permit paid work during the stay.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tourist-visa",
+      "voice": "zh",
+      "text": "旅游签证不允许在停留期间从事有偿工作。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "work-permit",
+      "voice": "en",
+      "text": "work permit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "work-permit",
+      "voice": "en",
+      "text": "W, O, R, K, hyphen, P, E, R, M, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "work-permit",
+      "voice": "zh",
+      "text": "名词，工作许可",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "work-permit",
+      "voice": "en",
+      "text": "The new engineer cannot start until the work-permit is issued.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "work-permit",
+      "voice": "zh",
+      "text": "在工作许可签发前，新工程师不能上岗。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "residence-permit",
+      "voice": "en",
+      "text": "residence permit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "residence-permit",
+      "voice": "en",
+      "text": "R, E, S, I, D, E, N, C, E, hyphen, P, E, R, M, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "residence-permit",
+      "voice": "zh",
+      "text": "名词，居留许可",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "residence-permit",
+      "voice": "en",
+      "text": "A residence-permit is required for assignments longer than 90 days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "residence-permit",
+      "voice": "zh",
+      "text": "超过90天的派驻需要居留许可。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "exit-permit",
+      "voice": "en",
+      "text": "exit permit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "exit-permit",
+      "voice": "en",
+      "text": "E, X, I, T, hyphen, P, E, R, M, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "exit-permit",
+      "voice": "zh",
+      "text": "名词，出境许可",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "exit-permit",
+      "voice": "en",
+      "text": "Some assignments require an exit-permit before staff can leave the country.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "exit-permit",
+      "voice": "zh",
+      "text": "部分派驻在员工离境前需要出境许可。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reentry-permit",
+      "voice": "en",
+      "text": "reentry permit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reentry-permit",
+      "voice": "en",
+      "text": "R, E, E, N, T, R, Y, hyphen, P, E, R, M, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reentry-permit",
+      "voice": "zh",
+      "text": "名词，再入境许可",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reentry-permit",
+      "voice": "en",
+      "text": "Apply for a reentry-permit if you will travel home during the posting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reentry-permit",
+      "voice": "zh",
+      "text": "若在派驻期间回国，请申请再入境许可。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "room-service",
+      "voice": "en",
+      "text": "room service",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "room-service",
+      "voice": "en",
+      "text": "R, O, O, M, hyphen, S, E, R, V, I, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "room-service",
+      "voice": "zh",
+      "text": "名词，客房服务",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "room-service",
+      "voice": "en",
+      "text": "Room-service is available until midnight on weekdays.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "room-service",
+      "voice": "zh",
+      "text": "工作日的客房服务营业至午夜。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "wake-up-call",
+      "voice": "en",
+      "text": "wake up call",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "wake-up-call",
+      "voice": "en",
+      "text": "W, A, K, E, hyphen, U, P, hyphen, C, A, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "wake-up-call",
+      "voice": "zh",
+      "text": "名词，唤醒电话，叫早服务",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "wake-up-call",
+      "voice": "en",
+      "text": "Please arrange a wake-up-call for 5:30 a.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "wake-up-call",
+      "voice": "zh",
+      "text": "请安排早上5:30的叫早服务。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "early-check-in",
+      "voice": "en",
+      "text": "early check in",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "early-check-in",
+      "voice": "en",
+      "text": "E, A, R, L, Y, hyphen, C, H, E, C, K, hyphen, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "early-check-in",
+      "voice": "zh",
+      "text": "名词，提前入住",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "early-check-in",
+      "voice": "en",
+      "text": "Early-check-in depends on whether the room is ready.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "early-check-in",
+      "voice": "zh",
+      "text": "能否提前入住取决于房间是否已打扫好。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "walk-in",
+      "voice": "en",
+      "text": "walk in",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "walk-in",
+      "voice": "en",
+      "text": "W, A, L, K, hyphen, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "walk-in",
+      "voice": "zh",
+      "text": "名词或形容词，未经预约的访客，上门客",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "walk-in",
+      "voice": "en",
+      "text": "The clinic accepts walk-in patients after 3 p.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "walk-in",
+      "voice": "zh",
+      "text": "该诊所下午3点后接受未经预约的患者。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "adjoining-room",
+      "voice": "en",
+      "text": "adjoining room",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "adjoining-room",
+      "voice": "en",
+      "text": "A, D, J, O, I, N, I, N, G, hyphen, R, O, O, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "adjoining-room",
+      "voice": "zh",
+      "text": "名词，相邻房间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "adjoining-room",
+      "voice": "en",
+      "text": "Please reserve an adjoining-room for the visiting auditor.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "adjoining-room",
+      "voice": "zh",
+      "text": "请为来访的审计人员预订一间相邻客房。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "connecting-room",
+      "voice": "en",
+      "text": "connecting room",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "connecting-room",
+      "voice": "en",
+      "text": "C, O, N, N, E, C, T, I, N, G, hyphen, R, O, O, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "connecting-room",
+      "voice": "zh",
+      "text": "名词，连通房",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "connecting-room",
+      "voice": "en",
+      "text": "A connecting-room is needed so the team can work in the sitting area.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "connecting-room",
+      "voice": "zh",
+      "text": "需要一间连通房，方便团队在起居区工作。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第63轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

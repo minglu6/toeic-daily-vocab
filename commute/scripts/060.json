@@ -1,0 +1,1314 @@
+{
+  "id": "060",
+  "track": 60,
+  "title": "第 60 轨",
+  "word_count": 30,
+  "headwords": [
+    "computer",
+    "conclusion",
+    "confer",
+    "confirmation",
+    "congratulate",
+    "congratulations",
+    "connect",
+    "connection",
+    "consider",
+    "consideration",
+    "consist",
+    "construction",
+    "consultation",
+    "consumer",
+    "contain",
+    "container",
+    "contribution",
+    "conventional",
+    "cooperative",
+    "coordination",
+    "coordinator",
+    "copy",
+    "correct",
+    "costly",
+    "council",
+    "counter",
+    "create",
+    "creative",
+    "currently",
+    "deal"
+  ],
+  "entries": [
+    {
+      "word": "computer",
+      "spelling": "C, O, M, P, U, T, E, R",
+      "spoken_meaning": "名词，计算机，电脑",
+      "en": "A replacement computer will be issued while yours is repaired.",
+      "zh": "你的电脑送修期间，将发放一台替换电脑。"
+    },
+    {
+      "word": "conclusion",
+      "spelling": "C, O, N, C, L, U, S, I, O, N",
+      "spoken_meaning": "名词，结论，结束",
+      "en": "In conclusion, we recommend delaying the launch by two weeks.",
+      "zh": "总之，我们建议将发布推迟两周。"
+    },
+    {
+      "word": "confer",
+      "spelling": "C, O, N, F, E, R",
+      "spoken_meaning": "动词，商议，授予",
+      "en": "I need to confer with legal before we accept those terms.",
+      "zh": "在接受这些条款前，我需要与法务商议。"
+    },
+    {
+      "word": "confirmation",
+      "spelling": "C, O, N, F, I, R, M, A, T, I, O, N",
+      "spoken_meaning": "名词，确认，证实",
+      "en": "You will receive a confirmation email once the booking is complete.",
+      "zh": "预订完成后，你会收到一封确认邮件。"
+    },
+    {
+      "word": "congratulate",
+      "spelling": "C, O, N, G, R, A, T, U, L, A, T, E",
+      "spoken_meaning": "动词，祝贺",
+      "en": "We congratulate the design team on winning the industry award.",
+      "zh": "我们祝贺设计团队获得该行业奖项。"
+    },
+    {
+      "word": "congratulations",
+      "spelling": "C, O, N, G, R, A, T, U, L, A, T, I, O, N, S",
+      "spoken_meaning": "名词，祝贺，恭喜",
+      "en": "Congratulations on your promotion to regional manager.",
+      "zh": "祝贺你晋升为区域经理。"
+    },
+    {
+      "word": "connect",
+      "spelling": "C, O, N, N, E, C, T",
+      "spoken_meaning": "动词，连接，衔接",
+      "en": "This train does not connect with the last bus to the factory.",
+      "zh": "这班火车衔接不上前往工厂的末班巴士。"
+    },
+    {
+      "word": "connection",
+      "spelling": "C, O, N, N, E, C, T, I, O, N",
+      "spoken_meaning": "名词，连接，转乘，关系",
+      "en": "A short delay in Chicago caused us to miss our connection to Boston.",
+      "zh": "芝加哥的短暂延误使我们错过了前往波士顿的转乘航班。"
+    },
+    {
+      "word": "consider",
+      "spelling": "C, O, N, S, I, D, E, R",
+      "spoken_meaning": "动词，考虑，认为",
+      "en": "The board will consider the expansion proposal at its next meeting.",
+      "zh": "董事会将在下次会议上考虑这项扩张提案。"
+    },
+    {
+      "word": "consideration",
+      "spelling": "C, O, N, S, I, D, E, R, A, T, I, O, N",
+      "spoken_meaning": "名词，考虑，对价",
+      "en": "Thank you for your consideration of our bid.",
+      "zh": "感谢贵方考虑我们的投标。"
+    },
+    {
+      "word": "consist",
+      "spelling": "C, O, N, S, I, S, T",
+      "spoken_meaning": "动词，由…组成，在于",
+      "en": "The kit consists of a charger, a cable, and a user guide.",
+      "zh": "套装包括充电器、线和一本使用指南。"
+    },
+    {
+      "word": "construction",
+      "spelling": "C, O, N, S, T, R, U, C, T, I, O, N",
+      "spoken_meaning": "名词，建造，施工",
+      "en": "Construction of the parking deck will begin after the holiday weekend.",
+      "zh": "停车楼的施工将在节日周末后开始。"
+    },
+    {
+      "word": "consultation",
+      "spelling": "C, O, N, S, U, L, T, A, T, I, O, N",
+      "spoken_meaning": "名词，咨询，磋商",
+      "en": "A public consultation will be held before the route change is approved.",
+      "zh": "在批准线路变更前将举行公众咨询。"
+    },
+    {
+      "word": "consumer",
+      "spelling": "C, O, N, S, U, M, E, R",
+      "spoken_meaning": "名词，消费者",
+      "en": "Consumer demand for smaller packages has increased this year.",
+      "zh": "今年消费者对小包装的需求有所增加。"
+    },
+    {
+      "word": "contain",
+      "spelling": "C, O, N, T, A, I, N",
+      "spoken_meaning": "动词，包含，容纳",
+      "en": "The crate contains twelve units and a spare-parts kit.",
+      "zh": "这个板条箱里有十二台设备和一套备件。"
+    },
+    {
+      "word": "container",
+      "spelling": "C, O, N, T, A, I, N, E, R",
+      "spoken_meaning": "名词，集装箱，容器",
+      "en": "The container will leave the port on Thursday evening.",
+      "zh": "该集装箱将于周四晚上离港。"
+    },
+    {
+      "word": "contribution",
+      "spelling": "C, O, N, T, R, I, B, U, T, I, O, N",
+      "spoken_meaning": "名词，贡献，缴款",
+      "en": "Your contribution to the pension plan is deducted from each paycheck.",
+      "zh": "你的养老金缴款将从每期工资中扣除。"
+    },
+    {
+      "word": "conventional",
+      "spelling": "C, O, N, V, E, N, T, I, O, N, A, L",
+      "spoken_meaning": "形容词，常规的，传统的",
+      "en": "Conventional mail is still used for contracts that require original signatures.",
+      "zh": "仍需原件签字的合同还是会用传统邮寄。"
+    },
+    {
+      "word": "cooperative",
+      "spelling": "C, O, O, P, E, R, A, T, I, V, E",
+      "spoken_meaning": "形容词或名词，合作的，合作社",
+      "en": "A cooperative effort between sales and logistics shortened delivery times.",
+      "zh": "销售与物流的合作缩短了交货时间。"
+    },
+    {
+      "word": "coordination",
+      "spelling": "C, O, O, R, D, I, N, A, T, I, O, N",
+      "spoken_meaning": "名词，协调",
+      "en": "Better coordination with the airline reduced missed connections.",
+      "zh": "与航空公司更好的协调减少了误机。"
+    },
+    {
+      "word": "coordinator",
+      "spelling": "C, O, O, R, D, I, N, A, T, O, R",
+      "spoken_meaning": "名词，协调员",
+      "en": "The event coordinator will confirm the seating plan tomorrow.",
+      "zh": "活动协调员明天将确认座位安排。"
+    },
+    {
+      "word": "copy",
+      "spelling": "C, O, P, Y",
+      "spoken_meaning": "名词或动词，副本，复印，抄送",
+      "en": "Please make a copy of the signed form for your records.",
+      "zh": "请把已签字的表格复印一份留存。"
+    },
+    {
+      "word": "correct",
+      "spelling": "C, O, R, R, E, C, T",
+      "spoken_meaning": "动词或形容词，改正，正确的",
+      "en": "Please correct the shipping address before the labels are printed.",
+      "zh": "在打印标签前，请更正收货地址。"
+    },
+    {
+      "word": "costly",
+      "spelling": "C, O, S, T, L, Y",
+      "spoken_meaning": "形容词，昂贵的，代价高的",
+      "en": "A last-minute venue change would be costly and disruptive.",
+      "zh": "临时更换场地既昂贵又会造成混乱。"
+    },
+    {
+      "word": "council",
+      "spelling": "C, O, U, N, C, I, L",
+      "spoken_meaning": "名词，理事会，委员会",
+      "en": "The city council approved the permit for the new warehouse.",
+      "zh": "市议会批准了新仓库的许可。"
+    },
+    {
+      "word": "counter",
+      "spelling": "C, O, U, N, T, E, R",
+      "spoken_meaning": "名词，柜台，计数器",
+      "en": "Please pick up your badges at the registration counter.",
+      "zh": "请到登记柜台领取胸牌。"
+    },
+    {
+      "word": "create",
+      "spelling": "C, R, E, A, T, E",
+      "spoken_meaning": "动词，创建，产生",
+      "en": "Please create a shared folder for the bid documents.",
+      "zh": "请为投标文件创建一个共享文件夹。"
+    },
+    {
+      "word": "creative",
+      "spelling": "C, R, E, A, T, I, V, E",
+      "spoken_meaning": "形容词，有创意的",
+      "en": "The creative team will present three campaign concepts on Monday.",
+      "zh": "创意团队周一将展示三个活动方案。"
+    },
+    {
+      "word": "currently",
+      "spelling": "C, U, R, R, E, N, T, L, Y",
+      "spoken_meaning": "副词，目前，当前",
+      "en": "The position is currently filled on a temporary basis.",
+      "zh": "该职位目前由临时人员担任。"
+    },
+    {
+      "word": "deal",
+      "spelling": "D, E, A, L",
+      "spoken_meaning": "名词或动词，交易，处理",
+      "en": "The sales team closed a three-year deal with a major retailer.",
+      "zh": "销售团队与一家大型零售商敲定了一份三年期交易。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第60轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "computer",
+      "voice": "en",
+      "text": "computer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "computer",
+      "voice": "en",
+      "text": "C, O, M, P, U, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "computer",
+      "voice": "zh",
+      "text": "名词，计算机，电脑",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "computer",
+      "voice": "en",
+      "text": "A replacement computer will be issued while yours is repaired.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "computer",
+      "voice": "zh",
+      "text": "你的电脑送修期间，将发放一台替换电脑。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "conclusion",
+      "voice": "en",
+      "text": "conclusion",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "conclusion",
+      "voice": "en",
+      "text": "C, O, N, C, L, U, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "conclusion",
+      "voice": "zh",
+      "text": "名词，结论，结束",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "conclusion",
+      "voice": "en",
+      "text": "In conclusion, we recommend delaying the launch by two weeks.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "conclusion",
+      "voice": "zh",
+      "text": "总之，我们建议将发布推迟两周。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "confer",
+      "voice": "en",
+      "text": "confer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "confer",
+      "voice": "en",
+      "text": "C, O, N, F, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "confer",
+      "voice": "zh",
+      "text": "动词，商议，授予",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "confer",
+      "voice": "en",
+      "text": "I need to confer with legal before we accept those terms.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "confer",
+      "voice": "zh",
+      "text": "在接受这些条款前，我需要与法务商议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "confirmation",
+      "voice": "en",
+      "text": "confirmation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "confirmation",
+      "voice": "en",
+      "text": "C, O, N, F, I, R, M, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "confirmation",
+      "voice": "zh",
+      "text": "名词，确认，证实",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "confirmation",
+      "voice": "en",
+      "text": "You will receive a confirmation email once the booking is complete.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "confirmation",
+      "voice": "zh",
+      "text": "预订完成后，你会收到一封确认邮件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "congratulate",
+      "voice": "en",
+      "text": "congratulate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "congratulate",
+      "voice": "en",
+      "text": "C, O, N, G, R, A, T, U, L, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "congratulate",
+      "voice": "zh",
+      "text": "动词，祝贺",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "congratulate",
+      "voice": "en",
+      "text": "We congratulate the design team on winning the industry award.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "congratulate",
+      "voice": "zh",
+      "text": "我们祝贺设计团队获得该行业奖项。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "congratulations",
+      "voice": "en",
+      "text": "congratulations",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "congratulations",
+      "voice": "en",
+      "text": "C, O, N, G, R, A, T, U, L, A, T, I, O, N, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "congratulations",
+      "voice": "zh",
+      "text": "名词，祝贺，恭喜",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "congratulations",
+      "voice": "en",
+      "text": "Congratulations on your promotion to regional manager.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "congratulations",
+      "voice": "zh",
+      "text": "祝贺你晋升为区域经理。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "connect",
+      "voice": "en",
+      "text": "connect",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "connect",
+      "voice": "en",
+      "text": "C, O, N, N, E, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "connect",
+      "voice": "zh",
+      "text": "动词，连接，衔接",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "connect",
+      "voice": "en",
+      "text": "This train does not connect with the last bus to the factory.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "connect",
+      "voice": "zh",
+      "text": "这班火车衔接不上前往工厂的末班巴士。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "connection",
+      "voice": "en",
+      "text": "connection",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "connection",
+      "voice": "en",
+      "text": "C, O, N, N, E, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "connection",
+      "voice": "zh",
+      "text": "名词，连接，转乘，关系",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "connection",
+      "voice": "en",
+      "text": "A short delay in Chicago caused us to miss our connection to Boston.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "connection",
+      "voice": "zh",
+      "text": "芝加哥的短暂延误使我们错过了前往波士顿的转乘航班。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "consider",
+      "voice": "en",
+      "text": "consider",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "consider",
+      "voice": "en",
+      "text": "C, O, N, S, I, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "consider",
+      "voice": "zh",
+      "text": "动词，考虑，认为",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "consider",
+      "voice": "en",
+      "text": "The board will consider the expansion proposal at its next meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "consider",
+      "voice": "zh",
+      "text": "董事会将在下次会议上考虑这项扩张提案。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "consideration",
+      "voice": "en",
+      "text": "consideration",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "consideration",
+      "voice": "en",
+      "text": "C, O, N, S, I, D, E, R, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "consideration",
+      "voice": "zh",
+      "text": "名词，考虑，对价",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "consideration",
+      "voice": "en",
+      "text": "Thank you for your consideration of our bid.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "consideration",
+      "voice": "zh",
+      "text": "感谢贵方考虑我们的投标。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "consist",
+      "voice": "en",
+      "text": "consist",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "consist",
+      "voice": "en",
+      "text": "C, O, N, S, I, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "consist",
+      "voice": "zh",
+      "text": "动词，由…组成，在于",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "consist",
+      "voice": "en",
+      "text": "The kit consists of a charger, a cable, and a user guide.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "consist",
+      "voice": "zh",
+      "text": "套装包括充电器、线和一本使用指南。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "construction",
+      "voice": "en",
+      "text": "construction",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "construction",
+      "voice": "en",
+      "text": "C, O, N, S, T, R, U, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "construction",
+      "voice": "zh",
+      "text": "名词，建造，施工",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "construction",
+      "voice": "en",
+      "text": "Construction of the parking deck will begin after the holiday weekend.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "construction",
+      "voice": "zh",
+      "text": "停车楼的施工将在节日周末后开始。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "consultation",
+      "voice": "en",
+      "text": "consultation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "consultation",
+      "voice": "en",
+      "text": "C, O, N, S, U, L, T, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "consultation",
+      "voice": "zh",
+      "text": "名词，咨询，磋商",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "consultation",
+      "voice": "en",
+      "text": "A public consultation will be held before the route change is approved.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "consultation",
+      "voice": "zh",
+      "text": "在批准线路变更前将举行公众咨询。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "consumer",
+      "voice": "en",
+      "text": "consumer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "consumer",
+      "voice": "en",
+      "text": "C, O, N, S, U, M, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "consumer",
+      "voice": "zh",
+      "text": "名词，消费者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "consumer",
+      "voice": "en",
+      "text": "Consumer demand for smaller packages has increased this year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "consumer",
+      "voice": "zh",
+      "text": "今年消费者对小包装的需求有所增加。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "contain",
+      "voice": "en",
+      "text": "contain",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "contain",
+      "voice": "en",
+      "text": "C, O, N, T, A, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "contain",
+      "voice": "zh",
+      "text": "动词，包含，容纳",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "contain",
+      "voice": "en",
+      "text": "The crate contains twelve units and a spare-parts kit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "contain",
+      "voice": "zh",
+      "text": "这个板条箱里有十二台设备和一套备件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "container",
+      "voice": "en",
+      "text": "container",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "container",
+      "voice": "en",
+      "text": "C, O, N, T, A, I, N, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "container",
+      "voice": "zh",
+      "text": "名词，集装箱，容器",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "container",
+      "voice": "en",
+      "text": "The container will leave the port on Thursday evening.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "container",
+      "voice": "zh",
+      "text": "该集装箱将于周四晚上离港。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "contribution",
+      "voice": "en",
+      "text": "contribution",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "contribution",
+      "voice": "en",
+      "text": "C, O, N, T, R, I, B, U, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "contribution",
+      "voice": "zh",
+      "text": "名词，贡献，缴款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "contribution",
+      "voice": "en",
+      "text": "Your contribution to the pension plan is deducted from each paycheck.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "contribution",
+      "voice": "zh",
+      "text": "你的养老金缴款将从每期工资中扣除。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "conventional",
+      "voice": "en",
+      "text": "conventional",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "conventional",
+      "voice": "en",
+      "text": "C, O, N, V, E, N, T, I, O, N, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "conventional",
+      "voice": "zh",
+      "text": "形容词，常规的，传统的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "conventional",
+      "voice": "en",
+      "text": "Conventional mail is still used for contracts that require original signatures.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "conventional",
+      "voice": "zh",
+      "text": "仍需原件签字的合同还是会用传统邮寄。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cooperative",
+      "voice": "en",
+      "text": "cooperative",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cooperative",
+      "voice": "en",
+      "text": "C, O, O, P, E, R, A, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cooperative",
+      "voice": "zh",
+      "text": "形容词或名词，合作的，合作社",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cooperative",
+      "voice": "en",
+      "text": "A cooperative effort between sales and logistics shortened delivery times.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cooperative",
+      "voice": "zh",
+      "text": "销售与物流的合作缩短了交货时间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "coordination",
+      "voice": "en",
+      "text": "coordination",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "coordination",
+      "voice": "en",
+      "text": "C, O, O, R, D, I, N, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "coordination",
+      "voice": "zh",
+      "text": "名词，协调",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "coordination",
+      "voice": "en",
+      "text": "Better coordination with the airline reduced missed connections.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "coordination",
+      "voice": "zh",
+      "text": "与航空公司更好的协调减少了误机。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "coordinator",
+      "voice": "en",
+      "text": "coordinator",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "coordinator",
+      "voice": "en",
+      "text": "C, O, O, R, D, I, N, A, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "coordinator",
+      "voice": "zh",
+      "text": "名词，协调员",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "coordinator",
+      "voice": "en",
+      "text": "The event coordinator will confirm the seating plan tomorrow.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "coordinator",
+      "voice": "zh",
+      "text": "活动协调员明天将确认座位安排。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "copy",
+      "voice": "en",
+      "text": "copy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "copy",
+      "voice": "en",
+      "text": "C, O, P, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "copy",
+      "voice": "zh",
+      "text": "名词或动词，副本，复印，抄送",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "copy",
+      "voice": "en",
+      "text": "Please make a copy of the signed form for your records.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "copy",
+      "voice": "zh",
+      "text": "请把已签字的表格复印一份留存。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "correct",
+      "voice": "en",
+      "text": "correct",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "correct",
+      "voice": "en",
+      "text": "C, O, R, R, E, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "correct",
+      "voice": "zh",
+      "text": "动词或形容词，改正，正确的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "correct",
+      "voice": "en",
+      "text": "Please correct the shipping address before the labels are printed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "correct",
+      "voice": "zh",
+      "text": "在打印标签前，请更正收货地址。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "costly",
+      "voice": "en",
+      "text": "costly",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "costly",
+      "voice": "en",
+      "text": "C, O, S, T, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "costly",
+      "voice": "zh",
+      "text": "形容词，昂贵的，代价高的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "costly",
+      "voice": "en",
+      "text": "A last-minute venue change would be costly and disruptive.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "costly",
+      "voice": "zh",
+      "text": "临时更换场地既昂贵又会造成混乱。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "council",
+      "voice": "en",
+      "text": "council",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "council",
+      "voice": "en",
+      "text": "C, O, U, N, C, I, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "council",
+      "voice": "zh",
+      "text": "名词，理事会，委员会",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "council",
+      "voice": "en",
+      "text": "The city council approved the permit for the new warehouse.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "council",
+      "voice": "zh",
+      "text": "市议会批准了新仓库的许可。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "counter",
+      "voice": "en",
+      "text": "counter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "counter",
+      "voice": "en",
+      "text": "C, O, U, N, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "counter",
+      "voice": "zh",
+      "text": "名词，柜台，计数器",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "counter",
+      "voice": "en",
+      "text": "Please pick up your badges at the registration counter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "counter",
+      "voice": "zh",
+      "text": "请到登记柜台领取胸牌。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "create",
+      "voice": "en",
+      "text": "create",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "create",
+      "voice": "en",
+      "text": "C, R, E, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "create",
+      "voice": "zh",
+      "text": "动词，创建，产生",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "create",
+      "voice": "en",
+      "text": "Please create a shared folder for the bid documents.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "create",
+      "voice": "zh",
+      "text": "请为投标文件创建一个共享文件夹。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "creative",
+      "voice": "en",
+      "text": "creative",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "creative",
+      "voice": "en",
+      "text": "C, R, E, A, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "creative",
+      "voice": "zh",
+      "text": "形容词，有创意的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "creative",
+      "voice": "en",
+      "text": "The creative team will present three campaign concepts on Monday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "creative",
+      "voice": "zh",
+      "text": "创意团队周一将展示三个活动方案。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "currently",
+      "voice": "en",
+      "text": "currently",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "currently",
+      "voice": "en",
+      "text": "C, U, R, R, E, N, T, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "currently",
+      "voice": "zh",
+      "text": "副词，目前，当前",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "currently",
+      "voice": "en",
+      "text": "The position is currently filled on a temporary basis.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "currently",
+      "voice": "zh",
+      "text": "该职位目前由临时人员担任。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "deal",
+      "voice": "en",
+      "text": "deal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deal",
+      "voice": "en",
+      "text": "D, E, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deal",
+      "voice": "zh",
+      "text": "名词或动词，交易，处理",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deal",
+      "voice": "en",
+      "text": "The sales team closed a three-year deal with a major retailer.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deal",
+      "voice": "zh",
+      "text": "销售团队与一家大型零售商敲定了一份三年期交易。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第60轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

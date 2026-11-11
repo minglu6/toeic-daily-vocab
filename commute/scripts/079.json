@@ -1,0 +1,1314 @@
+{
+  "id": "079",
+  "track": 79,
+  "title": "第 79 轨",
+  "word_count": 30,
+  "headwords": [
+    "numerous",
+    "nurse",
+    "objection",
+    "oblige",
+    "observe",
+    "observer",
+    "obstacle",
+    "obvious",
+    "obviously",
+    "occasion",
+    "occasional",
+    "occasionally",
+    "occupation",
+    "occur",
+    "occurrence",
+    "offer",
+    "officer",
+    "official",
+    "officially",
+    "opening",
+    "operation",
+    "operator",
+    "opinion",
+    "opponent",
+    "oppose",
+    "opposite",
+    "opposition",
+    "opt",
+    "oral",
+    "ordinary"
+  ],
+  "entries": [
+    {
+      "word": "numerous",
+      "spelling": "N, U, M, E, R, O, U, S",
+      "spoken_meaning": "形容词，许多的",
+      "en": "We have received numerous requests to extend the store hours.",
+      "zh": "我们收到许多要求延长营业时间的申请。"
+    },
+    {
+      "word": "nurse",
+      "spelling": "N, U, R, S, E",
+      "spoken_meaning": "名词，护士",
+      "en": "A nurse is on duty in the staff clinic until 5 p.m.",
+      "zh": "员工诊所的护士值班至下午5点。"
+    },
+    {
+      "word": "objection",
+      "spelling": "O, B, J, E, C, T, I, O, N",
+      "spoken_meaning": "名词，反对，异议",
+      "en": "If there is no objection, the minutes will be approved as drafted.",
+      "zh": "如果没有异议，会议记录将按草稿通过。"
+    },
+    {
+      "word": "oblige",
+      "spelling": "O, B, L, I, G, E",
+      "spoken_meaning": "动词，迫使，施惠",
+      "en": "The contract obliges the supplier to give 14 days' notice of delays.",
+      "zh": "合同要求供应商在延误时提前14天通知。"
+    },
+    {
+      "word": "observe",
+      "spelling": "O, B, S, E, R, V, E",
+      "spoken_meaning": "动词，遵守，观察",
+      "en": "All visitors must observe the safety rules in the production area.",
+      "zh": "所有访客必须遵守生产区的安全规定。"
+    },
+    {
+      "word": "observer",
+      "spelling": "O, B, S, E, R, V, E, R",
+      "spoken_meaning": "名词，观察员",
+      "en": "An observer from the certification body will attend the audit.",
+      "zh": "认证机构的观察员将出席此次审计。"
+    },
+    {
+      "word": "obstacle",
+      "spelling": "O, B, S, T, A, C, L, E",
+      "spoken_meaning": "名词，障碍",
+      "en": "A missing permit is the main obstacle to starting construction.",
+      "zh": "缺少许可是开工的主要障碍。"
+    },
+    {
+      "word": "obvious",
+      "spelling": "O, B, V, I, O, U, S",
+      "spoken_meaning": "形容词，明显的",
+      "en": "It should be obvious from the sign that this door is an emergency exit.",
+      "zh": "从标识上应能明显看出这扇门是紧急出口。"
+    },
+    {
+      "word": "obviously",
+      "spelling": "O, B, V, I, O, U, S, L, Y",
+      "spoken_meaning": "副词，明显地，显然",
+      "en": "The shipment was obviously damaged and should not have been accepted.",
+      "zh": "这批货明显已损坏，本不该签收。"
+    },
+    {
+      "word": "occasion",
+      "spelling": "O, C, C, A, S, I, O, N",
+      "spoken_meaning": "名词，场合，时机",
+      "en": "Name badges should be worn on formal occasions in the plant.",
+      "zh": "在工厂的正式场合应佩戴姓名牌。"
+    },
+    {
+      "word": "occasional",
+      "spelling": "O, C, C, A, S, I, O, N, A, L",
+      "spoken_meaning": "形容词，偶尔的",
+      "en": "Occasional overtime may be required at month end.",
+      "zh": "月末可能需要偶尔加班。"
+    },
+    {
+      "word": "occasionally",
+      "spelling": "O, C, C, A, S, I, O, N, A, L, L, Y",
+      "spoken_meaning": "副词，偶尔",
+      "en": "The ferry is occasionally cancelled because of high winds.",
+      "zh": "渡轮偶尔会因大风取消。"
+    },
+    {
+      "word": "occupation",
+      "spelling": "O, C, C, U, P, A, T, I, O, N",
+      "spoken_meaning": "名词，职业，占用",
+      "en": "Please state your occupation on the visa form.",
+      "zh": "请在签证表上填写职业。"
+    },
+    {
+      "word": "occur",
+      "spelling": "O, C, C, U, R",
+      "spoken_meaning": "动词，发生",
+      "en": "If a delay occurs, please notify the customer the same day.",
+      "zh": "如果出现延误，请在当天通知客户。"
+    },
+    {
+      "word": "occurrence",
+      "spelling": "O, C, C, U, R, R, E, N, C, E",
+      "spoken_meaning": "名词，发生，事件",
+      "en": "This is the second occurrence of a mislabeled shipment this month.",
+      "zh": "这是本月第二次出现标签贴错的货物。"
+    },
+    {
+      "word": "offer",
+      "spelling": "O, F, F, E, R",
+      "spoken_meaning": "名词或动词，提供，报价，录用",
+      "en": "We are pleased to offer you the position of shift supervisor.",
+      "zh": "我们很高兴录用你为班次主管。"
+    },
+    {
+      "word": "officer",
+      "spelling": "O, F, F, I, C, E, R",
+      "spoken_meaning": "名词，官员，主管人员",
+      "en": "A customs officer may open the crates for inspection.",
+      "zh": "海关官员可能会开箱检查。"
+    },
+    {
+      "word": "official",
+      "spelling": "O, F, F, I, C, I, A, L",
+      "spoken_meaning": "形容词或名词，官方的，官员",
+      "en": "An official announcement will be posted on the intranet at noon.",
+      "zh": "官方公告将于中午发布在内网上。"
+    },
+    {
+      "word": "officially",
+      "spelling": "O, F, F, I, C, I, A, L, L, Y",
+      "spoken_meaning": "副词，正式地，官方地",
+      "en": "The new branch will officially open on the first Monday in May.",
+      "zh": "新分店将于五月的第一个星期一正式开业。"
+    },
+    {
+      "word": "opening",
+      "spelling": "O, P, E, N, I, N, G",
+      "spoken_meaning": "名词，空缺，开业，开头",
+      "en": "We have an opening for a part-time cashier on weekends.",
+      "zh": "我们有一个周末兼职收银员的空缺。"
+    },
+    {
+      "word": "operation",
+      "spelling": "O, P, E, R, A, T, I, O, N",
+      "spoken_meaning": "名词，运营，手术，操作",
+      "en": "Night-time operation of the loading dock will start next month.",
+      "zh": "装卸台的夜间作业将于下月开始。"
+    },
+    {
+      "word": "operator",
+      "spelling": "O, P, E, R, A, T, O, R",
+      "spoken_meaning": "名词，操作员，运营商",
+      "en": "Please ask the switchboard operator to connect you to purchasing.",
+      "zh": "请让总机接线员帮你转到采购部。"
+    },
+    {
+      "word": "opinion",
+      "spelling": "O, P, I, N, I, O, N",
+      "spoken_meaning": "名词，意见，看法",
+      "en": "In our opinion, the bid should include a longer warranty.",
+      "zh": "我们认为投标应包含更长的保修期。"
+    },
+    {
+      "word": "opponent",
+      "spelling": "O, P, P, O, N, E, N, T",
+      "spoken_meaning": "名词，对手，反对者",
+      "en": "Our main opponent in this tender is a local contractor.",
+      "zh": "这次招标中我们的主要对手是一家本地承包商。"
+    },
+    {
+      "word": "oppose",
+      "spelling": "O, P, P, O, S, E",
+      "spoken_meaning": "动词，反对",
+      "en": "Several residents oppose the plan to extend store hours.",
+      "zh": "一些居民反对延长营业时间的计划。"
+    },
+    {
+      "word": "opposite",
+      "spelling": "O, P, P, O, S, I, T, E",
+      "spoken_meaning": "形容词或名词或介词，相反的，对面",
+      "en": "The visitor parking lot is opposite the main entrance.",
+      "zh": "访客停车场在正门对面。"
+    },
+    {
+      "word": "opposition",
+      "spelling": "O, P, P, O, S, I, T, I, O, N",
+      "spoken_meaning": "名词，反对，对立",
+      "en": "There was little opposition to the new flexible-hours policy.",
+      "zh": "对新的弹性工时政策几乎没有反对意见。"
+    },
+    {
+      "word": "opt",
+      "spelling": "O, P, T",
+      "spoken_meaning": "动词，选择",
+      "en": "Staff may opt for a bus pass instead of a parking space.",
+      "zh": "员工可以选择公交卡，而不是停车位。"
+    },
+    {
+      "word": "oral",
+      "spelling": "O, R, A, L",
+      "spoken_meaning": "形容词，口头的",
+      "en": "An oral briefing will be given to the night shift at 9 p.m.",
+      "zh": "晚上9点将向夜班作口头情况说明。"
+    },
+    {
+      "word": "ordinary",
+      "spelling": "O, R, D, I, N, A, R, Y",
+      "spoken_meaning": "形容词，普通的，平常的",
+      "en": "Ordinary wear is not covered by the equipment warranty.",
+      "zh": "正常磨损不在设备保修范围内。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第79轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "numerous",
+      "voice": "en",
+      "text": "numerous",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "numerous",
+      "voice": "en",
+      "text": "N, U, M, E, R, O, U, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "numerous",
+      "voice": "zh",
+      "text": "形容词，许多的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "numerous",
+      "voice": "en",
+      "text": "We have received numerous requests to extend the store hours.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "numerous",
+      "voice": "zh",
+      "text": "我们收到许多要求延长营业时间的申请。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "nurse",
+      "voice": "en",
+      "text": "nurse",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "nurse",
+      "voice": "en",
+      "text": "N, U, R, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "nurse",
+      "voice": "zh",
+      "text": "名词，护士",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "nurse",
+      "voice": "en",
+      "text": "A nurse is on duty in the staff clinic until 5 p.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "nurse",
+      "voice": "zh",
+      "text": "员工诊所的护士值班至下午5点。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "objection",
+      "voice": "en",
+      "text": "objection",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "objection",
+      "voice": "en",
+      "text": "O, B, J, E, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "objection",
+      "voice": "zh",
+      "text": "名词，反对，异议",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "objection",
+      "voice": "en",
+      "text": "If there is no objection, the minutes will be approved as drafted.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "objection",
+      "voice": "zh",
+      "text": "如果没有异议，会议记录将按草稿通过。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "oblige",
+      "voice": "en",
+      "text": "oblige",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "oblige",
+      "voice": "en",
+      "text": "O, B, L, I, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "oblige",
+      "voice": "zh",
+      "text": "动词，迫使，施惠",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "oblige",
+      "voice": "en",
+      "text": "The contract obliges the supplier to give 14 days' notice of delays.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "oblige",
+      "voice": "zh",
+      "text": "合同要求供应商在延误时提前14天通知。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "observe",
+      "voice": "en",
+      "text": "observe",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "observe",
+      "voice": "en",
+      "text": "O, B, S, E, R, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "observe",
+      "voice": "zh",
+      "text": "动词，遵守，观察",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "observe",
+      "voice": "en",
+      "text": "All visitors must observe the safety rules in the production area.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "observe",
+      "voice": "zh",
+      "text": "所有访客必须遵守生产区的安全规定。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "observer",
+      "voice": "en",
+      "text": "observer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "observer",
+      "voice": "en",
+      "text": "O, B, S, E, R, V, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "observer",
+      "voice": "zh",
+      "text": "名词，观察员",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "observer",
+      "voice": "en",
+      "text": "An observer from the certification body will attend the audit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "observer",
+      "voice": "zh",
+      "text": "认证机构的观察员将出席此次审计。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "obstacle",
+      "voice": "en",
+      "text": "obstacle",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "obstacle",
+      "voice": "en",
+      "text": "O, B, S, T, A, C, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "obstacle",
+      "voice": "zh",
+      "text": "名词，障碍",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "obstacle",
+      "voice": "en",
+      "text": "A missing permit is the main obstacle to starting construction.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "obstacle",
+      "voice": "zh",
+      "text": "缺少许可是开工的主要障碍。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "obvious",
+      "voice": "en",
+      "text": "obvious",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "obvious",
+      "voice": "en",
+      "text": "O, B, V, I, O, U, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "obvious",
+      "voice": "zh",
+      "text": "形容词，明显的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "obvious",
+      "voice": "en",
+      "text": "It should be obvious from the sign that this door is an emergency exit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "obvious",
+      "voice": "zh",
+      "text": "从标识上应能明显看出这扇门是紧急出口。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "obviously",
+      "voice": "en",
+      "text": "obviously",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "obviously",
+      "voice": "en",
+      "text": "O, B, V, I, O, U, S, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "obviously",
+      "voice": "zh",
+      "text": "副词，明显地，显然",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "obviously",
+      "voice": "en",
+      "text": "The shipment was obviously damaged and should not have been accepted.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "obviously",
+      "voice": "zh",
+      "text": "这批货明显已损坏，本不该签收。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "occasion",
+      "voice": "en",
+      "text": "occasion",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "occasion",
+      "voice": "en",
+      "text": "O, C, C, A, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "occasion",
+      "voice": "zh",
+      "text": "名词，场合，时机",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "occasion",
+      "voice": "en",
+      "text": "Name badges should be worn on formal occasions in the plant.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "occasion",
+      "voice": "zh",
+      "text": "在工厂的正式场合应佩戴姓名牌。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "occasional",
+      "voice": "en",
+      "text": "occasional",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "occasional",
+      "voice": "en",
+      "text": "O, C, C, A, S, I, O, N, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "occasional",
+      "voice": "zh",
+      "text": "形容词，偶尔的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "occasional",
+      "voice": "en",
+      "text": "Occasional overtime may be required at month end.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "occasional",
+      "voice": "zh",
+      "text": "月末可能需要偶尔加班。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "occasionally",
+      "voice": "en",
+      "text": "occasionally",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "occasionally",
+      "voice": "en",
+      "text": "O, C, C, A, S, I, O, N, A, L, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "occasionally",
+      "voice": "zh",
+      "text": "副词，偶尔",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "occasionally",
+      "voice": "en",
+      "text": "The ferry is occasionally cancelled because of high winds.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "occasionally",
+      "voice": "zh",
+      "text": "渡轮偶尔会因大风取消。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "occupation",
+      "voice": "en",
+      "text": "occupation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "occupation",
+      "voice": "en",
+      "text": "O, C, C, U, P, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "occupation",
+      "voice": "zh",
+      "text": "名词，职业，占用",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "occupation",
+      "voice": "en",
+      "text": "Please state your occupation on the visa form.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "occupation",
+      "voice": "zh",
+      "text": "请在签证表上填写职业。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "occur",
+      "voice": "en",
+      "text": "occur",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "occur",
+      "voice": "en",
+      "text": "O, C, C, U, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "occur",
+      "voice": "zh",
+      "text": "动词，发生",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "occur",
+      "voice": "en",
+      "text": "If a delay occurs, please notify the customer the same day.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "occur",
+      "voice": "zh",
+      "text": "如果出现延误，请在当天通知客户。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "occurrence",
+      "voice": "en",
+      "text": "occurrence",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "occurrence",
+      "voice": "en",
+      "text": "O, C, C, U, R, R, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "occurrence",
+      "voice": "zh",
+      "text": "名词，发生，事件",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "occurrence",
+      "voice": "en",
+      "text": "This is the second occurrence of a mislabeled shipment this month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "occurrence",
+      "voice": "zh",
+      "text": "这是本月第二次出现标签贴错的货物。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "offer",
+      "voice": "en",
+      "text": "offer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "offer",
+      "voice": "en",
+      "text": "O, F, F, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "offer",
+      "voice": "zh",
+      "text": "名词或动词，提供，报价，录用",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "offer",
+      "voice": "en",
+      "text": "We are pleased to offer you the position of shift supervisor.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "offer",
+      "voice": "zh",
+      "text": "我们很高兴录用你为班次主管。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "officer",
+      "voice": "en",
+      "text": "officer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "officer",
+      "voice": "en",
+      "text": "O, F, F, I, C, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "officer",
+      "voice": "zh",
+      "text": "名词，官员，主管人员",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "officer",
+      "voice": "en",
+      "text": "A customs officer may open the crates for inspection.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "officer",
+      "voice": "zh",
+      "text": "海关官员可能会开箱检查。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "official",
+      "voice": "en",
+      "text": "official",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "official",
+      "voice": "en",
+      "text": "O, F, F, I, C, I, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "official",
+      "voice": "zh",
+      "text": "形容词或名词，官方的，官员",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "official",
+      "voice": "en",
+      "text": "An official announcement will be posted on the intranet at noon.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "official",
+      "voice": "zh",
+      "text": "官方公告将于中午发布在内网上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "officially",
+      "voice": "en",
+      "text": "officially",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "officially",
+      "voice": "en",
+      "text": "O, F, F, I, C, I, A, L, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "officially",
+      "voice": "zh",
+      "text": "副词，正式地，官方地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "officially",
+      "voice": "en",
+      "text": "The new branch will officially open on the first Monday in May.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "officially",
+      "voice": "zh",
+      "text": "新分店将于五月的第一个星期一正式开业。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "opening",
+      "voice": "en",
+      "text": "opening",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "opening",
+      "voice": "en",
+      "text": "O, P, E, N, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "opening",
+      "voice": "zh",
+      "text": "名词，空缺，开业，开头",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "opening",
+      "voice": "en",
+      "text": "We have an opening for a part-time cashier on weekends.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "opening",
+      "voice": "zh",
+      "text": "我们有一个周末兼职收银员的空缺。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "operation",
+      "voice": "en",
+      "text": "operation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "operation",
+      "voice": "en",
+      "text": "O, P, E, R, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "operation",
+      "voice": "zh",
+      "text": "名词，运营，手术，操作",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "operation",
+      "voice": "en",
+      "text": "Night-time operation of the loading dock will start next month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "operation",
+      "voice": "zh",
+      "text": "装卸台的夜间作业将于下月开始。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "operator",
+      "voice": "en",
+      "text": "operator",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "operator",
+      "voice": "en",
+      "text": "O, P, E, R, A, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "operator",
+      "voice": "zh",
+      "text": "名词，操作员，运营商",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "operator",
+      "voice": "en",
+      "text": "Please ask the switchboard operator to connect you to purchasing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "operator",
+      "voice": "zh",
+      "text": "请让总机接线员帮你转到采购部。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "opinion",
+      "voice": "en",
+      "text": "opinion",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "opinion",
+      "voice": "en",
+      "text": "O, P, I, N, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "opinion",
+      "voice": "zh",
+      "text": "名词，意见，看法",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "opinion",
+      "voice": "en",
+      "text": "In our opinion, the bid should include a longer warranty.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "opinion",
+      "voice": "zh",
+      "text": "我们认为投标应包含更长的保修期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "opponent",
+      "voice": "en",
+      "text": "opponent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "opponent",
+      "voice": "en",
+      "text": "O, P, P, O, N, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "opponent",
+      "voice": "zh",
+      "text": "名词，对手，反对者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "opponent",
+      "voice": "en",
+      "text": "Our main opponent in this tender is a local contractor.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "opponent",
+      "voice": "zh",
+      "text": "这次招标中我们的主要对手是一家本地承包商。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "oppose",
+      "voice": "en",
+      "text": "oppose",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "oppose",
+      "voice": "en",
+      "text": "O, P, P, O, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "oppose",
+      "voice": "zh",
+      "text": "动词，反对",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "oppose",
+      "voice": "en",
+      "text": "Several residents oppose the plan to extend store hours.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "oppose",
+      "voice": "zh",
+      "text": "一些居民反对延长营业时间的计划。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "opposite",
+      "voice": "en",
+      "text": "opposite",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "opposite",
+      "voice": "en",
+      "text": "O, P, P, O, S, I, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "opposite",
+      "voice": "zh",
+      "text": "形容词或名词或介词，相反的，对面",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "opposite",
+      "voice": "en",
+      "text": "The visitor parking lot is opposite the main entrance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "opposite",
+      "voice": "zh",
+      "text": "访客停车场在正门对面。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "opposition",
+      "voice": "en",
+      "text": "opposition",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "opposition",
+      "voice": "en",
+      "text": "O, P, P, O, S, I, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "opposition",
+      "voice": "zh",
+      "text": "名词，反对，对立",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "opposition",
+      "voice": "en",
+      "text": "There was little opposition to the new flexible-hours policy.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "opposition",
+      "voice": "zh",
+      "text": "对新的弹性工时政策几乎没有反对意见。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "opt",
+      "voice": "en",
+      "text": "opt",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "opt",
+      "voice": "en",
+      "text": "O, P, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "opt",
+      "voice": "zh",
+      "text": "动词，选择",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "opt",
+      "voice": "en",
+      "text": "Staff may opt for a bus pass instead of a parking space.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "opt",
+      "voice": "zh",
+      "text": "员工可以选择公交卡，而不是停车位。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "oral",
+      "voice": "en",
+      "text": "oral",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "oral",
+      "voice": "en",
+      "text": "O, R, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "oral",
+      "voice": "zh",
+      "text": "形容词，口头的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "oral",
+      "voice": "en",
+      "text": "An oral briefing will be given to the night shift at 9 p.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "oral",
+      "voice": "zh",
+      "text": "晚上9点将向夜班作口头情况说明。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ordinary",
+      "voice": "en",
+      "text": "ordinary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ordinary",
+      "voice": "en",
+      "text": "O, R, D, I, N, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ordinary",
+      "voice": "zh",
+      "text": "形容词，普通的，平常的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ordinary",
+      "voice": "en",
+      "text": "Ordinary wear is not covered by the equipment warranty.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ordinary",
+      "voice": "zh",
+      "text": "正常磨损不在设备保修范围内。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第79轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

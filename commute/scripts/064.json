@@ -1,0 +1,1314 @@
+{
+  "id": "064",
+  "track": 64,
+  "title": "第 64 轨",
+  "word_count": 30,
+  "headwords": [
+    "safe-deposit",
+    "breakfast-buffet",
+    "half-board",
+    "full-board",
+    "all-inclusive",
+    "bed-and-breakfast",
+    "laundry-service",
+    "dry-cleaning",
+    "price-tag",
+    "cash-register",
+    "receipt-printer",
+    "barcode-scanner",
+    "reorder-point",
+    "cycle-count",
+    "stock-out",
+    "drop-shipping",
+    "cross-docking",
+    "pick-and-pack",
+    "lot-number",
+    "batch-number",
+    "serial-number",
+    "expiration-date",
+    "best-before",
+    "sell-by",
+    "shelf-life",
+    "temperature-control",
+    "raw-material",
+    "work-in-progress",
+    "finished-goods",
+    "bill-of-materials"
+  ],
+  "entries": [
+    {
+      "word": "safe-deposit",
+      "spelling": "S, A, F, E, hyphen, D, E, P, O, S, I, T",
+      "spoken_meaning": "名词，保险箱，保管箱",
+      "en": "Please place the contract originals in the safe-deposit at the front desk.",
+      "zh": "请把合同原件放入前台的保险箱。"
+    },
+    {
+      "word": "breakfast-buffet",
+      "spelling": "B, R, E, A, K, F, A, S, T, hyphen, B, U, F, F, E, T",
+      "spoken_meaning": "名词，自助早餐",
+      "en": "The breakfast-buffet opens at 6:30 for early departures.",
+      "zh": "为方便早出发的客人，自助早餐6:30开始。"
+    },
+    {
+      "word": "half-board",
+      "spelling": "H, A, L, F, hyphen, B, O, A, R, D",
+      "spoken_meaning": "名词，半膳宿，含早晚餐",
+      "en": "The conference package is offered on a half-board basis.",
+      "zh": "会议套餐按半膳宿（含早晚餐）提供。"
+    },
+    {
+      "word": "full-board",
+      "spelling": "F, U, L, L, hyphen, B, O, A, R, D",
+      "spoken_meaning": "名词，全膳宿，含三餐",
+      "en": "Full-board is recommended because the training site is far from restaurants.",
+      "zh": "培训地点远离餐厅，建议选择全膳宿。"
+    },
+    {
+      "word": "all-inclusive",
+      "spelling": "A, L, L, hyphen, I, N, C, L, U, S, I, V, E",
+      "spoken_meaning": "形容词或名词，全包的，一价全包",
+      "en": "The all-inclusive rate covers meals, meeting rooms, and local transport.",
+      "zh": "一价全包费率包含餐食、会议室和当地交通。"
+    },
+    {
+      "word": "bed-and-breakfast",
+      "spelling": "B, E, D, hyphen, A, N, D, hyphen, B, R, E, A, K, F, A, S, T",
+      "spoken_meaning": "名词，提供早餐的民宿",
+      "en": "A bed-and-breakfast near the station is cheaper than the downtown hotels.",
+      "zh": "车站附近的早餐民宿比市区酒店更便宜。"
+    },
+    {
+      "word": "laundry-service",
+      "spelling": "L, A, U, N, D, R, Y, hyphen, S, E, R, V, I, C, E",
+      "spoken_meaning": "名词，洗衣服务",
+      "en": "Laundry-service collected before 9 a.m. will be returned the same day.",
+      "zh": "上午9点前送洗的衣物可当天送回。"
+    },
+    {
+      "word": "dry-cleaning",
+      "spelling": "D, R, Y, hyphen, C, L, E, A, N, I, N, G",
+      "spoken_meaning": "名词，干洗",
+      "en": "Please send the uniforms out for dry-cleaning before the ceremony.",
+      "zh": "请在典礼前把制服送去干洗。"
+    },
+    {
+      "word": "price-tag",
+      "spelling": "P, R, I, C, E, hyphen, T, A, G",
+      "spoken_meaning": "名词，价格标签",
+      "en": "Please replace any missing price-tag before the store opens.",
+      "zh": "开店前请补上缺失的价格标签。"
+    },
+    {
+      "word": "cash-register",
+      "spelling": "C, A, S, H, hyphen, R, E, G, I, S, T, E, R",
+      "spoken_meaning": "名词，收银机",
+      "en": "The cash-register was offline for twenty minutes during the update.",
+      "zh": "系统更新期间，收银机离线了二十分钟。"
+    },
+    {
+      "word": "receipt-printer",
+      "spelling": "R, E, C, E, I, P, T, hyphen, P, R, I, N, T, E, R",
+      "spoken_meaning": "名词，收据打印机",
+      "en": "The receipt-printer needs a new paper roll.",
+      "zh": "收据打印机需要更换纸卷。"
+    },
+    {
+      "word": "barcode-scanner",
+      "spelling": "B, A, R, C, O, D, E, hyphen, S, C, A, N, N, E, R",
+      "spoken_meaning": "名词，条码扫描器",
+      "en": "A handheld barcode-scanner is used for the stock count.",
+      "zh": "盘点时使用手持条码扫描器。"
+    },
+    {
+      "word": "reorder-point",
+      "spelling": "R, E, O, R, D, E, R, hyphen, P, O, I, N, T",
+      "spoken_meaning": "名词，再订货点",
+      "en": "When stock falls to the reorder-point, the system places an automatic order.",
+      "zh": "库存降到再订货点时，系统会自动下单。"
+    },
+    {
+      "word": "cycle-count",
+      "spelling": "C, Y, C, L, E, hyphen, C, O, U, N, T",
+      "spoken_meaning": "名词，循环盘点",
+      "en": "A weekly cycle-count is performed on high-value items.",
+      "zh": "高价值商品每周进行循环盘点。"
+    },
+    {
+      "word": "stock-out",
+      "spelling": "S, T, O, C, K, hyphen, O, U, T",
+      "spoken_meaning": "名词，缺货",
+      "en": "A stock-out of printer toner delayed the mailing by a day.",
+      "zh": "打印机碳粉缺货使邮寄延误了一天。"
+    },
+    {
+      "word": "drop-shipping",
+      "spelling": "D, R, O, P, hyphen, S, H, I, P, P, I, N, G",
+      "spoken_meaning": "名词，代发货，直运",
+      "en": "We use drop-shipping for oversized furniture that will not fit in our warehouse.",
+      "zh": "超大家具仓库放不下，我们采用代发货。"
+    },
+    {
+      "word": "cross-docking",
+      "spelling": "C, R, O, S, S, hyphen, D, O, C, K, I, N, G",
+      "spoken_meaning": "名词，越库配送，交叉装卸",
+      "en": "Cross-docking allows inbound goods to leave the same day without storage.",
+      "zh": "越库配送使到货可以当天发出，无需入库储存。"
+    },
+    {
+      "word": "pick-and-pack",
+      "spelling": "P, I, C, K, hyphen, A, N, D, hyphen, P, A, C, K",
+      "spoken_meaning": "名词，拣货包装",
+      "en": "The pick-and-pack team works until 9 p.m. during the sale.",
+      "zh": "促销期间，拣货包装组营业至晚上9点。"
+    },
+    {
+      "word": "lot-number",
+      "spelling": "L, O, T, hyphen, N, U, M, B, E, R",
+      "spoken_meaning": "名词，批号",
+      "en": "Please record the lot-number on every quality report.",
+      "zh": "请在每份质量报告上记录批号。"
+    },
+    {
+      "word": "batch-number",
+      "spelling": "B, A, T, C, H, hyphen, N, U, M, B, E, R",
+      "spoken_meaning": "名词，批次号",
+      "en": "The recall applies only to products with this batch-number.",
+      "zh": "此次召回仅适用于该批次号的产品。"
+    },
+    {
+      "word": "serial-number",
+      "spelling": "S, E, R, I, A, L, hyphen, N, U, M, B, E, R",
+      "spoken_meaning": "名词，序列号",
+      "en": "Warranty service requires the serial-number on the nameplate.",
+      "zh": "保修服务需要铭牌上的序列号。"
+    },
+    {
+      "word": "expiration-date",
+      "spelling": "E, X, P, I, R, A, T, I, O, N, hyphen, D, A, T, E",
+      "spoken_meaning": "名词，到期日，有效期",
+      "en": "Do not ship any items past their expiration-date.",
+      "zh": "请勿发运已过到期日的商品。"
+    },
+    {
+      "word": "best-before",
+      "spelling": "B, E, S, T, hyphen, B, E, F, O, R, E",
+      "spoken_meaning": "名词或形容词，保质期，最佳食用日期前",
+      "en": "Items approaching their best-before date should be moved to the discount shelf.",
+      "zh": "临近保质期的商品应移到折扣货架。"
+    },
+    {
+      "word": "sell-by",
+      "spelling": "S, E, L, L, hyphen, B, Y",
+      "spoken_meaning": "名词或形容词，最迟销售日期",
+      "en": "The store cannot display food after its sell-by date.",
+      "zh": "过了最迟销售日期的食品不得继续陈列。"
+    },
+    {
+      "word": "shelf-life",
+      "spelling": "S, H, E, L, F, hyphen, L, I, F, E",
+      "spoken_meaning": "名词，货架期，保质期",
+      "en": "A cooler storage area extends the shelf-life of the samples.",
+      "zh": "低温储存可延长样品的保质期。"
+    },
+    {
+      "word": "temperature-control",
+      "spelling": "T, E, M, P, E, R, A, T, U, R, E, hyphen, C, O, N, T, R, O, L",
+      "spoken_meaning": "名词，温度控制，温控",
+      "en": "Temperature-control records must accompany every cold-chain shipment.",
+      "zh": "每批冷链货物都必须附有温控记录。"
+    },
+    {
+      "word": "raw-material",
+      "spelling": "R, A, W, hyphen, M, A, T, E, R, I, A, L",
+      "spoken_meaning": "名词，原材料",
+      "en": "A shortage of raw-material has slowed the morning shift.",
+      "zh": "原材料短缺拖慢了早班进度。"
+    },
+    {
+      "word": "work-in-progress",
+      "spelling": "W, O, R, K, hyphen, I, N, hyphen, P, R, O, G, R, E, S, S",
+      "spoken_meaning": "名词，在制品，未完工产品",
+      "en": "Work-in-progress should not be counted as finished inventory.",
+      "zh": "在制品不应计入成品库存。"
+    },
+    {
+      "word": "finished-goods",
+      "spelling": "F, I, N, I, S, H, E, D, hyphen, G, O, O, D, S",
+      "spoken_meaning": "名词，成品",
+      "en": "Finished-goods are stored in the west warehouse until dispatch.",
+      "zh": "成品在发货前存放在西侧仓库。"
+    },
+    {
+      "word": "bill-of-materials",
+      "spelling": "B, I, L, L, hyphen, O, F, hyphen, M, A, T, E, R, I, A, L, S",
+      "spoken_meaning": "名词，物料清单",
+      "en": "Please update the bill-of-materials after the design change.",
+      "zh": "设计变更后请更新物料清单。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第64轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "safe-deposit",
+      "voice": "en",
+      "text": "safe deposit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "safe-deposit",
+      "voice": "en",
+      "text": "S, A, F, E, hyphen, D, E, P, O, S, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "safe-deposit",
+      "voice": "zh",
+      "text": "名词，保险箱，保管箱",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "safe-deposit",
+      "voice": "en",
+      "text": "Please place the contract originals in the safe-deposit at the front desk.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "safe-deposit",
+      "voice": "zh",
+      "text": "请把合同原件放入前台的保险箱。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "breakfast-buffet",
+      "voice": "en",
+      "text": "breakfast buffet",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "breakfast-buffet",
+      "voice": "en",
+      "text": "B, R, E, A, K, F, A, S, T, hyphen, B, U, F, F, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "breakfast-buffet",
+      "voice": "zh",
+      "text": "名词，自助早餐",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "breakfast-buffet",
+      "voice": "en",
+      "text": "The breakfast-buffet opens at 6:30 for early departures.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "breakfast-buffet",
+      "voice": "zh",
+      "text": "为方便早出发的客人，自助早餐6:30开始。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "half-board",
+      "voice": "en",
+      "text": "half board",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "half-board",
+      "voice": "en",
+      "text": "H, A, L, F, hyphen, B, O, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "half-board",
+      "voice": "zh",
+      "text": "名词，半膳宿，含早晚餐",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "half-board",
+      "voice": "en",
+      "text": "The conference package is offered on a half-board basis.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "half-board",
+      "voice": "zh",
+      "text": "会议套餐按半膳宿（含早晚餐）提供。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "full-board",
+      "voice": "en",
+      "text": "full board",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "full-board",
+      "voice": "en",
+      "text": "F, U, L, L, hyphen, B, O, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "full-board",
+      "voice": "zh",
+      "text": "名词，全膳宿，含三餐",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "full-board",
+      "voice": "en",
+      "text": "Full-board is recommended because the training site is far from restaurants.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "full-board",
+      "voice": "zh",
+      "text": "培训地点远离餐厅，建议选择全膳宿。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "all-inclusive",
+      "voice": "en",
+      "text": "all inclusive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "all-inclusive",
+      "voice": "en",
+      "text": "A, L, L, hyphen, I, N, C, L, U, S, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "all-inclusive",
+      "voice": "zh",
+      "text": "形容词或名词，全包的，一价全包",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "all-inclusive",
+      "voice": "en",
+      "text": "The all-inclusive rate covers meals, meeting rooms, and local transport.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "all-inclusive",
+      "voice": "zh",
+      "text": "一价全包费率包含餐食、会议室和当地交通。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bed-and-breakfast",
+      "voice": "en",
+      "text": "bed and breakfast",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bed-and-breakfast",
+      "voice": "en",
+      "text": "B, E, D, hyphen, A, N, D, hyphen, B, R, E, A, K, F, A, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bed-and-breakfast",
+      "voice": "zh",
+      "text": "名词，提供早餐的民宿",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bed-and-breakfast",
+      "voice": "en",
+      "text": "A bed-and-breakfast near the station is cheaper than the downtown hotels.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bed-and-breakfast",
+      "voice": "zh",
+      "text": "车站附近的早餐民宿比市区酒店更便宜。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "laundry-service",
+      "voice": "en",
+      "text": "laundry service",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "laundry-service",
+      "voice": "en",
+      "text": "L, A, U, N, D, R, Y, hyphen, S, E, R, V, I, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "laundry-service",
+      "voice": "zh",
+      "text": "名词，洗衣服务",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "laundry-service",
+      "voice": "en",
+      "text": "Laundry-service collected before 9 a.m. will be returned the same day.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "laundry-service",
+      "voice": "zh",
+      "text": "上午9点前送洗的衣物可当天送回。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "dry-cleaning",
+      "voice": "en",
+      "text": "dry cleaning",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "dry-cleaning",
+      "voice": "en",
+      "text": "D, R, Y, hyphen, C, L, E, A, N, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "dry-cleaning",
+      "voice": "zh",
+      "text": "名词，干洗",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "dry-cleaning",
+      "voice": "en",
+      "text": "Please send the uniforms out for dry-cleaning before the ceremony.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "dry-cleaning",
+      "voice": "zh",
+      "text": "请在典礼前把制服送去干洗。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "price-tag",
+      "voice": "en",
+      "text": "price tag",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "price-tag",
+      "voice": "en",
+      "text": "P, R, I, C, E, hyphen, T, A, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "price-tag",
+      "voice": "zh",
+      "text": "名词，价格标签",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "price-tag",
+      "voice": "en",
+      "text": "Please replace any missing price-tag before the store opens.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "price-tag",
+      "voice": "zh",
+      "text": "开店前请补上缺失的价格标签。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cash-register",
+      "voice": "en",
+      "text": "cash register",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cash-register",
+      "voice": "en",
+      "text": "C, A, S, H, hyphen, R, E, G, I, S, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cash-register",
+      "voice": "zh",
+      "text": "名词，收银机",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cash-register",
+      "voice": "en",
+      "text": "The cash-register was offline for twenty minutes during the update.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cash-register",
+      "voice": "zh",
+      "text": "系统更新期间，收银机离线了二十分钟。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "receipt-printer",
+      "voice": "en",
+      "text": "receipt printer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "receipt-printer",
+      "voice": "en",
+      "text": "R, E, C, E, I, P, T, hyphen, P, R, I, N, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "receipt-printer",
+      "voice": "zh",
+      "text": "名词，收据打印机",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "receipt-printer",
+      "voice": "en",
+      "text": "The receipt-printer needs a new paper roll.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "receipt-printer",
+      "voice": "zh",
+      "text": "收据打印机需要更换纸卷。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "barcode-scanner",
+      "voice": "en",
+      "text": "barcode scanner",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "barcode-scanner",
+      "voice": "en",
+      "text": "B, A, R, C, O, D, E, hyphen, S, C, A, N, N, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "barcode-scanner",
+      "voice": "zh",
+      "text": "名词，条码扫描器",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "barcode-scanner",
+      "voice": "en",
+      "text": "A handheld barcode-scanner is used for the stock count.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "barcode-scanner",
+      "voice": "zh",
+      "text": "盘点时使用手持条码扫描器。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reorder-point",
+      "voice": "en",
+      "text": "reorder point",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reorder-point",
+      "voice": "en",
+      "text": "R, E, O, R, D, E, R, hyphen, P, O, I, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reorder-point",
+      "voice": "zh",
+      "text": "名词，再订货点",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reorder-point",
+      "voice": "en",
+      "text": "When stock falls to the reorder-point, the system places an automatic order.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reorder-point",
+      "voice": "zh",
+      "text": "库存降到再订货点时，系统会自动下单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cycle-count",
+      "voice": "en",
+      "text": "cycle count",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cycle-count",
+      "voice": "en",
+      "text": "C, Y, C, L, E, hyphen, C, O, U, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cycle-count",
+      "voice": "zh",
+      "text": "名词，循环盘点",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cycle-count",
+      "voice": "en",
+      "text": "A weekly cycle-count is performed on high-value items.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cycle-count",
+      "voice": "zh",
+      "text": "高价值商品每周进行循环盘点。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stock-out",
+      "voice": "en",
+      "text": "stock out",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stock-out",
+      "voice": "en",
+      "text": "S, T, O, C, K, hyphen, O, U, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stock-out",
+      "voice": "zh",
+      "text": "名词，缺货",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stock-out",
+      "voice": "en",
+      "text": "A stock-out of printer toner delayed the mailing by a day.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stock-out",
+      "voice": "zh",
+      "text": "打印机碳粉缺货使邮寄延误了一天。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "drop-shipping",
+      "voice": "en",
+      "text": "drop shipping",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "drop-shipping",
+      "voice": "en",
+      "text": "D, R, O, P, hyphen, S, H, I, P, P, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "drop-shipping",
+      "voice": "zh",
+      "text": "名词，代发货，直运",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "drop-shipping",
+      "voice": "en",
+      "text": "We use drop-shipping for oversized furniture that will not fit in our warehouse.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "drop-shipping",
+      "voice": "zh",
+      "text": "超大家具仓库放不下，我们采用代发货。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cross-docking",
+      "voice": "en",
+      "text": "cross docking",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cross-docking",
+      "voice": "en",
+      "text": "C, R, O, S, S, hyphen, D, O, C, K, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cross-docking",
+      "voice": "zh",
+      "text": "名词，越库配送，交叉装卸",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cross-docking",
+      "voice": "en",
+      "text": "Cross-docking allows inbound goods to leave the same day without storage.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cross-docking",
+      "voice": "zh",
+      "text": "越库配送使到货可以当天发出，无需入库储存。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "pick-and-pack",
+      "voice": "en",
+      "text": "pick and pack",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "pick-and-pack",
+      "voice": "en",
+      "text": "P, I, C, K, hyphen, A, N, D, hyphen, P, A, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "pick-and-pack",
+      "voice": "zh",
+      "text": "名词，拣货包装",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "pick-and-pack",
+      "voice": "en",
+      "text": "The pick-and-pack team works until 9 p.m. during the sale.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "pick-and-pack",
+      "voice": "zh",
+      "text": "促销期间，拣货包装组营业至晚上9点。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lot-number",
+      "voice": "en",
+      "text": "lot number",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lot-number",
+      "voice": "en",
+      "text": "L, O, T, hyphen, N, U, M, B, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lot-number",
+      "voice": "zh",
+      "text": "名词，批号",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lot-number",
+      "voice": "en",
+      "text": "Please record the lot-number on every quality report.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lot-number",
+      "voice": "zh",
+      "text": "请在每份质量报告上记录批号。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "batch-number",
+      "voice": "en",
+      "text": "batch number",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "batch-number",
+      "voice": "en",
+      "text": "B, A, T, C, H, hyphen, N, U, M, B, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "batch-number",
+      "voice": "zh",
+      "text": "名词，批次号",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "batch-number",
+      "voice": "en",
+      "text": "The recall applies only to products with this batch-number.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "batch-number",
+      "voice": "zh",
+      "text": "此次召回仅适用于该批次号的产品。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "serial-number",
+      "voice": "en",
+      "text": "serial number",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "serial-number",
+      "voice": "en",
+      "text": "S, E, R, I, A, L, hyphen, N, U, M, B, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "serial-number",
+      "voice": "zh",
+      "text": "名词，序列号",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "serial-number",
+      "voice": "en",
+      "text": "Warranty service requires the serial-number on the nameplate.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "serial-number",
+      "voice": "zh",
+      "text": "保修服务需要铭牌上的序列号。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "expiration-date",
+      "voice": "en",
+      "text": "expiration date",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "expiration-date",
+      "voice": "en",
+      "text": "E, X, P, I, R, A, T, I, O, N, hyphen, D, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "expiration-date",
+      "voice": "zh",
+      "text": "名词，到期日，有效期",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "expiration-date",
+      "voice": "en",
+      "text": "Do not ship any items past their expiration-date.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "expiration-date",
+      "voice": "zh",
+      "text": "请勿发运已过到期日的商品。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "best-before",
+      "voice": "en",
+      "text": "best before",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "best-before",
+      "voice": "en",
+      "text": "B, E, S, T, hyphen, B, E, F, O, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "best-before",
+      "voice": "zh",
+      "text": "名词或形容词，保质期，最佳食用日期前",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "best-before",
+      "voice": "en",
+      "text": "Items approaching their best-before date should be moved to the discount shelf.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "best-before",
+      "voice": "zh",
+      "text": "临近保质期的商品应移到折扣货架。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sell-by",
+      "voice": "en",
+      "text": "sell by",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sell-by",
+      "voice": "en",
+      "text": "S, E, L, L, hyphen, B, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sell-by",
+      "voice": "zh",
+      "text": "名词或形容词，最迟销售日期",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sell-by",
+      "voice": "en",
+      "text": "The store cannot display food after its sell-by date.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sell-by",
+      "voice": "zh",
+      "text": "过了最迟销售日期的食品不得继续陈列。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "shelf-life",
+      "voice": "en",
+      "text": "shelf life",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "shelf-life",
+      "voice": "en",
+      "text": "S, H, E, L, F, hyphen, L, I, F, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "shelf-life",
+      "voice": "zh",
+      "text": "名词，货架期，保质期",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "shelf-life",
+      "voice": "en",
+      "text": "A cooler storage area extends the shelf-life of the samples.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "shelf-life",
+      "voice": "zh",
+      "text": "低温储存可延长样品的保质期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "temperature-control",
+      "voice": "en",
+      "text": "temperature control",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "temperature-control",
+      "voice": "en",
+      "text": "T, E, M, P, E, R, A, T, U, R, E, hyphen, C, O, N, T, R, O, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "temperature-control",
+      "voice": "zh",
+      "text": "名词，温度控制，温控",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "temperature-control",
+      "voice": "en",
+      "text": "Temperature-control records must accompany every cold-chain shipment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "temperature-control",
+      "voice": "zh",
+      "text": "每批冷链货物都必须附有温控记录。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "raw-material",
+      "voice": "en",
+      "text": "raw material",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "raw-material",
+      "voice": "en",
+      "text": "R, A, W, hyphen, M, A, T, E, R, I, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "raw-material",
+      "voice": "zh",
+      "text": "名词，原材料",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "raw-material",
+      "voice": "en",
+      "text": "A shortage of raw-material has slowed the morning shift.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "raw-material",
+      "voice": "zh",
+      "text": "原材料短缺拖慢了早班进度。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "work-in-progress",
+      "voice": "en",
+      "text": "work in progress",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "work-in-progress",
+      "voice": "en",
+      "text": "W, O, R, K, hyphen, I, N, hyphen, P, R, O, G, R, E, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "work-in-progress",
+      "voice": "zh",
+      "text": "名词，在制品，未完工产品",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "work-in-progress",
+      "voice": "en",
+      "text": "Work-in-progress should not be counted as finished inventory.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "work-in-progress",
+      "voice": "zh",
+      "text": "在制品不应计入成品库存。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "finished-goods",
+      "voice": "en",
+      "text": "finished goods",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "finished-goods",
+      "voice": "en",
+      "text": "F, I, N, I, S, H, E, D, hyphen, G, O, O, D, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "finished-goods",
+      "voice": "zh",
+      "text": "名词，成品",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "finished-goods",
+      "voice": "en",
+      "text": "Finished-goods are stored in the west warehouse until dispatch.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "finished-goods",
+      "voice": "zh",
+      "text": "成品在发货前存放在西侧仓库。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bill-of-materials",
+      "voice": "en",
+      "text": "bill of materials",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bill-of-materials",
+      "voice": "en",
+      "text": "B, I, L, L, hyphen, O, F, hyphen, M, A, T, E, R, I, A, L, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bill-of-materials",
+      "voice": "zh",
+      "text": "名词，物料清单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bill-of-materials",
+      "voice": "en",
+      "text": "Please update the bill-of-materials after the design change.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bill-of-materials",
+      "voice": "zh",
+      "text": "设计变更后请更新物料清单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第64轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

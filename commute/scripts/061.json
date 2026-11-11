@@ -1,0 +1,1314 @@
+{
+  "id": "061",
+  "track": 61,
+  "title": "第 61 轨",
+  "word_count": 30,
+  "headwords": [
+    "dealer",
+    "debate",
+    "decide",
+    "decision",
+    "dedicate",
+    "deduction",
+    "define",
+    "definitely",
+    "definition",
+    "delete",
+    "deliberate",
+    "delivery",
+    "demonstration",
+    "deny",
+    "depart",
+    "department",
+    "depend",
+    "dependent",
+    "describe",
+    "deserve",
+    "design",
+    "designer",
+    "develop",
+    "development",
+    "device",
+    "brand-new",
+    "study-leave",
+    "medical-leave",
+    "personal-leave",
+    "jury-duty"
+  ],
+  "entries": [
+    {
+      "word": "dealer",
+      "spelling": "D, E, A, L, E, R",
+      "spoken_meaning": "名词，经销商",
+      "en": "Authorized dealers will handle all warranty repairs.",
+      "zh": "授权经销商将负责所有保修维修。"
+    },
+    {
+      "word": "debate",
+      "spelling": "D, E, B, A, T, E",
+      "spoken_meaning": "名词或动词，辩论，讨论",
+      "en": "The committee debated whether to extend store hours on weeknights.",
+      "zh": "委员会讨论了是否延长工作日晚间营业时间。"
+    },
+    {
+      "word": "decide",
+      "spelling": "D, E, C, I, D, E",
+      "spoken_meaning": "动词，决定",
+      "en": "We will decide on the venue after we compare the three quotes.",
+      "zh": "比较三份报价后，我们将决定场地。"
+    },
+    {
+      "word": "decision",
+      "spelling": "D, E, C, I, S, I, O, N",
+      "spoken_meaning": "名词，决定，决议",
+      "en": "A final decision on the relocation will be announced on Friday.",
+      "zh": "关于搬迁的最终决定将于周五公布。"
+    },
+    {
+      "word": "dedicate",
+      "spelling": "D, E, D, I, C, A, T, E",
+      "spoken_meaning": "动词，专用，致力于",
+      "en": "One conference room will be dedicated to client presentations.",
+      "zh": "一间会议室将专门用于客户演示。"
+    },
+    {
+      "word": "deduction",
+      "spelling": "D, E, D, U, C, T, I, O, N",
+      "spoken_meaning": "名词，扣除，扣款",
+      "en": "The tax deduction for home-office expenses has changed this year.",
+      "zh": "今年家庭办公费用的税前扣除规定有所变化。"
+    },
+    {
+      "word": "define",
+      "spelling": "D, E, F, I, N, E",
+      "spoken_meaning": "动词，定义，界定",
+      "en": "The contract should clearly define the acceptance criteria.",
+      "zh": "合同应明确规定验收标准。"
+    },
+    {
+      "word": "definitely",
+      "spelling": "D, E, F, I, N, I, T, E, L, Y",
+      "spoken_meaning": "副词，肯定，明确地",
+      "en": "We can definitely deliver the first batch by the twelfth.",
+      "zh": "我们肯定能在12日前交付第一批。"
+    },
+    {
+      "word": "definition",
+      "spelling": "D, E, F, I, N, I, T, I, O, N",
+      "spoken_meaning": "名词，定义，清晰度",
+      "en": "A written definition of 'urgent request' will be added to the handbook.",
+      "zh": "手册中将增加对“紧急请求”的书面定义。"
+    },
+    {
+      "word": "delete",
+      "spelling": "D, E, L, E, T, E",
+      "spoken_meaning": "动词，删除",
+      "en": "Please delete the draft file after the final version is issued.",
+      "zh": "最终版发布后，请删除草稿文件。"
+    },
+    {
+      "word": "deliberate",
+      "spelling": "D, E, L, I, B, E, R, A, T, E",
+      "spoken_meaning": "动词或形容词，仔细考虑，故意的",
+      "en": "The committee will deliberate on the bids overnight.",
+      "zh": "委员会将连夜仔细审议这些投标。"
+    },
+    {
+      "word": "delivery",
+      "spelling": "D, E, L, I, V, E, R, Y",
+      "spoken_meaning": "名词，交付，送货",
+      "en": "Same-day delivery is available within the city limits.",
+      "zh": "市区范围内可提供当日送达。"
+    },
+    {
+      "word": "demonstration",
+      "spelling": "D, E, M, O, N, S, T, R, A, T, I, O, N",
+      "spoken_meaning": "名词，演示，示范",
+      "en": "A product demonstration is scheduled for 2 p.m. in Hall B.",
+      "zh": "产品演示定于下午2点在B厅举行。"
+    },
+    {
+      "word": "deny",
+      "spelling": "D, E, N, Y",
+      "spoken_meaning": "动词，拒绝，否认",
+      "en": "The insurer denied the claim because the report was filed too late.",
+      "zh": "保险公司拒绝了索赔，因为报告提交太晚。"
+    },
+    {
+      "word": "depart",
+      "spelling": "D, E, P, A, R, T",
+      "spoken_meaning": "动词，出发，离开",
+      "en": "The shuttle will depart from the main entrance at 6:45 a.m.",
+      "zh": "班车将于早上6:45从正门出发。"
+    },
+    {
+      "word": "department",
+      "spelling": "D, E, P, A, R, T, M, E, N, T",
+      "spoken_meaning": "名词，部门",
+      "en": "Please send the request to the legal department for review.",
+      "zh": "请把该申请送交法务部门审核。"
+    },
+    {
+      "word": "depend",
+      "spelling": "D, E, P, E, N, D",
+      "spoken_meaning": "动词，依靠，取决于",
+      "en": "The shipping date will depend on when the parts arrive.",
+      "zh": "发货日期取决于零件何时到达。"
+    },
+    {
+      "word": "dependent",
+      "spelling": "D, E, P, E, N, D, E, N, T",
+      "spoken_meaning": "形容词或名词，依赖的，家属",
+      "en": "Health coverage can be extended to eligible dependents.",
+      "zh": "医疗保险可扩大到符合条件的家属。"
+    },
+    {
+      "word": "describe",
+      "spelling": "D, E, S, C, R, I, B, E",
+      "spoken_meaning": "动词，描述",
+      "en": "Please describe the fault in as much detail as possible.",
+      "zh": "请尽可能详细地描述故障情况。"
+    },
+    {
+      "word": "deserve",
+      "spelling": "D, E, S, E, R, V, E",
+      "spoken_meaning": "动词，应得，值得",
+      "en": "The warehouse team deserves recognition for meeting the holiday rush.",
+      "zh": "仓库团队成功应对假日高峰，值得表彰。"
+    },
+    {
+      "word": "design",
+      "spelling": "D, E, S, I, G, N",
+      "spoken_meaning": "名词或动词，设计",
+      "en": "The design of the new packaging reduces shipping damage.",
+      "zh": "新包装的设计减少了运输损坏。"
+    },
+    {
+      "word": "designer",
+      "spelling": "D, E, S, I, G, N, E, R",
+      "spoken_meaning": "名词，设计师",
+      "en": "The graphic designer will revise the cover by Thursday.",
+      "zh": "平面设计师将在周四前修改封面。"
+    },
+    {
+      "word": "develop",
+      "spelling": "D, E, V, E, L, O, P",
+      "spoken_meaning": "动词，开发，发展",
+      "en": "The lab will develop a lighter casing for the next model.",
+      "zh": "实验室将为下一型号开发更轻的外壳。"
+    },
+    {
+      "word": "development",
+      "spelling": "D, E, V, E, L, O, P, M, E, N, T",
+      "spoken_meaning": "名词，开发，发展，新情况",
+      "en": "Product development is expected to take nine months.",
+      "zh": "产品开发预计需要九个月。"
+    },
+    {
+      "word": "device",
+      "spelling": "D, E, V, I, C, E",
+      "spoken_meaning": "名词，设备，装置",
+      "en": "Please return the loaner device when your laptop is repaired.",
+      "zh": "笔记本电脑修好后，请归还借用设备。"
+    },
+    {
+      "word": "brand-new",
+      "spelling": "B, R, A, N, D, hyphen, N, E, W",
+      "spoken_meaning": "形容词，全新的，崭新的",
+      "en": "The lab received a brand-new spectrometer this morning.",
+      "zh": "实验室今天上午收到一台全新的光谱仪。"
+    },
+    {
+      "word": "study-leave",
+      "spelling": "S, T, U, D, Y, hyphen, L, E, A, V, E",
+      "spoken_meaning": "名词，进修假",
+      "en": "She has been granted three months of study-leave to complete the certification.",
+      "zh": "她获准休三个月进修假以完成认证。"
+    },
+    {
+      "word": "medical-leave",
+      "spelling": "M, E, D, I, C, A, L, hyphen, L, E, A, V, E",
+      "spoken_meaning": "名词，病假，医疗假",
+      "en": "Please submit a doctor's note if medical-leave lasts more than two days.",
+      "zh": "医疗假超过两天请提交医生证明。"
+    },
+    {
+      "word": "personal-leave",
+      "spelling": "P, E, R, S, O, N, A, L, hyphen, L, E, A, V, E",
+      "spoken_meaning": "名词，事假",
+      "en": "Personal-leave must be requested at least three days in advance, except in emergencies.",
+      "zh": "除紧急情况外，事假须至少提前三天申请。"
+    },
+    {
+      "word": "jury-duty",
+      "spelling": "J, U, R, Y, hyphen, D, U, T, Y",
+      "spoken_meaning": "名词，陪审义务",
+      "en": "Employees called for jury-duty should notify their supervisor as soon as possible.",
+      "zh": "被召担任陪审员的员工应尽快通知主管。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第61轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "dealer",
+      "voice": "en",
+      "text": "dealer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "dealer",
+      "voice": "en",
+      "text": "D, E, A, L, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "dealer",
+      "voice": "zh",
+      "text": "名词，经销商",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "dealer",
+      "voice": "en",
+      "text": "Authorized dealers will handle all warranty repairs.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "dealer",
+      "voice": "zh",
+      "text": "授权经销商将负责所有保修维修。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "debate",
+      "voice": "en",
+      "text": "debate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "debate",
+      "voice": "en",
+      "text": "D, E, B, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "debate",
+      "voice": "zh",
+      "text": "名词或动词，辩论，讨论",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "debate",
+      "voice": "en",
+      "text": "The committee debated whether to extend store hours on weeknights.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "debate",
+      "voice": "zh",
+      "text": "委员会讨论了是否延长工作日晚间营业时间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "decide",
+      "voice": "en",
+      "text": "decide",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "decide",
+      "voice": "en",
+      "text": "D, E, C, I, D, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "decide",
+      "voice": "zh",
+      "text": "动词，决定",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "decide",
+      "voice": "en",
+      "text": "We will decide on the venue after we compare the three quotes.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "decide",
+      "voice": "zh",
+      "text": "比较三份报价后，我们将决定场地。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "decision",
+      "voice": "en",
+      "text": "decision",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "decision",
+      "voice": "en",
+      "text": "D, E, C, I, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "decision",
+      "voice": "zh",
+      "text": "名词，决定，决议",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "decision",
+      "voice": "en",
+      "text": "A final decision on the relocation will be announced on Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "decision",
+      "voice": "zh",
+      "text": "关于搬迁的最终决定将于周五公布。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "dedicate",
+      "voice": "en",
+      "text": "dedicate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "dedicate",
+      "voice": "en",
+      "text": "D, E, D, I, C, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "dedicate",
+      "voice": "zh",
+      "text": "动词，专用，致力于",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "dedicate",
+      "voice": "en",
+      "text": "One conference room will be dedicated to client presentations.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "dedicate",
+      "voice": "zh",
+      "text": "一间会议室将专门用于客户演示。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "deduction",
+      "voice": "en",
+      "text": "deduction",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deduction",
+      "voice": "en",
+      "text": "D, E, D, U, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deduction",
+      "voice": "zh",
+      "text": "名词，扣除，扣款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deduction",
+      "voice": "en",
+      "text": "The tax deduction for home-office expenses has changed this year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deduction",
+      "voice": "zh",
+      "text": "今年家庭办公费用的税前扣除规定有所变化。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "define",
+      "voice": "en",
+      "text": "define",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "define",
+      "voice": "en",
+      "text": "D, E, F, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "define",
+      "voice": "zh",
+      "text": "动词，定义，界定",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "define",
+      "voice": "en",
+      "text": "The contract should clearly define the acceptance criteria.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "define",
+      "voice": "zh",
+      "text": "合同应明确规定验收标准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "definitely",
+      "voice": "en",
+      "text": "definitely",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "definitely",
+      "voice": "en",
+      "text": "D, E, F, I, N, I, T, E, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "definitely",
+      "voice": "zh",
+      "text": "副词，肯定，明确地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "definitely",
+      "voice": "en",
+      "text": "We can definitely deliver the first batch by the twelfth.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "definitely",
+      "voice": "zh",
+      "text": "我们肯定能在12日前交付第一批。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "definition",
+      "voice": "en",
+      "text": "definition",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "definition",
+      "voice": "en",
+      "text": "D, E, F, I, N, I, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "definition",
+      "voice": "zh",
+      "text": "名词，定义，清晰度",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "definition",
+      "voice": "en",
+      "text": "A written definition of 'urgent request' will be added to the handbook.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "definition",
+      "voice": "zh",
+      "text": "手册中将增加对“紧急请求”的书面定义。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "delete",
+      "voice": "en",
+      "text": "delete",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "delete",
+      "voice": "en",
+      "text": "D, E, L, E, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "delete",
+      "voice": "zh",
+      "text": "动词，删除",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "delete",
+      "voice": "en",
+      "text": "Please delete the draft file after the final version is issued.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "delete",
+      "voice": "zh",
+      "text": "最终版发布后，请删除草稿文件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "deliberate",
+      "voice": "en",
+      "text": "deliberate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deliberate",
+      "voice": "en",
+      "text": "D, E, L, I, B, E, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deliberate",
+      "voice": "zh",
+      "text": "动词或形容词，仔细考虑，故意的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deliberate",
+      "voice": "en",
+      "text": "The committee will deliberate on the bids overnight.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deliberate",
+      "voice": "zh",
+      "text": "委员会将连夜仔细审议这些投标。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "delivery",
+      "voice": "en",
+      "text": "delivery",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "delivery",
+      "voice": "en",
+      "text": "D, E, L, I, V, E, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "delivery",
+      "voice": "zh",
+      "text": "名词，交付，送货",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "delivery",
+      "voice": "en",
+      "text": "Same-day delivery is available within the city limits.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "delivery",
+      "voice": "zh",
+      "text": "市区范围内可提供当日送达。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "demonstration",
+      "voice": "en",
+      "text": "demonstration",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "demonstration",
+      "voice": "en",
+      "text": "D, E, M, O, N, S, T, R, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "demonstration",
+      "voice": "zh",
+      "text": "名词，演示，示范",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "demonstration",
+      "voice": "en",
+      "text": "A product demonstration is scheduled for 2 p.m. in Hall B.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "demonstration",
+      "voice": "zh",
+      "text": "产品演示定于下午2点在B厅举行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "deny",
+      "voice": "en",
+      "text": "deny",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deny",
+      "voice": "en",
+      "text": "D, E, N, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deny",
+      "voice": "zh",
+      "text": "动词，拒绝，否认",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deny",
+      "voice": "en",
+      "text": "The insurer denied the claim because the report was filed too late.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deny",
+      "voice": "zh",
+      "text": "保险公司拒绝了索赔，因为报告提交太晚。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "depart",
+      "voice": "en",
+      "text": "depart",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "depart",
+      "voice": "en",
+      "text": "D, E, P, A, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "depart",
+      "voice": "zh",
+      "text": "动词，出发，离开",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "depart",
+      "voice": "en",
+      "text": "The shuttle will depart from the main entrance at 6:45 a.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "depart",
+      "voice": "zh",
+      "text": "班车将于早上6:45从正门出发。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "department",
+      "voice": "en",
+      "text": "department",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "department",
+      "voice": "en",
+      "text": "D, E, P, A, R, T, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "department",
+      "voice": "zh",
+      "text": "名词，部门",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "department",
+      "voice": "en",
+      "text": "Please send the request to the legal department for review.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "department",
+      "voice": "zh",
+      "text": "请把该申请送交法务部门审核。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "depend",
+      "voice": "en",
+      "text": "depend",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "depend",
+      "voice": "en",
+      "text": "D, E, P, E, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "depend",
+      "voice": "zh",
+      "text": "动词，依靠，取决于",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "depend",
+      "voice": "en",
+      "text": "The shipping date will depend on when the parts arrive.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "depend",
+      "voice": "zh",
+      "text": "发货日期取决于零件何时到达。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "dependent",
+      "voice": "en",
+      "text": "dependent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "dependent",
+      "voice": "en",
+      "text": "D, E, P, E, N, D, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "dependent",
+      "voice": "zh",
+      "text": "形容词或名词，依赖的，家属",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "dependent",
+      "voice": "en",
+      "text": "Health coverage can be extended to eligible dependents.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "dependent",
+      "voice": "zh",
+      "text": "医疗保险可扩大到符合条件的家属。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "describe",
+      "voice": "en",
+      "text": "describe",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "describe",
+      "voice": "en",
+      "text": "D, E, S, C, R, I, B, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "describe",
+      "voice": "zh",
+      "text": "动词，描述",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "describe",
+      "voice": "en",
+      "text": "Please describe the fault in as much detail as possible.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "describe",
+      "voice": "zh",
+      "text": "请尽可能详细地描述故障情况。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "deserve",
+      "voice": "en",
+      "text": "deserve",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deserve",
+      "voice": "en",
+      "text": "D, E, S, E, R, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deserve",
+      "voice": "zh",
+      "text": "动词，应得，值得",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deserve",
+      "voice": "en",
+      "text": "The warehouse team deserves recognition for meeting the holiday rush.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deserve",
+      "voice": "zh",
+      "text": "仓库团队成功应对假日高峰，值得表彰。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "design",
+      "voice": "en",
+      "text": "design",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "design",
+      "voice": "en",
+      "text": "D, E, S, I, G, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "design",
+      "voice": "zh",
+      "text": "名词或动词，设计",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "design",
+      "voice": "en",
+      "text": "The design of the new packaging reduces shipping damage.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "design",
+      "voice": "zh",
+      "text": "新包装的设计减少了运输损坏。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "designer",
+      "voice": "en",
+      "text": "designer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "designer",
+      "voice": "en",
+      "text": "D, E, S, I, G, N, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "designer",
+      "voice": "zh",
+      "text": "名词，设计师",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "designer",
+      "voice": "en",
+      "text": "The graphic designer will revise the cover by Thursday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "designer",
+      "voice": "zh",
+      "text": "平面设计师将在周四前修改封面。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "develop",
+      "voice": "en",
+      "text": "develop",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "develop",
+      "voice": "en",
+      "text": "D, E, V, E, L, O, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "develop",
+      "voice": "zh",
+      "text": "动词，开发，发展",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "develop",
+      "voice": "en",
+      "text": "The lab will develop a lighter casing for the next model.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "develop",
+      "voice": "zh",
+      "text": "实验室将为下一型号开发更轻的外壳。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "development",
+      "voice": "en",
+      "text": "development",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "development",
+      "voice": "en",
+      "text": "D, E, V, E, L, O, P, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "development",
+      "voice": "zh",
+      "text": "名词，开发，发展，新情况",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "development",
+      "voice": "en",
+      "text": "Product development is expected to take nine months.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "development",
+      "voice": "zh",
+      "text": "产品开发预计需要九个月。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "device",
+      "voice": "en",
+      "text": "device",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "device",
+      "voice": "en",
+      "text": "D, E, V, I, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "device",
+      "voice": "zh",
+      "text": "名词，设备，装置",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "device",
+      "voice": "en",
+      "text": "Please return the loaner device when your laptop is repaired.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "device",
+      "voice": "zh",
+      "text": "笔记本电脑修好后，请归还借用设备。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "brand-new",
+      "voice": "en",
+      "text": "brand new",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "brand-new",
+      "voice": "en",
+      "text": "B, R, A, N, D, hyphen, N, E, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "brand-new",
+      "voice": "zh",
+      "text": "形容词，全新的，崭新的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "brand-new",
+      "voice": "en",
+      "text": "The lab received a brand-new spectrometer this morning.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "brand-new",
+      "voice": "zh",
+      "text": "实验室今天上午收到一台全新的光谱仪。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "study-leave",
+      "voice": "en",
+      "text": "study leave",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "study-leave",
+      "voice": "en",
+      "text": "S, T, U, D, Y, hyphen, L, E, A, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "study-leave",
+      "voice": "zh",
+      "text": "名词，进修假",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "study-leave",
+      "voice": "en",
+      "text": "She has been granted three months of study-leave to complete the certification.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "study-leave",
+      "voice": "zh",
+      "text": "她获准休三个月进修假以完成认证。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "medical-leave",
+      "voice": "en",
+      "text": "medical leave",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "medical-leave",
+      "voice": "en",
+      "text": "M, E, D, I, C, A, L, hyphen, L, E, A, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "medical-leave",
+      "voice": "zh",
+      "text": "名词，病假，医疗假",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "medical-leave",
+      "voice": "en",
+      "text": "Please submit a doctor's note if medical-leave lasts more than two days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "medical-leave",
+      "voice": "zh",
+      "text": "医疗假超过两天请提交医生证明。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "personal-leave",
+      "voice": "en",
+      "text": "personal leave",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "personal-leave",
+      "voice": "en",
+      "text": "P, E, R, S, O, N, A, L, hyphen, L, E, A, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "personal-leave",
+      "voice": "zh",
+      "text": "名词，事假",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "personal-leave",
+      "voice": "en",
+      "text": "Personal-leave must be requested at least three days in advance, except in emergencies.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "personal-leave",
+      "voice": "zh",
+      "text": "除紧急情况外，事假须至少提前三天申请。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "jury-duty",
+      "voice": "en",
+      "text": "jury duty",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "jury-duty",
+      "voice": "en",
+      "text": "J, U, R, Y, hyphen, D, U, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "jury-duty",
+      "voice": "zh",
+      "text": "名词，陪审义务",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "jury-duty",
+      "voice": "en",
+      "text": "Employees called for jury-duty should notify their supervisor as soon as possible.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "jury-duty",
+      "voice": "zh",
+      "text": "被召担任陪审员的员工应尽快通知主管。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第61轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

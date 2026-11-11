@@ -1,0 +1,1314 @@
+{
+  "id": "083",
+  "track": 83,
+  "title": "第 83 轨",
+  "word_count": 30,
+  "headwords": [
+    "private",
+    "privately",
+    "privilege",
+    "process",
+    "produce",
+    "producer",
+    "production",
+    "productive",
+    "profession",
+    "professional",
+    "profile",
+    "program",
+    "progress",
+    "project",
+    "promise",
+    "promising",
+    "promptly",
+    "proof",
+    "proper",
+    "property",
+    "proportion",
+    "propose",
+    "protect",
+    "protection",
+    "prove",
+    "publication",
+    "publish",
+    "publisher",
+    "purpose",
+    "quarter"
+  ],
+  "entries": [
+    {
+      "word": "private",
+      "spelling": "P, R, I, V, A, T, E",
+      "spoken_meaning": "形容词，私人的，私营的",
+      "en": "A private meeting room can be reserved on the second floor.",
+      "zh": "二楼可预订私人会议室。"
+    },
+    {
+      "word": "privately",
+      "spelling": "P, R, I, V, A, T, E, L, Y",
+      "spoken_meaning": "副词，私下地，以私有方式",
+      "en": "If you have a concern, please raise it privately with your supervisor.",
+      "zh": "如有顾虑，请私下向主管提出。"
+    },
+    {
+      "word": "privilege",
+      "spelling": "P, R, I, V, I, L, E, G, E",
+      "spoken_meaning": "名词，特权，优惠",
+      "en": "Free parking is a privilege for employees who carpool.",
+      "zh": "免费停车是拼车员工的一项优惠。"
+    },
+    {
+      "word": "process",
+      "spelling": "P, R, O, C, E, S, S",
+      "spoken_meaning": "名词或动词，流程，处理",
+      "en": "It takes three business days to process a refund.",
+      "zh": "处理退款需要三个工作日。"
+    },
+    {
+      "word": "produce",
+      "spelling": "P, R, O, D, U, C, E",
+      "spoken_meaning": "动词或名词，生产，农产品",
+      "en": "The plant can produce 5,000 units a week at full capacity.",
+      "zh": "工厂满负荷每周可生产5000件。"
+    },
+    {
+      "word": "producer",
+      "spelling": "P, R, O, D, U, C, E, R",
+      "spoken_meaning": "名词，生产商，制片人",
+      "en": "The producer has agreed to a shorter lead time.",
+      "zh": "生产商已同意缩短交货周期。"
+    },
+    {
+      "word": "production",
+      "spelling": "P, R, O, D, U, C, T, I, O, N",
+      "spoken_meaning": "名词，生产，产量",
+      "en": "Production was halted for two hours after the power cut.",
+      "zh": "停电后生产暂停了两小时。"
+    },
+    {
+      "word": "productive",
+      "spelling": "P, R, O, D, U, C, T, I, V, E",
+      "spoken_meaning": "形容词，有成效的，多产的",
+      "en": "The morning session was highly productive and ended early.",
+      "zh": "上午的会议很有成效，提前结束了。"
+    },
+    {
+      "word": "profession",
+      "spelling": "P, R, O, F, E, S, S, I, O, N",
+      "spoken_meaning": "名词，职业，行业",
+      "en": "Continuing education is required in this profession.",
+      "zh": "这个职业需要持续进修。"
+    },
+    {
+      "word": "professional",
+      "spelling": "P, R, O, F, E, S, S, I, O, N, A, L",
+      "spoken_meaning": "形容词或名词，专业的，专业人士",
+      "en": "Please wear professional attire when meeting clients.",
+      "zh": "会见客户时请穿着职业装。"
+    },
+    {
+      "word": "profile",
+      "spelling": "P, R, O, F, I, L, E",
+      "spoken_meaning": "名词，简介，侧面，档案",
+      "en": "An updated company profile is attached for the bid.",
+      "zh": "投标已附上更新后的公司简介。"
+    },
+    {
+      "word": "program",
+      "spelling": "P, R, O, G, R, A, M",
+      "spoken_meaning": "名词，计划，节目，程序",
+      "en": "The trainee program lasts six months and includes two rotations.",
+      "zh": "培训生计划为期六个月，包含两个轮岗。"
+    },
+    {
+      "word": "progress",
+      "spelling": "P, R, O, G, R, E, S, S",
+      "spoken_meaning": "名词或动词，进展，前进",
+      "en": "Please send a brief progress report every Friday.",
+      "zh": "请每周五发送一份简要进展报告。"
+    },
+    {
+      "word": "project",
+      "spelling": "P, R, O, J, E, C, T",
+      "spoken_meaning": "名词或动词，项目，预计",
+      "en": "The renovation project is expected to finish in August.",
+      "zh": "翻修项目预计八月完成。"
+    },
+    {
+      "word": "promise",
+      "spelling": "P, R, O, M, I, S, E",
+      "spoken_meaning": "名词或动词，承诺",
+      "en": "We cannot promise a delivery date until the parts arrive.",
+      "zh": "零件到达前，我们无法承诺交货日期。"
+    },
+    {
+      "word": "promising",
+      "spelling": "P, R, O, M, I, S, I, N, G",
+      "spoken_meaning": "形容词，有前途的，有希望的",
+      "en": "Early orders for the new model have been promising.",
+      "zh": "新型号的早期订单情况很有希望。"
+    },
+    {
+      "word": "promptly",
+      "spelling": "P, R, O, M, P, T, L, Y",
+      "spoken_meaning": "副词，迅速地，及时地",
+      "en": "Please reply promptly so we can reserve the room.",
+      "zh": "请迅速回复，以便我们预订房间。"
+    },
+    {
+      "word": "proof",
+      "spelling": "P, R, O, O, F",
+      "spoken_meaning": "名词，证明，校样",
+      "en": "Proof of purchase is required for all warranty claims.",
+      "zh": "所有保修申请都需要购买凭证。"
+    },
+    {
+      "word": "proper",
+      "spelling": "P, R, O, P, E, R",
+      "spoken_meaning": "形容词，适当的，正确的",
+      "en": "Proper lifting technique is covered in the safety video.",
+      "zh": "安全视频中介绍了正确的搬运方法。"
+    },
+    {
+      "word": "property",
+      "spelling": "P, R, O, P, E, R, T, Y",
+      "spoken_meaning": "名词，财产，物业",
+      "en": "Personal property should not be left in the meeting rooms.",
+      "zh": "请不要把私人物品留在会议室。"
+    },
+    {
+      "word": "proportion",
+      "spelling": "P, R, O, P, O, R, T, I, O, N",
+      "spoken_meaning": "名词，比例",
+      "en": "A large proportion of sales now comes from online orders.",
+      "zh": "现在很大一部分销售来自在线订单。"
+    },
+    {
+      "word": "propose",
+      "spelling": "P, R, O, P, O, S, E",
+      "spoken_meaning": "动词，提议，求婚",
+      "en": "I propose that we delay the launch until the test results arrive.",
+      "zh": "我提议等测试结果出来后再发布。"
+    },
+    {
+      "word": "protect",
+      "spelling": "P, R, O, T, E, C, T",
+      "spoken_meaning": "动词，保护",
+      "en": "Please protect the screens with covers during the renovation.",
+      "zh": "装修期间请用罩子保护屏幕。"
+    },
+    {
+      "word": "protection",
+      "spelling": "P, R, O, T, E, C, T, I, O, N",
+      "spoken_meaning": "名词，保护",
+      "en": "Eye protection is required in the assembly area.",
+      "zh": "装配区必须佩戴护目装备。"
+    },
+    {
+      "word": "prove",
+      "spelling": "P, R, O, V, E",
+      "spoken_meaning": "动词，证明",
+      "en": "The trial will prove whether the new route is faster.",
+      "zh": "这次试行将证明新路线是否更快。"
+    },
+    {
+      "word": "publication",
+      "spelling": "P, U, B, L, I, C, A, T, I, O, N",
+      "spoken_meaning": "名词，出版物，发表",
+      "en": "The study will appear in a trade publication next month.",
+      "zh": "该研究将于下月发表在一份行业刊物上。"
+    },
+    {
+      "word": "publish",
+      "spelling": "P, U, B, L, I, S, H",
+      "spoken_meaning": "动词，公布，出版",
+      "en": "We will publish the new opening hours on the website tonight.",
+      "zh": "我们今晚将在网站上公布新的营业时间。"
+    },
+    {
+      "word": "publisher",
+      "spelling": "P, U, B, L, I, S, H, E, R",
+      "spoken_meaning": "名词，出版商",
+      "en": "The publisher has asked for a shorter version of the manual.",
+      "zh": "出版商要求提供更短的手册版本。"
+    },
+    {
+      "word": "purpose",
+      "spelling": "P, U, R, P, O, S, E",
+      "spoken_meaning": "名词，目的，用途",
+      "en": "The purpose of this form is to record visitors to the laboratory.",
+      "zh": "这张表格的目的是记录进入实验室的访客。"
+    },
+    {
+      "word": "quarter",
+      "spelling": "Q, U, A, R, T, E, R",
+      "spoken_meaning": "名词，季度，四分之一，地区",
+      "en": "Sales in the third quarter were higher than forecast.",
+      "zh": "第三季度的销售高于预测。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第83轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "private",
+      "voice": "en",
+      "text": "private",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "private",
+      "voice": "en",
+      "text": "P, R, I, V, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "private",
+      "voice": "zh",
+      "text": "形容词，私人的，私营的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "private",
+      "voice": "en",
+      "text": "A private meeting room can be reserved on the second floor.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "private",
+      "voice": "zh",
+      "text": "二楼可预订私人会议室。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "privately",
+      "voice": "en",
+      "text": "privately",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "privately",
+      "voice": "en",
+      "text": "P, R, I, V, A, T, E, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "privately",
+      "voice": "zh",
+      "text": "副词，私下地，以私有方式",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "privately",
+      "voice": "en",
+      "text": "If you have a concern, please raise it privately with your supervisor.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "privately",
+      "voice": "zh",
+      "text": "如有顾虑，请私下向主管提出。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "privilege",
+      "voice": "en",
+      "text": "privilege",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "privilege",
+      "voice": "en",
+      "text": "P, R, I, V, I, L, E, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "privilege",
+      "voice": "zh",
+      "text": "名词，特权，优惠",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "privilege",
+      "voice": "en",
+      "text": "Free parking is a privilege for employees who carpool.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "privilege",
+      "voice": "zh",
+      "text": "免费停车是拼车员工的一项优惠。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "process",
+      "voice": "en",
+      "text": "process",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "process",
+      "voice": "en",
+      "text": "P, R, O, C, E, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "process",
+      "voice": "zh",
+      "text": "名词或动词，流程，处理",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "process",
+      "voice": "en",
+      "text": "It takes three business days to process a refund.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "process",
+      "voice": "zh",
+      "text": "处理退款需要三个工作日。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "produce",
+      "voice": "en",
+      "text": "produce",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "produce",
+      "voice": "en",
+      "text": "P, R, O, D, U, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "produce",
+      "voice": "zh",
+      "text": "动词或名词，生产，农产品",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "produce",
+      "voice": "en",
+      "text": "The plant can produce 5,000 units a week at full capacity.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "produce",
+      "voice": "zh",
+      "text": "工厂满负荷每周可生产5000件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "producer",
+      "voice": "en",
+      "text": "producer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "producer",
+      "voice": "en",
+      "text": "P, R, O, D, U, C, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "producer",
+      "voice": "zh",
+      "text": "名词，生产商，制片人",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "producer",
+      "voice": "en",
+      "text": "The producer has agreed to a shorter lead time.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "producer",
+      "voice": "zh",
+      "text": "生产商已同意缩短交货周期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "production",
+      "voice": "en",
+      "text": "production",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "production",
+      "voice": "en",
+      "text": "P, R, O, D, U, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "production",
+      "voice": "zh",
+      "text": "名词，生产，产量",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "production",
+      "voice": "en",
+      "text": "Production was halted for two hours after the power cut.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "production",
+      "voice": "zh",
+      "text": "停电后生产暂停了两小时。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "productive",
+      "voice": "en",
+      "text": "productive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "productive",
+      "voice": "en",
+      "text": "P, R, O, D, U, C, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "productive",
+      "voice": "zh",
+      "text": "形容词，有成效的，多产的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "productive",
+      "voice": "en",
+      "text": "The morning session was highly productive and ended early.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "productive",
+      "voice": "zh",
+      "text": "上午的会议很有成效，提前结束了。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "profession",
+      "voice": "en",
+      "text": "profession",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "profession",
+      "voice": "en",
+      "text": "P, R, O, F, E, S, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "profession",
+      "voice": "zh",
+      "text": "名词，职业，行业",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "profession",
+      "voice": "en",
+      "text": "Continuing education is required in this profession.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "profession",
+      "voice": "zh",
+      "text": "这个职业需要持续进修。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "professional",
+      "voice": "en",
+      "text": "professional",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "professional",
+      "voice": "en",
+      "text": "P, R, O, F, E, S, S, I, O, N, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "professional",
+      "voice": "zh",
+      "text": "形容词或名词，专业的，专业人士",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "professional",
+      "voice": "en",
+      "text": "Please wear professional attire when meeting clients.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "professional",
+      "voice": "zh",
+      "text": "会见客户时请穿着职业装。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "profile",
+      "voice": "en",
+      "text": "profile",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "profile",
+      "voice": "en",
+      "text": "P, R, O, F, I, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "profile",
+      "voice": "zh",
+      "text": "名词，简介，侧面，档案",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "profile",
+      "voice": "en",
+      "text": "An updated company profile is attached for the bid.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "profile",
+      "voice": "zh",
+      "text": "投标已附上更新后的公司简介。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "program",
+      "voice": "en",
+      "text": "program",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "program",
+      "voice": "en",
+      "text": "P, R, O, G, R, A, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "program",
+      "voice": "zh",
+      "text": "名词，计划，节目，程序",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "program",
+      "voice": "en",
+      "text": "The trainee program lasts six months and includes two rotations.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "program",
+      "voice": "zh",
+      "text": "培训生计划为期六个月，包含两个轮岗。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "progress",
+      "voice": "en",
+      "text": "progress",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "progress",
+      "voice": "en",
+      "text": "P, R, O, G, R, E, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "progress",
+      "voice": "zh",
+      "text": "名词或动词，进展，前进",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "progress",
+      "voice": "en",
+      "text": "Please send a brief progress report every Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "progress",
+      "voice": "zh",
+      "text": "请每周五发送一份简要进展报告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "project",
+      "voice": "en",
+      "text": "project",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "project",
+      "voice": "en",
+      "text": "P, R, O, J, E, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "project",
+      "voice": "zh",
+      "text": "名词或动词，项目，预计",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "project",
+      "voice": "en",
+      "text": "The renovation project is expected to finish in August.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "project",
+      "voice": "zh",
+      "text": "翻修项目预计八月完成。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "promise",
+      "voice": "en",
+      "text": "promise",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "promise",
+      "voice": "en",
+      "text": "P, R, O, M, I, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "promise",
+      "voice": "zh",
+      "text": "名词或动词，承诺",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "promise",
+      "voice": "en",
+      "text": "We cannot promise a delivery date until the parts arrive.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "promise",
+      "voice": "zh",
+      "text": "零件到达前，我们无法承诺交货日期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "promising",
+      "voice": "en",
+      "text": "promising",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "promising",
+      "voice": "en",
+      "text": "P, R, O, M, I, S, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "promising",
+      "voice": "zh",
+      "text": "形容词，有前途的，有希望的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "promising",
+      "voice": "en",
+      "text": "Early orders for the new model have been promising.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "promising",
+      "voice": "zh",
+      "text": "新型号的早期订单情况很有希望。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "promptly",
+      "voice": "en",
+      "text": "promptly",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "promptly",
+      "voice": "en",
+      "text": "P, R, O, M, P, T, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "promptly",
+      "voice": "zh",
+      "text": "副词，迅速地，及时地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "promptly",
+      "voice": "en",
+      "text": "Please reply promptly so we can reserve the room.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "promptly",
+      "voice": "zh",
+      "text": "请迅速回复，以便我们预订房间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "proof",
+      "voice": "en",
+      "text": "proof",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "proof",
+      "voice": "en",
+      "text": "P, R, O, O, F",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "proof",
+      "voice": "zh",
+      "text": "名词，证明，校样",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "proof",
+      "voice": "en",
+      "text": "Proof of purchase is required for all warranty claims.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "proof",
+      "voice": "zh",
+      "text": "所有保修申请都需要购买凭证。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "proper",
+      "voice": "en",
+      "text": "proper",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "proper",
+      "voice": "en",
+      "text": "P, R, O, P, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "proper",
+      "voice": "zh",
+      "text": "形容词，适当的，正确的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "proper",
+      "voice": "en",
+      "text": "Proper lifting technique is covered in the safety video.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "proper",
+      "voice": "zh",
+      "text": "安全视频中介绍了正确的搬运方法。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "property",
+      "voice": "en",
+      "text": "property",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "property",
+      "voice": "en",
+      "text": "P, R, O, P, E, R, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "property",
+      "voice": "zh",
+      "text": "名词，财产，物业",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "property",
+      "voice": "en",
+      "text": "Personal property should not be left in the meeting rooms.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "property",
+      "voice": "zh",
+      "text": "请不要把私人物品留在会议室。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "proportion",
+      "voice": "en",
+      "text": "proportion",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "proportion",
+      "voice": "en",
+      "text": "P, R, O, P, O, R, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "proportion",
+      "voice": "zh",
+      "text": "名词，比例",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "proportion",
+      "voice": "en",
+      "text": "A large proportion of sales now comes from online orders.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "proportion",
+      "voice": "zh",
+      "text": "现在很大一部分销售来自在线订单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "propose",
+      "voice": "en",
+      "text": "propose",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "propose",
+      "voice": "en",
+      "text": "P, R, O, P, O, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "propose",
+      "voice": "zh",
+      "text": "动词，提议，求婚",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "propose",
+      "voice": "en",
+      "text": "I propose that we delay the launch until the test results arrive.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "propose",
+      "voice": "zh",
+      "text": "我提议等测试结果出来后再发布。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "protect",
+      "voice": "en",
+      "text": "protect",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "protect",
+      "voice": "en",
+      "text": "P, R, O, T, E, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "protect",
+      "voice": "zh",
+      "text": "动词，保护",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "protect",
+      "voice": "en",
+      "text": "Please protect the screens with covers during the renovation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "protect",
+      "voice": "zh",
+      "text": "装修期间请用罩子保护屏幕。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "protection",
+      "voice": "en",
+      "text": "protection",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "protection",
+      "voice": "en",
+      "text": "P, R, O, T, E, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "protection",
+      "voice": "zh",
+      "text": "名词，保护",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "protection",
+      "voice": "en",
+      "text": "Eye protection is required in the assembly area.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "protection",
+      "voice": "zh",
+      "text": "装配区必须佩戴护目装备。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "prove",
+      "voice": "en",
+      "text": "prove",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "prove",
+      "voice": "en",
+      "text": "P, R, O, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "prove",
+      "voice": "zh",
+      "text": "动词，证明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "prove",
+      "voice": "en",
+      "text": "The trial will prove whether the new route is faster.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "prove",
+      "voice": "zh",
+      "text": "这次试行将证明新路线是否更快。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "publication",
+      "voice": "en",
+      "text": "publication",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "publication",
+      "voice": "en",
+      "text": "P, U, B, L, I, C, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "publication",
+      "voice": "zh",
+      "text": "名词，出版物，发表",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "publication",
+      "voice": "en",
+      "text": "The study will appear in a trade publication next month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "publication",
+      "voice": "zh",
+      "text": "该研究将于下月发表在一份行业刊物上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "publish",
+      "voice": "en",
+      "text": "publish",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "publish",
+      "voice": "en",
+      "text": "P, U, B, L, I, S, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "publish",
+      "voice": "zh",
+      "text": "动词，公布，出版",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "publish",
+      "voice": "en",
+      "text": "We will publish the new opening hours on the website tonight.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "publish",
+      "voice": "zh",
+      "text": "我们今晚将在网站上公布新的营业时间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "publisher",
+      "voice": "en",
+      "text": "publisher",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "publisher",
+      "voice": "en",
+      "text": "P, U, B, L, I, S, H, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "publisher",
+      "voice": "zh",
+      "text": "名词，出版商",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "publisher",
+      "voice": "en",
+      "text": "The publisher has asked for a shorter version of the manual.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "publisher",
+      "voice": "zh",
+      "text": "出版商要求提供更短的手册版本。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "purpose",
+      "voice": "en",
+      "text": "purpose",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "purpose",
+      "voice": "en",
+      "text": "P, U, R, P, O, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "purpose",
+      "voice": "zh",
+      "text": "名词，目的，用途",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "purpose",
+      "voice": "en",
+      "text": "The purpose of this form is to record visitors to the laboratory.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "purpose",
+      "voice": "zh",
+      "text": "这张表格的目的是记录进入实验室的访客。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "quarter",
+      "voice": "en",
+      "text": "quarter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "quarter",
+      "voice": "en",
+      "text": "Q, U, A, R, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "quarter",
+      "voice": "zh",
+      "text": "名词，季度，四分之一，地区",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "quarter",
+      "voice": "en",
+      "text": "Sales in the third quarter were higher than forecast.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "quarter",
+      "voice": "zh",
+      "text": "第三季度的销售高于预测。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第83轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

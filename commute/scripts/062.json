@@ -1,0 +1,1314 @@
+{
+  "id": "062",
+  "track": 62,
+  "title": "第 62 轨",
+  "word_count": 30,
+  "headwords": [
+    "compressed-hours",
+    "shift-work",
+    "split-shift",
+    "rotating-shift",
+    "swing-shift",
+    "graveyard-shift",
+    "holiday-pay",
+    "notice-pay",
+    "sick-pay",
+    "maternity-pay",
+    "vision-insurance",
+    "unemployment-insurance",
+    "property-insurance",
+    "professional-indemnity",
+    "key-person-insurance",
+    "cost-plus",
+    "fixed-price",
+    "retainer-fee",
+    "success-fee",
+    "finders-fee",
+    "service-fee",
+    "convenience-fee",
+    "welcome-pack",
+    "aisle-seat",
+    "window-seat",
+    "exit-row",
+    "wait-list",
+    "standby-ticket",
+    "charter-flight",
+    "shuttle-flight"
+  ],
+  "entries": [
+    {
+      "word": "compressed-hours",
+      "spelling": "C, O, M, P, R, E, S, S, E, D, hyphen, H, O, U, R, S",
+      "spoken_meaning": "名词，压缩工时，压缩工作周",
+      "en": "Under compressed-hours, staff work longer days in exchange for a weekday off.",
+      "zh": "在压缩工时制度下，员工延长每日工时以换取一个工作日休息。"
+    },
+    {
+      "word": "shift-work",
+      "spelling": "S, H, I, F, T, hyphen, W, O, R, K",
+      "spoken_meaning": "名词，轮班工作",
+      "en": "Shift-work premiums are listed in the plant's labor agreement.",
+      "zh": "轮班津贴列在工厂的劳工协议中。"
+    },
+    {
+      "word": "split-shift",
+      "spelling": "S, P, L, I, T, hyphen, S, H, I, F, T",
+      "spoken_meaning": "名词，分段班，拆班",
+      "en": "Drivers on a split-shift have an unpaid break in the middle of the day.",
+      "zh": "上分段班的司机在中午有一段无薪休息时间。"
+    },
+    {
+      "word": "rotating-shift",
+      "spelling": "R, O, T, A, T, I, N, G, hyphen, S, H, I, F, T",
+      "spoken_meaning": "名词，轮换班次",
+      "en": "The rotating-shift schedule changes every two weeks.",
+      "zh": "轮换班次每两周调整一次。"
+    },
+    {
+      "word": "swing-shift",
+      "spelling": "S, W, I, N, G, hyphen, S, H, I, F, T",
+      "spoken_meaning": "名词，中班，下午班",
+      "en": "The swing-shift begins at 4 p.m. and ends at midnight.",
+      "zh": "中班从下午4点到午夜。"
+    },
+    {
+      "word": "graveyard-shift",
+      "spelling": "G, R, A, V, E, Y, A, R, D, hyphen, S, H, I, F, T",
+      "spoken_meaning": "名词，夜班，大夜班",
+      "en": "Two supervisors are assigned to the graveyard-shift in the packing hall.",
+      "zh": "包装车间的大夜班安排了两名主管。"
+    },
+    {
+      "word": "holiday-pay",
+      "spelling": "H, O, L, I, D, A, Y, hyphen, P, A, Y",
+      "spoken_meaning": "名词，假日工资",
+      "en": "Holiday-pay applies to staff who work on official public holidays.",
+      "zh": "在法定假日工作的员工可领取假日工资。"
+    },
+    {
+      "word": "notice-pay",
+      "spelling": "N, O, T, I, C, E, hyphen, P, A, Y",
+      "spoken_meaning": "名词，代通知金",
+      "en": "If we end the contract early, notice-pay will be included in the final settlement.",
+      "zh": "若我们提前终止合同，最后结算将包含代通知金。"
+    },
+    {
+      "word": "sick-pay",
+      "spelling": "S, I, C, K, hyphen, P, A, Y",
+      "spoken_meaning": "名词，病假工资",
+      "en": "Sick-pay begins on the second consecutive day of absence.",
+      "zh": "病假工资从连续缺勤的第二天起计算。"
+    },
+    {
+      "word": "maternity-pay",
+      "spelling": "M, A, T, E, R, N, I, T, Y, hyphen, P, A, Y",
+      "spoken_meaning": "名词，产假工资",
+      "en": "Maternity-pay is calculated from the employee's average earnings.",
+      "zh": "产假工资按员工平均收入计算。"
+    },
+    {
+      "word": "vision-insurance",
+      "spelling": "V, I, S, I, O, N, hyphen, I, N, S, U, R, A, N, C, E",
+      "spoken_meaning": "名词，视力保险",
+      "en": "Vision-insurance covers one eye exam and a pair of glasses each year.",
+      "zh": "视力保险每年报销一次眼科检查和一副眼镜。"
+    },
+    {
+      "word": "unemployment-insurance",
+      "spelling": "U, N, E, M, P, L, O, Y, M, E, N, T, hyphen, I, N, S, U, R, A, N, C, E",
+      "spoken_meaning": "名词，失业保险",
+      "en": "Contributions to unemployment-insurance are shown on your payslip.",
+      "zh": "失业保险缴款列在你的工资单上。"
+    },
+    {
+      "word": "property-insurance",
+      "spelling": "P, R, O, P, E, R, T, Y, hyphen, I, N, S, U, R, A, N, C, E",
+      "spoken_meaning": "名词，财产保险",
+      "en": "Property-insurance for the warehouse was renewed last month.",
+      "zh": "仓库的财产保险已于上个月续保。"
+    },
+    {
+      "word": "professional-indemnity",
+      "spelling": "P, R, O, F, E, S, S, I, O, N, A, L, hyphen, I, N, D, E, M, N, I, T, Y",
+      "spoken_meaning": "名词，职业责任保险，专业赔偿保险",
+      "en": "Consultants must carry professional-indemnity cover before starting work.",
+      "zh": "咨询顾问在开工前必须投保职业责任保险。"
+    },
+    {
+      "word": "key-person-insurance",
+      "spelling": "K, E, Y, hyphen, P, E, R, S, O, N, hyphen, I, N, S, U, R, A, N, C, E",
+      "spoken_meaning": "名词，关键人物保险",
+      "en": "The board approved key-person-insurance for the chief engineer.",
+      "zh": "董事会批准为总工程师购买关键人物保险。"
+    },
+    {
+      "word": "cost-plus",
+      "spelling": "C, O, S, T, hyphen, P, L, U, S",
+      "spoken_meaning": "形容词或名词，成本加成的，成本加成合同",
+      "en": "The renovation will be billed on a cost-plus basis.",
+      "zh": "此次装修将按成本加成方式计费。"
+    },
+    {
+      "word": "fixed-price",
+      "spelling": "F, I, X, E, D, hyphen, P, R, I, C, E",
+      "spoken_meaning": "形容词或名词，固定价格的，一口价合同",
+      "en": "We prefer a fixed-price contract to avoid unexpected overruns.",
+      "zh": "我们更倾向固定价格合同，以避免意外超支。"
+    },
+    {
+      "word": "retainer-fee",
+      "spelling": "R, E, T, A, I, N, E, R, hyphen, F, E, E",
+      "spoken_meaning": "名词，聘用订金，顾问聘金",
+      "en": "A monthly retainer-fee covers up to ten hours of legal advice.",
+      "zh": "每月顾问聘金包含最多十小时的法律咨询。"
+    },
+    {
+      "word": "success-fee",
+      "spelling": "S, U, C, C, E, S, S, hyphen, F, E, E",
+      "spoken_meaning": "名词，成功酬金",
+      "en": "The recruiter's success-fee is payable when the candidate starts work.",
+      "zh": "候选人到岗后，须支付招聘顾问的成功酬金。"
+    },
+    {
+      "word": "finders-fee",
+      "spelling": "F, I, N, D, E, R, S, hyphen, F, E, E",
+      "spoken_meaning": "名词，介绍费，中介费",
+      "en": "A finders-fee will be paid if this introduction leads to a signed lease.",
+      "zh": "如果这次介绍促成已签署的租约，将支付介绍费。"
+    },
+    {
+      "word": "service-fee",
+      "spelling": "S, E, R, V, I, C, E, hyphen, F, E, E",
+      "spoken_meaning": "名词，服务费",
+      "en": "A service-fee of 10 percent is added to all banquet invoices.",
+      "zh": "所有宴会发票另加10%服务费。"
+    },
+    {
+      "word": "convenience-fee",
+      "spelling": "C, O, N, V, E, N, I, E, N, C, E, hyphen, F, E, E",
+      "spoken_meaning": "名词，便利手续费",
+      "en": "Paying by credit card online incurs a small convenience-fee.",
+      "zh": "在线用信用卡付款会收取少量便利手续费。"
+    },
+    {
+      "word": "welcome-pack",
+      "spelling": "W, E, L, C, O, M, E, hyphen, P, A, C, K",
+      "spoken_meaning": "名词，迎新资料包",
+      "en": "Each new hire receives a welcome-pack on the first morning.",
+      "zh": "每位新员工第一天上午都会收到一份迎新资料包。"
+    },
+    {
+      "word": "aisle-seat",
+      "spelling": "A, I, S, L, E, hyphen, S, E, A, T",
+      "spoken_meaning": "名词，靠过道座位",
+      "en": "Please reserve an aisle-seat so I can leave the row during the flight.",
+      "zh": "请帮我预订靠过道座位，以便飞行途中进出。"
+    },
+    {
+      "word": "window-seat",
+      "spelling": "W, I, N, D, O, W, hyphen, S, E, A, T",
+      "spoken_meaning": "名词，靠窗座位",
+      "en": "The client requested a window-seat on the morning flight to Chicago.",
+      "zh": "客户要求预订早上飞往芝加哥航班的靠窗座位。"
+    },
+    {
+      "word": "exit-row",
+      "spelling": "E, X, I, T, hyphen, R, O, W",
+      "spoken_meaning": "名词，紧急出口排座位",
+      "en": "Passengers in the exit-row must be able to assist in an evacuation.",
+      "zh": "坐在紧急出口排的乘客必须能够协助疏散。"
+    },
+    {
+      "word": "wait-list",
+      "spelling": "W, A, I, T, hyphen, L, I, S, T",
+      "spoken_meaning": "名词或动词，候补名单，列入候补",
+      "en": "You have been placed on the wait-list for Saturday's workshop.",
+      "zh": "你已进入周六研讨班的候补名单。"
+    },
+    {
+      "word": "standby-ticket",
+      "spelling": "S, T, A, N, D, B, Y, hyphen, T, I, C, K, E, T",
+      "spoken_meaning": "名词，候补机票，待机票",
+      "en": "A standby-ticket may get you on an earlier flight if seats open up.",
+      "zh": "如果出现空位，候补机票可能让你搭上更早的航班。"
+    },
+    {
+      "word": "charter-flight",
+      "spelling": "C, H, A, R, T, E, R, hyphen, F, L, I, G, H, T",
+      "spoken_meaning": "名词，包机",
+      "en": "The company booked a charter-flight for the inspection team.",
+      "zh": "公司为考察团预订了包机。"
+    },
+    {
+      "word": "shuttle-flight",
+      "spelling": "S, H, U, T, T, L, E, hyphen, F, L, I, G, H, T",
+      "spoken_meaning": "名词，班次频繁的短途航班，摆渡航班",
+      "en": "A shuttle-flight runs hourly between the two city airports.",
+      "zh": "两个市区机场之间每小时有一班摆渡航班。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第62轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "compressed-hours",
+      "voice": "en",
+      "text": "compressed hours",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "compressed-hours",
+      "voice": "en",
+      "text": "C, O, M, P, R, E, S, S, E, D, hyphen, H, O, U, R, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "compressed-hours",
+      "voice": "zh",
+      "text": "名词，压缩工时，压缩工作周",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "compressed-hours",
+      "voice": "en",
+      "text": "Under compressed-hours, staff work longer days in exchange for a weekday off.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "compressed-hours",
+      "voice": "zh",
+      "text": "在压缩工时制度下，员工延长每日工时以换取一个工作日休息。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "shift-work",
+      "voice": "en",
+      "text": "shift work",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "shift-work",
+      "voice": "en",
+      "text": "S, H, I, F, T, hyphen, W, O, R, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "shift-work",
+      "voice": "zh",
+      "text": "名词，轮班工作",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "shift-work",
+      "voice": "en",
+      "text": "Shift-work premiums are listed in the plant's labor agreement.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "shift-work",
+      "voice": "zh",
+      "text": "轮班津贴列在工厂的劳工协议中。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "split-shift",
+      "voice": "en",
+      "text": "split shift",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "split-shift",
+      "voice": "en",
+      "text": "S, P, L, I, T, hyphen, S, H, I, F, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "split-shift",
+      "voice": "zh",
+      "text": "名词，分段班，拆班",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "split-shift",
+      "voice": "en",
+      "text": "Drivers on a split-shift have an unpaid break in the middle of the day.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "split-shift",
+      "voice": "zh",
+      "text": "上分段班的司机在中午有一段无薪休息时间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "rotating-shift",
+      "voice": "en",
+      "text": "rotating shift",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rotating-shift",
+      "voice": "en",
+      "text": "R, O, T, A, T, I, N, G, hyphen, S, H, I, F, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rotating-shift",
+      "voice": "zh",
+      "text": "名词，轮换班次",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rotating-shift",
+      "voice": "en",
+      "text": "The rotating-shift schedule changes every two weeks.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rotating-shift",
+      "voice": "zh",
+      "text": "轮换班次每两周调整一次。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "swing-shift",
+      "voice": "en",
+      "text": "swing shift",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "swing-shift",
+      "voice": "en",
+      "text": "S, W, I, N, G, hyphen, S, H, I, F, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "swing-shift",
+      "voice": "zh",
+      "text": "名词，中班，下午班",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "swing-shift",
+      "voice": "en",
+      "text": "The swing-shift begins at 4 p.m. and ends at midnight.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "swing-shift",
+      "voice": "zh",
+      "text": "中班从下午4点到午夜。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "graveyard-shift",
+      "voice": "en",
+      "text": "graveyard shift",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "graveyard-shift",
+      "voice": "en",
+      "text": "G, R, A, V, E, Y, A, R, D, hyphen, S, H, I, F, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "graveyard-shift",
+      "voice": "zh",
+      "text": "名词，夜班，大夜班",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "graveyard-shift",
+      "voice": "en",
+      "text": "Two supervisors are assigned to the graveyard-shift in the packing hall.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "graveyard-shift",
+      "voice": "zh",
+      "text": "包装车间的大夜班安排了两名主管。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "holiday-pay",
+      "voice": "en",
+      "text": "holiday pay",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "holiday-pay",
+      "voice": "en",
+      "text": "H, O, L, I, D, A, Y, hyphen, P, A, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "holiday-pay",
+      "voice": "zh",
+      "text": "名词，假日工资",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "holiday-pay",
+      "voice": "en",
+      "text": "Holiday-pay applies to staff who work on official public holidays.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "holiday-pay",
+      "voice": "zh",
+      "text": "在法定假日工作的员工可领取假日工资。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "notice-pay",
+      "voice": "en",
+      "text": "notice pay",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "notice-pay",
+      "voice": "en",
+      "text": "N, O, T, I, C, E, hyphen, P, A, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "notice-pay",
+      "voice": "zh",
+      "text": "名词，代通知金",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "notice-pay",
+      "voice": "en",
+      "text": "If we end the contract early, notice-pay will be included in the final settlement.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "notice-pay",
+      "voice": "zh",
+      "text": "若我们提前终止合同，最后结算将包含代通知金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sick-pay",
+      "voice": "en",
+      "text": "sick pay",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sick-pay",
+      "voice": "en",
+      "text": "S, I, C, K, hyphen, P, A, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sick-pay",
+      "voice": "zh",
+      "text": "名词，病假工资",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sick-pay",
+      "voice": "en",
+      "text": "Sick-pay begins on the second consecutive day of absence.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sick-pay",
+      "voice": "zh",
+      "text": "病假工资从连续缺勤的第二天起计算。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "maternity-pay",
+      "voice": "en",
+      "text": "maternity pay",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "maternity-pay",
+      "voice": "en",
+      "text": "M, A, T, E, R, N, I, T, Y, hyphen, P, A, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "maternity-pay",
+      "voice": "zh",
+      "text": "名词，产假工资",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "maternity-pay",
+      "voice": "en",
+      "text": "Maternity-pay is calculated from the employee's average earnings.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "maternity-pay",
+      "voice": "zh",
+      "text": "产假工资按员工平均收入计算。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "vision-insurance",
+      "voice": "en",
+      "text": "vision insurance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "vision-insurance",
+      "voice": "en",
+      "text": "V, I, S, I, O, N, hyphen, I, N, S, U, R, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "vision-insurance",
+      "voice": "zh",
+      "text": "名词，视力保险",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "vision-insurance",
+      "voice": "en",
+      "text": "Vision-insurance covers one eye exam and a pair of glasses each year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "vision-insurance",
+      "voice": "zh",
+      "text": "视力保险每年报销一次眼科检查和一副眼镜。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "unemployment-insurance",
+      "voice": "en",
+      "text": "unemployment insurance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "unemployment-insurance",
+      "voice": "en",
+      "text": "U, N, E, M, P, L, O, Y, M, E, N, T, hyphen, I, N, S, U, R, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "unemployment-insurance",
+      "voice": "zh",
+      "text": "名词，失业保险",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "unemployment-insurance",
+      "voice": "en",
+      "text": "Contributions to unemployment-insurance are shown on your payslip.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "unemployment-insurance",
+      "voice": "zh",
+      "text": "失业保险缴款列在你的工资单上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "property-insurance",
+      "voice": "en",
+      "text": "property insurance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "property-insurance",
+      "voice": "en",
+      "text": "P, R, O, P, E, R, T, Y, hyphen, I, N, S, U, R, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "property-insurance",
+      "voice": "zh",
+      "text": "名词，财产保险",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "property-insurance",
+      "voice": "en",
+      "text": "Property-insurance for the warehouse was renewed last month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "property-insurance",
+      "voice": "zh",
+      "text": "仓库的财产保险已于上个月续保。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "professional-indemnity",
+      "voice": "en",
+      "text": "professional indemnity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "professional-indemnity",
+      "voice": "en",
+      "text": "P, R, O, F, E, S, S, I, O, N, A, L, hyphen, I, N, D, E, M, N, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "professional-indemnity",
+      "voice": "zh",
+      "text": "名词，职业责任保险，专业赔偿保险",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "professional-indemnity",
+      "voice": "en",
+      "text": "Consultants must carry professional-indemnity cover before starting work.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "professional-indemnity",
+      "voice": "zh",
+      "text": "咨询顾问在开工前必须投保职业责任保险。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "key-person-insurance",
+      "voice": "en",
+      "text": "key person insurance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "key-person-insurance",
+      "voice": "en",
+      "text": "K, E, Y, hyphen, P, E, R, S, O, N, hyphen, I, N, S, U, R, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "key-person-insurance",
+      "voice": "zh",
+      "text": "名词，关键人物保险",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "key-person-insurance",
+      "voice": "en",
+      "text": "The board approved key-person-insurance for the chief engineer.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "key-person-insurance",
+      "voice": "zh",
+      "text": "董事会批准为总工程师购买关键人物保险。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cost-plus",
+      "voice": "en",
+      "text": "cost plus",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cost-plus",
+      "voice": "en",
+      "text": "C, O, S, T, hyphen, P, L, U, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cost-plus",
+      "voice": "zh",
+      "text": "形容词或名词，成本加成的，成本加成合同",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cost-plus",
+      "voice": "en",
+      "text": "The renovation will be billed on a cost-plus basis.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cost-plus",
+      "voice": "zh",
+      "text": "此次装修将按成本加成方式计费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fixed-price",
+      "voice": "en",
+      "text": "fixed price",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fixed-price",
+      "voice": "en",
+      "text": "F, I, X, E, D, hyphen, P, R, I, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fixed-price",
+      "voice": "zh",
+      "text": "形容词或名词，固定价格的，一口价合同",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fixed-price",
+      "voice": "en",
+      "text": "We prefer a fixed-price contract to avoid unexpected overruns.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fixed-price",
+      "voice": "zh",
+      "text": "我们更倾向固定价格合同，以避免意外超支。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "retainer-fee",
+      "voice": "en",
+      "text": "retainer fee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "retainer-fee",
+      "voice": "en",
+      "text": "R, E, T, A, I, N, E, R, hyphen, F, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "retainer-fee",
+      "voice": "zh",
+      "text": "名词，聘用订金，顾问聘金",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "retainer-fee",
+      "voice": "en",
+      "text": "A monthly retainer-fee covers up to ten hours of legal advice.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "retainer-fee",
+      "voice": "zh",
+      "text": "每月顾问聘金包含最多十小时的法律咨询。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "success-fee",
+      "voice": "en",
+      "text": "success fee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "success-fee",
+      "voice": "en",
+      "text": "S, U, C, C, E, S, S, hyphen, F, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "success-fee",
+      "voice": "zh",
+      "text": "名词，成功酬金",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "success-fee",
+      "voice": "en",
+      "text": "The recruiter's success-fee is payable when the candidate starts work.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "success-fee",
+      "voice": "zh",
+      "text": "候选人到岗后，须支付招聘顾问的成功酬金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "finders-fee",
+      "voice": "en",
+      "text": "finders fee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "finders-fee",
+      "voice": "en",
+      "text": "F, I, N, D, E, R, S, hyphen, F, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "finders-fee",
+      "voice": "zh",
+      "text": "名词，介绍费，中介费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "finders-fee",
+      "voice": "en",
+      "text": "A finders-fee will be paid if this introduction leads to a signed lease.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "finders-fee",
+      "voice": "zh",
+      "text": "如果这次介绍促成已签署的租约，将支付介绍费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "service-fee",
+      "voice": "en",
+      "text": "service fee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "service-fee",
+      "voice": "en",
+      "text": "S, E, R, V, I, C, E, hyphen, F, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "service-fee",
+      "voice": "zh",
+      "text": "名词，服务费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "service-fee",
+      "voice": "en",
+      "text": "A service-fee of 10 percent is added to all banquet invoices.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "service-fee",
+      "voice": "zh",
+      "text": "所有宴会发票另加10%服务费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "convenience-fee",
+      "voice": "en",
+      "text": "convenience fee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "convenience-fee",
+      "voice": "en",
+      "text": "C, O, N, V, E, N, I, E, N, C, E, hyphen, F, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "convenience-fee",
+      "voice": "zh",
+      "text": "名词，便利手续费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "convenience-fee",
+      "voice": "en",
+      "text": "Paying by credit card online incurs a small convenience-fee.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "convenience-fee",
+      "voice": "zh",
+      "text": "在线用信用卡付款会收取少量便利手续费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "welcome-pack",
+      "voice": "en",
+      "text": "welcome pack",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "welcome-pack",
+      "voice": "en",
+      "text": "W, E, L, C, O, M, E, hyphen, P, A, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "welcome-pack",
+      "voice": "zh",
+      "text": "名词，迎新资料包",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "welcome-pack",
+      "voice": "en",
+      "text": "Each new hire receives a welcome-pack on the first morning.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "welcome-pack",
+      "voice": "zh",
+      "text": "每位新员工第一天上午都会收到一份迎新资料包。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "aisle-seat",
+      "voice": "en",
+      "text": "aisle seat",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "aisle-seat",
+      "voice": "en",
+      "text": "A, I, S, L, E, hyphen, S, E, A, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "aisle-seat",
+      "voice": "zh",
+      "text": "名词，靠过道座位",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "aisle-seat",
+      "voice": "en",
+      "text": "Please reserve an aisle-seat so I can leave the row during the flight.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "aisle-seat",
+      "voice": "zh",
+      "text": "请帮我预订靠过道座位，以便飞行途中进出。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "window-seat",
+      "voice": "en",
+      "text": "window seat",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "window-seat",
+      "voice": "en",
+      "text": "W, I, N, D, O, W, hyphen, S, E, A, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "window-seat",
+      "voice": "zh",
+      "text": "名词，靠窗座位",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "window-seat",
+      "voice": "en",
+      "text": "The client requested a window-seat on the morning flight to Chicago.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "window-seat",
+      "voice": "zh",
+      "text": "客户要求预订早上飞往芝加哥航班的靠窗座位。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "exit-row",
+      "voice": "en",
+      "text": "exit row",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "exit-row",
+      "voice": "en",
+      "text": "E, X, I, T, hyphen, R, O, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "exit-row",
+      "voice": "zh",
+      "text": "名词，紧急出口排座位",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "exit-row",
+      "voice": "en",
+      "text": "Passengers in the exit-row must be able to assist in an evacuation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "exit-row",
+      "voice": "zh",
+      "text": "坐在紧急出口排的乘客必须能够协助疏散。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "wait-list",
+      "voice": "en",
+      "text": "wait list",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "wait-list",
+      "voice": "en",
+      "text": "W, A, I, T, hyphen, L, I, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "wait-list",
+      "voice": "zh",
+      "text": "名词或动词，候补名单，列入候补",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "wait-list",
+      "voice": "en",
+      "text": "You have been placed on the wait-list for Saturday's workshop.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "wait-list",
+      "voice": "zh",
+      "text": "你已进入周六研讨班的候补名单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "standby-ticket",
+      "voice": "en",
+      "text": "standby ticket",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "standby-ticket",
+      "voice": "en",
+      "text": "S, T, A, N, D, B, Y, hyphen, T, I, C, K, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "standby-ticket",
+      "voice": "zh",
+      "text": "名词，候补机票，待机票",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "standby-ticket",
+      "voice": "en",
+      "text": "A standby-ticket may get you on an earlier flight if seats open up.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "standby-ticket",
+      "voice": "zh",
+      "text": "如果出现空位，候补机票可能让你搭上更早的航班。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "charter-flight",
+      "voice": "en",
+      "text": "charter flight",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "charter-flight",
+      "voice": "en",
+      "text": "C, H, A, R, T, E, R, hyphen, F, L, I, G, H, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "charter-flight",
+      "voice": "zh",
+      "text": "名词，包机",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "charter-flight",
+      "voice": "en",
+      "text": "The company booked a charter-flight for the inspection team.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "charter-flight",
+      "voice": "zh",
+      "text": "公司为考察团预订了包机。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "shuttle-flight",
+      "voice": "en",
+      "text": "shuttle flight",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "shuttle-flight",
+      "voice": "en",
+      "text": "S, H, U, T, T, L, E, hyphen, F, L, I, G, H, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "shuttle-flight",
+      "voice": "zh",
+      "text": "名词，班次频繁的短途航班，摆渡航班",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "shuttle-flight",
+      "voice": "en",
+      "text": "A shuttle-flight runs hourly between the two city airports.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "shuttle-flight",
+      "voice": "zh",
+      "text": "两个市区机场之间每小时有一班摆渡航班。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第62轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

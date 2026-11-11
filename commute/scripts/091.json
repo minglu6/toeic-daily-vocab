@@ -1,0 +1,1314 @@
+{
+  "id": "091",
+  "track": 91,
+  "title": "第 91 轨",
+  "word_count": 30,
+  "headwords": [
+    "technology",
+    "telephone",
+    "tendency",
+    "term",
+    "terminal",
+    "testify",
+    "testimony",
+    "textile",
+    "thoroughly",
+    "threat",
+    "threshold",
+    "ticket",
+    "timetable",
+    "timing",
+    "tip",
+    "title",
+    "token",
+    "tough",
+    "tour",
+    "tourism",
+    "tourist",
+    "track",
+    "trade",
+    "trader",
+    "traditional",
+    "traffic",
+    "trainer",
+    "training",
+    "transformation",
+    "transition"
+  ],
+  "entries": [
+    {
+      "word": "technology",
+      "spelling": "T, E, C, H, N, O, L, O, G, Y",
+      "spoken_meaning": "名词，技术",
+      "en": "New scanning technology has shortened the checkout time.",
+      "zh": "新的扫描技术缩短了结账时间。"
+    },
+    {
+      "word": "telephone",
+      "spelling": "T, E, L, E, P, H, O, N, E",
+      "spoken_meaning": "名词或动词，电话",
+      "en": "Please telephone the help desk if the printer goes offline.",
+      "zh": "如果打印机掉线，请打电话给服务台。"
+    },
+    {
+      "word": "tendency",
+      "spelling": "T, E, N, D, E, N, C, Y",
+      "spoken_meaning": "名词，倾向",
+      "en": "There is a tendency for online orders to rise on Sunday evenings.",
+      "zh": "周日晚上在线订单往往增加。"
+    },
+    {
+      "word": "term",
+      "spelling": "T, E, R, M",
+      "spoken_meaning": "名词，条款，学期，术语",
+      "en": "The payment term is 30 days from the invoice date.",
+      "zh": "付款条款是发票日期起30天。"
+    },
+    {
+      "word": "terminal",
+      "spelling": "T, E, R, M, I, N, A, L",
+      "spoken_meaning": "名词或形容词，航站楼，终端，终点的",
+      "en": "Please meet the driver in the arrivals hall of terminal 2.",
+      "zh": "请在2号航站楼到达大厅与司机会合。"
+    },
+    {
+      "word": "testify",
+      "spelling": "T, E, S, T, I, F, Y",
+      "spoken_meaning": "动词，作证",
+      "en": "A warehouse supervisor will testify at the insurance hearing.",
+      "zh": "仓库主管将在保险听证会上作证。"
+    },
+    {
+      "word": "testimony",
+      "spelling": "T, E, S, T, I, M, O, N, Y",
+      "spoken_meaning": "名词，证词",
+      "en": "Her testimony confirmed that the goods arrived damaged.",
+      "zh": "她的证词确认货物到达时已损坏。"
+    },
+    {
+      "word": "textile",
+      "spelling": "T, E, X, T, I, L, E",
+      "spoken_meaning": "名词，纺织品",
+      "en": "The textile shipment must be kept dry during transport.",
+      "zh": "这批纺织品在运输途中必须保持干燥。"
+    },
+    {
+      "word": "thoroughly",
+      "spelling": "T, H, O, R, O, U, G, H, L, Y",
+      "spoken_meaning": "副词，彻底地",
+      "en": "Please check the figures thoroughly before we send the report.",
+      "zh": "在发送报告前请彻底核对数字。"
+    },
+    {
+      "word": "threat",
+      "spelling": "T, H, R, E, A, T",
+      "spoken_meaning": "名词，威胁",
+      "en": "Flooding is a threat to the ground-floor storeroom.",
+      "zh": "洪水对一楼储藏室构成威胁。"
+    },
+    {
+      "word": "threshold",
+      "spelling": "T, H, R, E, S, H, O, L, D",
+      "spoken_meaning": "名词，门槛，临界值",
+      "en": "Invoices above the approval threshold must be signed by a director.",
+      "zh": "超过审批门槛的发票必须由总监签字。"
+    },
+    {
+      "word": "ticket",
+      "spelling": "T, I, C, K, E, T",
+      "spoken_meaning": "名词，票，罚单",
+      "en": "Please collect your tickets from the travel desk by Thursday.",
+      "zh": "请在周四前到差旅台领取票。"
+    },
+    {
+      "word": "timetable",
+      "spelling": "T, I, M, E, T, A, B, L, E",
+      "spoken_meaning": "名词，时刻表，时间表",
+      "en": "An updated shuttle timetable is posted in the lobby.",
+      "zh": "更新后的班车时刻表已张贴在大厅。"
+    },
+    {
+      "word": "timing",
+      "spelling": "T, I, M, I, N, G",
+      "spoken_meaning": "名词，时机，时间安排",
+      "en": "The timing of the announcement should be after the market closes.",
+      "zh": "公告的时间应安排在市场收盘之后。"
+    },
+    {
+      "word": "tip",
+      "spelling": "T, I, P",
+      "spoken_meaning": "名词或动词，小费，提示",
+      "en": "A service tip is already included on banquet invoices.",
+      "zh": "宴会发票已包含服务小费。"
+    },
+    {
+      "word": "title",
+      "spelling": "T, I, T, L, E",
+      "spoken_meaning": "名词，职位名称，标题，所有权",
+      "en": "Please use your official job title on the business card.",
+      "zh": "名片上请使用正式职位名称。"
+    },
+    {
+      "word": "token",
+      "spelling": "T, O, K, E, N",
+      "spoken_meaning": "名词，代币，象征",
+      "en": "A small gift will be given as a token of thanks to the volunteers.",
+      "zh": "将向志愿者赠送一份小礼物以表谢意。"
+    },
+    {
+      "word": "tough",
+      "spelling": "T, O, U, G, H",
+      "spoken_meaning": "形容词，艰难的，严格的",
+      "en": "It has been a tough quarter for hotels in the city center.",
+      "zh": "对市中心的酒店来说，这是艰难的一个季度。"
+    },
+    {
+      "word": "tour",
+      "spelling": "T, O, U, R",
+      "spoken_meaning": "名词或动词，参观，旅游",
+      "en": "A factory tour is included in the customer visit.",
+      "zh": "客户来访行程包含参观工厂。"
+    },
+    {
+      "word": "tourism",
+      "spelling": "T, O, U, R, I, S, M",
+      "spoken_meaning": "名词，旅游业",
+      "en": "A recovery in tourism has increased bookings at the airport hotel.",
+      "zh": "旅游业的恢复增加了机场酒店的预订。"
+    },
+    {
+      "word": "tourist",
+      "spelling": "T, O, U, R, I, S, T",
+      "spoken_meaning": "名词，游客",
+      "en": "Tourists may change money at the desk in the lobby.",
+      "zh": "游客可在大厅柜台兑换货币。"
+    },
+    {
+      "word": "track",
+      "spelling": "T, R, A, C, K",
+      "spoken_meaning": "名词或动词，轨道，跟踪",
+      "en": "You can track the shipment with the number on the receipt.",
+      "zh": "你可以用收据上的单号跟踪货物。"
+    },
+    {
+      "word": "trade",
+      "spelling": "T, R, A, D, E",
+      "spoken_meaning": "名词或动词，贸易，行业，交易",
+      "en": "The trade fair opens to the public on Saturday.",
+      "zh": "该交易会周六对公众开放。"
+    },
+    {
+      "word": "trader",
+      "spelling": "T, R, A, D, E, R",
+      "spoken_meaning": "名词，商人，交易员",
+      "en": "A commodities trader will speak at the breakfast briefing.",
+      "zh": "一名大宗商品交易员将在早餐说明会上发言。"
+    },
+    {
+      "word": "traditional",
+      "spelling": "T, R, A, D, I, T, I, O, N, A, L",
+      "spoken_meaning": "形容词，传统的",
+      "en": "Traditional mail is still used for documents that need original signatures.",
+      "zh": "仍需原件签字的文件还会使用传统邮寄。"
+    },
+    {
+      "word": "traffic",
+      "spelling": "T, R, A, F, F, I, C",
+      "spoken_meaning": "名词，交通，客流",
+      "en": "Heavy traffic may delay the airport shuttle this evening.",
+      "zh": "今晚交通拥堵可能会延误机场班车。"
+    },
+    {
+      "word": "trainer",
+      "spelling": "T, R, A, I, N, E, R",
+      "spoken_meaning": "名词，培训师，训练员",
+      "en": "An external trainer will lead the first-aid course.",
+      "zh": "外部培训师将主持急救课程。"
+    },
+    {
+      "word": "training",
+      "spelling": "T, R, A, I, N, I, N, G",
+      "spoken_meaning": "名词，培训",
+      "en": "Safety training is required before you may enter the plant.",
+      "zh": "进入工厂前必须接受安全培训。"
+    },
+    {
+      "word": "transformation",
+      "spelling": "T, R, A, N, S, F, O, R, M, A, T, I, O, N",
+      "spoken_meaning": "名词，转变，改造",
+      "en": "The digital transformation of the booking process is nearly complete.",
+      "zh": "预订流程的数字化改造已接近完成。"
+    },
+    {
+      "word": "transition",
+      "spelling": "T, R, A, N, S, I, T, I, O, N",
+      "spoken_meaning": "名词，过渡，转变",
+      "en": "A transition period of two weeks is planned after the move.",
+      "zh": "搬迁后计划有两周过渡期。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第91轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "technology",
+      "voice": "en",
+      "text": "technology",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "technology",
+      "voice": "en",
+      "text": "T, E, C, H, N, O, L, O, G, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "technology",
+      "voice": "zh",
+      "text": "名词，技术",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "technology",
+      "voice": "en",
+      "text": "New scanning technology has shortened the checkout time.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "technology",
+      "voice": "zh",
+      "text": "新的扫描技术缩短了结账时间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "telephone",
+      "voice": "en",
+      "text": "telephone",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "telephone",
+      "voice": "en",
+      "text": "T, E, L, E, P, H, O, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "telephone",
+      "voice": "zh",
+      "text": "名词或动词，电话",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "telephone",
+      "voice": "en",
+      "text": "Please telephone the help desk if the printer goes offline.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "telephone",
+      "voice": "zh",
+      "text": "如果打印机掉线，请打电话给服务台。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tendency",
+      "voice": "en",
+      "text": "tendency",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tendency",
+      "voice": "en",
+      "text": "T, E, N, D, E, N, C, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tendency",
+      "voice": "zh",
+      "text": "名词，倾向",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tendency",
+      "voice": "en",
+      "text": "There is a tendency for online orders to rise on Sunday evenings.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tendency",
+      "voice": "zh",
+      "text": "周日晚上在线订单往往增加。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "term",
+      "voice": "en",
+      "text": "term",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "term",
+      "voice": "en",
+      "text": "T, E, R, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "term",
+      "voice": "zh",
+      "text": "名词，条款，学期，术语",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "term",
+      "voice": "en",
+      "text": "The payment term is 30 days from the invoice date.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "term",
+      "voice": "zh",
+      "text": "付款条款是发票日期起30天。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "terminal",
+      "voice": "en",
+      "text": "terminal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "terminal",
+      "voice": "en",
+      "text": "T, E, R, M, I, N, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "terminal",
+      "voice": "zh",
+      "text": "名词或形容词，航站楼，终端，终点的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "terminal",
+      "voice": "en",
+      "text": "Please meet the driver in the arrivals hall of terminal 2.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "terminal",
+      "voice": "zh",
+      "text": "请在2号航站楼到达大厅与司机会合。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "testify",
+      "voice": "en",
+      "text": "testify",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "testify",
+      "voice": "en",
+      "text": "T, E, S, T, I, F, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "testify",
+      "voice": "zh",
+      "text": "动词，作证",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "testify",
+      "voice": "en",
+      "text": "A warehouse supervisor will testify at the insurance hearing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "testify",
+      "voice": "zh",
+      "text": "仓库主管将在保险听证会上作证。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "testimony",
+      "voice": "en",
+      "text": "testimony",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "testimony",
+      "voice": "en",
+      "text": "T, E, S, T, I, M, O, N, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "testimony",
+      "voice": "zh",
+      "text": "名词，证词",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "testimony",
+      "voice": "en",
+      "text": "Her testimony confirmed that the goods arrived damaged.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "testimony",
+      "voice": "zh",
+      "text": "她的证词确认货物到达时已损坏。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "textile",
+      "voice": "en",
+      "text": "textile",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "textile",
+      "voice": "en",
+      "text": "T, E, X, T, I, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "textile",
+      "voice": "zh",
+      "text": "名词，纺织品",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "textile",
+      "voice": "en",
+      "text": "The textile shipment must be kept dry during transport.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "textile",
+      "voice": "zh",
+      "text": "这批纺织品在运输途中必须保持干燥。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "thoroughly",
+      "voice": "en",
+      "text": "thoroughly",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "thoroughly",
+      "voice": "en",
+      "text": "T, H, O, R, O, U, G, H, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "thoroughly",
+      "voice": "zh",
+      "text": "副词，彻底地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "thoroughly",
+      "voice": "en",
+      "text": "Please check the figures thoroughly before we send the report.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "thoroughly",
+      "voice": "zh",
+      "text": "在发送报告前请彻底核对数字。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "threat",
+      "voice": "en",
+      "text": "threat",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "threat",
+      "voice": "en",
+      "text": "T, H, R, E, A, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "threat",
+      "voice": "zh",
+      "text": "名词，威胁",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "threat",
+      "voice": "en",
+      "text": "Flooding is a threat to the ground-floor storeroom.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "threat",
+      "voice": "zh",
+      "text": "洪水对一楼储藏室构成威胁。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "threshold",
+      "voice": "en",
+      "text": "threshold",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "threshold",
+      "voice": "en",
+      "text": "T, H, R, E, S, H, O, L, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "threshold",
+      "voice": "zh",
+      "text": "名词，门槛，临界值",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "threshold",
+      "voice": "en",
+      "text": "Invoices above the approval threshold must be signed by a director.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "threshold",
+      "voice": "zh",
+      "text": "超过审批门槛的发票必须由总监签字。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ticket",
+      "voice": "en",
+      "text": "ticket",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ticket",
+      "voice": "en",
+      "text": "T, I, C, K, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ticket",
+      "voice": "zh",
+      "text": "名词，票，罚单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ticket",
+      "voice": "en",
+      "text": "Please collect your tickets from the travel desk by Thursday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ticket",
+      "voice": "zh",
+      "text": "请在周四前到差旅台领取票。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "timetable",
+      "voice": "en",
+      "text": "timetable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "timetable",
+      "voice": "en",
+      "text": "T, I, M, E, T, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "timetable",
+      "voice": "zh",
+      "text": "名词，时刻表，时间表",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "timetable",
+      "voice": "en",
+      "text": "An updated shuttle timetable is posted in the lobby.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "timetable",
+      "voice": "zh",
+      "text": "更新后的班车时刻表已张贴在大厅。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "timing",
+      "voice": "en",
+      "text": "timing",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "timing",
+      "voice": "en",
+      "text": "T, I, M, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "timing",
+      "voice": "zh",
+      "text": "名词，时机，时间安排",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "timing",
+      "voice": "en",
+      "text": "The timing of the announcement should be after the market closes.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "timing",
+      "voice": "zh",
+      "text": "公告的时间应安排在市场收盘之后。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tip",
+      "voice": "en",
+      "text": "tip",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tip",
+      "voice": "en",
+      "text": "T, I, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tip",
+      "voice": "zh",
+      "text": "名词或动词，小费，提示",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tip",
+      "voice": "en",
+      "text": "A service tip is already included on banquet invoices.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tip",
+      "voice": "zh",
+      "text": "宴会发票已包含服务小费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "title",
+      "voice": "en",
+      "text": "title",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "title",
+      "voice": "en",
+      "text": "T, I, T, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "title",
+      "voice": "zh",
+      "text": "名词，职位名称，标题，所有权",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "title",
+      "voice": "en",
+      "text": "Please use your official job title on the business card.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "title",
+      "voice": "zh",
+      "text": "名片上请使用正式职位名称。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "token",
+      "voice": "en",
+      "text": "token",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "token",
+      "voice": "en",
+      "text": "T, O, K, E, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "token",
+      "voice": "zh",
+      "text": "名词，代币，象征",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "token",
+      "voice": "en",
+      "text": "A small gift will be given as a token of thanks to the volunteers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "token",
+      "voice": "zh",
+      "text": "将向志愿者赠送一份小礼物以表谢意。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tough",
+      "voice": "en",
+      "text": "tough",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tough",
+      "voice": "en",
+      "text": "T, O, U, G, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tough",
+      "voice": "zh",
+      "text": "形容词，艰难的，严格的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tough",
+      "voice": "en",
+      "text": "It has been a tough quarter for hotels in the city center.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tough",
+      "voice": "zh",
+      "text": "对市中心的酒店来说，这是艰难的一个季度。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tour",
+      "voice": "en",
+      "text": "tour",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tour",
+      "voice": "en",
+      "text": "T, O, U, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tour",
+      "voice": "zh",
+      "text": "名词或动词，参观，旅游",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tour",
+      "voice": "en",
+      "text": "A factory tour is included in the customer visit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tour",
+      "voice": "zh",
+      "text": "客户来访行程包含参观工厂。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tourism",
+      "voice": "en",
+      "text": "tourism",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tourism",
+      "voice": "en",
+      "text": "T, O, U, R, I, S, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tourism",
+      "voice": "zh",
+      "text": "名词，旅游业",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tourism",
+      "voice": "en",
+      "text": "A recovery in tourism has increased bookings at the airport hotel.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tourism",
+      "voice": "zh",
+      "text": "旅游业的恢复增加了机场酒店的预订。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tourist",
+      "voice": "en",
+      "text": "tourist",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tourist",
+      "voice": "en",
+      "text": "T, O, U, R, I, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tourist",
+      "voice": "zh",
+      "text": "名词，游客",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tourist",
+      "voice": "en",
+      "text": "Tourists may change money at the desk in the lobby.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tourist",
+      "voice": "zh",
+      "text": "游客可在大厅柜台兑换货币。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "track",
+      "voice": "en",
+      "text": "track",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "track",
+      "voice": "en",
+      "text": "T, R, A, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "track",
+      "voice": "zh",
+      "text": "名词或动词，轨道，跟踪",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "track",
+      "voice": "en",
+      "text": "You can track the shipment with the number on the receipt.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "track",
+      "voice": "zh",
+      "text": "你可以用收据上的单号跟踪货物。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "trade",
+      "voice": "en",
+      "text": "trade",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "trade",
+      "voice": "en",
+      "text": "T, R, A, D, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "trade",
+      "voice": "zh",
+      "text": "名词或动词，贸易，行业，交易",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "trade",
+      "voice": "en",
+      "text": "The trade fair opens to the public on Saturday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "trade",
+      "voice": "zh",
+      "text": "该交易会周六对公众开放。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "trader",
+      "voice": "en",
+      "text": "trader",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "trader",
+      "voice": "en",
+      "text": "T, R, A, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "trader",
+      "voice": "zh",
+      "text": "名词，商人，交易员",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "trader",
+      "voice": "en",
+      "text": "A commodities trader will speak at the breakfast briefing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "trader",
+      "voice": "zh",
+      "text": "一名大宗商品交易员将在早餐说明会上发言。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "traditional",
+      "voice": "en",
+      "text": "traditional",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "traditional",
+      "voice": "en",
+      "text": "T, R, A, D, I, T, I, O, N, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "traditional",
+      "voice": "zh",
+      "text": "形容词，传统的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "traditional",
+      "voice": "en",
+      "text": "Traditional mail is still used for documents that need original signatures.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "traditional",
+      "voice": "zh",
+      "text": "仍需原件签字的文件还会使用传统邮寄。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "traffic",
+      "voice": "en",
+      "text": "traffic",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "traffic",
+      "voice": "en",
+      "text": "T, R, A, F, F, I, C",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "traffic",
+      "voice": "zh",
+      "text": "名词，交通，客流",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "traffic",
+      "voice": "en",
+      "text": "Heavy traffic may delay the airport shuttle this evening.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "traffic",
+      "voice": "zh",
+      "text": "今晚交通拥堵可能会延误机场班车。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "trainer",
+      "voice": "en",
+      "text": "trainer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "trainer",
+      "voice": "en",
+      "text": "T, R, A, I, N, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "trainer",
+      "voice": "zh",
+      "text": "名词，培训师，训练员",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "trainer",
+      "voice": "en",
+      "text": "An external trainer will lead the first-aid course.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "trainer",
+      "voice": "zh",
+      "text": "外部培训师将主持急救课程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "training",
+      "voice": "en",
+      "text": "training",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "training",
+      "voice": "en",
+      "text": "T, R, A, I, N, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "training",
+      "voice": "zh",
+      "text": "名词，培训",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "training",
+      "voice": "en",
+      "text": "Safety training is required before you may enter the plant.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "training",
+      "voice": "zh",
+      "text": "进入工厂前必须接受安全培训。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "transformation",
+      "voice": "en",
+      "text": "transformation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "transformation",
+      "voice": "en",
+      "text": "T, R, A, N, S, F, O, R, M, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "transformation",
+      "voice": "zh",
+      "text": "名词，转变，改造",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "transformation",
+      "voice": "en",
+      "text": "The digital transformation of the booking process is nearly complete.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "transformation",
+      "voice": "zh",
+      "text": "预订流程的数字化改造已接近完成。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "transition",
+      "voice": "en",
+      "text": "transition",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "transition",
+      "voice": "en",
+      "text": "T, R, A, N, S, I, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "transition",
+      "voice": "zh",
+      "text": "名词，过渡，转变",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "transition",
+      "voice": "en",
+      "text": "A transition period of two weeks is planned after the move.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "transition",
+      "voice": "zh",
+      "text": "搬迁后计划有两周过渡期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第91轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

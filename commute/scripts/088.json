@@ -1,0 +1,1314 @@
+{
+  "id": "088",
+  "track": 88,
+  "title": "第 88 轨",
+  "word_count": 30,
+  "headwords": [
+    "serial",
+    "series",
+    "serious",
+    "serve",
+    "service",
+    "setting",
+    "share",
+    "sheet",
+    "shelf",
+    "shelter",
+    "ship",
+    "shop",
+    "shopper",
+    "shopping",
+    "shrink",
+    "sign",
+    "signal",
+    "simultaneous",
+    "simultaneously",
+    "site",
+    "situation",
+    "skill",
+    "slogan",
+    "slot",
+    "software",
+    "sole",
+    "solely",
+    "solution",
+    "solve",
+    "sophisticated"
+  ],
+  "entries": [
+    {
+      "word": "serial",
+      "spelling": "S, E, R, I, A, L",
+      "spoken_meaning": "形容词，序列的，连续的",
+      "en": "Please record the serial codes of all returned devices.",
+      "zh": "请记录所有退回设备的序列号。"
+    },
+    {
+      "word": "series",
+      "spelling": "S, E, R, I, E, S",
+      "spoken_meaning": "名词，系列",
+      "en": "A series of lunchtime talks will begin in March.",
+      "zh": "一系列午餐讲座将于三月开始。"
+    },
+    {
+      "word": "serious",
+      "spelling": "S, E, R, I, O, U, S",
+      "spoken_meaning": "形容词，严重的，认真的",
+      "en": "A serious delay in parts could affect the launch date.",
+      "zh": "零件的严重延误可能影响发布日期。"
+    },
+    {
+      "word": "serve",
+      "spelling": "S, E, R, V, E",
+      "spoken_meaning": "动词，服务，供应",
+      "en": "Lunch will be served in the staff cafeteria at noon.",
+      "zh": "午餐将于中午在员工食堂供应。"
+    },
+    {
+      "word": "service",
+      "spelling": "S, E, R, V, I, C, E",
+      "spoken_meaning": "名词或动词，服务，维修",
+      "en": "The copier is due for a service next week.",
+      "zh": "复印机下周应进行维修保养。"
+    },
+    {
+      "word": "setting",
+      "spelling": "S, E, T, T, I, N, G",
+      "spoken_meaning": "名词，环境，设置",
+      "en": "The lakeside setting is suitable for the two-day retreat.",
+      "zh": "湖边的环境适合这次两日静修会。"
+    },
+    {
+      "word": "share",
+      "spelling": "S, H, A, R, E",
+      "spoken_meaning": "名词或动词，股份，分享",
+      "en": "Please share the revised timetable with the whole team.",
+      "zh": "请把修订后的时间表分享给整个团队。"
+    },
+    {
+      "word": "sheet",
+      "spelling": "S, H, E, E, T",
+      "spoken_meaning": "名词，纸张，床单，表格",
+      "en": "A sign-in sheet will be placed at the door.",
+      "zh": "门口将放置一张签到表。"
+    },
+    {
+      "word": "shelf",
+      "spelling": "S, H, E, L, F",
+      "spoken_meaning": "名词，架子，货架",
+      "en": "Please move the older stock to the front of the shelf.",
+      "zh": "请把较旧的库存移到货架前部。"
+    },
+    {
+      "word": "shelter",
+      "spelling": "S, H, E, L, T, E, R",
+      "spoken_meaning": "名词或动词，遮蔽处，庇护",
+      "en": "In a storm warning, staff should stay in the designated shelter.",
+      "zh": "遇暴风预警时，员工应留在指定躲避处。"
+    },
+    {
+      "word": "ship",
+      "spelling": "S, H, I, P",
+      "spoken_meaning": "动词或名词，运送，船",
+      "en": "We will ship the replacement parts this afternoon.",
+      "zh": "我们今天下午将寄出替换零件。"
+    },
+    {
+      "word": "shop",
+      "spelling": "S, H, O, P",
+      "spoken_meaning": "名词或动词，商店，购物",
+      "en": "The gift shop in the lobby is open until 8 p.m.",
+      "zh": "大厅的礼品店营业至晚上8点。"
+    },
+    {
+      "word": "shopper",
+      "spelling": "S, H, O, P, P, E, R",
+      "spoken_meaning": "名词，购物者",
+      "en": "Shoppers may leave large bags in the lockers near the entrance.",
+      "zh": "购物者可以把大包存放在入口附近的储物柜。"
+    },
+    {
+      "word": "shopping",
+      "spelling": "S, H, O, P, P, I, N, G",
+      "spoken_meaning": "名词，购物",
+      "en": "A shopping shuttle runs from the hotel to the mall every hour.",
+      "zh": "酒店到商场的购物班车每小时一班。"
+    },
+    {
+      "word": "shrink",
+      "spelling": "S, H, R, I, N, K",
+      "spoken_meaning": "动词，缩小，收缩",
+      "en": "Demand may shrink if the price rises again.",
+      "zh": "如果价格再次上涨，需求可能会缩小。"
+    },
+    {
+      "word": "sign",
+      "spelling": "S, I, G, N",
+      "spoken_meaning": "名词或动词，标志，签署",
+      "en": "Please sign the delivery note only after counting the boxes.",
+      "zh": "请在清点箱子后再在送货单上签字。"
+    },
+    {
+      "word": "signal",
+      "spelling": "S, I, G, N, A, L",
+      "spoken_meaning": "名词或动词，信号，示意",
+      "en": "A flashing signal means the forklift is reversing.",
+      "zh": "闪烁信号表示叉车正在倒车。"
+    },
+    {
+      "word": "simultaneous",
+      "spelling": "S, I, M, U, L, T, A, N, E, O, U, S",
+      "spoken_meaning": "形容词，同时的",
+      "en": "Simultaneous interpretation will be provided in the main hall.",
+      "zh": "主会场将提供同声传译。"
+    },
+    {
+      "word": "simultaneously",
+      "spelling": "S, I, M, U, L, T, A, N, E, O, U, S, L, Y",
+      "spoken_meaning": "副词，同时地",
+      "en": "The announcement will be posted simultaneously on the website and the intranet.",
+      "zh": "该公告将同时发布在网站和内网上。"
+    },
+    {
+      "word": "site",
+      "spelling": "S, I, T, E",
+      "spoken_meaning": "名词，地点，现场，网站",
+      "en": "A site inspection is scheduled for Thursday morning.",
+      "zh": "现场检查定于周四上午。"
+    },
+    {
+      "word": "situation",
+      "spelling": "S, I, T, U, A, T, I, O, N",
+      "spoken_meaning": "名词，情况",
+      "en": "We will review the situation if the parts have not arrived by Friday.",
+      "zh": "如果零件周五前还没到，我们将重新评估情况。"
+    },
+    {
+      "word": "skill",
+      "spelling": "S, K, I, L, L",
+      "spoken_meaning": "名词，技能",
+      "en": "Language skill is an advantage for this customer-service role.",
+      "zh": "语言技能对这个客服岗位是一项优势。"
+    },
+    {
+      "word": "slogan",
+      "spelling": "S, L, O, G, A, N",
+      "spoken_meaning": "名词，口号，标语",
+      "en": "The new slogan will appear on all store windows.",
+      "zh": "新标语将出现在所有店铺橱窗上。"
+    },
+    {
+      "word": "slot",
+      "spelling": "S, L, O, T",
+      "spoken_meaning": "名词，时段，槽",
+      "en": "Please book a loading slot before the truck arrives.",
+      "zh": "卡车到达前请预订一个装卸时段。"
+    },
+    {
+      "word": "software",
+      "spelling": "S, O, F, T, W, A, R, E",
+      "spoken_meaning": "名词，软件",
+      "en": "The new software will be installed after closing time.",
+      "zh": "新软件将在打烊后安装。"
+    },
+    {
+      "word": "sole",
+      "spelling": "S, O, L, E",
+      "spoken_meaning": "形容词，唯一的",
+      "en": "She is the sole contact for all warranty questions.",
+      "zh": "她是所有保修问题的唯一联系人。"
+    },
+    {
+      "word": "solely",
+      "spelling": "S, O, L, E, L, Y",
+      "spoken_meaning": "副词，仅仅，单独地",
+      "en": "Access is granted solely to staff with safety training.",
+      "zh": "只有受过安全培训的员工才能进入。"
+    },
+    {
+      "word": "solution",
+      "spelling": "S, O, L, U, T, I, O, N",
+      "spoken_meaning": "名词，解决方案，溶液",
+      "en": "A short-term solution is to rent extra warehouse space.",
+      "zh": "短期解决方案是租用额外的仓库空间。"
+    },
+    {
+      "word": "solve",
+      "spelling": "S, O, L, V, E",
+      "spoken_meaning": "动词，解决",
+      "en": "A second cashier should solve the long lunchtime queues.",
+      "zh": "增加一名收银员应能解决午餐时排长队的问题。"
+    },
+    {
+      "word": "sophisticated",
+      "spelling": "S, O, P, H, I, S, T, I, C, A, T, E, D",
+      "spoken_meaning": "形容词，精密的，老练的",
+      "en": "A more sophisticated scanner is needed for the new barcodes.",
+      "zh": "新条码需要更精密的扫描器。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第88轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "serial",
+      "voice": "en",
+      "text": "serial",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "serial",
+      "voice": "en",
+      "text": "S, E, R, I, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "serial",
+      "voice": "zh",
+      "text": "形容词，序列的，连续的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "serial",
+      "voice": "en",
+      "text": "Please record the serial codes of all returned devices.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "serial",
+      "voice": "zh",
+      "text": "请记录所有退回设备的序列号。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "series",
+      "voice": "en",
+      "text": "series",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "series",
+      "voice": "en",
+      "text": "S, E, R, I, E, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "series",
+      "voice": "zh",
+      "text": "名词，系列",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "series",
+      "voice": "en",
+      "text": "A series of lunchtime talks will begin in March.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "series",
+      "voice": "zh",
+      "text": "一系列午餐讲座将于三月开始。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "serious",
+      "voice": "en",
+      "text": "serious",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "serious",
+      "voice": "en",
+      "text": "S, E, R, I, O, U, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "serious",
+      "voice": "zh",
+      "text": "形容词，严重的，认真的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "serious",
+      "voice": "en",
+      "text": "A serious delay in parts could affect the launch date.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "serious",
+      "voice": "zh",
+      "text": "零件的严重延误可能影响发布日期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "serve",
+      "voice": "en",
+      "text": "serve",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "serve",
+      "voice": "en",
+      "text": "S, E, R, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "serve",
+      "voice": "zh",
+      "text": "动词，服务，供应",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "serve",
+      "voice": "en",
+      "text": "Lunch will be served in the staff cafeteria at noon.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "serve",
+      "voice": "zh",
+      "text": "午餐将于中午在员工食堂供应。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "service",
+      "voice": "en",
+      "text": "service",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "service",
+      "voice": "en",
+      "text": "S, E, R, V, I, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "service",
+      "voice": "zh",
+      "text": "名词或动词，服务，维修",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "service",
+      "voice": "en",
+      "text": "The copier is due for a service next week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "service",
+      "voice": "zh",
+      "text": "复印机下周应进行维修保养。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "setting",
+      "voice": "en",
+      "text": "setting",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "setting",
+      "voice": "en",
+      "text": "S, E, T, T, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "setting",
+      "voice": "zh",
+      "text": "名词，环境，设置",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "setting",
+      "voice": "en",
+      "text": "The lakeside setting is suitable for the two-day retreat.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "setting",
+      "voice": "zh",
+      "text": "湖边的环境适合这次两日静修会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "share",
+      "voice": "en",
+      "text": "share",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "share",
+      "voice": "en",
+      "text": "S, H, A, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "share",
+      "voice": "zh",
+      "text": "名词或动词，股份，分享",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "share",
+      "voice": "en",
+      "text": "Please share the revised timetable with the whole team.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "share",
+      "voice": "zh",
+      "text": "请把修订后的时间表分享给整个团队。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sheet",
+      "voice": "en",
+      "text": "sheet",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sheet",
+      "voice": "en",
+      "text": "S, H, E, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sheet",
+      "voice": "zh",
+      "text": "名词，纸张，床单，表格",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sheet",
+      "voice": "en",
+      "text": "A sign-in sheet will be placed at the door.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sheet",
+      "voice": "zh",
+      "text": "门口将放置一张签到表。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "shelf",
+      "voice": "en",
+      "text": "shelf",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "shelf",
+      "voice": "en",
+      "text": "S, H, E, L, F",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "shelf",
+      "voice": "zh",
+      "text": "名词，架子，货架",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "shelf",
+      "voice": "en",
+      "text": "Please move the older stock to the front of the shelf.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "shelf",
+      "voice": "zh",
+      "text": "请把较旧的库存移到货架前部。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "shelter",
+      "voice": "en",
+      "text": "shelter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "shelter",
+      "voice": "en",
+      "text": "S, H, E, L, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "shelter",
+      "voice": "zh",
+      "text": "名词或动词，遮蔽处，庇护",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "shelter",
+      "voice": "en",
+      "text": "In a storm warning, staff should stay in the designated shelter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "shelter",
+      "voice": "zh",
+      "text": "遇暴风预警时，员工应留在指定躲避处。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ship",
+      "voice": "en",
+      "text": "ship",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ship",
+      "voice": "en",
+      "text": "S, H, I, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ship",
+      "voice": "zh",
+      "text": "动词或名词，运送，船",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ship",
+      "voice": "en",
+      "text": "We will ship the replacement parts this afternoon.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ship",
+      "voice": "zh",
+      "text": "我们今天下午将寄出替换零件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "shop",
+      "voice": "en",
+      "text": "shop",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "shop",
+      "voice": "en",
+      "text": "S, H, O, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "shop",
+      "voice": "zh",
+      "text": "名词或动词，商店，购物",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "shop",
+      "voice": "en",
+      "text": "The gift shop in the lobby is open until 8 p.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "shop",
+      "voice": "zh",
+      "text": "大厅的礼品店营业至晚上8点。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "shopper",
+      "voice": "en",
+      "text": "shopper",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "shopper",
+      "voice": "en",
+      "text": "S, H, O, P, P, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "shopper",
+      "voice": "zh",
+      "text": "名词，购物者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "shopper",
+      "voice": "en",
+      "text": "Shoppers may leave large bags in the lockers near the entrance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "shopper",
+      "voice": "zh",
+      "text": "购物者可以把大包存放在入口附近的储物柜。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "shopping",
+      "voice": "en",
+      "text": "shopping",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "shopping",
+      "voice": "en",
+      "text": "S, H, O, P, P, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "shopping",
+      "voice": "zh",
+      "text": "名词，购物",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "shopping",
+      "voice": "en",
+      "text": "A shopping shuttle runs from the hotel to the mall every hour.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "shopping",
+      "voice": "zh",
+      "text": "酒店到商场的购物班车每小时一班。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "shrink",
+      "voice": "en",
+      "text": "shrink",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "shrink",
+      "voice": "en",
+      "text": "S, H, R, I, N, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "shrink",
+      "voice": "zh",
+      "text": "动词，缩小，收缩",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "shrink",
+      "voice": "en",
+      "text": "Demand may shrink if the price rises again.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "shrink",
+      "voice": "zh",
+      "text": "如果价格再次上涨，需求可能会缩小。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sign",
+      "voice": "en",
+      "text": "sign",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sign",
+      "voice": "en",
+      "text": "S, I, G, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sign",
+      "voice": "zh",
+      "text": "名词或动词，标志，签署",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sign",
+      "voice": "en",
+      "text": "Please sign the delivery note only after counting the boxes.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sign",
+      "voice": "zh",
+      "text": "请在清点箱子后再在送货单上签字。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "signal",
+      "voice": "en",
+      "text": "signal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "signal",
+      "voice": "en",
+      "text": "S, I, G, N, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "signal",
+      "voice": "zh",
+      "text": "名词或动词，信号，示意",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "signal",
+      "voice": "en",
+      "text": "A flashing signal means the forklift is reversing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "signal",
+      "voice": "zh",
+      "text": "闪烁信号表示叉车正在倒车。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "simultaneous",
+      "voice": "en",
+      "text": "simultaneous",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "simultaneous",
+      "voice": "en",
+      "text": "S, I, M, U, L, T, A, N, E, O, U, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "simultaneous",
+      "voice": "zh",
+      "text": "形容词，同时的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "simultaneous",
+      "voice": "en",
+      "text": "Simultaneous interpretation will be provided in the main hall.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "simultaneous",
+      "voice": "zh",
+      "text": "主会场将提供同声传译。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "simultaneously",
+      "voice": "en",
+      "text": "simultaneously",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "simultaneously",
+      "voice": "en",
+      "text": "S, I, M, U, L, T, A, N, E, O, U, S, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "simultaneously",
+      "voice": "zh",
+      "text": "副词，同时地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "simultaneously",
+      "voice": "en",
+      "text": "The announcement will be posted simultaneously on the website and the intranet.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "simultaneously",
+      "voice": "zh",
+      "text": "该公告将同时发布在网站和内网上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "site",
+      "voice": "en",
+      "text": "site",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "site",
+      "voice": "en",
+      "text": "S, I, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "site",
+      "voice": "zh",
+      "text": "名词，地点，现场，网站",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "site",
+      "voice": "en",
+      "text": "A site inspection is scheduled for Thursday morning.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "site",
+      "voice": "zh",
+      "text": "现场检查定于周四上午。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "situation",
+      "voice": "en",
+      "text": "situation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "situation",
+      "voice": "en",
+      "text": "S, I, T, U, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "situation",
+      "voice": "zh",
+      "text": "名词，情况",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "situation",
+      "voice": "en",
+      "text": "We will review the situation if the parts have not arrived by Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "situation",
+      "voice": "zh",
+      "text": "如果零件周五前还没到，我们将重新评估情况。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "skill",
+      "voice": "en",
+      "text": "skill",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "skill",
+      "voice": "en",
+      "text": "S, K, I, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "skill",
+      "voice": "zh",
+      "text": "名词，技能",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "skill",
+      "voice": "en",
+      "text": "Language skill is an advantage for this customer-service role.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "skill",
+      "voice": "zh",
+      "text": "语言技能对这个客服岗位是一项优势。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "slogan",
+      "voice": "en",
+      "text": "slogan",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "slogan",
+      "voice": "en",
+      "text": "S, L, O, G, A, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "slogan",
+      "voice": "zh",
+      "text": "名词，口号，标语",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "slogan",
+      "voice": "en",
+      "text": "The new slogan will appear on all store windows.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "slogan",
+      "voice": "zh",
+      "text": "新标语将出现在所有店铺橱窗上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "slot",
+      "voice": "en",
+      "text": "slot",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "slot",
+      "voice": "en",
+      "text": "S, L, O, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "slot",
+      "voice": "zh",
+      "text": "名词，时段，槽",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "slot",
+      "voice": "en",
+      "text": "Please book a loading slot before the truck arrives.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "slot",
+      "voice": "zh",
+      "text": "卡车到达前请预订一个装卸时段。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "software",
+      "voice": "en",
+      "text": "software",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "software",
+      "voice": "en",
+      "text": "S, O, F, T, W, A, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "software",
+      "voice": "zh",
+      "text": "名词，软件",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "software",
+      "voice": "en",
+      "text": "The new software will be installed after closing time.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "software",
+      "voice": "zh",
+      "text": "新软件将在打烊后安装。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sole",
+      "voice": "en",
+      "text": "sole",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sole",
+      "voice": "en",
+      "text": "S, O, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sole",
+      "voice": "zh",
+      "text": "形容词，唯一的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sole",
+      "voice": "en",
+      "text": "She is the sole contact for all warranty questions.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sole",
+      "voice": "zh",
+      "text": "她是所有保修问题的唯一联系人。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "solely",
+      "voice": "en",
+      "text": "solely",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "solely",
+      "voice": "en",
+      "text": "S, O, L, E, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "solely",
+      "voice": "zh",
+      "text": "副词，仅仅，单独地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "solely",
+      "voice": "en",
+      "text": "Access is granted solely to staff with safety training.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "solely",
+      "voice": "zh",
+      "text": "只有受过安全培训的员工才能进入。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "solution",
+      "voice": "en",
+      "text": "solution",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "solution",
+      "voice": "en",
+      "text": "S, O, L, U, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "solution",
+      "voice": "zh",
+      "text": "名词，解决方案，溶液",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "solution",
+      "voice": "en",
+      "text": "A short-term solution is to rent extra warehouse space.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "solution",
+      "voice": "zh",
+      "text": "短期解决方案是租用额外的仓库空间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "solve",
+      "voice": "en",
+      "text": "solve",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "solve",
+      "voice": "en",
+      "text": "S, O, L, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "solve",
+      "voice": "zh",
+      "text": "动词，解决",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "solve",
+      "voice": "en",
+      "text": "A second cashier should solve the long lunchtime queues.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "solve",
+      "voice": "zh",
+      "text": "增加一名收银员应能解决午餐时排长队的问题。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sophisticated",
+      "voice": "en",
+      "text": "sophisticated",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sophisticated",
+      "voice": "en",
+      "text": "S, O, P, H, I, S, T, I, C, A, T, E, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sophisticated",
+      "voice": "zh",
+      "text": "形容词，精密的，老练的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sophisticated",
+      "voice": "en",
+      "text": "A more sophisticated scanner is needed for the new barcodes.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sophisticated",
+      "voice": "zh",
+      "text": "新条码需要更精密的扫描器。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第88轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

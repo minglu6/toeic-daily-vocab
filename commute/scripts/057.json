@@ -1,0 +1,1314 @@
+{
+  "id": "057",
+  "track": 57,
+  "title": "第 57 轨",
+  "word_count": 30,
+  "headwords": [
+    "packing-slip",
+    "delivery-note",
+    "sales-order",
+    "debit-note",
+    "commercial-invoice",
+    "request-for-proposal",
+    "scope-of-work",
+    "non-disclosure-agreement",
+    "service-level-agreement",
+    "cover-letter",
+    "paternity-leave",
+    "annual-leave",
+    "compensatory-leave",
+    "job-sharing",
+    "night-shift",
+    "overtime-pay",
+    "time-and-a-half",
+    "double-time",
+    "severance-pay",
+    "back-pay",
+    "health-insurance",
+    "life-insurance",
+    "dental-insurance",
+    "disability-insurance",
+    "workers-compensation",
+    "travel-insurance",
+    "liability-insurance",
+    "booking-fee",
+    "cancellation-fee",
+    "processing-fee"
+  ],
+  "entries": [
+    {
+      "word": "packing-slip",
+      "spelling": "P, A, C, K, I, N, G, hyphen, S, L, I, P",
+      "spoken_meaning": "名词，装箱单，发货清单",
+      "en": "A packing-slip should be placed in each carton.",
+      "zh": "每个纸箱里都应放入一张装箱单。"
+    },
+    {
+      "word": "delivery-note",
+      "spelling": "D, E, L, I, V, E, R, Y, hyphen, N, O, T, E",
+      "spoken_meaning": "名词，送货单",
+      "en": "Please have the supervisor sign the delivery-note on arrival.",
+      "zh": "货物到达时请主管在送货单上签字。"
+    },
+    {
+      "word": "sales-order",
+      "spelling": "S, A, L, E, S, hyphen, O, R, D, E, R",
+      "spoken_meaning": "名词，销售订单",
+      "en": "The sales-order was revised after the customer changed the quantity.",
+      "zh": "客户更改数量后，销售订单已修订。"
+    },
+    {
+      "word": "debit-note",
+      "spelling": "D, E, B, I, T, hyphen, N, O, T, E",
+      "spoken_meaning": "名词，借记通知，补收单据",
+      "en": "The warehouse sent a debit-note for the additional storage days.",
+      "zh": "仓库就额外仓储天数发来了借记通知。"
+    },
+    {
+      "word": "commercial-invoice",
+      "spelling": "C, O, M, M, E, R, C, I, A, L, hyphen, I, N, V, O, I, C, E",
+      "spoken_meaning": "名词，商业发票",
+      "en": "Customs requires a commercial-invoice that matches the packing list.",
+      "zh": "海关要求商业发票与装箱单一致。"
+    },
+    {
+      "word": "request-for-proposal",
+      "spelling": "R, E, Q, U, E, S, T, hyphen, F, O, R, hyphen, P, R, O, P, O, S, A, L",
+      "spoken_meaning": "名词，提案征询书，招标书",
+      "en": "Three vendors were invited to respond to the request-for-proposal.",
+      "zh": "三家供应商获邀回应这份提案征询书。"
+    },
+    {
+      "word": "scope-of-work",
+      "spelling": "S, C, O, P, E, hyphen, O, F, hyphen, W, O, R, K",
+      "spoken_meaning": "名词，工作范围",
+      "en": "Anything outside the agreed scope-of-work will be billed separately.",
+      "zh": "超出约定工作范围的部分将另行计费。"
+    },
+    {
+      "word": "non-disclosure-agreement",
+      "spelling": "N, O, N, hyphen, D, I, S, C, L, O, S, U, R, E, hyphen, A, G, R, E, E, M, E, N, T",
+      "spoken_meaning": "名词，保密协议",
+      "en": "Please sign the non-disclosure-agreement before we share the prototype.",
+      "zh": "在我们分享原型之前，请先签署保密协议。"
+    },
+    {
+      "word": "service-level-agreement",
+      "spelling": "S, E, R, V, I, C, E, hyphen, L, E, V, E, L, hyphen, A, G, R, E, E, M, E, N, T",
+      "spoken_meaning": "名词，服务级别协议",
+      "en": "The service-level-agreement requires a four-hour response to critical faults.",
+      "zh": "服务级别协议要求对严重故障在四小时内响应。"
+    },
+    {
+      "word": "cover-letter",
+      "spelling": "C, O, V, E, R, hyphen, L, E, T, T, E, R",
+      "spoken_meaning": "名词，求职信，附函",
+      "en": "Candidates should attach a one-page cover-letter to the application form.",
+      "zh": "应聘者应在申请表上附上一页求职信。"
+    },
+    {
+      "word": "paternity-leave",
+      "spelling": "P, A, T, E, R, N, I, T, Y, hyphen, L, E, A, V, E",
+      "spoken_meaning": "名词，陪产假",
+      "en": "He will take two weeks of paternity-leave after the baby's arrival.",
+      "zh": "孩子出生后，他将休两周陪产假。"
+    },
+    {
+      "word": "annual-leave",
+      "spelling": "A, N, N, U, A, L, hyphen, L, E, A, V, E",
+      "spoken_meaning": "名词，年假",
+      "en": "Please enter your annual-leave dates in the HR system this week.",
+      "zh": "请在本周把年假日期录入人力资源系统。"
+    },
+    {
+      "word": "compensatory-leave",
+      "spelling": "C, O, M, P, E, N, S, A, T, O, R, Y, hyphen, L, E, A, V, E",
+      "spoken_meaning": "名词，调休，补假",
+      "en": "Staff who worked the public holiday will receive compensatory-leave.",
+      "zh": "在公共假期加班的员工将获得调休。"
+    },
+    {
+      "word": "job-sharing",
+      "spelling": "J, O, B, hyphen, S, H, A, R, I, N, G",
+      "spoken_meaning": "名词，工作分担",
+      "en": "The coordinator role is now filled through job-sharing by two part-time staff.",
+      "zh": "协调员一职目前由两名兼职员工分担。"
+    },
+    {
+      "word": "night-shift",
+      "spelling": "N, I, G, H, T, hyphen, S, H, I, F, T",
+      "spoken_meaning": "名词，夜班",
+      "en": "The night-shift supervisor handles all inbound shipments after 10 p.m.",
+      "zh": "夜班主管负责晚上十点后的所有进货。"
+    },
+    {
+      "word": "overtime-pay",
+      "spelling": "O, V, E, R, T, I, M, E, hyphen, P, A, Y",
+      "spoken_meaning": "名词，加班费",
+      "en": "Overtime-pay is calculated at one and a half times the regular hourly rate.",
+      "zh": "加班费按正常时薪的1.5倍计算。"
+    },
+    {
+      "word": "time-and-a-half",
+      "spelling": "T, I, M, E, hyphen, A, N, D, hyphen, A, hyphen, H, A, L, F",
+      "spoken_meaning": "名词，一倍半工资",
+      "en": "Sunday work is paid at time-and-a-half under the current contract.",
+      "zh": "根据现行合同，周日工作按一倍半工资支付。"
+    },
+    {
+      "word": "double-time",
+      "spelling": "D, O, U, B, L, E, hyphen, T, I, M, E",
+      "spoken_meaning": "名词，双倍工资",
+      "en": "Public-holiday shifts are paid at double-time.",
+      "zh": "公共假期班次按双倍工资支付。"
+    },
+    {
+      "word": "severance-pay",
+      "spelling": "S, E, V, E, R, A, N, C, E, hyphen, P, A, Y",
+      "spoken_meaning": "名词，遣散费，离职补偿",
+      "en": "Severance-pay will be transferred within ten business days of the last working day.",
+      "zh": "遣散费将在最后工作日后的十个工作日内转入账户。"
+    },
+    {
+      "word": "back-pay",
+      "spelling": "B, A, C, K, hyphen, P, A, Y",
+      "spoken_meaning": "名词，补发工资",
+      "en": "The payroll correction includes two months of back-pay.",
+      "zh": "这次工资更正包含两个月的补发工资。"
+    },
+    {
+      "word": "health-insurance",
+      "spelling": "H, E, A, L, T, H, hyphen, I, N, S, U, R, A, N, C, E",
+      "spoken_meaning": "名词，医疗保险",
+      "en": "Health-insurance coverage begins on the first day of the month after hiring.",
+      "zh": "医疗保险从入职后次月1日开始生效。"
+    },
+    {
+      "word": "life-insurance",
+      "spelling": "L, I, F, E, hyphen, I, N, S, U, R, A, N, C, E",
+      "spoken_meaning": "名词，人寿保险",
+      "en": "The company provides basic life-insurance at no cost to employees.",
+      "zh": "公司为员工提供免费的基本人寿保险。"
+    },
+    {
+      "word": "dental-insurance",
+      "spelling": "D, E, N, T, A, L, hyphen, I, N, S, U, R, A, N, C, E",
+      "spoken_meaning": "名词，牙科保险",
+      "en": "Dental-insurance claims should be filed within 60 days of treatment.",
+      "zh": "牙科保险理赔应在治疗后60天内提交。"
+    },
+    {
+      "word": "disability-insurance",
+      "spelling": "D, I, S, A, B, I, L, I, T, Y, hyphen, I, N, S, U, R, A, N, C, E",
+      "spoken_meaning": "名词，伤残保险",
+      "en": "Disability-insurance may replace part of your income during a long absence.",
+      "zh": "长期病假期间，伤残保险可补偿部分收入。"
+    },
+    {
+      "word": "workers-compensation",
+      "spelling": "W, O, R, K, E, R, S, hyphen, C, O, M, P, E, N, S, A, T, I, O, N",
+      "spoken_meaning": "名词，工伤赔偿保险",
+      "en": "Report the injury immediately so the workers-compensation claim can be filed.",
+      "zh": "请立即报告受伤情况，以便申请工伤赔偿。"
+    },
+    {
+      "word": "travel-insurance",
+      "spelling": "T, R, A, V, E, L, hyphen, I, N, S, U, R, A, N, C, E",
+      "spoken_meaning": "名词，旅行保险",
+      "en": "Travel-insurance is required for all overseas assignments longer than three days.",
+      "zh": "所有超过三天的海外出差都必须购买旅行保险。"
+    },
+    {
+      "word": "liability-insurance",
+      "spelling": "L, I, A, B, I, L, I, T, Y, hyphen, I, N, S, U, R, A, N, C, E",
+      "spoken_meaning": "名词，责任保险",
+      "en": "Venue rental is not confirmed until liability-insurance documents are received.",
+      "zh": "在收到责任保险文件之前，场地租赁不能确认。"
+    },
+    {
+      "word": "booking-fee",
+      "spelling": "B, O, O, K, I, N, G, hyphen, F, E, E",
+      "spoken_meaning": "名词，预订费",
+      "en": "The agency's booking-fee is shown as a separate line on the invoice.",
+      "zh": "代理机构的预订费在发票上单独列示。"
+    },
+    {
+      "word": "cancellation-fee",
+      "spelling": "C, A, N, C, E, L, L, A, T, I, O, N, hyphen, F, E, E",
+      "spoken_meaning": "名词，取消费",
+      "en": "Rooms cancelled within 24 hours will incur a one-night cancellation-fee.",
+      "zh": "在24小时内取消的房间将收取一晚取消费。"
+    },
+    {
+      "word": "processing-fee",
+      "spelling": "P, R, O, C, E, S, S, I, N, G, hyphen, F, E, E",
+      "spoken_meaning": "名词，手续费，处理费",
+      "en": "The bank charges a processing-fee for international transfers.",
+      "zh": "银行对国际转账收取手续费。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第57轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "packing-slip",
+      "voice": "en",
+      "text": "packing slip",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "packing-slip",
+      "voice": "en",
+      "text": "P, A, C, K, I, N, G, hyphen, S, L, I, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "packing-slip",
+      "voice": "zh",
+      "text": "名词，装箱单，发货清单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "packing-slip",
+      "voice": "en",
+      "text": "A packing-slip should be placed in each carton.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "packing-slip",
+      "voice": "zh",
+      "text": "每个纸箱里都应放入一张装箱单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "delivery-note",
+      "voice": "en",
+      "text": "delivery note",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "delivery-note",
+      "voice": "en",
+      "text": "D, E, L, I, V, E, R, Y, hyphen, N, O, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "delivery-note",
+      "voice": "zh",
+      "text": "名词，送货单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "delivery-note",
+      "voice": "en",
+      "text": "Please have the supervisor sign the delivery-note on arrival.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "delivery-note",
+      "voice": "zh",
+      "text": "货物到达时请主管在送货单上签字。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sales-order",
+      "voice": "en",
+      "text": "sales order",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sales-order",
+      "voice": "en",
+      "text": "S, A, L, E, S, hyphen, O, R, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sales-order",
+      "voice": "zh",
+      "text": "名词，销售订单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sales-order",
+      "voice": "en",
+      "text": "The sales-order was revised after the customer changed the quantity.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sales-order",
+      "voice": "zh",
+      "text": "客户更改数量后，销售订单已修订。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "debit-note",
+      "voice": "en",
+      "text": "debit note",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "debit-note",
+      "voice": "en",
+      "text": "D, E, B, I, T, hyphen, N, O, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "debit-note",
+      "voice": "zh",
+      "text": "名词，借记通知，补收单据",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "debit-note",
+      "voice": "en",
+      "text": "The warehouse sent a debit-note for the additional storage days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "debit-note",
+      "voice": "zh",
+      "text": "仓库就额外仓储天数发来了借记通知。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "commercial-invoice",
+      "voice": "en",
+      "text": "commercial invoice",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "commercial-invoice",
+      "voice": "en",
+      "text": "C, O, M, M, E, R, C, I, A, L, hyphen, I, N, V, O, I, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "commercial-invoice",
+      "voice": "zh",
+      "text": "名词，商业发票",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "commercial-invoice",
+      "voice": "en",
+      "text": "Customs requires a commercial-invoice that matches the packing list.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "commercial-invoice",
+      "voice": "zh",
+      "text": "海关要求商业发票与装箱单一致。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "request-for-proposal",
+      "voice": "en",
+      "text": "request for proposal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "request-for-proposal",
+      "voice": "en",
+      "text": "R, E, Q, U, E, S, T, hyphen, F, O, R, hyphen, P, R, O, P, O, S, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "request-for-proposal",
+      "voice": "zh",
+      "text": "名词，提案征询书，招标书",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "request-for-proposal",
+      "voice": "en",
+      "text": "Three vendors were invited to respond to the request-for-proposal.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "request-for-proposal",
+      "voice": "zh",
+      "text": "三家供应商获邀回应这份提案征询书。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "scope-of-work",
+      "voice": "en",
+      "text": "scope of work",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "scope-of-work",
+      "voice": "en",
+      "text": "S, C, O, P, E, hyphen, O, F, hyphen, W, O, R, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "scope-of-work",
+      "voice": "zh",
+      "text": "名词，工作范围",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "scope-of-work",
+      "voice": "en",
+      "text": "Anything outside the agreed scope-of-work will be billed separately.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "scope-of-work",
+      "voice": "zh",
+      "text": "超出约定工作范围的部分将另行计费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "non-disclosure-agreement",
+      "voice": "en",
+      "text": "non disclosure agreement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "non-disclosure-agreement",
+      "voice": "en",
+      "text": "N, O, N, hyphen, D, I, S, C, L, O, S, U, R, E, hyphen, A, G, R, E, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "non-disclosure-agreement",
+      "voice": "zh",
+      "text": "名词，保密协议",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "non-disclosure-agreement",
+      "voice": "en",
+      "text": "Please sign the non-disclosure-agreement before we share the prototype.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "non-disclosure-agreement",
+      "voice": "zh",
+      "text": "在我们分享原型之前，请先签署保密协议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "service-level-agreement",
+      "voice": "en",
+      "text": "service level agreement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "service-level-agreement",
+      "voice": "en",
+      "text": "S, E, R, V, I, C, E, hyphen, L, E, V, E, L, hyphen, A, G, R, E, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "service-level-agreement",
+      "voice": "zh",
+      "text": "名词，服务级别协议",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "service-level-agreement",
+      "voice": "en",
+      "text": "The service-level-agreement requires a four-hour response to critical faults.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "service-level-agreement",
+      "voice": "zh",
+      "text": "服务级别协议要求对严重故障在四小时内响应。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cover-letter",
+      "voice": "en",
+      "text": "cover letter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cover-letter",
+      "voice": "en",
+      "text": "C, O, V, E, R, hyphen, L, E, T, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cover-letter",
+      "voice": "zh",
+      "text": "名词，求职信，附函",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cover-letter",
+      "voice": "en",
+      "text": "Candidates should attach a one-page cover-letter to the application form.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cover-letter",
+      "voice": "zh",
+      "text": "应聘者应在申请表上附上一页求职信。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "paternity-leave",
+      "voice": "en",
+      "text": "paternity leave",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "paternity-leave",
+      "voice": "en",
+      "text": "P, A, T, E, R, N, I, T, Y, hyphen, L, E, A, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "paternity-leave",
+      "voice": "zh",
+      "text": "名词，陪产假",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "paternity-leave",
+      "voice": "en",
+      "text": "He will take two weeks of paternity-leave after the baby's arrival.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "paternity-leave",
+      "voice": "zh",
+      "text": "孩子出生后，他将休两周陪产假。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "annual-leave",
+      "voice": "en",
+      "text": "annual leave",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "annual-leave",
+      "voice": "en",
+      "text": "A, N, N, U, A, L, hyphen, L, E, A, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "annual-leave",
+      "voice": "zh",
+      "text": "名词，年假",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "annual-leave",
+      "voice": "en",
+      "text": "Please enter your annual-leave dates in the HR system this week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "annual-leave",
+      "voice": "zh",
+      "text": "请在本周把年假日期录入人力资源系统。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "compensatory-leave",
+      "voice": "en",
+      "text": "compensatory leave",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "compensatory-leave",
+      "voice": "en",
+      "text": "C, O, M, P, E, N, S, A, T, O, R, Y, hyphen, L, E, A, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "compensatory-leave",
+      "voice": "zh",
+      "text": "名词，调休，补假",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "compensatory-leave",
+      "voice": "en",
+      "text": "Staff who worked the public holiday will receive compensatory-leave.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "compensatory-leave",
+      "voice": "zh",
+      "text": "在公共假期加班的员工将获得调休。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "job-sharing",
+      "voice": "en",
+      "text": "job sharing",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "job-sharing",
+      "voice": "en",
+      "text": "J, O, B, hyphen, S, H, A, R, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "job-sharing",
+      "voice": "zh",
+      "text": "名词，工作分担",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "job-sharing",
+      "voice": "en",
+      "text": "The coordinator role is now filled through job-sharing by two part-time staff.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "job-sharing",
+      "voice": "zh",
+      "text": "协调员一职目前由两名兼职员工分担。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "night-shift",
+      "voice": "en",
+      "text": "night shift",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "night-shift",
+      "voice": "en",
+      "text": "N, I, G, H, T, hyphen, S, H, I, F, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "night-shift",
+      "voice": "zh",
+      "text": "名词，夜班",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "night-shift",
+      "voice": "en",
+      "text": "The night-shift supervisor handles all inbound shipments after 10 p.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "night-shift",
+      "voice": "zh",
+      "text": "夜班主管负责晚上十点后的所有进货。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "overtime-pay",
+      "voice": "en",
+      "text": "overtime pay",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "overtime-pay",
+      "voice": "en",
+      "text": "O, V, E, R, T, I, M, E, hyphen, P, A, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "overtime-pay",
+      "voice": "zh",
+      "text": "名词，加班费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "overtime-pay",
+      "voice": "en",
+      "text": "Overtime-pay is calculated at one and a half times the regular hourly rate.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "overtime-pay",
+      "voice": "zh",
+      "text": "加班费按正常时薪的1.5倍计算。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "time-and-a-half",
+      "voice": "en",
+      "text": "time and a half",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "time-and-a-half",
+      "voice": "en",
+      "text": "T, I, M, E, hyphen, A, N, D, hyphen, A, hyphen, H, A, L, F",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "time-and-a-half",
+      "voice": "zh",
+      "text": "名词，一倍半工资",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "time-and-a-half",
+      "voice": "en",
+      "text": "Sunday work is paid at time-and-a-half under the current contract.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "time-and-a-half",
+      "voice": "zh",
+      "text": "根据现行合同，周日工作按一倍半工资支付。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "double-time",
+      "voice": "en",
+      "text": "double time",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "double-time",
+      "voice": "en",
+      "text": "D, O, U, B, L, E, hyphen, T, I, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "double-time",
+      "voice": "zh",
+      "text": "名词，双倍工资",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "double-time",
+      "voice": "en",
+      "text": "Public-holiday shifts are paid at double-time.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "double-time",
+      "voice": "zh",
+      "text": "公共假期班次按双倍工资支付。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "severance-pay",
+      "voice": "en",
+      "text": "severance pay",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "severance-pay",
+      "voice": "en",
+      "text": "S, E, V, E, R, A, N, C, E, hyphen, P, A, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "severance-pay",
+      "voice": "zh",
+      "text": "名词，遣散费，离职补偿",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "severance-pay",
+      "voice": "en",
+      "text": "Severance-pay will be transferred within ten business days of the last working day.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "severance-pay",
+      "voice": "zh",
+      "text": "遣散费将在最后工作日后的十个工作日内转入账户。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "back-pay",
+      "voice": "en",
+      "text": "back pay",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "back-pay",
+      "voice": "en",
+      "text": "B, A, C, K, hyphen, P, A, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "back-pay",
+      "voice": "zh",
+      "text": "名词，补发工资",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "back-pay",
+      "voice": "en",
+      "text": "The payroll correction includes two months of back-pay.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "back-pay",
+      "voice": "zh",
+      "text": "这次工资更正包含两个月的补发工资。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "health-insurance",
+      "voice": "en",
+      "text": "health insurance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "health-insurance",
+      "voice": "en",
+      "text": "H, E, A, L, T, H, hyphen, I, N, S, U, R, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "health-insurance",
+      "voice": "zh",
+      "text": "名词，医疗保险",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "health-insurance",
+      "voice": "en",
+      "text": "Health-insurance coverage begins on the first day of the month after hiring.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "health-insurance",
+      "voice": "zh",
+      "text": "医疗保险从入职后次月1日开始生效。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "life-insurance",
+      "voice": "en",
+      "text": "life insurance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "life-insurance",
+      "voice": "en",
+      "text": "L, I, F, E, hyphen, I, N, S, U, R, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "life-insurance",
+      "voice": "zh",
+      "text": "名词，人寿保险",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "life-insurance",
+      "voice": "en",
+      "text": "The company provides basic life-insurance at no cost to employees.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "life-insurance",
+      "voice": "zh",
+      "text": "公司为员工提供免费的基本人寿保险。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "dental-insurance",
+      "voice": "en",
+      "text": "dental insurance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "dental-insurance",
+      "voice": "en",
+      "text": "D, E, N, T, A, L, hyphen, I, N, S, U, R, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "dental-insurance",
+      "voice": "zh",
+      "text": "名词，牙科保险",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "dental-insurance",
+      "voice": "en",
+      "text": "Dental-insurance claims should be filed within 60 days of treatment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "dental-insurance",
+      "voice": "zh",
+      "text": "牙科保险理赔应在治疗后60天内提交。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "disability-insurance",
+      "voice": "en",
+      "text": "disability insurance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "disability-insurance",
+      "voice": "en",
+      "text": "D, I, S, A, B, I, L, I, T, Y, hyphen, I, N, S, U, R, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "disability-insurance",
+      "voice": "zh",
+      "text": "名词，伤残保险",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "disability-insurance",
+      "voice": "en",
+      "text": "Disability-insurance may replace part of your income during a long absence.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "disability-insurance",
+      "voice": "zh",
+      "text": "长期病假期间，伤残保险可补偿部分收入。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "workers-compensation",
+      "voice": "en",
+      "text": "workers compensation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "workers-compensation",
+      "voice": "en",
+      "text": "W, O, R, K, E, R, S, hyphen, C, O, M, P, E, N, S, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "workers-compensation",
+      "voice": "zh",
+      "text": "名词，工伤赔偿保险",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "workers-compensation",
+      "voice": "en",
+      "text": "Report the injury immediately so the workers-compensation claim can be filed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "workers-compensation",
+      "voice": "zh",
+      "text": "请立即报告受伤情况，以便申请工伤赔偿。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "travel-insurance",
+      "voice": "en",
+      "text": "travel insurance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "travel-insurance",
+      "voice": "en",
+      "text": "T, R, A, V, E, L, hyphen, I, N, S, U, R, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "travel-insurance",
+      "voice": "zh",
+      "text": "名词，旅行保险",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "travel-insurance",
+      "voice": "en",
+      "text": "Travel-insurance is required for all overseas assignments longer than three days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "travel-insurance",
+      "voice": "zh",
+      "text": "所有超过三天的海外出差都必须购买旅行保险。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "liability-insurance",
+      "voice": "en",
+      "text": "liability insurance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "liability-insurance",
+      "voice": "en",
+      "text": "L, I, A, B, I, L, I, T, Y, hyphen, I, N, S, U, R, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "liability-insurance",
+      "voice": "zh",
+      "text": "名词，责任保险",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "liability-insurance",
+      "voice": "en",
+      "text": "Venue rental is not confirmed until liability-insurance documents are received.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "liability-insurance",
+      "voice": "zh",
+      "text": "在收到责任保险文件之前，场地租赁不能确认。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "booking-fee",
+      "voice": "en",
+      "text": "booking fee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "booking-fee",
+      "voice": "en",
+      "text": "B, O, O, K, I, N, G, hyphen, F, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "booking-fee",
+      "voice": "zh",
+      "text": "名词，预订费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "booking-fee",
+      "voice": "en",
+      "text": "The agency's booking-fee is shown as a separate line on the invoice.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "booking-fee",
+      "voice": "zh",
+      "text": "代理机构的预订费在发票上单独列示。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cancellation-fee",
+      "voice": "en",
+      "text": "cancellation fee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cancellation-fee",
+      "voice": "en",
+      "text": "C, A, N, C, E, L, L, A, T, I, O, N, hyphen, F, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cancellation-fee",
+      "voice": "zh",
+      "text": "名词，取消费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cancellation-fee",
+      "voice": "en",
+      "text": "Rooms cancelled within 24 hours will incur a one-night cancellation-fee.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cancellation-fee",
+      "voice": "zh",
+      "text": "在24小时内取消的房间将收取一晚取消费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "processing-fee",
+      "voice": "en",
+      "text": "processing fee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "processing-fee",
+      "voice": "en",
+      "text": "P, R, O, C, E, S, S, I, N, G, hyphen, F, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "processing-fee",
+      "voice": "zh",
+      "text": "名词，手续费，处理费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "processing-fee",
+      "voice": "en",
+      "text": "The bank charges a processing-fee for international transfers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "processing-fee",
+      "voice": "zh",
+      "text": "银行对国际转账收取手续费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第57轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

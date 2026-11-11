@@ -1,0 +1,1314 @@
+{
+  "id": "070",
+  "track": 70,
+  "title": "第 70 轨",
+  "word_count": 30,
+  "headwords": [
+    "digital",
+    "dimension",
+    "direction",
+    "director",
+    "disable",
+    "disadvantage",
+    "discourage",
+    "discuss",
+    "discussion",
+    "distribution",
+    "district",
+    "documentary",
+    "donate",
+    "double",
+    "eager",
+    "earn",
+    "ease",
+    "economics",
+    "edit",
+    "edition",
+    "editor",
+    "effectively",
+    "effort",
+    "elaborate",
+    "elect",
+    "election",
+    "electric",
+    "electrical",
+    "electricity",
+    "emphasis"
+  ],
+  "entries": [
+    {
+      "word": "digital",
+      "spelling": "D, I, G, I, T, A, L",
+      "spoken_meaning": "形容词，数字的，数码的",
+      "en": "A digital copy of the manual is available on the support site.",
+      "zh": "支持网站上提供手册的电子版。"
+    },
+    {
+      "word": "dimension",
+      "spelling": "D, I, M, E, N, S, I, O, N",
+      "spoken_meaning": "名词，尺寸，方面",
+      "en": "Please confirm the crate dimensions before we book the truck.",
+      "zh": "在预订卡车前，请确认板条箱尺寸。"
+    },
+    {
+      "word": "direction",
+      "spelling": "D, I, R, E, C, T, I, O, N",
+      "spoken_meaning": "名词，方向，指示",
+      "en": "Clear directions to the loading dock are posted at the gate.",
+      "zh": "大门处张贴了前往装卸台的清晰指示。"
+    },
+    {
+      "word": "director",
+      "spelling": "D, I, R, E, C, T, O, R",
+      "spoken_meaning": "名词，主管，董事，导演",
+      "en": "The finance director will sign off on invoices over 10,000 dollars.",
+      "zh": "超过一万美元的发票须由财务总监签字。"
+    },
+    {
+      "word": "disable",
+      "spelling": "D, I, S, A, B, L, E",
+      "spoken_meaning": "动词，停用，使无法使用",
+      "en": "Please disable temporary visitor badges at the end of each day.",
+      "zh": "请在每天结束时停用临时访客证。"
+    },
+    {
+      "word": "disadvantage",
+      "spelling": "D, I, S, A, D, V, A, N, T, A, G, E",
+      "spoken_meaning": "名词，不利，缺点",
+      "en": "The older warehouse has the disadvantage of limited dock space.",
+      "zh": "旧仓库的缺点是装卸位有限。"
+    },
+    {
+      "word": "discourage",
+      "spelling": "D, I, S, C, O, U, R, A, G, E",
+      "spoken_meaning": "动词，劝阻，使气馁",
+      "en": "We discourage personal calls on the shop floor except in emergencies.",
+      "zh": "除紧急情况外，我们不鼓励在车间打私人电话。"
+    },
+    {
+      "word": "discuss",
+      "spelling": "D, I, S, C, U, S, S",
+      "spoken_meaning": "动词，讨论",
+      "en": "Let us discuss the delivery options on tomorrow's call.",
+      "zh": "我们在明天的电话会议上讨论交货方案。"
+    },
+    {
+      "word": "discussion",
+      "spelling": "D, I, S, C, U, S, S, I, O, N",
+      "spoken_meaning": "名词，讨论",
+      "en": "A brief discussion of safety findings will open the meeting.",
+      "zh": "会议开始时将简要讨论安全检查结果。"
+    },
+    {
+      "word": "distribution",
+      "spelling": "D, I, S, T, R, I, B, U, T, I, O, N",
+      "spoken_meaning": "名词，配送，分发，分布",
+      "en": "A new distribution center will serve the northern region.",
+      "zh": "新的配送中心将服务北部地区。"
+    },
+    {
+      "word": "district",
+      "spelling": "D, I, S, T, R, I, C, T",
+      "spoken_meaning": "名词，区域，行政区",
+      "en": "The store in the business district closes one hour later on weekdays.",
+      "zh": "商业区那家店工作日晚一小时关门。"
+    },
+    {
+      "word": "documentary",
+      "spelling": "D, O, C, U, M, E, N, T, A, R, Y",
+      "spoken_meaning": "名词或形容词，纪录片，单据的",
+      "en": "Documentary evidence of insurance must accompany the shipment.",
+      "zh": "货物必须附有保险的单据证明。"
+    },
+    {
+      "word": "donate",
+      "spelling": "D, O, N, A, T, E",
+      "spoken_meaning": "动词，捐赠",
+      "en": "Unsold samples will be donated to a local training college.",
+      "zh": "未售出的样品将捐赠给当地一所职业学院。"
+    },
+    {
+      "word": "double",
+      "spelling": "D, O, U, B, L, E",
+      "spoken_meaning": "动词或形容词，加倍，双倍的",
+      "en": "Please double the order of folders for the conference.",
+      "zh": "请把会议用的文件夹订量加倍。"
+    },
+    {
+      "word": "eager",
+      "spelling": "E, A, G, E, R",
+      "spoken_meaning": "形容词，热切的，渴望的",
+      "en": "The sales staff are eager to try the new demonstration kit.",
+      "zh": "销售人员很想试用新的演示套件。"
+    },
+    {
+      "word": "earn",
+      "spelling": "E, A, R, N",
+      "spoken_meaning": "动词，赚得，赢得",
+      "en": "Consultants earn a bonus when a project is delivered on time.",
+      "zh": "项目按时交付时，顾问可获得奖金。"
+    },
+    {
+      "word": "ease",
+      "spelling": "E, A, S, E",
+      "spoken_meaning": "名词或动词，缓解，轻松",
+      "en": "The new software should ease the workload at month-end close.",
+      "zh": "新软件应能减轻月末结账的工作量。"
+    },
+    {
+      "word": "economics",
+      "spelling": "E, C, O, N, O, M, I, C, S",
+      "spoken_meaning": "名词，经济学，经济情况",
+      "en": "The economics of overnight air freight no longer make sense for this item.",
+      "zh": "对该商品而言，隔夜空运在成本上已不再划算。"
+    },
+    {
+      "word": "edit",
+      "spelling": "E, D, I, T",
+      "spoken_meaning": "动词，编辑，修改",
+      "en": "Please edit the press release and send it back by noon.",
+      "zh": "请修改新闻稿并在中午前发回。"
+    },
+    {
+      "word": "edition",
+      "spelling": "E, D, I, T, I, O, N",
+      "spoken_meaning": "名词，版本，版次",
+      "en": "The second edition of the handbook includes the updated travel policy.",
+      "zh": "手册第二版已收入更新后的差旅政策。"
+    },
+    {
+      "word": "editor",
+      "spelling": "E, D, I, T, O, R",
+      "spoken_meaning": "名词，编辑",
+      "en": "The editor will proofread the annual report before it is printed.",
+      "zh": "编辑将在年报付印前校对。"
+    },
+    {
+      "word": "effectively",
+      "spelling": "E, F, F, E, C, T, I, V, E, L, Y",
+      "spoken_meaning": "副词，有效地，实际上",
+      "en": "The new checklist has effectively reduced packing errors.",
+      "zh": "新的检查清单有效减少了包装差错。"
+    },
+    {
+      "word": "effort",
+      "spelling": "E, F, F, O, R, T",
+      "spoken_meaning": "名词，努力，费力",
+      "en": "Thank you for the extra effort during the inventory weekend.",
+      "zh": "感谢大家在盘点周末付出的额外努力。"
+    },
+    {
+      "word": "elaborate",
+      "spelling": "E, L, A, B, O, R, A, T, E",
+      "spoken_meaning": "动词或形容词，详细说明，复杂的",
+      "en": "Could you elaborate on the training plan in tomorrow's memo?",
+      "zh": "能否在明天的备忘录里详细说明培训计划？"
+    },
+    {
+      "word": "elect",
+      "spelling": "E, L, E, C, T",
+      "spoken_meaning": "动词，选举，选择",
+      "en": "Shareholders will elect two new directors at the annual meeting.",
+      "zh": "股东将在年会上选举两名新董事。"
+    },
+    {
+      "word": "election",
+      "spelling": "E, L, E, C, T, I, O, N",
+      "spoken_meaning": "名词，选举",
+      "en": "Office hours may change around the local election.",
+      "zh": "地方选举前后，营业时间可能会调整。"
+    },
+    {
+      "word": "electric",
+      "spelling": "E, L, E, C, T, R, I, C",
+      "spoken_meaning": "形容词，电的，电动的",
+      "en": "The warehouse is switching to electric forklifts this year.",
+      "zh": "仓库今年将改用电动叉车。"
+    },
+    {
+      "word": "electrical",
+      "spelling": "E, L, E, C, T, R, I, C, A, L",
+      "spoken_meaning": "形容词，电气的",
+      "en": "Electrical work in the server room is scheduled for Sunday.",
+      "zh": "机房的电气施工安排在星期日。"
+    },
+    {
+      "word": "electricity",
+      "spelling": "E, L, E, C, T, R, I, C, I, T, Y",
+      "spoken_meaning": "名词，电，电力",
+      "en": "Electricity costs fell after the lighting upgrade.",
+      "zh": "照明升级后电费下降了。"
+    },
+    {
+      "word": "emphasis",
+      "spelling": "E, M, P, H, A, S, I, S",
+      "spoken_meaning": "名词，强调，重点",
+      "en": "This quarter the emphasis is on reducing delivery delays.",
+      "zh": "本季度的重点是减少交货延误。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第70轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "digital",
+      "voice": "en",
+      "text": "digital",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "digital",
+      "voice": "en",
+      "text": "D, I, G, I, T, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "digital",
+      "voice": "zh",
+      "text": "形容词，数字的，数码的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "digital",
+      "voice": "en",
+      "text": "A digital copy of the manual is available on the support site.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "digital",
+      "voice": "zh",
+      "text": "支持网站上提供手册的电子版。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "dimension",
+      "voice": "en",
+      "text": "dimension",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "dimension",
+      "voice": "en",
+      "text": "D, I, M, E, N, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "dimension",
+      "voice": "zh",
+      "text": "名词，尺寸，方面",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "dimension",
+      "voice": "en",
+      "text": "Please confirm the crate dimensions before we book the truck.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "dimension",
+      "voice": "zh",
+      "text": "在预订卡车前，请确认板条箱尺寸。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "direction",
+      "voice": "en",
+      "text": "direction",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "direction",
+      "voice": "en",
+      "text": "D, I, R, E, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "direction",
+      "voice": "zh",
+      "text": "名词，方向，指示",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "direction",
+      "voice": "en",
+      "text": "Clear directions to the loading dock are posted at the gate.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "direction",
+      "voice": "zh",
+      "text": "大门处张贴了前往装卸台的清晰指示。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "director",
+      "voice": "en",
+      "text": "director",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "director",
+      "voice": "en",
+      "text": "D, I, R, E, C, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "director",
+      "voice": "zh",
+      "text": "名词，主管，董事，导演",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "director",
+      "voice": "en",
+      "text": "The finance director will sign off on invoices over 10,000 dollars.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "director",
+      "voice": "zh",
+      "text": "超过一万美元的发票须由财务总监签字。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "disable",
+      "voice": "en",
+      "text": "disable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "disable",
+      "voice": "en",
+      "text": "D, I, S, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "disable",
+      "voice": "zh",
+      "text": "动词，停用，使无法使用",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "disable",
+      "voice": "en",
+      "text": "Please disable temporary visitor badges at the end of each day.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "disable",
+      "voice": "zh",
+      "text": "请在每天结束时停用临时访客证。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "disadvantage",
+      "voice": "en",
+      "text": "disadvantage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "disadvantage",
+      "voice": "en",
+      "text": "D, I, S, A, D, V, A, N, T, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "disadvantage",
+      "voice": "zh",
+      "text": "名词，不利，缺点",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "disadvantage",
+      "voice": "en",
+      "text": "The older warehouse has the disadvantage of limited dock space.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "disadvantage",
+      "voice": "zh",
+      "text": "旧仓库的缺点是装卸位有限。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "discourage",
+      "voice": "en",
+      "text": "discourage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "discourage",
+      "voice": "en",
+      "text": "D, I, S, C, O, U, R, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "discourage",
+      "voice": "zh",
+      "text": "动词，劝阻，使气馁",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "discourage",
+      "voice": "en",
+      "text": "We discourage personal calls on the shop floor except in emergencies.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "discourage",
+      "voice": "zh",
+      "text": "除紧急情况外，我们不鼓励在车间打私人电话。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "discuss",
+      "voice": "en",
+      "text": "discuss",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "discuss",
+      "voice": "en",
+      "text": "D, I, S, C, U, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "discuss",
+      "voice": "zh",
+      "text": "动词，讨论",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "discuss",
+      "voice": "en",
+      "text": "Let us discuss the delivery options on tomorrow's call.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "discuss",
+      "voice": "zh",
+      "text": "我们在明天的电话会议上讨论交货方案。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "discussion",
+      "voice": "en",
+      "text": "discussion",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "discussion",
+      "voice": "en",
+      "text": "D, I, S, C, U, S, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "discussion",
+      "voice": "zh",
+      "text": "名词，讨论",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "discussion",
+      "voice": "en",
+      "text": "A brief discussion of safety findings will open the meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "discussion",
+      "voice": "zh",
+      "text": "会议开始时将简要讨论安全检查结果。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "distribution",
+      "voice": "en",
+      "text": "distribution",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "distribution",
+      "voice": "en",
+      "text": "D, I, S, T, R, I, B, U, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "distribution",
+      "voice": "zh",
+      "text": "名词，配送，分发，分布",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "distribution",
+      "voice": "en",
+      "text": "A new distribution center will serve the northern region.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "distribution",
+      "voice": "zh",
+      "text": "新的配送中心将服务北部地区。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "district",
+      "voice": "en",
+      "text": "district",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "district",
+      "voice": "en",
+      "text": "D, I, S, T, R, I, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "district",
+      "voice": "zh",
+      "text": "名词，区域，行政区",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "district",
+      "voice": "en",
+      "text": "The store in the business district closes one hour later on weekdays.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "district",
+      "voice": "zh",
+      "text": "商业区那家店工作日晚一小时关门。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "documentary",
+      "voice": "en",
+      "text": "documentary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "documentary",
+      "voice": "en",
+      "text": "D, O, C, U, M, E, N, T, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "documentary",
+      "voice": "zh",
+      "text": "名词或形容词，纪录片，单据的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "documentary",
+      "voice": "en",
+      "text": "Documentary evidence of insurance must accompany the shipment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "documentary",
+      "voice": "zh",
+      "text": "货物必须附有保险的单据证明。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "donate",
+      "voice": "en",
+      "text": "donate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "donate",
+      "voice": "en",
+      "text": "D, O, N, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "donate",
+      "voice": "zh",
+      "text": "动词，捐赠",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "donate",
+      "voice": "en",
+      "text": "Unsold samples will be donated to a local training college.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "donate",
+      "voice": "zh",
+      "text": "未售出的样品将捐赠给当地一所职业学院。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "double",
+      "voice": "en",
+      "text": "double",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "double",
+      "voice": "en",
+      "text": "D, O, U, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "double",
+      "voice": "zh",
+      "text": "动词或形容词，加倍，双倍的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "double",
+      "voice": "en",
+      "text": "Please double the order of folders for the conference.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "double",
+      "voice": "zh",
+      "text": "请把会议用的文件夹订量加倍。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "eager",
+      "voice": "en",
+      "text": "eager",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "eager",
+      "voice": "en",
+      "text": "E, A, G, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "eager",
+      "voice": "zh",
+      "text": "形容词，热切的，渴望的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "eager",
+      "voice": "en",
+      "text": "The sales staff are eager to try the new demonstration kit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "eager",
+      "voice": "zh",
+      "text": "销售人员很想试用新的演示套件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "earn",
+      "voice": "en",
+      "text": "earn",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "earn",
+      "voice": "en",
+      "text": "E, A, R, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "earn",
+      "voice": "zh",
+      "text": "动词，赚得，赢得",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "earn",
+      "voice": "en",
+      "text": "Consultants earn a bonus when a project is delivered on time.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "earn",
+      "voice": "zh",
+      "text": "项目按时交付时，顾问可获得奖金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ease",
+      "voice": "en",
+      "text": "ease",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ease",
+      "voice": "en",
+      "text": "E, A, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ease",
+      "voice": "zh",
+      "text": "名词或动词，缓解，轻松",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ease",
+      "voice": "en",
+      "text": "The new software should ease the workload at month-end close.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ease",
+      "voice": "zh",
+      "text": "新软件应能减轻月末结账的工作量。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "economics",
+      "voice": "en",
+      "text": "economics",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "economics",
+      "voice": "en",
+      "text": "E, C, O, N, O, M, I, C, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "economics",
+      "voice": "zh",
+      "text": "名词，经济学，经济情况",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "economics",
+      "voice": "en",
+      "text": "The economics of overnight air freight no longer make sense for this item.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "economics",
+      "voice": "zh",
+      "text": "对该商品而言，隔夜空运在成本上已不再划算。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "edit",
+      "voice": "en",
+      "text": "edit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "edit",
+      "voice": "en",
+      "text": "E, D, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "edit",
+      "voice": "zh",
+      "text": "动词，编辑，修改",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "edit",
+      "voice": "en",
+      "text": "Please edit the press release and send it back by noon.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "edit",
+      "voice": "zh",
+      "text": "请修改新闻稿并在中午前发回。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "edition",
+      "voice": "en",
+      "text": "edition",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "edition",
+      "voice": "en",
+      "text": "E, D, I, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "edition",
+      "voice": "zh",
+      "text": "名词，版本，版次",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "edition",
+      "voice": "en",
+      "text": "The second edition of the handbook includes the updated travel policy.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "edition",
+      "voice": "zh",
+      "text": "手册第二版已收入更新后的差旅政策。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "editor",
+      "voice": "en",
+      "text": "editor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "editor",
+      "voice": "en",
+      "text": "E, D, I, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "editor",
+      "voice": "zh",
+      "text": "名词，编辑",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "editor",
+      "voice": "en",
+      "text": "The editor will proofread the annual report before it is printed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "editor",
+      "voice": "zh",
+      "text": "编辑将在年报付印前校对。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "effectively",
+      "voice": "en",
+      "text": "effectively",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "effectively",
+      "voice": "en",
+      "text": "E, F, F, E, C, T, I, V, E, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "effectively",
+      "voice": "zh",
+      "text": "副词，有效地，实际上",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "effectively",
+      "voice": "en",
+      "text": "The new checklist has effectively reduced packing errors.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "effectively",
+      "voice": "zh",
+      "text": "新的检查清单有效减少了包装差错。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "effort",
+      "voice": "en",
+      "text": "effort",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "effort",
+      "voice": "en",
+      "text": "E, F, F, O, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "effort",
+      "voice": "zh",
+      "text": "名词，努力，费力",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "effort",
+      "voice": "en",
+      "text": "Thank you for the extra effort during the inventory weekend.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "effort",
+      "voice": "zh",
+      "text": "感谢大家在盘点周末付出的额外努力。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "elaborate",
+      "voice": "en",
+      "text": "elaborate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "elaborate",
+      "voice": "en",
+      "text": "E, L, A, B, O, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "elaborate",
+      "voice": "zh",
+      "text": "动词或形容词，详细说明，复杂的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "elaborate",
+      "voice": "en",
+      "text": "Could you elaborate on the training plan in tomorrow's memo?",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "elaborate",
+      "voice": "zh",
+      "text": "能否在明天的备忘录里详细说明培训计划？",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "elect",
+      "voice": "en",
+      "text": "elect",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "elect",
+      "voice": "en",
+      "text": "E, L, E, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "elect",
+      "voice": "zh",
+      "text": "动词，选举，选择",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "elect",
+      "voice": "en",
+      "text": "Shareholders will elect two new directors at the annual meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "elect",
+      "voice": "zh",
+      "text": "股东将在年会上选举两名新董事。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "election",
+      "voice": "en",
+      "text": "election",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "election",
+      "voice": "en",
+      "text": "E, L, E, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "election",
+      "voice": "zh",
+      "text": "名词，选举",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "election",
+      "voice": "en",
+      "text": "Office hours may change around the local election.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "election",
+      "voice": "zh",
+      "text": "地方选举前后，营业时间可能会调整。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "electric",
+      "voice": "en",
+      "text": "electric",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "electric",
+      "voice": "en",
+      "text": "E, L, E, C, T, R, I, C",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "electric",
+      "voice": "zh",
+      "text": "形容词，电的，电动的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "electric",
+      "voice": "en",
+      "text": "The warehouse is switching to electric forklifts this year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "electric",
+      "voice": "zh",
+      "text": "仓库今年将改用电动叉车。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "electrical",
+      "voice": "en",
+      "text": "electrical",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "electrical",
+      "voice": "en",
+      "text": "E, L, E, C, T, R, I, C, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "electrical",
+      "voice": "zh",
+      "text": "形容词，电气的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "electrical",
+      "voice": "en",
+      "text": "Electrical work in the server room is scheduled for Sunday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "electrical",
+      "voice": "zh",
+      "text": "机房的电气施工安排在星期日。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "electricity",
+      "voice": "en",
+      "text": "electricity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "electricity",
+      "voice": "en",
+      "text": "E, L, E, C, T, R, I, C, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "electricity",
+      "voice": "zh",
+      "text": "名词，电，电力",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "electricity",
+      "voice": "en",
+      "text": "Electricity costs fell after the lighting upgrade.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "electricity",
+      "voice": "zh",
+      "text": "照明升级后电费下降了。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "emphasis",
+      "voice": "en",
+      "text": "emphasis",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "emphasis",
+      "voice": "en",
+      "text": "E, M, P, H, A, S, I, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "emphasis",
+      "voice": "zh",
+      "text": "名词，强调，重点",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "emphasis",
+      "voice": "en",
+      "text": "This quarter the emphasis is on reducing delivery delays.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "emphasis",
+      "voice": "zh",
+      "text": "本季度的重点是减少交货延误。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第70轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

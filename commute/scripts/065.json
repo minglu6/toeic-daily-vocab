@@ -1,0 +1,1314 @@
+{
+  "id": "065",
+  "track": 65,
+  "title": "第 65 轨",
+  "word_count": 30,
+  "headwords": [
+    "setup-time",
+    "defect-rate",
+    "lean-manufacturing",
+    "preventive-maintenance",
+    "predictive-maintenance",
+    "corrective-maintenance",
+    "cash-flow-statement",
+    "aged-receivables",
+    "aged-payables",
+    "unearned-revenue",
+    "prepaid-expense",
+    "deferred-tax",
+    "intangible-asset",
+    "tangible-asset",
+    "fixed-asset",
+    "current-asset",
+    "current-liability",
+    "long-term-liability",
+    "retained-earnings",
+    "paid-in-capital",
+    "treasury-stock",
+    "stock-split",
+    "stock-option",
+    "payroll-tax",
+    "value-added-tax",
+    "goods-and-services-tax",
+    "excise-tax",
+    "stamp-duty",
+    "capital-gains-tax",
+    "corporate-tax"
+  ],
+  "entries": [
+    {
+      "word": "setup-time",
+      "spelling": "S, E, T, U, P, hyphen, T, I, M, E",
+      "spoken_meaning": "名词，换线时间，准备时间",
+      "en": "Shorter setup-time will let us run smaller batches profitably.",
+      "zh": "缩短换线时间后，小批量生产也能盈利。"
+    },
+    {
+      "word": "defect-rate",
+      "spelling": "D, E, F, E, C, T, hyphen, R, A, T, E",
+      "spoken_meaning": "名词，不良率，缺陷率",
+      "en": "The defect-rate fell after the new inspection step was added.",
+      "zh": "增加新的检验步骤后，不良率下降了。"
+    },
+    {
+      "word": "lean-manufacturing",
+      "spelling": "L, E, A, N, hyphen, M, A, N, U, F, A, C, T, U, R, I, N, G",
+      "spoken_meaning": "名词，精益生产",
+      "en": "The plant adopted lean-manufacturing to reduce wasted motion.",
+      "zh": "工厂采用精益生产以减少无效动作。"
+    },
+    {
+      "word": "preventive-maintenance",
+      "spelling": "P, R, E, V, E, N, T, I, V, E, hyphen, M, A, I, N, T, E, N, A, N, C, E",
+      "spoken_meaning": "名词，预防性维护",
+      "en": "Preventive-maintenance is scheduled for the first Sunday of each month.",
+      "zh": "预防性维护安排在每月第一个星期日。"
+    },
+    {
+      "word": "predictive-maintenance",
+      "spelling": "P, R, E, D, I, C, T, I, V, E, hyphen, M, A, I, N, T, E, N, A, N, C, E",
+      "spoken_meaning": "名词，预测性维护",
+      "en": "Sensors support predictive-maintenance before a motor fails.",
+      "zh": "传感器可在电机故障前支持预测性维护。"
+    },
+    {
+      "word": "corrective-maintenance",
+      "spelling": "C, O, R, R, E, C, T, I, V, E, hyphen, M, A, I, N, T, E, N, A, N, C, E",
+      "spoken_meaning": "名词，纠正性维修",
+      "en": "Corrective-maintenance on the conveyor will take most of the night shift.",
+      "zh": "输送带的纠正性维修将占用大部分夜班时间。"
+    },
+    {
+      "word": "cash-flow-statement",
+      "spelling": "C, A, S, H, hyphen, F, L, O, W, hyphen, S, T, A, T, E, M, E, N, T",
+      "spoken_meaning": "名词，现金流量表",
+      "en": "Please attach the cash-flow-statement to the loan application.",
+      "zh": "请把现金流量表附在贷款申请中。"
+    },
+    {
+      "word": "aged-receivables",
+      "spelling": "A, G, E, D, hyphen, R, E, C, E, I, V, A, B, L, E, S",
+      "spoken_meaning": "名词，账龄分析的应收账款",
+      "en": "The aged-receivables report highlights accounts more than 60 days overdue.",
+      "zh": "应收账款账龄报告标出了逾期60天以上的账户。"
+    },
+    {
+      "word": "aged-payables",
+      "spelling": "A, G, E, D, hyphen, P, A, Y, A, B, L, E, S",
+      "spoken_meaning": "名词，账龄分析的应付账款",
+      "en": "We will clear the oldest items on the aged-payables list this week.",
+      "zh": "本周将清掉应付账款账龄表上最旧的项目。"
+    },
+    {
+      "word": "unearned-revenue",
+      "spelling": "U, N, E, A, R, N, E, D, hyphen, R, E, V, E, N, U, E",
+      "spoken_meaning": "名词，预收账款，未实现收入",
+      "en": "Annual subscriptions are recorded first as unearned-revenue.",
+      "zh": "年度订阅费先记为预收账款。"
+    },
+    {
+      "word": "prepaid-expense",
+      "spelling": "P, R, E, P, A, I, D, hyphen, E, X, P, E, N, S, E",
+      "spoken_meaning": "名词，预付费用",
+      "en": "The insurance premium is treated as a prepaid-expense and released monthly.",
+      "zh": "保险费作为预付费用入账，并按月摊销。"
+    },
+    {
+      "word": "deferred-tax",
+      "spelling": "D, E, F, E, R, R, E, D, hyphen, T, A, X",
+      "spoken_meaning": "名词，递延税款",
+      "en": "Deferred-tax items are explained in note 14 of the annual report.",
+      "zh": "递延税款项目在年报附注14中说明。"
+    },
+    {
+      "word": "intangible-asset",
+      "spelling": "I, N, T, A, N, G, I, B, L, E, hyphen, A, S, S, E, T",
+      "spoken_meaning": "名词，无形资产",
+      "en": "The acquired brand name is recognized as an intangible-asset.",
+      "zh": "收购的品牌被确认为无形资产。"
+    },
+    {
+      "word": "tangible-asset",
+      "spelling": "T, A, N, G, I, B, L, E, hyphen, A, S, S, E, T",
+      "spoken_meaning": "名词，有形资产",
+      "en": "Vehicles and machinery are the company's main tangible-assets.",
+      "zh": "车辆和机器是公司的主要有形资产。"
+    },
+    {
+      "word": "fixed-asset",
+      "spelling": "F, I, X, E, D, hyphen, A, S, S, E, T",
+      "spoken_meaning": "名词，固定资产",
+      "en": "Please register the new printer as a fixed-asset, not as a consumable.",
+      "zh": "请把新打印机登记为固定资产，而不是耗材。"
+    },
+    {
+      "word": "current-asset",
+      "spelling": "C, U, R, R, E, N, T, hyphen, A, S, S, E, T",
+      "spoken_meaning": "名词，流动资产",
+      "en": "Cash and receivables are reported under current-assets.",
+      "zh": "现金和应收账款列在流动资产项下。"
+    },
+    {
+      "word": "current-liability",
+      "spelling": "C, U, R, R, E, N, T, hyphen, L, I, A, B, I, L, I, T, Y",
+      "spoken_meaning": "名词，流动负债",
+      "en": "The bank loan due in six months is a current-liability.",
+      "zh": "六个月内到期的银行贷款属于流动负债。"
+    },
+    {
+      "word": "long-term-liability",
+      "spelling": "L, O, N, G, hyphen, T, E, R, M, hyphen, L, I, A, B, I, L, I, T, Y",
+      "spoken_meaning": "名词，长期负债",
+      "en": "The mortgage is classified as a long-term-liability.",
+      "zh": "该抵押贷款被归类为长期负债。"
+    },
+    {
+      "word": "retained-earnings",
+      "spelling": "R, E, T, A, I, N, E, D, hyphen, E, A, R, N, I, N, G, S",
+      "spoken_meaning": "名词，留存收益",
+      "en": "The dividend will be paid from retained-earnings.",
+      "zh": "股息将从留存收益中支付。"
+    },
+    {
+      "word": "paid-in-capital",
+      "spelling": "P, A, I, D, hyphen, I, N, hyphen, C, A, P, I, T, A, L",
+      "spoken_meaning": "名词，实收资本",
+      "en": "The share issue increased paid-in-capital by two million dollars.",
+      "zh": "此次发行股票使实收资本增加了两百万美元。"
+    },
+    {
+      "word": "treasury-stock",
+      "spelling": "T, R, E, A, S, U, R, Y, hyphen, S, T, O, C, K",
+      "spoken_meaning": "名词，库存股",
+      "en": "The company bought back shares and holds them as treasury-stock.",
+      "zh": "公司回购股票并作为库存股持有。"
+    },
+    {
+      "word": "stock-split",
+      "spelling": "S, T, O, C, K, hyphen, S, P, L, I, T",
+      "spoken_meaning": "名词，拆股，股票分割",
+      "en": "A two-for-one stock-split will take effect on June 1.",
+      "zh": "一拆二的股票分割将于6月1日生效。"
+    },
+    {
+      "word": "stock-option",
+      "spelling": "S, T, O, C, K, hyphen, O, P, T, I, O, N",
+      "spoken_meaning": "名词，股票期权",
+      "en": "Eligible managers may receive a stock-option grant each spring.",
+      "zh": "符合条件的经理每年春季可获得股票期权。"
+    },
+    {
+      "word": "payroll-tax",
+      "spelling": "P, A, Y, R, O, L, L, hyphen, T, A, X",
+      "spoken_meaning": "名词，工资税，薪资税",
+      "en": "Payroll-tax withholdings are itemized on the monthly payslip.",
+      "zh": "工资税扣缴明细列在每月工资单上。"
+    },
+    {
+      "word": "value-added-tax",
+      "spelling": "V, A, L, U, E, hyphen, A, D, D, E, D, hyphen, T, A, X",
+      "spoken_meaning": "名词，增值税",
+      "en": "The invoice must show the value-added-tax separately.",
+      "zh": "发票必须单独列示增值税。"
+    },
+    {
+      "word": "goods-and-services-tax",
+      "spelling": "G, O, O, D, S, hyphen, A, N, D, hyphen, S, E, R, V, I, C, E, S, hyphen, T, A, X",
+      "spoken_meaning": "名词，商品及服务税",
+      "en": "Prices on the menu include goods-and-services-tax.",
+      "zh": "菜单价格已含商品及服务税。"
+    },
+    {
+      "word": "excise-tax",
+      "spelling": "E, X, C, I, S, E, hyphen, T, A, X",
+      "spoken_meaning": "名词，消费税，货物税",
+      "en": "An excise-tax applies to certain imported fuels.",
+      "zh": "某些进口燃料需缴纳消费税。"
+    },
+    {
+      "word": "stamp-duty",
+      "spelling": "S, T, A, M, P, hyphen, D, U, T, Y",
+      "spoken_meaning": "名词，印花税",
+      "en": "Stamp-duty is payable on the property transfer documents.",
+      "zh": "财产转让文件须缴纳印花税。"
+    },
+    {
+      "word": "capital-gains-tax",
+      "spelling": "C, A, P, I, T, A, L, hyphen, G, A, I, N, S, hyphen, T, A, X",
+      "spoken_meaning": "名词，资本利得税",
+      "en": "Capital-gains-tax may apply when the subsidiary is sold.",
+      "zh": "出售子公司时可能需要缴纳资本利得税。"
+    },
+    {
+      "word": "corporate-tax",
+      "spelling": "C, O, R, P, O, R, A, T, E, hyphen, T, A, X",
+      "spoken_meaning": "名词，公司税，企业所得税",
+      "en": "The corporate-tax return is due at the end of the third month.",
+      "zh": "企业所得税申报于第三个月末到期。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第65轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "setup-time",
+      "voice": "en",
+      "text": "setup time",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "setup-time",
+      "voice": "en",
+      "text": "S, E, T, U, P, hyphen, T, I, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "setup-time",
+      "voice": "zh",
+      "text": "名词，换线时间，准备时间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "setup-time",
+      "voice": "en",
+      "text": "Shorter setup-time will let us run smaller batches profitably.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "setup-time",
+      "voice": "zh",
+      "text": "缩短换线时间后，小批量生产也能盈利。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "defect-rate",
+      "voice": "en",
+      "text": "defect rate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "defect-rate",
+      "voice": "en",
+      "text": "D, E, F, E, C, T, hyphen, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "defect-rate",
+      "voice": "zh",
+      "text": "名词，不良率，缺陷率",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "defect-rate",
+      "voice": "en",
+      "text": "The defect-rate fell after the new inspection step was added.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "defect-rate",
+      "voice": "zh",
+      "text": "增加新的检验步骤后，不良率下降了。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lean-manufacturing",
+      "voice": "en",
+      "text": "lean manufacturing",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lean-manufacturing",
+      "voice": "en",
+      "text": "L, E, A, N, hyphen, M, A, N, U, F, A, C, T, U, R, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lean-manufacturing",
+      "voice": "zh",
+      "text": "名词，精益生产",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lean-manufacturing",
+      "voice": "en",
+      "text": "The plant adopted lean-manufacturing to reduce wasted motion.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lean-manufacturing",
+      "voice": "zh",
+      "text": "工厂采用精益生产以减少无效动作。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "preventive-maintenance",
+      "voice": "en",
+      "text": "preventive maintenance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "preventive-maintenance",
+      "voice": "en",
+      "text": "P, R, E, V, E, N, T, I, V, E, hyphen, M, A, I, N, T, E, N, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "preventive-maintenance",
+      "voice": "zh",
+      "text": "名词，预防性维护",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "preventive-maintenance",
+      "voice": "en",
+      "text": "Preventive-maintenance is scheduled for the first Sunday of each month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "preventive-maintenance",
+      "voice": "zh",
+      "text": "预防性维护安排在每月第一个星期日。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "predictive-maintenance",
+      "voice": "en",
+      "text": "predictive maintenance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "predictive-maintenance",
+      "voice": "en",
+      "text": "P, R, E, D, I, C, T, I, V, E, hyphen, M, A, I, N, T, E, N, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "predictive-maintenance",
+      "voice": "zh",
+      "text": "名词，预测性维护",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "predictive-maintenance",
+      "voice": "en",
+      "text": "Sensors support predictive-maintenance before a motor fails.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "predictive-maintenance",
+      "voice": "zh",
+      "text": "传感器可在电机故障前支持预测性维护。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "corrective-maintenance",
+      "voice": "en",
+      "text": "corrective maintenance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "corrective-maintenance",
+      "voice": "en",
+      "text": "C, O, R, R, E, C, T, I, V, E, hyphen, M, A, I, N, T, E, N, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "corrective-maintenance",
+      "voice": "zh",
+      "text": "名词，纠正性维修",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "corrective-maintenance",
+      "voice": "en",
+      "text": "Corrective-maintenance on the conveyor will take most of the night shift.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "corrective-maintenance",
+      "voice": "zh",
+      "text": "输送带的纠正性维修将占用大部分夜班时间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cash-flow-statement",
+      "voice": "en",
+      "text": "cash flow statement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cash-flow-statement",
+      "voice": "en",
+      "text": "C, A, S, H, hyphen, F, L, O, W, hyphen, S, T, A, T, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cash-flow-statement",
+      "voice": "zh",
+      "text": "名词，现金流量表",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cash-flow-statement",
+      "voice": "en",
+      "text": "Please attach the cash-flow-statement to the loan application.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cash-flow-statement",
+      "voice": "zh",
+      "text": "请把现金流量表附在贷款申请中。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "aged-receivables",
+      "voice": "en",
+      "text": "aged receivables",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "aged-receivables",
+      "voice": "en",
+      "text": "A, G, E, D, hyphen, R, E, C, E, I, V, A, B, L, E, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "aged-receivables",
+      "voice": "zh",
+      "text": "名词，账龄分析的应收账款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "aged-receivables",
+      "voice": "en",
+      "text": "The aged-receivables report highlights accounts more than 60 days overdue.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "aged-receivables",
+      "voice": "zh",
+      "text": "应收账款账龄报告标出了逾期60天以上的账户。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "aged-payables",
+      "voice": "en",
+      "text": "aged payables",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "aged-payables",
+      "voice": "en",
+      "text": "A, G, E, D, hyphen, P, A, Y, A, B, L, E, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "aged-payables",
+      "voice": "zh",
+      "text": "名词，账龄分析的应付账款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "aged-payables",
+      "voice": "en",
+      "text": "We will clear the oldest items on the aged-payables list this week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "aged-payables",
+      "voice": "zh",
+      "text": "本周将清掉应付账款账龄表上最旧的项目。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "unearned-revenue",
+      "voice": "en",
+      "text": "unearned revenue",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "unearned-revenue",
+      "voice": "en",
+      "text": "U, N, E, A, R, N, E, D, hyphen, R, E, V, E, N, U, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "unearned-revenue",
+      "voice": "zh",
+      "text": "名词，预收账款，未实现收入",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "unearned-revenue",
+      "voice": "en",
+      "text": "Annual subscriptions are recorded first as unearned-revenue.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "unearned-revenue",
+      "voice": "zh",
+      "text": "年度订阅费先记为预收账款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "prepaid-expense",
+      "voice": "en",
+      "text": "prepaid expense",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "prepaid-expense",
+      "voice": "en",
+      "text": "P, R, E, P, A, I, D, hyphen, E, X, P, E, N, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "prepaid-expense",
+      "voice": "zh",
+      "text": "名词，预付费用",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "prepaid-expense",
+      "voice": "en",
+      "text": "The insurance premium is treated as a prepaid-expense and released monthly.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "prepaid-expense",
+      "voice": "zh",
+      "text": "保险费作为预付费用入账，并按月摊销。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "deferred-tax",
+      "voice": "en",
+      "text": "deferred tax",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deferred-tax",
+      "voice": "en",
+      "text": "D, E, F, E, R, R, E, D, hyphen, T, A, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deferred-tax",
+      "voice": "zh",
+      "text": "名词，递延税款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deferred-tax",
+      "voice": "en",
+      "text": "Deferred-tax items are explained in note 14 of the annual report.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deferred-tax",
+      "voice": "zh",
+      "text": "递延税款项目在年报附注14中说明。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "intangible-asset",
+      "voice": "en",
+      "text": "intangible asset",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "intangible-asset",
+      "voice": "en",
+      "text": "I, N, T, A, N, G, I, B, L, E, hyphen, A, S, S, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "intangible-asset",
+      "voice": "zh",
+      "text": "名词，无形资产",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "intangible-asset",
+      "voice": "en",
+      "text": "The acquired brand name is recognized as an intangible-asset.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "intangible-asset",
+      "voice": "zh",
+      "text": "收购的品牌被确认为无形资产。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tangible-asset",
+      "voice": "en",
+      "text": "tangible asset",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tangible-asset",
+      "voice": "en",
+      "text": "T, A, N, G, I, B, L, E, hyphen, A, S, S, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tangible-asset",
+      "voice": "zh",
+      "text": "名词，有形资产",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tangible-asset",
+      "voice": "en",
+      "text": "Vehicles and machinery are the company's main tangible-assets.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tangible-asset",
+      "voice": "zh",
+      "text": "车辆和机器是公司的主要有形资产。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fixed-asset",
+      "voice": "en",
+      "text": "fixed asset",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fixed-asset",
+      "voice": "en",
+      "text": "F, I, X, E, D, hyphen, A, S, S, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fixed-asset",
+      "voice": "zh",
+      "text": "名词，固定资产",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fixed-asset",
+      "voice": "en",
+      "text": "Please register the new printer as a fixed-asset, not as a consumable.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fixed-asset",
+      "voice": "zh",
+      "text": "请把新打印机登记为固定资产，而不是耗材。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "current-asset",
+      "voice": "en",
+      "text": "current asset",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "current-asset",
+      "voice": "en",
+      "text": "C, U, R, R, E, N, T, hyphen, A, S, S, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "current-asset",
+      "voice": "zh",
+      "text": "名词，流动资产",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "current-asset",
+      "voice": "en",
+      "text": "Cash and receivables are reported under current-assets.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "current-asset",
+      "voice": "zh",
+      "text": "现金和应收账款列在流动资产项下。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "current-liability",
+      "voice": "en",
+      "text": "current liability",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "current-liability",
+      "voice": "en",
+      "text": "C, U, R, R, E, N, T, hyphen, L, I, A, B, I, L, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "current-liability",
+      "voice": "zh",
+      "text": "名词，流动负债",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "current-liability",
+      "voice": "en",
+      "text": "The bank loan due in six months is a current-liability.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "current-liability",
+      "voice": "zh",
+      "text": "六个月内到期的银行贷款属于流动负债。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "long-term-liability",
+      "voice": "en",
+      "text": "long term liability",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "long-term-liability",
+      "voice": "en",
+      "text": "L, O, N, G, hyphen, T, E, R, M, hyphen, L, I, A, B, I, L, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "long-term-liability",
+      "voice": "zh",
+      "text": "名词，长期负债",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "long-term-liability",
+      "voice": "en",
+      "text": "The mortgage is classified as a long-term-liability.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "long-term-liability",
+      "voice": "zh",
+      "text": "该抵押贷款被归类为长期负债。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "retained-earnings",
+      "voice": "en",
+      "text": "retained earnings",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "retained-earnings",
+      "voice": "en",
+      "text": "R, E, T, A, I, N, E, D, hyphen, E, A, R, N, I, N, G, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "retained-earnings",
+      "voice": "zh",
+      "text": "名词，留存收益",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "retained-earnings",
+      "voice": "en",
+      "text": "The dividend will be paid from retained-earnings.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "retained-earnings",
+      "voice": "zh",
+      "text": "股息将从留存收益中支付。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "paid-in-capital",
+      "voice": "en",
+      "text": "paid in capital",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "paid-in-capital",
+      "voice": "en",
+      "text": "P, A, I, D, hyphen, I, N, hyphen, C, A, P, I, T, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "paid-in-capital",
+      "voice": "zh",
+      "text": "名词，实收资本",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "paid-in-capital",
+      "voice": "en",
+      "text": "The share issue increased paid-in-capital by two million dollars.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "paid-in-capital",
+      "voice": "zh",
+      "text": "此次发行股票使实收资本增加了两百万美元。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "treasury-stock",
+      "voice": "en",
+      "text": "treasury stock",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "treasury-stock",
+      "voice": "en",
+      "text": "T, R, E, A, S, U, R, Y, hyphen, S, T, O, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "treasury-stock",
+      "voice": "zh",
+      "text": "名词，库存股",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "treasury-stock",
+      "voice": "en",
+      "text": "The company bought back shares and holds them as treasury-stock.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "treasury-stock",
+      "voice": "zh",
+      "text": "公司回购股票并作为库存股持有。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stock-split",
+      "voice": "en",
+      "text": "stock split",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stock-split",
+      "voice": "en",
+      "text": "S, T, O, C, K, hyphen, S, P, L, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stock-split",
+      "voice": "zh",
+      "text": "名词，拆股，股票分割",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stock-split",
+      "voice": "en",
+      "text": "A two-for-one stock-split will take effect on June 1.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stock-split",
+      "voice": "zh",
+      "text": "一拆二的股票分割将于6月1日生效。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stock-option",
+      "voice": "en",
+      "text": "stock option",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stock-option",
+      "voice": "en",
+      "text": "S, T, O, C, K, hyphen, O, P, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stock-option",
+      "voice": "zh",
+      "text": "名词，股票期权",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stock-option",
+      "voice": "en",
+      "text": "Eligible managers may receive a stock-option grant each spring.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stock-option",
+      "voice": "zh",
+      "text": "符合条件的经理每年春季可获得股票期权。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "payroll-tax",
+      "voice": "en",
+      "text": "payroll tax",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "payroll-tax",
+      "voice": "en",
+      "text": "P, A, Y, R, O, L, L, hyphen, T, A, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "payroll-tax",
+      "voice": "zh",
+      "text": "名词，工资税，薪资税",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "payroll-tax",
+      "voice": "en",
+      "text": "Payroll-tax withholdings are itemized on the monthly payslip.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "payroll-tax",
+      "voice": "zh",
+      "text": "工资税扣缴明细列在每月工资单上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "value-added-tax",
+      "voice": "en",
+      "text": "value added tax",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "value-added-tax",
+      "voice": "en",
+      "text": "V, A, L, U, E, hyphen, A, D, D, E, D, hyphen, T, A, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "value-added-tax",
+      "voice": "zh",
+      "text": "名词，增值税",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "value-added-tax",
+      "voice": "en",
+      "text": "The invoice must show the value-added-tax separately.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "value-added-tax",
+      "voice": "zh",
+      "text": "发票必须单独列示增值税。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "goods-and-services-tax",
+      "voice": "en",
+      "text": "goods and services tax",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "goods-and-services-tax",
+      "voice": "en",
+      "text": "G, O, O, D, S, hyphen, A, N, D, hyphen, S, E, R, V, I, C, E, S, hyphen, T, A, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "goods-and-services-tax",
+      "voice": "zh",
+      "text": "名词，商品及服务税",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "goods-and-services-tax",
+      "voice": "en",
+      "text": "Prices on the menu include goods-and-services-tax.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "goods-and-services-tax",
+      "voice": "zh",
+      "text": "菜单价格已含商品及服务税。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "excise-tax",
+      "voice": "en",
+      "text": "excise tax",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "excise-tax",
+      "voice": "en",
+      "text": "E, X, C, I, S, E, hyphen, T, A, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "excise-tax",
+      "voice": "zh",
+      "text": "名词，消费税，货物税",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "excise-tax",
+      "voice": "en",
+      "text": "An excise-tax applies to certain imported fuels.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "excise-tax",
+      "voice": "zh",
+      "text": "某些进口燃料需缴纳消费税。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stamp-duty",
+      "voice": "en",
+      "text": "stamp duty",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stamp-duty",
+      "voice": "en",
+      "text": "S, T, A, M, P, hyphen, D, U, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stamp-duty",
+      "voice": "zh",
+      "text": "名词，印花税",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stamp-duty",
+      "voice": "en",
+      "text": "Stamp-duty is payable on the property transfer documents.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stamp-duty",
+      "voice": "zh",
+      "text": "财产转让文件须缴纳印花税。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "capital-gains-tax",
+      "voice": "en",
+      "text": "capital gains tax",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "capital-gains-tax",
+      "voice": "en",
+      "text": "C, A, P, I, T, A, L, hyphen, G, A, I, N, S, hyphen, T, A, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "capital-gains-tax",
+      "voice": "zh",
+      "text": "名词，资本利得税",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "capital-gains-tax",
+      "voice": "en",
+      "text": "Capital-gains-tax may apply when the subsidiary is sold.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "capital-gains-tax",
+      "voice": "zh",
+      "text": "出售子公司时可能需要缴纳资本利得税。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "corporate-tax",
+      "voice": "en",
+      "text": "corporate tax",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "corporate-tax",
+      "voice": "en",
+      "text": "C, O, R, P, O, R, A, T, E, hyphen, T, A, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "corporate-tax",
+      "voice": "zh",
+      "text": "名词，公司税，企业所得税",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "corporate-tax",
+      "voice": "en",
+      "text": "The corporate-tax return is due at the end of the third month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "corporate-tax",
+      "voice": "zh",
+      "text": "企业所得税申报于第三个月末到期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第65轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

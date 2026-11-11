@@ -1,0 +1,1314 @@
+{
+  "id": "055",
+  "track": 55,
+  "title": "第 55 轨",
+  "word_count": 30,
+  "headwords": [
+    "copier",
+    "stapler",
+    "shredder",
+    "clipboard",
+    "trainee",
+    "freelancer",
+    "outsourcing",
+    "insourcing",
+    "subcontractor",
+    "wholesaler",
+    "retailer",
+    "copyright",
+    "infringement",
+    "settlement",
+    "appendix",
+    "confidentiality",
+    "notarize",
+    "certify",
+    "attest",
+    "amortization",
+    "accountant",
+    "accounting",
+    "advertisement",
+    "advertising",
+    "advisor",
+    "advisory",
+    "airline",
+    "aircraft",
+    "air-conditioning",
+    "calculator"
+  ],
+  "entries": [
+    {
+      "word": "copier",
+      "spelling": "C, O, P, I, E, R",
+      "spoken_meaning": "名词，复印机",
+      "en": "The copier on the third floor is out of toner again.",
+      "zh": "三楼的复印机又没碳粉了。"
+    },
+    {
+      "word": "stapler",
+      "spelling": "S, T, A, P, L, E, R",
+      "spoken_meaning": "名词，订书机",
+      "en": "Please leave the stapler and spare staples at the reception desk.",
+      "zh": "请把订书机和备用订书钉放在前台。"
+    },
+    {
+      "word": "shredder",
+      "spelling": "S, H, R, E, D, D, E, R",
+      "spoken_meaning": "名词，碎纸机",
+      "en": "Confidential drafts should go into the shredder, not the recycling bin.",
+      "zh": "机密草稿应放入碎纸机，不要丢进回收箱。"
+    },
+    {
+      "word": "clipboard",
+      "spelling": "C, L, I, P, B, O, A, R, D",
+      "spoken_meaning": "名词，写字夹板，剪贴板",
+      "en": "The inspector carried a clipboard to record warehouse temperatures.",
+      "zh": "检查员拿着写字夹板记录仓库温度。"
+    },
+    {
+      "word": "trainee",
+      "spelling": "T, R, A, I, N, E, E",
+      "spoken_meaning": "名词，实习生，受训人员",
+      "en": "Each trainee will shadow a senior associate for the first month.",
+      "zh": "每位实习生第一个月都将跟随一名资深同事见习。"
+    },
+    {
+      "word": "freelancer",
+      "spelling": "F, R, E, E, L, A, N, C, E, R",
+      "spoken_meaning": "名词，自由职业者，兼职创作者",
+      "en": "We hired a freelancer to redesign the product brochure.",
+      "zh": "我们请了一位自由职业者重新设计产品手册。"
+    },
+    {
+      "word": "outsourcing",
+      "spelling": "O, U, T, S, O, U, R, C, I, N, G",
+      "spoken_meaning": "名词，外包",
+      "en": "Outsourcing payroll has reduced our administrative workload.",
+      "zh": "把工资核算外包后，我们的行政工作量减轻了。"
+    },
+    {
+      "word": "insourcing",
+      "spelling": "I, N, S, O, U, R, C, I, N, G",
+      "spoken_meaning": "名词，内包，收回自营",
+      "en": "The board is considering insourcing customer support next year.",
+      "zh": "董事会正在考虑明年把客户支持收回自营。"
+    },
+    {
+      "word": "subcontractor",
+      "spelling": "S, U, B, C, O, N, T, R, A, C, T, O, R",
+      "spoken_meaning": "名词，分包商",
+      "en": "The general contractor must ensure every subcontractor carries insurance.",
+      "zh": "总包商必须确保每位分包商都有保险。"
+    },
+    {
+      "word": "wholesaler",
+      "spelling": "W, H, O, L, E, S, A, L, E, R",
+      "spoken_meaning": "名词，批发商",
+      "en": "The wholesaler can deliver pallets to regional stores within two days.",
+      "zh": "该批发商可在两天内把整托货物送到区域门店。"
+    },
+    {
+      "word": "retailer",
+      "spelling": "R, E, T, A, I, L, E, R",
+      "spoken_meaning": "名词，零售商",
+      "en": "The retailer asked for a lower wholesale price on the holiday collection.",
+      "zh": "这家零售商要求下调节日系列的批发价。"
+    },
+    {
+      "word": "copyright",
+      "spelling": "C, O, P, Y, R, I, G, H, T",
+      "spoken_meaning": "名词，版权，著作权",
+      "en": "Do not use the photographs until the copyright transfer is signed.",
+      "zh": "在版权转让文件签署前，请勿使用这些照片。"
+    },
+    {
+      "word": "infringement",
+      "spelling": "I, N, F, R, I, N, G, E, M, E, N, T",
+      "spoken_meaning": "名词，侵权，违反",
+      "en": "The letter alleges infringement of the company's registered trademark.",
+      "zh": "该函声称对方侵犯了公司的注册商标。"
+    },
+    {
+      "word": "settlement",
+      "spelling": "S, E, T, T, L, E, M, E, N, T",
+      "spoken_meaning": "名词，和解，结算",
+      "en": "Both parties reached a settlement before the hearing began.",
+      "zh": "双方在听证会开始前达成了和解。"
+    },
+    {
+      "word": "appendix",
+      "spelling": "A, P, P, E, N, D, I, X",
+      "spoken_meaning": "名词，附录",
+      "en": "Detailed cost breakdowns appear in the appendix of the proposal.",
+      "zh": "详细的成本明细列在提案附录中。"
+    },
+    {
+      "word": "confidentiality",
+      "spelling": "C, O, N, F, I, D, E, N, T, I, A, L, I, T, Y",
+      "spoken_meaning": "名词，保密，机密性",
+      "en": "All interns must sign a confidentiality agreement on their first day.",
+      "zh": "所有实习生必须在入职第一天签署保密协议。"
+    },
+    {
+      "word": "notarize",
+      "spelling": "N, O, T, A, R, I, Z, E",
+      "spoken_meaning": "动词，公证，由公证人认证",
+      "en": "Please notarize the power of attorney before mailing it to the bank.",
+      "zh": "请将授权书公证后再寄给银行。"
+    },
+    {
+      "word": "certify",
+      "spelling": "C, E, R, T, I, F, Y",
+      "spoken_meaning": "动词，证明，认证",
+      "en": "The quality manager must certify that each batch meets the specification.",
+      "zh": "质量经理必须证明每一批次都符合规格。"
+    },
+    {
+      "word": "attest",
+      "spelling": "A, T, T, E, S, T",
+      "spoken_meaning": "动词，证明，作证",
+      "en": "Two witnesses must attest to the director's signature on the deed.",
+      "zh": "必须有两名见证人证明董事在契据上的签字。"
+    },
+    {
+      "word": "amortization",
+      "spelling": "A, M, O, R, T, I, Z, A, T, I, O, N",
+      "spoken_meaning": "名词，摊销，分期偿还",
+      "en": "The amortization of the software license is spread over three years.",
+      "zh": "该软件许可的摊销分三年进行。"
+    },
+    {
+      "word": "accountant",
+      "spelling": "A, C, C, O, U, N, T, A, N, T",
+      "spoken_meaning": "名词，会计师，会计",
+      "en": "Please send the receipts to the accountant by Monday morning.",
+      "zh": "请在周一上午前把收据交给会计。"
+    },
+    {
+      "word": "accounting",
+      "spelling": "A, C, C, O, U, N, T, I, N, G",
+      "spoken_meaning": "名词，会计，会计核算",
+      "en": "The accounting team closes the books on the fifth business day.",
+      "zh": "会计团队在第五个工作日完成结账。"
+    },
+    {
+      "word": "advertisement",
+      "spelling": "A, D, V, E, R, T, I, S, E, M, E, N, T",
+      "spoken_meaning": "名词，广告",
+      "en": "The job advertisement will run in the trade journal for two weeks.",
+      "zh": "这则招聘广告将在行业期刊上刊登两周。"
+    },
+    {
+      "word": "advertising",
+      "spelling": "A, D, V, E, R, T, I, S, I, N, G",
+      "spoken_meaning": "名词，广告活动，广告业",
+      "en": "Our advertising budget for the product launch has been approved.",
+      "zh": "产品发布的广告预算已经获批。"
+    },
+    {
+      "word": "advisor",
+      "spelling": "A, D, V, I, S, O, R",
+      "spoken_meaning": "名词，顾问，咨询师",
+      "en": "A tax advisor will review the overseas subsidiary's filings.",
+      "zh": "税务顾问将审核海外子公司的申报材料。"
+    },
+    {
+      "word": "advisory",
+      "spelling": "A, D, V, I, S, O, R, Y",
+      "spoken_meaning": "形容词或名词，顾问的，咨询意见",
+      "en": "An advisory committee will recommend a new travel policy.",
+      "zh": "顾问委员会将建议一项新的差旅政策。"
+    },
+    {
+      "word": "airline",
+      "spelling": "A, I, R, L, I, N, E",
+      "spoken_meaning": "名词，航空公司",
+      "en": "The airline offered a later flight after our connection was cancelled.",
+      "zh": "衔接航班取消后，航空公司为我们安排了较晚的航班。"
+    },
+    {
+      "word": "aircraft",
+      "spelling": "A, I, R, C, R, A, F, T",
+      "spoken_meaning": "名词，飞机，航空器",
+      "en": "The cargo aircraft can carry the oversized machinery in one shipment.",
+      "zh": "这架货运飞机可以一次运走超大机械设备。"
+    },
+    {
+      "word": "air-conditioning",
+      "spelling": "A, I, R, hyphen, C, O, N, D, I, T, I, O, N, I, N, G",
+      "spoken_meaning": "名词，空调，空气调节",
+      "en": "Please report any air-conditioning problems to building maintenance.",
+      "zh": "如空调出现问题，请向楼宇维修部门报告。"
+    },
+    {
+      "word": "calculator",
+      "spelling": "C, A, L, C, U, L, A, T, O, R",
+      "spoken_meaning": "名词，计算器",
+      "en": "Bring a calculator to the budget workshop on Thursday.",
+      "zh": "周四的预算研讨请带上计算器。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第55轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "copier",
+      "voice": "en",
+      "text": "copier",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "copier",
+      "voice": "en",
+      "text": "C, O, P, I, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "copier",
+      "voice": "zh",
+      "text": "名词，复印机",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "copier",
+      "voice": "en",
+      "text": "The copier on the third floor is out of toner again.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "copier",
+      "voice": "zh",
+      "text": "三楼的复印机又没碳粉了。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stapler",
+      "voice": "en",
+      "text": "stapler",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stapler",
+      "voice": "en",
+      "text": "S, T, A, P, L, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stapler",
+      "voice": "zh",
+      "text": "名词，订书机",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stapler",
+      "voice": "en",
+      "text": "Please leave the stapler and spare staples at the reception desk.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stapler",
+      "voice": "zh",
+      "text": "请把订书机和备用订书钉放在前台。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "shredder",
+      "voice": "en",
+      "text": "shredder",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "shredder",
+      "voice": "en",
+      "text": "S, H, R, E, D, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "shredder",
+      "voice": "zh",
+      "text": "名词，碎纸机",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "shredder",
+      "voice": "en",
+      "text": "Confidential drafts should go into the shredder, not the recycling bin.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "shredder",
+      "voice": "zh",
+      "text": "机密草稿应放入碎纸机，不要丢进回收箱。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "clipboard",
+      "voice": "en",
+      "text": "clipboard",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "clipboard",
+      "voice": "en",
+      "text": "C, L, I, P, B, O, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "clipboard",
+      "voice": "zh",
+      "text": "名词，写字夹板，剪贴板",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "clipboard",
+      "voice": "en",
+      "text": "The inspector carried a clipboard to record warehouse temperatures.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "clipboard",
+      "voice": "zh",
+      "text": "检查员拿着写字夹板记录仓库温度。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "trainee",
+      "voice": "en",
+      "text": "trainee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "trainee",
+      "voice": "en",
+      "text": "T, R, A, I, N, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "trainee",
+      "voice": "zh",
+      "text": "名词，实习生，受训人员",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "trainee",
+      "voice": "en",
+      "text": "Each trainee will shadow a senior associate for the first month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "trainee",
+      "voice": "zh",
+      "text": "每位实习生第一个月都将跟随一名资深同事见习。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "freelancer",
+      "voice": "en",
+      "text": "freelancer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "freelancer",
+      "voice": "en",
+      "text": "F, R, E, E, L, A, N, C, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "freelancer",
+      "voice": "zh",
+      "text": "名词，自由职业者，兼职创作者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "freelancer",
+      "voice": "en",
+      "text": "We hired a freelancer to redesign the product brochure.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "freelancer",
+      "voice": "zh",
+      "text": "我们请了一位自由职业者重新设计产品手册。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "outsourcing",
+      "voice": "en",
+      "text": "outsourcing",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "outsourcing",
+      "voice": "en",
+      "text": "O, U, T, S, O, U, R, C, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "outsourcing",
+      "voice": "zh",
+      "text": "名词，外包",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "outsourcing",
+      "voice": "en",
+      "text": "Outsourcing payroll has reduced our administrative workload.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "outsourcing",
+      "voice": "zh",
+      "text": "把工资核算外包后，我们的行政工作量减轻了。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "insourcing",
+      "voice": "en",
+      "text": "insourcing",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "insourcing",
+      "voice": "en",
+      "text": "I, N, S, O, U, R, C, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "insourcing",
+      "voice": "zh",
+      "text": "名词，内包，收回自营",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "insourcing",
+      "voice": "en",
+      "text": "The board is considering insourcing customer support next year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "insourcing",
+      "voice": "zh",
+      "text": "董事会正在考虑明年把客户支持收回自营。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "subcontractor",
+      "voice": "en",
+      "text": "subcontractor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "subcontractor",
+      "voice": "en",
+      "text": "S, U, B, C, O, N, T, R, A, C, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "subcontractor",
+      "voice": "zh",
+      "text": "名词，分包商",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "subcontractor",
+      "voice": "en",
+      "text": "The general contractor must ensure every subcontractor carries insurance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "subcontractor",
+      "voice": "zh",
+      "text": "总包商必须确保每位分包商都有保险。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "wholesaler",
+      "voice": "en",
+      "text": "wholesaler",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "wholesaler",
+      "voice": "en",
+      "text": "W, H, O, L, E, S, A, L, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "wholesaler",
+      "voice": "zh",
+      "text": "名词，批发商",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "wholesaler",
+      "voice": "en",
+      "text": "The wholesaler can deliver pallets to regional stores within two days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "wholesaler",
+      "voice": "zh",
+      "text": "该批发商可在两天内把整托货物送到区域门店。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "retailer",
+      "voice": "en",
+      "text": "retailer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "retailer",
+      "voice": "en",
+      "text": "R, E, T, A, I, L, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "retailer",
+      "voice": "zh",
+      "text": "名词，零售商",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "retailer",
+      "voice": "en",
+      "text": "The retailer asked for a lower wholesale price on the holiday collection.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "retailer",
+      "voice": "zh",
+      "text": "这家零售商要求下调节日系列的批发价。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "copyright",
+      "voice": "en",
+      "text": "copyright",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "copyright",
+      "voice": "en",
+      "text": "C, O, P, Y, R, I, G, H, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "copyright",
+      "voice": "zh",
+      "text": "名词，版权，著作权",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "copyright",
+      "voice": "en",
+      "text": "Do not use the photographs until the copyright transfer is signed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "copyright",
+      "voice": "zh",
+      "text": "在版权转让文件签署前，请勿使用这些照片。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "infringement",
+      "voice": "en",
+      "text": "infringement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "infringement",
+      "voice": "en",
+      "text": "I, N, F, R, I, N, G, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "infringement",
+      "voice": "zh",
+      "text": "名词，侵权，违反",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "infringement",
+      "voice": "en",
+      "text": "The letter alleges infringement of the company's registered trademark.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "infringement",
+      "voice": "zh",
+      "text": "该函声称对方侵犯了公司的注册商标。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "settlement",
+      "voice": "en",
+      "text": "settlement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "settlement",
+      "voice": "en",
+      "text": "S, E, T, T, L, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "settlement",
+      "voice": "zh",
+      "text": "名词，和解，结算",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "settlement",
+      "voice": "en",
+      "text": "Both parties reached a settlement before the hearing began.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "settlement",
+      "voice": "zh",
+      "text": "双方在听证会开始前达成了和解。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "appendix",
+      "voice": "en",
+      "text": "appendix",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "appendix",
+      "voice": "en",
+      "text": "A, P, P, E, N, D, I, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "appendix",
+      "voice": "zh",
+      "text": "名词，附录",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "appendix",
+      "voice": "en",
+      "text": "Detailed cost breakdowns appear in the appendix of the proposal.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "appendix",
+      "voice": "zh",
+      "text": "详细的成本明细列在提案附录中。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "confidentiality",
+      "voice": "en",
+      "text": "confidentiality",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "confidentiality",
+      "voice": "en",
+      "text": "C, O, N, F, I, D, E, N, T, I, A, L, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "confidentiality",
+      "voice": "zh",
+      "text": "名词，保密，机密性",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "confidentiality",
+      "voice": "en",
+      "text": "All interns must sign a confidentiality agreement on their first day.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "confidentiality",
+      "voice": "zh",
+      "text": "所有实习生必须在入职第一天签署保密协议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "notarize",
+      "voice": "en",
+      "text": "notarize",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "notarize",
+      "voice": "en",
+      "text": "N, O, T, A, R, I, Z, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "notarize",
+      "voice": "zh",
+      "text": "动词，公证，由公证人认证",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "notarize",
+      "voice": "en",
+      "text": "Please notarize the power of attorney before mailing it to the bank.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "notarize",
+      "voice": "zh",
+      "text": "请将授权书公证后再寄给银行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "certify",
+      "voice": "en",
+      "text": "certify",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "certify",
+      "voice": "en",
+      "text": "C, E, R, T, I, F, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "certify",
+      "voice": "zh",
+      "text": "动词，证明，认证",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "certify",
+      "voice": "en",
+      "text": "The quality manager must certify that each batch meets the specification.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "certify",
+      "voice": "zh",
+      "text": "质量经理必须证明每一批次都符合规格。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "attest",
+      "voice": "en",
+      "text": "attest",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "attest",
+      "voice": "en",
+      "text": "A, T, T, E, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "attest",
+      "voice": "zh",
+      "text": "动词，证明，作证",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "attest",
+      "voice": "en",
+      "text": "Two witnesses must attest to the director's signature on the deed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "attest",
+      "voice": "zh",
+      "text": "必须有两名见证人证明董事在契据上的签字。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "amortization",
+      "voice": "en",
+      "text": "amortization",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "amortization",
+      "voice": "en",
+      "text": "A, M, O, R, T, I, Z, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "amortization",
+      "voice": "zh",
+      "text": "名词，摊销，分期偿还",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "amortization",
+      "voice": "en",
+      "text": "The amortization of the software license is spread over three years.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "amortization",
+      "voice": "zh",
+      "text": "该软件许可的摊销分三年进行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "accountant",
+      "voice": "en",
+      "text": "accountant",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "accountant",
+      "voice": "en",
+      "text": "A, C, C, O, U, N, T, A, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "accountant",
+      "voice": "zh",
+      "text": "名词，会计师，会计",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "accountant",
+      "voice": "en",
+      "text": "Please send the receipts to the accountant by Monday morning.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "accountant",
+      "voice": "zh",
+      "text": "请在周一上午前把收据交给会计。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "accounting",
+      "voice": "en",
+      "text": "accounting",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "accounting",
+      "voice": "en",
+      "text": "A, C, C, O, U, N, T, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "accounting",
+      "voice": "zh",
+      "text": "名词，会计，会计核算",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "accounting",
+      "voice": "en",
+      "text": "The accounting team closes the books on the fifth business day.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "accounting",
+      "voice": "zh",
+      "text": "会计团队在第五个工作日完成结账。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "advertisement",
+      "voice": "en",
+      "text": "advertisement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "advertisement",
+      "voice": "en",
+      "text": "A, D, V, E, R, T, I, S, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "advertisement",
+      "voice": "zh",
+      "text": "名词，广告",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "advertisement",
+      "voice": "en",
+      "text": "The job advertisement will run in the trade journal for two weeks.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "advertisement",
+      "voice": "zh",
+      "text": "这则招聘广告将在行业期刊上刊登两周。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "advertising",
+      "voice": "en",
+      "text": "advertising",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "advertising",
+      "voice": "en",
+      "text": "A, D, V, E, R, T, I, S, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "advertising",
+      "voice": "zh",
+      "text": "名词，广告活动，广告业",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "advertising",
+      "voice": "en",
+      "text": "Our advertising budget for the product launch has been approved.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "advertising",
+      "voice": "zh",
+      "text": "产品发布的广告预算已经获批。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "advisor",
+      "voice": "en",
+      "text": "advisor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "advisor",
+      "voice": "en",
+      "text": "A, D, V, I, S, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "advisor",
+      "voice": "zh",
+      "text": "名词，顾问，咨询师",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "advisor",
+      "voice": "en",
+      "text": "A tax advisor will review the overseas subsidiary's filings.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "advisor",
+      "voice": "zh",
+      "text": "税务顾问将审核海外子公司的申报材料。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "advisory",
+      "voice": "en",
+      "text": "advisory",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "advisory",
+      "voice": "en",
+      "text": "A, D, V, I, S, O, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "advisory",
+      "voice": "zh",
+      "text": "形容词或名词，顾问的，咨询意见",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "advisory",
+      "voice": "en",
+      "text": "An advisory committee will recommend a new travel policy.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "advisory",
+      "voice": "zh",
+      "text": "顾问委员会将建议一项新的差旅政策。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "airline",
+      "voice": "en",
+      "text": "airline",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "airline",
+      "voice": "en",
+      "text": "A, I, R, L, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "airline",
+      "voice": "zh",
+      "text": "名词，航空公司",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "airline",
+      "voice": "en",
+      "text": "The airline offered a later flight after our connection was cancelled.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "airline",
+      "voice": "zh",
+      "text": "衔接航班取消后，航空公司为我们安排了较晚的航班。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "aircraft",
+      "voice": "en",
+      "text": "aircraft",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "aircraft",
+      "voice": "en",
+      "text": "A, I, R, C, R, A, F, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "aircraft",
+      "voice": "zh",
+      "text": "名词，飞机，航空器",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "aircraft",
+      "voice": "en",
+      "text": "The cargo aircraft can carry the oversized machinery in one shipment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "aircraft",
+      "voice": "zh",
+      "text": "这架货运飞机可以一次运走超大机械设备。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "air-conditioning",
+      "voice": "en",
+      "text": "air conditioning",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "air-conditioning",
+      "voice": "en",
+      "text": "A, I, R, hyphen, C, O, N, D, I, T, I, O, N, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "air-conditioning",
+      "voice": "zh",
+      "text": "名词，空调，空气调节",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "air-conditioning",
+      "voice": "en",
+      "text": "Please report any air-conditioning problems to building maintenance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "air-conditioning",
+      "voice": "zh",
+      "text": "如空调出现问题，请向楼宇维修部门报告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "calculator",
+      "voice": "en",
+      "text": "calculator",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "calculator",
+      "voice": "en",
+      "text": "C, A, L, C, U, L, A, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "calculator",
+      "voice": "zh",
+      "text": "名词，计算器",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "calculator",
+      "voice": "en",
+      "text": "Bring a calculator to the budget workshop on Thursday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "calculator",
+      "voice": "zh",
+      "text": "周四的预算研讨请带上计算器。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第55轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

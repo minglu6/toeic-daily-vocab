@@ -1,0 +1,1314 @@
+{
+  "id": "056",
+  "track": 56,
+  "title": "第 56 轨",
+  "word_count": 30,
+  "headwords": [
+    "receptionist",
+    "lobby",
+    "lounge",
+    "hallway",
+    "restroom",
+    "folder",
+    "highlighter",
+    "printer",
+    "fax",
+    "inbox",
+    "outbox",
+    "attachment",
+    "cc",
+    "bcc",
+    "subject-line",
+    "thread",
+    "reply-all",
+    "circular",
+    "flyer",
+    "leaflet",
+    "envelope",
+    "postage",
+    "mailbox",
+    "postage-meter",
+    "registered-mail",
+    "certified-mail",
+    "return-receipt",
+    "tracking-number",
+    "waybill",
+    "air-waybill"
+  ],
+  "entries": [
+    {
+      "word": "receptionist",
+      "spelling": "R, E, C, E, P, T, I, O, N, I, S, T",
+      "spoken_meaning": "名词，接待员，前台",
+      "en": "The receptionist will issue visitor badges in the lobby.",
+      "zh": "前台接待员将在大厅发放访客证。"
+    },
+    {
+      "word": "lobby",
+      "spelling": "L, O, B, B, Y",
+      "spoken_meaning": "名词，大厅，门厅",
+      "en": "Guests should wait in the lobby until their host arrives.",
+      "zh": "访客应在大厅等候接待人到来。"
+    },
+    {
+      "word": "lounge",
+      "spelling": "L, O, U, N, G, E",
+      "spoken_meaning": "名词，休息室，候机室",
+      "en": "The departure lounge has power outlets near every seating area.",
+      "zh": "出发休息室每个座位区附近都有电源插座。"
+    },
+    {
+      "word": "hallway",
+      "spelling": "H, A, L, L, W, A, Y",
+      "spoken_meaning": "名词，走廊，过道",
+      "en": "Fire exits at both ends of the hallway must remain clear.",
+      "zh": "走廊两端的消防出口必须保持畅通。"
+    },
+    {
+      "word": "restroom",
+      "spelling": "R, E, S, T, R, O, O, M",
+      "spoken_meaning": "名词，洗手间",
+      "en": "The restroom on this floor is temporarily closed for maintenance.",
+      "zh": "本层洗手间因维修暂时关闭。"
+    },
+    {
+      "word": "folder",
+      "spelling": "F, O, L, D, E, R",
+      "spoken_meaning": "名词，文件夹",
+      "en": "Please put the signed contracts in the blue folder on my desk.",
+      "zh": "请把已签字的合同放进我桌上的蓝色文件夹。"
+    },
+    {
+      "word": "highlighter",
+      "spelling": "H, I, G, H, L, I, G, H, T, E, R",
+      "spoken_meaning": "名词，荧光笔",
+      "en": "Use a highlighter to mark revised clauses in the contract.",
+      "zh": "请用荧光笔标出合同中修订过的条款。"
+    },
+    {
+      "word": "printer",
+      "spelling": "P, R, I, N, T, E, R",
+      "spoken_meaning": "名词，打印机",
+      "en": "The network printer is offline until the technician replaces the drum.",
+      "zh": "在技术员更换硒鼓之前，网络打印机将处于脱机状态。"
+    },
+    {
+      "word": "fax",
+      "spelling": "F, A, X",
+      "spoken_meaning": "名词或动词，传真，发传真",
+      "en": "If email is down, fax the purchase order to the supplier.",
+      "zh": "如果电子邮件无法使用，请把采购订单传真给供应商。"
+    },
+    {
+      "word": "inbox",
+      "spelling": "I, N, B, O, X",
+      "spoken_meaning": "名词，收件箱",
+      "en": "Please check your inbox for the revised travel itinerary.",
+      "zh": "请查看收件箱中的修订版行程。"
+    },
+    {
+      "word": "outbox",
+      "spelling": "O, U, T, B, O, X",
+      "spoken_meaning": "名词，发件箱",
+      "en": "The message is still in the outbox because the server is busy.",
+      "zh": "由于服务器繁忙，该邮件仍在发件箱中。"
+    },
+    {
+      "word": "attachment",
+      "spelling": "A, T, T, A, C, H, M, E, N, T",
+      "spoken_meaning": "名词，附件",
+      "en": "The price list is in the attachment, not in the body of the email.",
+      "zh": "价目表在附件里，不在邮件正文中。"
+    },
+    {
+      "word": "cc",
+      "spelling": "C, C",
+      "spoken_meaning": "名词或动词，抄送",
+      "en": "Please cc the project sponsor on all budget change requests.",
+      "zh": "所有预算变更申请请抄送项目发起人。"
+    },
+    {
+      "word": "bcc",
+      "spelling": "B, C, C",
+      "spoken_meaning": "名词或动词，密送",
+      "en": "Use bcc when writing to a large group of external guests.",
+      "zh": "给大批外部来宾写信时请使用密送。"
+    },
+    {
+      "word": "subject-line",
+      "spelling": "S, U, B, J, E, C, T, hyphen, L, I, N, E",
+      "spoken_meaning": "名词，邮件主题行",
+      "en": "A clear subject-line helps the finance team file the request quickly.",
+      "zh": "清晰的主题行有助于财务团队迅速归档申请。"
+    },
+    {
+      "word": "thread",
+      "spelling": "T, H, R, E, A, D",
+      "spoken_meaning": "名词，邮件对话串，线程",
+      "en": "Please keep the discussion in the same email thread.",
+      "zh": "请把讨论留在同一封邮件对话串里。"
+    },
+    {
+      "word": "reply-all",
+      "spelling": "R, E, P, L, Y, hyphen, A, L, L",
+      "spoken_meaning": "动词或名词，全部回复",
+      "en": "Avoid reply-all unless everyone on the copy list needs the update.",
+      "zh": "除非抄送名单上的每个人都需要了解进展，否则不要全部回复。"
+    },
+    {
+      "word": "circular",
+      "spelling": "C, I, R, C, U, L, A, R",
+      "spoken_meaning": "名词，传阅通知，通函",
+      "en": "A circular was sent to all branches about the holiday opening hours.",
+      "zh": "已向各分店发出关于节日营业时间的通函。"
+    },
+    {
+      "word": "flyer",
+      "spelling": "F, L, Y, E, R",
+      "spoken_meaning": "名词，传单，广告单",
+      "en": "Please put a stack of flyers next to the registration desk.",
+      "zh": "请在登记台旁边放一叠传单。"
+    },
+    {
+      "word": "leaflet",
+      "spelling": "L, E, A, F, L, E, T",
+      "spoken_meaning": "名词，单页传单，说明书",
+      "en": "A safety leaflet is included with every power tool.",
+      "zh": "每件电动工具都附有一份安全说明单页。"
+    },
+    {
+      "word": "envelope",
+      "spelling": "E, N, V, E, L, O, P, E",
+      "spoken_meaning": "名词，信封",
+      "en": "Please seal the confidential papers in a plain envelope.",
+      "zh": "请把机密文件装进空白信封并封好。"
+    },
+    {
+      "word": "postage",
+      "spelling": "P, O, S, T, A, G, E",
+      "spoken_meaning": "名词，邮资",
+      "en": "Overnight postage for the samples will be billed to the client.",
+      "zh": "样品的隔夜邮资将向客户收取。"
+    },
+    {
+      "word": "mailbox",
+      "spelling": "M, A, I, L, B, O, X",
+      "spoken_meaning": "名词，邮箱，信箱",
+      "en": "Checks should be dropped in the locked mailbox by the finance office.",
+      "zh": "支票请投入财务办公室旁上锁的信箱。"
+    },
+    {
+      "word": "postage-meter",
+      "spelling": "P, O, S, T, A, G, E, hyphen, M, E, T, E, R",
+      "spoken_meaning": "名词，邮资机",
+      "en": "The postage-meter needs a new ink cartridge before the mailing.",
+      "zh": "这次邮寄前，邮资机需要更换墨盒。"
+    },
+    {
+      "word": "registered-mail",
+      "spelling": "R, E, G, I, S, T, E, R, E, D, hyphen, M, A, I, L",
+      "spoken_meaning": "名词，挂号邮件",
+      "en": "Send the original certificates by registered-mail, not by regular post.",
+      "zh": "原件证书请用挂号邮件寄送，不要用普通平邮。"
+    },
+    {
+      "word": "certified-mail",
+      "spelling": "C, E, R, T, I, F, I, E, D, hyphen, M, A, I, L",
+      "spoken_meaning": "名词，保证邮件，签收邮件",
+      "en": "The termination notice was sent by certified-mail with a return receipt.",
+      "zh": "解约通知已通过保证邮件寄出，并要求回执。"
+    },
+    {
+      "word": "return-receipt",
+      "spelling": "R, E, T, U, R, N, hyphen, R, E, C, E, I, P, T",
+      "spoken_meaning": "名词，回执，签收证明",
+      "en": "Request a return-receipt so we can confirm the client received the contract.",
+      "zh": "请索取回执，以便确认客户已收到合同。"
+    },
+    {
+      "word": "tracking-number",
+      "spelling": "T, R, A, C, K, I, N, G, hyphen, N, U, M, B, E, R",
+      "spoken_meaning": "名词，运单号，物流跟踪号",
+      "en": "Please send me the tracking-number as soon as the shipment leaves the warehouse.",
+      "zh": "货物一离开仓库，请立刻把运单号发给我。"
+    },
+    {
+      "word": "waybill",
+      "spelling": "W, A, Y, B, I, L, L",
+      "spoken_meaning": "名词，运单",
+      "en": "The driver cannot unload the goods without a signed waybill.",
+      "zh": "没有已签字的运单，司机不能卸货。"
+    },
+    {
+      "word": "air-waybill",
+      "spelling": "A, I, R, hyphen, W, A, Y, B, I, L, L",
+      "spoken_meaning": "名词，航空运单",
+      "en": "The air-waybill number is required for the customs declaration.",
+      "zh": "办理报关需要航空运单号。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第56轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "receptionist",
+      "voice": "en",
+      "text": "receptionist",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "receptionist",
+      "voice": "en",
+      "text": "R, E, C, E, P, T, I, O, N, I, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "receptionist",
+      "voice": "zh",
+      "text": "名词，接待员，前台",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "receptionist",
+      "voice": "en",
+      "text": "The receptionist will issue visitor badges in the lobby.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "receptionist",
+      "voice": "zh",
+      "text": "前台接待员将在大厅发放访客证。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lobby",
+      "voice": "en",
+      "text": "lobby",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lobby",
+      "voice": "en",
+      "text": "L, O, B, B, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lobby",
+      "voice": "zh",
+      "text": "名词，大厅，门厅",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lobby",
+      "voice": "en",
+      "text": "Guests should wait in the lobby until their host arrives.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lobby",
+      "voice": "zh",
+      "text": "访客应在大厅等候接待人到来。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lounge",
+      "voice": "en",
+      "text": "lounge",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lounge",
+      "voice": "en",
+      "text": "L, O, U, N, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lounge",
+      "voice": "zh",
+      "text": "名词，休息室，候机室",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lounge",
+      "voice": "en",
+      "text": "The departure lounge has power outlets near every seating area.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lounge",
+      "voice": "zh",
+      "text": "出发休息室每个座位区附近都有电源插座。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hallway",
+      "voice": "en",
+      "text": "hallway",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hallway",
+      "voice": "en",
+      "text": "H, A, L, L, W, A, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hallway",
+      "voice": "zh",
+      "text": "名词，走廊，过道",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hallway",
+      "voice": "en",
+      "text": "Fire exits at both ends of the hallway must remain clear.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hallway",
+      "voice": "zh",
+      "text": "走廊两端的消防出口必须保持畅通。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "restroom",
+      "voice": "en",
+      "text": "restroom",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "restroom",
+      "voice": "en",
+      "text": "R, E, S, T, R, O, O, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "restroom",
+      "voice": "zh",
+      "text": "名词，洗手间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "restroom",
+      "voice": "en",
+      "text": "The restroom on this floor is temporarily closed for maintenance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "restroom",
+      "voice": "zh",
+      "text": "本层洗手间因维修暂时关闭。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "folder",
+      "voice": "en",
+      "text": "folder",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "folder",
+      "voice": "en",
+      "text": "F, O, L, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "folder",
+      "voice": "zh",
+      "text": "名词，文件夹",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "folder",
+      "voice": "en",
+      "text": "Please put the signed contracts in the blue folder on my desk.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "folder",
+      "voice": "zh",
+      "text": "请把已签字的合同放进我桌上的蓝色文件夹。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "highlighter",
+      "voice": "en",
+      "text": "highlighter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "highlighter",
+      "voice": "en",
+      "text": "H, I, G, H, L, I, G, H, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "highlighter",
+      "voice": "zh",
+      "text": "名词，荧光笔",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "highlighter",
+      "voice": "en",
+      "text": "Use a highlighter to mark revised clauses in the contract.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "highlighter",
+      "voice": "zh",
+      "text": "请用荧光笔标出合同中修订过的条款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "printer",
+      "voice": "en",
+      "text": "printer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "printer",
+      "voice": "en",
+      "text": "P, R, I, N, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "printer",
+      "voice": "zh",
+      "text": "名词，打印机",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "printer",
+      "voice": "en",
+      "text": "The network printer is offline until the technician replaces the drum.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "printer",
+      "voice": "zh",
+      "text": "在技术员更换硒鼓之前，网络打印机将处于脱机状态。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fax",
+      "voice": "en",
+      "text": "fax",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fax",
+      "voice": "en",
+      "text": "F, A, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fax",
+      "voice": "zh",
+      "text": "名词或动词，传真，发传真",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fax",
+      "voice": "en",
+      "text": "If email is down, fax the purchase order to the supplier.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fax",
+      "voice": "zh",
+      "text": "如果电子邮件无法使用，请把采购订单传真给供应商。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "inbox",
+      "voice": "en",
+      "text": "inbox",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "inbox",
+      "voice": "en",
+      "text": "I, N, B, O, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "inbox",
+      "voice": "zh",
+      "text": "名词，收件箱",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "inbox",
+      "voice": "en",
+      "text": "Please check your inbox for the revised travel itinerary.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "inbox",
+      "voice": "zh",
+      "text": "请查看收件箱中的修订版行程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "outbox",
+      "voice": "en",
+      "text": "outbox",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "outbox",
+      "voice": "en",
+      "text": "O, U, T, B, O, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "outbox",
+      "voice": "zh",
+      "text": "名词，发件箱",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "outbox",
+      "voice": "en",
+      "text": "The message is still in the outbox because the server is busy.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "outbox",
+      "voice": "zh",
+      "text": "由于服务器繁忙，该邮件仍在发件箱中。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "attachment",
+      "voice": "en",
+      "text": "attachment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "attachment",
+      "voice": "en",
+      "text": "A, T, T, A, C, H, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "attachment",
+      "voice": "zh",
+      "text": "名词，附件",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "attachment",
+      "voice": "en",
+      "text": "The price list is in the attachment, not in the body of the email.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "attachment",
+      "voice": "zh",
+      "text": "价目表在附件里，不在邮件正文中。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cc",
+      "voice": "en",
+      "text": "cc",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cc",
+      "voice": "en",
+      "text": "C, C",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cc",
+      "voice": "zh",
+      "text": "名词或动词，抄送",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cc",
+      "voice": "en",
+      "text": "Please cc the project sponsor on all budget change requests.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cc",
+      "voice": "zh",
+      "text": "所有预算变更申请请抄送项目发起人。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bcc",
+      "voice": "en",
+      "text": "bcc",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bcc",
+      "voice": "en",
+      "text": "B, C, C",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bcc",
+      "voice": "zh",
+      "text": "名词或动词，密送",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bcc",
+      "voice": "en",
+      "text": "Use bcc when writing to a large group of external guests.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bcc",
+      "voice": "zh",
+      "text": "给大批外部来宾写信时请使用密送。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "subject-line",
+      "voice": "en",
+      "text": "subject line",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "subject-line",
+      "voice": "en",
+      "text": "S, U, B, J, E, C, T, hyphen, L, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "subject-line",
+      "voice": "zh",
+      "text": "名词，邮件主题行",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "subject-line",
+      "voice": "en",
+      "text": "A clear subject-line helps the finance team file the request quickly.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "subject-line",
+      "voice": "zh",
+      "text": "清晰的主题行有助于财务团队迅速归档申请。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "thread",
+      "voice": "en",
+      "text": "thread",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "thread",
+      "voice": "en",
+      "text": "T, H, R, E, A, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "thread",
+      "voice": "zh",
+      "text": "名词，邮件对话串，线程",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "thread",
+      "voice": "en",
+      "text": "Please keep the discussion in the same email thread.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "thread",
+      "voice": "zh",
+      "text": "请把讨论留在同一封邮件对话串里。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reply-all",
+      "voice": "en",
+      "text": "reply all",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reply-all",
+      "voice": "en",
+      "text": "R, E, P, L, Y, hyphen, A, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reply-all",
+      "voice": "zh",
+      "text": "动词或名词，全部回复",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reply-all",
+      "voice": "en",
+      "text": "Avoid reply-all unless everyone on the copy list needs the update.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reply-all",
+      "voice": "zh",
+      "text": "除非抄送名单上的每个人都需要了解进展，否则不要全部回复。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "circular",
+      "voice": "en",
+      "text": "circular",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "circular",
+      "voice": "en",
+      "text": "C, I, R, C, U, L, A, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "circular",
+      "voice": "zh",
+      "text": "名词，传阅通知，通函",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "circular",
+      "voice": "en",
+      "text": "A circular was sent to all branches about the holiday opening hours.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "circular",
+      "voice": "zh",
+      "text": "已向各分店发出关于节日营业时间的通函。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "flyer",
+      "voice": "en",
+      "text": "flyer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "flyer",
+      "voice": "en",
+      "text": "F, L, Y, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "flyer",
+      "voice": "zh",
+      "text": "名词，传单，广告单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "flyer",
+      "voice": "en",
+      "text": "Please put a stack of flyers next to the registration desk.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "flyer",
+      "voice": "zh",
+      "text": "请在登记台旁边放一叠传单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "leaflet",
+      "voice": "en",
+      "text": "leaflet",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "leaflet",
+      "voice": "en",
+      "text": "L, E, A, F, L, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "leaflet",
+      "voice": "zh",
+      "text": "名词，单页传单，说明书",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "leaflet",
+      "voice": "en",
+      "text": "A safety leaflet is included with every power tool.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "leaflet",
+      "voice": "zh",
+      "text": "每件电动工具都附有一份安全说明单页。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "envelope",
+      "voice": "en",
+      "text": "envelope",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "envelope",
+      "voice": "en",
+      "text": "E, N, V, E, L, O, P, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "envelope",
+      "voice": "zh",
+      "text": "名词，信封",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "envelope",
+      "voice": "en",
+      "text": "Please seal the confidential papers in a plain envelope.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "envelope",
+      "voice": "zh",
+      "text": "请把机密文件装进空白信封并封好。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "postage",
+      "voice": "en",
+      "text": "postage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "postage",
+      "voice": "en",
+      "text": "P, O, S, T, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "postage",
+      "voice": "zh",
+      "text": "名词，邮资",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "postage",
+      "voice": "en",
+      "text": "Overnight postage for the samples will be billed to the client.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "postage",
+      "voice": "zh",
+      "text": "样品的隔夜邮资将向客户收取。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mailbox",
+      "voice": "en",
+      "text": "mailbox",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mailbox",
+      "voice": "en",
+      "text": "M, A, I, L, B, O, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mailbox",
+      "voice": "zh",
+      "text": "名词，邮箱，信箱",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mailbox",
+      "voice": "en",
+      "text": "Checks should be dropped in the locked mailbox by the finance office.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mailbox",
+      "voice": "zh",
+      "text": "支票请投入财务办公室旁上锁的信箱。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "postage-meter",
+      "voice": "en",
+      "text": "postage meter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "postage-meter",
+      "voice": "en",
+      "text": "P, O, S, T, A, G, E, hyphen, M, E, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "postage-meter",
+      "voice": "zh",
+      "text": "名词，邮资机",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "postage-meter",
+      "voice": "en",
+      "text": "The postage-meter needs a new ink cartridge before the mailing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "postage-meter",
+      "voice": "zh",
+      "text": "这次邮寄前，邮资机需要更换墨盒。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "registered-mail",
+      "voice": "en",
+      "text": "registered mail",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "registered-mail",
+      "voice": "en",
+      "text": "R, E, G, I, S, T, E, R, E, D, hyphen, M, A, I, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "registered-mail",
+      "voice": "zh",
+      "text": "名词，挂号邮件",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "registered-mail",
+      "voice": "en",
+      "text": "Send the original certificates by registered-mail, not by regular post.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "registered-mail",
+      "voice": "zh",
+      "text": "原件证书请用挂号邮件寄送，不要用普通平邮。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "certified-mail",
+      "voice": "en",
+      "text": "certified mail",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "certified-mail",
+      "voice": "en",
+      "text": "C, E, R, T, I, F, I, E, D, hyphen, M, A, I, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "certified-mail",
+      "voice": "zh",
+      "text": "名词，保证邮件，签收邮件",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "certified-mail",
+      "voice": "en",
+      "text": "The termination notice was sent by certified-mail with a return receipt.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "certified-mail",
+      "voice": "zh",
+      "text": "解约通知已通过保证邮件寄出，并要求回执。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "return-receipt",
+      "voice": "en",
+      "text": "return receipt",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "return-receipt",
+      "voice": "en",
+      "text": "R, E, T, U, R, N, hyphen, R, E, C, E, I, P, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "return-receipt",
+      "voice": "zh",
+      "text": "名词，回执，签收证明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "return-receipt",
+      "voice": "en",
+      "text": "Request a return-receipt so we can confirm the client received the contract.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "return-receipt",
+      "voice": "zh",
+      "text": "请索取回执，以便确认客户已收到合同。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tracking-number",
+      "voice": "en",
+      "text": "tracking number",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tracking-number",
+      "voice": "en",
+      "text": "T, R, A, C, K, I, N, G, hyphen, N, U, M, B, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tracking-number",
+      "voice": "zh",
+      "text": "名词，运单号，物流跟踪号",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tracking-number",
+      "voice": "en",
+      "text": "Please send me the tracking-number as soon as the shipment leaves the warehouse.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tracking-number",
+      "voice": "zh",
+      "text": "货物一离开仓库，请立刻把运单号发给我。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "waybill",
+      "voice": "en",
+      "text": "waybill",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "waybill",
+      "voice": "en",
+      "text": "W, A, Y, B, I, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "waybill",
+      "voice": "zh",
+      "text": "名词，运单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "waybill",
+      "voice": "en",
+      "text": "The driver cannot unload the goods without a signed waybill.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "waybill",
+      "voice": "zh",
+      "text": "没有已签字的运单，司机不能卸货。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "air-waybill",
+      "voice": "en",
+      "text": "air waybill",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "air-waybill",
+      "voice": "en",
+      "text": "A, I, R, hyphen, W, A, Y, B, I, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "air-waybill",
+      "voice": "zh",
+      "text": "名词，航空运单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "air-waybill",
+      "voice": "en",
+      "text": "The air-waybill number is required for the customs declaration.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "air-waybill",
+      "voice": "zh",
+      "text": "办理报关需要航空运单号。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第56轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

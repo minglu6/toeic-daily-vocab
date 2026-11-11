@@ -1,0 +1,1314 @@
+{
+  "id": "096",
+  "track": 96,
+  "title": "第 96 轨",
+  "word_count": 30,
+  "headwords": [
+    "result",
+    "rise",
+    "run",
+    "set",
+    "show",
+    "single",
+    "size",
+    "solid",
+    "spend",
+    "split",
+    "stand",
+    "start",
+    "state",
+    "stay",
+    "step",
+    "stop",
+    "study",
+    "subject",
+    "surprise",
+    "table",
+    "text",
+    "theme",
+    "touch",
+    "cover",
+    "cost",
+    "job",
+    "item",
+    "list",
+    "need",
+    "note"
+  ],
+  "entries": [
+    {
+      "word": "result",
+      "spelling": "R, E, S, U, L, T",
+      "spoken_meaning": "名词或动词，结果，导致",
+      "en": "The inspection result will be emailed to the plant manager.",
+      "zh": "检验结果将通过电子邮件发给厂长。"
+    },
+    {
+      "word": "rise",
+      "spelling": "R, I, S, E",
+      "spoken_meaning": "名词或动词，上升，增加",
+      "en": "We expect a rise in bookings after the conference.",
+      "zh": "我们预计会议后预订量会上升。"
+    },
+    {
+      "word": "run",
+      "spelling": "R, U, N",
+      "spoken_meaning": "动词或名词，运行，经营，一趟",
+      "en": "The shuttle will run every 20 minutes during the exhibition.",
+      "zh": "展览期间班车每20分钟一班。"
+    },
+    {
+      "word": "set",
+      "spelling": "S, E, T",
+      "spoken_meaning": "动词或名词，设置，一套",
+      "en": "Please set the meeting room for 16 people.",
+      "zh": "请把会议室布置成16人座位。"
+    },
+    {
+      "word": "show",
+      "spelling": "S, H, O, W",
+      "spoken_meaning": "名词或动词，展会，显示，带领",
+      "en": "A trade show in March will feature the new scanner.",
+      "zh": "三月的展会将展示新的扫描器。"
+    },
+    {
+      "word": "single",
+      "spelling": "S, I, N, G, L, E",
+      "spoken_meaning": "形容词，单一的，单个的",
+      "en": "A single tracking number covers all three cartons.",
+      "zh": "一个运单号涵盖全部三个纸箱。"
+    },
+    {
+      "word": "size",
+      "spelling": "S, I, Z, E",
+      "spoken_meaning": "名词，尺寸，规模",
+      "en": "Please confirm the crate size before we book the truck.",
+      "zh": "预订卡车前请确认板条箱尺寸。"
+    },
+    {
+      "word": "solid",
+      "spelling": "S, O, L, I, D",
+      "spoken_meaning": "形容词，牢固的，可靠的",
+      "en": "The first month of sales has been solid, above the forecast.",
+      "zh": "第一个月的销售很稳，高于预测。"
+    },
+    {
+      "word": "spend",
+      "spelling": "S, P, E, N, D",
+      "spoken_meaning": "动词，花费",
+      "en": "Please do not spend more than the approved travel budget.",
+      "zh": "请不要超过已批准的差旅预算。"
+    },
+    {
+      "word": "split",
+      "spelling": "S, P, L, I, T",
+      "spoken_meaning": "动词或名词，分开，分担",
+      "en": "We will split the large order across two shipments.",
+      "zh": "我们将把大订单分成两批运送。"
+    },
+    {
+      "word": "stand",
+      "spelling": "S, T, A, N, D",
+      "spoken_meaning": "动词或名词，站立，展位，货架",
+      "en": "Our stand is in Hall B, near the main entrance.",
+      "zh": "我们的展位在B厅，靠近正门。"
+    },
+    {
+      "word": "start",
+      "spelling": "S, T, A, R, T",
+      "spoken_meaning": "动词或名词，开始",
+      "en": "The workshop will start at 9 a.m. sharp.",
+      "zh": "研讨班将于上午9点准时开始。"
+    },
+    {
+      "word": "state",
+      "spelling": "S, T, A, T, E",
+      "spoken_meaning": "名词或动词，州，状态，说明",
+      "en": "Please state the purchase-order number on every invoice.",
+      "zh": "请在每张发票上注明采购订单号。"
+    },
+    {
+      "word": "stay",
+      "spelling": "S, T, A, Y",
+      "spoken_meaning": "动词或名词，停留，住宿",
+      "en": "Your hotel stay includes breakfast and airport transfer.",
+      "zh": "你的酒店住宿包含早餐和机场接送。"
+    },
+    {
+      "word": "step",
+      "spelling": "S, T, E, P",
+      "spoken_meaning": "名词或动词，步骤，迈步",
+      "en": "The next step is to send the revised quote to the client.",
+      "zh": "下一步是把修订后的报价发给客户。"
+    },
+    {
+      "word": "stop",
+      "spelling": "S, T, O, P",
+      "spoken_meaning": "动词或名词，停止，停靠站",
+      "en": "The shuttle makes a stop at the commuter rail station.",
+      "zh": "班车会在通勤铁路车站停靠。"
+    },
+    {
+      "word": "study",
+      "spelling": "S, T, U, D, Y",
+      "spoken_meaning": "名词或动词，研究，学习",
+      "en": "A feasibility study will be completed before we lease the site.",
+      "zh": "在租赁场地前将完成可行性研究。"
+    },
+    {
+      "word": "subject",
+      "spelling": "S, U, B, J, E, C, T",
+      "spoken_meaning": "名词或形容词或动词，主题，受…限制的",
+      "en": "The offer is subject to final credit approval.",
+      "zh": "该报价须以最终信用审批为准。"
+    },
+    {
+      "word": "surprise",
+      "spelling": "S, U, R, P, R, I, S, E",
+      "spoken_meaning": "名词或动词，意外，使惊讶",
+      "en": "The early completion of the renovation was a welcome surprise.",
+      "zh": "装修提前完工是一个令人高兴的意外。"
+    },
+    {
+      "word": "table",
+      "spelling": "T, A, B, L, E",
+      "spoken_meaning": "名词或动词，桌子，提交讨论",
+      "en": "Please reserve a table for six in the hotel restaurant.",
+      "zh": "请在酒店餐厅预订一张六人桌。"
+    },
+    {
+      "word": "text",
+      "spelling": "T, E, X, T",
+      "spoken_meaning": "名词或动词，文本，短信",
+      "en": "A confirmation text will be sent when the technician is on the way.",
+      "zh": "技术员出发时会发送确认短信。"
+    },
+    {
+      "word": "theme",
+      "spelling": "T, H, E, M, E",
+      "spoken_meaning": "名词，主题",
+      "en": "The theme of this year's conference is digital customer service.",
+      "zh": "今年会议的主题是数字化客户服务。"
+    },
+    {
+      "word": "touch",
+      "spelling": "T, O, U, C, H",
+      "spoken_meaning": "名词或动词，联系，触摸",
+      "en": "Please get in touch with the travel desk if your flight changes.",
+      "zh": "如果航班有变，请联系差旅台。"
+    },
+    {
+      "word": "cover",
+      "spelling": "C, O, V, E, R",
+      "spoken_meaning": "动词或名词，覆盖，报道，封面",
+      "en": "The warranty does not cover damage caused by incorrect installation.",
+      "zh": "保修不包括因安装不当造成的损坏。"
+    },
+    {
+      "word": "cost",
+      "spelling": "C, O, S, T",
+      "spoken_meaning": "名词或动词，成本，花费",
+      "en": "Please estimate the cost of overnight shipping before you book it.",
+      "zh": "预订隔夜运输前请先估算费用。"
+    },
+    {
+      "word": "job",
+      "spelling": "J, O, B",
+      "spoken_meaning": "名词，工作，职位",
+      "en": "The job will be posted on the careers page tonight.",
+      "zh": "该职位今晚将发布在招聘页面上。"
+    },
+    {
+      "word": "item",
+      "spelling": "I, T, E, M",
+      "spoken_meaning": "名词，项目，一件商品",
+      "en": "Each item on the invoice should match the packing list.",
+      "zh": "发票上的每一项都应与装箱单一致。"
+    },
+    {
+      "word": "list",
+      "spelling": "L, I, S, T",
+      "spoken_meaning": "名词或动词，清单，列出",
+      "en": "Please list any damaged items on the delivery note.",
+      "zh": "请在送货单上列出任何损坏的物品。"
+    },
+    {
+      "word": "need",
+      "spelling": "N, E, E, D",
+      "spoken_meaning": "名词或动词，需要",
+      "en": "We need two extra cashiers for the weekend sale.",
+      "zh": "周末促销我们需要再增加两名收银员。"
+    },
+    {
+      "word": "note",
+      "spelling": "N, O, T, E",
+      "spoken_meaning": "名词或动词，便条，注意，记录",
+      "en": "Please note that the lobby will be closed for painting on Friday.",
+      "zh": "请注意，大厅周五将因粉刷关闭。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第96轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "result",
+      "voice": "en",
+      "text": "result",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "result",
+      "voice": "en",
+      "text": "R, E, S, U, L, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "result",
+      "voice": "zh",
+      "text": "名词或动词，结果，导致",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "result",
+      "voice": "en",
+      "text": "The inspection result will be emailed to the plant manager.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "result",
+      "voice": "zh",
+      "text": "检验结果将通过电子邮件发给厂长。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "rise",
+      "voice": "en",
+      "text": "rise",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rise",
+      "voice": "en",
+      "text": "R, I, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rise",
+      "voice": "zh",
+      "text": "名词或动词，上升，增加",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rise",
+      "voice": "en",
+      "text": "We expect a rise in bookings after the conference.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rise",
+      "voice": "zh",
+      "text": "我们预计会议后预订量会上升。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "run",
+      "voice": "en",
+      "text": "run",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "run",
+      "voice": "en",
+      "text": "R, U, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "run",
+      "voice": "zh",
+      "text": "动词或名词，运行，经营，一趟",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "run",
+      "voice": "en",
+      "text": "The shuttle will run every 20 minutes during the exhibition.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "run",
+      "voice": "zh",
+      "text": "展览期间班车每20分钟一班。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "set",
+      "voice": "en",
+      "text": "set",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "set",
+      "voice": "en",
+      "text": "S, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "set",
+      "voice": "zh",
+      "text": "动词或名词，设置，一套",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "set",
+      "voice": "en",
+      "text": "Please set the meeting room for 16 people.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "set",
+      "voice": "zh",
+      "text": "请把会议室布置成16人座位。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "show",
+      "voice": "en",
+      "text": "show",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "show",
+      "voice": "en",
+      "text": "S, H, O, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "show",
+      "voice": "zh",
+      "text": "名词或动词，展会，显示，带领",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "show",
+      "voice": "en",
+      "text": "A trade show in March will feature the new scanner.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "show",
+      "voice": "zh",
+      "text": "三月的展会将展示新的扫描器。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "single",
+      "voice": "en",
+      "text": "single",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "single",
+      "voice": "en",
+      "text": "S, I, N, G, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "single",
+      "voice": "zh",
+      "text": "形容词，单一的，单个的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "single",
+      "voice": "en",
+      "text": "A single tracking number covers all three cartons.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "single",
+      "voice": "zh",
+      "text": "一个运单号涵盖全部三个纸箱。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "size",
+      "voice": "en",
+      "text": "size",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "size",
+      "voice": "en",
+      "text": "S, I, Z, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "size",
+      "voice": "zh",
+      "text": "名词，尺寸，规模",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "size",
+      "voice": "en",
+      "text": "Please confirm the crate size before we book the truck.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "size",
+      "voice": "zh",
+      "text": "预订卡车前请确认板条箱尺寸。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "solid",
+      "voice": "en",
+      "text": "solid",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "solid",
+      "voice": "en",
+      "text": "S, O, L, I, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "solid",
+      "voice": "zh",
+      "text": "形容词，牢固的，可靠的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "solid",
+      "voice": "en",
+      "text": "The first month of sales has been solid, above the forecast.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "solid",
+      "voice": "zh",
+      "text": "第一个月的销售很稳，高于预测。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "spend",
+      "voice": "en",
+      "text": "spend",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "spend",
+      "voice": "en",
+      "text": "S, P, E, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "spend",
+      "voice": "zh",
+      "text": "动词，花费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "spend",
+      "voice": "en",
+      "text": "Please do not spend more than the approved travel budget.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "spend",
+      "voice": "zh",
+      "text": "请不要超过已批准的差旅预算。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "split",
+      "voice": "en",
+      "text": "split",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "split",
+      "voice": "en",
+      "text": "S, P, L, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "split",
+      "voice": "zh",
+      "text": "动词或名词，分开，分担",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "split",
+      "voice": "en",
+      "text": "We will split the large order across two shipments.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "split",
+      "voice": "zh",
+      "text": "我们将把大订单分成两批运送。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stand",
+      "voice": "en",
+      "text": "stand",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stand",
+      "voice": "en",
+      "text": "S, T, A, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stand",
+      "voice": "zh",
+      "text": "动词或名词，站立，展位，货架",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stand",
+      "voice": "en",
+      "text": "Our stand is in Hall B, near the main entrance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stand",
+      "voice": "zh",
+      "text": "我们的展位在B厅，靠近正门。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "start",
+      "voice": "en",
+      "text": "start",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "start",
+      "voice": "en",
+      "text": "S, T, A, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "start",
+      "voice": "zh",
+      "text": "动词或名词，开始",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "start",
+      "voice": "en",
+      "text": "The workshop will start at 9 a.m. sharp.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "start",
+      "voice": "zh",
+      "text": "研讨班将于上午9点准时开始。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "state",
+      "voice": "en",
+      "text": "state",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "state",
+      "voice": "en",
+      "text": "S, T, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "state",
+      "voice": "zh",
+      "text": "名词或动词，州，状态，说明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "state",
+      "voice": "en",
+      "text": "Please state the purchase-order number on every invoice.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "state",
+      "voice": "zh",
+      "text": "请在每张发票上注明采购订单号。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stay",
+      "voice": "en",
+      "text": "stay",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stay",
+      "voice": "en",
+      "text": "S, T, A, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stay",
+      "voice": "zh",
+      "text": "动词或名词，停留，住宿",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stay",
+      "voice": "en",
+      "text": "Your hotel stay includes breakfast and airport transfer.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stay",
+      "voice": "zh",
+      "text": "你的酒店住宿包含早餐和机场接送。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "step",
+      "voice": "en",
+      "text": "step",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "step",
+      "voice": "en",
+      "text": "S, T, E, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "step",
+      "voice": "zh",
+      "text": "名词或动词，步骤，迈步",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "step",
+      "voice": "en",
+      "text": "The next step is to send the revised quote to the client.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "step",
+      "voice": "zh",
+      "text": "下一步是把修订后的报价发给客户。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stop",
+      "voice": "en",
+      "text": "stop",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stop",
+      "voice": "en",
+      "text": "S, T, O, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stop",
+      "voice": "zh",
+      "text": "动词或名词，停止，停靠站",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stop",
+      "voice": "en",
+      "text": "The shuttle makes a stop at the commuter rail station.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stop",
+      "voice": "zh",
+      "text": "班车会在通勤铁路车站停靠。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "study",
+      "voice": "en",
+      "text": "study",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "study",
+      "voice": "en",
+      "text": "S, T, U, D, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "study",
+      "voice": "zh",
+      "text": "名词或动词，研究，学习",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "study",
+      "voice": "en",
+      "text": "A feasibility study will be completed before we lease the site.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "study",
+      "voice": "zh",
+      "text": "在租赁场地前将完成可行性研究。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "subject",
+      "voice": "en",
+      "text": "subject",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "subject",
+      "voice": "en",
+      "text": "S, U, B, J, E, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "subject",
+      "voice": "zh",
+      "text": "名词或形容词或动词，主题，受…限制的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "subject",
+      "voice": "en",
+      "text": "The offer is subject to final credit approval.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "subject",
+      "voice": "zh",
+      "text": "该报价须以最终信用审批为准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "surprise",
+      "voice": "en",
+      "text": "surprise",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "surprise",
+      "voice": "en",
+      "text": "S, U, R, P, R, I, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "surprise",
+      "voice": "zh",
+      "text": "名词或动词，意外，使惊讶",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "surprise",
+      "voice": "en",
+      "text": "The early completion of the renovation was a welcome surprise.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "surprise",
+      "voice": "zh",
+      "text": "装修提前完工是一个令人高兴的意外。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "table",
+      "voice": "en",
+      "text": "table",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "table",
+      "voice": "en",
+      "text": "T, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "table",
+      "voice": "zh",
+      "text": "名词或动词，桌子，提交讨论",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "table",
+      "voice": "en",
+      "text": "Please reserve a table for six in the hotel restaurant.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "table",
+      "voice": "zh",
+      "text": "请在酒店餐厅预订一张六人桌。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "text",
+      "voice": "en",
+      "text": "text",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "text",
+      "voice": "en",
+      "text": "T, E, X, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "text",
+      "voice": "zh",
+      "text": "名词或动词，文本，短信",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "text",
+      "voice": "en",
+      "text": "A confirmation text will be sent when the technician is on the way.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "text",
+      "voice": "zh",
+      "text": "技术员出发时会发送确认短信。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "theme",
+      "voice": "en",
+      "text": "theme",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "theme",
+      "voice": "en",
+      "text": "T, H, E, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "theme",
+      "voice": "zh",
+      "text": "名词，主题",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "theme",
+      "voice": "en",
+      "text": "The theme of this year's conference is digital customer service.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "theme",
+      "voice": "zh",
+      "text": "今年会议的主题是数字化客户服务。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "touch",
+      "voice": "en",
+      "text": "touch",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "touch",
+      "voice": "en",
+      "text": "T, O, U, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "touch",
+      "voice": "zh",
+      "text": "名词或动词，联系，触摸",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "touch",
+      "voice": "en",
+      "text": "Please get in touch with the travel desk if your flight changes.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "touch",
+      "voice": "zh",
+      "text": "如果航班有变，请联系差旅台。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cover",
+      "voice": "en",
+      "text": "cover",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cover",
+      "voice": "en",
+      "text": "C, O, V, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cover",
+      "voice": "zh",
+      "text": "动词或名词，覆盖，报道，封面",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cover",
+      "voice": "en",
+      "text": "The warranty does not cover damage caused by incorrect installation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cover",
+      "voice": "zh",
+      "text": "保修不包括因安装不当造成的损坏。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cost",
+      "voice": "en",
+      "text": "cost",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cost",
+      "voice": "en",
+      "text": "C, O, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cost",
+      "voice": "zh",
+      "text": "名词或动词，成本，花费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cost",
+      "voice": "en",
+      "text": "Please estimate the cost of overnight shipping before you book it.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cost",
+      "voice": "zh",
+      "text": "预订隔夜运输前请先估算费用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "job",
+      "voice": "en",
+      "text": "job",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "job",
+      "voice": "en",
+      "text": "J, O, B",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "job",
+      "voice": "zh",
+      "text": "名词，工作，职位",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "job",
+      "voice": "en",
+      "text": "The job will be posted on the careers page tonight.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "job",
+      "voice": "zh",
+      "text": "该职位今晚将发布在招聘页面上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "item",
+      "voice": "en",
+      "text": "item",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "item",
+      "voice": "en",
+      "text": "I, T, E, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "item",
+      "voice": "zh",
+      "text": "名词，项目，一件商品",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "item",
+      "voice": "en",
+      "text": "Each item on the invoice should match the packing list.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "item",
+      "voice": "zh",
+      "text": "发票上的每一项都应与装箱单一致。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "list",
+      "voice": "en",
+      "text": "list",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "list",
+      "voice": "en",
+      "text": "L, I, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "list",
+      "voice": "zh",
+      "text": "名词或动词，清单，列出",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "list",
+      "voice": "en",
+      "text": "Please list any damaged items on the delivery note.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "list",
+      "voice": "zh",
+      "text": "请在送货单上列出任何损坏的物品。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "need",
+      "voice": "en",
+      "text": "need",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "need",
+      "voice": "en",
+      "text": "N, E, E, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "need",
+      "voice": "zh",
+      "text": "名词或动词，需要",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "need",
+      "voice": "en",
+      "text": "We need two extra cashiers for the weekend sale.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "need",
+      "voice": "zh",
+      "text": "周末促销我们需要再增加两名收银员。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "note",
+      "voice": "en",
+      "text": "note",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "note",
+      "voice": "en",
+      "text": "N, O, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "note",
+      "voice": "zh",
+      "text": "名词或动词，便条，注意，记录",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "note",
+      "voice": "en",
+      "text": "Please note that the lobby will be closed for painting on Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "note",
+      "voice": "zh",
+      "text": "请注意，大厅周五将因粉刷关闭。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第96轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

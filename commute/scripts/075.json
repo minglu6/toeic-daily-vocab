@@ -1,0 +1,1314 @@
+{
+  "id": "075",
+  "track": 75,
+  "title": "第 75 轨",
+  "word_count": 30,
+  "headwords": [
+    "instant",
+    "institution",
+    "instruction",
+    "instructor",
+    "instrument",
+    "insufficient",
+    "integrity",
+    "intelligent",
+    "intend",
+    "intense",
+    "intention",
+    "interact",
+    "interaction",
+    "interest",
+    "interface",
+    "interfere",
+    "interior",
+    "internal",
+    "international",
+    "internet",
+    "interpret",
+    "interpretation",
+    "interval",
+    "intervene",
+    "intervention",
+    "interview",
+    "introduce",
+    "introduction",
+    "invent",
+    "invention"
+  ],
+  "entries": [
+    {
+      "word": "instant",
+      "spelling": "I, N, S, T, A, N, T",
+      "spoken_meaning": "形容词，立即的，即食的",
+      "en": "An instant confirmation appears on the screen after you click submit.",
+      "zh": "点击提交后，屏幕上会立即显示确认信息。"
+    },
+    {
+      "word": "institution",
+      "spelling": "I, N, S, T, I, T, U, T, I, O, N",
+      "spoken_meaning": "名词，机构",
+      "en": "A financial institution has asked for additional documents.",
+      "zh": "一家金融机构要求补充文件。"
+    },
+    {
+      "word": "instruction",
+      "spelling": "I, N, S, T, R, U, C, T, I, O, N",
+      "spoken_meaning": "名词，说明，指示",
+      "en": "Please follow the packing instructions printed on the carton.",
+      "zh": "请按照纸箱上印刷的包装说明操作。"
+    },
+    {
+      "word": "instructor",
+      "spelling": "I, N, S, T, R, U, C, T, O, R",
+      "spoken_meaning": "名词，讲师，教练",
+      "en": "The instructor will check each trainee's work before sign-off.",
+      "zh": "讲师将在签字认可前检查每位学员的作业。"
+    },
+    {
+      "word": "instrument",
+      "spelling": "I, N, S, T, R, U, M, E, N, T",
+      "spoken_meaning": "名词，仪器，文书，工具",
+      "en": "The measuring instrument must be calibrated once a year.",
+      "zh": "测量仪器必须每年校准一次。"
+    },
+    {
+      "word": "insufficient",
+      "spelling": "I, N, S, U, F, F, I, C, I, E, N, T",
+      "spoken_meaning": "形容词，不足的",
+      "en": "The first shipment was delayed because of insufficient packaging.",
+      "zh": "因包装不足，首批货物被延误。"
+    },
+    {
+      "word": "integrity",
+      "spelling": "I, N, T, E, G, R, I, T, Y",
+      "spoken_meaning": "名词，诚信，完整",
+      "en": "The code of integrity applies to all suppliers and contractors.",
+      "zh": "诚信准则适用于所有供应商和承包商。"
+    },
+    {
+      "word": "intelligent",
+      "spelling": "I, N, T, E, L, L, I, G, E, N, T",
+      "spoken_meaning": "形容词，聪明的，智能的",
+      "en": "The intelligent shelf system records every item that is removed.",
+      "zh": "智能货架系统会记录每一件被取走的商品。"
+    },
+    {
+      "word": "intend",
+      "spelling": "I, N, T, E, N, D",
+      "spoken_meaning": "动词，打算，意图",
+      "en": "We intend to open a second store in the same district.",
+      "zh": "我们打算在同一区域再开一家店。"
+    },
+    {
+      "word": "intense",
+      "spelling": "I, N, T, E, N, S, E",
+      "spoken_meaning": "形容词，强烈的，紧张的",
+      "en": "The factory operates under intense time pressure in December.",
+      "zh": "工厂在十二月面临很大的时间压力。"
+    },
+    {
+      "word": "intention",
+      "spelling": "I, N, T, E, N, T, I, O, N",
+      "spoken_meaning": "名词，意图，打算",
+      "en": "Please confirm your intention to attend by Wednesday.",
+      "zh": "请在周三前确认是否出席。"
+    },
+    {
+      "word": "interact",
+      "spelling": "I, N, T, E, R, A, C, T",
+      "spoken_meaning": "动词，互动，相互配合",
+      "en": "Front-desk staff interact with guests from many countries.",
+      "zh": "前台员工与来自许多国家的客人打交道。"
+    },
+    {
+      "word": "interaction",
+      "spelling": "I, N, T, E, R, A, C, T, I, O, N",
+      "spoken_meaning": "名词，互动，相互影响",
+      "en": "Good interaction between sales and warehouse reduces errors.",
+      "zh": "销售与仓库之间良好的配合可减少差错。"
+    },
+    {
+      "word": "interest",
+      "spelling": "I, N, T, E, R, E, S, T",
+      "spoken_meaning": "名词或动词，兴趣，利息，利益相关",
+      "en": "Interest on the late payment will be charged after 30 days.",
+      "zh": "逾期30天后将收取滞纳利息。"
+    },
+    {
+      "word": "interface",
+      "spelling": "I, N, T, E, R, F, A, C, E",
+      "spoken_meaning": "名词或动词，界面，对接",
+      "en": "The new interface should be easier for temporary staff to use.",
+      "zh": "新界面对临时员工来说应更容易使用。"
+    },
+    {
+      "word": "interfere",
+      "spelling": "I, N, T, E, R, F, E, R, E",
+      "spoken_meaning": "动词，干扰，妨碍",
+      "en": "Personal devices must not interfere with the warehouse radios.",
+      "zh": "个人设备不得干扰仓库对讲系统。"
+    },
+    {
+      "word": "interior",
+      "spelling": "I, N, T, E, R, I, O, R",
+      "spoken_meaning": "名词或形容词，内部，室内的",
+      "en": "The interior of the showroom will be repainted this weekend.",
+      "zh": "展厅内部将于本周末重新粉刷。"
+    },
+    {
+      "word": "internal",
+      "spelling": "I, N, T, E, R, N, A, L",
+      "spoken_meaning": "形容词，内部的",
+      "en": "This memo is for internal use only.",
+      "zh": "本备忘录仅供内部使用。"
+    },
+    {
+      "word": "international",
+      "spelling": "I, N, T, E, R, N, A, T, I, O, N, A, L",
+      "spoken_meaning": "形容词，国际的",
+      "en": "International transfers may take two additional business days.",
+      "zh": "国际转账可能再多花两个工作日。"
+    },
+    {
+      "word": "internet",
+      "spelling": "I, N, T, E, R, N, E, T",
+      "spoken_meaning": "名词，互联网",
+      "en": "The guest internet password is printed on the back of your key card.",
+      "zh": "客人上网密码印在房卡背面。"
+    },
+    {
+      "word": "interpret",
+      "spelling": "I, N, T, E, R, P, R, E, T",
+      "spoken_meaning": "动词，口译，解释",
+      "en": "We will hire an interpreter to interpret for the visiting inspectors.",
+      "zh": "我们将聘请译员为来访的检查人员做口译。"
+    },
+    {
+      "word": "interpretation",
+      "spelling": "I, N, T, E, R, P, R, E, T, A, T, I, O, N",
+      "spoken_meaning": "名词，口译，解释",
+      "en": "Simultaneous interpretation will be available in the main hall.",
+      "zh": "主会场将提供同声传译。"
+    },
+    {
+      "word": "interval",
+      "spelling": "I, N, T, E, R, V, A, L",
+      "spoken_meaning": "名词，间隔，休息时间",
+      "en": "There will be a 15-minute interval between the two sessions.",
+      "zh": "两场会议之间有15分钟休息。"
+    },
+    {
+      "word": "intervene",
+      "spelling": "I, N, T, E, R, V, E, N, E",
+      "spoken_meaning": "动词，介入，干预",
+      "en": "A supervisor should intervene if a customer becomes aggressive.",
+      "zh": "如果顾客态度过激，主管应介入。"
+    },
+    {
+      "word": "intervention",
+      "spelling": "I, N, T, E, R, V, E, N, T, I, O, N",
+      "spoken_meaning": "名词，介入，干预",
+      "en": "Early intervention can prevent a small complaint from becoming a formal claim.",
+      "zh": "及早介入可防止小投诉演变成正式索赔。"
+    },
+    {
+      "word": "interview",
+      "spelling": "I, N, T, E, R, V, I, E, W",
+      "spoken_meaning": "名词或动词，面试，访谈",
+      "en": "The second interview will be held at the regional office.",
+      "zh": "第二轮面试将在区域办事处举行。"
+    },
+    {
+      "word": "introduce",
+      "spelling": "I, N, T, R, O, D, U, C, E",
+      "spoken_meaning": "动词，介绍，引入",
+      "en": "Let me introduce our new logistics coordinator.",
+      "zh": "我来介绍一下我们新的物流协调员。"
+    },
+    {
+      "word": "introduction",
+      "spelling": "I, N, T, R, O, D, U, C, T, I, O, N",
+      "spoken_meaning": "名词，介绍，引言，推行",
+      "en": "The introduction of the new software will be gradual.",
+      "zh": "新软件将逐步推行。"
+    },
+    {
+      "word": "invent",
+      "spelling": "I, N, V, E, N, T",
+      "spoken_meaning": "动词，发明",
+      "en": "The lab invented a lighter fastener for the new model.",
+      "zh": "实验室为新型号发明了更轻的扣件。"
+    },
+    {
+      "word": "invention",
+      "spelling": "I, N, V, E, N, T, I, O, N",
+      "spoken_meaning": "名词，发明",
+      "en": "The invention has already been filed as a patent application.",
+      "zh": "这项发明已作为专利申请提交。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第75轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "instant",
+      "voice": "en",
+      "text": "instant",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "instant",
+      "voice": "en",
+      "text": "I, N, S, T, A, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "instant",
+      "voice": "zh",
+      "text": "形容词，立即的，即食的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "instant",
+      "voice": "en",
+      "text": "An instant confirmation appears on the screen after you click submit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "instant",
+      "voice": "zh",
+      "text": "点击提交后，屏幕上会立即显示确认信息。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "institution",
+      "voice": "en",
+      "text": "institution",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "institution",
+      "voice": "en",
+      "text": "I, N, S, T, I, T, U, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "institution",
+      "voice": "zh",
+      "text": "名词，机构",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "institution",
+      "voice": "en",
+      "text": "A financial institution has asked for additional documents.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "institution",
+      "voice": "zh",
+      "text": "一家金融机构要求补充文件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "instruction",
+      "voice": "en",
+      "text": "instruction",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "instruction",
+      "voice": "en",
+      "text": "I, N, S, T, R, U, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "instruction",
+      "voice": "zh",
+      "text": "名词，说明，指示",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "instruction",
+      "voice": "en",
+      "text": "Please follow the packing instructions printed on the carton.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "instruction",
+      "voice": "zh",
+      "text": "请按照纸箱上印刷的包装说明操作。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "instructor",
+      "voice": "en",
+      "text": "instructor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "instructor",
+      "voice": "en",
+      "text": "I, N, S, T, R, U, C, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "instructor",
+      "voice": "zh",
+      "text": "名词，讲师，教练",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "instructor",
+      "voice": "en",
+      "text": "The instructor will check each trainee's work before sign-off.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "instructor",
+      "voice": "zh",
+      "text": "讲师将在签字认可前检查每位学员的作业。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "instrument",
+      "voice": "en",
+      "text": "instrument",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "instrument",
+      "voice": "en",
+      "text": "I, N, S, T, R, U, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "instrument",
+      "voice": "zh",
+      "text": "名词，仪器，文书，工具",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "instrument",
+      "voice": "en",
+      "text": "The measuring instrument must be calibrated once a year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "instrument",
+      "voice": "zh",
+      "text": "测量仪器必须每年校准一次。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "insufficient",
+      "voice": "en",
+      "text": "insufficient",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "insufficient",
+      "voice": "en",
+      "text": "I, N, S, U, F, F, I, C, I, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "insufficient",
+      "voice": "zh",
+      "text": "形容词，不足的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "insufficient",
+      "voice": "en",
+      "text": "The first shipment was delayed because of insufficient packaging.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "insufficient",
+      "voice": "zh",
+      "text": "因包装不足，首批货物被延误。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "integrity",
+      "voice": "en",
+      "text": "integrity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "integrity",
+      "voice": "en",
+      "text": "I, N, T, E, G, R, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "integrity",
+      "voice": "zh",
+      "text": "名词，诚信，完整",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "integrity",
+      "voice": "en",
+      "text": "The code of integrity applies to all suppliers and contractors.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "integrity",
+      "voice": "zh",
+      "text": "诚信准则适用于所有供应商和承包商。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "intelligent",
+      "voice": "en",
+      "text": "intelligent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "intelligent",
+      "voice": "en",
+      "text": "I, N, T, E, L, L, I, G, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "intelligent",
+      "voice": "zh",
+      "text": "形容词，聪明的，智能的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "intelligent",
+      "voice": "en",
+      "text": "The intelligent shelf system records every item that is removed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "intelligent",
+      "voice": "zh",
+      "text": "智能货架系统会记录每一件被取走的商品。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "intend",
+      "voice": "en",
+      "text": "intend",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "intend",
+      "voice": "en",
+      "text": "I, N, T, E, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "intend",
+      "voice": "zh",
+      "text": "动词，打算，意图",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "intend",
+      "voice": "en",
+      "text": "We intend to open a second store in the same district.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "intend",
+      "voice": "zh",
+      "text": "我们打算在同一区域再开一家店。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "intense",
+      "voice": "en",
+      "text": "intense",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "intense",
+      "voice": "en",
+      "text": "I, N, T, E, N, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "intense",
+      "voice": "zh",
+      "text": "形容词，强烈的，紧张的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "intense",
+      "voice": "en",
+      "text": "The factory operates under intense time pressure in December.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "intense",
+      "voice": "zh",
+      "text": "工厂在十二月面临很大的时间压力。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "intention",
+      "voice": "en",
+      "text": "intention",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "intention",
+      "voice": "en",
+      "text": "I, N, T, E, N, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "intention",
+      "voice": "zh",
+      "text": "名词，意图，打算",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "intention",
+      "voice": "en",
+      "text": "Please confirm your intention to attend by Wednesday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "intention",
+      "voice": "zh",
+      "text": "请在周三前确认是否出席。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "interact",
+      "voice": "en",
+      "text": "interact",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "interact",
+      "voice": "en",
+      "text": "I, N, T, E, R, A, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "interact",
+      "voice": "zh",
+      "text": "动词，互动，相互配合",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "interact",
+      "voice": "en",
+      "text": "Front-desk staff interact with guests from many countries.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "interact",
+      "voice": "zh",
+      "text": "前台员工与来自许多国家的客人打交道。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "interaction",
+      "voice": "en",
+      "text": "interaction",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "interaction",
+      "voice": "en",
+      "text": "I, N, T, E, R, A, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "interaction",
+      "voice": "zh",
+      "text": "名词，互动，相互影响",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "interaction",
+      "voice": "en",
+      "text": "Good interaction between sales and warehouse reduces errors.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "interaction",
+      "voice": "zh",
+      "text": "销售与仓库之间良好的配合可减少差错。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "interest",
+      "voice": "en",
+      "text": "interest",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "interest",
+      "voice": "en",
+      "text": "I, N, T, E, R, E, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "interest",
+      "voice": "zh",
+      "text": "名词或动词，兴趣，利息，利益相关",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "interest",
+      "voice": "en",
+      "text": "Interest on the late payment will be charged after 30 days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "interest",
+      "voice": "zh",
+      "text": "逾期30天后将收取滞纳利息。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "interface",
+      "voice": "en",
+      "text": "interface",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "interface",
+      "voice": "en",
+      "text": "I, N, T, E, R, F, A, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "interface",
+      "voice": "zh",
+      "text": "名词或动词，界面，对接",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "interface",
+      "voice": "en",
+      "text": "The new interface should be easier for temporary staff to use.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "interface",
+      "voice": "zh",
+      "text": "新界面对临时员工来说应更容易使用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "interfere",
+      "voice": "en",
+      "text": "interfere",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "interfere",
+      "voice": "en",
+      "text": "I, N, T, E, R, F, E, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "interfere",
+      "voice": "zh",
+      "text": "动词，干扰，妨碍",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "interfere",
+      "voice": "en",
+      "text": "Personal devices must not interfere with the warehouse radios.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "interfere",
+      "voice": "zh",
+      "text": "个人设备不得干扰仓库对讲系统。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "interior",
+      "voice": "en",
+      "text": "interior",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "interior",
+      "voice": "en",
+      "text": "I, N, T, E, R, I, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "interior",
+      "voice": "zh",
+      "text": "名词或形容词，内部，室内的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "interior",
+      "voice": "en",
+      "text": "The interior of the showroom will be repainted this weekend.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "interior",
+      "voice": "zh",
+      "text": "展厅内部将于本周末重新粉刷。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "internal",
+      "voice": "en",
+      "text": "internal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "internal",
+      "voice": "en",
+      "text": "I, N, T, E, R, N, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "internal",
+      "voice": "zh",
+      "text": "形容词，内部的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "internal",
+      "voice": "en",
+      "text": "This memo is for internal use only.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "internal",
+      "voice": "zh",
+      "text": "本备忘录仅供内部使用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "international",
+      "voice": "en",
+      "text": "international",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "international",
+      "voice": "en",
+      "text": "I, N, T, E, R, N, A, T, I, O, N, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "international",
+      "voice": "zh",
+      "text": "形容词，国际的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "international",
+      "voice": "en",
+      "text": "International transfers may take two additional business days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "international",
+      "voice": "zh",
+      "text": "国际转账可能再多花两个工作日。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "internet",
+      "voice": "en",
+      "text": "internet",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "internet",
+      "voice": "en",
+      "text": "I, N, T, E, R, N, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "internet",
+      "voice": "zh",
+      "text": "名词，互联网",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "internet",
+      "voice": "en",
+      "text": "The guest internet password is printed on the back of your key card.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "internet",
+      "voice": "zh",
+      "text": "客人上网密码印在房卡背面。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "interpret",
+      "voice": "en",
+      "text": "interpret",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "interpret",
+      "voice": "en",
+      "text": "I, N, T, E, R, P, R, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "interpret",
+      "voice": "zh",
+      "text": "动词，口译，解释",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "interpret",
+      "voice": "en",
+      "text": "We will hire an interpreter to interpret for the visiting inspectors.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "interpret",
+      "voice": "zh",
+      "text": "我们将聘请译员为来访的检查人员做口译。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "interpretation",
+      "voice": "en",
+      "text": "interpretation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "interpretation",
+      "voice": "en",
+      "text": "I, N, T, E, R, P, R, E, T, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "interpretation",
+      "voice": "zh",
+      "text": "名词，口译，解释",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "interpretation",
+      "voice": "en",
+      "text": "Simultaneous interpretation will be available in the main hall.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "interpretation",
+      "voice": "zh",
+      "text": "主会场将提供同声传译。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "interval",
+      "voice": "en",
+      "text": "interval",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "interval",
+      "voice": "en",
+      "text": "I, N, T, E, R, V, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "interval",
+      "voice": "zh",
+      "text": "名词，间隔，休息时间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "interval",
+      "voice": "en",
+      "text": "There will be a 15-minute interval between the two sessions.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "interval",
+      "voice": "zh",
+      "text": "两场会议之间有15分钟休息。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "intervene",
+      "voice": "en",
+      "text": "intervene",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "intervene",
+      "voice": "en",
+      "text": "I, N, T, E, R, V, E, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "intervene",
+      "voice": "zh",
+      "text": "动词，介入，干预",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "intervene",
+      "voice": "en",
+      "text": "A supervisor should intervene if a customer becomes aggressive.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "intervene",
+      "voice": "zh",
+      "text": "如果顾客态度过激，主管应介入。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "intervention",
+      "voice": "en",
+      "text": "intervention",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "intervention",
+      "voice": "en",
+      "text": "I, N, T, E, R, V, E, N, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "intervention",
+      "voice": "zh",
+      "text": "名词，介入，干预",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "intervention",
+      "voice": "en",
+      "text": "Early intervention can prevent a small complaint from becoming a formal claim.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "intervention",
+      "voice": "zh",
+      "text": "及早介入可防止小投诉演变成正式索赔。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "interview",
+      "voice": "en",
+      "text": "interview",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "interview",
+      "voice": "en",
+      "text": "I, N, T, E, R, V, I, E, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "interview",
+      "voice": "zh",
+      "text": "名词或动词，面试，访谈",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "interview",
+      "voice": "en",
+      "text": "The second interview will be held at the regional office.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "interview",
+      "voice": "zh",
+      "text": "第二轮面试将在区域办事处举行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "introduce",
+      "voice": "en",
+      "text": "introduce",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "introduce",
+      "voice": "en",
+      "text": "I, N, T, R, O, D, U, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "introduce",
+      "voice": "zh",
+      "text": "动词，介绍，引入",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "introduce",
+      "voice": "en",
+      "text": "Let me introduce our new logistics coordinator.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "introduce",
+      "voice": "zh",
+      "text": "我来介绍一下我们新的物流协调员。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "introduction",
+      "voice": "en",
+      "text": "introduction",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "introduction",
+      "voice": "en",
+      "text": "I, N, T, R, O, D, U, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "introduction",
+      "voice": "zh",
+      "text": "名词，介绍，引言，推行",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "introduction",
+      "voice": "en",
+      "text": "The introduction of the new software will be gradual.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "introduction",
+      "voice": "zh",
+      "text": "新软件将逐步推行。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "invent",
+      "voice": "en",
+      "text": "invent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "invent",
+      "voice": "en",
+      "text": "I, N, V, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "invent",
+      "voice": "zh",
+      "text": "动词，发明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "invent",
+      "voice": "en",
+      "text": "The lab invented a lighter fastener for the new model.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "invent",
+      "voice": "zh",
+      "text": "实验室为新型号发明了更轻的扣件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "invention",
+      "voice": "en",
+      "text": "invention",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "invention",
+      "voice": "en",
+      "text": "I, N, V, E, N, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "invention",
+      "voice": "zh",
+      "text": "名词，发明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "invention",
+      "voice": "en",
+      "text": "The invention has already been filed as a patent application.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "invention",
+      "voice": "zh",
+      "text": "这项发明已作为专利申请提交。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第75轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

@@ -1,0 +1,1314 @@
+{
+  "id": "100",
+  "track": 100,
+  "title": "第 100 轨",
+  "word_count": 30,
+  "headwords": [
+    "boarding-time",
+    "departure-board",
+    "arrivals-hall",
+    "currency-exchange",
+    "safety-deposit",
+    "do-not-disturb",
+    "meal-voucher",
+    "hotel-voucher",
+    "city-tax",
+    "name-card",
+    "business-card",
+    "organization-chart",
+    "probation-period",
+    "pay-stub",
+    "payslip",
+    "travel-claim",
+    "staff-canteen",
+    "shift-supervisor",
+    "night-manager",
+    "front-office",
+    "head-office",
+    "branch-office",
+    "sales-floor",
+    "stock-room",
+    "fitting-room",
+    "gift-shop",
+    "bell-desk",
+    "valet-parking",
+    "meeting-room",
+    "day-pass"
+  ],
+  "entries": [
+    {
+      "word": "boarding-time",
+      "spelling": "B, O, A, R, D, I, N, G, hyphen, T, I, M, E",
+      "spoken_meaning": "名词，登机时间",
+      "en": "Boarding-time is 30 minutes before departure.",
+      "zh": "登机时间是起飞前30分钟。"
+    },
+    {
+      "word": "departure-board",
+      "spelling": "D, E, P, A, R, T, U, R, E, hyphen, B, O, A, R, D",
+      "spoken_meaning": "名词，出发信息牌",
+      "en": "Please check the departure-board for the latest gate number.",
+      "zh": "请在出发信息牌上查看最新的登机口号码。"
+    },
+    {
+      "word": "arrivals-hall",
+      "spelling": "A, R, R, I, V, A, L, S, hyphen, H, A, L, L",
+      "spoken_meaning": "名词，到达大厅",
+      "en": "The driver will meet you in the arrivals-hall, not at the curb.",
+      "zh": "司机会在到达大厅接你，而不是在路边。"
+    },
+    {
+      "word": "currency-exchange",
+      "spelling": "C, U, R, R, E, N, C, Y, hyphen, E, X, C, H, A, N, G, E",
+      "spoken_meaning": "名词，货币兑换",
+      "en": "Currency-exchange is available in the lobby from 7 a.m.",
+      "zh": "大厅从早上7点起提供货币兑换。"
+    },
+    {
+      "word": "safety-deposit",
+      "spelling": "S, A, F, E, T, Y, hyphen, D, E, P, O, S, I, T",
+      "spoken_meaning": "名词，保管箱",
+      "en": "A safety-deposit box is available at the front desk.",
+      "zh": "前台提供保管箱服务。"
+    },
+    {
+      "word": "do-not-disturb",
+      "spelling": "D, O, hyphen, N, O, T, hyphen, D, I, S, T, U, R, B",
+      "spoken_meaning": "名词或形容词，请勿打扰",
+      "en": "Hang the do-not-disturb sign on the door if you are on a call.",
+      "zh": "如果正在打电话，请在门上挂上请勿打扰标牌。"
+    },
+    {
+      "word": "meal-voucher",
+      "spelling": "M, E, A, L, hyphen, V, O, U, C, H, E, R",
+      "spoken_meaning": "名词，餐券",
+      "en": "Passengers on the delayed flight will receive a meal-voucher.",
+      "zh": "延误航班的乘客将获得餐券。"
+    },
+    {
+      "word": "hotel-voucher",
+      "spelling": "H, O, T, E, L, hyphen, V, O, U, C, H, E, R",
+      "spoken_meaning": "名词，酒店凭证",
+      "en": "The airline issued a hotel-voucher after the last flight was cancelled.",
+      "zh": "末班航班取消后，航空公司开具了酒店凭证。"
+    },
+    {
+      "word": "city-tax",
+      "spelling": "C, I, T, Y, hyphen, T, A, X",
+      "spoken_meaning": "名词，城市税，住宿税",
+      "en": "A city-tax is added to the room rate and shown on the final bill.",
+      "zh": "房价外另收城市税，并显示在最终账单上。"
+    },
+    {
+      "word": "name-card",
+      "spelling": "N, A, M, E, hyphen, C, A, R, D",
+      "spoken_meaning": "名词，名片",
+      "en": "Please leave your name-card with the receptionist.",
+      "zh": "请把名片留给前台。"
+    },
+    {
+      "word": "business-card",
+      "spelling": "B, U, S, I, N, E, S, S, hyphen, C, A, R, D",
+      "spoken_meaning": "名词，名片",
+      "en": "I will give you my business-card after the meeting.",
+      "zh": "会后我会把名片给你。"
+    },
+    {
+      "word": "organization-chart",
+      "spelling": "O, R, G, A, N, I, Z, A, T, I, O, N, hyphen, C, H, A, R, T",
+      "spoken_meaning": "名词，组织架构图",
+      "en": "An updated organization-chart is posted on the intranet.",
+      "zh": "更新后的组织架构图已发布在内网上。"
+    },
+    {
+      "word": "probation-period",
+      "spelling": "P, R, O, B, A, T, I, O, N, hyphen, P, E, R, I, O, D",
+      "spoken_meaning": "名词，试用期",
+      "en": "The probation-period for this role is three months.",
+      "zh": "该职位的试用期为三个月。"
+    },
+    {
+      "word": "pay-stub",
+      "spelling": "P, A, Y, hyphen, S, T, U, B",
+      "spoken_meaning": "名词，工资条",
+      "en": "You can download this month's pay-stub from the HR portal.",
+      "zh": "你可以从人力资源门户下载本月工资条。"
+    },
+    {
+      "word": "payslip",
+      "spelling": "P, A, Y, S, L, I, P",
+      "spoken_meaning": "名词，工资单",
+      "en": "Please check your payslip if the overtime hours look incorrect.",
+      "zh": "如果加班工时看起来不对，请核对工资单。"
+    },
+    {
+      "word": "travel-claim",
+      "spelling": "T, R, A, V, E, L, hyphen, C, L, A, I, M",
+      "spoken_meaning": "名词，差旅报销申请",
+      "en": "A travel-claim must be accompanied by original receipts.",
+      "zh": "差旅报销申请必须附上收据原件。"
+    },
+    {
+      "word": "staff-canteen",
+      "spelling": "S, T, A, F, F, hyphen, C, A, N, T, E, E, N",
+      "spoken_meaning": "名词，员工食堂",
+      "en": "The staff-canteen will stay open until eight during the inventory.",
+      "zh": "盘点期间员工食堂将营业至八点。"
+    },
+    {
+      "word": "shift-supervisor",
+      "spelling": "S, H, I, F, T, hyphen, S, U, P, E, R, V, I, S, O, R",
+      "spoken_meaning": "名词，班次主管",
+      "en": "Please report the spill to the shift-supervisor immediately.",
+      "zh": "请立即向班次主管报告泄漏情况。"
+    },
+    {
+      "word": "night-manager",
+      "spelling": "N, I, G, H, T, hyphen, M, A, N, A, G, E, R",
+      "spoken_meaning": "名词，夜班经理",
+      "en": "The night-manager is responsible for the lobby after 10 p.m.",
+      "zh": "晚上10点后，大厅由夜班经理负责。"
+    },
+    {
+      "word": "front-office",
+      "spelling": "F, R, O, N, T, hyphen, O, F, F, I, C, E",
+      "spoken_meaning": "名词，前台部门，前台",
+      "en": "Please return the key-card to the front-office when you check out.",
+      "zh": "退房时请把房卡交还前台。"
+    },
+    {
+      "word": "head-office",
+      "spelling": "H, E, A, D, hyphen, O, F, F, I, C, E",
+      "spoken_meaning": "名词，总部",
+      "en": "The contract must be approved by head-office before we sign.",
+      "zh": "合同在签字前必须获得总部批准。"
+    },
+    {
+      "word": "branch-office",
+      "spelling": "B, R, A, N, C, H, hyphen, O, F, F, I, C, E",
+      "spoken_meaning": "名词，分公司，分处",
+      "en": "A branch-office will open in the business district next spring.",
+      "zh": "明年春天将在商业区开设分公司。"
+    },
+    {
+      "word": "sales-floor",
+      "spelling": "S, A, L, E, S, hyphen, F, L, O, O, R",
+      "spoken_meaning": "名词，卖场，营业厅",
+      "en": "Additional staff will be assigned to the sales-floor on Saturday.",
+      "zh": "周六将向卖场增派人手。"
+    },
+    {
+      "word": "stock-room",
+      "spelling": "S, T, O, C, K, hyphen, R, O, O, M",
+      "spoken_meaning": "名词，库房，储藏室",
+      "en": "Please return unsold items to the stock-room after closing.",
+      "zh": "打烊后请把未售出的商品退回库房。"
+    },
+    {
+      "word": "fitting-room",
+      "spelling": "F, I, T, T, I, N, G, hyphen, R, O, O, M",
+      "spoken_meaning": "名词，试衣间",
+      "en": "Each fitting-room should be checked for left-behind items every hour.",
+      "zh": "每间试衣间应每小时检查是否有顾客遗留物品。"
+    },
+    {
+      "word": "gift-shop",
+      "spelling": "G, I, F, T, hyphen, S, H, O, P",
+      "spoken_meaning": "名词，礼品店",
+      "en": "The hotel gift-shop is open until 9 p.m. for late arrivals.",
+      "zh": "酒店礼品店营业至晚上9点，方便晚到的客人。"
+    },
+    {
+      "word": "bell-desk",
+      "spelling": "B, E, L, L, hyphen, D, E, S, K",
+      "spoken_meaning": "名词，行李服务台",
+      "en": "Please leave large suitcases at the bell-desk if your room is not ready.",
+      "zh": "如果房间还没准备好，请把大手提箱寄存在行李服务台。"
+    },
+    {
+      "word": "valet-parking",
+      "spelling": "V, A, L, E, T, hyphen, P, A, R, K, I, N, G",
+      "spoken_meaning": "名词，代客泊车",
+      "en": "Valet-parking is available at the main entrance of the conference hotel.",
+      "zh": "会议酒店正门提供代客泊车。"
+    },
+    {
+      "word": "meeting-room",
+      "spelling": "M, E, E, T, I, N, G, hyphen, R, O, O, M",
+      "spoken_meaning": "名词，会议室",
+      "en": "Please book a meeting-room for twelve people on Thursday morning.",
+      "zh": "请预订周四上午一间可坐十二人的会议室。"
+    },
+    {
+      "word": "day-pass",
+      "spelling": "D, A, Y, hyphen, P, A, S, S",
+      "spoken_meaning": "名词，日票，当日通行证",
+      "en": "Visitors may purchase a day-pass for the staff cafeteria.",
+      "zh": "访客可购买员工食堂的日票。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第100轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "boarding-time",
+      "voice": "en",
+      "text": "boarding time",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "boarding-time",
+      "voice": "en",
+      "text": "B, O, A, R, D, I, N, G, hyphen, T, I, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "boarding-time",
+      "voice": "zh",
+      "text": "名词，登机时间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "boarding-time",
+      "voice": "en",
+      "text": "Boarding-time is 30 minutes before departure.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "boarding-time",
+      "voice": "zh",
+      "text": "登机时间是起飞前30分钟。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "departure-board",
+      "voice": "en",
+      "text": "departure board",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "departure-board",
+      "voice": "en",
+      "text": "D, E, P, A, R, T, U, R, E, hyphen, B, O, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "departure-board",
+      "voice": "zh",
+      "text": "名词，出发信息牌",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "departure-board",
+      "voice": "en",
+      "text": "Please check the departure-board for the latest gate number.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "departure-board",
+      "voice": "zh",
+      "text": "请在出发信息牌上查看最新的登机口号码。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "arrivals-hall",
+      "voice": "en",
+      "text": "arrivals hall",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "arrivals-hall",
+      "voice": "en",
+      "text": "A, R, R, I, V, A, L, S, hyphen, H, A, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "arrivals-hall",
+      "voice": "zh",
+      "text": "名词，到达大厅",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "arrivals-hall",
+      "voice": "en",
+      "text": "The driver will meet you in the arrivals-hall, not at the curb.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "arrivals-hall",
+      "voice": "zh",
+      "text": "司机会在到达大厅接你，而不是在路边。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "currency-exchange",
+      "voice": "en",
+      "text": "currency exchange",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "currency-exchange",
+      "voice": "en",
+      "text": "C, U, R, R, E, N, C, Y, hyphen, E, X, C, H, A, N, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "currency-exchange",
+      "voice": "zh",
+      "text": "名词，货币兑换",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "currency-exchange",
+      "voice": "en",
+      "text": "Currency-exchange is available in the lobby from 7 a.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "currency-exchange",
+      "voice": "zh",
+      "text": "大厅从早上7点起提供货币兑换。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "safety-deposit",
+      "voice": "en",
+      "text": "safety deposit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "safety-deposit",
+      "voice": "en",
+      "text": "S, A, F, E, T, Y, hyphen, D, E, P, O, S, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "safety-deposit",
+      "voice": "zh",
+      "text": "名词，保管箱",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "safety-deposit",
+      "voice": "en",
+      "text": "A safety-deposit box is available at the front desk.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "safety-deposit",
+      "voice": "zh",
+      "text": "前台提供保管箱服务。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "do-not-disturb",
+      "voice": "en",
+      "text": "do not disturb",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "do-not-disturb",
+      "voice": "en",
+      "text": "D, O, hyphen, N, O, T, hyphen, D, I, S, T, U, R, B",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "do-not-disturb",
+      "voice": "zh",
+      "text": "名词或形容词，请勿打扰",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "do-not-disturb",
+      "voice": "en",
+      "text": "Hang the do-not-disturb sign on the door if you are on a call.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "do-not-disturb",
+      "voice": "zh",
+      "text": "如果正在打电话，请在门上挂上请勿打扰标牌。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "meal-voucher",
+      "voice": "en",
+      "text": "meal voucher",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "meal-voucher",
+      "voice": "en",
+      "text": "M, E, A, L, hyphen, V, O, U, C, H, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "meal-voucher",
+      "voice": "zh",
+      "text": "名词，餐券",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "meal-voucher",
+      "voice": "en",
+      "text": "Passengers on the delayed flight will receive a meal-voucher.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "meal-voucher",
+      "voice": "zh",
+      "text": "延误航班的乘客将获得餐券。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hotel-voucher",
+      "voice": "en",
+      "text": "hotel voucher",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hotel-voucher",
+      "voice": "en",
+      "text": "H, O, T, E, L, hyphen, V, O, U, C, H, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hotel-voucher",
+      "voice": "zh",
+      "text": "名词，酒店凭证",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hotel-voucher",
+      "voice": "en",
+      "text": "The airline issued a hotel-voucher after the last flight was cancelled.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hotel-voucher",
+      "voice": "zh",
+      "text": "末班航班取消后，航空公司开具了酒店凭证。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "city-tax",
+      "voice": "en",
+      "text": "city tax",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "city-tax",
+      "voice": "en",
+      "text": "C, I, T, Y, hyphen, T, A, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "city-tax",
+      "voice": "zh",
+      "text": "名词，城市税，住宿税",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "city-tax",
+      "voice": "en",
+      "text": "A city-tax is added to the room rate and shown on the final bill.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "city-tax",
+      "voice": "zh",
+      "text": "房价外另收城市税，并显示在最终账单上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "name-card",
+      "voice": "en",
+      "text": "name card",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "name-card",
+      "voice": "en",
+      "text": "N, A, M, E, hyphen, C, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "name-card",
+      "voice": "zh",
+      "text": "名词，名片",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "name-card",
+      "voice": "en",
+      "text": "Please leave your name-card with the receptionist.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "name-card",
+      "voice": "zh",
+      "text": "请把名片留给前台。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "business-card",
+      "voice": "en",
+      "text": "business card",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "business-card",
+      "voice": "en",
+      "text": "B, U, S, I, N, E, S, S, hyphen, C, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "business-card",
+      "voice": "zh",
+      "text": "名词，名片",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "business-card",
+      "voice": "en",
+      "text": "I will give you my business-card after the meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "business-card",
+      "voice": "zh",
+      "text": "会后我会把名片给你。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "organization-chart",
+      "voice": "en",
+      "text": "organization chart",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "organization-chart",
+      "voice": "en",
+      "text": "O, R, G, A, N, I, Z, A, T, I, O, N, hyphen, C, H, A, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "organization-chart",
+      "voice": "zh",
+      "text": "名词，组织架构图",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "organization-chart",
+      "voice": "en",
+      "text": "An updated organization-chart is posted on the intranet.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "organization-chart",
+      "voice": "zh",
+      "text": "更新后的组织架构图已发布在内网上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "probation-period",
+      "voice": "en",
+      "text": "probation period",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "probation-period",
+      "voice": "en",
+      "text": "P, R, O, B, A, T, I, O, N, hyphen, P, E, R, I, O, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "probation-period",
+      "voice": "zh",
+      "text": "名词，试用期",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "probation-period",
+      "voice": "en",
+      "text": "The probation-period for this role is three months.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "probation-period",
+      "voice": "zh",
+      "text": "该职位的试用期为三个月。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "pay-stub",
+      "voice": "en",
+      "text": "pay stub",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "pay-stub",
+      "voice": "en",
+      "text": "P, A, Y, hyphen, S, T, U, B",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "pay-stub",
+      "voice": "zh",
+      "text": "名词，工资条",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "pay-stub",
+      "voice": "en",
+      "text": "You can download this month's pay-stub from the HR portal.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "pay-stub",
+      "voice": "zh",
+      "text": "你可以从人力资源门户下载本月工资条。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "payslip",
+      "voice": "en",
+      "text": "payslip",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "payslip",
+      "voice": "en",
+      "text": "P, A, Y, S, L, I, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "payslip",
+      "voice": "zh",
+      "text": "名词，工资单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "payslip",
+      "voice": "en",
+      "text": "Please check your payslip if the overtime hours look incorrect.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "payslip",
+      "voice": "zh",
+      "text": "如果加班工时看起来不对，请核对工资单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "travel-claim",
+      "voice": "en",
+      "text": "travel claim",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "travel-claim",
+      "voice": "en",
+      "text": "T, R, A, V, E, L, hyphen, C, L, A, I, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "travel-claim",
+      "voice": "zh",
+      "text": "名词，差旅报销申请",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "travel-claim",
+      "voice": "en",
+      "text": "A travel-claim must be accompanied by original receipts.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "travel-claim",
+      "voice": "zh",
+      "text": "差旅报销申请必须附上收据原件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "staff-canteen",
+      "voice": "en",
+      "text": "staff canteen",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "staff-canteen",
+      "voice": "en",
+      "text": "S, T, A, F, F, hyphen, C, A, N, T, E, E, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "staff-canteen",
+      "voice": "zh",
+      "text": "名词，员工食堂",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "staff-canteen",
+      "voice": "en",
+      "text": "The staff-canteen will stay open until eight during the inventory.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "staff-canteen",
+      "voice": "zh",
+      "text": "盘点期间员工食堂将营业至八点。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "shift-supervisor",
+      "voice": "en",
+      "text": "shift supervisor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "shift-supervisor",
+      "voice": "en",
+      "text": "S, H, I, F, T, hyphen, S, U, P, E, R, V, I, S, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "shift-supervisor",
+      "voice": "zh",
+      "text": "名词，班次主管",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "shift-supervisor",
+      "voice": "en",
+      "text": "Please report the spill to the shift-supervisor immediately.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "shift-supervisor",
+      "voice": "zh",
+      "text": "请立即向班次主管报告泄漏情况。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "night-manager",
+      "voice": "en",
+      "text": "night manager",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "night-manager",
+      "voice": "en",
+      "text": "N, I, G, H, T, hyphen, M, A, N, A, G, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "night-manager",
+      "voice": "zh",
+      "text": "名词，夜班经理",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "night-manager",
+      "voice": "en",
+      "text": "The night-manager is responsible for the lobby after 10 p.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "night-manager",
+      "voice": "zh",
+      "text": "晚上10点后，大厅由夜班经理负责。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "front-office",
+      "voice": "en",
+      "text": "front office",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "front-office",
+      "voice": "en",
+      "text": "F, R, O, N, T, hyphen, O, F, F, I, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "front-office",
+      "voice": "zh",
+      "text": "名词，前台部门，前台",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "front-office",
+      "voice": "en",
+      "text": "Please return the key-card to the front-office when you check out.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "front-office",
+      "voice": "zh",
+      "text": "退房时请把房卡交还前台。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "head-office",
+      "voice": "en",
+      "text": "head office",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "head-office",
+      "voice": "en",
+      "text": "H, E, A, D, hyphen, O, F, F, I, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "head-office",
+      "voice": "zh",
+      "text": "名词，总部",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "head-office",
+      "voice": "en",
+      "text": "The contract must be approved by head-office before we sign.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "head-office",
+      "voice": "zh",
+      "text": "合同在签字前必须获得总部批准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "branch-office",
+      "voice": "en",
+      "text": "branch office",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "branch-office",
+      "voice": "en",
+      "text": "B, R, A, N, C, H, hyphen, O, F, F, I, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "branch-office",
+      "voice": "zh",
+      "text": "名词，分公司，分处",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "branch-office",
+      "voice": "en",
+      "text": "A branch-office will open in the business district next spring.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "branch-office",
+      "voice": "zh",
+      "text": "明年春天将在商业区开设分公司。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sales-floor",
+      "voice": "en",
+      "text": "sales floor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sales-floor",
+      "voice": "en",
+      "text": "S, A, L, E, S, hyphen, F, L, O, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sales-floor",
+      "voice": "zh",
+      "text": "名词，卖场，营业厅",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sales-floor",
+      "voice": "en",
+      "text": "Additional staff will be assigned to the sales-floor on Saturday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sales-floor",
+      "voice": "zh",
+      "text": "周六将向卖场增派人手。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "stock-room",
+      "voice": "en",
+      "text": "stock room",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "stock-room",
+      "voice": "en",
+      "text": "S, T, O, C, K, hyphen, R, O, O, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "stock-room",
+      "voice": "zh",
+      "text": "名词，库房，储藏室",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "stock-room",
+      "voice": "en",
+      "text": "Please return unsold items to the stock-room after closing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "stock-room",
+      "voice": "zh",
+      "text": "打烊后请把未售出的商品退回库房。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "fitting-room",
+      "voice": "en",
+      "text": "fitting room",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "fitting-room",
+      "voice": "en",
+      "text": "F, I, T, T, I, N, G, hyphen, R, O, O, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "fitting-room",
+      "voice": "zh",
+      "text": "名词，试衣间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "fitting-room",
+      "voice": "en",
+      "text": "Each fitting-room should be checked for left-behind items every hour.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "fitting-room",
+      "voice": "zh",
+      "text": "每间试衣间应每小时检查是否有顾客遗留物品。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "gift-shop",
+      "voice": "en",
+      "text": "gift shop",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "gift-shop",
+      "voice": "en",
+      "text": "G, I, F, T, hyphen, S, H, O, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "gift-shop",
+      "voice": "zh",
+      "text": "名词，礼品店",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "gift-shop",
+      "voice": "en",
+      "text": "The hotel gift-shop is open until 9 p.m. for late arrivals.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "gift-shop",
+      "voice": "zh",
+      "text": "酒店礼品店营业至晚上9点，方便晚到的客人。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bell-desk",
+      "voice": "en",
+      "text": "bell desk",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bell-desk",
+      "voice": "en",
+      "text": "B, E, L, L, hyphen, D, E, S, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bell-desk",
+      "voice": "zh",
+      "text": "名词，行李服务台",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bell-desk",
+      "voice": "en",
+      "text": "Please leave large suitcases at the bell-desk if your room is not ready.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bell-desk",
+      "voice": "zh",
+      "text": "如果房间还没准备好，请把大手提箱寄存在行李服务台。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "valet-parking",
+      "voice": "en",
+      "text": "valet parking",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "valet-parking",
+      "voice": "en",
+      "text": "V, A, L, E, T, hyphen, P, A, R, K, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "valet-parking",
+      "voice": "zh",
+      "text": "名词，代客泊车",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "valet-parking",
+      "voice": "en",
+      "text": "Valet-parking is available at the main entrance of the conference hotel.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "valet-parking",
+      "voice": "zh",
+      "text": "会议酒店正门提供代客泊车。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "meeting-room",
+      "voice": "en",
+      "text": "meeting room",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "meeting-room",
+      "voice": "en",
+      "text": "M, E, E, T, I, N, G, hyphen, R, O, O, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "meeting-room",
+      "voice": "zh",
+      "text": "名词，会议室",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "meeting-room",
+      "voice": "en",
+      "text": "Please book a meeting-room for twelve people on Thursday morning.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "meeting-room",
+      "voice": "zh",
+      "text": "请预订周四上午一间可坐十二人的会议室。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "day-pass",
+      "voice": "en",
+      "text": "day pass",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "day-pass",
+      "voice": "en",
+      "text": "D, A, Y, hyphen, P, A, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "day-pass",
+      "voice": "zh",
+      "text": "名词，日票，当日通行证",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "day-pass",
+      "voice": "en",
+      "text": "Visitors may purchase a day-pass for the staff cafeteria.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "day-pass",
+      "voice": "zh",
+      "text": "访客可购买员工食堂的日票。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第100轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

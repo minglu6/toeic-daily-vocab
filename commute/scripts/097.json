@@ -1,0 +1,1314 @@
+{
+  "id": "097",
+  "track": 97,
+  "title": "第 97 轨",
+  "word_count": 30,
+  "headwords": [
+    "number",
+    "open",
+    "page",
+    "part",
+    "place",
+    "airfare",
+    "boarding-gate",
+    "check-in-desk",
+    "duty-manager",
+    "parking-permit",
+    "coffee-break",
+    "staff-meeting",
+    "extension-number",
+    "toll-free",
+    "speakerphone",
+    "headset",
+    "webcam",
+    "password",
+    "username",
+    "login",
+    "logout",
+    "firewall",
+    "router",
+    "worksheet",
+    "slide-deck",
+    "printout",
+    "paperclip",
+    "filing-cabinet",
+    "office-chair",
+    "desk-lamp"
+  ],
+  "entries": [
+    {
+      "word": "number",
+      "spelling": "N, U, M, B, E, R",
+      "spoken_meaning": "名词，号码，数字",
+      "en": "Please quote your membership number when you call.",
+      "zh": "打电话时请报上会员号码。"
+    },
+    {
+      "word": "open",
+      "spelling": "O, P, E, N",
+      "spoken_meaning": "动词或形容词，打开，开放的",
+      "en": "The store will open an hour earlier during the sale.",
+      "zh": "促销期间商店将提前一小时开门。"
+    },
+    {
+      "word": "page",
+      "spelling": "P, A, G, E",
+      "spoken_meaning": "名词，页，页面",
+      "en": "The cancellation policy is explained on page two of the brochure.",
+      "zh": "取消政策在手册第二页有说明。"
+    },
+    {
+      "word": "part",
+      "spelling": "P, A, R, T",
+      "spoken_meaning": "名词，零件，部分",
+      "en": "A replacement part will be shipped tomorrow morning.",
+      "zh": "替换零件将于明天上午寄出。"
+    },
+    {
+      "word": "place",
+      "spelling": "P, L, A, C, E",
+      "spoken_meaning": "名词或动词，地点，放置，下单",
+      "en": "Please place the fragile cartons on the top of the stack.",
+      "zh": "请把易碎纸箱放在堆垛顶部。"
+    },
+    {
+      "word": "airfare",
+      "spelling": "A, I, R, F, A, R, E",
+      "spoken_meaning": "名词，机票费",
+      "en": "Please keep the airfare receipt for your travel claim.",
+      "zh": "请保留机票费收据以便报销差旅。"
+    },
+    {
+      "word": "boarding-gate",
+      "spelling": "B, O, A, R, D, I, N, G, hyphen, G, A, T, E",
+      "spoken_meaning": "名词，登机口",
+      "en": "The boarding-gate for the Chicago flight has been changed to 19.",
+      "zh": "飞往芝加哥的航班登机口已改为19号。"
+    },
+    {
+      "word": "check-in-desk",
+      "spelling": "C, H, E, C, K, hyphen, I, N, hyphen, D, E, S, K",
+      "spoken_meaning": "名词，值机柜台，登记台",
+      "en": "Oversized luggage should be taken to the check-in-desk, not the gate.",
+      "zh": "超大行李应送到值机柜台，不要带到登机口。"
+    },
+    {
+      "word": "duty-manager",
+      "spelling": "D, U, T, Y, hyphen, M, A, N, A, G, E, R",
+      "spoken_meaning": "名词，值班经理",
+      "en": "Please ask the duty-manager if you need a refund above the cashier's limit.",
+      "zh": "如果退款超过收银员权限，请找值班经理。"
+    },
+    {
+      "word": "parking-permit",
+      "spelling": "P, A, R, K, I, N, G, hyphen, P, E, R, M, I, T",
+      "spoken_meaning": "名词，停车证",
+      "en": "A parking-permit can be collected from facilities on your first day.",
+      "zh": "停车证可在入职第一天到总务部门领取。"
+    },
+    {
+      "word": "coffee-break",
+      "spelling": "C, O, F, F, E, E, hyphen, B, R, E, A, K",
+      "spoken_meaning": "名词，茶歇，工间休息",
+      "en": "There will be a 15-minute coffee-break after the first session.",
+      "zh": "第一场结束后将有15分钟茶歇。"
+    },
+    {
+      "word": "staff-meeting",
+      "spelling": "S, T, A, F, F, hyphen, M, E, E, T, I, N, G",
+      "spoken_meaning": "名词，员工会议",
+      "en": "A staff-meeting will be held in the canteen at 8:30 a.m.",
+      "zh": "上午8:30将在食堂召开员工会议。"
+    },
+    {
+      "word": "extension-number",
+      "spelling": "E, X, T, E, N, S, I, O, N, hyphen, N, U, M, B, E, R",
+      "spoken_meaning": "名词，分机号",
+      "en": "My extension-number is 2451 if you need to reach me directly.",
+      "zh": "如果需要直接找我，我的分机号是2451。"
+    },
+    {
+      "word": "toll-free",
+      "spelling": "T, O, L, L, hyphen, F, R, E, E",
+      "spoken_meaning": "形容词，免费电话的",
+      "en": "A toll-free number is printed on the back of the warranty card.",
+      "zh": "保修卡背面印有免费电话号码。"
+    },
+    {
+      "word": "speakerphone",
+      "spelling": "S, P, E, A, K, E, R, P, H, O, N, E",
+      "spoken_meaning": "名词，免提电话，扬声器电话",
+      "en": "Please mute the speakerphone when you are not talking.",
+      "zh": "不发言时请把免提电话静音。"
+    },
+    {
+      "word": "headset",
+      "spelling": "H, E, A, D, S, E, T",
+      "spoken_meaning": "名词，耳机，耳麦",
+      "en": "Each call-center desk has a headset and a spare battery.",
+      "zh": "每个呼叫中心工位都有耳麦和备用电池。"
+    },
+    {
+      "word": "webcam",
+      "spelling": "W, E, B, C, A, M",
+      "spoken_meaning": "名词，网络摄像头",
+      "en": "A webcam is available in the small meeting room for remote interviews.",
+      "zh": "小会议室有网络摄像头，可用于远程面试。"
+    },
+    {
+      "word": "password",
+      "spelling": "P, A, S, S, W, O, R, D",
+      "spoken_meaning": "名词，密码",
+      "en": "Do not share your password with anyone, including IT contractors.",
+      "zh": "请不要把密码告诉任何人，包括信息技术承包人员。"
+    },
+    {
+      "word": "username",
+      "spelling": "U, S, E, R, N, A, M, E",
+      "spoken_meaning": "名词，用户名",
+      "en": "Your username is your work email address.",
+      "zh": "你的用户名就是工作邮箱地址。"
+    },
+    {
+      "word": "login",
+      "spelling": "L, O, G, I, N",
+      "spoken_meaning": "名词或动词，登录",
+      "en": "A failed login will lock the account after five attempts.",
+      "zh": "连续五次登录失败将锁定账户。"
+    },
+    {
+      "word": "logout",
+      "spelling": "L, O, G, O, U, T",
+      "spoken_meaning": "名词或动词，退出登录",
+      "en": "Please logout of the shared computer when you finish.",
+      "zh": "用完共享电脑后请退出登录。"
+    },
+    {
+      "word": "firewall",
+      "spelling": "F, I, R, E, W, A, L, L",
+      "spoken_meaning": "名词，防火墙",
+      "en": "The firewall blocked the attachment, so please send a link instead.",
+      "zh": "防火墙拦截了附件，请改发链接。"
+    },
+    {
+      "word": "router",
+      "spelling": "R, O, U, T, E, R",
+      "spoken_meaning": "名词，路由器",
+      "en": "The office router will be replaced this weekend.",
+      "zh": "办公室路由器将于本周末更换。"
+    },
+    {
+      "word": "worksheet",
+      "spelling": "W, O, R, K, S, H, E, E, T",
+      "spoken_meaning": "名词，工作表，练习表",
+      "en": "The budget worksheet is in the shared finance folder.",
+      "zh": "预算工作表在共享的财务文件夹中。"
+    },
+    {
+      "word": "slide-deck",
+      "spelling": "S, L, I, D, E, hyphen, D, E, C, K",
+      "spoken_meaning": "名词，幻灯片文稿",
+      "en": "The slide-deck should be no longer than 12 pages.",
+      "zh": "幻灯片文稿不应超过12页。"
+    },
+    {
+      "word": "printout",
+      "spelling": "P, R, I, N, T, O, U, T",
+      "spoken_meaning": "名词，打印件",
+      "en": "A printout of the seating plan is on the lectern.",
+      "zh": "讲桌上有一份座位表的打印件。"
+    },
+    {
+      "word": "paperclip",
+      "spelling": "P, A, P, E, R, C, L, I, P",
+      "spoken_meaning": "名词，回形针",
+      "en": "Do not use paperclips on documents that will go through the scanner.",
+      "zh": "不要在将要扫描的文件上使用回形针。"
+    },
+    {
+      "word": "filing-cabinet",
+      "spelling": "F, I, L, I, N, G, hyphen, C, A, B, I, N, E, T",
+      "spoken_meaning": "名词，文件柜",
+      "en": "The signed contracts are in the locked filing-cabinet.",
+      "zh": "已签字的合同放在上锁的文件柜里。"
+    },
+    {
+      "word": "office-chair",
+      "spelling": "O, F, F, I, C, E, hyphen, C, H, A, I, R",
+      "spoken_meaning": "名词，办公椅",
+      "en": "A replacement office-chair can be requested from facilities.",
+      "zh": "可向总务部门申请更换办公椅。"
+    },
+    {
+      "word": "desk-lamp",
+      "spelling": "D, E, S, K, hyphen, L, A, M, P",
+      "spoken_meaning": "名词，台灯",
+      "en": "Please switch off the desk-lamp when you leave.",
+      "zh": "离开时请关掉台灯。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第97轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "number",
+      "voice": "en",
+      "text": "number",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "number",
+      "voice": "en",
+      "text": "N, U, M, B, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "number",
+      "voice": "zh",
+      "text": "名词，号码，数字",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "number",
+      "voice": "en",
+      "text": "Please quote your membership number when you call.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "number",
+      "voice": "zh",
+      "text": "打电话时请报上会员号码。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "open",
+      "voice": "en",
+      "text": "open",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "open",
+      "voice": "en",
+      "text": "O, P, E, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "open",
+      "voice": "zh",
+      "text": "动词或形容词，打开，开放的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "open",
+      "voice": "en",
+      "text": "The store will open an hour earlier during the sale.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "open",
+      "voice": "zh",
+      "text": "促销期间商店将提前一小时开门。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "page",
+      "voice": "en",
+      "text": "page",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "page",
+      "voice": "en",
+      "text": "P, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "page",
+      "voice": "zh",
+      "text": "名词，页，页面",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "page",
+      "voice": "en",
+      "text": "The cancellation policy is explained on page two of the brochure.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "page",
+      "voice": "zh",
+      "text": "取消政策在手册第二页有说明。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "part",
+      "voice": "en",
+      "text": "part",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "part",
+      "voice": "en",
+      "text": "P, A, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "part",
+      "voice": "zh",
+      "text": "名词，零件，部分",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "part",
+      "voice": "en",
+      "text": "A replacement part will be shipped tomorrow morning.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "part",
+      "voice": "zh",
+      "text": "替换零件将于明天上午寄出。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "place",
+      "voice": "en",
+      "text": "place",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "place",
+      "voice": "en",
+      "text": "P, L, A, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "place",
+      "voice": "zh",
+      "text": "名词或动词，地点，放置，下单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "place",
+      "voice": "en",
+      "text": "Please place the fragile cartons on the top of the stack.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "place",
+      "voice": "zh",
+      "text": "请把易碎纸箱放在堆垛顶部。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "airfare",
+      "voice": "en",
+      "text": "airfare",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "airfare",
+      "voice": "en",
+      "text": "A, I, R, F, A, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "airfare",
+      "voice": "zh",
+      "text": "名词，机票费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "airfare",
+      "voice": "en",
+      "text": "Please keep the airfare receipt for your travel claim.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "airfare",
+      "voice": "zh",
+      "text": "请保留机票费收据以便报销差旅。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "boarding-gate",
+      "voice": "en",
+      "text": "boarding gate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "boarding-gate",
+      "voice": "en",
+      "text": "B, O, A, R, D, I, N, G, hyphen, G, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "boarding-gate",
+      "voice": "zh",
+      "text": "名词，登机口",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "boarding-gate",
+      "voice": "en",
+      "text": "The boarding-gate for the Chicago flight has been changed to 19.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "boarding-gate",
+      "voice": "zh",
+      "text": "飞往芝加哥的航班登机口已改为19号。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "check-in-desk",
+      "voice": "en",
+      "text": "check in desk",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "check-in-desk",
+      "voice": "en",
+      "text": "C, H, E, C, K, hyphen, I, N, hyphen, D, E, S, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "check-in-desk",
+      "voice": "zh",
+      "text": "名词，值机柜台，登记台",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "check-in-desk",
+      "voice": "en",
+      "text": "Oversized luggage should be taken to the check-in-desk, not the gate.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "check-in-desk",
+      "voice": "zh",
+      "text": "超大行李应送到值机柜台，不要带到登机口。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "duty-manager",
+      "voice": "en",
+      "text": "duty manager",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "duty-manager",
+      "voice": "en",
+      "text": "D, U, T, Y, hyphen, M, A, N, A, G, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "duty-manager",
+      "voice": "zh",
+      "text": "名词，值班经理",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "duty-manager",
+      "voice": "en",
+      "text": "Please ask the duty-manager if you need a refund above the cashier's limit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "duty-manager",
+      "voice": "zh",
+      "text": "如果退款超过收银员权限，请找值班经理。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "parking-permit",
+      "voice": "en",
+      "text": "parking permit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "parking-permit",
+      "voice": "en",
+      "text": "P, A, R, K, I, N, G, hyphen, P, E, R, M, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "parking-permit",
+      "voice": "zh",
+      "text": "名词，停车证",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "parking-permit",
+      "voice": "en",
+      "text": "A parking-permit can be collected from facilities on your first day.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "parking-permit",
+      "voice": "zh",
+      "text": "停车证可在入职第一天到总务部门领取。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "coffee-break",
+      "voice": "en",
+      "text": "coffee break",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "coffee-break",
+      "voice": "en",
+      "text": "C, O, F, F, E, E, hyphen, B, R, E, A, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "coffee-break",
+      "voice": "zh",
+      "text": "名词，茶歇，工间休息",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "coffee-break",
+      "voice": "en",
+      "text": "There will be a 15-minute coffee-break after the first session.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "coffee-break",
+      "voice": "zh",
+      "text": "第一场结束后将有15分钟茶歇。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "staff-meeting",
+      "voice": "en",
+      "text": "staff meeting",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "staff-meeting",
+      "voice": "en",
+      "text": "S, T, A, F, F, hyphen, M, E, E, T, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "staff-meeting",
+      "voice": "zh",
+      "text": "名词，员工会议",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "staff-meeting",
+      "voice": "en",
+      "text": "A staff-meeting will be held in the canteen at 8:30 a.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "staff-meeting",
+      "voice": "zh",
+      "text": "上午8:30将在食堂召开员工会议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "extension-number",
+      "voice": "en",
+      "text": "extension number",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "extension-number",
+      "voice": "en",
+      "text": "E, X, T, E, N, S, I, O, N, hyphen, N, U, M, B, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "extension-number",
+      "voice": "zh",
+      "text": "名词，分机号",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "extension-number",
+      "voice": "en",
+      "text": "My extension-number is 2451 if you need to reach me directly.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "extension-number",
+      "voice": "zh",
+      "text": "如果需要直接找我，我的分机号是2451。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "toll-free",
+      "voice": "en",
+      "text": "toll free",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "toll-free",
+      "voice": "en",
+      "text": "T, O, L, L, hyphen, F, R, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "toll-free",
+      "voice": "zh",
+      "text": "形容词，免费电话的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "toll-free",
+      "voice": "en",
+      "text": "A toll-free number is printed on the back of the warranty card.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "toll-free",
+      "voice": "zh",
+      "text": "保修卡背面印有免费电话号码。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "speakerphone",
+      "voice": "en",
+      "text": "speakerphone",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "speakerphone",
+      "voice": "en",
+      "text": "S, P, E, A, K, E, R, P, H, O, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "speakerphone",
+      "voice": "zh",
+      "text": "名词，免提电话，扬声器电话",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "speakerphone",
+      "voice": "en",
+      "text": "Please mute the speakerphone when you are not talking.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "speakerphone",
+      "voice": "zh",
+      "text": "不发言时请把免提电话静音。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "headset",
+      "voice": "en",
+      "text": "headset",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "headset",
+      "voice": "en",
+      "text": "H, E, A, D, S, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "headset",
+      "voice": "zh",
+      "text": "名词，耳机，耳麦",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "headset",
+      "voice": "en",
+      "text": "Each call-center desk has a headset and a spare battery.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "headset",
+      "voice": "zh",
+      "text": "每个呼叫中心工位都有耳麦和备用电池。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "webcam",
+      "voice": "en",
+      "text": "webcam",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "webcam",
+      "voice": "en",
+      "text": "W, E, B, C, A, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "webcam",
+      "voice": "zh",
+      "text": "名词，网络摄像头",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "webcam",
+      "voice": "en",
+      "text": "A webcam is available in the small meeting room for remote interviews.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "webcam",
+      "voice": "zh",
+      "text": "小会议室有网络摄像头，可用于远程面试。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "password",
+      "voice": "en",
+      "text": "password",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "password",
+      "voice": "en",
+      "text": "P, A, S, S, W, O, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "password",
+      "voice": "zh",
+      "text": "名词，密码",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "password",
+      "voice": "en",
+      "text": "Do not share your password with anyone, including IT contractors.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "password",
+      "voice": "zh",
+      "text": "请不要把密码告诉任何人，包括信息技术承包人员。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "username",
+      "voice": "en",
+      "text": "username",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "username",
+      "voice": "en",
+      "text": "U, S, E, R, N, A, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "username",
+      "voice": "zh",
+      "text": "名词，用户名",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "username",
+      "voice": "en",
+      "text": "Your username is your work email address.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "username",
+      "voice": "zh",
+      "text": "你的用户名就是工作邮箱地址。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "login",
+      "voice": "en",
+      "text": "login",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "login",
+      "voice": "en",
+      "text": "L, O, G, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "login",
+      "voice": "zh",
+      "text": "名词或动词，登录",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "login",
+      "voice": "en",
+      "text": "A failed login will lock the account after five attempts.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "login",
+      "voice": "zh",
+      "text": "连续五次登录失败将锁定账户。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "logout",
+      "voice": "en",
+      "text": "logout",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "logout",
+      "voice": "en",
+      "text": "L, O, G, O, U, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "logout",
+      "voice": "zh",
+      "text": "名词或动词，退出登录",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "logout",
+      "voice": "en",
+      "text": "Please logout of the shared computer when you finish.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "logout",
+      "voice": "zh",
+      "text": "用完共享电脑后请退出登录。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "firewall",
+      "voice": "en",
+      "text": "firewall",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "firewall",
+      "voice": "en",
+      "text": "F, I, R, E, W, A, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "firewall",
+      "voice": "zh",
+      "text": "名词，防火墙",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "firewall",
+      "voice": "en",
+      "text": "The firewall blocked the attachment, so please send a link instead.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "firewall",
+      "voice": "zh",
+      "text": "防火墙拦截了附件，请改发链接。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "router",
+      "voice": "en",
+      "text": "router",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "router",
+      "voice": "en",
+      "text": "R, O, U, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "router",
+      "voice": "zh",
+      "text": "名词，路由器",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "router",
+      "voice": "en",
+      "text": "The office router will be replaced this weekend.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "router",
+      "voice": "zh",
+      "text": "办公室路由器将于本周末更换。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "worksheet",
+      "voice": "en",
+      "text": "worksheet",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "worksheet",
+      "voice": "en",
+      "text": "W, O, R, K, S, H, E, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "worksheet",
+      "voice": "zh",
+      "text": "名词，工作表，练习表",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "worksheet",
+      "voice": "en",
+      "text": "The budget worksheet is in the shared finance folder.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "worksheet",
+      "voice": "zh",
+      "text": "预算工作表在共享的财务文件夹中。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "slide-deck",
+      "voice": "en",
+      "text": "slide deck",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "slide-deck",
+      "voice": "en",
+      "text": "S, L, I, D, E, hyphen, D, E, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "slide-deck",
+      "voice": "zh",
+      "text": "名词，幻灯片文稿",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "slide-deck",
+      "voice": "en",
+      "text": "The slide-deck should be no longer than 12 pages.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "slide-deck",
+      "voice": "zh",
+      "text": "幻灯片文稿不应超过12页。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "printout",
+      "voice": "en",
+      "text": "printout",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "printout",
+      "voice": "en",
+      "text": "P, R, I, N, T, O, U, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "printout",
+      "voice": "zh",
+      "text": "名词，打印件",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "printout",
+      "voice": "en",
+      "text": "A printout of the seating plan is on the lectern.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "printout",
+      "voice": "zh",
+      "text": "讲桌上有一份座位表的打印件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "paperclip",
+      "voice": "en",
+      "text": "paperclip",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "paperclip",
+      "voice": "en",
+      "text": "P, A, P, E, R, C, L, I, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "paperclip",
+      "voice": "zh",
+      "text": "名词，回形针",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "paperclip",
+      "voice": "en",
+      "text": "Do not use paperclips on documents that will go through the scanner.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "paperclip",
+      "voice": "zh",
+      "text": "不要在将要扫描的文件上使用回形针。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "filing-cabinet",
+      "voice": "en",
+      "text": "filing cabinet",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "filing-cabinet",
+      "voice": "en",
+      "text": "F, I, L, I, N, G, hyphen, C, A, B, I, N, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "filing-cabinet",
+      "voice": "zh",
+      "text": "名词，文件柜",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "filing-cabinet",
+      "voice": "en",
+      "text": "The signed contracts are in the locked filing-cabinet.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "filing-cabinet",
+      "voice": "zh",
+      "text": "已签字的合同放在上锁的文件柜里。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "office-chair",
+      "voice": "en",
+      "text": "office chair",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "office-chair",
+      "voice": "en",
+      "text": "O, F, F, I, C, E, hyphen, C, H, A, I, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "office-chair",
+      "voice": "zh",
+      "text": "名词，办公椅",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "office-chair",
+      "voice": "en",
+      "text": "A replacement office-chair can be requested from facilities.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "office-chair",
+      "voice": "zh",
+      "text": "可向总务部门申请更换办公椅。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "desk-lamp",
+      "voice": "en",
+      "text": "desk lamp",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "desk-lamp",
+      "voice": "en",
+      "text": "D, E, S, K, hyphen, L, A, M, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "desk-lamp",
+      "voice": "zh",
+      "text": "名词，台灯",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "desk-lamp",
+      "voice": "en",
+      "text": "Please switch off the desk-lamp when you leave.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "desk-lamp",
+      "voice": "zh",
+      "text": "离开时请关掉台灯。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第97轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

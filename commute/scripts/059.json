@@ -1,0 +1,1314 @@
+{
+  "id": "059",
+  "track": 59,
+  "title": "第 59 轨",
+  "word_count": 30,
+  "headwords": [
+    "attendant",
+    "attractive",
+    "automatic",
+    "automatically",
+    "badge",
+    "barely",
+    "bind",
+    "boarding",
+    "booklet",
+    "boost",
+    "briefly",
+    "cabinet",
+    "cancellation",
+    "capability",
+    "cashier",
+    "cautious",
+    "collection",
+    "comment",
+    "commitment",
+    "committee",
+    "commuter",
+    "compact",
+    "comparable",
+    "compare",
+    "comparison",
+    "competence",
+    "complain",
+    "complete",
+    "completion",
+    "compute"
+  ],
+  "entries": [
+    {
+      "word": "attendant",
+      "spelling": "A, T, T, E, N, D, A, N, T",
+      "spoken_meaning": "名词，服务员，随行人员",
+      "en": "A flight attendant will collect landing cards before arrival.",
+      "zh": "着陆前，乘务员将收回入境卡。"
+    },
+    {
+      "word": "attractive",
+      "spelling": "A, T, T, R, A, C, T, I, V, E",
+      "spoken_meaning": "形容词，有吸引力的，有竞争力的",
+      "en": "The company offered an attractive relocation package.",
+      "zh": "公司提供了很有吸引力的搬迁待遇。"
+    },
+    {
+      "word": "automatic",
+      "spelling": "A, U, T, O, M, A, T, I, C",
+      "spoken_meaning": "形容词，自动的",
+      "en": "An automatic reminder is sent three days before the invoice is due.",
+      "zh": "发票到期前三天会自动发出提醒。"
+    },
+    {
+      "word": "automatically",
+      "spelling": "A, U, T, O, M, A, T, I, C, A, L, L, Y",
+      "spoken_meaning": "副词，自动地",
+      "en": "Approved expenses are automatically posted to the finance system.",
+      "zh": "已批准的报销会自动记入财务系统。"
+    },
+    {
+      "word": "badge",
+      "spelling": "B, A, D, G, E",
+      "spoken_meaning": "名词，徽章，工牌",
+      "en": "Please wear your badge at all times in the production area.",
+      "zh": "在生产区请始终佩戴工牌。"
+    },
+    {
+      "word": "barely",
+      "spelling": "B, A, R, E, L, Y",
+      "spoken_meaning": "副词，勉强，几乎不",
+      "en": "We barely met the delivery deadline after the storm delayed the trucks.",
+      "zh": "暴风雨延误卡车后，我们勉强赶上交货期限。"
+    },
+    {
+      "word": "bind",
+      "spelling": "B, I, N, D",
+      "spoken_meaning": "动词，装订，约束",
+      "en": "The printer will bind the annual report in hardcover.",
+      "zh": "印刷厂将把年报装订成精装本。"
+    },
+    {
+      "word": "boarding",
+      "spelling": "B, O, A, R, D, I, N, G",
+      "spoken_meaning": "名词，登机，上车",
+      "en": "Boarding for the 4:40 flight will begin at gate 22.",
+      "zh": "4:40航班将在22号登机口开始登机。"
+    },
+    {
+      "word": "booklet",
+      "spelling": "B, O, O, K, L, E, T",
+      "spoken_meaning": "名词，小册子",
+      "en": "A safety booklet is placed in every guest room.",
+      "zh": "每间客房都放有一本安全小册子。"
+    },
+    {
+      "word": "boost",
+      "spelling": "B, O, O, S, T",
+      "spoken_meaning": "动词或名词，提升，促进",
+      "en": "The promotion is intended to boost weekend store traffic.",
+      "zh": "此次促销旨在提升周末进店客流。"
+    },
+    {
+      "word": "briefly",
+      "spelling": "B, R, I, E, F, L, Y",
+      "spoken_meaning": "副词，简短地，短暂地",
+      "en": "The director will briefly outline the agenda before we begin.",
+      "zh": "开始前，总监将简要说明议程。"
+    },
+    {
+      "word": "cabinet",
+      "spelling": "C, A, B, I, N, E, T",
+      "spoken_meaning": "名词，橱柜，内阁",
+      "en": "Please return the spare keys to the locked cabinet in the mail room.",
+      "zh": "请把备用钥匙放回邮件室上锁的柜子里。"
+    },
+    {
+      "word": "cancellation",
+      "spelling": "C, A, N, C, E, L, L, A, T, I, O, N",
+      "spoken_meaning": "名词，取消",
+      "en": "Please confirm the cancellation in writing so we can release the room.",
+      "zh": "请书面确认取消，以便我们释放房间。"
+    },
+    {
+      "word": "capability",
+      "spelling": "C, A, P, A, B, I, L, I, T, Y",
+      "spoken_meaning": "名词，能力，性能",
+      "en": "The new line has the capability to package 200 units per minute.",
+      "zh": "新产线每分钟可包装200件。"
+    },
+    {
+      "word": "cashier",
+      "spelling": "C, A, S, H, I, E, R",
+      "spoken_meaning": "名词，出纳，收银员",
+      "en": "Please pay the invoice at the cashier on the ground floor.",
+      "zh": "请到一楼出纳处支付发票。"
+    },
+    {
+      "word": "cautious",
+      "spelling": "C, A, U, T, I, O, U, S",
+      "spoken_meaning": "形容词，谨慎的",
+      "en": "The board remains cautious about expanding into new markets this year.",
+      "zh": "董事会对本年进入新市场仍持谨慎态度。"
+    },
+    {
+      "word": "collection",
+      "spelling": "C, O, L, L, E, C, T, I, O, N",
+      "spoken_meaning": "名词，收款，收藏，系列",
+      "en": "The finance team is responsible for collection of overdue invoices.",
+      "zh": "财务团队负责催收逾期发票。"
+    },
+    {
+      "word": "comment",
+      "spelling": "C, O, M, M, E, N, T",
+      "spoken_meaning": "名词或动词，评论，意见",
+      "en": "Please add your comments in the margin of the draft contract.",
+      "zh": "请把意见写在合同草稿的空白处。"
+    },
+    {
+      "word": "commitment",
+      "spelling": "C, O, M, M, I, T, M, E, N, T",
+      "spoken_meaning": "名词，承诺，投入",
+      "en": "We cannot take on another commitment until this project ships.",
+      "zh": "在本项目发货前，我们不能再接下新的承诺。"
+    },
+    {
+      "word": "committee",
+      "spelling": "C, O, M, M, I, T, T, E, E",
+      "spoken_meaning": "名词，委员会",
+      "en": "The safety committee meets on the first Monday of each month.",
+      "zh": "安全委员会在每月第一个星期一开会。"
+    },
+    {
+      "word": "commuter",
+      "spelling": "C, O, M, M, U, T, E, R",
+      "spoken_meaning": "名词，通勤者",
+      "en": "A shuttle for commuters leaves the station every 15 minutes.",
+      "zh": "通勤班车每15分钟从车站发出一趟。"
+    },
+    {
+      "word": "compact",
+      "spelling": "C, O, M, P, A, C, T",
+      "spoken_meaning": "形容词或动词，紧凑的，压缩",
+      "en": "The compact printer fits on a small hotel-office desk.",
+      "zh": "这款紧凑型打印机放得下酒店办公室的小桌子。"
+    },
+    {
+      "word": "comparable",
+      "spelling": "C, O, M, P, A, R, A, B, L, E",
+      "spoken_meaning": "形容词，可比的，类似的",
+      "en": "No comparable product is available at this price point.",
+      "zh": "在这个价位上没有类似的产品。"
+    },
+    {
+      "word": "compare",
+      "spelling": "C, O, M, P, A, R, E",
+      "spoken_meaning": "动词，比较",
+      "en": "Please compare the three quotes before we award the contract.",
+      "zh": "在授予合同前，请比较这三份报价。"
+    },
+    {
+      "word": "comparison",
+      "spelling": "C, O, M, P, A, R, I, S, O, N",
+      "spoken_meaning": "名词，比较，对照",
+      "en": "A price comparison is attached for the purchasing committee.",
+      "zh": "价格对照表已附上，供采购委员会参考。"
+    },
+    {
+      "word": "competence",
+      "spelling": "C, O, M, P, E, T, E, N, C, E",
+      "spoken_meaning": "名词，能力，胜任力",
+      "en": "Language competence is required for the overseas sales role.",
+      "zh": "海外销售岗位要求具备语言能力。"
+    },
+    {
+      "word": "complain",
+      "spelling": "C, O, M, P, L, A, I, N",
+      "spoken_meaning": "动词，投诉，抱怨",
+      "en": "Several guests complained about the slow restaurant service.",
+      "zh": "几位客人投诉餐厅服务太慢。"
+    },
+    {
+      "word": "complete",
+      "spelling": "C, O, M, P, L, E, T, E",
+      "spoken_meaning": "动词或形容词，完成，完整的",
+      "en": "Please complete the incident report before you leave today.",
+      "zh": "请在今天离开前写完事故报告。"
+    },
+    {
+      "word": "completion",
+      "spelling": "C, O, M, P, L, E, T, I, O, N",
+      "spoken_meaning": "名词，完成，竣工",
+      "en": "Payment of the final invoice is due on completion of the work.",
+      "zh": "尾款应在工程完成后支付。"
+    },
+    {
+      "word": "compute",
+      "spelling": "C, O, M, P, U, T, E",
+      "spoken_meaning": "动词，计算",
+      "en": "The system will compute the overtime automatically from the timesheets.",
+      "zh": "系统将根据工时表自动计算加班。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第59轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "attendant",
+      "voice": "en",
+      "text": "attendant",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "attendant",
+      "voice": "en",
+      "text": "A, T, T, E, N, D, A, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "attendant",
+      "voice": "zh",
+      "text": "名词，服务员，随行人员",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "attendant",
+      "voice": "en",
+      "text": "A flight attendant will collect landing cards before arrival.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "attendant",
+      "voice": "zh",
+      "text": "着陆前，乘务员将收回入境卡。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "attractive",
+      "voice": "en",
+      "text": "attractive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "attractive",
+      "voice": "en",
+      "text": "A, T, T, R, A, C, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "attractive",
+      "voice": "zh",
+      "text": "形容词，有吸引力的，有竞争力的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "attractive",
+      "voice": "en",
+      "text": "The company offered an attractive relocation package.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "attractive",
+      "voice": "zh",
+      "text": "公司提供了很有吸引力的搬迁待遇。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "automatic",
+      "voice": "en",
+      "text": "automatic",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "automatic",
+      "voice": "en",
+      "text": "A, U, T, O, M, A, T, I, C",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "automatic",
+      "voice": "zh",
+      "text": "形容词，自动的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "automatic",
+      "voice": "en",
+      "text": "An automatic reminder is sent three days before the invoice is due.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "automatic",
+      "voice": "zh",
+      "text": "发票到期前三天会自动发出提醒。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "automatically",
+      "voice": "en",
+      "text": "automatically",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "automatically",
+      "voice": "en",
+      "text": "A, U, T, O, M, A, T, I, C, A, L, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "automatically",
+      "voice": "zh",
+      "text": "副词，自动地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "automatically",
+      "voice": "en",
+      "text": "Approved expenses are automatically posted to the finance system.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "automatically",
+      "voice": "zh",
+      "text": "已批准的报销会自动记入财务系统。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "badge",
+      "voice": "en",
+      "text": "badge",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "badge",
+      "voice": "en",
+      "text": "B, A, D, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "badge",
+      "voice": "zh",
+      "text": "名词，徽章，工牌",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "badge",
+      "voice": "en",
+      "text": "Please wear your badge at all times in the production area.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "badge",
+      "voice": "zh",
+      "text": "在生产区请始终佩戴工牌。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "barely",
+      "voice": "en",
+      "text": "barely",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "barely",
+      "voice": "en",
+      "text": "B, A, R, E, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "barely",
+      "voice": "zh",
+      "text": "副词，勉强，几乎不",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "barely",
+      "voice": "en",
+      "text": "We barely met the delivery deadline after the storm delayed the trucks.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "barely",
+      "voice": "zh",
+      "text": "暴风雨延误卡车后，我们勉强赶上交货期限。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bind",
+      "voice": "en",
+      "text": "bind",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bind",
+      "voice": "en",
+      "text": "B, I, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bind",
+      "voice": "zh",
+      "text": "动词，装订，约束",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bind",
+      "voice": "en",
+      "text": "The printer will bind the annual report in hardcover.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bind",
+      "voice": "zh",
+      "text": "印刷厂将把年报装订成精装本。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "boarding",
+      "voice": "en",
+      "text": "boarding",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "boarding",
+      "voice": "en",
+      "text": "B, O, A, R, D, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "boarding",
+      "voice": "zh",
+      "text": "名词，登机，上车",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "boarding",
+      "voice": "en",
+      "text": "Boarding for the 4:40 flight will begin at gate 22.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "boarding",
+      "voice": "zh",
+      "text": "4:40航班将在22号登机口开始登机。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "booklet",
+      "voice": "en",
+      "text": "booklet",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "booklet",
+      "voice": "en",
+      "text": "B, O, O, K, L, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "booklet",
+      "voice": "zh",
+      "text": "名词，小册子",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "booklet",
+      "voice": "en",
+      "text": "A safety booklet is placed in every guest room.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "booklet",
+      "voice": "zh",
+      "text": "每间客房都放有一本安全小册子。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "boost",
+      "voice": "en",
+      "text": "boost",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "boost",
+      "voice": "en",
+      "text": "B, O, O, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "boost",
+      "voice": "zh",
+      "text": "动词或名词，提升，促进",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "boost",
+      "voice": "en",
+      "text": "The promotion is intended to boost weekend store traffic.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "boost",
+      "voice": "zh",
+      "text": "此次促销旨在提升周末进店客流。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "briefly",
+      "voice": "en",
+      "text": "briefly",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "briefly",
+      "voice": "en",
+      "text": "B, R, I, E, F, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "briefly",
+      "voice": "zh",
+      "text": "副词，简短地，短暂地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "briefly",
+      "voice": "en",
+      "text": "The director will briefly outline the agenda before we begin.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "briefly",
+      "voice": "zh",
+      "text": "开始前，总监将简要说明议程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cabinet",
+      "voice": "en",
+      "text": "cabinet",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cabinet",
+      "voice": "en",
+      "text": "C, A, B, I, N, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cabinet",
+      "voice": "zh",
+      "text": "名词，橱柜，内阁",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cabinet",
+      "voice": "en",
+      "text": "Please return the spare keys to the locked cabinet in the mail room.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cabinet",
+      "voice": "zh",
+      "text": "请把备用钥匙放回邮件室上锁的柜子里。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cancellation",
+      "voice": "en",
+      "text": "cancellation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cancellation",
+      "voice": "en",
+      "text": "C, A, N, C, E, L, L, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cancellation",
+      "voice": "zh",
+      "text": "名词，取消",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cancellation",
+      "voice": "en",
+      "text": "Please confirm the cancellation in writing so we can release the room.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cancellation",
+      "voice": "zh",
+      "text": "请书面确认取消，以便我们释放房间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "capability",
+      "voice": "en",
+      "text": "capability",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "capability",
+      "voice": "en",
+      "text": "C, A, P, A, B, I, L, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "capability",
+      "voice": "zh",
+      "text": "名词，能力，性能",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "capability",
+      "voice": "en",
+      "text": "The new line has the capability to package 200 units per minute.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "capability",
+      "voice": "zh",
+      "text": "新产线每分钟可包装200件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cashier",
+      "voice": "en",
+      "text": "cashier",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cashier",
+      "voice": "en",
+      "text": "C, A, S, H, I, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cashier",
+      "voice": "zh",
+      "text": "名词，出纳，收银员",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cashier",
+      "voice": "en",
+      "text": "Please pay the invoice at the cashier on the ground floor.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cashier",
+      "voice": "zh",
+      "text": "请到一楼出纳处支付发票。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "cautious",
+      "voice": "en",
+      "text": "cautious",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "cautious",
+      "voice": "en",
+      "text": "C, A, U, T, I, O, U, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "cautious",
+      "voice": "zh",
+      "text": "形容词，谨慎的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "cautious",
+      "voice": "en",
+      "text": "The board remains cautious about expanding into new markets this year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "cautious",
+      "voice": "zh",
+      "text": "董事会对本年进入新市场仍持谨慎态度。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "collection",
+      "voice": "en",
+      "text": "collection",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "collection",
+      "voice": "en",
+      "text": "C, O, L, L, E, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "collection",
+      "voice": "zh",
+      "text": "名词，收款，收藏，系列",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "collection",
+      "voice": "en",
+      "text": "The finance team is responsible for collection of overdue invoices.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "collection",
+      "voice": "zh",
+      "text": "财务团队负责催收逾期发票。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "comment",
+      "voice": "en",
+      "text": "comment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "comment",
+      "voice": "en",
+      "text": "C, O, M, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "comment",
+      "voice": "zh",
+      "text": "名词或动词，评论，意见",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "comment",
+      "voice": "en",
+      "text": "Please add your comments in the margin of the draft contract.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "comment",
+      "voice": "zh",
+      "text": "请把意见写在合同草稿的空白处。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "commitment",
+      "voice": "en",
+      "text": "commitment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "commitment",
+      "voice": "en",
+      "text": "C, O, M, M, I, T, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "commitment",
+      "voice": "zh",
+      "text": "名词，承诺，投入",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "commitment",
+      "voice": "en",
+      "text": "We cannot take on another commitment until this project ships.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "commitment",
+      "voice": "zh",
+      "text": "在本项目发货前，我们不能再接下新的承诺。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "committee",
+      "voice": "en",
+      "text": "committee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "committee",
+      "voice": "en",
+      "text": "C, O, M, M, I, T, T, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "committee",
+      "voice": "zh",
+      "text": "名词，委员会",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "committee",
+      "voice": "en",
+      "text": "The safety committee meets on the first Monday of each month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "committee",
+      "voice": "zh",
+      "text": "安全委员会在每月第一个星期一开会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "commuter",
+      "voice": "en",
+      "text": "commuter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "commuter",
+      "voice": "en",
+      "text": "C, O, M, M, U, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "commuter",
+      "voice": "zh",
+      "text": "名词，通勤者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "commuter",
+      "voice": "en",
+      "text": "A shuttle for commuters leaves the station every 15 minutes.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "commuter",
+      "voice": "zh",
+      "text": "通勤班车每15分钟从车站发出一趟。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "compact",
+      "voice": "en",
+      "text": "compact",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "compact",
+      "voice": "en",
+      "text": "C, O, M, P, A, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "compact",
+      "voice": "zh",
+      "text": "形容词或动词，紧凑的，压缩",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "compact",
+      "voice": "en",
+      "text": "The compact printer fits on a small hotel-office desk.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "compact",
+      "voice": "zh",
+      "text": "这款紧凑型打印机放得下酒店办公室的小桌子。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "comparable",
+      "voice": "en",
+      "text": "comparable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "comparable",
+      "voice": "en",
+      "text": "C, O, M, P, A, R, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "comparable",
+      "voice": "zh",
+      "text": "形容词，可比的，类似的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "comparable",
+      "voice": "en",
+      "text": "No comparable product is available at this price point.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "comparable",
+      "voice": "zh",
+      "text": "在这个价位上没有类似的产品。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "compare",
+      "voice": "en",
+      "text": "compare",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "compare",
+      "voice": "en",
+      "text": "C, O, M, P, A, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "compare",
+      "voice": "zh",
+      "text": "动词，比较",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "compare",
+      "voice": "en",
+      "text": "Please compare the three quotes before we award the contract.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "compare",
+      "voice": "zh",
+      "text": "在授予合同前，请比较这三份报价。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "comparison",
+      "voice": "en",
+      "text": "comparison",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "comparison",
+      "voice": "en",
+      "text": "C, O, M, P, A, R, I, S, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "comparison",
+      "voice": "zh",
+      "text": "名词，比较，对照",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "comparison",
+      "voice": "en",
+      "text": "A price comparison is attached for the purchasing committee.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "comparison",
+      "voice": "zh",
+      "text": "价格对照表已附上，供采购委员会参考。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "competence",
+      "voice": "en",
+      "text": "competence",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "competence",
+      "voice": "en",
+      "text": "C, O, M, P, E, T, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "competence",
+      "voice": "zh",
+      "text": "名词，能力，胜任力",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "competence",
+      "voice": "en",
+      "text": "Language competence is required for the overseas sales role.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "competence",
+      "voice": "zh",
+      "text": "海外销售岗位要求具备语言能力。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "complain",
+      "voice": "en",
+      "text": "complain",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "complain",
+      "voice": "en",
+      "text": "C, O, M, P, L, A, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "complain",
+      "voice": "zh",
+      "text": "动词，投诉，抱怨",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "complain",
+      "voice": "en",
+      "text": "Several guests complained about the slow restaurant service.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "complain",
+      "voice": "zh",
+      "text": "几位客人投诉餐厅服务太慢。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "complete",
+      "voice": "en",
+      "text": "complete",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "complete",
+      "voice": "en",
+      "text": "C, O, M, P, L, E, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "complete",
+      "voice": "zh",
+      "text": "动词或形容词，完成，完整的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "complete",
+      "voice": "en",
+      "text": "Please complete the incident report before you leave today.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "complete",
+      "voice": "zh",
+      "text": "请在今天离开前写完事故报告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "completion",
+      "voice": "en",
+      "text": "completion",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "completion",
+      "voice": "en",
+      "text": "C, O, M, P, L, E, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "completion",
+      "voice": "zh",
+      "text": "名词，完成，竣工",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "completion",
+      "voice": "en",
+      "text": "Payment of the final invoice is due on completion of the work.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "completion",
+      "voice": "zh",
+      "text": "尾款应在工程完成后支付。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "compute",
+      "voice": "en",
+      "text": "compute",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "compute",
+      "voice": "en",
+      "text": "C, O, M, P, U, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "compute",
+      "voice": "zh",
+      "text": "动词，计算",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "compute",
+      "voice": "en",
+      "text": "The system will compute the overtime automatically from the timesheets.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "compute",
+      "voice": "zh",
+      "text": "系统将根据工时表自动计算加班。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第59轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

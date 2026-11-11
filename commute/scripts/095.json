@@ -1,0 +1,1314 @@
+{
+  "id": "095",
+  "track": 95,
+  "title": "第 95 轨",
+  "word_count": 30,
+  "headwords": [
+    "post",
+    "power",
+    "price",
+    "print",
+    "problem",
+    "public",
+    "question",
+    "record",
+    "report",
+    "store",
+    "team",
+    "test",
+    "tool",
+    "topic",
+    "total",
+    "train",
+    "treat",
+    "treatment",
+    "trip",
+    "typical",
+    "typically",
+    "unable",
+    "unacceptable",
+    "uncertain",
+    "understand",
+    "understanding",
+    "unfortunate",
+    "unfortunately",
+    "unit",
+    "unite"
+  ],
+  "entries": [
+    {
+      "word": "post",
+      "spelling": "P, O, S, T",
+      "spoken_meaning": "动词或名词，张贴，邮寄，职位",
+      "en": "Please post the new opening hours on the staff noticeboard.",
+      "zh": "请把新的营业时间张贴在员工公告栏上。"
+    },
+    {
+      "word": "power",
+      "spelling": "P, O, W, E, R",
+      "spoken_meaning": "名词，电力，权力",
+      "en": "A power cut stopped the packing line for forty minutes.",
+      "zh": "一次停电使包装线停了四十分钟。"
+    },
+    {
+      "word": "price",
+      "spelling": "P, R, I, C, E",
+      "spoken_meaning": "名词或动词，价格，定价",
+      "en": "The new price list takes effect on Monday.",
+      "zh": "新价目表于星期一生效。"
+    },
+    {
+      "word": "print",
+      "spelling": "P, R, I, N, T",
+      "spoken_meaning": "动词或名词，打印，印刷品",
+      "en": "Please print two copies of the signed contract.",
+      "zh": "请打印两份已签字的合同。"
+    },
+    {
+      "word": "problem",
+      "spelling": "P, R, O, B, L, E, M",
+      "spoken_meaning": "名词，问题",
+      "en": "If there is a problem with the badge reader, call facilities.",
+      "zh": "如果门禁读卡器有问题，请致电总务部门。"
+    },
+    {
+      "word": "public",
+      "spelling": "P, U, B, L, I, C",
+      "spoken_meaning": "形容词或名词，公共的，公众",
+      "en": "The exhibition is open to the public on Saturday.",
+      "zh": "展览周六对公众开放。"
+    },
+    {
+      "word": "question",
+      "spelling": "Q, U, E, S, T, I, O, N",
+      "spoken_meaning": "名词或动词，问题，询问",
+      "en": "Please write your question on the card and hand it to the moderator.",
+      "zh": "请把问题写在卡片上交给主持人。"
+    },
+    {
+      "word": "record",
+      "spelling": "R, E, C, O, R, D",
+      "spoken_meaning": "名词或动词，记录，唱片",
+      "en": "Please record the batch number on every quality form.",
+      "zh": "请在每份质量表上记录批次号。"
+    },
+    {
+      "word": "report",
+      "spelling": "R, E, P, O, R, T",
+      "spoken_meaning": "名词或动词，报告",
+      "en": "A short incident report should be filed before the end of the shift.",
+      "zh": "应在本班次结束前提交简短的事故报告。"
+    },
+    {
+      "word": "store",
+      "spelling": "S, T, O, R, E",
+      "spoken_meaning": "名词或动词，商店，储存",
+      "en": "Please store the samples in a cool, dry room.",
+      "zh": "请把样品存放在阴凉干燥的房间。"
+    },
+    {
+      "word": "team",
+      "spelling": "T, E, A, M",
+      "spoken_meaning": "名词，团队",
+      "en": "The packing team will work an extra hour during the sale.",
+      "zh": "促销期间，打包团队将加班一小时。"
+    },
+    {
+      "word": "test",
+      "spelling": "T, E, S, T",
+      "spoken_meaning": "名词或动词，测试，检验",
+      "en": "A drop test will be performed on the new packaging.",
+      "zh": "将对新包装进行跌落测试。"
+    },
+    {
+      "word": "tool",
+      "spelling": "T, O, O, L",
+      "spoken_meaning": "名词，工具",
+      "en": "Please return all tools to the board after the repair.",
+      "zh": "维修结束后请把所有工具放回工具板。"
+    },
+    {
+      "word": "topic",
+      "spelling": "T, O, P, I, C",
+      "spoken_meaning": "名词，主题，话题",
+      "en": "The first topic on the agenda is the warehouse move.",
+      "zh": "议程上的第一项是仓库搬迁。"
+    },
+    {
+      "word": "total",
+      "spelling": "T, O, T, A, L",
+      "spoken_meaning": "名词或形容词或动词，总计，全部的",
+      "en": "The total on the invoice does not include installation.",
+      "zh": "发票总额不包括安装费。"
+    },
+    {
+      "word": "train",
+      "spelling": "T, R, A, I, N",
+      "spoken_meaning": "动词或名词，培训，火车",
+      "en": "New cashiers will be trained on the refund process this week.",
+      "zh": "新收银员本周将接受退款流程培训。"
+    },
+    {
+      "word": "treat",
+      "spelling": "T, R, E, A, T",
+      "spoken_meaning": "动词或名词，处理，对待，请客",
+      "en": "Please treat confidential files as restricted documents.",
+      "zh": "请把机密文件当作限制级文件处理。"
+    },
+    {
+      "word": "treatment",
+      "spelling": "T, R, E, A, T, M, E, N, T",
+      "spoken_meaning": "名词，处理，对待，治疗",
+      "en": "Special treatment of fragile goods is described in the packing guide.",
+      "zh": "包装指南中说明了易碎品的特殊处理方法。"
+    },
+    {
+      "word": "trip",
+      "spelling": "T, R, I, P",
+      "spoken_meaning": "名词，行程，出差",
+      "en": "The sales trip to Osaka has been confirmed for next week.",
+      "zh": "下周去大阪的销售出差已经确认。"
+    },
+    {
+      "word": "typical",
+      "spelling": "T, Y, P, I, C, A, L",
+      "spoken_meaning": "形容词，典型的",
+      "en": "A typical order from this client is 200 units.",
+      "zh": "该客户的典型订单是200件。"
+    },
+    {
+      "word": "typically",
+      "spelling": "T, Y, P, I, C, A, L, L, Y",
+      "spoken_meaning": "副词，通常，典型地",
+      "en": "Replacements are typically shipped within two business days.",
+      "zh": "替换件通常在两个工作日内寄出。"
+    },
+    {
+      "word": "unable",
+      "spelling": "U, N, A, B, L, E",
+      "spoken_meaning": "形容词，不能的，无法的",
+      "en": "We are unable to deliver on Sunday because the warehouse is closed.",
+      "zh": "仓库周日不开放，我们无法送货。"
+    },
+    {
+      "word": "unacceptable",
+      "spelling": "U, N, A, C, C, E, P, T, A, B, L, E",
+      "spoken_meaning": "形容词，不能接受的",
+      "en": "A two-week delay would be unacceptable for the launch.",
+      "zh": "两周延误对发布来说是不能接受的。"
+    },
+    {
+      "word": "uncertain",
+      "spelling": "U, N, C, E, R, T, A, I, N",
+      "spoken_meaning": "形容词，不确定的",
+      "en": "The arrival time is still uncertain because of the storm.",
+      "zh": "由于风暴，到达时间仍不确定。"
+    },
+    {
+      "word": "understand",
+      "spelling": "U, N, D, E, R, S, T, A, N, D",
+      "spoken_meaning": "动词，理解，了解",
+      "en": "I understand that the parts will arrive on Tuesday morning.",
+      "zh": "我了解到零件将于周二上午到达。"
+    },
+    {
+      "word": "understanding",
+      "spelling": "U, N, D, E, R, S, T, A, N, D, I, N, G",
+      "spoken_meaning": "名词，理解，谅解",
+      "en": "We reached an understanding on the new delivery schedule.",
+      "zh": "我们就新的交货时间表达成了谅解。"
+    },
+    {
+      "word": "unfortunate",
+      "spelling": "U, N, F, O, R, T, U, N, A, T, E",
+      "spoken_meaning": "形容词，不幸的，令人遗憾的",
+      "en": "It is unfortunate that the samples were delayed, and we will ship replacements today.",
+      "zh": "样品延误令人遗憾，我们今天将寄出替换件。"
+    },
+    {
+      "word": "unfortunately",
+      "spelling": "U, N, F, O, R, T, U, N, A, T, E, L, Y",
+      "spoken_meaning": "副词，遗憾的是",
+      "en": "Unfortunately, the 4 p.m. shuttle is already full.",
+      "zh": "遗憾的是，下午4点的班车已经满员。"
+    },
+    {
+      "word": "unit",
+      "spelling": "U, N, I, T",
+      "spoken_meaning": "名词，单位，一台，单元",
+      "en": "Each unit is packed with a charger and a user guide.",
+      "zh": "每台设备都配有充电器和使用指南。"
+    },
+    {
+      "word": "unite",
+      "spelling": "U, N, I, T, E",
+      "spoken_meaning": "动词，联合，团结",
+      "en": "The two departments will unite to handle the product recall.",
+      "zh": "两个部门将联合处理这次产品召回。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第95轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "post",
+      "voice": "en",
+      "text": "post",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "post",
+      "voice": "en",
+      "text": "P, O, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "post",
+      "voice": "zh",
+      "text": "动词或名词，张贴，邮寄，职位",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "post",
+      "voice": "en",
+      "text": "Please post the new opening hours on the staff noticeboard.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "post",
+      "voice": "zh",
+      "text": "请把新的营业时间张贴在员工公告栏上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "power",
+      "voice": "en",
+      "text": "power",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "power",
+      "voice": "en",
+      "text": "P, O, W, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "power",
+      "voice": "zh",
+      "text": "名词，电力，权力",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "power",
+      "voice": "en",
+      "text": "A power cut stopped the packing line for forty minutes.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "power",
+      "voice": "zh",
+      "text": "一次停电使包装线停了四十分钟。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "price",
+      "voice": "en",
+      "text": "price",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "price",
+      "voice": "en",
+      "text": "P, R, I, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "price",
+      "voice": "zh",
+      "text": "名词或动词，价格，定价",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "price",
+      "voice": "en",
+      "text": "The new price list takes effect on Monday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "price",
+      "voice": "zh",
+      "text": "新价目表于星期一生效。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "print",
+      "voice": "en",
+      "text": "print",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "print",
+      "voice": "en",
+      "text": "P, R, I, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "print",
+      "voice": "zh",
+      "text": "动词或名词，打印，印刷品",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "print",
+      "voice": "en",
+      "text": "Please print two copies of the signed contract.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "print",
+      "voice": "zh",
+      "text": "请打印两份已签字的合同。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "problem",
+      "voice": "en",
+      "text": "problem",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "problem",
+      "voice": "en",
+      "text": "P, R, O, B, L, E, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "problem",
+      "voice": "zh",
+      "text": "名词，问题",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "problem",
+      "voice": "en",
+      "text": "If there is a problem with the badge reader, call facilities.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "problem",
+      "voice": "zh",
+      "text": "如果门禁读卡器有问题，请致电总务部门。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "public",
+      "voice": "en",
+      "text": "public",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "public",
+      "voice": "en",
+      "text": "P, U, B, L, I, C",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "public",
+      "voice": "zh",
+      "text": "形容词或名词，公共的，公众",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "public",
+      "voice": "en",
+      "text": "The exhibition is open to the public on Saturday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "public",
+      "voice": "zh",
+      "text": "展览周六对公众开放。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "question",
+      "voice": "en",
+      "text": "question",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "question",
+      "voice": "en",
+      "text": "Q, U, E, S, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "question",
+      "voice": "zh",
+      "text": "名词或动词，问题，询问",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "question",
+      "voice": "en",
+      "text": "Please write your question on the card and hand it to the moderator.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "question",
+      "voice": "zh",
+      "text": "请把问题写在卡片上交给主持人。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "record",
+      "voice": "en",
+      "text": "record",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "record",
+      "voice": "en",
+      "text": "R, E, C, O, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "record",
+      "voice": "zh",
+      "text": "名词或动词，记录，唱片",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "record",
+      "voice": "en",
+      "text": "Please record the batch number on every quality form.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "record",
+      "voice": "zh",
+      "text": "请在每份质量表上记录批次号。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "report",
+      "voice": "en",
+      "text": "report",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "report",
+      "voice": "en",
+      "text": "R, E, P, O, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "report",
+      "voice": "zh",
+      "text": "名词或动词，报告",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "report",
+      "voice": "en",
+      "text": "A short incident report should be filed before the end of the shift.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "report",
+      "voice": "zh",
+      "text": "应在本班次结束前提交简短的事故报告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "store",
+      "voice": "en",
+      "text": "store",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "store",
+      "voice": "en",
+      "text": "S, T, O, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "store",
+      "voice": "zh",
+      "text": "名词或动词，商店，储存",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "store",
+      "voice": "en",
+      "text": "Please store the samples in a cool, dry room.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "store",
+      "voice": "zh",
+      "text": "请把样品存放在阴凉干燥的房间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "team",
+      "voice": "en",
+      "text": "team",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "team",
+      "voice": "en",
+      "text": "T, E, A, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "team",
+      "voice": "zh",
+      "text": "名词，团队",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "team",
+      "voice": "en",
+      "text": "The packing team will work an extra hour during the sale.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "team",
+      "voice": "zh",
+      "text": "促销期间，打包团队将加班一小时。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "test",
+      "voice": "en",
+      "text": "test",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "test",
+      "voice": "en",
+      "text": "T, E, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "test",
+      "voice": "zh",
+      "text": "名词或动词，测试，检验",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "test",
+      "voice": "en",
+      "text": "A drop test will be performed on the new packaging.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "test",
+      "voice": "zh",
+      "text": "将对新包装进行跌落测试。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tool",
+      "voice": "en",
+      "text": "tool",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tool",
+      "voice": "en",
+      "text": "T, O, O, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tool",
+      "voice": "zh",
+      "text": "名词，工具",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tool",
+      "voice": "en",
+      "text": "Please return all tools to the board after the repair.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tool",
+      "voice": "zh",
+      "text": "维修结束后请把所有工具放回工具板。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "topic",
+      "voice": "en",
+      "text": "topic",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "topic",
+      "voice": "en",
+      "text": "T, O, P, I, C",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "topic",
+      "voice": "zh",
+      "text": "名词，主题，话题",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "topic",
+      "voice": "en",
+      "text": "The first topic on the agenda is the warehouse move.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "topic",
+      "voice": "zh",
+      "text": "议程上的第一项是仓库搬迁。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "total",
+      "voice": "en",
+      "text": "total",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "total",
+      "voice": "en",
+      "text": "T, O, T, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "total",
+      "voice": "zh",
+      "text": "名词或形容词或动词，总计，全部的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "total",
+      "voice": "en",
+      "text": "The total on the invoice does not include installation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "total",
+      "voice": "zh",
+      "text": "发票总额不包括安装费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "train",
+      "voice": "en",
+      "text": "train",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "train",
+      "voice": "en",
+      "text": "T, R, A, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "train",
+      "voice": "zh",
+      "text": "动词或名词，培训，火车",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "train",
+      "voice": "en",
+      "text": "New cashiers will be trained on the refund process this week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "train",
+      "voice": "zh",
+      "text": "新收银员本周将接受退款流程培训。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "treat",
+      "voice": "en",
+      "text": "treat",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "treat",
+      "voice": "en",
+      "text": "T, R, E, A, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "treat",
+      "voice": "zh",
+      "text": "动词或名词，处理，对待，请客",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "treat",
+      "voice": "en",
+      "text": "Please treat confidential files as restricted documents.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "treat",
+      "voice": "zh",
+      "text": "请把机密文件当作限制级文件处理。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "treatment",
+      "voice": "en",
+      "text": "treatment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "treatment",
+      "voice": "en",
+      "text": "T, R, E, A, T, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "treatment",
+      "voice": "zh",
+      "text": "名词，处理，对待，治疗",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "treatment",
+      "voice": "en",
+      "text": "Special treatment of fragile goods is described in the packing guide.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "treatment",
+      "voice": "zh",
+      "text": "包装指南中说明了易碎品的特殊处理方法。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "trip",
+      "voice": "en",
+      "text": "trip",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "trip",
+      "voice": "en",
+      "text": "T, R, I, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "trip",
+      "voice": "zh",
+      "text": "名词，行程，出差",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "trip",
+      "voice": "en",
+      "text": "The sales trip to Osaka has been confirmed for next week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "trip",
+      "voice": "zh",
+      "text": "下周去大阪的销售出差已经确认。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "typical",
+      "voice": "en",
+      "text": "typical",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "typical",
+      "voice": "en",
+      "text": "T, Y, P, I, C, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "typical",
+      "voice": "zh",
+      "text": "形容词，典型的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "typical",
+      "voice": "en",
+      "text": "A typical order from this client is 200 units.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "typical",
+      "voice": "zh",
+      "text": "该客户的典型订单是200件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "typically",
+      "voice": "en",
+      "text": "typically",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "typically",
+      "voice": "en",
+      "text": "T, Y, P, I, C, A, L, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "typically",
+      "voice": "zh",
+      "text": "副词，通常，典型地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "typically",
+      "voice": "en",
+      "text": "Replacements are typically shipped within two business days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "typically",
+      "voice": "zh",
+      "text": "替换件通常在两个工作日内寄出。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "unable",
+      "voice": "en",
+      "text": "unable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "unable",
+      "voice": "en",
+      "text": "U, N, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "unable",
+      "voice": "zh",
+      "text": "形容词，不能的，无法的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "unable",
+      "voice": "en",
+      "text": "We are unable to deliver on Sunday because the warehouse is closed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "unable",
+      "voice": "zh",
+      "text": "仓库周日不开放，我们无法送货。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "unacceptable",
+      "voice": "en",
+      "text": "unacceptable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "unacceptable",
+      "voice": "en",
+      "text": "U, N, A, C, C, E, P, T, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "unacceptable",
+      "voice": "zh",
+      "text": "形容词，不能接受的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "unacceptable",
+      "voice": "en",
+      "text": "A two-week delay would be unacceptable for the launch.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "unacceptable",
+      "voice": "zh",
+      "text": "两周延误对发布来说是不能接受的。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "uncertain",
+      "voice": "en",
+      "text": "uncertain",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "uncertain",
+      "voice": "en",
+      "text": "U, N, C, E, R, T, A, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "uncertain",
+      "voice": "zh",
+      "text": "形容词，不确定的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "uncertain",
+      "voice": "en",
+      "text": "The arrival time is still uncertain because of the storm.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "uncertain",
+      "voice": "zh",
+      "text": "由于风暴，到达时间仍不确定。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "understand",
+      "voice": "en",
+      "text": "understand",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "understand",
+      "voice": "en",
+      "text": "U, N, D, E, R, S, T, A, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "understand",
+      "voice": "zh",
+      "text": "动词，理解，了解",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "understand",
+      "voice": "en",
+      "text": "I understand that the parts will arrive on Tuesday morning.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "understand",
+      "voice": "zh",
+      "text": "我了解到零件将于周二上午到达。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "understanding",
+      "voice": "en",
+      "text": "understanding",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "understanding",
+      "voice": "en",
+      "text": "U, N, D, E, R, S, T, A, N, D, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "understanding",
+      "voice": "zh",
+      "text": "名词，理解，谅解",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "understanding",
+      "voice": "en",
+      "text": "We reached an understanding on the new delivery schedule.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "understanding",
+      "voice": "zh",
+      "text": "我们就新的交货时间表达成了谅解。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "unfortunate",
+      "voice": "en",
+      "text": "unfortunate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "unfortunate",
+      "voice": "en",
+      "text": "U, N, F, O, R, T, U, N, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "unfortunate",
+      "voice": "zh",
+      "text": "形容词，不幸的，令人遗憾的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "unfortunate",
+      "voice": "en",
+      "text": "It is unfortunate that the samples were delayed, and we will ship replacements today.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "unfortunate",
+      "voice": "zh",
+      "text": "样品延误令人遗憾，我们今天将寄出替换件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "unfortunately",
+      "voice": "en",
+      "text": "unfortunately",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "unfortunately",
+      "voice": "en",
+      "text": "U, N, F, O, R, T, U, N, A, T, E, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "unfortunately",
+      "voice": "zh",
+      "text": "副词，遗憾的是",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "unfortunately",
+      "voice": "en",
+      "text": "Unfortunately, the 4 p.m. shuttle is already full.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "unfortunately",
+      "voice": "zh",
+      "text": "遗憾的是，下午4点的班车已经满员。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "unit",
+      "voice": "en",
+      "text": "unit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "unit",
+      "voice": "en",
+      "text": "U, N, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "unit",
+      "voice": "zh",
+      "text": "名词，单位，一台，单元",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "unit",
+      "voice": "en",
+      "text": "Each unit is packed with a charger and a user guide.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "unit",
+      "voice": "zh",
+      "text": "每台设备都配有充电器和使用指南。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "unite",
+      "voice": "en",
+      "text": "unite",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "unite",
+      "voice": "en",
+      "text": "U, N, I, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "unite",
+      "voice": "zh",
+      "text": "动词，联合，团结",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "unite",
+      "voice": "en",
+      "text": "The two departments will unite to handle the product recall.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "unite",
+      "voice": "zh",
+      "text": "两个部门将联合处理这次产品召回。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第95轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

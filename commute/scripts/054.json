@@ -2,7 +2,7 @@
   "id": "054",
   "track": 54,
   "title": "第 54 轨",
-  "word_count": 20,
+  "word_count": 30,
   "headwords": [
     "general-ledger",
     "late-payment",
@@ -23,7 +23,17 @@
     "sales-pipeline",
     "open-rate",
     "breach-of-contract",
-    "contract-renewal"
+    "contract-renewal",
+    "deadline",
+    "announcement",
+    "bulletin",
+    "notification",
+    "postponement",
+    "resignation",
+    "revenue",
+    "defective",
+    "catering",
+    "furniture"
   ],
   "entries": [
     {
@@ -165,13 +175,83 @@
       "spoken_meaning": "名词，合同续约，合同续期，合同展期",
       "en": "Please return the contract-renewal form at least 30 days before the agreement expires.",
       "zh": "请至少在协议到期前30天交回合同续约表格。"
+    },
+    {
+      "word": "deadline",
+      "spelling": "D, E, A, D, L, I, N, E",
+      "spoken_meaning": "名词，截止日期，最后期限",
+      "en": "Please submit the bid before Friday's deadline.",
+      "zh": "请在周五的截止日期前提交投标。"
+    },
+    {
+      "word": "announcement",
+      "spelling": "A, N, N, O, U, N, C, E, M, E, N, T",
+      "spoken_meaning": "名词，公告，宣布",
+      "en": "The CEO's announcement about the merger will be posted on the intranet.",
+      "zh": "首席执行官关于合并的公告将发布在内网上。"
+    },
+    {
+      "word": "bulletin",
+      "spelling": "B, U, L, L, E, T, I, N",
+      "spoken_meaning": "名词，简报，公告",
+      "en": "A safety bulletin was circulated after the warehouse inspection.",
+      "zh": "仓库检查结束后，公司传阅了一份安全简报。"
+    },
+    {
+      "word": "notification",
+      "spelling": "N, O, T, I, F, I, C, A, T, I, O, N",
+      "spoken_meaning": "名词，通知，告知",
+      "en": "You will receive an email notification when the invoice is approved.",
+      "zh": "发票获批后，你会收到一封电子邮件通知。"
+    },
+    {
+      "word": "postponement",
+      "spelling": "P, O, S, T, P, O, N, E, M, E, N, T",
+      "spoken_meaning": "名词，推迟，延期",
+      "en": "The postponement of the product launch was caused by a parts shortage.",
+      "zh": "产品发布推迟是因为零件短缺。"
+    },
+    {
+      "word": "resignation",
+      "spelling": "R, E, S, I, G, N, A, T, I, O, N",
+      "spoken_meaning": "名词，辞职，辞呈",
+      "en": "Her resignation takes effect at the end of the notice period.",
+      "zh": "她的辞职将在通知期结束时生效。"
+    },
+    {
+      "word": "revenue",
+      "spelling": "R, E, V, E, N, U, E",
+      "spoken_meaning": "名词，营收，收入",
+      "en": "Overseas revenue now accounts for nearly half of annual sales.",
+      "zh": "海外营收目前已接近全年销售额的一半。"
+    },
+    {
+      "word": "defective",
+      "spelling": "D, E, F, E, C, T, I, V, E",
+      "spoken_meaning": "形容词，有缺陷的，有毛病的",
+      "en": "Please return any defective units within fourteen days of delivery.",
+      "zh": "请在到货十四天内退回任何有缺陷的产品。"
+    },
+    {
+      "word": "catering",
+      "spelling": "C, A, T, E, R, I, N, G",
+      "spoken_meaning": "名词，餐饮服务，承办宴席",
+      "en": "The conference center handles catering for all plenary lunches.",
+      "zh": "会议中心负责所有全体会议午餐的餐饮服务。"
+    },
+    {
+      "word": "furniture",
+      "spelling": "F, U, R, N, I, T, U, R, E",
+      "spoken_meaning": "名词，家具，办公家具",
+      "en": "The new floor plan requires additional furniture for the open workspace.",
+      "zh": "新的平面图需要为开放办公区添置家具。"
     }
   ],
   "cues": [
     {
       "kind": "intro",
       "voice": "zh",
-      "text": "托业通勤听力，第54轨，共20个单词。",
+      "text": "托业通勤听力，第54轨，共30个单词。",
       "pause_after_ms": 800
     },
     {
@@ -872,6 +952,356 @@
       "word": "contract-renewal",
       "voice": "zh",
       "text": "请至少在协议到期前30天交回合同续约表格。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "deadline",
+      "voice": "en",
+      "text": "deadline",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "deadline",
+      "voice": "en",
+      "text": "D, E, A, D, L, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "deadline",
+      "voice": "zh",
+      "text": "名词，截止日期，最后期限",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "deadline",
+      "voice": "en",
+      "text": "Please submit the bid before Friday's deadline.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "deadline",
+      "voice": "zh",
+      "text": "请在周五的截止日期前提交投标。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "announcement",
+      "voice": "en",
+      "text": "announcement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "announcement",
+      "voice": "en",
+      "text": "A, N, N, O, U, N, C, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "announcement",
+      "voice": "zh",
+      "text": "名词，公告，宣布",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "announcement",
+      "voice": "en",
+      "text": "The CEO's announcement about the merger will be posted on the intranet.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "announcement",
+      "voice": "zh",
+      "text": "首席执行官关于合并的公告将发布在内网上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bulletin",
+      "voice": "en",
+      "text": "bulletin",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bulletin",
+      "voice": "en",
+      "text": "B, U, L, L, E, T, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bulletin",
+      "voice": "zh",
+      "text": "名词，简报，公告",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bulletin",
+      "voice": "en",
+      "text": "A safety bulletin was circulated after the warehouse inspection.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bulletin",
+      "voice": "zh",
+      "text": "仓库检查结束后，公司传阅了一份安全简报。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "notification",
+      "voice": "en",
+      "text": "notification",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "notification",
+      "voice": "en",
+      "text": "N, O, T, I, F, I, C, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "notification",
+      "voice": "zh",
+      "text": "名词，通知，告知",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "notification",
+      "voice": "en",
+      "text": "You will receive an email notification when the invoice is approved.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "notification",
+      "voice": "zh",
+      "text": "发票获批后，你会收到一封电子邮件通知。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "postponement",
+      "voice": "en",
+      "text": "postponement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "postponement",
+      "voice": "en",
+      "text": "P, O, S, T, P, O, N, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "postponement",
+      "voice": "zh",
+      "text": "名词，推迟，延期",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "postponement",
+      "voice": "en",
+      "text": "The postponement of the product launch was caused by a parts shortage.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "postponement",
+      "voice": "zh",
+      "text": "产品发布推迟是因为零件短缺。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "resignation",
+      "voice": "en",
+      "text": "resignation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "resignation",
+      "voice": "en",
+      "text": "R, E, S, I, G, N, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "resignation",
+      "voice": "zh",
+      "text": "名词，辞职，辞呈",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "resignation",
+      "voice": "en",
+      "text": "Her resignation takes effect at the end of the notice period.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "resignation",
+      "voice": "zh",
+      "text": "她的辞职将在通知期结束时生效。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "revenue",
+      "voice": "en",
+      "text": "revenue",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "revenue",
+      "voice": "en",
+      "text": "R, E, V, E, N, U, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "revenue",
+      "voice": "zh",
+      "text": "名词，营收，收入",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "revenue",
+      "voice": "en",
+      "text": "Overseas revenue now accounts for nearly half of annual sales.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "revenue",
+      "voice": "zh",
+      "text": "海外营收目前已接近全年销售额的一半。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "defective",
+      "voice": "en",
+      "text": "defective",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "defective",
+      "voice": "en",
+      "text": "D, E, F, E, C, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "defective",
+      "voice": "zh",
+      "text": "形容词，有缺陷的，有毛病的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "defective",
+      "voice": "en",
+      "text": "Please return any defective units within fourteen days of delivery.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "defective",
+      "voice": "zh",
+      "text": "请在到货十四天内退回任何有缺陷的产品。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "catering",
+      "voice": "en",
+      "text": "catering",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "catering",
+      "voice": "en",
+      "text": "C, A, T, E, R, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "catering",
+      "voice": "zh",
+      "text": "名词，餐饮服务，承办宴席",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "catering",
+      "voice": "en",
+      "text": "The conference center handles catering for all plenary lunches.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "catering",
+      "voice": "zh",
+      "text": "会议中心负责所有全体会议午餐的餐饮服务。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "furniture",
+      "voice": "en",
+      "text": "furniture",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "furniture",
+      "voice": "en",
+      "text": "F, U, R, N, I, T, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "furniture",
+      "voice": "zh",
+      "text": "名词，家具，办公家具",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "furniture",
+      "voice": "en",
+      "text": "The new floor plan requires additional furniture for the open workspace.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "furniture",
+      "voice": "zh",
+      "text": "新的平面图需要为开放办公区添置家具。",
       "pause_after_ms": 1500
     },
     {

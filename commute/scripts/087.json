@@ -1,0 +1,1314 @@
+{
+  "id": "087",
+  "track": 87,
+  "title": "第 87 轨",
+  "word_count": 30,
+  "headwords": [
+    "rush",
+    "safe",
+    "safety",
+    "sale",
+    "sales",
+    "sanction",
+    "satisfaction",
+    "satisfactory",
+    "save",
+    "saving",
+    "scale",
+    "scan",
+    "scarce",
+    "score",
+    "screen",
+    "search",
+    "season",
+    "seat",
+    "secondary",
+    "secret",
+    "secretary",
+    "section",
+    "security",
+    "seek",
+    "segment",
+    "selection",
+    "sell",
+    "seller",
+    "sensible",
+    "sensitive"
+  ],
+  "entries": [
+    {
+      "word": "rush",
+      "spelling": "R, U, S, H",
+      "spoken_meaning": "名词或动词，高峰，匆忙，催促",
+      "en": "Please do not rush the quality checks during the holiday rush.",
+      "zh": "假日高峰期间请不要赶着做质量检查。"
+    },
+    {
+      "word": "safe",
+      "spelling": "S, A, F, E",
+      "spoken_meaning": "形容词或名词，安全的，保险箱",
+      "en": "Please keep the backup drives in the office safe.",
+      "zh": "请把备份硬盘放在办公室保险箱里。"
+    },
+    {
+      "word": "safety",
+      "spelling": "S, A, F, E, T, Y",
+      "spoken_meaning": "名词，安全",
+      "en": "Safety goggles must be worn in the assembly area.",
+      "zh": "装配区必须佩戴防护眼镜。"
+    },
+    {
+      "word": "sale",
+      "spelling": "S, A, L, E",
+      "spoken_meaning": "名词，销售，特卖",
+      "en": "The warehouse sale will run from Friday to Sunday.",
+      "zh": "仓库特卖将从周五持续到周日。"
+    },
+    {
+      "word": "sales",
+      "spelling": "S, A, L, E, S",
+      "spoken_meaning": "名词，销售（额），销售部门",
+      "en": "Sales of the compact model rose in the second quarter.",
+      "zh": "紧凑型产品的销售在第二季度上升。"
+    },
+    {
+      "word": "sanction",
+      "spelling": "S, A, N, C, T, I, O, N",
+      "spoken_meaning": "名词或动词，制裁，批准",
+      "en": "Export of this equipment may require a government sanction.",
+      "zh": "出口该设备可能需要政府批准。"
+    },
+    {
+      "word": "satisfaction",
+      "spelling": "S, A, T, I, S, F, A, C, T, I, O, N",
+      "spoken_meaning": "名词，满意",
+      "en": "Customer satisfaction scores improved after the training.",
+      "zh": "培训后客户满意度评分有所提高。"
+    },
+    {
+      "word": "satisfactory",
+      "spelling": "S, A, T, I, S, F, A, C, T, O, R, Y",
+      "spoken_meaning": "形容词，令人满意的",
+      "en": "The repair was completed to a satisfactory standard.",
+      "zh": "维修已达到令人满意的标准。"
+    },
+    {
+      "word": "save",
+      "spelling": "S, A, V, E",
+      "spoken_meaning": "动词，节省，保存",
+      "en": "The new route will save the drivers about 20 minutes.",
+      "zh": "新路线将为司机节省大约20分钟。"
+    },
+    {
+      "word": "saving",
+      "spelling": "S, A, V, I, N, G",
+      "spoken_meaning": "名词，节省，储蓄",
+      "en": "The lighting upgrade produced a significant energy saving.",
+      "zh": "照明升级带来了显著的能源节省。"
+    },
+    {
+      "word": "scale",
+      "spelling": "S, C, A, L, E",
+      "spoken_meaning": "名词或动词，规模，秤，按比例",
+      "en": "We plan to scale the pilot to three more stores.",
+      "zh": "我们计划把试点扩大到另外三家店。"
+    },
+    {
+      "word": "scan",
+      "spelling": "S, C, A, N",
+      "spoken_meaning": "动词或名词，扫描",
+      "en": "Please scan the signed forms and email them to payroll.",
+      "zh": "请把已签字的表格扫描后发给薪资部门。"
+    },
+    {
+      "word": "scarce",
+      "spelling": "S, C, A, R, C, E",
+      "spoken_meaning": "形容词，稀缺的",
+      "en": "Parking is scarce near the convention center, so take the shuttle.",
+      "zh": "会议中心附近车位稀缺，请乘坐班车。"
+    },
+    {
+      "word": "score",
+      "spelling": "S, C, O, R, E",
+      "spoken_meaning": "名词或动词，得分，评分",
+      "en": "The hotel scored highly for cleanliness and staff courtesy.",
+      "zh": "该酒店在清洁和员工礼貌方面得分很高。"
+    },
+    {
+      "word": "screen",
+      "spelling": "S, C, R, E, E, N",
+      "spoken_meaning": "名词或动词，屏幕，筛查",
+      "en": "Please screen visitors' bags at the staff entrance.",
+      "zh": "请在员工入口检查访客的包袋。"
+    },
+    {
+      "word": "search",
+      "spelling": "S, E, A, R, C, H",
+      "spoken_meaning": "名词或动词，搜索，搜查",
+      "en": "A search of the lost-and-found desk did not locate the laptop.",
+      "zh": "在失物招领处查找后仍未找到那台笔记本电脑。"
+    },
+    {
+      "word": "season",
+      "spelling": "S, E, A, S, O, N",
+      "spoken_meaning": "名词，季节，旺季",
+      "en": "Extra staff will be hired for the holiday season.",
+      "zh": "假日旺季将增聘人手。"
+    },
+    {
+      "word": "seat",
+      "spelling": "S, E, A, T",
+      "spoken_meaning": "名词或动词，座位，安排就座",
+      "en": "Please reserve a window seat on the morning flight.",
+      "zh": "请在早班飞机上预订一个靠窗座位。"
+    },
+    {
+      "word": "secondary",
+      "spelling": "S, E, C, O, N, D, A, R, Y",
+      "spoken_meaning": "形容词，次要的，中等的",
+      "en": "A secondary entrance is available if the main door is blocked.",
+      "zh": "如果正门被堵住，可以使用备用入口。"
+    },
+    {
+      "word": "secret",
+      "spelling": "S, E, C, R, E, T",
+      "spoken_meaning": "名词或形容词，秘密，机密的",
+      "en": "The launch date should remain secret until the press release is out.",
+      "zh": "在新闻稿发布前，发布日期应保密。"
+    },
+    {
+      "word": "secretary",
+      "spelling": "S, E, C, R, E, T, A, R, Y",
+      "spoken_meaning": "名词，秘书，书记",
+      "en": "The committee secretary will circulate the minutes tomorrow.",
+      "zh": "委员会秘书明天将分发会议记录。"
+    },
+    {
+      "word": "section",
+      "spelling": "S, E, C, T, I, O, N",
+      "spoken_meaning": "名词，部分，部门，路段",
+      "en": "Please sit in the reserved section near the stage.",
+      "zh": "请坐在舞台附近的预留区域。"
+    },
+    {
+      "word": "security",
+      "spelling": "S, E, C, U, R, I, T, Y",
+      "spoken_meaning": "名词，安保，安全",
+      "en": "Security will issue visitor badges in the lobby.",
+      "zh": "安保人员将在大厅发放访客证。"
+    },
+    {
+      "word": "seek",
+      "spelling": "S, E, E, K",
+      "spoken_meaning": "动词，寻求",
+      "en": "We will seek a second quote before awarding the contract.",
+      "zh": "在授予合同前，我们将再寻求一份报价。"
+    },
+    {
+      "word": "segment",
+      "spelling": "S, E, G, M, E, N, T",
+      "spoken_meaning": "名词，细分市场，部分",
+      "en": "The compact model is aimed at the mid-price segment.",
+      "zh": "紧凑型产品面向中等价位细分市场。"
+    },
+    {
+      "word": "selection",
+      "spelling": "S, E, L, E, C, T, I, O, N",
+      "spoken_meaning": "名词，选择，精选",
+      "en": "A selection of snacks will be available during the break.",
+      "zh": "休息时将提供精选点心。"
+    },
+    {
+      "word": "sell",
+      "spelling": "S, E, L, L",
+      "spoken_meaning": "动词，销售",
+      "en": "The outlet store will sell last season's stock at a discount.",
+      "zh": "奥特莱斯店将打折销售上季库存。"
+    },
+    {
+      "word": "seller",
+      "spelling": "S, E, L, L, E, R",
+      "spoken_meaning": "名词，卖方，销售者",
+      "en": "The seller has agreed to replace the damaged units.",
+      "zh": "卖方已同意更换损坏的产品。"
+    },
+    {
+      "word": "sensible",
+      "spelling": "S, E, N, S, I, B, L, E",
+      "spoken_meaning": "形容词，明智的，合理的",
+      "en": "A sensible precaution is to back up the files before the upgrade.",
+      "zh": "升级前备份文件是明智的预防措施。"
+    },
+    {
+      "word": "sensitive",
+      "spelling": "S, E, N, S, I, T, I, V, E",
+      "spoken_meaning": "形容词，敏感的，机密的",
+      "en": "Sensitive documents should be stored in the locked cabinet.",
+      "zh": "敏感文件应存放在上锁的柜子里。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第87轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "rush",
+      "voice": "en",
+      "text": "rush",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rush",
+      "voice": "en",
+      "text": "R, U, S, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rush",
+      "voice": "zh",
+      "text": "名词或动词，高峰，匆忙，催促",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rush",
+      "voice": "en",
+      "text": "Please do not rush the quality checks during the holiday rush.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rush",
+      "voice": "zh",
+      "text": "假日高峰期间请不要赶着做质量检查。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "safe",
+      "voice": "en",
+      "text": "safe",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "safe",
+      "voice": "en",
+      "text": "S, A, F, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "safe",
+      "voice": "zh",
+      "text": "形容词或名词，安全的，保险箱",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "safe",
+      "voice": "en",
+      "text": "Please keep the backup drives in the office safe.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "safe",
+      "voice": "zh",
+      "text": "请把备份硬盘放在办公室保险箱里。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "safety",
+      "voice": "en",
+      "text": "safety",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "safety",
+      "voice": "en",
+      "text": "S, A, F, E, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "safety",
+      "voice": "zh",
+      "text": "名词，安全",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "safety",
+      "voice": "en",
+      "text": "Safety goggles must be worn in the assembly area.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "safety",
+      "voice": "zh",
+      "text": "装配区必须佩戴防护眼镜。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sale",
+      "voice": "en",
+      "text": "sale",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sale",
+      "voice": "en",
+      "text": "S, A, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sale",
+      "voice": "zh",
+      "text": "名词，销售，特卖",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sale",
+      "voice": "en",
+      "text": "The warehouse sale will run from Friday to Sunday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sale",
+      "voice": "zh",
+      "text": "仓库特卖将从周五持续到周日。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sales",
+      "voice": "en",
+      "text": "sales",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sales",
+      "voice": "en",
+      "text": "S, A, L, E, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sales",
+      "voice": "zh",
+      "text": "名词，销售（额），销售部门",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sales",
+      "voice": "en",
+      "text": "Sales of the compact model rose in the second quarter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sales",
+      "voice": "zh",
+      "text": "紧凑型产品的销售在第二季度上升。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sanction",
+      "voice": "en",
+      "text": "sanction",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sanction",
+      "voice": "en",
+      "text": "S, A, N, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sanction",
+      "voice": "zh",
+      "text": "名词或动词，制裁，批准",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sanction",
+      "voice": "en",
+      "text": "Export of this equipment may require a government sanction.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sanction",
+      "voice": "zh",
+      "text": "出口该设备可能需要政府批准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "satisfaction",
+      "voice": "en",
+      "text": "satisfaction",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "satisfaction",
+      "voice": "en",
+      "text": "S, A, T, I, S, F, A, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "satisfaction",
+      "voice": "zh",
+      "text": "名词，满意",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "satisfaction",
+      "voice": "en",
+      "text": "Customer satisfaction scores improved after the training.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "satisfaction",
+      "voice": "zh",
+      "text": "培训后客户满意度评分有所提高。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "satisfactory",
+      "voice": "en",
+      "text": "satisfactory",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "satisfactory",
+      "voice": "en",
+      "text": "S, A, T, I, S, F, A, C, T, O, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "satisfactory",
+      "voice": "zh",
+      "text": "形容词，令人满意的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "satisfactory",
+      "voice": "en",
+      "text": "The repair was completed to a satisfactory standard.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "satisfactory",
+      "voice": "zh",
+      "text": "维修已达到令人满意的标准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "save",
+      "voice": "en",
+      "text": "save",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "save",
+      "voice": "en",
+      "text": "S, A, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "save",
+      "voice": "zh",
+      "text": "动词，节省，保存",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "save",
+      "voice": "en",
+      "text": "The new route will save the drivers about 20 minutes.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "save",
+      "voice": "zh",
+      "text": "新路线将为司机节省大约20分钟。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "saving",
+      "voice": "en",
+      "text": "saving",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "saving",
+      "voice": "en",
+      "text": "S, A, V, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "saving",
+      "voice": "zh",
+      "text": "名词，节省，储蓄",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "saving",
+      "voice": "en",
+      "text": "The lighting upgrade produced a significant energy saving.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "saving",
+      "voice": "zh",
+      "text": "照明升级带来了显著的能源节省。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "scale",
+      "voice": "en",
+      "text": "scale",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "scale",
+      "voice": "en",
+      "text": "S, C, A, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "scale",
+      "voice": "zh",
+      "text": "名词或动词，规模，秤，按比例",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "scale",
+      "voice": "en",
+      "text": "We plan to scale the pilot to three more stores.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "scale",
+      "voice": "zh",
+      "text": "我们计划把试点扩大到另外三家店。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "scan",
+      "voice": "en",
+      "text": "scan",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "scan",
+      "voice": "en",
+      "text": "S, C, A, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "scan",
+      "voice": "zh",
+      "text": "动词或名词，扫描",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "scan",
+      "voice": "en",
+      "text": "Please scan the signed forms and email them to payroll.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "scan",
+      "voice": "zh",
+      "text": "请把已签字的表格扫描后发给薪资部门。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "scarce",
+      "voice": "en",
+      "text": "scarce",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "scarce",
+      "voice": "en",
+      "text": "S, C, A, R, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "scarce",
+      "voice": "zh",
+      "text": "形容词，稀缺的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "scarce",
+      "voice": "en",
+      "text": "Parking is scarce near the convention center, so take the shuttle.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "scarce",
+      "voice": "zh",
+      "text": "会议中心附近车位稀缺，请乘坐班车。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "score",
+      "voice": "en",
+      "text": "score",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "score",
+      "voice": "en",
+      "text": "S, C, O, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "score",
+      "voice": "zh",
+      "text": "名词或动词，得分，评分",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "score",
+      "voice": "en",
+      "text": "The hotel scored highly for cleanliness and staff courtesy.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "score",
+      "voice": "zh",
+      "text": "该酒店在清洁和员工礼貌方面得分很高。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "screen",
+      "voice": "en",
+      "text": "screen",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "screen",
+      "voice": "en",
+      "text": "S, C, R, E, E, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "screen",
+      "voice": "zh",
+      "text": "名词或动词，屏幕，筛查",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "screen",
+      "voice": "en",
+      "text": "Please screen visitors' bags at the staff entrance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "screen",
+      "voice": "zh",
+      "text": "请在员工入口检查访客的包袋。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "search",
+      "voice": "en",
+      "text": "search",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "search",
+      "voice": "en",
+      "text": "S, E, A, R, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "search",
+      "voice": "zh",
+      "text": "名词或动词，搜索，搜查",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "search",
+      "voice": "en",
+      "text": "A search of the lost-and-found desk did not locate the laptop.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "search",
+      "voice": "zh",
+      "text": "在失物招领处查找后仍未找到那台笔记本电脑。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "season",
+      "voice": "en",
+      "text": "season",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "season",
+      "voice": "en",
+      "text": "S, E, A, S, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "season",
+      "voice": "zh",
+      "text": "名词，季节，旺季",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "season",
+      "voice": "en",
+      "text": "Extra staff will be hired for the holiday season.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "season",
+      "voice": "zh",
+      "text": "假日旺季将增聘人手。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "seat",
+      "voice": "en",
+      "text": "seat",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "seat",
+      "voice": "en",
+      "text": "S, E, A, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "seat",
+      "voice": "zh",
+      "text": "名词或动词，座位，安排就座",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "seat",
+      "voice": "en",
+      "text": "Please reserve a window seat on the morning flight.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "seat",
+      "voice": "zh",
+      "text": "请在早班飞机上预订一个靠窗座位。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "secondary",
+      "voice": "en",
+      "text": "secondary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "secondary",
+      "voice": "en",
+      "text": "S, E, C, O, N, D, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "secondary",
+      "voice": "zh",
+      "text": "形容词，次要的，中等的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "secondary",
+      "voice": "en",
+      "text": "A secondary entrance is available if the main door is blocked.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "secondary",
+      "voice": "zh",
+      "text": "如果正门被堵住，可以使用备用入口。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "secret",
+      "voice": "en",
+      "text": "secret",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "secret",
+      "voice": "en",
+      "text": "S, E, C, R, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "secret",
+      "voice": "zh",
+      "text": "名词或形容词，秘密，机密的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "secret",
+      "voice": "en",
+      "text": "The launch date should remain secret until the press release is out.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "secret",
+      "voice": "zh",
+      "text": "在新闻稿发布前，发布日期应保密。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "secretary",
+      "voice": "en",
+      "text": "secretary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "secretary",
+      "voice": "en",
+      "text": "S, E, C, R, E, T, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "secretary",
+      "voice": "zh",
+      "text": "名词，秘书，书记",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "secretary",
+      "voice": "en",
+      "text": "The committee secretary will circulate the minutes tomorrow.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "secretary",
+      "voice": "zh",
+      "text": "委员会秘书明天将分发会议记录。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "section",
+      "voice": "en",
+      "text": "section",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "section",
+      "voice": "en",
+      "text": "S, E, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "section",
+      "voice": "zh",
+      "text": "名词，部分，部门，路段",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "section",
+      "voice": "en",
+      "text": "Please sit in the reserved section near the stage.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "section",
+      "voice": "zh",
+      "text": "请坐在舞台附近的预留区域。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "security",
+      "voice": "en",
+      "text": "security",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "security",
+      "voice": "en",
+      "text": "S, E, C, U, R, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "security",
+      "voice": "zh",
+      "text": "名词，安保，安全",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "security",
+      "voice": "en",
+      "text": "Security will issue visitor badges in the lobby.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "security",
+      "voice": "zh",
+      "text": "安保人员将在大厅发放访客证。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "seek",
+      "voice": "en",
+      "text": "seek",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "seek",
+      "voice": "en",
+      "text": "S, E, E, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "seek",
+      "voice": "zh",
+      "text": "动词，寻求",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "seek",
+      "voice": "en",
+      "text": "We will seek a second quote before awarding the contract.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "seek",
+      "voice": "zh",
+      "text": "在授予合同前，我们将再寻求一份报价。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "segment",
+      "voice": "en",
+      "text": "segment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "segment",
+      "voice": "en",
+      "text": "S, E, G, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "segment",
+      "voice": "zh",
+      "text": "名词，细分市场，部分",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "segment",
+      "voice": "en",
+      "text": "The compact model is aimed at the mid-price segment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "segment",
+      "voice": "zh",
+      "text": "紧凑型产品面向中等价位细分市场。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "selection",
+      "voice": "en",
+      "text": "selection",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "selection",
+      "voice": "en",
+      "text": "S, E, L, E, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "selection",
+      "voice": "zh",
+      "text": "名词，选择，精选",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "selection",
+      "voice": "en",
+      "text": "A selection of snacks will be available during the break.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "selection",
+      "voice": "zh",
+      "text": "休息时将提供精选点心。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sell",
+      "voice": "en",
+      "text": "sell",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sell",
+      "voice": "en",
+      "text": "S, E, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sell",
+      "voice": "zh",
+      "text": "动词，销售",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sell",
+      "voice": "en",
+      "text": "The outlet store will sell last season's stock at a discount.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sell",
+      "voice": "zh",
+      "text": "奥特莱斯店将打折销售上季库存。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "seller",
+      "voice": "en",
+      "text": "seller",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "seller",
+      "voice": "en",
+      "text": "S, E, L, L, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "seller",
+      "voice": "zh",
+      "text": "名词，卖方，销售者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "seller",
+      "voice": "en",
+      "text": "The seller has agreed to replace the damaged units.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "seller",
+      "voice": "zh",
+      "text": "卖方已同意更换损坏的产品。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sensible",
+      "voice": "en",
+      "text": "sensible",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sensible",
+      "voice": "en",
+      "text": "S, E, N, S, I, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sensible",
+      "voice": "zh",
+      "text": "形容词，明智的，合理的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sensible",
+      "voice": "en",
+      "text": "A sensible precaution is to back up the files before the upgrade.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sensible",
+      "voice": "zh",
+      "text": "升级前备份文件是明智的预防措施。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "sensitive",
+      "voice": "en",
+      "text": "sensitive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "sensitive",
+      "voice": "en",
+      "text": "S, E, N, S, I, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "sensitive",
+      "voice": "zh",
+      "text": "形容词，敏感的，机密的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "sensitive",
+      "voice": "en",
+      "text": "Sensitive documents should be stored in the locked cabinet.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "sensitive",
+      "voice": "zh",
+      "text": "敏感文件应存放在上锁的柜子里。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第87轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

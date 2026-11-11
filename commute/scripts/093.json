@@ -1,0 +1,1314 @@
+{
+  "id": "093",
+  "track": 93,
+  "title": "第 93 轨",
+  "word_count": 30,
+  "headwords": [
+    "zone",
+    "wallet",
+    "waste",
+    "weigh",
+    "weight",
+    "willing",
+    "window",
+    "urban",
+    "urge",
+    "usage",
+    "useful",
+    "user",
+    "usual",
+    "usually",
+    "value",
+    "variable",
+    "various",
+    "vast",
+    "vessel",
+    "via",
+    "vicinity",
+    "video",
+    "view",
+    "violation",
+    "virtual",
+    "virus",
+    "visible",
+    "vision",
+    "visual",
+    "vital"
+  ],
+  "entries": [
+    {
+      "word": "zone",
+      "spelling": "Z, O, N, E",
+      "spoken_meaning": "名词，区域，地带",
+      "en": "Please unload only in the marked loading zone.",
+      "zh": "请仅在标示的装卸区内卸货。"
+    },
+    {
+      "word": "wallet",
+      "spelling": "W, A, L, L, E, T",
+      "spoken_meaning": "名词，钱包",
+      "en": "A lost wallet was handed in at the security desk.",
+      "zh": "有人把捡到的钱包交到了保安台。"
+    },
+    {
+      "word": "waste",
+      "spelling": "W, A, S, T, E",
+      "spoken_meaning": "名词或动词，浪费，废弃物",
+      "en": "Please do not waste packing materials; reuse the clean cartons.",
+      "zh": "请不要浪费包装材料，干净的纸箱可以再用。"
+    },
+    {
+      "word": "weigh",
+      "spelling": "W, E, I, G, H",
+      "spoken_meaning": "动词，称重",
+      "en": "Please weigh each carton before you print the shipping label.",
+      "zh": "打印运单标签前请称一下每个纸箱的重量。"
+    },
+    {
+      "word": "weight",
+      "spelling": "W, E, I, G, H, T",
+      "spoken_meaning": "名词，重量",
+      "en": "The weight of the crate exceeds the elevator limit.",
+      "zh": "这个板条箱的重量超过了电梯限重。"
+    },
+    {
+      "word": "willing",
+      "spelling": "W, I, L, L, I, N, G",
+      "spoken_meaning": "形容词，愿意的",
+      "en": "Several staff are willing to work the extra Sunday shift.",
+      "zh": "有几位员工愿意加班上周日班。"
+    },
+    {
+      "word": "window",
+      "spelling": "W, I, N, D, O, W",
+      "spoken_meaning": "名词，窗户，时间窗口",
+      "en": "There is a two-hour delivery window tomorrow morning.",
+      "zh": "明天上午有一个两小时的送货时间窗口。"
+    },
+    {
+      "word": "urban",
+      "spelling": "U, R, B, A, N",
+      "spoken_meaning": "形容词，城市的",
+      "en": "Urban stores have asked for more frequent, smaller deliveries.",
+      "zh": "城市门店要求更频繁、量更小的送货。"
+    },
+    {
+      "word": "urge",
+      "spelling": "U, R, G, E",
+      "spoken_meaning": "动词或名词，敦促，强烈建议",
+      "en": "We urge all staff to complete the safety quiz this week.",
+      "zh": "我们敦促所有员工本周完成安全测验。"
+    },
+    {
+      "word": "usage",
+      "spelling": "U, S, A, G, E",
+      "spoken_meaning": "名词，使用，用量",
+      "en": "Electricity usage fell after the lighting upgrade.",
+      "zh": "照明升级后用电量下降了。"
+    },
+    {
+      "word": "useful",
+      "spelling": "U, S, E, F, U, L",
+      "spoken_meaning": "形容词，有用的",
+      "en": "A barcode scanner would be useful during the stock count.",
+      "zh": "盘点时条码扫描器会很有用。"
+    },
+    {
+      "word": "user",
+      "spelling": "U, S, E, R",
+      "spoken_meaning": "名词，用户",
+      "en": "Each user must change the temporary password on first login.",
+      "zh": "每位用户必须在首次登录时更改临时密码。"
+    },
+    {
+      "word": "usual",
+      "spelling": "U, S, U, A, L",
+      "spoken_meaning": "形容词，通常的",
+      "en": "Please use the usual entrance while the lobby is being painted.",
+      "zh": "大厅粉刷期间请走平时的入口。"
+    },
+    {
+      "word": "usually",
+      "spelling": "U, S, U, A, L, L, Y",
+      "spoken_meaning": "副词，通常",
+      "en": "The shuttle usually leaves at 7:10 a.m. sharp.",
+      "zh": "班车通常在早上7:10准时出发。"
+    },
+    {
+      "word": "value",
+      "spelling": "V, A, L, U, E",
+      "spoken_meaning": "名词或动词，价值，重视",
+      "en": "We value punctuality in all customer appointments.",
+      "zh": "我们重视所有客户预约的准时。"
+    },
+    {
+      "word": "variable",
+      "spelling": "V, A, R, I, A, B, L, E",
+      "spoken_meaning": "名词或形容词，可变的，变量",
+      "en": "Delivery times are variable during the holiday season.",
+      "zh": "假日旺季的送货时间是可变的。"
+    },
+    {
+      "word": "various",
+      "spelling": "V, A, R, I, O, U, S",
+      "spoken_meaning": "形容词，各种各样的",
+      "en": "The kit contains various adapters for overseas travel.",
+      "zh": "套装包含各种海外旅行用的转接头。"
+    },
+    {
+      "word": "vast",
+      "spelling": "V, A, S, T",
+      "spoken_meaning": "形容词，巨大的，广阔的",
+      "en": "A vast majority of customers chose the two-year warranty.",
+      "zh": "绝大多数客户选择了两年保修。"
+    },
+    {
+      "word": "vessel",
+      "spelling": "V, E, S, S, E, L",
+      "spoken_meaning": "名词，船只，容器",
+      "en": "The vessel is due to leave the port on Thursday evening.",
+      "zh": "该船定于周四晚上离港。"
+    },
+    {
+      "word": "via",
+      "spelling": "V, I, A",
+      "spoken_meaning": "介词，经由，通过",
+      "en": "Please send the documents via the courier, not by regular mail.",
+      "zh": "请用快递寄送文件，不要用普通平邮。"
+    },
+    {
+      "word": "vicinity",
+      "spelling": "V, I, C, I, N, I, T, Y",
+      "spoken_meaning": "名词，附近，邻近地区",
+      "en": "Staff may park in the public garage in the vicinity of the office.",
+      "zh": "员工可把车停在办公室附近的公共车库。"
+    },
+    {
+      "word": "video",
+      "spelling": "V, I, D, E, O",
+      "spoken_meaning": "名词，视频",
+      "en": "A short safety video must be watched before you enter the plant.",
+      "zh": "进入工厂前必须观看一段简短的安全视频。"
+    },
+    {
+      "word": "view",
+      "spelling": "V, I, E, W",
+      "spoken_meaning": "名词或动词，看法，查看，景色",
+      "en": "In our view, a later delivery date would reduce the risk of errors.",
+      "zh": "在我们看来，更晚的交货日期可以降低出错风险。"
+    },
+    {
+      "word": "violation",
+      "spelling": "V, I, O, L, A, T, I, O, N",
+      "spoken_meaning": "名词，违反",
+      "en": "A parking violation on company property should be reported to security.",
+      "zh": "在公司场地违章停车应向安保报告。"
+    },
+    {
+      "word": "virtual",
+      "spelling": "V, I, R, T, U, A, L",
+      "spoken_meaning": "形容词，虚拟的，网上的",
+      "en": "A virtual briefing will be held for staff who cannot attend in person.",
+      "zh": "无法亲自出席的员工将参加线上情况说明。"
+    },
+    {
+      "word": "virus",
+      "spelling": "V, I, R, U, S",
+      "spoken_meaning": "名词，病毒",
+      "en": "Do not open email attachments if a virus warning appears.",
+      "zh": "如果出现病毒警告，请不要打开邮件附件。"
+    },
+    {
+      "word": "visible",
+      "spelling": "V, I, S, I, B, L, E",
+      "spoken_meaning": "形容词，可见的",
+      "en": "Your badge should be visible at all times in the production area.",
+      "zh": "在生产区应始终佩戴并露出证件。"
+    },
+    {
+      "word": "vision",
+      "spelling": "V, I, S, I, O, N",
+      "spoken_meaning": "名词，愿景，视力",
+      "en": "The director will share the vision for next year's expansion.",
+      "zh": "总监将分享明年扩张的愿景。"
+    },
+    {
+      "word": "visual",
+      "spelling": "V, I, S, U, A, L",
+      "spoken_meaning": "形容词，视觉的，图示的",
+      "en": "A visual checklist is posted next to the packing station.",
+      "zh": "包装台旁边贴有图示检查清单。"
+    },
+    {
+      "word": "vital",
+      "spelling": "V, I, T, A, L",
+      "spoken_meaning": "形容词，至关重要的",
+      "en": "Accurate addresses are vital for same-day delivery.",
+      "zh": "准确的地址对当日达至关重要。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第93轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "zone",
+      "voice": "en",
+      "text": "zone",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "zone",
+      "voice": "en",
+      "text": "Z, O, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "zone",
+      "voice": "zh",
+      "text": "名词，区域，地带",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "zone",
+      "voice": "en",
+      "text": "Please unload only in the marked loading zone.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "zone",
+      "voice": "zh",
+      "text": "请仅在标示的装卸区内卸货。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "wallet",
+      "voice": "en",
+      "text": "wallet",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "wallet",
+      "voice": "en",
+      "text": "W, A, L, L, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "wallet",
+      "voice": "zh",
+      "text": "名词，钱包",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "wallet",
+      "voice": "en",
+      "text": "A lost wallet was handed in at the security desk.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "wallet",
+      "voice": "zh",
+      "text": "有人把捡到的钱包交到了保安台。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "waste",
+      "voice": "en",
+      "text": "waste",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "waste",
+      "voice": "en",
+      "text": "W, A, S, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "waste",
+      "voice": "zh",
+      "text": "名词或动词，浪费，废弃物",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "waste",
+      "voice": "en",
+      "text": "Please do not waste packing materials; reuse the clean cartons.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "waste",
+      "voice": "zh",
+      "text": "请不要浪费包装材料，干净的纸箱可以再用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "weigh",
+      "voice": "en",
+      "text": "weigh",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "weigh",
+      "voice": "en",
+      "text": "W, E, I, G, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "weigh",
+      "voice": "zh",
+      "text": "动词，称重",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "weigh",
+      "voice": "en",
+      "text": "Please weigh each carton before you print the shipping label.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "weigh",
+      "voice": "zh",
+      "text": "打印运单标签前请称一下每个纸箱的重量。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "weight",
+      "voice": "en",
+      "text": "weight",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "weight",
+      "voice": "en",
+      "text": "W, E, I, G, H, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "weight",
+      "voice": "zh",
+      "text": "名词，重量",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "weight",
+      "voice": "en",
+      "text": "The weight of the crate exceeds the elevator limit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "weight",
+      "voice": "zh",
+      "text": "这个板条箱的重量超过了电梯限重。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "willing",
+      "voice": "en",
+      "text": "willing",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "willing",
+      "voice": "en",
+      "text": "W, I, L, L, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "willing",
+      "voice": "zh",
+      "text": "形容词，愿意的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "willing",
+      "voice": "en",
+      "text": "Several staff are willing to work the extra Sunday shift.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "willing",
+      "voice": "zh",
+      "text": "有几位员工愿意加班上周日班。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "window",
+      "voice": "en",
+      "text": "window",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "window",
+      "voice": "en",
+      "text": "W, I, N, D, O, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "window",
+      "voice": "zh",
+      "text": "名词，窗户，时间窗口",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "window",
+      "voice": "en",
+      "text": "There is a two-hour delivery window tomorrow morning.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "window",
+      "voice": "zh",
+      "text": "明天上午有一个两小时的送货时间窗口。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "urban",
+      "voice": "en",
+      "text": "urban",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "urban",
+      "voice": "en",
+      "text": "U, R, B, A, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "urban",
+      "voice": "zh",
+      "text": "形容词，城市的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "urban",
+      "voice": "en",
+      "text": "Urban stores have asked for more frequent, smaller deliveries.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "urban",
+      "voice": "zh",
+      "text": "城市门店要求更频繁、量更小的送货。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "urge",
+      "voice": "en",
+      "text": "urge",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "urge",
+      "voice": "en",
+      "text": "U, R, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "urge",
+      "voice": "zh",
+      "text": "动词或名词，敦促，强烈建议",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "urge",
+      "voice": "en",
+      "text": "We urge all staff to complete the safety quiz this week.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "urge",
+      "voice": "zh",
+      "text": "我们敦促所有员工本周完成安全测验。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "usage",
+      "voice": "en",
+      "text": "usage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "usage",
+      "voice": "en",
+      "text": "U, S, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "usage",
+      "voice": "zh",
+      "text": "名词，使用，用量",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "usage",
+      "voice": "en",
+      "text": "Electricity usage fell after the lighting upgrade.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "usage",
+      "voice": "zh",
+      "text": "照明升级后用电量下降了。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "useful",
+      "voice": "en",
+      "text": "useful",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "useful",
+      "voice": "en",
+      "text": "U, S, E, F, U, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "useful",
+      "voice": "zh",
+      "text": "形容词，有用的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "useful",
+      "voice": "en",
+      "text": "A barcode scanner would be useful during the stock count.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "useful",
+      "voice": "zh",
+      "text": "盘点时条码扫描器会很有用。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "user",
+      "voice": "en",
+      "text": "user",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "user",
+      "voice": "en",
+      "text": "U, S, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "user",
+      "voice": "zh",
+      "text": "名词，用户",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "user",
+      "voice": "en",
+      "text": "Each user must change the temporary password on first login.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "user",
+      "voice": "zh",
+      "text": "每位用户必须在首次登录时更改临时密码。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "usual",
+      "voice": "en",
+      "text": "usual",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "usual",
+      "voice": "en",
+      "text": "U, S, U, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "usual",
+      "voice": "zh",
+      "text": "形容词，通常的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "usual",
+      "voice": "en",
+      "text": "Please use the usual entrance while the lobby is being painted.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "usual",
+      "voice": "zh",
+      "text": "大厅粉刷期间请走平时的入口。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "usually",
+      "voice": "en",
+      "text": "usually",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "usually",
+      "voice": "en",
+      "text": "U, S, U, A, L, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "usually",
+      "voice": "zh",
+      "text": "副词，通常",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "usually",
+      "voice": "en",
+      "text": "The shuttle usually leaves at 7:10 a.m. sharp.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "usually",
+      "voice": "zh",
+      "text": "班车通常在早上7:10准时出发。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "value",
+      "voice": "en",
+      "text": "value",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "value",
+      "voice": "en",
+      "text": "V, A, L, U, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "value",
+      "voice": "zh",
+      "text": "名词或动词，价值，重视",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "value",
+      "voice": "en",
+      "text": "We value punctuality in all customer appointments.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "value",
+      "voice": "zh",
+      "text": "我们重视所有客户预约的准时。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "variable",
+      "voice": "en",
+      "text": "variable",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "variable",
+      "voice": "en",
+      "text": "V, A, R, I, A, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "variable",
+      "voice": "zh",
+      "text": "名词或形容词，可变的，变量",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "variable",
+      "voice": "en",
+      "text": "Delivery times are variable during the holiday season.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "variable",
+      "voice": "zh",
+      "text": "假日旺季的送货时间是可变的。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "various",
+      "voice": "en",
+      "text": "various",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "various",
+      "voice": "en",
+      "text": "V, A, R, I, O, U, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "various",
+      "voice": "zh",
+      "text": "形容词，各种各样的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "various",
+      "voice": "en",
+      "text": "The kit contains various adapters for overseas travel.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "various",
+      "voice": "zh",
+      "text": "套装包含各种海外旅行用的转接头。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "vast",
+      "voice": "en",
+      "text": "vast",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "vast",
+      "voice": "en",
+      "text": "V, A, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "vast",
+      "voice": "zh",
+      "text": "形容词，巨大的，广阔的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "vast",
+      "voice": "en",
+      "text": "A vast majority of customers chose the two-year warranty.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "vast",
+      "voice": "zh",
+      "text": "绝大多数客户选择了两年保修。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "vessel",
+      "voice": "en",
+      "text": "vessel",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "vessel",
+      "voice": "en",
+      "text": "V, E, S, S, E, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "vessel",
+      "voice": "zh",
+      "text": "名词，船只，容器",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "vessel",
+      "voice": "en",
+      "text": "The vessel is due to leave the port on Thursday evening.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "vessel",
+      "voice": "zh",
+      "text": "该船定于周四晚上离港。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "via",
+      "voice": "en",
+      "text": "via",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "via",
+      "voice": "en",
+      "text": "V, I, A",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "via",
+      "voice": "zh",
+      "text": "介词，经由，通过",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "via",
+      "voice": "en",
+      "text": "Please send the documents via the courier, not by regular mail.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "via",
+      "voice": "zh",
+      "text": "请用快递寄送文件，不要用普通平邮。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "vicinity",
+      "voice": "en",
+      "text": "vicinity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "vicinity",
+      "voice": "en",
+      "text": "V, I, C, I, N, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "vicinity",
+      "voice": "zh",
+      "text": "名词，附近，邻近地区",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "vicinity",
+      "voice": "en",
+      "text": "Staff may park in the public garage in the vicinity of the office.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "vicinity",
+      "voice": "zh",
+      "text": "员工可把车停在办公室附近的公共车库。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "video",
+      "voice": "en",
+      "text": "video",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "video",
+      "voice": "en",
+      "text": "V, I, D, E, O",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "video",
+      "voice": "zh",
+      "text": "名词，视频",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "video",
+      "voice": "en",
+      "text": "A short safety video must be watched before you enter the plant.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "video",
+      "voice": "zh",
+      "text": "进入工厂前必须观看一段简短的安全视频。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "view",
+      "voice": "en",
+      "text": "view",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "view",
+      "voice": "en",
+      "text": "V, I, E, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "view",
+      "voice": "zh",
+      "text": "名词或动词，看法，查看，景色",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "view",
+      "voice": "en",
+      "text": "In our view, a later delivery date would reduce the risk of errors.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "view",
+      "voice": "zh",
+      "text": "在我们看来，更晚的交货日期可以降低出错风险。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "violation",
+      "voice": "en",
+      "text": "violation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "violation",
+      "voice": "en",
+      "text": "V, I, O, L, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "violation",
+      "voice": "zh",
+      "text": "名词，违反",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "violation",
+      "voice": "en",
+      "text": "A parking violation on company property should be reported to security.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "violation",
+      "voice": "zh",
+      "text": "在公司场地违章停车应向安保报告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "virtual",
+      "voice": "en",
+      "text": "virtual",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "virtual",
+      "voice": "en",
+      "text": "V, I, R, T, U, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "virtual",
+      "voice": "zh",
+      "text": "形容词，虚拟的，网上的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "virtual",
+      "voice": "en",
+      "text": "A virtual briefing will be held for staff who cannot attend in person.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "virtual",
+      "voice": "zh",
+      "text": "无法亲自出席的员工将参加线上情况说明。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "virus",
+      "voice": "en",
+      "text": "virus",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "virus",
+      "voice": "en",
+      "text": "V, I, R, U, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "virus",
+      "voice": "zh",
+      "text": "名词，病毒",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "virus",
+      "voice": "en",
+      "text": "Do not open email attachments if a virus warning appears.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "virus",
+      "voice": "zh",
+      "text": "如果出现病毒警告，请不要打开邮件附件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "visible",
+      "voice": "en",
+      "text": "visible",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "visible",
+      "voice": "en",
+      "text": "V, I, S, I, B, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "visible",
+      "voice": "zh",
+      "text": "形容词，可见的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "visible",
+      "voice": "en",
+      "text": "Your badge should be visible at all times in the production area.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "visible",
+      "voice": "zh",
+      "text": "在生产区应始终佩戴并露出证件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "vision",
+      "voice": "en",
+      "text": "vision",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "vision",
+      "voice": "en",
+      "text": "V, I, S, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "vision",
+      "voice": "zh",
+      "text": "名词，愿景，视力",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "vision",
+      "voice": "en",
+      "text": "The director will share the vision for next year's expansion.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "vision",
+      "voice": "zh",
+      "text": "总监将分享明年扩张的愿景。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "visual",
+      "voice": "en",
+      "text": "visual",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "visual",
+      "voice": "en",
+      "text": "V, I, S, U, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "visual",
+      "voice": "zh",
+      "text": "形容词，视觉的，图示的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "visual",
+      "voice": "en",
+      "text": "A visual checklist is posted next to the packing station.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "visual",
+      "voice": "zh",
+      "text": "包装台旁边贴有图示检查清单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "vital",
+      "voice": "en",
+      "text": "vital",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "vital",
+      "voice": "en",
+      "text": "V, I, T, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "vital",
+      "voice": "zh",
+      "text": "形容词，至关重要的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "vital",
+      "voice": "en",
+      "text": "Accurate addresses are vital for same-day delivery.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "vital",
+      "voice": "zh",
+      "text": "准确的地址对当日达至关重要。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第93轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

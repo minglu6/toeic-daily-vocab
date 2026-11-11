@@ -1,0 +1,1314 @@
+{
+  "id": "082",
+  "track": 82,
+  "title": "第 82 轨",
+  "word_count": 30,
+  "headwords": [
+    "postpone",
+    "powerful",
+    "practical",
+    "practically",
+    "practice",
+    "precise",
+    "precisely",
+    "predict",
+    "prediction",
+    "prefer",
+    "preference",
+    "premise",
+    "preparation",
+    "prepare",
+    "presence",
+    "present",
+    "presentation",
+    "preserve",
+    "president",
+    "press",
+    "pressure",
+    "prevent",
+    "previously",
+    "primarily",
+    "primary",
+    "prime",
+    "principal",
+    "principle",
+    "prior",
+    "privacy"
+  ],
+  "entries": [
+    {
+      "word": "postpone",
+      "spelling": "P, O, S, T, P, O, N, E",
+      "spoken_meaning": "动词，推迟",
+      "en": "We may have to postpone the site visit if the storm continues.",
+      "zh": "如果风暴持续，我们可能不得不推迟现场考察。"
+    },
+    {
+      "word": "powerful",
+      "spelling": "P, O, W, E, R, F, U, L",
+      "spoken_meaning": "形容词，强大的，有力的",
+      "en": "A more powerful pump is needed for the upper floors.",
+      "zh": "楼上需要一台功率更大的泵。"
+    },
+    {
+      "word": "practical",
+      "spelling": "P, R, A, C, T, I, C, A, L",
+      "spoken_meaning": "形容词，实用的，实际的",
+      "en": "The workshop includes a practical session on packing fragile goods.",
+      "zh": "研讨班包含一节关于易碎品包装的实训。"
+    },
+    {
+      "word": "practically",
+      "spelling": "P, R, A, C, T, I, C, A, L, L, Y",
+      "spoken_meaning": "副词，几乎，实际上",
+      "en": "The spare room is practically ready for the visiting auditors.",
+      "zh": "备用房间差不多已为来访审计人员准备好。"
+    },
+    {
+      "word": "practice",
+      "spelling": "P, R, A, C, T, I, C, E",
+      "spoken_meaning": "名词或动词，做法，练习，执业",
+      "en": "It is our practice to confirm bookings in writing.",
+      "zh": "书面确认预订是我们的惯例。"
+    },
+    {
+      "word": "precise",
+      "spelling": "P, R, E, C, I, S, E",
+      "spoken_meaning": "形容词，精确的",
+      "en": "Please give a precise count of the unsold units.",
+      "zh": "请提供未售出产品的精确数量。"
+    },
+    {
+      "word": "precisely",
+      "spelling": "P, R, E, C, I, S, E, L, Y",
+      "spoken_meaning": "副词，精确地，恰好",
+      "en": "The shuttle leaves precisely at 7:10 a.m.",
+      "zh": "班车在早上7:10准时出发。"
+    },
+    {
+      "word": "predict",
+      "spelling": "P, R, E, D, I, C, T",
+      "spoken_meaning": "动词，预测",
+      "en": "Analysts predict higher demand for compact models next year.",
+      "zh": "分析师预测明年对紧凑型产品的需求会更高。"
+    },
+    {
+      "word": "prediction",
+      "spelling": "P, R, E, D, I, C, T, I, O, N",
+      "spoken_meaning": "名词，预测",
+      "en": "Our earlier prediction of a summer slowdown was too pessimistic.",
+      "zh": "我们先前对夏季业务放缓的预测过于悲观。"
+    },
+    {
+      "word": "prefer",
+      "spelling": "P, R, E, F, E, R",
+      "spoken_meaning": "动词，更喜欢，宁愿",
+      "en": "Most clients prefer morning meetings to late-afternoon ones.",
+      "zh": "大多数客户更喜欢上午开会，而不是傍晚。"
+    },
+    {
+      "word": "preference",
+      "spelling": "P, R, E, F, E, R, E, N, C, E",
+      "spoken_meaning": "名词，偏好，优先",
+      "en": "Please indicate your seating preference on the registration form.",
+      "zh": "请在报名表上注明座位偏好。"
+    },
+    {
+      "word": "premise",
+      "spelling": "P, R, E, M, I, S, E",
+      "spoken_meaning": "名词，前提，（premises）经营场所",
+      "en": "No visitors may enter the premises without a badge.",
+      "zh": "没有证件的访客不得进入经营场所。"
+    },
+    {
+      "word": "preparation",
+      "spelling": "P, R, E, P, A, R, A, T, I, O, N",
+      "spoken_meaning": "名词，准备",
+      "en": "Preparation for the audit should begin two weeks in advance.",
+      "zh": "审计准备工作应提前两周开始。"
+    },
+    {
+      "word": "prepare",
+      "spelling": "P, R, E, P, A, R, E",
+      "spoken_meaning": "动词，准备",
+      "en": "Please prepare name cards for all the speakers.",
+      "zh": "请为所有演讲人准备名片。"
+    },
+    {
+      "word": "presence",
+      "spelling": "P, R, E, S, E, N, C, E",
+      "spoken_meaning": "名词，在场，存在",
+      "en": "Your presence is requested at Friday's client briefing.",
+      "zh": "请出席周五的客户情况说明会。"
+    },
+    {
+      "word": "present",
+      "spelling": "P, R, E, S, E, N, T",
+      "spoken_meaning": "动词或形容词或名词，出席，提交，现在的",
+      "en": "Please present your ticket and passport at the gate.",
+      "zh": "请在登机口出示机票和护照。"
+    },
+    {
+      "word": "presentation",
+      "spelling": "P, R, E, S, E, N, T, A, T, I, O, N",
+      "spoken_meaning": "名词，演示，报告",
+      "en": "The sales presentation will last no more than 20 minutes.",
+      "zh": "销售演示不超过20分钟。"
+    },
+    {
+      "word": "preserve",
+      "spelling": "P, R, E, S, E, R, V, E",
+      "spoken_meaning": "动词，保存，维护",
+      "en": "Please preserve all packing materials until the inspection is finished.",
+      "zh": "在检查完成前请保存所有包装材料。"
+    },
+    {
+      "word": "president",
+      "spelling": "P, R, E, S, I, D, E, N, T",
+      "spoken_meaning": "名词，总裁，主席，总统",
+      "en": "The president of the association will open the conference.",
+      "zh": "协会主席将宣布会议开幕。"
+    },
+    {
+      "word": "press",
+      "spelling": "P, R, E, S, S",
+      "spoken_meaning": "名词或动词，新闻界，按，熨",
+      "en": "A press briefing will be held after the product launch.",
+      "zh": "产品发布后将举行新闻说明会。"
+    },
+    {
+      "word": "pressure",
+      "spelling": "P, R, E, S, S, U, R, E",
+      "spoken_meaning": "名词，压力",
+      "en": "There is pressure to finish the renovation before the holiday season.",
+      "zh": "必须在假日季前完成装修，时间压力很大。"
+    },
+    {
+      "word": "prevent",
+      "spelling": "P, R, E, V, E, N, T",
+      "spoken_meaning": "动词，防止",
+      "en": "Safety gates are installed to prevent unauthorized entry.",
+      "zh": "安装安全门是为了防止未经许可进入。"
+    },
+    {
+      "word": "previously",
+      "spelling": "P, R, E, V, I, O, U, S, L, Y",
+      "spoken_meaning": "副词，以前，先前",
+      "en": "The room was previously used as a storage area.",
+      "zh": "这个房间以前用作储藏区。"
+    },
+    {
+      "word": "primarily",
+      "spelling": "P, R, I, M, A, R, I, L, Y",
+      "spoken_meaning": "副词，主要地",
+      "en": "This course is intended primarily for new supervisors.",
+      "zh": "本课程主要面向新任主管。"
+    },
+    {
+      "word": "primary",
+      "spelling": "P, R, I, M, A, R, Y",
+      "spoken_meaning": "形容词，主要的，初级的",
+      "en": "Our primary concern is the safety of staff on the night shift.",
+      "zh": "我们主要关心的是夜班员工的安全。"
+    },
+    {
+      "word": "prime",
+      "spelling": "P, R, I, M, E",
+      "spoken_meaning": "形容词，主要的，黄金的",
+      "en": "The store is in a prime location near the station.",
+      "zh": "这家店位于车站附近的黄金地段。"
+    },
+    {
+      "word": "principal",
+      "spelling": "P, R, I, N, C, I, P, A, L",
+      "spoken_meaning": "形容词或名词，主要的，校长，本金",
+      "en": "The principal reason for the delay was a shortage of drivers.",
+      "zh": "延误的主要原因是司机不足。"
+    },
+    {
+      "word": "principle",
+      "spelling": "P, R, I, N, C, I, P, L, E",
+      "spoken_meaning": "名词，原则",
+      "en": "As a matter of principle, we do not accept gifts from suppliers.",
+      "zh": "作为原则，我们不接受供应商的礼品。"
+    },
+    {
+      "word": "prior",
+      "spelling": "P, R, I, O, R",
+      "spoken_meaning": "形容词，在先的，优先的",
+      "en": "Prior approval is required for any travel overseas.",
+      "zh": "任何海外差旅都需要事先批准。"
+    },
+    {
+      "word": "privacy",
+      "spelling": "P, R, I, V, A, C, Y",
+      "spoken_meaning": "名词，隐私",
+      "en": "Customer privacy must be protected when we publish case studies.",
+      "zh": "发布案例研究时必须保护客户隐私。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第82轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "postpone",
+      "voice": "en",
+      "text": "postpone",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "postpone",
+      "voice": "en",
+      "text": "P, O, S, T, P, O, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "postpone",
+      "voice": "zh",
+      "text": "动词，推迟",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "postpone",
+      "voice": "en",
+      "text": "We may have to postpone the site visit if the storm continues.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "postpone",
+      "voice": "zh",
+      "text": "如果风暴持续，我们可能不得不推迟现场考察。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "powerful",
+      "voice": "en",
+      "text": "powerful",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "powerful",
+      "voice": "en",
+      "text": "P, O, W, E, R, F, U, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "powerful",
+      "voice": "zh",
+      "text": "形容词，强大的，有力的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "powerful",
+      "voice": "en",
+      "text": "A more powerful pump is needed for the upper floors.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "powerful",
+      "voice": "zh",
+      "text": "楼上需要一台功率更大的泵。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "practical",
+      "voice": "en",
+      "text": "practical",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "practical",
+      "voice": "en",
+      "text": "P, R, A, C, T, I, C, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "practical",
+      "voice": "zh",
+      "text": "形容词，实用的，实际的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "practical",
+      "voice": "en",
+      "text": "The workshop includes a practical session on packing fragile goods.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "practical",
+      "voice": "zh",
+      "text": "研讨班包含一节关于易碎品包装的实训。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "practically",
+      "voice": "en",
+      "text": "practically",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "practically",
+      "voice": "en",
+      "text": "P, R, A, C, T, I, C, A, L, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "practically",
+      "voice": "zh",
+      "text": "副词，几乎，实际上",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "practically",
+      "voice": "en",
+      "text": "The spare room is practically ready for the visiting auditors.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "practically",
+      "voice": "zh",
+      "text": "备用房间差不多已为来访审计人员准备好。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "practice",
+      "voice": "en",
+      "text": "practice",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "practice",
+      "voice": "en",
+      "text": "P, R, A, C, T, I, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "practice",
+      "voice": "zh",
+      "text": "名词或动词，做法，练习，执业",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "practice",
+      "voice": "en",
+      "text": "It is our practice to confirm bookings in writing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "practice",
+      "voice": "zh",
+      "text": "书面确认预订是我们的惯例。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "precise",
+      "voice": "en",
+      "text": "precise",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "precise",
+      "voice": "en",
+      "text": "P, R, E, C, I, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "precise",
+      "voice": "zh",
+      "text": "形容词，精确的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "precise",
+      "voice": "en",
+      "text": "Please give a precise count of the unsold units.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "precise",
+      "voice": "zh",
+      "text": "请提供未售出产品的精确数量。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "precisely",
+      "voice": "en",
+      "text": "precisely",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "precisely",
+      "voice": "en",
+      "text": "P, R, E, C, I, S, E, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "precisely",
+      "voice": "zh",
+      "text": "副词，精确地，恰好",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "precisely",
+      "voice": "en",
+      "text": "The shuttle leaves precisely at 7:10 a.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "precisely",
+      "voice": "zh",
+      "text": "班车在早上7:10准时出发。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "predict",
+      "voice": "en",
+      "text": "predict",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "predict",
+      "voice": "en",
+      "text": "P, R, E, D, I, C, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "predict",
+      "voice": "zh",
+      "text": "动词，预测",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "predict",
+      "voice": "en",
+      "text": "Analysts predict higher demand for compact models next year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "predict",
+      "voice": "zh",
+      "text": "分析师预测明年对紧凑型产品的需求会更高。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "prediction",
+      "voice": "en",
+      "text": "prediction",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "prediction",
+      "voice": "en",
+      "text": "P, R, E, D, I, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "prediction",
+      "voice": "zh",
+      "text": "名词，预测",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "prediction",
+      "voice": "en",
+      "text": "Our earlier prediction of a summer slowdown was too pessimistic.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "prediction",
+      "voice": "zh",
+      "text": "我们先前对夏季业务放缓的预测过于悲观。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "prefer",
+      "voice": "en",
+      "text": "prefer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "prefer",
+      "voice": "en",
+      "text": "P, R, E, F, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "prefer",
+      "voice": "zh",
+      "text": "动词，更喜欢，宁愿",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "prefer",
+      "voice": "en",
+      "text": "Most clients prefer morning meetings to late-afternoon ones.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "prefer",
+      "voice": "zh",
+      "text": "大多数客户更喜欢上午开会，而不是傍晚。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "preference",
+      "voice": "en",
+      "text": "preference",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "preference",
+      "voice": "en",
+      "text": "P, R, E, F, E, R, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "preference",
+      "voice": "zh",
+      "text": "名词，偏好，优先",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "preference",
+      "voice": "en",
+      "text": "Please indicate your seating preference on the registration form.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "preference",
+      "voice": "zh",
+      "text": "请在报名表上注明座位偏好。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "premise",
+      "voice": "en",
+      "text": "premise",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "premise",
+      "voice": "en",
+      "text": "P, R, E, M, I, S, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "premise",
+      "voice": "zh",
+      "text": "名词，前提，（premises）经营场所",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "premise",
+      "voice": "en",
+      "text": "No visitors may enter the premises without a badge.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "premise",
+      "voice": "zh",
+      "text": "没有证件的访客不得进入经营场所。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "preparation",
+      "voice": "en",
+      "text": "preparation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "preparation",
+      "voice": "en",
+      "text": "P, R, E, P, A, R, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "preparation",
+      "voice": "zh",
+      "text": "名词，准备",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "preparation",
+      "voice": "en",
+      "text": "Preparation for the audit should begin two weeks in advance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "preparation",
+      "voice": "zh",
+      "text": "审计准备工作应提前两周开始。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "prepare",
+      "voice": "en",
+      "text": "prepare",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "prepare",
+      "voice": "en",
+      "text": "P, R, E, P, A, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "prepare",
+      "voice": "zh",
+      "text": "动词，准备",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "prepare",
+      "voice": "en",
+      "text": "Please prepare name cards for all the speakers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "prepare",
+      "voice": "zh",
+      "text": "请为所有演讲人准备名片。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "presence",
+      "voice": "en",
+      "text": "presence",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "presence",
+      "voice": "en",
+      "text": "P, R, E, S, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "presence",
+      "voice": "zh",
+      "text": "名词，在场，存在",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "presence",
+      "voice": "en",
+      "text": "Your presence is requested at Friday's client briefing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "presence",
+      "voice": "zh",
+      "text": "请出席周五的客户情况说明会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "present",
+      "voice": "en",
+      "text": "present",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "present",
+      "voice": "en",
+      "text": "P, R, E, S, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "present",
+      "voice": "zh",
+      "text": "动词或形容词或名词，出席，提交，现在的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "present",
+      "voice": "en",
+      "text": "Please present your ticket and passport at the gate.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "present",
+      "voice": "zh",
+      "text": "请在登机口出示机票和护照。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "presentation",
+      "voice": "en",
+      "text": "presentation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "presentation",
+      "voice": "en",
+      "text": "P, R, E, S, E, N, T, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "presentation",
+      "voice": "zh",
+      "text": "名词，演示，报告",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "presentation",
+      "voice": "en",
+      "text": "The sales presentation will last no more than 20 minutes.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "presentation",
+      "voice": "zh",
+      "text": "销售演示不超过20分钟。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "preserve",
+      "voice": "en",
+      "text": "preserve",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "preserve",
+      "voice": "en",
+      "text": "P, R, E, S, E, R, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "preserve",
+      "voice": "zh",
+      "text": "动词，保存，维护",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "preserve",
+      "voice": "en",
+      "text": "Please preserve all packing materials until the inspection is finished.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "preserve",
+      "voice": "zh",
+      "text": "在检查完成前请保存所有包装材料。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "president",
+      "voice": "en",
+      "text": "president",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "president",
+      "voice": "en",
+      "text": "P, R, E, S, I, D, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "president",
+      "voice": "zh",
+      "text": "名词，总裁，主席，总统",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "president",
+      "voice": "en",
+      "text": "The president of the association will open the conference.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "president",
+      "voice": "zh",
+      "text": "协会主席将宣布会议开幕。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "press",
+      "voice": "en",
+      "text": "press",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "press",
+      "voice": "en",
+      "text": "P, R, E, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "press",
+      "voice": "zh",
+      "text": "名词或动词，新闻界，按，熨",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "press",
+      "voice": "en",
+      "text": "A press briefing will be held after the product launch.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "press",
+      "voice": "zh",
+      "text": "产品发布后将举行新闻说明会。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "pressure",
+      "voice": "en",
+      "text": "pressure",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "pressure",
+      "voice": "en",
+      "text": "P, R, E, S, S, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "pressure",
+      "voice": "zh",
+      "text": "名词，压力",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "pressure",
+      "voice": "en",
+      "text": "There is pressure to finish the renovation before the holiday season.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "pressure",
+      "voice": "zh",
+      "text": "必须在假日季前完成装修，时间压力很大。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "prevent",
+      "voice": "en",
+      "text": "prevent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "prevent",
+      "voice": "en",
+      "text": "P, R, E, V, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "prevent",
+      "voice": "zh",
+      "text": "动词，防止",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "prevent",
+      "voice": "en",
+      "text": "Safety gates are installed to prevent unauthorized entry.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "prevent",
+      "voice": "zh",
+      "text": "安装安全门是为了防止未经许可进入。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "previously",
+      "voice": "en",
+      "text": "previously",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "previously",
+      "voice": "en",
+      "text": "P, R, E, V, I, O, U, S, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "previously",
+      "voice": "zh",
+      "text": "副词，以前，先前",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "previously",
+      "voice": "en",
+      "text": "The room was previously used as a storage area.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "previously",
+      "voice": "zh",
+      "text": "这个房间以前用作储藏区。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "primarily",
+      "voice": "en",
+      "text": "primarily",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "primarily",
+      "voice": "en",
+      "text": "P, R, I, M, A, R, I, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "primarily",
+      "voice": "zh",
+      "text": "副词，主要地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "primarily",
+      "voice": "en",
+      "text": "This course is intended primarily for new supervisors.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "primarily",
+      "voice": "zh",
+      "text": "本课程主要面向新任主管。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "primary",
+      "voice": "en",
+      "text": "primary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "primary",
+      "voice": "en",
+      "text": "P, R, I, M, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "primary",
+      "voice": "zh",
+      "text": "形容词，主要的，初级的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "primary",
+      "voice": "en",
+      "text": "Our primary concern is the safety of staff on the night shift.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "primary",
+      "voice": "zh",
+      "text": "我们主要关心的是夜班员工的安全。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "prime",
+      "voice": "en",
+      "text": "prime",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "prime",
+      "voice": "en",
+      "text": "P, R, I, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "prime",
+      "voice": "zh",
+      "text": "形容词，主要的，黄金的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "prime",
+      "voice": "en",
+      "text": "The store is in a prime location near the station.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "prime",
+      "voice": "zh",
+      "text": "这家店位于车站附近的黄金地段。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "principal",
+      "voice": "en",
+      "text": "principal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "principal",
+      "voice": "en",
+      "text": "P, R, I, N, C, I, P, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "principal",
+      "voice": "zh",
+      "text": "形容词或名词，主要的，校长，本金",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "principal",
+      "voice": "en",
+      "text": "The principal reason for the delay was a shortage of drivers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "principal",
+      "voice": "zh",
+      "text": "延误的主要原因是司机不足。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "principle",
+      "voice": "en",
+      "text": "principle",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "principle",
+      "voice": "en",
+      "text": "P, R, I, N, C, I, P, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "principle",
+      "voice": "zh",
+      "text": "名词，原则",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "principle",
+      "voice": "en",
+      "text": "As a matter of principle, we do not accept gifts from suppliers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "principle",
+      "voice": "zh",
+      "text": "作为原则，我们不接受供应商的礼品。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "prior",
+      "voice": "en",
+      "text": "prior",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "prior",
+      "voice": "en",
+      "text": "P, R, I, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "prior",
+      "voice": "zh",
+      "text": "形容词，在先的，优先的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "prior",
+      "voice": "en",
+      "text": "Prior approval is required for any travel overseas.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "prior",
+      "voice": "zh",
+      "text": "任何海外差旅都需要事先批准。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "privacy",
+      "voice": "en",
+      "text": "privacy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "privacy",
+      "voice": "en",
+      "text": "P, R, I, V, A, C, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "privacy",
+      "voice": "zh",
+      "text": "名词，隐私",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "privacy",
+      "voice": "en",
+      "text": "Customer privacy must be protected when we publish case studies.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "privacy",
+      "voice": "zh",
+      "text": "发布案例研究时必须保护客户隐私。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第82轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

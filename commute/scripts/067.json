@@ -1,0 +1,1314 @@
+{
+  "id": "067",
+  "track": 67,
+  "title": "第 67 轨",
+  "word_count": 30,
+  "headwords": [
+    "termination-letter",
+    "reference-letter",
+    "recommendation-letter",
+    "appointment-letter",
+    "resignation-letter",
+    "acceptance-letter",
+    "rejection-letter",
+    "handling-charge",
+    "storage-charge",
+    "packing-charge",
+    "tax-invoice",
+    "goods-received",
+    "time-sheet",
+    "airway-bill",
+    "hardware-store",
+    "bankruptcy",
+    "compensation",
+    "competition",
+    "competitive",
+    "confirm",
+    "consultant",
+    "documentation",
+    "economy",
+    "economist",
+    "efficiency",
+    "electrician",
+    "electronic",
+    "emergency",
+    "employer",
+    "employment"
+  ],
+  "entries": [
+    {
+      "word": "termination-letter",
+      "spelling": "T, E, R, M, I, N, A, T, I, O, N, hyphen, L, E, T, T, E, R",
+      "spoken_meaning": "名词，解聘通知书",
+      "en": "The termination-letter will be delivered by courier tomorrow.",
+      "zh": "解聘通知书将于明天由快递送达。"
+    },
+    {
+      "word": "reference-letter",
+      "spelling": "R, E, F, E, R, E, N, C, E, hyphen, L, E, T, T, E, R",
+      "spoken_meaning": "名词，推荐信，证明信",
+      "en": "You may request a reference-letter from your previous supervisor.",
+      "zh": "你可向前任主管索取推荐信。"
+    },
+    {
+      "word": "recommendation-letter",
+      "spelling": "R, E, C, O, M, M, E, N, D, A, T, I, O, N, hyphen, L, E, T, T, E, R",
+      "spoken_meaning": "名词，推荐信",
+      "en": "Please attach a recommendation-letter to the scholarship application.",
+      "zh": "请在奖学金申请中附上推荐信。"
+    },
+    {
+      "word": "appointment-letter",
+      "spelling": "A, P, P, O, I, N, T, M, E, N, T, hyphen, L, E, T, T, E, R",
+      "spoken_meaning": "名词，聘任书，任命书",
+      "en": "Your start date is confirmed in the appointment-letter.",
+      "zh": "聘任书中确认了你的到岗日期。"
+    },
+    {
+      "word": "resignation-letter",
+      "spelling": "R, E, S, I, G, N, A, T, I, O, N, hyphen, L, E, T, T, E, R",
+      "spoken_meaning": "名词，辞职信",
+      "en": "Please submit a resignation-letter to human resources and your manager.",
+      "zh": "请向人力资源部和经理提交辞职信。"
+    },
+    {
+      "word": "acceptance-letter",
+      "spelling": "A, C, C, E, P, T, A, N, C, E, hyphen, L, E, T, T, E, R",
+      "spoken_meaning": "名词，接受函，录取通知",
+      "en": "An acceptance-letter should be returned within five business days.",
+      "zh": "接受函应在五个工作日内退回。"
+    },
+    {
+      "word": "rejection-letter",
+      "spelling": "R, E, J, E, C, T, I, O, N, hyphen, L, E, T, T, E, R",
+      "spoken_meaning": "名词，拒绝信，不录用通知",
+      "en": "A rejection-letter will be sent to candidates who are not shortlisted.",
+      "zh": "未进入短名单的候选人将收到不录用通知。"
+    },
+    {
+      "word": "handling-charge",
+      "spelling": "H, A, N, D, L, I, N, G, hyphen, C, H, A, R, G, E",
+      "spoken_meaning": "名词，手续费，操作费",
+      "en": "A handling-charge applies to orders below the minimum quantity.",
+      "zh": "低于最低起订量的订单需收取手续费。"
+    },
+    {
+      "word": "storage-charge",
+      "spelling": "S, T, O, R, A, G, E, hyphen, C, H, A, R, G, E",
+      "spoken_meaning": "名词，仓储费",
+      "en": "A daily storage-charge begins after five free days at the terminal.",
+      "zh": "码头五天免费期过后将开始按日收取仓储费。"
+    },
+    {
+      "word": "packing-charge",
+      "spelling": "P, A, C, K, I, N, G, hyphen, C, H, A, R, G, E",
+      "spoken_meaning": "名词，包装费",
+      "en": "The packing-charge is waived for orders over 500 units.",
+      "zh": "超过500件的订单免收包装费。"
+    },
+    {
+      "word": "tax-invoice",
+      "spelling": "T, A, X, hyphen, I, N, V, O, I, C, E",
+      "spoken_meaning": "名词，税务发票",
+      "en": "Please issue a tax-invoice so we can claim the input credit.",
+      "zh": "请开具税务发票，以便我们申请进项抵扣。"
+    },
+    {
+      "word": "goods-received",
+      "spelling": "G, O, O, D, S, hyphen, R, E, C, E, I, V, E, D",
+      "spoken_meaning": "名词，收货记录，入库单",
+      "en": "No payment will be released without a goods-received record.",
+      "zh": "没有收货记录不得放款。"
+    },
+    {
+      "word": "time-sheet",
+      "spelling": "T, I, M, E, hyphen, S, H, E, E, T",
+      "spoken_meaning": "名词，工时表",
+      "en": "Please approve the contractor's time-sheet by Friday noon.",
+      "zh": "请在周五中午前批准承包人员的工时表。"
+    },
+    {
+      "word": "airway-bill",
+      "spelling": "A, I, R, W, A, Y, hyphen, B, I, L, L",
+      "spoken_meaning": "名词，航空运单",
+      "en": "Customs has asked for a copy of the airway-bill.",
+      "zh": "海关要求提供航空运单副本。"
+    },
+    {
+      "word": "hardware-store",
+      "spelling": "H, A, R, D, W, A, R, E, hyphen, S, T, O, R, E",
+      "spoken_meaning": "名词，五金店",
+      "en": "Facilities bought replacement locks at the hardware-store downtown.",
+      "zh": "总务部门在市区五金店购买了替换锁具。"
+    },
+    {
+      "word": "bankruptcy",
+      "spelling": "B, A, N, K, R, U, P, T, C, Y",
+      "spoken_meaning": "名词，破产",
+      "en": "The supplier filed for bankruptcy, so we are seeking a second source.",
+      "zh": "该供应商已申请破产，所以我们正在寻找第二供货来源。"
+    },
+    {
+      "word": "compensation",
+      "spelling": "C, O, M, P, E, N, S, A, T, I, O, N",
+      "spoken_meaning": "名词，补偿，报酬",
+      "en": "Compensation for the cancelled workshop will be issued as a credit.",
+      "zh": "已取消研讨班的费用将以贷记方式补偿。"
+    },
+    {
+      "word": "competition",
+      "spelling": "C, O, M, P, E, T, I, T, I, O, N",
+      "spoken_meaning": "名词，竞争，竞赛",
+      "en": "Competition in the mid-range segment has intensified this year.",
+      "zh": "中端市场竞争今年明显加剧。"
+    },
+    {
+      "word": "competitive",
+      "spelling": "C, O, M, P, E, T, I, T, I, V, E",
+      "spoken_meaning": "形容词，有竞争力的，竞争的",
+      "en": "We need a more competitive delivery time to win the bid.",
+      "zh": "要赢得投标，我们需要更有竞争力的交货期。"
+    },
+    {
+      "word": "confirm",
+      "spelling": "C, O, N, F, I, R, M",
+      "spoken_meaning": "动词，确认",
+      "en": "Please confirm the meeting time with the client's assistant.",
+      "zh": "请与客户助理确认会议时间。"
+    },
+    {
+      "word": "consultant",
+      "spelling": "C, O, N, S, U, L, T, A, N, T",
+      "spoken_meaning": "名词，顾问",
+      "en": "An external consultant will review the payroll process.",
+      "zh": "外部顾问将审查工资流程。"
+    },
+    {
+      "word": "documentation",
+      "spelling": "D, O, C, U, M, E, N, T, A, T, I, O, N",
+      "spoken_meaning": "名词，文件，文档资料",
+      "en": "Customs will not release the goods without complete documentation.",
+      "zh": "没有完整文件，海关不会放行货物。"
+    },
+    {
+      "word": "economy",
+      "spelling": "E, C, O, N, O, M, Y",
+      "spoken_meaning": "名词，经济，节约",
+      "en": "A weaker economy has reduced demand for luxury travel packages.",
+      "zh": "经济走弱降低了奢华旅行套餐的需求。"
+    },
+    {
+      "word": "economist",
+      "spelling": "E, C, O, N, O, M, I, S, T",
+      "spoken_meaning": "名词，经济学家",
+      "en": "The chief economist will brief the board on interest-rate risks.",
+      "zh": "首席经济学家将向董事会介绍利率风险。"
+    },
+    {
+      "word": "efficiency",
+      "spelling": "E, F, F, I, C, I, E, N, C, Y",
+      "spoken_meaning": "名词，效率",
+      "en": "The new layout improved efficiency in the packing area.",
+      "zh": "新的布局提高了包装区的效率。"
+    },
+    {
+      "word": "electrician",
+      "spelling": "E, L, E, C, T, R, I, C, I, A, N",
+      "spoken_meaning": "名词，电工",
+      "en": "An electrician will replace the faulty wiring tonight.",
+      "zh": "电工今晚将更换故障线路。"
+    },
+    {
+      "word": "electronic",
+      "spelling": "E, L, E, C, T, R, O, N, I, C",
+      "spoken_meaning": "形容词，电子的",
+      "en": "Please submit an electronic copy as well as the signed original.",
+      "zh": "请同时提交电子副本和已签字的原件。"
+    },
+    {
+      "word": "emergency",
+      "spelling": "E, M, E, R, G, E, N, C, Y",
+      "spoken_meaning": "名词，紧急情况，突发事件",
+      "en": "In an emergency, use the stairs, not the elevators.",
+      "zh": "遇到紧急情况请走楼梯，不要乘电梯。"
+    },
+    {
+      "word": "employer",
+      "spelling": "E, M, P, L, O, Y, E, R",
+      "spoken_meaning": "名词，雇主",
+      "en": "Your employer will provide a letter confirming your job title and salary.",
+      "zh": "雇主将出具一封确认职位和薪资的信函。"
+    },
+    {
+      "word": "employment",
+      "spelling": "E, M, P, L, O, Y, M, E, N, T",
+      "spoken_meaning": "名词，就业，雇用",
+      "en": "Previous employment should be listed in reverse chronological order.",
+      "zh": "以往的工作经历应按时间倒序列出。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第67轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "termination-letter",
+      "voice": "en",
+      "text": "termination letter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "termination-letter",
+      "voice": "en",
+      "text": "T, E, R, M, I, N, A, T, I, O, N, hyphen, L, E, T, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "termination-letter",
+      "voice": "zh",
+      "text": "名词，解聘通知书",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "termination-letter",
+      "voice": "en",
+      "text": "The termination-letter will be delivered by courier tomorrow.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "termination-letter",
+      "voice": "zh",
+      "text": "解聘通知书将于明天由快递送达。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "reference-letter",
+      "voice": "en",
+      "text": "reference letter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "reference-letter",
+      "voice": "en",
+      "text": "R, E, F, E, R, E, N, C, E, hyphen, L, E, T, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "reference-letter",
+      "voice": "zh",
+      "text": "名词，推荐信，证明信",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "reference-letter",
+      "voice": "en",
+      "text": "You may request a reference-letter from your previous supervisor.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "reference-letter",
+      "voice": "zh",
+      "text": "你可向前任主管索取推荐信。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "recommendation-letter",
+      "voice": "en",
+      "text": "recommendation letter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "recommendation-letter",
+      "voice": "en",
+      "text": "R, E, C, O, M, M, E, N, D, A, T, I, O, N, hyphen, L, E, T, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "recommendation-letter",
+      "voice": "zh",
+      "text": "名词，推荐信",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "recommendation-letter",
+      "voice": "en",
+      "text": "Please attach a recommendation-letter to the scholarship application.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "recommendation-letter",
+      "voice": "zh",
+      "text": "请在奖学金申请中附上推荐信。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "appointment-letter",
+      "voice": "en",
+      "text": "appointment letter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "appointment-letter",
+      "voice": "en",
+      "text": "A, P, P, O, I, N, T, M, E, N, T, hyphen, L, E, T, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "appointment-letter",
+      "voice": "zh",
+      "text": "名词，聘任书，任命书",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "appointment-letter",
+      "voice": "en",
+      "text": "Your start date is confirmed in the appointment-letter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "appointment-letter",
+      "voice": "zh",
+      "text": "聘任书中确认了你的到岗日期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "resignation-letter",
+      "voice": "en",
+      "text": "resignation letter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "resignation-letter",
+      "voice": "en",
+      "text": "R, E, S, I, G, N, A, T, I, O, N, hyphen, L, E, T, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "resignation-letter",
+      "voice": "zh",
+      "text": "名词，辞职信",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "resignation-letter",
+      "voice": "en",
+      "text": "Please submit a resignation-letter to human resources and your manager.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "resignation-letter",
+      "voice": "zh",
+      "text": "请向人力资源部和经理提交辞职信。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "acceptance-letter",
+      "voice": "en",
+      "text": "acceptance letter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "acceptance-letter",
+      "voice": "en",
+      "text": "A, C, C, E, P, T, A, N, C, E, hyphen, L, E, T, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "acceptance-letter",
+      "voice": "zh",
+      "text": "名词，接受函，录取通知",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "acceptance-letter",
+      "voice": "en",
+      "text": "An acceptance-letter should be returned within five business days.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "acceptance-letter",
+      "voice": "zh",
+      "text": "接受函应在五个工作日内退回。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "rejection-letter",
+      "voice": "en",
+      "text": "rejection letter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "rejection-letter",
+      "voice": "en",
+      "text": "R, E, J, E, C, T, I, O, N, hyphen, L, E, T, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "rejection-letter",
+      "voice": "zh",
+      "text": "名词，拒绝信，不录用通知",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "rejection-letter",
+      "voice": "en",
+      "text": "A rejection-letter will be sent to candidates who are not shortlisted.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "rejection-letter",
+      "voice": "zh",
+      "text": "未进入短名单的候选人将收到不录用通知。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "handling-charge",
+      "voice": "en",
+      "text": "handling charge",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "handling-charge",
+      "voice": "en",
+      "text": "H, A, N, D, L, I, N, G, hyphen, C, H, A, R, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "handling-charge",
+      "voice": "zh",
+      "text": "名词，手续费，操作费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "handling-charge",
+      "voice": "en",
+      "text": "A handling-charge applies to orders below the minimum quantity.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "handling-charge",
+      "voice": "zh",
+      "text": "低于最低起订量的订单需收取手续费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "storage-charge",
+      "voice": "en",
+      "text": "storage charge",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "storage-charge",
+      "voice": "en",
+      "text": "S, T, O, R, A, G, E, hyphen, C, H, A, R, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "storage-charge",
+      "voice": "zh",
+      "text": "名词，仓储费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "storage-charge",
+      "voice": "en",
+      "text": "A daily storage-charge begins after five free days at the terminal.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "storage-charge",
+      "voice": "zh",
+      "text": "码头五天免费期过后将开始按日收取仓储费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "packing-charge",
+      "voice": "en",
+      "text": "packing charge",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "packing-charge",
+      "voice": "en",
+      "text": "P, A, C, K, I, N, G, hyphen, C, H, A, R, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "packing-charge",
+      "voice": "zh",
+      "text": "名词，包装费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "packing-charge",
+      "voice": "en",
+      "text": "The packing-charge is waived for orders over 500 units.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "packing-charge",
+      "voice": "zh",
+      "text": "超过500件的订单免收包装费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tax-invoice",
+      "voice": "en",
+      "text": "tax invoice",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tax-invoice",
+      "voice": "en",
+      "text": "T, A, X, hyphen, I, N, V, O, I, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tax-invoice",
+      "voice": "zh",
+      "text": "名词，税务发票",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tax-invoice",
+      "voice": "en",
+      "text": "Please issue a tax-invoice so we can claim the input credit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tax-invoice",
+      "voice": "zh",
+      "text": "请开具税务发票，以便我们申请进项抵扣。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "goods-received",
+      "voice": "en",
+      "text": "goods received",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "goods-received",
+      "voice": "en",
+      "text": "G, O, O, D, S, hyphen, R, E, C, E, I, V, E, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "goods-received",
+      "voice": "zh",
+      "text": "名词，收货记录，入库单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "goods-received",
+      "voice": "en",
+      "text": "No payment will be released without a goods-received record.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "goods-received",
+      "voice": "zh",
+      "text": "没有收货记录不得放款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "time-sheet",
+      "voice": "en",
+      "text": "time sheet",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "time-sheet",
+      "voice": "en",
+      "text": "T, I, M, E, hyphen, S, H, E, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "time-sheet",
+      "voice": "zh",
+      "text": "名词，工时表",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "time-sheet",
+      "voice": "en",
+      "text": "Please approve the contractor's time-sheet by Friday noon.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "time-sheet",
+      "voice": "zh",
+      "text": "请在周五中午前批准承包人员的工时表。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "airway-bill",
+      "voice": "en",
+      "text": "airway bill",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "airway-bill",
+      "voice": "en",
+      "text": "A, I, R, W, A, Y, hyphen, B, I, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "airway-bill",
+      "voice": "zh",
+      "text": "名词，航空运单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "airway-bill",
+      "voice": "en",
+      "text": "Customs has asked for a copy of the airway-bill.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "airway-bill",
+      "voice": "zh",
+      "text": "海关要求提供航空运单副本。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hardware-store",
+      "voice": "en",
+      "text": "hardware store",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hardware-store",
+      "voice": "en",
+      "text": "H, A, R, D, W, A, R, E, hyphen, S, T, O, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hardware-store",
+      "voice": "zh",
+      "text": "名词，五金店",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hardware-store",
+      "voice": "en",
+      "text": "Facilities bought replacement locks at the hardware-store downtown.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hardware-store",
+      "voice": "zh",
+      "text": "总务部门在市区五金店购买了替换锁具。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bankruptcy",
+      "voice": "en",
+      "text": "bankruptcy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bankruptcy",
+      "voice": "en",
+      "text": "B, A, N, K, R, U, P, T, C, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bankruptcy",
+      "voice": "zh",
+      "text": "名词，破产",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bankruptcy",
+      "voice": "en",
+      "text": "The supplier filed for bankruptcy, so we are seeking a second source.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bankruptcy",
+      "voice": "zh",
+      "text": "该供应商已申请破产，所以我们正在寻找第二供货来源。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "compensation",
+      "voice": "en",
+      "text": "compensation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "compensation",
+      "voice": "en",
+      "text": "C, O, M, P, E, N, S, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "compensation",
+      "voice": "zh",
+      "text": "名词，补偿，报酬",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "compensation",
+      "voice": "en",
+      "text": "Compensation for the cancelled workshop will be issued as a credit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "compensation",
+      "voice": "zh",
+      "text": "已取消研讨班的费用将以贷记方式补偿。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "competition",
+      "voice": "en",
+      "text": "competition",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "competition",
+      "voice": "en",
+      "text": "C, O, M, P, E, T, I, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "competition",
+      "voice": "zh",
+      "text": "名词，竞争，竞赛",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "competition",
+      "voice": "en",
+      "text": "Competition in the mid-range segment has intensified this year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "competition",
+      "voice": "zh",
+      "text": "中端市场竞争今年明显加剧。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "competitive",
+      "voice": "en",
+      "text": "competitive",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "competitive",
+      "voice": "en",
+      "text": "C, O, M, P, E, T, I, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "competitive",
+      "voice": "zh",
+      "text": "形容词，有竞争力的，竞争的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "competitive",
+      "voice": "en",
+      "text": "We need a more competitive delivery time to win the bid.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "competitive",
+      "voice": "zh",
+      "text": "要赢得投标，我们需要更有竞争力的交货期。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "confirm",
+      "voice": "en",
+      "text": "confirm",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "confirm",
+      "voice": "en",
+      "text": "C, O, N, F, I, R, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "confirm",
+      "voice": "zh",
+      "text": "动词，确认",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "confirm",
+      "voice": "en",
+      "text": "Please confirm the meeting time with the client's assistant.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "confirm",
+      "voice": "zh",
+      "text": "请与客户助理确认会议时间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "consultant",
+      "voice": "en",
+      "text": "consultant",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "consultant",
+      "voice": "en",
+      "text": "C, O, N, S, U, L, T, A, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "consultant",
+      "voice": "zh",
+      "text": "名词，顾问",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "consultant",
+      "voice": "en",
+      "text": "An external consultant will review the payroll process.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "consultant",
+      "voice": "zh",
+      "text": "外部顾问将审查工资流程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "documentation",
+      "voice": "en",
+      "text": "documentation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "documentation",
+      "voice": "en",
+      "text": "D, O, C, U, M, E, N, T, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "documentation",
+      "voice": "zh",
+      "text": "名词，文件，文档资料",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "documentation",
+      "voice": "en",
+      "text": "Customs will not release the goods without complete documentation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "documentation",
+      "voice": "zh",
+      "text": "没有完整文件，海关不会放行货物。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "economy",
+      "voice": "en",
+      "text": "economy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "economy",
+      "voice": "en",
+      "text": "E, C, O, N, O, M, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "economy",
+      "voice": "zh",
+      "text": "名词，经济，节约",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "economy",
+      "voice": "en",
+      "text": "A weaker economy has reduced demand for luxury travel packages.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "economy",
+      "voice": "zh",
+      "text": "经济走弱降低了奢华旅行套餐的需求。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "economist",
+      "voice": "en",
+      "text": "economist",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "economist",
+      "voice": "en",
+      "text": "E, C, O, N, O, M, I, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "economist",
+      "voice": "zh",
+      "text": "名词，经济学家",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "economist",
+      "voice": "en",
+      "text": "The chief economist will brief the board on interest-rate risks.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "economist",
+      "voice": "zh",
+      "text": "首席经济学家将向董事会介绍利率风险。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "efficiency",
+      "voice": "en",
+      "text": "efficiency",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "efficiency",
+      "voice": "en",
+      "text": "E, F, F, I, C, I, E, N, C, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "efficiency",
+      "voice": "zh",
+      "text": "名词，效率",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "efficiency",
+      "voice": "en",
+      "text": "The new layout improved efficiency in the packing area.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "efficiency",
+      "voice": "zh",
+      "text": "新的布局提高了包装区的效率。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "electrician",
+      "voice": "en",
+      "text": "electrician",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "electrician",
+      "voice": "en",
+      "text": "E, L, E, C, T, R, I, C, I, A, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "electrician",
+      "voice": "zh",
+      "text": "名词，电工",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "electrician",
+      "voice": "en",
+      "text": "An electrician will replace the faulty wiring tonight.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "electrician",
+      "voice": "zh",
+      "text": "电工今晚将更换故障线路。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "electronic",
+      "voice": "en",
+      "text": "electronic",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "electronic",
+      "voice": "en",
+      "text": "E, L, E, C, T, R, O, N, I, C",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "electronic",
+      "voice": "zh",
+      "text": "形容词，电子的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "electronic",
+      "voice": "en",
+      "text": "Please submit an electronic copy as well as the signed original.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "electronic",
+      "voice": "zh",
+      "text": "请同时提交电子副本和已签字的原件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "emergency",
+      "voice": "en",
+      "text": "emergency",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "emergency",
+      "voice": "en",
+      "text": "E, M, E, R, G, E, N, C, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "emergency",
+      "voice": "zh",
+      "text": "名词，紧急情况，突发事件",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "emergency",
+      "voice": "en",
+      "text": "In an emergency, use the stairs, not the elevators.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "emergency",
+      "voice": "zh",
+      "text": "遇到紧急情况请走楼梯，不要乘电梯。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "employer",
+      "voice": "en",
+      "text": "employer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "employer",
+      "voice": "en",
+      "text": "E, M, P, L, O, Y, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "employer",
+      "voice": "zh",
+      "text": "名词，雇主",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "employer",
+      "voice": "en",
+      "text": "Your employer will provide a letter confirming your job title and salary.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "employer",
+      "voice": "zh",
+      "text": "雇主将出具一封确认职位和薪资的信函。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "employment",
+      "voice": "en",
+      "text": "employment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "employment",
+      "voice": "en",
+      "text": "E, M, P, L, O, Y, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "employment",
+      "voice": "zh",
+      "text": "名词，就业，雇用",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "employment",
+      "voice": "en",
+      "text": "Previous employment should be listed in reverse chronological order.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "employment",
+      "voice": "zh",
+      "text": "以往的工作经历应按时间倒序列出。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第67轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

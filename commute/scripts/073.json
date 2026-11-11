@@ -1,0 +1,1314 @@
+{
+  "id": "073",
+  "track": 73,
+  "title": "第 73 轨",
+  "word_count": 30,
+  "headwords": [
+    "goods",
+    "government",
+    "grade",
+    "gradually",
+    "graduate",
+    "graph",
+    "graphic",
+    "grateful",
+    "grocery",
+    "growth",
+    "guide",
+    "handbook",
+    "hardware",
+    "hardship",
+    "hazardous",
+    "headline",
+    "health",
+    "heating",
+    "holder",
+    "holiday",
+    "honest",
+    "honor",
+    "housing",
+    "identity",
+    "ignore",
+    "illegal",
+    "immediately",
+    "immigration",
+    "impair",
+    "importance"
+  ],
+  "entries": [
+    {
+      "word": "goods",
+      "spelling": "G, O, O, D, S",
+      "spoken_meaning": "名词，货物，商品",
+      "en": "Damaged goods should be set aside and photographed before signing.",
+      "zh": "损坏的货物应先单独存放并拍照，然后再签字。"
+    },
+    {
+      "word": "government",
+      "spelling": "G, O, V, E, R, N, M, E, N, T",
+      "spoken_meaning": "名词，政府",
+      "en": "A government inspector will visit the plant on Tuesday.",
+      "zh": "政府检查员将于周二到厂。"
+    },
+    {
+      "word": "grade",
+      "spelling": "G, R, A, D, E",
+      "spoken_meaning": "名词或动词，等级，评分",
+      "en": "The fruit is packed according to grade and size.",
+      "zh": "水果按等级和大小装箱。"
+    },
+    {
+      "word": "gradually",
+      "spelling": "G, R, A, D, U, A, L, L, Y",
+      "spoken_meaning": "副词，逐渐地",
+      "en": "We will gradually move customer records to the new system.",
+      "zh": "我们将逐步把客户记录迁移到新系统。"
+    },
+    {
+      "word": "graduate",
+      "spelling": "G, R, A, D, U, A, T, E",
+      "spoken_meaning": "名词或动词，毕业生，毕业",
+      "en": "The firm will hire five graduates for the trainee program.",
+      "zh": "公司将招收五名毕业生参加培训生项目。"
+    },
+    {
+      "word": "graph",
+      "spelling": "G, R, A, P, H",
+      "spoken_meaning": "名词，图表，曲线图",
+      "en": "The graph on page two shows monthly sales by region.",
+      "zh": "第二页的图表显示了各区域的月度销售额。"
+    },
+    {
+      "word": "graphic",
+      "spelling": "G, R, A, P, H, I, C",
+      "spoken_meaning": "形容词或名词，图示的，图形",
+      "en": "The graphic on the cover should be replaced with the new logo.",
+      "zh": "封面上的图形应换成新标识。"
+    },
+    {
+      "word": "grateful",
+      "spelling": "G, R, A, T, E, F, U, L",
+      "spoken_meaning": "形容词，感激的",
+      "en": "We are grateful for the extra staff you sent during the sale.",
+      "zh": "感谢你们在促销期间增派的人手。"
+    },
+    {
+      "word": "grocery",
+      "spelling": "G, R, O, C, E, R, Y",
+      "spoken_meaning": "名词，食品杂货，杂货店",
+      "en": "The grocery chain has asked for weekly rather than monthly deliveries.",
+      "zh": "该食品连锁店要求改为每周送货，而不是每月一次。"
+    },
+    {
+      "word": "growth",
+      "spelling": "G, R, O, W, T, H",
+      "spoken_meaning": "名词，增长，成长",
+      "en": "Strong growth in online orders has increased packing demand.",
+      "zh": "在线订单的强劲增长加大了打包需求。"
+    },
+    {
+      "word": "guide",
+      "spelling": "G, U, I, D, E",
+      "spoken_meaning": "名词或动词，指南，引导",
+      "en": "A step-by-step guide is included with the new software.",
+      "zh": "新软件附有分步指南。"
+    },
+    {
+      "word": "handbook",
+      "spelling": "H, A, N, D, B, O, O, K",
+      "spoken_meaning": "名词，手册，指南",
+      "en": "The updated employee handbook is posted on the intranet.",
+      "zh": "更新后的员工手册已发布在内网上。"
+    },
+    {
+      "word": "hardware",
+      "spelling": "H, A, R, D, W, A, R, E",
+      "spoken_meaning": "名词，硬件，五金",
+      "en": "The upgrade requires new hardware as well as a software license.",
+      "zh": "此次升级既需要新硬件，也需要软件许可。"
+    },
+    {
+      "word": "hardship",
+      "spelling": "H, A, R, D, S, H, I, P",
+      "spoken_meaning": "名词，困难，艰苦",
+      "en": "Emergency leave may be granted in cases of personal hardship.",
+      "zh": "如遇个人困难，可批准紧急休假。"
+    },
+    {
+      "word": "hazardous",
+      "spelling": "H, A, Z, A, R, D, O, U, S",
+      "spoken_meaning": "形容词，有危险的，有害的",
+      "en": "Hazardous chemicals must be stored in the locked cabinet.",
+      "zh": "危险化学品必须存放在上锁的柜子里。"
+    },
+    {
+      "word": "headline",
+      "spelling": "H, E, A, D, L, I, N, E",
+      "spoken_meaning": "名词，标题，头条",
+      "en": "Please shorten the headline on the press release.",
+      "zh": "请缩短新闻稿的标题。"
+    },
+    {
+      "word": "health",
+      "spelling": "H, E, A, L, T, H",
+      "spoken_meaning": "名词，健康",
+      "en": "A free health screening is offered to staff every October.",
+      "zh": "每年十月向员工提供免费健康检查。"
+    },
+    {
+      "word": "heating",
+      "spelling": "H, E, A, T, I, N, G",
+      "spoken_meaning": "名词，供暖，加热",
+      "en": "The heating in the warehouse will be serviced this weekend.",
+      "zh": "仓库的供暖系统将于本周末检修。"
+    },
+    {
+      "word": "holder",
+      "spelling": "H, O, L, D, E, R",
+      "spoken_meaning": "名词，持有人，支架",
+      "en": "The current license holder must sign the transfer form.",
+      "zh": "现持证者必须在转让表上签字。"
+    },
+    {
+      "word": "holiday",
+      "spelling": "H, O, L, I, D, A, Y",
+      "spoken_meaning": "名词，假日，假期",
+      "en": "The office will be closed on the public holiday and the following Friday.",
+      "zh": "公共假期及其后的星期五办公室将关闭。"
+    },
+    {
+      "word": "honest",
+      "spelling": "H, O, N, E, S, T",
+      "spoken_meaning": "形容词，诚实的",
+      "en": "Please give an honest estimate of how long the repair will take.",
+      "zh": "请如实估计维修需要多长时间。"
+    },
+    {
+      "word": "honor",
+      "spelling": "H, O, N, O, R",
+      "spoken_meaning": "动词或名词，履行，荣誉",
+      "en": "We will honor all vouchers issued before the price change.",
+      "zh": "价格调整前发出的优惠券我们一律兑现。"
+    },
+    {
+      "word": "housing",
+      "spelling": "H, O, U, S, I, N, G",
+      "spoken_meaning": "名词，住房，外壳",
+      "en": "Temporary housing is provided for staff on long-term assignment.",
+      "zh": "长期外派员工将获得临时住房。"
+    },
+    {
+      "word": "identity",
+      "spelling": "I, D, E, N, T, I, T, Y",
+      "spoken_meaning": "名词，身份",
+      "en": "Visitors must present photo identity at the security desk.",
+      "zh": "访客必须在保安台出示带照片的身份证件。"
+    },
+    {
+      "word": "ignore",
+      "spelling": "I, G, N, O, R, E",
+      "spoken_meaning": "动词，忽视，不理",
+      "en": "Do not ignore warning lights on the control panel.",
+      "zh": "不要忽视控制面板上的警示灯。"
+    },
+    {
+      "word": "illegal",
+      "spelling": "I, L, L, E, G, A, L",
+      "spoken_meaning": "形容词，非法的",
+      "en": "It is illegal to photocopy the entire training manual.",
+      "zh": "复印整本培训手册是非法的。"
+    },
+    {
+      "word": "immediately",
+      "spelling": "I, M, M, E, D, I, A, T, E, L, Y",
+      "spoken_meaning": "副词，立即，马上",
+      "en": "Please report any injury immediately to the shift supervisor.",
+      "zh": "如有受伤，请立即向当班主管报告。"
+    },
+    {
+      "word": "immigration",
+      "spelling": "I, M, M, I, G, R, A, T, I, O, N",
+      "spoken_meaning": "名词，移民，入境检查",
+      "en": "Allow extra time at immigration during the holiday period.",
+      "zh": "假日期间请为入境检查预留更多时间。"
+    },
+    {
+      "word": "impair",
+      "spelling": "I, M, P, A, I, R",
+      "spoken_meaning": "动词，损害，削弱",
+      "en": "A delayed parts shipment could impair our ability to meet the deadline.",
+      "zh": "零件延迟到货可能影响我们按期交货的能力。"
+    },
+    {
+      "word": "importance",
+      "spelling": "I, M, P, O, R, T, A, N, C, E",
+      "spoken_meaning": "名词，重要性",
+      "en": "The memo stresses the importance of locking the storeroom.",
+      "zh": "备忘录强调了锁好储藏室的重要性。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第73轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "goods",
+      "voice": "en",
+      "text": "goods",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "goods",
+      "voice": "en",
+      "text": "G, O, O, D, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "goods",
+      "voice": "zh",
+      "text": "名词，货物，商品",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "goods",
+      "voice": "en",
+      "text": "Damaged goods should be set aside and photographed before signing.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "goods",
+      "voice": "zh",
+      "text": "损坏的货物应先单独存放并拍照，然后再签字。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "government",
+      "voice": "en",
+      "text": "government",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "government",
+      "voice": "en",
+      "text": "G, O, V, E, R, N, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "government",
+      "voice": "zh",
+      "text": "名词，政府",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "government",
+      "voice": "en",
+      "text": "A government inspector will visit the plant on Tuesday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "government",
+      "voice": "zh",
+      "text": "政府检查员将于周二到厂。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "grade",
+      "voice": "en",
+      "text": "grade",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "grade",
+      "voice": "en",
+      "text": "G, R, A, D, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "grade",
+      "voice": "zh",
+      "text": "名词或动词，等级，评分",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "grade",
+      "voice": "en",
+      "text": "The fruit is packed according to grade and size.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "grade",
+      "voice": "zh",
+      "text": "水果按等级和大小装箱。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "gradually",
+      "voice": "en",
+      "text": "gradually",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "gradually",
+      "voice": "en",
+      "text": "G, R, A, D, U, A, L, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "gradually",
+      "voice": "zh",
+      "text": "副词，逐渐地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "gradually",
+      "voice": "en",
+      "text": "We will gradually move customer records to the new system.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "gradually",
+      "voice": "zh",
+      "text": "我们将逐步把客户记录迁移到新系统。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "graduate",
+      "voice": "en",
+      "text": "graduate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "graduate",
+      "voice": "en",
+      "text": "G, R, A, D, U, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "graduate",
+      "voice": "zh",
+      "text": "名词或动词，毕业生，毕业",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "graduate",
+      "voice": "en",
+      "text": "The firm will hire five graduates for the trainee program.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "graduate",
+      "voice": "zh",
+      "text": "公司将招收五名毕业生参加培训生项目。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "graph",
+      "voice": "en",
+      "text": "graph",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "graph",
+      "voice": "en",
+      "text": "G, R, A, P, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "graph",
+      "voice": "zh",
+      "text": "名词，图表，曲线图",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "graph",
+      "voice": "en",
+      "text": "The graph on page two shows monthly sales by region.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "graph",
+      "voice": "zh",
+      "text": "第二页的图表显示了各区域的月度销售额。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "graphic",
+      "voice": "en",
+      "text": "graphic",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "graphic",
+      "voice": "en",
+      "text": "G, R, A, P, H, I, C",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "graphic",
+      "voice": "zh",
+      "text": "形容词或名词，图示的，图形",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "graphic",
+      "voice": "en",
+      "text": "The graphic on the cover should be replaced with the new logo.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "graphic",
+      "voice": "zh",
+      "text": "封面上的图形应换成新标识。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "grateful",
+      "voice": "en",
+      "text": "grateful",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "grateful",
+      "voice": "en",
+      "text": "G, R, A, T, E, F, U, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "grateful",
+      "voice": "zh",
+      "text": "形容词，感激的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "grateful",
+      "voice": "en",
+      "text": "We are grateful for the extra staff you sent during the sale.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "grateful",
+      "voice": "zh",
+      "text": "感谢你们在促销期间增派的人手。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "grocery",
+      "voice": "en",
+      "text": "grocery",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "grocery",
+      "voice": "en",
+      "text": "G, R, O, C, E, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "grocery",
+      "voice": "zh",
+      "text": "名词，食品杂货，杂货店",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "grocery",
+      "voice": "en",
+      "text": "The grocery chain has asked for weekly rather than monthly deliveries.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "grocery",
+      "voice": "zh",
+      "text": "该食品连锁店要求改为每周送货，而不是每月一次。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "growth",
+      "voice": "en",
+      "text": "growth",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "growth",
+      "voice": "en",
+      "text": "G, R, O, W, T, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "growth",
+      "voice": "zh",
+      "text": "名词，增长，成长",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "growth",
+      "voice": "en",
+      "text": "Strong growth in online orders has increased packing demand.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "growth",
+      "voice": "zh",
+      "text": "在线订单的强劲增长加大了打包需求。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "guide",
+      "voice": "en",
+      "text": "guide",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "guide",
+      "voice": "en",
+      "text": "G, U, I, D, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "guide",
+      "voice": "zh",
+      "text": "名词或动词，指南，引导",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "guide",
+      "voice": "en",
+      "text": "A step-by-step guide is included with the new software.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "guide",
+      "voice": "zh",
+      "text": "新软件附有分步指南。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "handbook",
+      "voice": "en",
+      "text": "handbook",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "handbook",
+      "voice": "en",
+      "text": "H, A, N, D, B, O, O, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "handbook",
+      "voice": "zh",
+      "text": "名词，手册，指南",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "handbook",
+      "voice": "en",
+      "text": "The updated employee handbook is posted on the intranet.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "handbook",
+      "voice": "zh",
+      "text": "更新后的员工手册已发布在内网上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hardware",
+      "voice": "en",
+      "text": "hardware",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hardware",
+      "voice": "en",
+      "text": "H, A, R, D, W, A, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hardware",
+      "voice": "zh",
+      "text": "名词，硬件，五金",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hardware",
+      "voice": "en",
+      "text": "The upgrade requires new hardware as well as a software license.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hardware",
+      "voice": "zh",
+      "text": "此次升级既需要新硬件，也需要软件许可。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hardship",
+      "voice": "en",
+      "text": "hardship",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hardship",
+      "voice": "en",
+      "text": "H, A, R, D, S, H, I, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hardship",
+      "voice": "zh",
+      "text": "名词，困难，艰苦",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hardship",
+      "voice": "en",
+      "text": "Emergency leave may be granted in cases of personal hardship.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hardship",
+      "voice": "zh",
+      "text": "如遇个人困难，可批准紧急休假。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "hazardous",
+      "voice": "en",
+      "text": "hazardous",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "hazardous",
+      "voice": "en",
+      "text": "H, A, Z, A, R, D, O, U, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "hazardous",
+      "voice": "zh",
+      "text": "形容词，有危险的，有害的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "hazardous",
+      "voice": "en",
+      "text": "Hazardous chemicals must be stored in the locked cabinet.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "hazardous",
+      "voice": "zh",
+      "text": "危险化学品必须存放在上锁的柜子里。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "headline",
+      "voice": "en",
+      "text": "headline",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "headline",
+      "voice": "en",
+      "text": "H, E, A, D, L, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "headline",
+      "voice": "zh",
+      "text": "名词，标题，头条",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "headline",
+      "voice": "en",
+      "text": "Please shorten the headline on the press release.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "headline",
+      "voice": "zh",
+      "text": "请缩短新闻稿的标题。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "health",
+      "voice": "en",
+      "text": "health",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "health",
+      "voice": "en",
+      "text": "H, E, A, L, T, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "health",
+      "voice": "zh",
+      "text": "名词，健康",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "health",
+      "voice": "en",
+      "text": "A free health screening is offered to staff every October.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "health",
+      "voice": "zh",
+      "text": "每年十月向员工提供免费健康检查。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "heating",
+      "voice": "en",
+      "text": "heating",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "heating",
+      "voice": "en",
+      "text": "H, E, A, T, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "heating",
+      "voice": "zh",
+      "text": "名词，供暖，加热",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "heating",
+      "voice": "en",
+      "text": "The heating in the warehouse will be serviced this weekend.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "heating",
+      "voice": "zh",
+      "text": "仓库的供暖系统将于本周末检修。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "holder",
+      "voice": "en",
+      "text": "holder",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "holder",
+      "voice": "en",
+      "text": "H, O, L, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "holder",
+      "voice": "zh",
+      "text": "名词，持有人，支架",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "holder",
+      "voice": "en",
+      "text": "The current license holder must sign the transfer form.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "holder",
+      "voice": "zh",
+      "text": "现持证者必须在转让表上签字。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "holiday",
+      "voice": "en",
+      "text": "holiday",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "holiday",
+      "voice": "en",
+      "text": "H, O, L, I, D, A, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "holiday",
+      "voice": "zh",
+      "text": "名词，假日，假期",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "holiday",
+      "voice": "en",
+      "text": "The office will be closed on the public holiday and the following Friday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "holiday",
+      "voice": "zh",
+      "text": "公共假期及其后的星期五办公室将关闭。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "honest",
+      "voice": "en",
+      "text": "honest",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "honest",
+      "voice": "en",
+      "text": "H, O, N, E, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "honest",
+      "voice": "zh",
+      "text": "形容词，诚实的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "honest",
+      "voice": "en",
+      "text": "Please give an honest estimate of how long the repair will take.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "honest",
+      "voice": "zh",
+      "text": "请如实估计维修需要多长时间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "honor",
+      "voice": "en",
+      "text": "honor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "honor",
+      "voice": "en",
+      "text": "H, O, N, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "honor",
+      "voice": "zh",
+      "text": "动词或名词，履行，荣誉",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "honor",
+      "voice": "en",
+      "text": "We will honor all vouchers issued before the price change.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "honor",
+      "voice": "zh",
+      "text": "价格调整前发出的优惠券我们一律兑现。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "housing",
+      "voice": "en",
+      "text": "housing",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "housing",
+      "voice": "en",
+      "text": "H, O, U, S, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "housing",
+      "voice": "zh",
+      "text": "名词，住房，外壳",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "housing",
+      "voice": "en",
+      "text": "Temporary housing is provided for staff on long-term assignment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "housing",
+      "voice": "zh",
+      "text": "长期外派员工将获得临时住房。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "identity",
+      "voice": "en",
+      "text": "identity",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "identity",
+      "voice": "en",
+      "text": "I, D, E, N, T, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "identity",
+      "voice": "zh",
+      "text": "名词，身份",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "identity",
+      "voice": "en",
+      "text": "Visitors must present photo identity at the security desk.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "identity",
+      "voice": "zh",
+      "text": "访客必须在保安台出示带照片的身份证件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ignore",
+      "voice": "en",
+      "text": "ignore",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ignore",
+      "voice": "en",
+      "text": "I, G, N, O, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ignore",
+      "voice": "zh",
+      "text": "动词，忽视，不理",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ignore",
+      "voice": "en",
+      "text": "Do not ignore warning lights on the control panel.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ignore",
+      "voice": "zh",
+      "text": "不要忽视控制面板上的警示灯。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "illegal",
+      "voice": "en",
+      "text": "illegal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "illegal",
+      "voice": "en",
+      "text": "I, L, L, E, G, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "illegal",
+      "voice": "zh",
+      "text": "形容词，非法的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "illegal",
+      "voice": "en",
+      "text": "It is illegal to photocopy the entire training manual.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "illegal",
+      "voice": "zh",
+      "text": "复印整本培训手册是非法的。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "immediately",
+      "voice": "en",
+      "text": "immediately",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "immediately",
+      "voice": "en",
+      "text": "I, M, M, E, D, I, A, T, E, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "immediately",
+      "voice": "zh",
+      "text": "副词，立即，马上",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "immediately",
+      "voice": "en",
+      "text": "Please report any injury immediately to the shift supervisor.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "immediately",
+      "voice": "zh",
+      "text": "如有受伤，请立即向当班主管报告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "immigration",
+      "voice": "en",
+      "text": "immigration",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "immigration",
+      "voice": "en",
+      "text": "I, M, M, I, G, R, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "immigration",
+      "voice": "zh",
+      "text": "名词，移民，入境检查",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "immigration",
+      "voice": "en",
+      "text": "Allow extra time at immigration during the holiday period.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "immigration",
+      "voice": "zh",
+      "text": "假日期间请为入境检查预留更多时间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "impair",
+      "voice": "en",
+      "text": "impair",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "impair",
+      "voice": "en",
+      "text": "I, M, P, A, I, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "impair",
+      "voice": "zh",
+      "text": "动词，损害，削弱",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "impair",
+      "voice": "en",
+      "text": "A delayed parts shipment could impair our ability to meet the deadline.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "impair",
+      "voice": "zh",
+      "text": "零件延迟到货可能影响我们按期交货的能力。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "importance",
+      "voice": "en",
+      "text": "importance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "importance",
+      "voice": "en",
+      "text": "I, M, P, O, R, T, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "importance",
+      "voice": "zh",
+      "text": "名词，重要性",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "importance",
+      "voice": "en",
+      "text": "The memo stresses the importance of locking the storeroom.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "importance",
+      "voice": "zh",
+      "text": "备忘录强调了锁好储藏室的重要性。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第73轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

@@ -1,0 +1,1314 @@
+{
+  "id": "092",
+  "track": 92,
+  "title": "第 92 轨",
+  "word_count": 30,
+  "headwords": [
+    "translate",
+    "translation",
+    "transportation",
+    "travel",
+    "vacancy",
+    "vacation",
+    "waiter",
+    "waitress",
+    "visitor",
+    "visit",
+    "union",
+    "unemployed",
+    "utility",
+    "warrant",
+    "workplace",
+    "consultancy",
+    "licensee",
+    "waitlist",
+    "overbooked",
+    "minibar",
+    "concierge",
+    "housekeeping",
+    "welcome",
+    "warning",
+    "warn",
+    "weekly",
+    "withdrawal",
+    "witness",
+    "worldwide",
+    "worth"
+  ],
+  "entries": [
+    {
+      "word": "translate",
+      "spelling": "T, R, A, N, S, L, A, T, E",
+      "spoken_meaning": "动词，翻译",
+      "en": "Please translate the safety signs into three languages.",
+      "zh": "请把安全标识翻译成三种语言。"
+    },
+    {
+      "word": "translation",
+      "spelling": "T, R, A, N, S, L, A, T, I, O, N",
+      "spoken_meaning": "名词，翻译，译文",
+      "en": "A certified translation of the contract is required.",
+      "zh": "需要一份经过认证的合同译文。"
+    },
+    {
+      "word": "transportation",
+      "spelling": "T, R, A, N, S, P, O, R, T, A, T, I, O, N",
+      "spoken_meaning": "名词，交通，运输",
+      "en": "Transportation to the off-site workshop will be provided.",
+      "zh": "将提供前往场外研讨地点的交通。"
+    },
+    {
+      "word": "travel",
+      "spelling": "T, R, A, V, E, L",
+      "spoken_meaning": "名词或动词，旅行，差旅",
+      "en": "All overseas travel must be booked through the travel desk.",
+      "zh": "所有海外差旅必须通过差旅台预订。"
+    },
+    {
+      "word": "vacancy",
+      "spelling": "V, A, C, A, N, C, Y",
+      "spoken_meaning": "名词，空缺，空房",
+      "en": "There is a vacancy for a night-shift supervisor at the plant.",
+      "zh": "工厂有一个夜班主管的空缺。"
+    },
+    {
+      "word": "vacation",
+      "spelling": "V, A, C, A, T, I, O, N",
+      "spoken_meaning": "名词，假期",
+      "en": "Please submit vacation requests before the holiday schedule is posted.",
+      "zh": "请在假日排班公布前提交休假申请。"
+    },
+    {
+      "word": "waiter",
+      "spelling": "W, A, I, T, E, R",
+      "spoken_meaning": "名词，男服务员",
+      "en": "Please ask the waiter to bring an extra set of glasses.",
+      "zh": "请让服务员再拿一套玻璃杯来。"
+    },
+    {
+      "word": "waitress",
+      "spelling": "W, A, I, T, R, E, S, S",
+      "spoken_meaning": "名词，女服务员",
+      "en": "The waitress will take your order after you are seated.",
+      "zh": "就座后，服务员会来为您点餐。"
+    },
+    {
+      "word": "visitor",
+      "spelling": "V, I, S, I, T, O, R",
+      "spoken_meaning": "名词，访客，参观者",
+      "en": "All visitors must collect a badge at the reception desk.",
+      "zh": "所有访客必须在前台领取证件。"
+    },
+    {
+      "word": "visit",
+      "spelling": "V, I, S, I, T",
+      "spoken_meaning": "名词或动词，访问，参观",
+      "en": "A client visit is scheduled for Thursday morning.",
+      "zh": "客户来访定于周四上午。"
+    },
+    {
+      "word": "union",
+      "spelling": "U, N, I, O, N",
+      "spoken_meaning": "名词，工会，联盟",
+      "en": "The union will meet management to discuss the new shift pattern.",
+      "zh": "工会将与管理层会面，讨论新的排班方式。"
+    },
+    {
+      "word": "unemployed",
+      "spelling": "U, N, E, M, P, L, O, Y, E, D",
+      "spoken_meaning": "形容词，失业的",
+      "en": "The workshop is open to unemployed applicants who are retraining.",
+      "zh": "该研讨班向正在再培训的失业申请者开放。"
+    },
+    {
+      "word": "utility",
+      "spelling": "U, T, I, L, I, T, Y",
+      "spoken_meaning": "名词，公用事业，实用",
+      "en": "Utility bills for the warehouse are paid on the fifth of each month.",
+      "zh": "仓库的公用事业账单在每月5日支付。"
+    },
+    {
+      "word": "warrant",
+      "spelling": "W, A, R, R, A, N, T",
+      "spoken_meaning": "名词或动词，保证，搜查令，使有必要",
+      "en": "The delay does not warrant cancelling the entire shipment.",
+      "zh": "这次延误还不至于取消整批货物。"
+    },
+    {
+      "word": "workplace",
+      "spelling": "W, O, R, K, P, L, A, C, E",
+      "spoken_meaning": "名词，工作场所",
+      "en": "New workplace safety posters will be displayed in the corridor.",
+      "zh": "走廊将张贴新的工作场所安全海报。"
+    },
+    {
+      "word": "consultancy",
+      "spelling": "C, O, N, S, U, L, T, A, N, C, Y",
+      "spoken_meaning": "名词，咨询公司，咨询服务",
+      "en": "A consultancy has been hired to review our inventory process.",
+      "zh": "已聘请一家咨询公司审查我们的库存流程。"
+    },
+    {
+      "word": "licensee",
+      "spelling": "L, I, C, E, N, S, E, E",
+      "spoken_meaning": "名词，持证人，被许可方",
+      "en": "The licensee must follow the brand guidelines in all advertising.",
+      "zh": "被许可方在所有广告中必须遵守品牌指南。"
+    },
+    {
+      "word": "waitlist",
+      "spelling": "W, A, I, T, L, I, S, T",
+      "spoken_meaning": "名词，候补名单",
+      "en": "You have been added to the waitlist for the Saturday workshop.",
+      "zh": "你已进入周六研讨班的候补名单。"
+    },
+    {
+      "word": "overbooked",
+      "spelling": "O, V, E, R, B, O, O, K, E, D",
+      "spoken_meaning": "形容词，超额预订的",
+      "en": "The 9 a.m. flight is overbooked, so some passengers may be rebooked.",
+      "zh": "上午9点的航班已超额预订，部分乘客可能被改签。"
+    },
+    {
+      "word": "minibar",
+      "spelling": "M, I, N, I, B, A, R",
+      "spoken_meaning": "名词，迷你吧",
+      "en": "Minibar charges will appear on your final hotel invoice.",
+      "zh": "迷你吧消费将出现在最终酒店账单上。"
+    },
+    {
+      "word": "concierge",
+      "spelling": "C, O, N, C, I, E, R, G, E",
+      "spoken_meaning": "名词，礼宾，接待员",
+      "en": "The concierge can book a taxi to the convention center.",
+      "zh": "礼宾可以为您预订前往会议中心的出租车。"
+    },
+    {
+      "word": "housekeeping",
+      "spelling": "H, O, U, S, E, K, E, E, P, I, N, G",
+      "spoken_meaning": "名词，客房清洁，内务",
+      "en": "Please hang the sign on the door if you do not need housekeeping today.",
+      "zh": "如果今天不需要客房清洁，请把标示挂在门上。"
+    },
+    {
+      "word": "welcome",
+      "spelling": "W, E, L, C, O, M, E",
+      "spoken_meaning": "动词或形容词或名词，欢迎，受欢迎的",
+      "en": "New staff will receive a welcome briefing on their first morning.",
+      "zh": "新员工将在上班第一天上午参加迎新说明。"
+    },
+    {
+      "word": "warning",
+      "spelling": "W, A, R, N, I, N, G",
+      "spoken_meaning": "名词，警告",
+      "en": "A weather warning has been issued for this afternoon's deliveries.",
+      "zh": "已针对今天下午的送货发布天气预警。"
+    },
+    {
+      "word": "warn",
+      "spelling": "W, A, R, N",
+      "spoken_meaning": "动词，警告，提醒",
+      "en": "Please warn the driver about the low bridge on the back route.",
+      "zh": "请提醒司机后路有一座限高桥。"
+    },
+    {
+      "word": "weekly",
+      "spelling": "W, E, E, K, L, Y",
+      "spoken_meaning": "形容词或副词，每周的，每周",
+      "en": "A weekly stock report is due every Monday morning.",
+      "zh": "每周库存报告须在周一上午提交。"
+    },
+    {
+      "word": "withdrawal",
+      "spelling": "W, I, T, H, D, R, A, W, A, L",
+      "spoken_meaning": "名词，撤回，取款",
+      "en": "The buyer requested a withdrawal of the last purchase order.",
+      "zh": "买方要求撤回最后一份采购订单。"
+    },
+    {
+      "word": "witness",
+      "spelling": "W, I, T, N, E, S, S",
+      "spoken_meaning": "名词或动词，证人，目击",
+      "en": "Two staff members must witness the destruction of the expired samples.",
+      "zh": "过期样品销毁时必须有两名员工在场作证。"
+    },
+    {
+      "word": "worldwide",
+      "spelling": "W, O, R, L, D, W, I, D, E",
+      "spoken_meaning": "形容词或副词，全世界的，在全球",
+      "en": "The recall applies to worldwide sales of this batch.",
+      "zh": "此次召回适用于该批次在全球的销售。"
+    },
+    {
+      "word": "worth",
+      "spelling": "W, O, R, T, H",
+      "spoken_meaning": "形容词或名词，值得，价值",
+      "en": "It is worth checking the forecast before we increase production.",
+      "zh": "在增产之前，值得先核对预测。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第92轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "translate",
+      "voice": "en",
+      "text": "translate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "translate",
+      "voice": "en",
+      "text": "T, R, A, N, S, L, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "translate",
+      "voice": "zh",
+      "text": "动词，翻译",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "translate",
+      "voice": "en",
+      "text": "Please translate the safety signs into three languages.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "translate",
+      "voice": "zh",
+      "text": "请把安全标识翻译成三种语言。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "translation",
+      "voice": "en",
+      "text": "translation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "translation",
+      "voice": "en",
+      "text": "T, R, A, N, S, L, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "translation",
+      "voice": "zh",
+      "text": "名词，翻译，译文",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "translation",
+      "voice": "en",
+      "text": "A certified translation of the contract is required.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "translation",
+      "voice": "zh",
+      "text": "需要一份经过认证的合同译文。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "transportation",
+      "voice": "en",
+      "text": "transportation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "transportation",
+      "voice": "en",
+      "text": "T, R, A, N, S, P, O, R, T, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "transportation",
+      "voice": "zh",
+      "text": "名词，交通，运输",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "transportation",
+      "voice": "en",
+      "text": "Transportation to the off-site workshop will be provided.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "transportation",
+      "voice": "zh",
+      "text": "将提供前往场外研讨地点的交通。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "travel",
+      "voice": "en",
+      "text": "travel",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "travel",
+      "voice": "en",
+      "text": "T, R, A, V, E, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "travel",
+      "voice": "zh",
+      "text": "名词或动词，旅行，差旅",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "travel",
+      "voice": "en",
+      "text": "All overseas travel must be booked through the travel desk.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "travel",
+      "voice": "zh",
+      "text": "所有海外差旅必须通过差旅台预订。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "vacancy",
+      "voice": "en",
+      "text": "vacancy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "vacancy",
+      "voice": "en",
+      "text": "V, A, C, A, N, C, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "vacancy",
+      "voice": "zh",
+      "text": "名词，空缺，空房",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "vacancy",
+      "voice": "en",
+      "text": "There is a vacancy for a night-shift supervisor at the plant.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "vacancy",
+      "voice": "zh",
+      "text": "工厂有一个夜班主管的空缺。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "vacation",
+      "voice": "en",
+      "text": "vacation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "vacation",
+      "voice": "en",
+      "text": "V, A, C, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "vacation",
+      "voice": "zh",
+      "text": "名词，假期",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "vacation",
+      "voice": "en",
+      "text": "Please submit vacation requests before the holiday schedule is posted.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "vacation",
+      "voice": "zh",
+      "text": "请在假日排班公布前提交休假申请。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "waiter",
+      "voice": "en",
+      "text": "waiter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "waiter",
+      "voice": "en",
+      "text": "W, A, I, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "waiter",
+      "voice": "zh",
+      "text": "名词，男服务员",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "waiter",
+      "voice": "en",
+      "text": "Please ask the waiter to bring an extra set of glasses.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "waiter",
+      "voice": "zh",
+      "text": "请让服务员再拿一套玻璃杯来。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "waitress",
+      "voice": "en",
+      "text": "waitress",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "waitress",
+      "voice": "en",
+      "text": "W, A, I, T, R, E, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "waitress",
+      "voice": "zh",
+      "text": "名词，女服务员",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "waitress",
+      "voice": "en",
+      "text": "The waitress will take your order after you are seated.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "waitress",
+      "voice": "zh",
+      "text": "就座后，服务员会来为您点餐。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "visitor",
+      "voice": "en",
+      "text": "visitor",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "visitor",
+      "voice": "en",
+      "text": "V, I, S, I, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "visitor",
+      "voice": "zh",
+      "text": "名词，访客，参观者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "visitor",
+      "voice": "en",
+      "text": "All visitors must collect a badge at the reception desk.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "visitor",
+      "voice": "zh",
+      "text": "所有访客必须在前台领取证件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "visit",
+      "voice": "en",
+      "text": "visit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "visit",
+      "voice": "en",
+      "text": "V, I, S, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "visit",
+      "voice": "zh",
+      "text": "名词或动词，访问，参观",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "visit",
+      "voice": "en",
+      "text": "A client visit is scheduled for Thursday morning.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "visit",
+      "voice": "zh",
+      "text": "客户来访定于周四上午。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "union",
+      "voice": "en",
+      "text": "union",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "union",
+      "voice": "en",
+      "text": "U, N, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "union",
+      "voice": "zh",
+      "text": "名词，工会，联盟",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "union",
+      "voice": "en",
+      "text": "The union will meet management to discuss the new shift pattern.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "union",
+      "voice": "zh",
+      "text": "工会将与管理层会面，讨论新的排班方式。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "unemployed",
+      "voice": "en",
+      "text": "unemployed",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "unemployed",
+      "voice": "en",
+      "text": "U, N, E, M, P, L, O, Y, E, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "unemployed",
+      "voice": "zh",
+      "text": "形容词，失业的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "unemployed",
+      "voice": "en",
+      "text": "The workshop is open to unemployed applicants who are retraining.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "unemployed",
+      "voice": "zh",
+      "text": "该研讨班向正在再培训的失业申请者开放。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "utility",
+      "voice": "en",
+      "text": "utility",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "utility",
+      "voice": "en",
+      "text": "U, T, I, L, I, T, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "utility",
+      "voice": "zh",
+      "text": "名词，公用事业，实用",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "utility",
+      "voice": "en",
+      "text": "Utility bills for the warehouse are paid on the fifth of each month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "utility",
+      "voice": "zh",
+      "text": "仓库的公用事业账单在每月5日支付。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "warrant",
+      "voice": "en",
+      "text": "warrant",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "warrant",
+      "voice": "en",
+      "text": "W, A, R, R, A, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "warrant",
+      "voice": "zh",
+      "text": "名词或动词，保证，搜查令，使有必要",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "warrant",
+      "voice": "en",
+      "text": "The delay does not warrant cancelling the entire shipment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "warrant",
+      "voice": "zh",
+      "text": "这次延误还不至于取消整批货物。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "workplace",
+      "voice": "en",
+      "text": "workplace",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "workplace",
+      "voice": "en",
+      "text": "W, O, R, K, P, L, A, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "workplace",
+      "voice": "zh",
+      "text": "名词，工作场所",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "workplace",
+      "voice": "en",
+      "text": "New workplace safety posters will be displayed in the corridor.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "workplace",
+      "voice": "zh",
+      "text": "走廊将张贴新的工作场所安全海报。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "consultancy",
+      "voice": "en",
+      "text": "consultancy",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "consultancy",
+      "voice": "en",
+      "text": "C, O, N, S, U, L, T, A, N, C, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "consultancy",
+      "voice": "zh",
+      "text": "名词，咨询公司，咨询服务",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "consultancy",
+      "voice": "en",
+      "text": "A consultancy has been hired to review our inventory process.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "consultancy",
+      "voice": "zh",
+      "text": "已聘请一家咨询公司审查我们的库存流程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "licensee",
+      "voice": "en",
+      "text": "licensee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "licensee",
+      "voice": "en",
+      "text": "L, I, C, E, N, S, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "licensee",
+      "voice": "zh",
+      "text": "名词，持证人，被许可方",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "licensee",
+      "voice": "en",
+      "text": "The licensee must follow the brand guidelines in all advertising.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "licensee",
+      "voice": "zh",
+      "text": "被许可方在所有广告中必须遵守品牌指南。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "waitlist",
+      "voice": "en",
+      "text": "waitlist",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "waitlist",
+      "voice": "en",
+      "text": "W, A, I, T, L, I, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "waitlist",
+      "voice": "zh",
+      "text": "名词，候补名单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "waitlist",
+      "voice": "en",
+      "text": "You have been added to the waitlist for the Saturday workshop.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "waitlist",
+      "voice": "zh",
+      "text": "你已进入周六研讨班的候补名单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "overbooked",
+      "voice": "en",
+      "text": "overbooked",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "overbooked",
+      "voice": "en",
+      "text": "O, V, E, R, B, O, O, K, E, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "overbooked",
+      "voice": "zh",
+      "text": "形容词，超额预订的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "overbooked",
+      "voice": "en",
+      "text": "The 9 a.m. flight is overbooked, so some passengers may be rebooked.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "overbooked",
+      "voice": "zh",
+      "text": "上午9点的航班已超额预订，部分乘客可能被改签。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "minibar",
+      "voice": "en",
+      "text": "minibar",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "minibar",
+      "voice": "en",
+      "text": "M, I, N, I, B, A, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "minibar",
+      "voice": "zh",
+      "text": "名词，迷你吧",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "minibar",
+      "voice": "en",
+      "text": "Minibar charges will appear on your final hotel invoice.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "minibar",
+      "voice": "zh",
+      "text": "迷你吧消费将出现在最终酒店账单上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "concierge",
+      "voice": "en",
+      "text": "concierge",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "concierge",
+      "voice": "en",
+      "text": "C, O, N, C, I, E, R, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "concierge",
+      "voice": "zh",
+      "text": "名词，礼宾，接待员",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "concierge",
+      "voice": "en",
+      "text": "The concierge can book a taxi to the convention center.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "concierge",
+      "voice": "zh",
+      "text": "礼宾可以为您预订前往会议中心的出租车。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "housekeeping",
+      "voice": "en",
+      "text": "housekeeping",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "housekeeping",
+      "voice": "en",
+      "text": "H, O, U, S, E, K, E, E, P, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "housekeeping",
+      "voice": "zh",
+      "text": "名词，客房清洁，内务",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "housekeeping",
+      "voice": "en",
+      "text": "Please hang the sign on the door if you do not need housekeeping today.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "housekeeping",
+      "voice": "zh",
+      "text": "如果今天不需要客房清洁，请把标示挂在门上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "welcome",
+      "voice": "en",
+      "text": "welcome",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "welcome",
+      "voice": "en",
+      "text": "W, E, L, C, O, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "welcome",
+      "voice": "zh",
+      "text": "动词或形容词或名词，欢迎，受欢迎的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "welcome",
+      "voice": "en",
+      "text": "New staff will receive a welcome briefing on their first morning.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "welcome",
+      "voice": "zh",
+      "text": "新员工将在上班第一天上午参加迎新说明。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "warning",
+      "voice": "en",
+      "text": "warning",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "warning",
+      "voice": "en",
+      "text": "W, A, R, N, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "warning",
+      "voice": "zh",
+      "text": "名词，警告",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "warning",
+      "voice": "en",
+      "text": "A weather warning has been issued for this afternoon's deliveries.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "warning",
+      "voice": "zh",
+      "text": "已针对今天下午的送货发布天气预警。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "warn",
+      "voice": "en",
+      "text": "warn",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "warn",
+      "voice": "en",
+      "text": "W, A, R, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "warn",
+      "voice": "zh",
+      "text": "动词，警告，提醒",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "warn",
+      "voice": "en",
+      "text": "Please warn the driver about the low bridge on the back route.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "warn",
+      "voice": "zh",
+      "text": "请提醒司机后路有一座限高桥。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "weekly",
+      "voice": "en",
+      "text": "weekly",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "weekly",
+      "voice": "en",
+      "text": "W, E, E, K, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "weekly",
+      "voice": "zh",
+      "text": "形容词或副词，每周的，每周",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "weekly",
+      "voice": "en",
+      "text": "A weekly stock report is due every Monday morning.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "weekly",
+      "voice": "zh",
+      "text": "每周库存报告须在周一上午提交。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "withdrawal",
+      "voice": "en",
+      "text": "withdrawal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "withdrawal",
+      "voice": "en",
+      "text": "W, I, T, H, D, R, A, W, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "withdrawal",
+      "voice": "zh",
+      "text": "名词，撤回，取款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "withdrawal",
+      "voice": "en",
+      "text": "The buyer requested a withdrawal of the last purchase order.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "withdrawal",
+      "voice": "zh",
+      "text": "买方要求撤回最后一份采购订单。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "witness",
+      "voice": "en",
+      "text": "witness",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "witness",
+      "voice": "en",
+      "text": "W, I, T, N, E, S, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "witness",
+      "voice": "zh",
+      "text": "名词或动词，证人，目击",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "witness",
+      "voice": "en",
+      "text": "Two staff members must witness the destruction of the expired samples.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "witness",
+      "voice": "zh",
+      "text": "过期样品销毁时必须有两名员工在场作证。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "worldwide",
+      "voice": "en",
+      "text": "worldwide",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "worldwide",
+      "voice": "en",
+      "text": "W, O, R, L, D, W, I, D, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "worldwide",
+      "voice": "zh",
+      "text": "形容词或副词，全世界的，在全球",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "worldwide",
+      "voice": "en",
+      "text": "The recall applies to worldwide sales of this batch.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "worldwide",
+      "voice": "zh",
+      "text": "此次召回适用于该批次在全球的销售。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "worth",
+      "voice": "en",
+      "text": "worth",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "worth",
+      "voice": "en",
+      "text": "W, O, R, T, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "worth",
+      "voice": "zh",
+      "text": "形容词或名词，值得，价值",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "worth",
+      "voice": "en",
+      "text": "It is worth checking the forecast before we increase production.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "worth",
+      "voice": "zh",
+      "text": "在增产之前，值得先核对预测。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第92轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

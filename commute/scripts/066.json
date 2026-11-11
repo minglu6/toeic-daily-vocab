@@ -1,0 +1,1314 @@
+{
+  "id": "066",
+  "track": 66,
+  "title": "第 66 轨",
+  "word_count": 30,
+  "headwords": [
+    "income-tax",
+    "property-tax",
+    "estate-tax",
+    "inheritance-tax",
+    "withholding-tax",
+    "tax-return",
+    "tax-credit",
+    "tax-deduction",
+    "tax-exemption",
+    "tax-audit",
+    "tax-clearance",
+    "salary-band",
+    "pay-grade",
+    "pay-scale",
+    "base-salary",
+    "basic-salary",
+    "gross-salary",
+    "net-salary",
+    "take-home-pay",
+    "bonus-scheme",
+    "commission-structure",
+    "profit-sharing",
+    "mid-year-review",
+    "annual-review",
+    "self-assessment",
+    "peer-review",
+    "career-path",
+    "verbal-warning",
+    "final-warning",
+    "disciplinary-action"
+  ],
+  "entries": [
+    {
+      "word": "income-tax",
+      "spelling": "I, N, C, O, M, E, hyphen, T, A, X",
+      "spoken_meaning": "名词，所得税",
+      "en": "Income-tax is withheld from each paycheck according to your tax code.",
+      "zh": "所得税按你的税务编码从每期工资中扣除。"
+    },
+    {
+      "word": "property-tax",
+      "spelling": "P, R, O, P, E, R, T, Y, hyphen, T, A, X",
+      "spoken_meaning": "名词，财产税，房产税",
+      "en": "Property-tax on the factory is paid in two installments.",
+      "zh": "工厂的财产税分两期缴纳。"
+    },
+    {
+      "word": "estate-tax",
+      "spelling": "E, S, T, A, T, E, hyphen, T, A, X",
+      "spoken_meaning": "名词，遗产税",
+      "en": "Please ask legal whether estate-tax affects the share transfer.",
+      "zh": "请向法务咨询遗产税是否影响此次股权转让。"
+    },
+    {
+      "word": "inheritance-tax",
+      "spelling": "I, N, H, E, R, I, T, A, N, C, E, hyphen, T, A, X",
+      "spoken_meaning": "名词，继承税",
+      "en": "Inheritance-tax rules differ depending on the country of residence.",
+      "zh": "继承税规则因居住国而异。"
+    },
+    {
+      "word": "withholding-tax",
+      "spelling": "W, I, T, H, H, O, L, D, I, N, G, hyphen, T, A, X",
+      "spoken_meaning": "名词，预扣税",
+      "en": "Withholding-tax will be deducted from the overseas royalty payment.",
+      "zh": "海外特许权使用费将扣除预扣税。"
+    },
+    {
+      "word": "tax-return",
+      "spelling": "T, A, X, hyphen, R, E, T, U, R, N",
+      "spoken_meaning": "名词，纳税申报表",
+      "en": "Please file the tax-return before the April deadline.",
+      "zh": "请在四月截止日期前递交纳税申报表。"
+    },
+    {
+      "word": "tax-credit",
+      "spelling": "T, A, X, hyphen, C, R, E, D, I, T",
+      "spoken_meaning": "名词，税收抵免",
+      "en": "A research tax-credit may reduce the amount payable this year.",
+      "zh": "研发税收抵免可能减少今年的应纳税额。"
+    },
+    {
+      "word": "tax-deduction",
+      "spelling": "T, A, X, hyphen, D, E, D, U, C, T, I, O, N",
+      "spoken_meaning": "名词，税前扣除",
+      "en": "Charitable donations may qualify for a tax-deduction.",
+      "zh": "慈善捐赠可能符合税前扣除条件。"
+    },
+    {
+      "word": "tax-exemption",
+      "spelling": "T, A, X, hyphen, E, X, E, M, P, T, I, O, N",
+      "spoken_meaning": "名词，免税，税收豁免",
+      "en": "The foundation has been granted a tax-exemption on donation income.",
+      "zh": "该基金会对捐赠收入获得了免税。"
+    },
+    {
+      "word": "tax-audit",
+      "spelling": "T, A, X, hyphen, A, U, D, I, T",
+      "spoken_meaning": "名词，税务审计，税务稽查",
+      "en": "Please keep the receipts in case of a tax-audit.",
+      "zh": "请保留收据，以备税务稽查。"
+    },
+    {
+      "word": "tax-clearance",
+      "spelling": "T, A, X, hyphen, C, L, E, A, R, A, N, C, E",
+      "spoken_meaning": "名词，完税证明",
+      "en": "A tax-clearance certificate is required before the license can be renewed.",
+      "zh": "在续期许可证前需要完税证明。"
+    },
+    {
+      "word": "salary-band",
+      "spelling": "S, A, L, A, R, Y, hyphen, B, A, N, D",
+      "spoken_meaning": "名词，薪资带宽，薪酬区间",
+      "en": "The role is advertised in salary-band 4 of the current scale.",
+      "zh": "该职位按现行薪级第4薪资带宽招聘。"
+    },
+    {
+      "word": "pay-grade",
+      "spelling": "P, A, Y, hyphen, G, R, A, D, E",
+      "spoken_meaning": "名词，工资等级",
+      "en": "A promotion to the next pay-grade takes effect in the following month.",
+      "zh": "晋升到下一工资等级将于次月生效。"
+    },
+    {
+      "word": "pay-scale",
+      "spelling": "P, A, Y, hyphen, S, C, A, L, E",
+      "spoken_meaning": "名词，工资表，薪级表",
+      "en": "The updated pay-scale will be posted on the intranet.",
+      "zh": "更新后的薪级表将发布在内网上。"
+    },
+    {
+      "word": "base-salary",
+      "spelling": "B, A, S, E, hyphen, S, A, L, A, R, Y",
+      "spoken_meaning": "名词，基本工资",
+      "en": "Commission is paid in addition to the base-salary.",
+      "zh": "提成在基本工资之外另行支付。"
+    },
+    {
+      "word": "basic-salary",
+      "spelling": "B, A, S, I, C, hyphen, S, A, L, A, R, Y",
+      "spoken_meaning": "名词，基本工资",
+      "en": "Overtime is calculated on the basic-salary, not on bonuses.",
+      "zh": "加班费按基本工资计算，不含奖金。"
+    },
+    {
+      "word": "gross-salary",
+      "spelling": "G, R, O, S, S, hyphen, S, A, L, A, R, Y",
+      "spoken_meaning": "名词，税前工资，总薪资",
+      "en": "Your gross-salary includes the housing allowance.",
+      "zh": "你的税前工资包含住房津贴。"
+    },
+    {
+      "word": "net-salary",
+      "spelling": "N, E, T, hyphen, S, A, L, A, R, Y",
+      "spoken_meaning": "名词，税后工资，实发工资",
+      "en": "The transfer on the 25th is your net-salary after deductions.",
+      "zh": "25日到账的是扣款后的实发工资。"
+    },
+    {
+      "word": "take-home-pay",
+      "spelling": "T, A, K, E, hyphen, H, O, M, E, hyphen, P, A, Y",
+      "spoken_meaning": "名词，实得工资",
+      "en": "A change in tax code will affect your take-home-pay from May.",
+      "zh": "税务编码变更将从五月起影响你的实得工资。"
+    },
+    {
+      "word": "bonus-scheme",
+      "spelling": "B, O, N, U, S, hyphen, S, C, H, E, M, E",
+      "spoken_meaning": "名词，奖金方案",
+      "en": "The bonus-scheme is based on both team and individual targets.",
+      "zh": "该奖金方案同时依据团队和个人目标。"
+    },
+    {
+      "word": "commission-structure",
+      "spelling": "C, O, M, M, I, S, S, I, O, N, hyphen, S, T, R, U, C, T, U, R, E",
+      "spoken_meaning": "名词，提成结构",
+      "en": "The new commission-structure rewards repeat business.",
+      "zh": "新的提成结构奖励回头客业务。"
+    },
+    {
+      "word": "profit-sharing",
+      "spelling": "P, R, O, F, I, T, hyphen, S, H, A, R, I, N, G",
+      "spoken_meaning": "名词，利润分享",
+      "en": "Eligible staff join the profit-sharing plan after one year of service.",
+      "zh": "符合条件的员工在任职满一年后加入利润分享计划。"
+    },
+    {
+      "word": "mid-year-review",
+      "spelling": "M, I, D, hyphen, Y, E, A, R, hyphen, R, E, V, I, E, W",
+      "spoken_meaning": "名词，年中评估",
+      "en": "Please complete your self-evaluation before the mid-year-review.",
+      "zh": "请在年中评估前完成自我评价。"
+    },
+    {
+      "word": "annual-review",
+      "spelling": "A, N, N, U, A, L, hyphen, R, E, V, I, E, W",
+      "spoken_meaning": "名词，年度评估",
+      "en": "Salary adjustments are discussed during the annual-review.",
+      "zh": "薪资调整在年度评估时讨论。"
+    },
+    {
+      "word": "self-assessment",
+      "spelling": "S, E, L, F, hyphen, A, S, S, E, S, S, M, E, N, T",
+      "spoken_meaning": "名词，自我评估",
+      "en": "A short self-assessment should be submitted a week before the meeting.",
+      "zh": "请在会议前一周提交简短的自我评估。"
+    },
+    {
+      "word": "peer-review",
+      "spelling": "P, E, E, R, hyphen, R, E, V, I, E, W",
+      "spoken_meaning": "名词，同行评审，同事互评",
+      "en": "Peer-review comments are used only for development, not for discipline.",
+      "zh": "同事互评意见仅用于发展，不用于处分。"
+    },
+    {
+      "word": "career-path",
+      "spelling": "C, A, R, E, E, R, hyphen, P, A, T, H",
+      "spoken_meaning": "名词，职业发展路径",
+      "en": "The handbook describes a career-path from analyst to manager.",
+      "zh": "手册说明了从分析师到经理的职业发展路径。"
+    },
+    {
+      "word": "verbal-warning",
+      "spelling": "V, E, R, B, A, L, hyphen, W, A, R, N, I, N, G",
+      "spoken_meaning": "名词，口头警告",
+      "en": "A verbal-warning was issued after the first safety violation.",
+      "zh": "第一次违反安全规定后给予了口头警告。"
+    },
+    {
+      "word": "final-warning",
+      "spelling": "F, I, N, A, L, hyphen, W, A, R, N, I, N, G",
+      "spoken_meaning": "名词，最后警告",
+      "en": "A final-warning is placed on file for twelve months.",
+      "zh": "最后警告将在档案中保留十二个月。"
+    },
+    {
+      "word": "disciplinary-action",
+      "spelling": "D, I, S, C, I, P, L, I, N, A, R, Y, hyphen, A, C, T, I, O, N",
+      "spoken_meaning": "名词，纪律处分",
+      "en": "Repeated lateness may result in disciplinary-action.",
+      "zh": "屡次迟到可能导致纪律处分。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第66轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "income-tax",
+      "voice": "en",
+      "text": "income tax",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "income-tax",
+      "voice": "en",
+      "text": "I, N, C, O, M, E, hyphen, T, A, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "income-tax",
+      "voice": "zh",
+      "text": "名词，所得税",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "income-tax",
+      "voice": "en",
+      "text": "Income-tax is withheld from each paycheck according to your tax code.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "income-tax",
+      "voice": "zh",
+      "text": "所得税按你的税务编码从每期工资中扣除。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "property-tax",
+      "voice": "en",
+      "text": "property tax",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "property-tax",
+      "voice": "en",
+      "text": "P, R, O, P, E, R, T, Y, hyphen, T, A, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "property-tax",
+      "voice": "zh",
+      "text": "名词，财产税，房产税",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "property-tax",
+      "voice": "en",
+      "text": "Property-tax on the factory is paid in two installments.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "property-tax",
+      "voice": "zh",
+      "text": "工厂的财产税分两期缴纳。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "estate-tax",
+      "voice": "en",
+      "text": "estate tax",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "estate-tax",
+      "voice": "en",
+      "text": "E, S, T, A, T, E, hyphen, T, A, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "estate-tax",
+      "voice": "zh",
+      "text": "名词，遗产税",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "estate-tax",
+      "voice": "en",
+      "text": "Please ask legal whether estate-tax affects the share transfer.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "estate-tax",
+      "voice": "zh",
+      "text": "请向法务咨询遗产税是否影响此次股权转让。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "inheritance-tax",
+      "voice": "en",
+      "text": "inheritance tax",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "inheritance-tax",
+      "voice": "en",
+      "text": "I, N, H, E, R, I, T, A, N, C, E, hyphen, T, A, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "inheritance-tax",
+      "voice": "zh",
+      "text": "名词，继承税",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "inheritance-tax",
+      "voice": "en",
+      "text": "Inheritance-tax rules differ depending on the country of residence.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "inheritance-tax",
+      "voice": "zh",
+      "text": "继承税规则因居住国而异。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "withholding-tax",
+      "voice": "en",
+      "text": "withholding tax",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "withholding-tax",
+      "voice": "en",
+      "text": "W, I, T, H, H, O, L, D, I, N, G, hyphen, T, A, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "withholding-tax",
+      "voice": "zh",
+      "text": "名词，预扣税",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "withholding-tax",
+      "voice": "en",
+      "text": "Withholding-tax will be deducted from the overseas royalty payment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "withholding-tax",
+      "voice": "zh",
+      "text": "海外特许权使用费将扣除预扣税。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tax-return",
+      "voice": "en",
+      "text": "tax return",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tax-return",
+      "voice": "en",
+      "text": "T, A, X, hyphen, R, E, T, U, R, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tax-return",
+      "voice": "zh",
+      "text": "名词，纳税申报表",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tax-return",
+      "voice": "en",
+      "text": "Please file the tax-return before the April deadline.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tax-return",
+      "voice": "zh",
+      "text": "请在四月截止日期前递交纳税申报表。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tax-credit",
+      "voice": "en",
+      "text": "tax credit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tax-credit",
+      "voice": "en",
+      "text": "T, A, X, hyphen, C, R, E, D, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tax-credit",
+      "voice": "zh",
+      "text": "名词，税收抵免",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tax-credit",
+      "voice": "en",
+      "text": "A research tax-credit may reduce the amount payable this year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tax-credit",
+      "voice": "zh",
+      "text": "研发税收抵免可能减少今年的应纳税额。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tax-deduction",
+      "voice": "en",
+      "text": "tax deduction",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tax-deduction",
+      "voice": "en",
+      "text": "T, A, X, hyphen, D, E, D, U, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tax-deduction",
+      "voice": "zh",
+      "text": "名词，税前扣除",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tax-deduction",
+      "voice": "en",
+      "text": "Charitable donations may qualify for a tax-deduction.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tax-deduction",
+      "voice": "zh",
+      "text": "慈善捐赠可能符合税前扣除条件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tax-exemption",
+      "voice": "en",
+      "text": "tax exemption",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tax-exemption",
+      "voice": "en",
+      "text": "T, A, X, hyphen, E, X, E, M, P, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tax-exemption",
+      "voice": "zh",
+      "text": "名词，免税，税收豁免",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tax-exemption",
+      "voice": "en",
+      "text": "The foundation has been granted a tax-exemption on donation income.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tax-exemption",
+      "voice": "zh",
+      "text": "该基金会对捐赠收入获得了免税。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tax-audit",
+      "voice": "en",
+      "text": "tax audit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tax-audit",
+      "voice": "en",
+      "text": "T, A, X, hyphen, A, U, D, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tax-audit",
+      "voice": "zh",
+      "text": "名词，税务审计，税务稽查",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tax-audit",
+      "voice": "en",
+      "text": "Please keep the receipts in case of a tax-audit.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tax-audit",
+      "voice": "zh",
+      "text": "请保留收据，以备税务稽查。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "tax-clearance",
+      "voice": "en",
+      "text": "tax clearance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "tax-clearance",
+      "voice": "en",
+      "text": "T, A, X, hyphen, C, L, E, A, R, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "tax-clearance",
+      "voice": "zh",
+      "text": "名词，完税证明",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "tax-clearance",
+      "voice": "en",
+      "text": "A tax-clearance certificate is required before the license can be renewed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "tax-clearance",
+      "voice": "zh",
+      "text": "在续期许可证前需要完税证明。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "salary-band",
+      "voice": "en",
+      "text": "salary band",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "salary-band",
+      "voice": "en",
+      "text": "S, A, L, A, R, Y, hyphen, B, A, N, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "salary-band",
+      "voice": "zh",
+      "text": "名词，薪资带宽，薪酬区间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "salary-band",
+      "voice": "en",
+      "text": "The role is advertised in salary-band 4 of the current scale.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "salary-band",
+      "voice": "zh",
+      "text": "该职位按现行薪级第4薪资带宽招聘。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "pay-grade",
+      "voice": "en",
+      "text": "pay grade",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "pay-grade",
+      "voice": "en",
+      "text": "P, A, Y, hyphen, G, R, A, D, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "pay-grade",
+      "voice": "zh",
+      "text": "名词，工资等级",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "pay-grade",
+      "voice": "en",
+      "text": "A promotion to the next pay-grade takes effect in the following month.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "pay-grade",
+      "voice": "zh",
+      "text": "晋升到下一工资等级将于次月生效。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "pay-scale",
+      "voice": "en",
+      "text": "pay scale",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "pay-scale",
+      "voice": "en",
+      "text": "P, A, Y, hyphen, S, C, A, L, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "pay-scale",
+      "voice": "zh",
+      "text": "名词，工资表，薪级表",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "pay-scale",
+      "voice": "en",
+      "text": "The updated pay-scale will be posted on the intranet.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "pay-scale",
+      "voice": "zh",
+      "text": "更新后的薪级表将发布在内网上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "base-salary",
+      "voice": "en",
+      "text": "base salary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "base-salary",
+      "voice": "en",
+      "text": "B, A, S, E, hyphen, S, A, L, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "base-salary",
+      "voice": "zh",
+      "text": "名词，基本工资",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "base-salary",
+      "voice": "en",
+      "text": "Commission is paid in addition to the base-salary.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "base-salary",
+      "voice": "zh",
+      "text": "提成在基本工资之外另行支付。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "basic-salary",
+      "voice": "en",
+      "text": "basic salary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "basic-salary",
+      "voice": "en",
+      "text": "B, A, S, I, C, hyphen, S, A, L, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "basic-salary",
+      "voice": "zh",
+      "text": "名词，基本工资",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "basic-salary",
+      "voice": "en",
+      "text": "Overtime is calculated on the basic-salary, not on bonuses.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "basic-salary",
+      "voice": "zh",
+      "text": "加班费按基本工资计算，不含奖金。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "gross-salary",
+      "voice": "en",
+      "text": "gross salary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "gross-salary",
+      "voice": "en",
+      "text": "G, R, O, S, S, hyphen, S, A, L, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "gross-salary",
+      "voice": "zh",
+      "text": "名词，税前工资，总薪资",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "gross-salary",
+      "voice": "en",
+      "text": "Your gross-salary includes the housing allowance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "gross-salary",
+      "voice": "zh",
+      "text": "你的税前工资包含住房津贴。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "net-salary",
+      "voice": "en",
+      "text": "net salary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "net-salary",
+      "voice": "en",
+      "text": "N, E, T, hyphen, S, A, L, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "net-salary",
+      "voice": "zh",
+      "text": "名词，税后工资，实发工资",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "net-salary",
+      "voice": "en",
+      "text": "The transfer on the 25th is your net-salary after deductions.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "net-salary",
+      "voice": "zh",
+      "text": "25日到账的是扣款后的实发工资。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "take-home-pay",
+      "voice": "en",
+      "text": "take home pay",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "take-home-pay",
+      "voice": "en",
+      "text": "T, A, K, E, hyphen, H, O, M, E, hyphen, P, A, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "take-home-pay",
+      "voice": "zh",
+      "text": "名词，实得工资",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "take-home-pay",
+      "voice": "en",
+      "text": "A change in tax code will affect your take-home-pay from May.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "take-home-pay",
+      "voice": "zh",
+      "text": "税务编码变更将从五月起影响你的实得工资。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bonus-scheme",
+      "voice": "en",
+      "text": "bonus scheme",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bonus-scheme",
+      "voice": "en",
+      "text": "B, O, N, U, S, hyphen, S, C, H, E, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bonus-scheme",
+      "voice": "zh",
+      "text": "名词，奖金方案",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bonus-scheme",
+      "voice": "en",
+      "text": "The bonus-scheme is based on both team and individual targets.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bonus-scheme",
+      "voice": "zh",
+      "text": "该奖金方案同时依据团队和个人目标。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "commission-structure",
+      "voice": "en",
+      "text": "commission structure",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "commission-structure",
+      "voice": "en",
+      "text": "C, O, M, M, I, S, S, I, O, N, hyphen, S, T, R, U, C, T, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "commission-structure",
+      "voice": "zh",
+      "text": "名词，提成结构",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "commission-structure",
+      "voice": "en",
+      "text": "The new commission-structure rewards repeat business.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "commission-structure",
+      "voice": "zh",
+      "text": "新的提成结构奖励回头客业务。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "profit-sharing",
+      "voice": "en",
+      "text": "profit sharing",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "profit-sharing",
+      "voice": "en",
+      "text": "P, R, O, F, I, T, hyphen, S, H, A, R, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "profit-sharing",
+      "voice": "zh",
+      "text": "名词，利润分享",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "profit-sharing",
+      "voice": "en",
+      "text": "Eligible staff join the profit-sharing plan after one year of service.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "profit-sharing",
+      "voice": "zh",
+      "text": "符合条件的员工在任职满一年后加入利润分享计划。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "mid-year-review",
+      "voice": "en",
+      "text": "mid year review",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "mid-year-review",
+      "voice": "en",
+      "text": "M, I, D, hyphen, Y, E, A, R, hyphen, R, E, V, I, E, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "mid-year-review",
+      "voice": "zh",
+      "text": "名词，年中评估",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "mid-year-review",
+      "voice": "en",
+      "text": "Please complete your self-evaluation before the mid-year-review.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "mid-year-review",
+      "voice": "zh",
+      "text": "请在年中评估前完成自我评价。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "annual-review",
+      "voice": "en",
+      "text": "annual review",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "annual-review",
+      "voice": "en",
+      "text": "A, N, N, U, A, L, hyphen, R, E, V, I, E, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "annual-review",
+      "voice": "zh",
+      "text": "名词，年度评估",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "annual-review",
+      "voice": "en",
+      "text": "Salary adjustments are discussed during the annual-review.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "annual-review",
+      "voice": "zh",
+      "text": "薪资调整在年度评估时讨论。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "self-assessment",
+      "voice": "en",
+      "text": "self assessment",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "self-assessment",
+      "voice": "en",
+      "text": "S, E, L, F, hyphen, A, S, S, E, S, S, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "self-assessment",
+      "voice": "zh",
+      "text": "名词，自我评估",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "self-assessment",
+      "voice": "en",
+      "text": "A short self-assessment should be submitted a week before the meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "self-assessment",
+      "voice": "zh",
+      "text": "请在会议前一周提交简短的自我评估。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "peer-review",
+      "voice": "en",
+      "text": "peer review",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "peer-review",
+      "voice": "en",
+      "text": "P, E, E, R, hyphen, R, E, V, I, E, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "peer-review",
+      "voice": "zh",
+      "text": "名词，同行评审，同事互评",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "peer-review",
+      "voice": "en",
+      "text": "Peer-review comments are used only for development, not for discipline.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "peer-review",
+      "voice": "zh",
+      "text": "同事互评意见仅用于发展，不用于处分。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "career-path",
+      "voice": "en",
+      "text": "career path",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "career-path",
+      "voice": "en",
+      "text": "C, A, R, E, E, R, hyphen, P, A, T, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "career-path",
+      "voice": "zh",
+      "text": "名词，职业发展路径",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "career-path",
+      "voice": "en",
+      "text": "The handbook describes a career-path from analyst to manager.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "career-path",
+      "voice": "zh",
+      "text": "手册说明了从分析师到经理的职业发展路径。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "verbal-warning",
+      "voice": "en",
+      "text": "verbal warning",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "verbal-warning",
+      "voice": "en",
+      "text": "V, E, R, B, A, L, hyphen, W, A, R, N, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "verbal-warning",
+      "voice": "zh",
+      "text": "名词，口头警告",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "verbal-warning",
+      "voice": "en",
+      "text": "A verbal-warning was issued after the first safety violation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "verbal-warning",
+      "voice": "zh",
+      "text": "第一次违反安全规定后给予了口头警告。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "final-warning",
+      "voice": "en",
+      "text": "final warning",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "final-warning",
+      "voice": "en",
+      "text": "F, I, N, A, L, hyphen, W, A, R, N, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "final-warning",
+      "voice": "zh",
+      "text": "名词，最后警告",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "final-warning",
+      "voice": "en",
+      "text": "A final-warning is placed on file for twelve months.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "final-warning",
+      "voice": "zh",
+      "text": "最后警告将在档案中保留十二个月。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "disciplinary-action",
+      "voice": "en",
+      "text": "disciplinary action",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "disciplinary-action",
+      "voice": "en",
+      "text": "D, I, S, C, I, P, L, I, N, A, R, Y, hyphen, A, C, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "disciplinary-action",
+      "voice": "zh",
+      "text": "名词，纪律处分",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "disciplinary-action",
+      "voice": "en",
+      "text": "Repeated lateness may result in disciplinary-action.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "disciplinary-action",
+      "voice": "zh",
+      "text": "屡次迟到可能导致纪律处分。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第66轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

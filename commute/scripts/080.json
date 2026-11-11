@@ -1,0 +1,1314 @@
+{
+  "id": "080",
+  "track": 80,
+  "title": "第 80 轨",
+  "word_count": 30,
+  "headwords": [
+    "organization",
+    "organizer",
+    "origin",
+    "original",
+    "originally",
+    "originate",
+    "outcome",
+    "overall",
+    "overlap",
+    "overnight",
+    "overwhelm",
+    "owe",
+    "owner",
+    "pack",
+    "packet",
+    "pair",
+    "paper",
+    "parallel",
+    "parking",
+    "partial",
+    "participant",
+    "participation",
+    "particularly",
+    "partnership",
+    "passage",
+    "passenger",
+    "passport",
+    "patch",
+    "patience",
+    "patient"
+  ],
+  "entries": [
+    {
+      "word": "organization",
+      "spelling": "O, R, G, A, N, I, Z, A, T, I, O, N",
+      "spoken_meaning": "名词，组织，机构",
+      "en": "The organization has offices in four countries.",
+      "zh": "该机构在四个国家设有办事处。"
+    },
+    {
+      "word": "organizer",
+      "spelling": "O, R, G, A, N, I, Z, E, R",
+      "spoken_meaning": "名词，组织者",
+      "en": "The organizer will email a floor plan the day before the show.",
+      "zh": "主办方将在展会前一天通过电子邮件发送平面图。"
+    },
+    {
+      "word": "origin",
+      "spelling": "O, R, I, G, I, N",
+      "spoken_meaning": "名词，来源，产地",
+      "en": "The origin of the raw materials must be stated on the label.",
+      "zh": "原材料产地必须在标签上标明。"
+    },
+    {
+      "word": "original",
+      "spelling": "O, R, I, G, I, N, A, L",
+      "spoken_meaning": "形容词或名词，原来的，原件",
+      "en": "Please keep the original receipt for your records.",
+      "zh": "请保留收据原件以作记录。"
+    },
+    {
+      "word": "originally",
+      "spelling": "O, R, I, G, I, N, A, L, L, Y",
+      "spoken_meaning": "副词，原先，最初",
+      "en": "The meeting was originally set for Monday, but it was moved to Tuesday.",
+      "zh": "会议原定周一举行，后改到周二。"
+    },
+    {
+      "word": "originate",
+      "spelling": "O, R, I, G, I, N, A, T, E",
+      "spoken_meaning": "动词，起源于，发起",
+      "en": "The complaint originated in the west-coast store.",
+      "zh": "该投诉来自西海岸那家店。"
+    },
+    {
+      "word": "outcome",
+      "spelling": "O, U, T, C, O, M, E",
+      "spoken_meaning": "名词，结果",
+      "en": "We will share the outcome of the audit with all managers.",
+      "zh": "我们将向所有经理通报审计结果。"
+    },
+    {
+      "word": "overall",
+      "spelling": "O, V, E, R, A, L, L",
+      "spoken_meaning": "形容词或副词，总体的，总体上",
+      "en": "Overall sales were slightly higher than last year.",
+      "zh": "总体销售略高于去年。"
+    },
+    {
+      "word": "overlap",
+      "spelling": "O, V, E, R, L, A, P",
+      "spoken_meaning": "动词或名词，重叠",
+      "en": "Please avoid an overlap between the two training sessions.",
+      "zh": "请避免两场培训的时间重叠。"
+    },
+    {
+      "word": "overnight",
+      "spelling": "O, V, E, R, N, I, G, H, T",
+      "spoken_meaning": "副词或形容词，通宵，隔夜的",
+      "en": "The documents were sent overnight and should arrive by morning.",
+      "zh": "文件已隔夜寄出，应在上午到达。"
+    },
+    {
+      "word": "overwhelm",
+      "spelling": "O, V, E, R, W, H, E, L, M",
+      "spoken_meaning": "动词，使应接不暇，压垮",
+      "en": "A sudden rush of online orders overwhelmed the packing team.",
+      "zh": "突然涌入的在线订单使打包组应接不暇。"
+    },
+    {
+      "word": "owe",
+      "spelling": "O, W, E",
+      "spoken_meaning": "动词，欠，归功于",
+      "en": "The client still owes an outstanding balance of 1,200 dollars.",
+      "zh": "客户仍欠1,200美元的未付余额。"
+    },
+    {
+      "word": "owner",
+      "spelling": "O, W, N, E, R",
+      "spoken_meaning": "名词，所有者，业主",
+      "en": "The building owner has approved the new signage.",
+      "zh": "业主已批准新的招牌。"
+    },
+    {
+      "word": "pack",
+      "spelling": "P, A, C, K",
+      "spoken_meaning": "动词或名词，打包，包装",
+      "en": "Please pack the glassware with extra foam.",
+      "zh": "请给玻璃器皿多加泡沫包装。"
+    },
+    {
+      "word": "packet",
+      "spelling": "P, A, C, K, E, T",
+      "spoken_meaning": "名词，小包，数据包",
+      "en": "Each guest will receive a packet of information at registration.",
+      "zh": "每位客人在登记时都会收到一包资料。"
+    },
+    {
+      "word": "pair",
+      "spelling": "P, A, I, R",
+      "spoken_meaning": "名词或动词，一对，配对",
+      "en": "Please order an extra pair of safety gloves for the new hire.",
+      "zh": "请为新员工多订一副安全手套。"
+    },
+    {
+      "word": "paper",
+      "spelling": "P, A, P, E, R",
+      "spoken_meaning": "名词，纸，文件，论文",
+      "en": "Please print the agenda on recycled paper.",
+      "zh": "请用再生纸打印议程。"
+    },
+    {
+      "word": "parallel",
+      "spelling": "P, A, R, A, L, L, E, L",
+      "spoken_meaning": "形容词，平行的，并行的",
+      "en": "A parallel test of the new system will run for two weeks.",
+      "zh": "新系统的并行测试将进行两周。"
+    },
+    {
+      "word": "parking",
+      "spelling": "P, A, R, K, I, N, G",
+      "spoken_meaning": "名词，停车，停车位",
+      "en": "Visitor parking is free for the first two hours.",
+      "zh": "访客停车前两小时免费。"
+    },
+    {
+      "word": "partial",
+      "spelling": "P, A, R, T, I, A, L",
+      "spoken_meaning": "形容词，部分的",
+      "en": "A partial refund will be issued for the unused nights.",
+      "zh": "未入住的晚数将办理部分退款。"
+    },
+    {
+      "word": "participant",
+      "spelling": "P, A, R, T, I, C, I, P, A, N, T",
+      "spoken_meaning": "名词，参与者",
+      "en": "Each participant should bring a photo for the badge.",
+      "zh": "每位参与者应带一张照片办理胸牌。"
+    },
+    {
+      "word": "participation",
+      "spelling": "P, A, R, T, I, C, I, P, A, T, I, O, N",
+      "spoken_meaning": "名词，参与",
+      "en": "Participation in the safety drill is mandatory.",
+      "zh": "参加安全演练是强制性的。"
+    },
+    {
+      "word": "particularly",
+      "spelling": "P, A, R, T, I, C, U, L, A, R, L, Y",
+      "spoken_meaning": "副词，尤其，特别",
+      "en": "This delay is particularly serious because of the product launch.",
+      "zh": "由于产品即将发布，这次延误尤其严重。"
+    },
+    {
+      "word": "partnership",
+      "spelling": "P, A, R, T, N, E, R, S, H, I, P",
+      "spoken_meaning": "名词，合伙，合作关系",
+      "en": "The two firms announced a partnership to share warehouse space.",
+      "zh": "两家公司宣布合作共享仓库空间。"
+    },
+    {
+      "word": "passage",
+      "spelling": "P, A, S, S, A, G, E",
+      "spoken_meaning": "名词，通道，通过，段落",
+      "en": "Please keep the passage to the fire exit clear.",
+      "zh": "请保持通往消防出口的通道畅通。"
+    },
+    {
+      "word": "passenger",
+      "spelling": "P, A, S, S, E, N, G, E, R",
+      "spoken_meaning": "名词，乘客",
+      "en": "Passengers traveling with oversized luggage should check in early.",
+      "zh": "携带超大行李的乘客应提前办理登机手续。"
+    },
+    {
+      "word": "passport",
+      "spelling": "P, A, S, S, P, O, R, T",
+      "spoken_meaning": "名词，护照",
+      "en": "Your passport must be valid for at least six months.",
+      "zh": "护照有效期必须至少还有六个月。"
+    },
+    {
+      "word": "patch",
+      "spelling": "P, A, T, C, H",
+      "spoken_meaning": "名词或动词，补丁，修补",
+      "en": "A software patch will be installed after closing time.",
+      "zh": "打烊后将安装软件补丁。"
+    },
+    {
+      "word": "patience",
+      "spelling": "P, A, T, I, E, N, C, E",
+      "spoken_meaning": "名词，耐心",
+      "en": "Thank you for your patience while we repair the payment system.",
+      "zh": "感谢您在我们维修支付系统时的耐心等待。"
+    },
+    {
+      "word": "patient",
+      "spelling": "P, A, T, I, E, N, T",
+      "spoken_meaning": "名词或形容词，病人，有耐心的",
+      "en": "The clinic can see walk-in patients after 3 p.m.",
+      "zh": "诊所下午3点后可接待未经预约的病人。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第80轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "organization",
+      "voice": "en",
+      "text": "organization",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "organization",
+      "voice": "en",
+      "text": "O, R, G, A, N, I, Z, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "organization",
+      "voice": "zh",
+      "text": "名词，组织，机构",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "organization",
+      "voice": "en",
+      "text": "The organization has offices in four countries.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "organization",
+      "voice": "zh",
+      "text": "该机构在四个国家设有办事处。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "organizer",
+      "voice": "en",
+      "text": "organizer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "organizer",
+      "voice": "en",
+      "text": "O, R, G, A, N, I, Z, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "organizer",
+      "voice": "zh",
+      "text": "名词，组织者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "organizer",
+      "voice": "en",
+      "text": "The organizer will email a floor plan the day before the show.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "organizer",
+      "voice": "zh",
+      "text": "主办方将在展会前一天通过电子邮件发送平面图。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "origin",
+      "voice": "en",
+      "text": "origin",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "origin",
+      "voice": "en",
+      "text": "O, R, I, G, I, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "origin",
+      "voice": "zh",
+      "text": "名词，来源，产地",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "origin",
+      "voice": "en",
+      "text": "The origin of the raw materials must be stated on the label.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "origin",
+      "voice": "zh",
+      "text": "原材料产地必须在标签上标明。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "original",
+      "voice": "en",
+      "text": "original",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "original",
+      "voice": "en",
+      "text": "O, R, I, G, I, N, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "original",
+      "voice": "zh",
+      "text": "形容词或名词，原来的，原件",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "original",
+      "voice": "en",
+      "text": "Please keep the original receipt for your records.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "original",
+      "voice": "zh",
+      "text": "请保留收据原件以作记录。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "originally",
+      "voice": "en",
+      "text": "originally",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "originally",
+      "voice": "en",
+      "text": "O, R, I, G, I, N, A, L, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "originally",
+      "voice": "zh",
+      "text": "副词，原先，最初",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "originally",
+      "voice": "en",
+      "text": "The meeting was originally set for Monday, but it was moved to Tuesday.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "originally",
+      "voice": "zh",
+      "text": "会议原定周一举行，后改到周二。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "originate",
+      "voice": "en",
+      "text": "originate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "originate",
+      "voice": "en",
+      "text": "O, R, I, G, I, N, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "originate",
+      "voice": "zh",
+      "text": "动词，起源于，发起",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "originate",
+      "voice": "en",
+      "text": "The complaint originated in the west-coast store.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "originate",
+      "voice": "zh",
+      "text": "该投诉来自西海岸那家店。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "outcome",
+      "voice": "en",
+      "text": "outcome",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "outcome",
+      "voice": "en",
+      "text": "O, U, T, C, O, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "outcome",
+      "voice": "zh",
+      "text": "名词，结果",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "outcome",
+      "voice": "en",
+      "text": "We will share the outcome of the audit with all managers.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "outcome",
+      "voice": "zh",
+      "text": "我们将向所有经理通报审计结果。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "overall",
+      "voice": "en",
+      "text": "overall",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "overall",
+      "voice": "en",
+      "text": "O, V, E, R, A, L, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "overall",
+      "voice": "zh",
+      "text": "形容词或副词，总体的，总体上",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "overall",
+      "voice": "en",
+      "text": "Overall sales were slightly higher than last year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "overall",
+      "voice": "zh",
+      "text": "总体销售略高于去年。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "overlap",
+      "voice": "en",
+      "text": "overlap",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "overlap",
+      "voice": "en",
+      "text": "O, V, E, R, L, A, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "overlap",
+      "voice": "zh",
+      "text": "动词或名词，重叠",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "overlap",
+      "voice": "en",
+      "text": "Please avoid an overlap between the two training sessions.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "overlap",
+      "voice": "zh",
+      "text": "请避免两场培训的时间重叠。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "overnight",
+      "voice": "en",
+      "text": "overnight",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "overnight",
+      "voice": "en",
+      "text": "O, V, E, R, N, I, G, H, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "overnight",
+      "voice": "zh",
+      "text": "副词或形容词，通宵，隔夜的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "overnight",
+      "voice": "en",
+      "text": "The documents were sent overnight and should arrive by morning.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "overnight",
+      "voice": "zh",
+      "text": "文件已隔夜寄出，应在上午到达。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "overwhelm",
+      "voice": "en",
+      "text": "overwhelm",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "overwhelm",
+      "voice": "en",
+      "text": "O, V, E, R, W, H, E, L, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "overwhelm",
+      "voice": "zh",
+      "text": "动词，使应接不暇，压垮",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "overwhelm",
+      "voice": "en",
+      "text": "A sudden rush of online orders overwhelmed the packing team.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "overwhelm",
+      "voice": "zh",
+      "text": "突然涌入的在线订单使打包组应接不暇。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "owe",
+      "voice": "en",
+      "text": "owe",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "owe",
+      "voice": "en",
+      "text": "O, W, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "owe",
+      "voice": "zh",
+      "text": "动词，欠，归功于",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "owe",
+      "voice": "en",
+      "text": "The client still owes an outstanding balance of 1,200 dollars.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "owe",
+      "voice": "zh",
+      "text": "客户仍欠1,200美元的未付余额。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "owner",
+      "voice": "en",
+      "text": "owner",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "owner",
+      "voice": "en",
+      "text": "O, W, N, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "owner",
+      "voice": "zh",
+      "text": "名词，所有者，业主",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "owner",
+      "voice": "en",
+      "text": "The building owner has approved the new signage.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "owner",
+      "voice": "zh",
+      "text": "业主已批准新的招牌。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "pack",
+      "voice": "en",
+      "text": "pack",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "pack",
+      "voice": "en",
+      "text": "P, A, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "pack",
+      "voice": "zh",
+      "text": "动词或名词，打包，包装",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "pack",
+      "voice": "en",
+      "text": "Please pack the glassware with extra foam.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "pack",
+      "voice": "zh",
+      "text": "请给玻璃器皿多加泡沫包装。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "packet",
+      "voice": "en",
+      "text": "packet",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "packet",
+      "voice": "en",
+      "text": "P, A, C, K, E, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "packet",
+      "voice": "zh",
+      "text": "名词，小包，数据包",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "packet",
+      "voice": "en",
+      "text": "Each guest will receive a packet of information at registration.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "packet",
+      "voice": "zh",
+      "text": "每位客人在登记时都会收到一包资料。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "pair",
+      "voice": "en",
+      "text": "pair",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "pair",
+      "voice": "en",
+      "text": "P, A, I, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "pair",
+      "voice": "zh",
+      "text": "名词或动词，一对，配对",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "pair",
+      "voice": "en",
+      "text": "Please order an extra pair of safety gloves for the new hire.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "pair",
+      "voice": "zh",
+      "text": "请为新员工多订一副安全手套。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "paper",
+      "voice": "en",
+      "text": "paper",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "paper",
+      "voice": "en",
+      "text": "P, A, P, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "paper",
+      "voice": "zh",
+      "text": "名词，纸，文件，论文",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "paper",
+      "voice": "en",
+      "text": "Please print the agenda on recycled paper.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "paper",
+      "voice": "zh",
+      "text": "请用再生纸打印议程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "parallel",
+      "voice": "en",
+      "text": "parallel",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "parallel",
+      "voice": "en",
+      "text": "P, A, R, A, L, L, E, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "parallel",
+      "voice": "zh",
+      "text": "形容词，平行的，并行的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "parallel",
+      "voice": "en",
+      "text": "A parallel test of the new system will run for two weeks.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "parallel",
+      "voice": "zh",
+      "text": "新系统的并行测试将进行两周。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "parking",
+      "voice": "en",
+      "text": "parking",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "parking",
+      "voice": "en",
+      "text": "P, A, R, K, I, N, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "parking",
+      "voice": "zh",
+      "text": "名词，停车，停车位",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "parking",
+      "voice": "en",
+      "text": "Visitor parking is free for the first two hours.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "parking",
+      "voice": "zh",
+      "text": "访客停车前两小时免费。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "partial",
+      "voice": "en",
+      "text": "partial",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "partial",
+      "voice": "en",
+      "text": "P, A, R, T, I, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "partial",
+      "voice": "zh",
+      "text": "形容词，部分的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "partial",
+      "voice": "en",
+      "text": "A partial refund will be issued for the unused nights.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "partial",
+      "voice": "zh",
+      "text": "未入住的晚数将办理部分退款。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "participant",
+      "voice": "en",
+      "text": "participant",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "participant",
+      "voice": "en",
+      "text": "P, A, R, T, I, C, I, P, A, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "participant",
+      "voice": "zh",
+      "text": "名词，参与者",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "participant",
+      "voice": "en",
+      "text": "Each participant should bring a photo for the badge.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "participant",
+      "voice": "zh",
+      "text": "每位参与者应带一张照片办理胸牌。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "participation",
+      "voice": "en",
+      "text": "participation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "participation",
+      "voice": "en",
+      "text": "P, A, R, T, I, C, I, P, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "participation",
+      "voice": "zh",
+      "text": "名词，参与",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "participation",
+      "voice": "en",
+      "text": "Participation in the safety drill is mandatory.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "participation",
+      "voice": "zh",
+      "text": "参加安全演练是强制性的。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "particularly",
+      "voice": "en",
+      "text": "particularly",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "particularly",
+      "voice": "en",
+      "text": "P, A, R, T, I, C, U, L, A, R, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "particularly",
+      "voice": "zh",
+      "text": "副词，尤其，特别",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "particularly",
+      "voice": "en",
+      "text": "This delay is particularly serious because of the product launch.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "particularly",
+      "voice": "zh",
+      "text": "由于产品即将发布，这次延误尤其严重。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "partnership",
+      "voice": "en",
+      "text": "partnership",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "partnership",
+      "voice": "en",
+      "text": "P, A, R, T, N, E, R, S, H, I, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "partnership",
+      "voice": "zh",
+      "text": "名词，合伙，合作关系",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "partnership",
+      "voice": "en",
+      "text": "The two firms announced a partnership to share warehouse space.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "partnership",
+      "voice": "zh",
+      "text": "两家公司宣布合作共享仓库空间。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "passage",
+      "voice": "en",
+      "text": "passage",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "passage",
+      "voice": "en",
+      "text": "P, A, S, S, A, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "passage",
+      "voice": "zh",
+      "text": "名词，通道，通过，段落",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "passage",
+      "voice": "en",
+      "text": "Please keep the passage to the fire exit clear.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "passage",
+      "voice": "zh",
+      "text": "请保持通往消防出口的通道畅通。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "passenger",
+      "voice": "en",
+      "text": "passenger",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "passenger",
+      "voice": "en",
+      "text": "P, A, S, S, E, N, G, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "passenger",
+      "voice": "zh",
+      "text": "名词，乘客",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "passenger",
+      "voice": "en",
+      "text": "Passengers traveling with oversized luggage should check in early.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "passenger",
+      "voice": "zh",
+      "text": "携带超大行李的乘客应提前办理登机手续。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "passport",
+      "voice": "en",
+      "text": "passport",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "passport",
+      "voice": "en",
+      "text": "P, A, S, S, P, O, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "passport",
+      "voice": "zh",
+      "text": "名词，护照",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "passport",
+      "voice": "en",
+      "text": "Your passport must be valid for at least six months.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "passport",
+      "voice": "zh",
+      "text": "护照有效期必须至少还有六个月。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "patch",
+      "voice": "en",
+      "text": "patch",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "patch",
+      "voice": "en",
+      "text": "P, A, T, C, H",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "patch",
+      "voice": "zh",
+      "text": "名词或动词，补丁，修补",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "patch",
+      "voice": "en",
+      "text": "A software patch will be installed after closing time.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "patch",
+      "voice": "zh",
+      "text": "打烊后将安装软件补丁。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "patience",
+      "voice": "en",
+      "text": "patience",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "patience",
+      "voice": "en",
+      "text": "P, A, T, I, E, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "patience",
+      "voice": "zh",
+      "text": "名词，耐心",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "patience",
+      "voice": "en",
+      "text": "Thank you for your patience while we repair the payment system.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "patience",
+      "voice": "zh",
+      "text": "感谢您在我们维修支付系统时的耐心等待。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "patient",
+      "voice": "en",
+      "text": "patient",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "patient",
+      "voice": "en",
+      "text": "P, A, T, I, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "patient",
+      "voice": "zh",
+      "text": "名词或形容词，病人，有耐心的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "patient",
+      "voice": "en",
+      "text": "The clinic can see walk-in patients after 3 p.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "patient",
+      "voice": "zh",
+      "text": "诊所下午3点后可接待未经预约的病人。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第80轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

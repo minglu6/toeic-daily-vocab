@@ -1,0 +1,1314 @@
+{
+  "id": "099",
+  "track": 99,
+  "title": "第 99 轨",
+  "word_count": 30,
+  "headwords": [
+    "microwave",
+    "vending-machine",
+    "suggestion-box",
+    "noticeboard",
+    "in-tray",
+    "out-tray",
+    "paper-shredder",
+    "toner",
+    "ink-cartridge",
+    "letter-opener",
+    "packing-tape",
+    "bubble-wrap",
+    "packing-peanuts",
+    "forklift",
+    "loading-dock",
+    "loading-bay",
+    "shrink-wrap",
+    "seal",
+    "crate",
+    "manifest",
+    "port-of-entry",
+    "port-of-departure",
+    "estimated-time-of-arrival",
+    "estimated-time-of-departure",
+    "gate-agent",
+    "ticket-counter",
+    "seat-belt",
+    "overhead-locker",
+    "in-flight",
+    "connection-time"
+  ],
+  "entries": [
+    {
+      "word": "microwave",
+      "spelling": "M, I, C, R, O, W, A, V, E",
+      "spoken_meaning": "名词，微波炉",
+      "en": "Please do not leave food in the microwave after heating.",
+      "zh": "加热后请不要把食物留在微波炉里。"
+    },
+    {
+      "word": "vending-machine",
+      "spelling": "V, E, N, D, I, N, G, hyphen, M, A, C, H, I, N, E",
+      "spoken_meaning": "名词，自动售货机",
+      "en": "The vending-machine on the third floor now accepts the staff card.",
+      "zh": "三楼的自动售货机现在可以使用员工卡。"
+    },
+    {
+      "word": "suggestion-box",
+      "spelling": "S, U, G, G, E, S, T, I, O, N, hyphen, B, O, X",
+      "spoken_meaning": "名词，意见箱",
+      "en": "Ideas for improving the cafeteria can be placed in the suggestion-box.",
+      "zh": "改进食堂的建议可以投入意见箱。"
+    },
+    {
+      "word": "noticeboard",
+      "spelling": "N, O, T, I, C, E, B, O, A, R, D",
+      "spoken_meaning": "名词，公告栏",
+      "en": "The shift roster is posted on the noticeboard by the staff entrance.",
+      "zh": "班次表贴在员工入口旁的公告栏上。"
+    },
+    {
+      "word": "in-tray",
+      "spelling": "I, N, hyphen, T, R, A, Y",
+      "spoken_meaning": "名词，收文盘",
+      "en": "Please put signed forms in my in-tray, not on the chair.",
+      "zh": "请把已签字的表格放进我的收文盘，不要放在椅子上。"
+    },
+    {
+      "word": "out-tray",
+      "spelling": "O, U, T, hyphen, T, R, A, Y",
+      "spoken_meaning": "名词，发文盘",
+      "en": "The courier will collect anything left in the out-tray at 4 p.m.",
+      "zh": "快递员下午4点会来取发文盘里的文件。"
+    },
+    {
+      "word": "paper-shredder",
+      "spelling": "P, A, P, E, R, hyphen, S, H, R, E, D, D, E, R",
+      "spoken_meaning": "名词，碎纸机",
+      "en": "Confidential drafts should go into the paper-shredder.",
+      "zh": "机密草稿应放入碎纸机。"
+    },
+    {
+      "word": "toner",
+      "spelling": "T, O, N, E, R",
+      "spoken_meaning": "名词，碳粉，墨粉",
+      "en": "The copier is low on toner; a spare cartridge is in the supply closet.",
+      "zh": "复印机碳粉不足，备用墨盒在用品柜里。"
+    },
+    {
+      "word": "ink-cartridge",
+      "spelling": "I, N, K, hyphen, C, A, R, T, R, I, D, G, E",
+      "spoken_meaning": "名词，墨盒",
+      "en": "Please order an ink-cartridge before the printer runs out.",
+      "zh": "请在打印机用完之前订购墨盒。"
+    },
+    {
+      "word": "letter-opener",
+      "spelling": "L, E, T, T, E, R, hyphen, O, P, E, N, E, R",
+      "spoken_meaning": "名词，开信刀",
+      "en": "A letter-opener is in the top drawer if you need to open the mail.",
+      "zh": "需要拆信时，开信刀在最上面的抽屉里。"
+    },
+    {
+      "word": "packing-tape",
+      "spelling": "P, A, C, K, I, N, G, hyphen, T, A, P, E",
+      "spoken_meaning": "名词，包装胶带",
+      "en": "Please seal the cartons with packing-tape, not regular office tape.",
+      "zh": "请用包装胶带封箱，不要用普通办公胶带。"
+    },
+    {
+      "word": "bubble-wrap",
+      "spelling": "B, U, B, B, L, E, hyphen, W, R, A, P",
+      "spoken_meaning": "名词，气泡膜",
+      "en": "Glass samples should be covered in bubble-wrap before shipping.",
+      "zh": "玻璃样品寄出前应包上气泡膜。"
+    },
+    {
+      "word": "packing-peanuts",
+      "spelling": "P, A, C, K, I, N, G, hyphen, P, E, A, N, U, T, S",
+      "spoken_meaning": "名词，泡沫填充颗粒",
+      "en": "Use packing-peanuts to fill the empty space in the crate.",
+      "zh": "请用泡沫填充颗粒填满板条箱的空隙。"
+    },
+    {
+      "word": "forklift",
+      "spelling": "F, O, R, K, L, I, F, T",
+      "spoken_meaning": "名词，叉车",
+      "en": "Only certified staff may operate the forklift.",
+      "zh": "只有经过认证的员工才能操作叉车。"
+    },
+    {
+      "word": "loading-dock",
+      "spelling": "L, O, A, D, I, N, G, hyphen, D, O, C, K",
+      "spoken_meaning": "名词，装卸台，装卸码头",
+      "en": "Trucks should not idle at the loading-dock for more than ten minutes.",
+      "zh": "卡车在装卸台怠速停留不得超过十分钟。"
+    },
+    {
+      "word": "loading-bay",
+      "spelling": "L, O, A, D, I, N, G, hyphen, B, A, Y",
+      "spoken_meaning": "名词，装卸区",
+      "en": "Please keep the loading-bay clear of empty pallets.",
+      "zh": "请不要在装卸区堆放空托盘。"
+    },
+    {
+      "word": "shrink-wrap",
+      "spelling": "S, H, R, I, N, K, hyphen, W, R, A, P",
+      "spoken_meaning": "名词或动词，收缩膜，用收缩膜包装",
+      "en": "The pallets should be shrink-wrapped before they leave the warehouse.",
+      "zh": "托盘离开仓库前应进行收缩膜包装。"
+    },
+    {
+      "word": "seal",
+      "spelling": "S, E, A, L",
+      "spoken_meaning": "名词或动词，封条，密封",
+      "en": "Please check that the container seal number matches the documents.",
+      "zh": "请核对集装箱封条号是否与文件一致。"
+    },
+    {
+      "word": "crate",
+      "spelling": "C, R, A, T, E",
+      "spoken_meaning": "名词，板条箱",
+      "en": "The machine will be shipped in a wooden crate.",
+      "zh": "这台机器将装在木板箱中运送。"
+    },
+    {
+      "word": "manifest",
+      "spelling": "M, A, N, I, F, E, S, T",
+      "spoken_meaning": "名词，舱单，货单",
+      "en": "The driver cannot leave without a signed manifest.",
+      "zh": "没有已签字的货单，司机不能离开。"
+    },
+    {
+      "word": "port-of-entry",
+      "spelling": "P, O, R, T, hyphen, O, F, hyphen, E, N, T, R, Y",
+      "spoken_meaning": "名词，入境口岸",
+      "en": "Los Angeles is the port-of-entry for this shipment.",
+      "zh": "这批货的入境口岸是洛杉矶。"
+    },
+    {
+      "word": "port-of-departure",
+      "spelling": "P, O, R, T, hyphen, O, F, hyphen, D, E, P, A, R, T, U, R, E",
+      "spoken_meaning": "名词，启运港",
+      "en": "Please confirm the port-of-departure on the bill of lading.",
+      "zh": "请确认提单上的启运港。"
+    },
+    {
+      "word": "estimated-time-of-arrival",
+      "spelling": "E, S, T, I, M, A, T, E, D, hyphen, T, I, M, E, hyphen, O, F, hyphen, A, R, R, I, V, A, L",
+      "spoken_meaning": "名词，预计到达时间",
+      "en": "The estimated-time-of-arrival has been pushed back by six hours.",
+      "zh": "预计到达时间已推迟六小时。"
+    },
+    {
+      "word": "estimated-time-of-departure",
+      "spelling": "E, S, T, I, M, A, T, E, D, hyphen, T, I, M, E, hyphen, O, F, hyphen, D, E, P, A, R, T, U, R, E",
+      "spoken_meaning": "名词，预计出发时间",
+      "en": "The estimated-time-of-departure will be posted on the board at noon.",
+      "zh": "预计出发时间将于中午公布在信息牌上。"
+    },
+    {
+      "word": "gate-agent",
+      "spelling": "G, A, T, E, hyphen, A, G, E, N, T",
+      "spoken_meaning": "名词，登机口服务人员",
+      "en": "The gate-agent will call passengers who need special assistance first.",
+      "zh": "登机口服务人员会先呼叫需要特殊协助的乘客。"
+    },
+    {
+      "word": "ticket-counter",
+      "spelling": "T, I, C, K, E, T, hyphen, C, O, U, N, T, E, R",
+      "spoken_meaning": "名词，售票柜台",
+      "en": "You can pay the excess-baggage fee at the ticket-counter.",
+      "zh": "超重行李费可在售票柜台支付。"
+    },
+    {
+      "word": "seat-belt",
+      "spelling": "S, E, A, T, hyphen, B, E, L, T",
+      "spoken_meaning": "名词，安全带",
+      "en": "Please fasten your seat-belt until the sign is switched off.",
+      "zh": "请系好安全带，直到指示灯关闭。"
+    },
+    {
+      "word": "overhead-locker",
+      "spelling": "O, V, E, R, H, E, A, D, hyphen, L, O, C, K, E, R",
+      "spoken_meaning": "名词，头顶行李舱",
+      "en": "Place smaller bags in the overhead-locker, not in the aisle.",
+      "zh": "小包请放入头顶行李舱，不要放在过道上。"
+    },
+    {
+      "word": "in-flight",
+      "spelling": "I, N, hyphen, F, L, I, G, H, T",
+      "spoken_meaning": "形容词，飞行中的",
+      "en": "In-flight meals will not be served on this short route.",
+      "zh": "这条短途航线不提供机上餐食。"
+    },
+    {
+      "word": "connection-time",
+      "spelling": "C, O, N, N, E, C, T, I, O, N, hyphen, T, I, M, E",
+      "spoken_meaning": "名词，转机时间",
+      "en": "A 40-minute connection-time is too short in this airport.",
+      "zh": "在这个机场，40分钟的转机时间太短。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第99轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "microwave",
+      "voice": "en",
+      "text": "microwave",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "microwave",
+      "voice": "en",
+      "text": "M, I, C, R, O, W, A, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "microwave",
+      "voice": "zh",
+      "text": "名词，微波炉",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "microwave",
+      "voice": "en",
+      "text": "Please do not leave food in the microwave after heating.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "microwave",
+      "voice": "zh",
+      "text": "加热后请不要把食物留在微波炉里。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "vending-machine",
+      "voice": "en",
+      "text": "vending machine",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "vending-machine",
+      "voice": "en",
+      "text": "V, E, N, D, I, N, G, hyphen, M, A, C, H, I, N, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "vending-machine",
+      "voice": "zh",
+      "text": "名词，自动售货机",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "vending-machine",
+      "voice": "en",
+      "text": "The vending-machine on the third floor now accepts the staff card.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "vending-machine",
+      "voice": "zh",
+      "text": "三楼的自动售货机现在可以使用员工卡。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "suggestion-box",
+      "voice": "en",
+      "text": "suggestion box",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "suggestion-box",
+      "voice": "en",
+      "text": "S, U, G, G, E, S, T, I, O, N, hyphen, B, O, X",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "suggestion-box",
+      "voice": "zh",
+      "text": "名词，意见箱",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "suggestion-box",
+      "voice": "en",
+      "text": "Ideas for improving the cafeteria can be placed in the suggestion-box.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "suggestion-box",
+      "voice": "zh",
+      "text": "改进食堂的建议可以投入意见箱。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "noticeboard",
+      "voice": "en",
+      "text": "noticeboard",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "noticeboard",
+      "voice": "en",
+      "text": "N, O, T, I, C, E, B, O, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "noticeboard",
+      "voice": "zh",
+      "text": "名词，公告栏",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "noticeboard",
+      "voice": "en",
+      "text": "The shift roster is posted on the noticeboard by the staff entrance.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "noticeboard",
+      "voice": "zh",
+      "text": "班次表贴在员工入口旁的公告栏上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "in-tray",
+      "voice": "en",
+      "text": "in tray",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "in-tray",
+      "voice": "en",
+      "text": "I, N, hyphen, T, R, A, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "in-tray",
+      "voice": "zh",
+      "text": "名词，收文盘",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "in-tray",
+      "voice": "en",
+      "text": "Please put signed forms in my in-tray, not on the chair.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "in-tray",
+      "voice": "zh",
+      "text": "请把已签字的表格放进我的收文盘，不要放在椅子上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "out-tray",
+      "voice": "en",
+      "text": "out tray",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "out-tray",
+      "voice": "en",
+      "text": "O, U, T, hyphen, T, R, A, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "out-tray",
+      "voice": "zh",
+      "text": "名词，发文盘",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "out-tray",
+      "voice": "en",
+      "text": "The courier will collect anything left in the out-tray at 4 p.m.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "out-tray",
+      "voice": "zh",
+      "text": "快递员下午4点会来取发文盘里的文件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "paper-shredder",
+      "voice": "en",
+      "text": "paper shredder",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "paper-shredder",
+      "voice": "en",
+      "text": "P, A, P, E, R, hyphen, S, H, R, E, D, D, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "paper-shredder",
+      "voice": "zh",
+      "text": "名词，碎纸机",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "paper-shredder",
+      "voice": "en",
+      "text": "Confidential drafts should go into the paper-shredder.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "paper-shredder",
+      "voice": "zh",
+      "text": "机密草稿应放入碎纸机。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "toner",
+      "voice": "en",
+      "text": "toner",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "toner",
+      "voice": "en",
+      "text": "T, O, N, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "toner",
+      "voice": "zh",
+      "text": "名词，碳粉，墨粉",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "toner",
+      "voice": "en",
+      "text": "The copier is low on toner; a spare cartridge is in the supply closet.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "toner",
+      "voice": "zh",
+      "text": "复印机碳粉不足，备用墨盒在用品柜里。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ink-cartridge",
+      "voice": "en",
+      "text": "ink cartridge",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ink-cartridge",
+      "voice": "en",
+      "text": "I, N, K, hyphen, C, A, R, T, R, I, D, G, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ink-cartridge",
+      "voice": "zh",
+      "text": "名词，墨盒",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ink-cartridge",
+      "voice": "en",
+      "text": "Please order an ink-cartridge before the printer runs out.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ink-cartridge",
+      "voice": "zh",
+      "text": "请在打印机用完之前订购墨盒。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "letter-opener",
+      "voice": "en",
+      "text": "letter opener",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "letter-opener",
+      "voice": "en",
+      "text": "L, E, T, T, E, R, hyphen, O, P, E, N, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "letter-opener",
+      "voice": "zh",
+      "text": "名词，开信刀",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "letter-opener",
+      "voice": "en",
+      "text": "A letter-opener is in the top drawer if you need to open the mail.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "letter-opener",
+      "voice": "zh",
+      "text": "需要拆信时，开信刀在最上面的抽屉里。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "packing-tape",
+      "voice": "en",
+      "text": "packing tape",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "packing-tape",
+      "voice": "en",
+      "text": "P, A, C, K, I, N, G, hyphen, T, A, P, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "packing-tape",
+      "voice": "zh",
+      "text": "名词，包装胶带",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "packing-tape",
+      "voice": "en",
+      "text": "Please seal the cartons with packing-tape, not regular office tape.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "packing-tape",
+      "voice": "zh",
+      "text": "请用包装胶带封箱，不要用普通办公胶带。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "bubble-wrap",
+      "voice": "en",
+      "text": "bubble wrap",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "bubble-wrap",
+      "voice": "en",
+      "text": "B, U, B, B, L, E, hyphen, W, R, A, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "bubble-wrap",
+      "voice": "zh",
+      "text": "名词，气泡膜",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "bubble-wrap",
+      "voice": "en",
+      "text": "Glass samples should be covered in bubble-wrap before shipping.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "bubble-wrap",
+      "voice": "zh",
+      "text": "玻璃样品寄出前应包上气泡膜。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "packing-peanuts",
+      "voice": "en",
+      "text": "packing peanuts",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "packing-peanuts",
+      "voice": "en",
+      "text": "P, A, C, K, I, N, G, hyphen, P, E, A, N, U, T, S",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "packing-peanuts",
+      "voice": "zh",
+      "text": "名词，泡沫填充颗粒",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "packing-peanuts",
+      "voice": "en",
+      "text": "Use packing-peanuts to fill the empty space in the crate.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "packing-peanuts",
+      "voice": "zh",
+      "text": "请用泡沫填充颗粒填满板条箱的空隙。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "forklift",
+      "voice": "en",
+      "text": "forklift",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "forklift",
+      "voice": "en",
+      "text": "F, O, R, K, L, I, F, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "forklift",
+      "voice": "zh",
+      "text": "名词，叉车",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "forklift",
+      "voice": "en",
+      "text": "Only certified staff may operate the forklift.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "forklift",
+      "voice": "zh",
+      "text": "只有经过认证的员工才能操作叉车。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "loading-dock",
+      "voice": "en",
+      "text": "loading dock",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "loading-dock",
+      "voice": "en",
+      "text": "L, O, A, D, I, N, G, hyphen, D, O, C, K",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "loading-dock",
+      "voice": "zh",
+      "text": "名词，装卸台，装卸码头",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "loading-dock",
+      "voice": "en",
+      "text": "Trucks should not idle at the loading-dock for more than ten minutes.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "loading-dock",
+      "voice": "zh",
+      "text": "卡车在装卸台怠速停留不得超过十分钟。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "loading-bay",
+      "voice": "en",
+      "text": "loading bay",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "loading-bay",
+      "voice": "en",
+      "text": "L, O, A, D, I, N, G, hyphen, B, A, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "loading-bay",
+      "voice": "zh",
+      "text": "名词，装卸区",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "loading-bay",
+      "voice": "en",
+      "text": "Please keep the loading-bay clear of empty pallets.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "loading-bay",
+      "voice": "zh",
+      "text": "请不要在装卸区堆放空托盘。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "shrink-wrap",
+      "voice": "en",
+      "text": "shrink wrap",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "shrink-wrap",
+      "voice": "en",
+      "text": "S, H, R, I, N, K, hyphen, W, R, A, P",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "shrink-wrap",
+      "voice": "zh",
+      "text": "名词或动词，收缩膜，用收缩膜包装",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "shrink-wrap",
+      "voice": "en",
+      "text": "The pallets should be shrink-wrapped before they leave the warehouse.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "shrink-wrap",
+      "voice": "zh",
+      "text": "托盘离开仓库前应进行收缩膜包装。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "seal",
+      "voice": "en",
+      "text": "seal",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "seal",
+      "voice": "en",
+      "text": "S, E, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "seal",
+      "voice": "zh",
+      "text": "名词或动词，封条，密封",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "seal",
+      "voice": "en",
+      "text": "Please check that the container seal number matches the documents.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "seal",
+      "voice": "zh",
+      "text": "请核对集装箱封条号是否与文件一致。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "crate",
+      "voice": "en",
+      "text": "crate",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "crate",
+      "voice": "en",
+      "text": "C, R, A, T, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "crate",
+      "voice": "zh",
+      "text": "名词，板条箱",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "crate",
+      "voice": "en",
+      "text": "The machine will be shipped in a wooden crate.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "crate",
+      "voice": "zh",
+      "text": "这台机器将装在木板箱中运送。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "manifest",
+      "voice": "en",
+      "text": "manifest",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "manifest",
+      "voice": "en",
+      "text": "M, A, N, I, F, E, S, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "manifest",
+      "voice": "zh",
+      "text": "名词，舱单，货单",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "manifest",
+      "voice": "en",
+      "text": "The driver cannot leave without a signed manifest.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "manifest",
+      "voice": "zh",
+      "text": "没有已签字的货单，司机不能离开。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "port-of-entry",
+      "voice": "en",
+      "text": "port of entry",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "port-of-entry",
+      "voice": "en",
+      "text": "P, O, R, T, hyphen, O, F, hyphen, E, N, T, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "port-of-entry",
+      "voice": "zh",
+      "text": "名词，入境口岸",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "port-of-entry",
+      "voice": "en",
+      "text": "Los Angeles is the port-of-entry for this shipment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "port-of-entry",
+      "voice": "zh",
+      "text": "这批货的入境口岸是洛杉矶。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "port-of-departure",
+      "voice": "en",
+      "text": "port of departure",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "port-of-departure",
+      "voice": "en",
+      "text": "P, O, R, T, hyphen, O, F, hyphen, D, E, P, A, R, T, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "port-of-departure",
+      "voice": "zh",
+      "text": "名词，启运港",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "port-of-departure",
+      "voice": "en",
+      "text": "Please confirm the port-of-departure on the bill of lading.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "port-of-departure",
+      "voice": "zh",
+      "text": "请确认提单上的启运港。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "estimated-time-of-arrival",
+      "voice": "en",
+      "text": "estimated time of arrival",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "estimated-time-of-arrival",
+      "voice": "en",
+      "text": "E, S, T, I, M, A, T, E, D, hyphen, T, I, M, E, hyphen, O, F, hyphen, A, R, R, I, V, A, L",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "estimated-time-of-arrival",
+      "voice": "zh",
+      "text": "名词，预计到达时间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "estimated-time-of-arrival",
+      "voice": "en",
+      "text": "The estimated-time-of-arrival has been pushed back by six hours.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "estimated-time-of-arrival",
+      "voice": "zh",
+      "text": "预计到达时间已推迟六小时。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "estimated-time-of-departure",
+      "voice": "en",
+      "text": "estimated time of departure",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "estimated-time-of-departure",
+      "voice": "en",
+      "text": "E, S, T, I, M, A, T, E, D, hyphen, T, I, M, E, hyphen, O, F, hyphen, D, E, P, A, R, T, U, R, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "estimated-time-of-departure",
+      "voice": "zh",
+      "text": "名词，预计出发时间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "estimated-time-of-departure",
+      "voice": "en",
+      "text": "The estimated-time-of-departure will be posted on the board at noon.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "estimated-time-of-departure",
+      "voice": "zh",
+      "text": "预计出发时间将于中午公布在信息牌上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "gate-agent",
+      "voice": "en",
+      "text": "gate agent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "gate-agent",
+      "voice": "en",
+      "text": "G, A, T, E, hyphen, A, G, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "gate-agent",
+      "voice": "zh",
+      "text": "名词，登机口服务人员",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "gate-agent",
+      "voice": "en",
+      "text": "The gate-agent will call passengers who need special assistance first.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "gate-agent",
+      "voice": "zh",
+      "text": "登机口服务人员会先呼叫需要特殊协助的乘客。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "ticket-counter",
+      "voice": "en",
+      "text": "ticket counter",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "ticket-counter",
+      "voice": "en",
+      "text": "T, I, C, K, E, T, hyphen, C, O, U, N, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "ticket-counter",
+      "voice": "zh",
+      "text": "名词，售票柜台",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "ticket-counter",
+      "voice": "en",
+      "text": "You can pay the excess-baggage fee at the ticket-counter.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "ticket-counter",
+      "voice": "zh",
+      "text": "超重行李费可在售票柜台支付。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "seat-belt",
+      "voice": "en",
+      "text": "seat belt",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "seat-belt",
+      "voice": "en",
+      "text": "S, E, A, T, hyphen, B, E, L, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "seat-belt",
+      "voice": "zh",
+      "text": "名词，安全带",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "seat-belt",
+      "voice": "en",
+      "text": "Please fasten your seat-belt until the sign is switched off.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "seat-belt",
+      "voice": "zh",
+      "text": "请系好安全带，直到指示灯关闭。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "overhead-locker",
+      "voice": "en",
+      "text": "overhead locker",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "overhead-locker",
+      "voice": "en",
+      "text": "O, V, E, R, H, E, A, D, hyphen, L, O, C, K, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "overhead-locker",
+      "voice": "zh",
+      "text": "名词，头顶行李舱",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "overhead-locker",
+      "voice": "en",
+      "text": "Place smaller bags in the overhead-locker, not in the aisle.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "overhead-locker",
+      "voice": "zh",
+      "text": "小包请放入头顶行李舱，不要放在过道上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "in-flight",
+      "voice": "en",
+      "text": "in flight",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "in-flight",
+      "voice": "en",
+      "text": "I, N, hyphen, F, L, I, G, H, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "in-flight",
+      "voice": "zh",
+      "text": "形容词，飞行中的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "in-flight",
+      "voice": "en",
+      "text": "In-flight meals will not be served on this short route.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "in-flight",
+      "voice": "zh",
+      "text": "这条短途航线不提供机上餐食。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "connection-time",
+      "voice": "en",
+      "text": "connection time",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "connection-time",
+      "voice": "en",
+      "text": "C, O, N, N, E, C, T, I, O, N, hyphen, T, I, M, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "connection-time",
+      "voice": "zh",
+      "text": "名词，转机时间",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "connection-time",
+      "voice": "en",
+      "text": "A 40-minute connection-time is too short in this airport.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "connection-time",
+      "voice": "zh",
+      "text": "在这个机场，40分钟的转机时间太短。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第99轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}

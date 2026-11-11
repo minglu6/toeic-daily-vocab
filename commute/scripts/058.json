@@ -1,0 +1,1314 @@
+{
+  "id": "058",
+  "track": 58,
+  "title": "第 58 轨",
+  "word_count": 30,
+  "headwords": [
+    "registration-fee",
+    "application-fee",
+    "membership-fee",
+    "keynote-speaker",
+    "plenary",
+    "name-tag",
+    "lanyard",
+    "podium",
+    "lectern",
+    "projector",
+    "flipchart",
+    "laser-pointer",
+    "absent",
+    "accessory",
+    "administration",
+    "administrative",
+    "administrator",
+    "admit",
+    "advancement",
+    "agree",
+    "allocation",
+    "allow",
+    "annually",
+    "apologize",
+    "appliance",
+    "arrangement",
+    "assembly",
+    "assistance",
+    "assistant",
+    "assumption"
+  ],
+  "entries": [
+    {
+      "word": "registration-fee",
+      "spelling": "R, E, G, I, S, T, R, A, T, I, O, N, hyphen, F, E, E",
+      "spoken_meaning": "名词，报名费，注册费",
+      "en": "The registration-fee includes conference materials and two lunches.",
+      "zh": "报名费包含会议资料和两顿午餐。"
+    },
+    {
+      "word": "application-fee",
+      "spelling": "A, P, P, L, I, C, A, T, I, O, N, hyphen, F, E, E",
+      "spoken_meaning": "名词，申请费",
+      "en": "The application-fee is refundable if the permit is denied.",
+      "zh": "若许可被拒，申请费可退还。"
+    },
+    {
+      "word": "membership-fee",
+      "spelling": "M, E, M, B, E, R, S, H, I, P, hyphen, F, E, E",
+      "spoken_meaning": "名词，会费，会员费",
+      "en": "The annual membership-fee can be paid by credit card or bank transfer.",
+      "zh": "年度会费可通过信用卡或银行转账支付。"
+    },
+    {
+      "word": "keynote-speaker",
+      "spelling": "K, E, Y, N, O, T, E, hyphen, S, P, E, A, K, E, R",
+      "spoken_meaning": "名词，主题演讲人",
+      "en": "The keynote-speaker is the chief economist of a major bank.",
+      "zh": "主题演讲人是一家大型银行的首席经济学家。"
+    },
+    {
+      "word": "plenary",
+      "spelling": "P, L, E, N, A, R, Y",
+      "spoken_meaning": "名词或形容词，全体会议，全体的",
+      "en": "All delegates are expected to attend the opening plenary.",
+      "zh": "全体代表都应出席开幕全体会议。"
+    },
+    {
+      "word": "name-tag",
+      "spelling": "N, A, M, E, hyphen, T, A, G",
+      "spoken_meaning": "名词，姓名牌，胸牌",
+      "en": "Please collect your name-tag at the registration desk.",
+      "zh": "请在报到处领取姓名牌。"
+    },
+    {
+      "word": "lanyard",
+      "spelling": "L, A, N, Y, A, R, D",
+      "spoken_meaning": "名词，挂绳，证件绳",
+      "en": "Your badge and lanyard must be worn in all restricted areas.",
+      "zh": "在所有限制区域都必须佩戴证件和挂绳。"
+    },
+    {
+      "word": "podium",
+      "spelling": "P, O, D, I, U, M",
+      "spoken_meaning": "名词，讲台，领奖台",
+      "en": "The microphone on the podium is already turned on.",
+      "zh": "讲台上的麦克风已经打开。"
+    },
+    {
+      "word": "lectern",
+      "spelling": "L, E, C, T, E, R, N",
+      "spoken_meaning": "名词，讲桌，读稿台",
+      "en": "Speaker notes have been placed on the lectern.",
+      "zh": "发言稿已放在讲桌上。"
+    },
+    {
+      "word": "projector",
+      "spelling": "P, R, O, J, E, C, T, O, R",
+      "spoken_meaning": "名词，投影仪",
+      "en": "The projector remote is in the drawer of the conference table.",
+      "zh": "投影仪遥控器在会议桌抽屉里。"
+    },
+    {
+      "word": "flipchart",
+      "spelling": "F, L, I, P, C, H, A, R, T",
+      "spoken_meaning": "名词，活动挂纸板",
+      "en": "Please leave the flipchart notes on the stand for the afternoon group.",
+      "zh": "请把挂纸板上的记录留给下午的小组。"
+    },
+    {
+      "word": "laser-pointer",
+      "spelling": "L, A, S, E, R, hyphen, P, O, I, N, T, E, R",
+      "spoken_meaning": "名词，激光笔",
+      "en": "The presenter asked for a laser-pointer and a spare set of batteries.",
+      "zh": "演讲人要了一支激光笔和一组备用电池。"
+    },
+    {
+      "word": "absent",
+      "spelling": "A, B, S, E, N, T",
+      "spoken_meaning": "形容词，缺席的，不在场的",
+      "en": "Three members were absent from this morning's budget meeting.",
+      "zh": "今天上午的预算会议有三名成员缺席。"
+    },
+    {
+      "word": "accessory",
+      "spelling": "A, C, C, E, S, S, O, R, Y",
+      "spoken_meaning": "名词，附件，配件",
+      "en": "The laptop is sold with a carrying case and other accessories.",
+      "zh": "这款笔记本电脑配有提包及其他配件。"
+    },
+    {
+      "word": "administration",
+      "spelling": "A, D, M, I, N, I, S, T, R, A, T, I, O, N",
+      "spoken_meaning": "名词，管理，行政部门",
+      "en": "The administration has approved a new visitor registration procedure.",
+      "zh": "行政部门已批准新的访客登记流程。"
+    },
+    {
+      "word": "administrative",
+      "spelling": "A, D, M, I, N, I, S, T, R, A, T, I, V, E",
+      "spoken_meaning": "形容词，行政的，管理的",
+      "en": "The role includes light administrative work and calendar management.",
+      "zh": "该职位包含少量行政工作和日程管理。"
+    },
+    {
+      "word": "administrator",
+      "spelling": "A, D, M, I, N, I, S, T, R, A, T, O, R",
+      "spoken_meaning": "名词，管理员，行政主管",
+      "en": "Please contact the system administrator if you cannot log in.",
+      "zh": "如果无法登录，请联系系统管理员。"
+    },
+    {
+      "word": "admit",
+      "spelling": "A, D, M, I, T",
+      "spoken_meaning": "动词，承认，准许进入",
+      "en": "The security desk will admit visitors only with a confirmed appointment.",
+      "zh": "保安台仅允许已确认预约的访客进入。"
+    },
+    {
+      "word": "advancement",
+      "spelling": "A, D, V, A, N, C, E, M, E, N, T",
+      "spoken_meaning": "名词，晋升，进展",
+      "en": "The firm offers clear paths for career advancement.",
+      "zh": "公司提供清晰的职业晋升路径。"
+    },
+    {
+      "word": "agree",
+      "spelling": "A, G, R, E, E",
+      "spoken_meaning": "动词，同意，达成一致",
+      "en": "Both sides agreed to extend the contract by one year.",
+      "zh": "双方同意将合同延长一年。"
+    },
+    {
+      "word": "allocation",
+      "spelling": "A, L, L, O, C, A, T, I, O, N",
+      "spoken_meaning": "名词，分配，拨款",
+      "en": "The marketing allocation for the third quarter has been increased.",
+      "zh": "第三季度的市场营销拨款已增加。"
+    },
+    {
+      "word": "allow",
+      "spelling": "A, L, L, O, W",
+      "spoken_meaning": "动词，允许，准许",
+      "en": "The policy does not allow personal software on company laptops.",
+      "zh": "该政策不允许在公司笔记本电脑上安装个人软件。"
+    },
+    {
+      "word": "annually",
+      "spelling": "A, N, N, U, A, L, L, Y",
+      "spoken_meaning": "副词，每年，一年一次",
+      "en": "Fire-safety training is conducted annually for all staff.",
+      "zh": "所有员工每年都要参加消防安全培训。"
+    },
+    {
+      "word": "apologize",
+      "spelling": "A, P, O, L, O, G, I, Z, E",
+      "spoken_meaning": "动词，道歉",
+      "en": "We apologize for the delay and have shipped a replacement today.",
+      "zh": "我们对延误表示歉意，并已于今天寄出替换件。"
+    },
+    {
+      "word": "appliance",
+      "spelling": "A, P, P, L, I, A, N, C, E",
+      "spoken_meaning": "名词，器具，家用电器",
+      "en": "The showroom displays kitchen appliances for the hotel renovation.",
+      "zh": "展厅陈列着酒店翻修用的厨房电器。"
+    },
+    {
+      "word": "arrangement",
+      "spelling": "A, R, R, A, N, G, E, M, E, N, T",
+      "spoken_meaning": "名词，安排，布置",
+      "en": "Travel arrangements for the trade show have already been confirmed.",
+      "zh": "展会的差旅安排已经确认。"
+    },
+    {
+      "word": "assembly",
+      "spelling": "A, S, S, E, M, B, L, Y",
+      "spoken_meaning": "名词，装配，集会",
+      "en": "The final assembly of the machines takes place at the Shenzhen plant.",
+      "zh": "机器的最终装配在深圳工厂完成。"
+    },
+    {
+      "word": "assistance",
+      "spelling": "A, S, S, I, S, T, A, N, C, E",
+      "spoken_meaning": "名词，帮助，协助",
+      "en": "Please call the help desk if you need assistance with the new software.",
+      "zh": "如果使用新软件需要帮助，请致电服务台。"
+    },
+    {
+      "word": "assistant",
+      "spelling": "A, S, S, I, S, T, A, N, T",
+      "spoken_meaning": "名词，助理，助手",
+      "en": "My assistant will send you the signed copies this afternoon.",
+      "zh": "我的助理今天下午会把已签字的副本发给你。"
+    },
+    {
+      "word": "assumption",
+      "spelling": "A, S, S, U, M, P, T, I, O, N",
+      "spoken_meaning": "名词，假定，设想",
+      "en": "The forecast is based on the assumption that raw-material prices stay flat.",
+      "zh": "该预测基于原材料价格保持平稳的假定。"
+    }
+  ],
+  "cues": [
+    {
+      "kind": "intro",
+      "voice": "zh",
+      "text": "托业通勤听力，第58轨，共30个单词。",
+      "pause_after_ms": 800
+    },
+    {
+      "kind": "word",
+      "word": "registration-fee",
+      "voice": "en",
+      "text": "registration fee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "registration-fee",
+      "voice": "en",
+      "text": "R, E, G, I, S, T, R, A, T, I, O, N, hyphen, F, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "registration-fee",
+      "voice": "zh",
+      "text": "名词，报名费，注册费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "registration-fee",
+      "voice": "en",
+      "text": "The registration-fee includes conference materials and two lunches.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "registration-fee",
+      "voice": "zh",
+      "text": "报名费包含会议资料和两顿午餐。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "application-fee",
+      "voice": "en",
+      "text": "application fee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "application-fee",
+      "voice": "en",
+      "text": "A, P, P, L, I, C, A, T, I, O, N, hyphen, F, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "application-fee",
+      "voice": "zh",
+      "text": "名词，申请费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "application-fee",
+      "voice": "en",
+      "text": "The application-fee is refundable if the permit is denied.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "application-fee",
+      "voice": "zh",
+      "text": "若许可被拒，申请费可退还。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "membership-fee",
+      "voice": "en",
+      "text": "membership fee",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "membership-fee",
+      "voice": "en",
+      "text": "M, E, M, B, E, R, S, H, I, P, hyphen, F, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "membership-fee",
+      "voice": "zh",
+      "text": "名词，会费，会员费",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "membership-fee",
+      "voice": "en",
+      "text": "The annual membership-fee can be paid by credit card or bank transfer.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "membership-fee",
+      "voice": "zh",
+      "text": "年度会费可通过信用卡或银行转账支付。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "keynote-speaker",
+      "voice": "en",
+      "text": "keynote speaker",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "keynote-speaker",
+      "voice": "en",
+      "text": "K, E, Y, N, O, T, E, hyphen, S, P, E, A, K, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "keynote-speaker",
+      "voice": "zh",
+      "text": "名词，主题演讲人",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "keynote-speaker",
+      "voice": "en",
+      "text": "The keynote-speaker is the chief economist of a major bank.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "keynote-speaker",
+      "voice": "zh",
+      "text": "主题演讲人是一家大型银行的首席经济学家。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "plenary",
+      "voice": "en",
+      "text": "plenary",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "plenary",
+      "voice": "en",
+      "text": "P, L, E, N, A, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "plenary",
+      "voice": "zh",
+      "text": "名词或形容词，全体会议，全体的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "plenary",
+      "voice": "en",
+      "text": "All delegates are expected to attend the opening plenary.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "plenary",
+      "voice": "zh",
+      "text": "全体代表都应出席开幕全体会议。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "name-tag",
+      "voice": "en",
+      "text": "name tag",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "name-tag",
+      "voice": "en",
+      "text": "N, A, M, E, hyphen, T, A, G",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "name-tag",
+      "voice": "zh",
+      "text": "名词，姓名牌，胸牌",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "name-tag",
+      "voice": "en",
+      "text": "Please collect your name-tag at the registration desk.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "name-tag",
+      "voice": "zh",
+      "text": "请在报到处领取姓名牌。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lanyard",
+      "voice": "en",
+      "text": "lanyard",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lanyard",
+      "voice": "en",
+      "text": "L, A, N, Y, A, R, D",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lanyard",
+      "voice": "zh",
+      "text": "名词，挂绳，证件绳",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lanyard",
+      "voice": "en",
+      "text": "Your badge and lanyard must be worn in all restricted areas.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lanyard",
+      "voice": "zh",
+      "text": "在所有限制区域都必须佩戴证件和挂绳。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "podium",
+      "voice": "en",
+      "text": "podium",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "podium",
+      "voice": "en",
+      "text": "P, O, D, I, U, M",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "podium",
+      "voice": "zh",
+      "text": "名词，讲台，领奖台",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "podium",
+      "voice": "en",
+      "text": "The microphone on the podium is already turned on.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "podium",
+      "voice": "zh",
+      "text": "讲台上的麦克风已经打开。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "lectern",
+      "voice": "en",
+      "text": "lectern",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "lectern",
+      "voice": "en",
+      "text": "L, E, C, T, E, R, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "lectern",
+      "voice": "zh",
+      "text": "名词，讲桌，读稿台",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "lectern",
+      "voice": "en",
+      "text": "Speaker notes have been placed on the lectern.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "lectern",
+      "voice": "zh",
+      "text": "发言稿已放在讲桌上。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "projector",
+      "voice": "en",
+      "text": "projector",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "projector",
+      "voice": "en",
+      "text": "P, R, O, J, E, C, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "projector",
+      "voice": "zh",
+      "text": "名词，投影仪",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "projector",
+      "voice": "en",
+      "text": "The projector remote is in the drawer of the conference table.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "projector",
+      "voice": "zh",
+      "text": "投影仪遥控器在会议桌抽屉里。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "flipchart",
+      "voice": "en",
+      "text": "flipchart",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "flipchart",
+      "voice": "en",
+      "text": "F, L, I, P, C, H, A, R, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "flipchart",
+      "voice": "zh",
+      "text": "名词，活动挂纸板",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "flipchart",
+      "voice": "en",
+      "text": "Please leave the flipchart notes on the stand for the afternoon group.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "flipchart",
+      "voice": "zh",
+      "text": "请把挂纸板上的记录留给下午的小组。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "laser-pointer",
+      "voice": "en",
+      "text": "laser pointer",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "laser-pointer",
+      "voice": "en",
+      "text": "L, A, S, E, R, hyphen, P, O, I, N, T, E, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "laser-pointer",
+      "voice": "zh",
+      "text": "名词，激光笔",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "laser-pointer",
+      "voice": "en",
+      "text": "The presenter asked for a laser-pointer and a spare set of batteries.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "laser-pointer",
+      "voice": "zh",
+      "text": "演讲人要了一支激光笔和一组备用电池。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "absent",
+      "voice": "en",
+      "text": "absent",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "absent",
+      "voice": "en",
+      "text": "A, B, S, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "absent",
+      "voice": "zh",
+      "text": "形容词，缺席的，不在场的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "absent",
+      "voice": "en",
+      "text": "Three members were absent from this morning's budget meeting.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "absent",
+      "voice": "zh",
+      "text": "今天上午的预算会议有三名成员缺席。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "accessory",
+      "voice": "en",
+      "text": "accessory",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "accessory",
+      "voice": "en",
+      "text": "A, C, C, E, S, S, O, R, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "accessory",
+      "voice": "zh",
+      "text": "名词，附件，配件",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "accessory",
+      "voice": "en",
+      "text": "The laptop is sold with a carrying case and other accessories.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "accessory",
+      "voice": "zh",
+      "text": "这款笔记本电脑配有提包及其他配件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "administration",
+      "voice": "en",
+      "text": "administration",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "administration",
+      "voice": "en",
+      "text": "A, D, M, I, N, I, S, T, R, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "administration",
+      "voice": "zh",
+      "text": "名词，管理，行政部门",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "administration",
+      "voice": "en",
+      "text": "The administration has approved a new visitor registration procedure.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "administration",
+      "voice": "zh",
+      "text": "行政部门已批准新的访客登记流程。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "administrative",
+      "voice": "en",
+      "text": "administrative",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "administrative",
+      "voice": "en",
+      "text": "A, D, M, I, N, I, S, T, R, A, T, I, V, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "administrative",
+      "voice": "zh",
+      "text": "形容词，行政的，管理的",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "administrative",
+      "voice": "en",
+      "text": "The role includes light administrative work and calendar management.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "administrative",
+      "voice": "zh",
+      "text": "该职位包含少量行政工作和日程管理。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "administrator",
+      "voice": "en",
+      "text": "administrator",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "administrator",
+      "voice": "en",
+      "text": "A, D, M, I, N, I, S, T, R, A, T, O, R",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "administrator",
+      "voice": "zh",
+      "text": "名词，管理员，行政主管",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "administrator",
+      "voice": "en",
+      "text": "Please contact the system administrator if you cannot log in.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "administrator",
+      "voice": "zh",
+      "text": "如果无法登录，请联系系统管理员。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "admit",
+      "voice": "en",
+      "text": "admit",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "admit",
+      "voice": "en",
+      "text": "A, D, M, I, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "admit",
+      "voice": "zh",
+      "text": "动词，承认，准许进入",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "admit",
+      "voice": "en",
+      "text": "The security desk will admit visitors only with a confirmed appointment.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "admit",
+      "voice": "zh",
+      "text": "保安台仅允许已确认预约的访客进入。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "advancement",
+      "voice": "en",
+      "text": "advancement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "advancement",
+      "voice": "en",
+      "text": "A, D, V, A, N, C, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "advancement",
+      "voice": "zh",
+      "text": "名词，晋升，进展",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "advancement",
+      "voice": "en",
+      "text": "The firm offers clear paths for career advancement.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "advancement",
+      "voice": "zh",
+      "text": "公司提供清晰的职业晋升路径。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "agree",
+      "voice": "en",
+      "text": "agree",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "agree",
+      "voice": "en",
+      "text": "A, G, R, E, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "agree",
+      "voice": "zh",
+      "text": "动词，同意，达成一致",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "agree",
+      "voice": "en",
+      "text": "Both sides agreed to extend the contract by one year.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "agree",
+      "voice": "zh",
+      "text": "双方同意将合同延长一年。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "allocation",
+      "voice": "en",
+      "text": "allocation",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "allocation",
+      "voice": "en",
+      "text": "A, L, L, O, C, A, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "allocation",
+      "voice": "zh",
+      "text": "名词，分配，拨款",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "allocation",
+      "voice": "en",
+      "text": "The marketing allocation for the third quarter has been increased.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "allocation",
+      "voice": "zh",
+      "text": "第三季度的市场营销拨款已增加。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "allow",
+      "voice": "en",
+      "text": "allow",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "allow",
+      "voice": "en",
+      "text": "A, L, L, O, W",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "allow",
+      "voice": "zh",
+      "text": "动词，允许，准许",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "allow",
+      "voice": "en",
+      "text": "The policy does not allow personal software on company laptops.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "allow",
+      "voice": "zh",
+      "text": "该政策不允许在公司笔记本电脑上安装个人软件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "annually",
+      "voice": "en",
+      "text": "annually",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "annually",
+      "voice": "en",
+      "text": "A, N, N, U, A, L, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "annually",
+      "voice": "zh",
+      "text": "副词，每年，一年一次",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "annually",
+      "voice": "en",
+      "text": "Fire-safety training is conducted annually for all staff.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "annually",
+      "voice": "zh",
+      "text": "所有员工每年都要参加消防安全培训。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "apologize",
+      "voice": "en",
+      "text": "apologize",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "apologize",
+      "voice": "en",
+      "text": "A, P, O, L, O, G, I, Z, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "apologize",
+      "voice": "zh",
+      "text": "动词，道歉",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "apologize",
+      "voice": "en",
+      "text": "We apologize for the delay and have shipped a replacement today.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "apologize",
+      "voice": "zh",
+      "text": "我们对延误表示歉意，并已于今天寄出替换件。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "appliance",
+      "voice": "en",
+      "text": "appliance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "appliance",
+      "voice": "en",
+      "text": "A, P, P, L, I, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "appliance",
+      "voice": "zh",
+      "text": "名词，器具，家用电器",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "appliance",
+      "voice": "en",
+      "text": "The showroom displays kitchen appliances for the hotel renovation.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "appliance",
+      "voice": "zh",
+      "text": "展厅陈列着酒店翻修用的厨房电器。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "arrangement",
+      "voice": "en",
+      "text": "arrangement",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "arrangement",
+      "voice": "en",
+      "text": "A, R, R, A, N, G, E, M, E, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "arrangement",
+      "voice": "zh",
+      "text": "名词，安排，布置",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "arrangement",
+      "voice": "en",
+      "text": "Travel arrangements for the trade show have already been confirmed.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "arrangement",
+      "voice": "zh",
+      "text": "展会的差旅安排已经确认。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "assembly",
+      "voice": "en",
+      "text": "assembly",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "assembly",
+      "voice": "en",
+      "text": "A, S, S, E, M, B, L, Y",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "assembly",
+      "voice": "zh",
+      "text": "名词，装配，集会",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "assembly",
+      "voice": "en",
+      "text": "The final assembly of the machines takes place at the Shenzhen plant.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "assembly",
+      "voice": "zh",
+      "text": "机器的最终装配在深圳工厂完成。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "assistance",
+      "voice": "en",
+      "text": "assistance",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "assistance",
+      "voice": "en",
+      "text": "A, S, S, I, S, T, A, N, C, E",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "assistance",
+      "voice": "zh",
+      "text": "名词，帮助，协助",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "assistance",
+      "voice": "en",
+      "text": "Please call the help desk if you need assistance with the new software.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "assistance",
+      "voice": "zh",
+      "text": "如果使用新软件需要帮助，请致电服务台。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "assistant",
+      "voice": "en",
+      "text": "assistant",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "assistant",
+      "voice": "en",
+      "text": "A, S, S, I, S, T, A, N, T",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "assistant",
+      "voice": "zh",
+      "text": "名词，助理，助手",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "assistant",
+      "voice": "en",
+      "text": "My assistant will send you the signed copies this afternoon.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "assistant",
+      "voice": "zh",
+      "text": "我的助理今天下午会把已签字的副本发给你。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "word",
+      "word": "assumption",
+      "voice": "en",
+      "text": "assumption",
+      "pause_after_ms": 650
+    },
+    {
+      "kind": "spelling",
+      "word": "assumption",
+      "voice": "en",
+      "text": "A, S, S, U, M, P, T, I, O, N",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "meaning",
+      "word": "assumption",
+      "voice": "zh",
+      "text": "名词，假定，设想",
+      "pause_after_ms": 700
+    },
+    {
+      "kind": "example",
+      "word": "assumption",
+      "voice": "en",
+      "text": "The forecast is based on the assumption that raw-material prices stay flat.",
+      "pause_after_ms": 550
+    },
+    {
+      "kind": "translation",
+      "word": "assumption",
+      "voice": "zh",
+      "text": "该预测基于原材料价格保持平稳的假定。",
+      "pause_after_ms": 1500
+    },
+    {
+      "kind": "outro",
+      "voice": "zh",
+      "text": "第58轨结束。",
+      "pause_after_ms": 400
+    }
+  ]
+}
