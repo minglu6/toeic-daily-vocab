@@ -4,7 +4,9 @@
 Headwords → audio/<slug>.mp3
 Example sentences → audio/ex/<sha256-16>.mp3  (en-US-JennyNeural)
 
-Hash = SHA-256 hex[:16] of UTF-8(casefold(collapse_ws(strip(text)))).
+Hash = SHA-256 hex[:16] of UTF-8(casefold(collapse_ws(strip(html.unescape(text))))).
+Day pages store apostrophes as &#x27; (and may use other entities); hashing and TTS
+use the decoded spoken sentence, not the raw inner HTML.
 Day pages are patched so each <en> gets data-audio="ex/<hash>.mp3".
 
 Usage examples:
@@ -42,6 +44,7 @@ from __future__ import annotations
 import argparse
 import asyncio
 import hashlib
+import html
 import os
 import re
 import shutil
@@ -89,17 +92,26 @@ def slug_of(word: str) -> str:
 
 
 def speak_text_word(word: str) -> str:
-    return word.strip().replace("-", " ")
+    return html.unescape(word).strip().replace("-", " ")
+
+
+def spoken_sentence(text: str) -> str:
+    """Decode HTML entities, then trim + collapse whitespace for TTS.
+
+    <en> inner HTML is the source of truth on disk, but the voice must speak
+    the visible sentence (o'clock, year's, don't) rather than &#x27;.
+    """
+    return re.sub(r"\s+", " ", html.unescape(text).strip())
 
 
 def normalize_sentence(text: str) -> str:
-    """Shared hash key: trim, collapse whitespace, casefold."""
-    return re.sub(r"\s+", " ", text.strip()).casefold()
+    """Shared hash key: unescape entities, trim, collapse whitespace, casefold."""
+    return spoken_sentence(text).casefold()
 
 
 def speak_text_sentence(text: str) -> str:
-    """TTS text: trim + collapse whitespace; keep original case."""
-    return re.sub(r"\s+", " ", text.strip())
+    """TTS text: unescape entities, trim + collapse whitespace; keep original case."""
+    return spoken_sentence(text)
 
 
 def sentence_hash(text: str) -> str:
@@ -120,8 +132,8 @@ def words_from_all_days() -> list[str]:
     return found
 
 
-def sentences_from_html(html: str) -> list[str]:
-    return [m.group(2) for m in EN_RE.finditer(html)]
+def sentences_from_html(page: str) -> list[str]:
+    return [spoken_sentence(m.group(2)) for m in EN_RE.finditer(page)]
 
 
 def sentences_from_day(day: str) -> list[str]:
@@ -147,7 +159,7 @@ def day_paths(day: str | None) -> list[Path]:
     return sorted(DAYS.glob("*.html"))
 
 
-def patch_en_data_audio(html: str) -> tuple[str, int]:
+def patch_en_data_audio(page: str) -> tuple[str, int]:
     """Ensure each <en> has data-audio=\"ex/<hash>.mp3\". Returns (html, changes)."""
 
     def repl(m: re.Match[str]) -> str:
@@ -162,9 +174,34 @@ def patch_en_data_audio(html: str) -> tuple[str, int]:
             return f'<en {attrs2} data-audio="{rel}">{inner}</en>'
         return f'<en data-audio="{rel}">{inner}</en>'
 
-    new_html, n = EN_RE.subn(repl, html)
+    new_html, n = EN_RE.subn(repl, page)
     # Count actual attribute writes (subn counts all matches)
     return new_html, n
+
+
+def referenced_example_mp3s() -> set[str]:
+    names: set[str] = set()
+    for path in DAYS.glob("*.html"):
+        for m in re.finditer(r'data-audio="ex/([^"]+)"', path.read_text(encoding="utf-8")):
+            names.add(m.group(1))
+    return names
+
+
+def remove_unreferenced_example_mp3s() -> int:
+    """Delete audio/ex/*.mp3 files no longer pointed at by any day page."""
+    if not AUDIO_EX.exists():
+        return 0
+    keep = referenced_example_mp3s()
+    removed = 0
+    for path in sorted(AUDIO_EX.glob("*.mp3")):
+        if path.name in keep:
+            continue
+        path.unlink()
+        removed += 1
+        print(f"remove orphan {path.name}")
+    if removed:
+        print(f"orphans: removed {removed}")
+    return removed
 
 
 def patch_day_pages(day: str | None) -> int:
@@ -398,6 +435,7 @@ def main() -> int:
         else:
             fails += asyncio.run(run_sentences(sentences, args.force))
         patch_day_pages(args.day)
+        remove_unreferenced_example_mp3s()
 
     return 1 if fails else 0
 
