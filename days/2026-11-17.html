@@ -1,0 +1,931 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>今日托业单词 · 11/17 ×30</title>
+<style>
+
+  :root {
+    --bg-page: #FAF7F2;
+    --bg-surface: #F2EDE6;
+    --bg-card: #FFFcf8;
+    --accent: #3D7A5C;
+    --accent-soft: #E4EFE8;
+    --text-primary: #0f0e0e;
+    --text-body: #4a525a;
+    --text-muted: #8b949e;
+    --rule: #E6E0D6;
+    --dark: #141414;
+  }
+  html { scroll-behavior: smooth; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #FAF7F2;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Songti SC", "Noto Serif CJK SC", serif;
+    color: var(--text-primary);
+    -webkit-font-smoothing: antialiased;
+  }
+  #sheet {
+    width: min(816px, 100%);
+    margin: 0 auto;
+    background: var(--bg-page);
+    padding: 0 0 40px;
+    min-height: 100vh;
+  }
+  .cover {
+    background: var(--dark);
+    color: #f5f2ec;
+    padding: 36px 44px 32px;
+  }
+  .tag {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #a8b5a0;
+    margin-bottom: 14px;
+  }
+  .cover h1 {
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+  }
+  .cover .sub {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #b8b2a8;
+    line-height: 1.5;
+  }
+  .meta {
+    margin-top: 22px;
+    display: flex;
+    gap: 18px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 11px;
+    color: #7a8078;
+  }
+  .list { padding: 28px 44px 0; }
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 18px 20px 16px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 0 rgba(15,14,14,0.03);
+  }
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .num {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 12px;
+    color: var(--accent);
+    min-width: 22px;
+  }
+  .word {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+  }
+  .ipa {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-right: 2px;
+  }
+  .pos {
+    margin-left: 2px;
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    font-weight: 600;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 64px 1fr;
+    gap: 6px 12px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: var(--text-body);
+  }
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+    padding-top: 2px;
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  .meaning { color: var(--text-primary); font-weight: 500; }
+  .collos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-size: 12px;
+    background: var(--bg-surface);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 3px 8px;
+    color: var(--text-primary);
+    font-family: ui-monospace, "SF Mono", Menlo, monospace;
+    max-width: 100%;
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.35;
+  }
+  .ex { margin-top: 2px; }
+  .ex en {
+    display: block;
+    font-style: italic;
+    color: var(--text-primary);
+  }
+  .ex zh {
+    display: block;
+    color: var(--text-muted);
+    font-size: 12.5px;
+    margin-top: 2px;
+  }
+  .footer {
+    margin: 22px 44px 0;
+    padding-top: 16px;
+    border-top: 1px solid var(--rule);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .kaodian {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 4px 10px;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .label.kaodian-label {
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .accent-bar {
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 0 0 18px;
+  }
+
+</style>
+<link rel="stylesheet" href="../assets/speak.css" />
+</head>
+<body>
+<div id="sheet">
+  <header class="cover">
+    <div class="tag">TOEIC · Daily Vocab</div>
+    <h1>今日托业单词</h1>
+    <p class="sub">商务高频 ×30 · 词义 / 词根 / 词源 / 考点 / 搭配 / 例句</p>
+    <div class="meta">
+      <span>2026.11.17</span>
+      <span>风</span>
+    </div>
+  </header>
+
+  <div class="list">
+    <div class="accent-bar"></div>
+    <article class="card">
+      <div class="head">
+        <span class="num">01</span>
+        <span class="word">one-on-one-meeting</span>
+        <span class="ipa">/ˌwʌn ɑːn ˈwʌn ˌmiːtɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">一对一面谈；单独会面</div>
+        <div class="label">词根</div><div>one-on-one（一对一的）+ meeting（会议）→ 仅由两人参加的单独面谈</div>
+        <div class="label">词源</div><div>one-on-one 原用于体育中的一对一对位，20 世纪后期进入职场英语，多指经理与下属的定期单独沟通，常写作 1:1 或 1-on-1</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/管理高频：schedule a one-on-one-meeting（安排一对一面谈）；hold a one-on-one-meeting（举行一对一面谈）；a weekly one-on-one-meeting（每周一次的一对一面谈）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">schedule a one-on-one-meeting（安排一对一面谈）</span><span class="chip">hold a one-on-one-meeting（举行一对一面谈）</span><span class="chip">a weekly one-on-one-meeting（每周一对一面谈）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/21e4976b85561cb0.mp3">Please schedule a one-on-one-meeting with each team member before the performance reviews begin.</en>
+          <zh>请在绩效评估开始前，与每位团队成员安排一次一对一面谈。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">02</span>
+        <span class="word">skip-level-meeting</span>
+        <span class="ipa">/ˈskɪp ˌlevl ˌmiːtɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">跨级会面；越级会议（上级与隔级下属的会议）</div>
+        <div class="label">词根</div><div>skip（跳过）+ level（层级）+ meeting（会议）→ 跳过直接主管、与隔级下属召开的会议</div>
+        <div class="label">词源</div><div>源自企业管理用语；skip-level meeting 指高层跳过中间管理层、直接听取一线或隔级员工意见的沟通机制</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/管理高频：hold a skip-level-meeting（召开跨级会面）；attend a skip-level-meeting（参加跨级会面）；a quarterly skip-level-meeting（季度跨级会面）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">hold a skip-level-meeting（召开跨级会面）</span><span class="chip">attend a skip-level-meeting（参加跨级会面）</span><span class="chip">a quarterly skip-level-meeting（季度跨级会面）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/60a67583c5a1333c.mp3">The vice president holds a skip-level-meeting each quarter to hear concerns that may not reach senior management.</en>
+          <zh>副总裁每个季度召开一次跨级会面，以便听取可能无法传至高层的意见。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">03</span>
+        <span class="word">morning-briefing</span>
+        <span class="ipa">/ˈmɔːrnɪŋ ˌbriːfɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">晨会通报；早间简报会</div>
+        <div class="label">词根</div><div>morning（早晨）+ briefing（简报）→ 在上午进行的简短情况通报会</div>
+        <div class="label">词源</div><div>brief 作动词意为“向某人简要说明”；briefing 在军事与航空中指任务前简报，后进入商务，morning briefing 多指当日工作安排的短会</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议高频：attend the morning-briefing（参加晨会通报）；hold a morning-briefing（召开晨会通报）；a daily morning-briefing（每日晨会通报）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">attend the morning-briefing（参加晨会通报）</span><span class="chip">hold a morning-briefing（召开晨会通报）</span><span class="chip">a daily morning-briefing（每日晨会通报）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/a817059b8ce9496f.mp3">All shift supervisors are expected to attend the morning-briefing at eight o&#x27;clock.</en>
+          <zh>所有轮班主管都应参加八点的晨会通报。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">04</span>
+        <span class="word">closing-session</span>
+        <span class="ipa">/ˈkloʊzɪŋ ˌseʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">闭幕式；会议的收尾场次</div>
+        <div class="label">词根</div><div>closing（结束的）+ session（一场会议）→ 活动或会议的最后一场正式环节</div>
+        <div class="label">词源</div><div>session 来自拉丁 sessio（坐下来开会的一段时间）；closing session 常见于研讨会与年会，用于总结成果并宣布后续安排，与 opening session 相对</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">会议/活动高频：attend the closing-session（参加闭幕式）；speak at the closing-session（在闭幕式上发言）；the conference closing-session（大会闭幕式）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">attend the closing-session（参加闭幕式）</span><span class="chip">speak at the closing-session（在闭幕式上发言）</span><span class="chip">the conference closing-session（大会闭幕式）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/ae9af9de2c5885d9.mp3">The keynote speaker will present the awards during the conference closing-session on Friday afternoon.</en>
+          <zh>主题演讲嘉宾将在周五下午的大会闭幕式上颁奖。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">05</span>
+        <span class="word">meeting-room</span>
+        <span class="ipa">/ˈmiːtɪŋ ruːm/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">会议室</div>
+        <div class="label">词根</div><div>meeting（会议）+ room（房间）→ 专门用于开会的房间</div>
+        <div class="label">词源</div><div>复合名词，商务与酒店场景极为常见；托业听力常与 reserve、book、available、occupied 等词一起出现</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公/预订高频：reserve a meeting-room（预订会议室）；book the meeting-room（预订该会议室）；the meeting-room is occupied（会议室已被占用）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reserve a meeting-room（预订会议室）</span><span class="chip">book the meeting-room（预订该会议室）</span><span class="chip">the meeting-room is occupied（会议室已被占用）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/689766bcae6a30b0.mp3">Please reserve a meeting-room on the third floor for tomorrow&#x27;s client presentation.</en>
+          <zh>请为明天的客户演示预订三楼的一间会议室。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">06</span>
+        <span class="word">organizational-chart</span>
+        <span class="ipa">/ˌɔːrɡənəˈzeɪʃənl tʃɑːrt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">组织架构图；组织图</div>
+        <div class="label">词根</div><div>organizational（组织的）+ chart（图表）→ 显示部门、职位与汇报关系的图表</div>
+        <div class="label">词源</div><div>organize 来自拉丁 organum（工具、器官），后指“加以组织”；organizational chart（亦作 org chart）在 20 世纪成为公司展示层级与汇报线的标准工具</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：update the organizational-chart（更新组织架构图）；an organizational-chart of the company（公司的组织架构图）；appear on the organizational-chart（出现在组织架构图上）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">update the organizational-chart（更新组织架构图）</span><span class="chip">an organizational-chart of the company（公司的组织架构图）</span><span class="chip">appear on the organizational-chart（出现在组织架构图上）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/f12a73a0077359d8.mp3">Human Resources will update the organizational-chart after the new regional directors are appointed.</en>
+          <zh>新任区域总监获任命后，人力资源部将更新组织架构图。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">07</span>
+        <span class="word">salary-review</span>
+        <span class="ipa">/ˈsæləri rɪˌvjuː/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">薪酬评审；薪资审核</div>
+        <div class="label">词根</div><div>salary（薪资）+ review（评审、复查）→ 定期评估并可能调整员工薪资的流程</div>
+        <div class="label">词源</div><div>salary 来自拉丁 salarium（原指发给罗马士兵的盐钱，后泛指俸禄）；salary review 是人力资源与绩效考核周期中的高频环节，常与 annual review、merit increase 一并出现</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR 高频：conduct a salary-review（进行薪酬评审）；an annual salary-review（年度薪酬评审）；schedule a salary-review（安排薪酬评审）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">conduct a salary-review（进行薪酬评审）</span><span class="chip">an annual salary-review（年度薪酬评审）</span><span class="chip">schedule a salary-review（安排薪酬评审）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/382690034726f101.mp3">Each employee will receive a salary-review in March based on last year&#x27;s performance ratings.</en>
+          <zh>每位员工将在三月根据上一年的绩效评级接受薪酬评审。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">08</span>
+        <span class="word">job-opening</span>
+        <span class="ipa">/ˈdʒɑːb ˌoʊpnɪŋ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">职位空缺；招聘名额</div>
+        <div class="label">词根</div><div>job（工作、职位）+ opening（空缺、开口）→ 尚待填补的职位空缺</div>
+        <div class="label">词源</div><div>opening 作“空缺、机会”解已久；job opening 为招聘启事与内部公告中的高频说法，与 vacancy、job posting 近义</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/招聘高频：fill a job-opening（填补职位空缺）；a job-opening in the sales department（销售部的职位空缺）；post a job-opening（发布职位空缺）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">fill a job-opening（填补职位空缺）</span><span class="chip">a job-opening in the sales department（销售部的职位空缺）</span><span class="chip">post a job-opening（发布职位空缺）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/687b75568bbe77b5.mp3">The human resources department posted a job-opening for a bilingual customer service representative.</en>
+          <zh>人力资源部发布了一个双语客服代表的职位空缺。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">09</span>
+        <span class="word">job-application</span>
+        <span class="ipa">/ˈdʒɑːb ˌæplɪˈkeɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">求职申请；职位申请书</div>
+        <div class="label">词根</div><div>job（职位）+ application（申请）→ 为获得某职位而提交的申请</div>
+        <div class="label">词源</div><div>apply 来自拉丁 applicare（贴上、致力于）；job application 可指申请行为，也可指申请表或申请材料本身，托业常与 submit、complete、review 搭配</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/招聘高频：submit a job-application（提交求职申请）；review job-applications（审阅求职申请）；complete a job-application（填写求职申请）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">submit a job-application（提交求职申请）</span><span class="chip">review job-applications（审阅求职申请）</span><span class="chip">complete a job-application（填写求职申请）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/3ece1df444cd8d8e.mp3">All candidates must submit a job-application and a resume by the closing date listed in the posting.</en>
+          <zh>所有申请人必须在招聘启事所列截止日期前提交求职申请和简历。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">10</span>
+        <span class="word">equal-opportunity</span>
+        <span class="ipa">/ˌiːkwəl ˌɑːpərˈtuːnəti/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">平等机会；（招聘等中的）机会均等</div>
+        <div class="label">词根</div><div>equal（平等的）+ opportunity（机会）→ 不因性别、年龄、种族等而区别对待的机会均等原则</div>
+        <div class="label">词源</div><div>源于 20 世纪民权与劳动法；equal opportunity employer / equal-opportunity policy 常见于招聘广告与员工手册，强调公平录用与晋升</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">HR/合规高频：an equal-opportunity employer（机会均等雇主）；an equal-opportunity policy（机会均等政策）；promote equal-opportunity（促进机会均等）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">an equal-opportunity employer（机会均等雇主）</span><span class="chip">an equal-opportunity policy（机会均等政策）</span><span class="chip">promote equal-opportunity（促进机会均等）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/7290a60dca1fcb45.mp3">The job posting states that the firm is an equal-opportunity employer and welcomes applications from all qualified candidates.</en>
+          <zh>该招聘启事写明本公司是机会均等雇主，欢迎所有合格申请人投递。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">11</span>
+        <span class="word">net-profit</span>
+        <span class="ipa">/net ˈprɑːfɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">净利润；纯利</div>
+        <div class="label">词根</div><div>net（净的、扣除后的）+ profit（利润）→ 扣除成本、费用与税项后的利润</div>
+        <div class="label">词源</div><div>net 源自古法语 net（干净的、清楚的），在会计中表示“扣除之后所剩”；net profit 与 gross profit 相对，是财报与业绩讨论中的核心指标</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：report a net-profit（公布净利润）；a decline in net-profit（净利润下降）；net-profit margin（净利润率）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">report a net-profit（公布净利润）</span><span class="chip">a decline in net-profit（净利润下降）</span><span class="chip">net-profit margin（净利润率）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/ad6e360121be0d4e.mp3">Despite higher operating costs, the company reported a net-profit of two million dollars in the third quarter.</en>
+          <zh>尽管运营成本上升，该公司仍在第三季度公布了两百万美元的净利润。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">12</span>
+        <span class="word">gross-profit</span>
+        <span class="ipa">/ɡroʊs ˈprɑːfɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">毛利；毛利润</div>
+        <div class="label">词根</div><div>gross（总的、未扣除的）+ profit（利润）→ 营业收入减去销售成本后、尚未扣除运营费用的利润</div>
+        <div class="label">词源</div><div>gross 来自拉丁 grossus（粗大的），商务中指未扣除的总额；gross profit 等于收入减去销售成本，是分析产品盈利能力的基础指标</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：calculate gross-profit（计算毛利）；gross-profit margin（毛利率）；an increase in gross-profit（毛利增加）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">calculate gross-profit（计算毛利）</span><span class="chip">gross-profit margin（毛利率）</span><span class="chip">an increase in gross-profit（毛利增加）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/797518787eb22fdf.mp3">The retailer improved its gross-profit by negotiating lower prices with its main suppliers.</en>
+          <zh>这家零售商通过与主要供应商谈判更低的价格，提高了毛利。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">13</span>
+        <span class="word">book-value</span>
+        <span class="ipa">/ˈbʊk ˌvæljuː/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">账面价值</div>
+        <div class="label">词根</div><div>book（账簿）+ value（价值）→ 按会计账簿记录的资产或公司价值</div>
+        <div class="label">词源</div><div>book 在此指公司账册；book value 是资产原值减去累计折旧（或公司净资产）后的账面金额，常与 market value 对照</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务高频：the book-value of an asset（一项资产的账面价值）；below book-value（低于账面价值）；calculate the book-value（计算账面价值）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">the book-value of an asset（一项资产的账面价值）</span><span class="chip">below book-value（低于账面价值）</span><span class="chip">calculate the book-value（计算账面价值）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/dbc2cec210c525e3.mp3">The warehouse is listed at a book-value of 800,000 dollars, which is well below its current market value.</en>
+          <zh>该仓库的账面价值为八十万美元，远低于目前的市场价值。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">14</span>
+        <span class="word">tax-deduction</span>
+        <span class="ipa">/ˈtæks dɪˈdʌkʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">税收扣除；可扣税项目</div>
+        <div class="label">词根</div><div>tax（税）+ deduction（扣除）→ 可从应税所得中扣除的金额或项目</div>
+        <div class="label">词源</div><div>deduct 来自拉丁 deducere（引出、减去）；tax deduction 指税法允许从收入中扣减的费用（如某些商务开支），与 tax credit 不同</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/税务高频：claim a tax-deduction（申报税收扣除）；a tax-deduction for business travel（商务差旅的税收扣除）；qualify for a tax-deduction（符合税收扣除条件）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">claim a tax-deduction（申报税收扣除）</span><span class="chip">a tax-deduction for business travel（商务差旅的税收扣除）</span><span class="chip">qualify for a tax-deduction（符合税收扣除条件）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/417c05cd107d93cf.mp3">Please keep all receipts so that the accounting team can claim a tax-deduction for the business meals.</en>
+          <zh>请保留所有收据，以便会计团队为商务餐费申报税收扣除。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">15</span>
+        <span class="word">break-even-point</span>
+        <span class="ipa">/breɪk ˈiːvn pɔɪnt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">盈亏平衡点；保本点</div>
+        <div class="label">词根</div><div>break even（收支相抵）+ point（点）→ 收入恰好覆盖全部成本、不盈不亏的临界点</div>
+        <div class="label">词源</div><div>break even 原为赌博与商业口语，指不输不赢；break-even point 在管理会计中指总收入等于总成本的销量或销售额</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">财务/经营高频：reach the break-even-point（达到盈亏平衡点）；above the break-even-point（高于盈亏平衡点）；calculate the break-even-point（计算盈亏平衡点）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">reach the break-even-point（达到盈亏平衡点）</span><span class="chip">above the break-even-point（高于盈亏平衡点）</span><span class="chip">calculate the break-even-point（计算盈亏平衡点）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/89b0352782bc015e.mp3">The new cafe is expected to reach its break-even-point within nine months of opening.</en>
+          <zh>这家新咖啡馆预计在开业九个月内达到盈亏平衡点。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">16</span>
+        <span class="word">complimentary-breakfast</span>
+        <span class="ipa">/ˌkɑːmplɪˈmentri ˈbrekfəst/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">免费早餐；赠送的早餐</div>
+        <div class="label">词根</div><div>complimentary（免费赠送的）+ breakfast（早餐）→ 住宿费用中附赠、不必另行付费的早餐</div>
+        <div class="label">词源</div><div>compliment 原指致意、赞美，complimentary 引申为“作为礼遇而免费提供的”；酒店预订中极为常见，注意勿与 complementary（互补的）混淆</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅/酒店高频：include a complimentary-breakfast（含免费早餐）；a complimentary-breakfast is served（提供免费早餐）；enjoy a complimentary-breakfast（享用免费早餐）。易混：complimentary（免费赠送的）与 complementary（互补的）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">include a complimentary-breakfast（含免费早餐）</span><span class="chip">a complimentary-breakfast is served（提供免费早餐）</span><span class="chip">enjoy a complimentary-breakfast（享用免费早餐）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/aff10396d4c6f95c.mp3">The corporate rate includes a complimentary-breakfast, which is served in the lobby from six to ten.</en>
+          <zh>协议价含免费早餐，早餐于六点至十点在大堂供应。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">17</span>
+        <span class="word">boarding-time</span>
+        <span class="ipa">/ˈbɔːrdɪŋ taɪm/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">登机时间</div>
+        <div class="label">词根</div><div>boarding（登机、上船）+ time（时间）→ 开始让乘客登机的时间</div>
+        <div class="label">词源</div><div>board 作动词意为“登上交通工具”；boarding time 出现在机票、登机牌与机场广播中，通常早于起飞时间</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅/机场高频：check the boarding-time（核对登机时间）；boarding-time has been delayed（登机时间已推迟）；arrive before boarding-time（在登机时间前到达）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">check the boarding-time（核对登机时间）</span><span class="chip">boarding-time has been delayed（登机时间已推迟）</span><span class="chip">arrive before boarding-time（在登机时间前到达）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/a4346ff2b10326fd.mp3">Passengers should arrive at the gate at least thirty minutes before the scheduled boarding-time.</en>
+          <zh>乘客应至少在预定登机时间前三十分钟到达登机口。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">18</span>
+        <span class="word">departure-lounge</span>
+        <span class="ipa">/dɪˈpɑːrtʃər laʊndʒ/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">候机大厅；出发候机室</div>
+        <div class="label">词根</div><div>departure（出发）+ lounge（休息厅）→ 旅客在登机前等候的出发大厅</div>
+        <div class="label">词源</div><div>lounge 原指懒散地倚靠，后指可供休息的厅室；departure lounge 是机场安检后、登机口附近的等候区，托业听力中常见</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅/机场高频：wait in the departure-lounge（在候机大厅等候）；the departure-lounge on the second floor（二楼的候机大厅）；proceed to the departure-lounge（前往候机大厅）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">wait in the departure-lounge（在候机大厅等候）</span><span class="chip">the departure-lounge on the second floor（二楼的候机大厅）</span><span class="chip">proceed to the departure-lounge（前往候机大厅）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/6d5e950e4fb6801d.mp3">After clearing security, please proceed to the departure-lounge and listen for announcements about your gate.</en>
+          <zh>通过安检后，请前往候机大厅，并留意有关登机口的广播。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">19</span>
+        <span class="word">visa-application</span>
+        <span class="ipa">/ˈviːzə ˌæplɪˈkeɪʃn/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">签证申请</div>
+        <div class="label">词根</div><div>visa（签证）+ application（申请）→ 为获得入境签证而提交的申请</div>
+        <div class="label">词源</div><div>visa 来自拉丁 charta visa（已查看的文件），原为护照上的签注；visa application 是因公出行与外派的高频手续，常与 submit、process、approve 连用</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅高频：submit a visa-application（提交签证申请）；process a visa-application（办理签证申请）；a business visa-application（商务签证申请）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">submit a visa-application（提交签证申请）</span><span class="chip">process a visa-application（办理签证申请）</span><span class="chip">a business visa-application（商务签证申请）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/dffc920aaf21eed4.mp3">Employees traveling to the regional office must submit a visa-application at least four weeks before departure.</en>
+          <zh>前往地区办事处的员工必须至少在出发前四周提交签证申请。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">20</span>
+        <span class="word">customs-clearance</span>
+        <span class="ipa">/ˈkʌstəmz ˌklɪrəns/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">清关；海关放行</div>
+        <div class="label">词根</div><div>customs（海关）+ clearance（放行、结关）→ 货物或旅客通过海关检查并获准进出境的手续</div>
+        <div class="label">词源</div><div>customs 指关税及负责征税的机关；clearance 在此为“获准通过”；customs clearance 是进出口与国际货运的核心环节，延误会影响交货期</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">差旅/物流高频：complete customs-clearance（完成清关）；a delay in customs-clearance（清关延误）；customs-clearance documents（清关文件）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">complete customs-clearance（完成清关）</span><span class="chip">a delay in customs-clearance（清关延误）</span><span class="chip">customs-clearance documents（清关文件）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/206c754f9c1f2b03.mp3">The shipment will be released to the warehouse as soon as customs-clearance has been completed.</en>
+          <zh>一旦完成清关，这批货物就会放行至仓库。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">21</span>
+        <span class="word">open-plan-office</span>
+        <span class="ipa">/ˌoʊpən plæn ˈɔːfɪs/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">开放式办公区；无隔间的办公空间</div>
+        <div class="label">词根</div><div>open-plan（开放式布局的）+ office（办公室）→ 没有封闭隔间、工位连成一片的办公空间</div>
+        <div class="label">词源</div><div>open-plan 源自建筑与室内设计，指少用隔墙的布局；20 世纪后期起，open-plan office 成为降低成本、促进协作的常见办公形态</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公高频：work in an open-plan-office（在开放式办公区工作）；move to an open-plan-office（迁入开放式办公区）；an open-plan-office layout（开放式办公布局）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">work in an open-plan-office（在开放式办公区工作）</span><span class="chip">move to an open-plan-office（迁入开放式办公区）</span><span class="chip">an open-plan-office layout（开放式办公布局）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/7dfb9029464e18cc.mp3">The renovation will convert the third floor into an open-plan-office to encourage collaboration among project teams.</en>
+          <zh>此次翻新将把三楼改造成开放式办公区，以促进项目团队之间的协作。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">22</span>
+        <span class="word">photocopier</span>
+        <span class="ipa">/ˈfoʊtoʊˌkɑːpiər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">复印机</div>
+        <div class="label">词根</div><div>photo-（光、影像）+ copy（复制）+ -er（器具）→ 用光学方式复制文件的机器</div>
+        <div class="label">词源</div><div>photocopy 由 photo + copy 构成，20 世纪中期随静电复印技术普及；photocopier（亦称 copy machine）是办公室通知中的高频设备名，常与 jammed、out of paper 一起出现</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公高频：the photocopier is jammed（复印机卡纸了）；use the photocopier（使用复印机）；the photocopier is out of order（复印机出故障了）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">the photocopier is jammed（复印机卡纸了）</span><span class="chip">use the photocopier（使用复印机）</span><span class="chip">the photocopier is out of order（复印机出故障了）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/7285f8f6f93beb67.mp3">The photocopier on the second floor is out of order, so please use the machine next to the mailroom instead.</en>
+          <zh>二楼的复印机出故障了，请改用收发室旁边的那台机器。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">23</span>
+        <span class="word">parking-permit</span>
+        <span class="ipa">/ˈpɑːrkɪŋ pərˌmɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">停车证；停车许可</div>
+        <div class="label">词根</div><div>parking（停车）+ permit（许可证）→ 允许在指定区域停车的证件或许可</div>
+        <div class="label">词源</div><div>permit 来自拉丁 permittere（允许）；公司、校园与客户来访场景中常要求办理 parking permit，是托业通知题中的高频搭配</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公/行政高频：apply for a parking-permit（申请停车证）；display a parking-permit（出示或摆放停车证）；a visitor parking-permit（访客停车证）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">apply for a parking-permit（申请停车证）</span><span class="chip">display a parking-permit（出示或摆放停车证）</span><span class="chip">a visitor parking-permit（访客停车证）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/4fd29982ea113a21.mp3">Employees must display a parking-permit on the dashboard to use the reserved spaces behind the building.</en>
+          <zh>员工必须在仪表板上放置停车证，才能使用大楼后方的预留车位。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">24</span>
+        <span class="word">first-aid-kit</span>
+        <span class="ipa">/ˌfɜːrst ˈeɪd kɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">急救箱；急救包</div>
+        <div class="label">词根</div><div>first aid（急救）+ kit（成套工具）→ 装有应急药品与用品的箱子</div>
+        <div class="label">词源</div><div>first aid 于 19 世纪指在专业医护到达前给予的紧急救助；kit 指一套用具。职场安全规范常要求在显眼位置配备 first-aid kit</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公/安全高频：keep a first-aid-kit（配备急救箱）；a well-stocked first-aid-kit（备货齐全的急救箱）；locate the first-aid-kit（找到急救箱的位置）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">keep a first-aid-kit（配备急救箱）</span><span class="chip">a well-stocked first-aid-kit（备货齐全的急救箱）</span><span class="chip">locate the first-aid-kit（找到急救箱的位置）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/5325d8a3346622fc.mp3">A first-aid-kit is mounted on the wall near the reception desk on every floor.</en>
+          <zh>每一层靠近前台的墙上都挂有一个急救箱。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">25</span>
+        <span class="word">suggestion-box</span>
+        <span class="ipa">/səɡˈdʒestʃən bɑːks/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">意见箱；建议箱</div>
+        <div class="label">词根</div><div>suggestion（建议）+ box（箱子）→ 供员工或客户投放意见与建议的箱子（或电子信箱）</div>
+        <div class="label">词源</div><div>复合名词，源于把书面建议投入实物箱子的做法；现代也可指电子意见箱。托业通知中常鼓励员工把意见放入 suggestion box</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">办公/沟通高频：put a note in the suggestion-box（把意见投入意见箱）；an anonymous suggestion-box（匿名意见箱）；check the suggestion-box（查看意见箱）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">put a note in the suggestion-box（把意见投入意见箱）</span><span class="chip">an anonymous suggestion-box（匿名意见箱）</span><span class="chip">check the suggestion-box（查看意见箱）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/c20e24874b6b7e5b.mp3">Staff are invited to place comments in the suggestion-box outside the human resources office.</en>
+          <zh>欢迎员工把意见放入人力资源办公室门外的意见箱。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">26</span>
+        <span class="word">promotional-offer</span>
+        <span class="ipa">/prəˈmoʊʃənl ˌɔːfər/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">促销优惠；推广活动中的优惠</div>
+        <div class="label">词根</div><div>promotional（促销的、推广的）+ offer（报价、优惠）→ 为推广产品或服务而提供的限期优惠</div>
+        <div class="label">词源</div><div>promote 来自拉丁 promovere（向前推进）；promotional offer 常见于广告、传单与邮件促销，包括折扣、赠品或捆绑销售</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销高频：launch a promotional-offer（推出促销优惠）；a limited-time promotional-offer（限时促销优惠）；take advantage of a promotional-offer（利用促销优惠）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">launch a promotional-offer（推出促销优惠）</span><span class="chip">a limited-time promotional-offer（限时促销优惠）</span><span class="chip">take advantage of a promotional-offer（利用促销优惠）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/d9592db90f9d81a8.mp3">The store is running a promotional-offer that gives customers twenty percent off all office furniture this week.</en>
+          <zh>该店本周正在进行促销优惠，所有办公家具一律八折。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">27</span>
+        <span class="word">advertising-budget</span>
+        <span class="ipa">/ˈædvərtaɪzɪŋ ˌbʌdʒɪt/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">广告预算</div>
+        <div class="label">词根</div><div>advertising（广告）+ budget（预算）→ 专门用于广告投放的预算额度</div>
+        <div class="label">词源</div><div>advertise 来自拉丁 advertere（使注意）；advertising budget 是市场部门年度规划的核心科目，托业常考超支、削减或重新分配广告预算</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销/财务高频：increase the advertising-budget（增加广告预算）；allocate the advertising-budget（分配广告预算）；cut the advertising-budget（削减广告预算）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">increase the advertising-budget（增加广告预算）</span><span class="chip">allocate the advertising-budget（分配广告预算）</span><span class="chip">cut the advertising-budget（削减广告预算）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/731798a87cdde340.mp3">Marketing has asked finance to increase the advertising-budget for the product launch in the spring.</en>
+          <zh>市场部已请财务部增加春季产品发布的广告预算。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">28</span>
+        <span class="word">brand-guidelines</span>
+        <span class="ipa">/ˈbrænd ˌɡaɪdlaɪnz/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">品牌规范；品牌视觉与用语指南</div>
+        <div class="label">词根</div><div>brand（品牌）+ guidelines（指导原则）→ 规定品牌标识、色彩与用语应如何使用的规范文件</div>
+        <div class="label">词源</div><div>guideline 原指辅助测量的引导线，后引申为“指导原则”；brand guidelines（亦称 brand book）供内部团队与外部供应商统一视觉与语气</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">营销高频：follow the brand-guidelines（遵循品牌规范）；update the brand-guidelines（更新品牌规范）；comply with the brand-guidelines（遵守品牌规范）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">follow the brand-guidelines（遵循品牌规范）</span><span class="chip">update the brand-guidelines（更新品牌规范）</span><span class="chip">comply with the brand-guidelines（遵守品牌规范）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/6f55b54db55e98b0.mp3">All external agencies must follow the brand-guidelines when they design advertisements for our products.</en>
+          <zh>所有外部代理公司在为我们的产品设计广告时，都必须遵循品牌规范。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">29</span>
+        <span class="word">scope-of-work</span>
+        <span class="ipa">/ˌskoʊp əv ˈwɜːrk/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">工作范围；（合同中的）工作说明书范围</div>
+        <div class="label">词根</div><div>scope（范围）+ of + work（工作）→ 合同或项目中约定的工作内容与边界</div>
+        <div class="label">词源</div><div>scope 来自意大利语 scopo / 拉丁 scopus（目标）；scope of work（常缩写 SOW）是项目与服务合同的核心部分，用来界定交付物、期限与不包括的事项</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/项目高频：define the scope-of-work（界定工作范围）；beyond the scope-of-work（超出工作范围）；a detailed scope-of-work（详细的工作范围）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">define the scope-of-work（界定工作范围）</span><span class="chip">beyond the scope-of-work（超出工作范围）</span><span class="chip">a detailed scope-of-work（详细的工作范围）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/a1a018ce8477241d.mp3">Any task that falls beyond the agreed scope-of-work will require a written change order and additional fees.</en>
+          <zh>任何超出约定工作范围的任务，都需要书面变更单并另行收费。</zh>
+        </div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="head">
+        <span class="num">30</span>
+        <span class="word">non-compete-clause</span>
+        <span class="ipa">/ˌnɑːn kəmˈpiːt klɔːz/</span>
+        <span class="pos">n.</span>
+      </div>
+      <div class="grid">
+        <div class="label">词义</div><div class="meaning">竞业禁止条款；竞业限制条款</div>
+        <div class="label">词根</div><div>non-（不）+ compete（竞争）+ clause（条款）→ 限制一方在约定期限或区域内与对方竞争的合同条款</div>
+        <div class="label">词源</div><div>compete 来自拉丁 competere（共同追求）；non-compete clause 常见于劳动合同与并购协议，用来限制离职员工或卖方在特定时间、地区从事同类业务</div>
+        <div class="label kaodian-label">考点</div><div class="kaodian">合同/HR 高频：a non-compete-clause in the contract（合同中的竞业禁止条款）；enforce a non-compete-clause（执行竞业禁止条款）；sign a non-compete-clause（签署竞业禁止条款）</div>
+        <div class="label">搭配</div>
+        <div class="collos">
+          <span class="chip">a non-compete-clause in the contract（合同中的竞业禁止条款）</span><span class="chip">enforce a non-compete-clause（执行竞业禁止条款）</span><span class="chip">sign a non-compete-clause（签署竞业禁止条款）</span>
+        </div>
+        <div class="label">例句</div>
+        <div class="ex">
+          <en data-audio="ex/919d79e303dd10d6.mp3">The employment contract includes a non-compete-clause that prevents former staff from joining a direct competitor for one year.</en>
+          <zh>该劳动合同含有竞业禁止条款，禁止前员工在一年内加入直接竞争对手。</zh>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <footer class="footer">
+    托业商务高频 · 每日 30 词 · Quiet Paper · 风
+  </footer>
+</div>
+<script src="../assets/speak.js" defer><\/script>
+</body>
+</html>
